@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "並列",
+    "reading": "へいれつ",
+    "romaji": "heiretsu",
+    "jlpt": "N1",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "susunan",
+          "sejajar",
+          "berdampingan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "parallel (electronics, computing, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "陳列",
+      "reading": "ちんれつ",
+      "meaning": "pameran, pertunjukan, penampilan"
+    },
+    {
+      "word": "配列",
+      "reading": "はいれつ",
+      "meaning": "susunan, array (pemrograman)"
+    },
+    {
+      "word": "連ねる",
+      "reading": "つらねる",
+      "meaning": "untuk menghubungkan, untuk menggabungkan, untuk menyatukan"
+    },
+    {
+      "word": "整列",
+      "reading": "せいれつ",
+      "meaning": "berdiri berbaris, membentuk barisan"
+    },
+    {
+      "word": "並ぶ",
+      "reading": "ならぶ",
+      "meaning": "berbaris, berdiri dalam barisan (v.i.)"
+    },
+    {
+      "word": "連なる",
+      "reading": "つらなる",
+      "meaning": "untuk membentangkan, untuk merentangkan, untuk berdiri berbaris"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

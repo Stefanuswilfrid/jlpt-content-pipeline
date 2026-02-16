@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "私有",
+    "reading": "しゆう",
+    "romaji": "shiyuu",
+    "jlpt": "N1",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "kepemilikan pribadi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "固有",
+      "reading": "こゆう",
+      "meaning": "ciri khas, tradisi, unik"
+    },
+    {
+      "word": "特有",
+      "reading": "とくゆう",
+      "meaning": "ciri khas (dari, unik (bagi))"
+    },
+    {
+      "word": "国有",
+      "reading": "こくゆう",
+      "meaning": "kepemilikan nasional"
+    },
+    {
+      "word": "有望",
+      "reading": "ゆうぼう",
+      "meaning": "prospek bagus, penuh harapan, menjanjikan"
+    },
+    {
+      "word": "有益",
+      "reading": "ゆうえき",
+      "meaning": "bermanfaat, menguntungkan"
+    },
+    {
+      "word": "有力",
+      "reading": "ゆうりょく",
+      "meaning": "pengaruh, keunggulan; ampuh"
+    },
+    {
+      "word": "所有",
+      "reading": "しょゆう",
+      "meaning": "harta benda seseorang, kepemilikan"
+    },
+    {
+      "word": "私物",
+      "reading": "しぶつ",
+      "meaning": "harta pribadi, barang-barang pribadi"
+    },
+    {
+      "word": "有する",
+      "reading": "ゆうする",
+      "meaning": "memiliki, dikaruniai"
+    },
+    {
+      "word": "私鉄",
+      "reading": "してつ",
+      "meaning": "kereta api swasta"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼はわれわれの私有地に不法侵入している、無断で通っている。",
+      "reading": null,
+      "indonesian": "He is trespassing on our private property.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はわれわれの私有地に不法侵入している、無断で通っている。",
+      "reading": null,
+      "indonesian": "He is trespassing on our private property.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "製鉄",
+    "reading": "せいてつ",
+    "romaji": "seitetsu",
+    "jlpt": "N1",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "iron manufacture"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "製法",
+      "reading": "せいほう",
+      "meaning": "manufacturing method"
+    },
+    {
+      "word": "鉄棒",
+      "reading": "てつぼう",
+      "meaning": "iron rod"
+    },
+    {
+      "word": "鉄鋼",
+      "reading": "てっこう",
+      "meaning": "iron and steel"
+    },
+    {
+      "word": "金槌",
+      "reading": "かなづち",
+      "meaning": "hammer"
+    },
+    {
+      "word": "製造",
+      "reading": "せいぞう",
+      "meaning": "manufacture"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その製鉄工場を建てるのは非常に大変な事業だった。",
+      "reading": null,
+      "english": "Building the steel factory was a great enterprise.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は長く製鉄業を支配したが、完全な独占には至らなかった。",
+      "reading": null,
+      "english": "Though he long dominated the steel industry, he never achieved a complete monopoly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その製鉄工場を建てるのは非常に大変な事業だった。",
+      "reading": null,
+      "english": "Building the steel factory was a great enterprise.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は長く製鉄業を支配したが、完全な独占には至らなかった。",
+      "reading": null,
+      "english": "Though he long dominated the steel industry, he never achieved a complete monopoly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

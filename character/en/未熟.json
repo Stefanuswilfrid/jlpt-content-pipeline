@@ -1,0 +1,172 @@
+{
+  "definition": {
+    "word": "未熟",
+    "reading": "みじゅく",
+    "romaji": "mijuku",
+    "jlpt": "N1",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unripe",
+          "green",
+          "immature"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "immature",
+          "inexperienced",
+          "unskilled",
+          "green"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "未婚",
+      "reading": "みこん",
+      "meaning": "unmarried"
+    },
+    {
+      "word": "未知",
+      "reading": "みち",
+      "meaning": "not yet known"
+    },
+    {
+      "word": "成熟",
+      "reading": "せいじゅく",
+      "meaning": "maturity"
+    },
+    {
+      "word": "未練",
+      "reading": "みれん",
+      "meaning": "lingering attachment"
+    },
+    {
+      "word": "未定",
+      "reading": "みてい",
+      "meaning": "not yet fixed"
+    },
+    {
+      "word": "未だ",
+      "reading": "まだ",
+      "meaning": "still"
+    },
+    {
+      "word": "未開",
+      "reading": "みかい",
+      "meaning": "uncivilized"
+    },
+    {
+      "word": "未満",
+      "reading": "みまん",
+      "meaning": "less than"
+    },
+    {
+      "word": "未来",
+      "reading": "みらい",
+      "meaning": "(distant) future"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "娘は未熟児でした。",
+      "reading": null,
+      "english": "My daughter was premature.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは私達を未熟者として軽蔑する。",
+      "reading": null,
+      "english": "They look down on us as inexperienced young men.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は商売はまだ未熟だ。",
+      "reading": null,
+      "english": "He is still green in business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼のフランス語の知識は未熟だ。",
+      "reading": null,
+      "english": "His knowledge of French is poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "子供は未熟児でした。",
+      "reading": null,
+      "english": "I had a premature baby.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんな未熟な親が出産、子育てなどするのが間違いだったんだ。",
+      "reading": null,
+      "english": "It was a mistake for such a young parent to have, and raise a child.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "問題は彼女が未熟であるということだ。",
+      "reading": null,
+      "english": "The trouble is that she lacks experience.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "子供は未熟児でした。",
+      "reading": null,
+      "english": "I had a premature baby.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼のフランス語の知識は未熟だ。",
+      "reading": null,
+      "english": "His knowledge of French is poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは私達を未熟者として軽蔑する。",
+      "reading": null,
+      "english": "They look down on us as inexperienced young men.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "娘は未熟児でした。",
+      "reading": null,
+      "english": "My daughter was premature.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

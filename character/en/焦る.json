@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "焦る",
+    "reading": "あせる",
+    "romaji": "aseru",
+    "jlpt": "N1",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be in a hurry",
+          "to be impatient",
+          "to be anxious (to do)",
+          "to fret"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get a fright",
+          "to panic",
+          "to get flustered",
+          "to be startled"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "焦げる",
+      "reading": "こげる",
+      "meaning": "to burn"
+    },
+    {
+      "word": "焦がす",
+      "reading": "こがす",
+      "meaning": "to burn"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "教習所の教師にそう焦るなと言われています。",
+      "reading": null,
+      "english": "My driving instructor says I should be more patient.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "教習所の教師にそう焦るなと言われています。",
+      "reading": null,
+      "english": "My driving instructor says I should be more patient.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "焦るな。落ち着いて選んで。",
+      "reading": null,
+      "english": "Don't rush. Choose calmly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなに焦るな。",
+      "reading": null,
+      "english": "Don't be so impatient.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなに焦るな。",
+      "reading": null,
+      "english": "Don't be so impatient.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "焦るな。落ち着いて選んで。",
+      "reading": null,
+      "english": "Don't rush. Choose calmly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

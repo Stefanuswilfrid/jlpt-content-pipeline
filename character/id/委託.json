@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "委託",
+    "reading": "いたく",
+    "romaji": "itaku",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menitipkan (barang (untuk dijual) kepada suatu perusahaan)",
+          "mempercayakan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "任す",
+      "reading": "まかす",
+      "meaning": "mempercayakan, menyerahkan kepada seseorang"
+    },
+    {
+      "word": "委員",
+      "reading": "いいん",
+      "meaning": "anggota komite"
+    },
+    {
+      "word": "任せる",
+      "reading": "まかせる",
+      "meaning": "mempercayakan kepada orang lain, menyerahkan kepada"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ベンは日記を弁護士が管理するよう委託した。",
+      "reading": null,
+      "indonesian": "Ben committed his diary to the lawyer's care.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "僕は、有り金をすべて彼に委託した。",
+      "reading": null,
+      "indonesian": "I trusted him with all the money I had.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "当店では品物の委託販売をしています。",
+      "reading": null,
+      "indonesian": "We sell goods on commission.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ベンは日記を弁護士が管理するよう委託した。",
+      "reading": null,
+      "indonesian": "Ben committed his diary to the lawyer's care.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "当店では品物の委託販売をしています。",
+      "reading": null,
+      "indonesian": "We sell goods on commission.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "僕は、有り金をすべて彼に委託した。",
+      "reading": null,
+      "indonesian": "I trusted him with all the money I had.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

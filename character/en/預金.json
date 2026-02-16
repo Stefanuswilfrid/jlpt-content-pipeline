@@ -1,0 +1,225 @@
+{
+  "definition": {
+    "word": "預金",
+    "reading": "よきん",
+    "romaji": "yokin",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "deposit",
+          "bank account"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "資金",
+      "reading": "しきん",
+      "meaning": "funds"
+    },
+    {
+      "word": "基金",
+      "reading": "ききん",
+      "meaning": "fund"
+    },
+    {
+      "word": "賃金",
+      "reading": "ちんぎん",
+      "meaning": "wages"
+    },
+    {
+      "word": "募金",
+      "reading": "ぼきん",
+      "meaning": "fundraising"
+    },
+    {
+      "word": "黄金",
+      "reading": "おうごん",
+      "meaning": "gold (Au)"
+    },
+    {
+      "word": "送金",
+      "reading": "そうきん",
+      "meaning": "remittance"
+    },
+    {
+      "word": "金槌",
+      "reading": "かなづち",
+      "meaning": "hammer"
+    },
+    {
+      "word": "黄金",
+      "reading": "こがね",
+      "meaning": "gold"
+    },
+    {
+      "word": "大金",
+      "reading": "たいきん",
+      "meaning": "large amount of money"
+    },
+    {
+      "word": "残金",
+      "reading": "ざんきん",
+      "meaning": "remaining money"
+    },
+    {
+      "word": "金融",
+      "reading": "きんゆう",
+      "meaning": "finance"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "fee"
+    },
+    {
+      "word": "金額",
+      "reading": "きんがく",
+      "meaning": "amount of money"
+    },
+    {
+      "word": "現金",
+      "reading": "げんきん",
+      "meaning": "cash"
+    },
+    {
+      "word": "お金",
+      "reading": "おかね",
+      "meaning": "money"
+    },
+    {
+      "word": "金属",
+      "reading": "きんぞく",
+      "meaning": "metal"
+    },
+    {
+      "word": "賞金",
+      "reading": "しょうきん",
+      "meaning": "prize money"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "銀行にお金を預ければ、預金した事になる。",
+      "reading": null,
+      "english": "When you put money in the bank, you deposit it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一般的に言って、預金は増加している。",
+      "reading": null,
+      "english": "Generally speaking, savings are increasing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの預金はありません。",
+      "reading": null,
+      "english": "Your account is empty.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "預金口座を開設したいのですが。",
+      "reading": null,
+      "english": "I'd like to open a savings account.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "預金口座を開く。",
+      "reading": null,
+      "english": "I'll open a bank account.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "預金したいのですが。",
+      "reading": null,
+      "english": "I want to deposit some money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "父は毎週給料の一部を銀行に預金する。",
+      "reading": null,
+      "english": "My father banks part of his salary every week.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は毎月１万円を銀行に預金している。",
+      "reading": null,
+      "english": "She deposits 10,000 yen in the bank every month.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は預金の最後の１ドルまでおろしてしまった。",
+      "reading": null,
+      "english": "He withdrew the last dollar of his saving.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は賞金を銀行に預金した。",
+      "reading": null,
+      "english": "He deposited the prize money in the bank.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は銀行預金が相当ある。",
+      "reading": null,
+      "english": "He has plenty of money in the bank.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は銀行に多額の預金があった。",
+      "reading": null,
+      "english": "He had a lot of money in the bank.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は銀行に３０００ドルの預金がある。",
+      "reading": null,
+      "english": "He has a credit of $3000 at his bank.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はその銀行にいくらか預金がある。",
+      "reading": null,
+      "english": "He has some money in the bank.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

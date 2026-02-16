@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "誤る",
+    "reading": "あやまる",
+    "romaji": "ayamaru",
+    "jlpt": "N1",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membuat kesalahan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be wrong",
+          "to be incorrect",
+          "to be false",
+          "to be mistaken"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to mislead",
+          "to misguide",
+          "to lead astray"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "salah paham"
+    },
+    {
+      "word": "錯誤",
+      "reading": "さくご",
+      "meaning": "kesalahan"
+    },
+    {
+      "word": "誤差",
+      "reading": "ごさ",
+      "meaning": "kesalahan"
+    },
+    {
+      "word": "過ち",
+      "reading": "あやまち",
+      "meaning": "kesalahan, kekeliruan, ketidakbijaksanaan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一歩誤るとせんじんの谷だ。",
+      "reading": null,
+      "indonesian": "One step further, and you will fall into an abyss.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "本能に従うと道を誤ることが多い。",
+      "reading": null,
+      "indonesian": "Instinct is often a poor guide.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "多弁の人は多く誤る。",
+      "reading": null,
+      "indonesian": "He that talks much, errs much.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "好奇心は身を誤る。",
+      "reading": null,
+      "indonesian": "Curiosity killed the cat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一歩誤るとせんじんの谷だ。",
+      "reading": null,
+      "indonesian": "One step further, and you will fall into an abyss.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "好奇心は身を誤る。",
+      "reading": null,
+      "indonesian": "Curiosity killed the cat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "多弁の人は多く誤る。",
+      "reading": null,
+      "indonesian": "He that talks much, errs much.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "本能に従うと道を誤ることが多い。",
+      "reading": null,
+      "indonesian": "Instinct is often a poor guide.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "区画",
+    "reading": "くかく",
+    "romaji": "kukaku",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "division",
+          "section",
+          "compartment",
+          "block",
+          "plot",
+          "lot",
+          "partition",
+          "boundary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "区間",
+      "reading": "くかん",
+      "meaning": "section (of track, etc.)"
+    },
+    {
+      "word": "版画",
+      "reading": "はんが",
+      "meaning": "woodcut"
+    },
+    {
+      "word": "区切り",
+      "reading": "くぎり",
+      "meaning": "pause (in speech, writing, etc.)"
+    },
+    {
+      "word": "企画",
+      "reading": "きかく",
+      "meaning": "planning"
+    },
+    {
+      "word": "油絵",
+      "reading": "あぶらえ",
+      "meaning": "oil painting"
+    },
+    {
+      "word": "映画館",
+      "reading": "えいがかん",
+      "meaning": "movie theatre"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "division"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼女はここから数区画離れた所に住んでいる。",
+      "reading": null,
+      "english": "She lives a few blocks away from here.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はその区画の新しい男の子とすぐ親しくなった。",
+      "reading": null,
+      "english": "He quickly made friends with the new boy on the block.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はその区画の新しい男の子とすぐ親しくなった。",
+      "reading": null,
+      "english": "He quickly made friends with the new boy on the block.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はここから数区画離れた所に住んでいる。",
+      "reading": null,
+      "english": "She lives a few blocks away from here.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

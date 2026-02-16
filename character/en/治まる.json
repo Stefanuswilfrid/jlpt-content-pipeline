@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "治まる",
+    "reading": "おさまる",
+    "romaji": "osamaru",
+    "jlpt": "N1",
+    "frequency": 22750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to die down (storm, anger, conflict, etc.)",
+          "to calm down",
+          "to cool off",
+          "to abate",
+          "to be settled",
+          "to be brought under control"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be at peace",
+          "to be governed well"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to subside (of pain, symptoms, etc.)",
+          "to be alleviated",
+          "to get better",
+          "to ease off"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "治る",
+      "reading": "なおる",
+      "meaning": "to get better"
+    },
+    {
+      "word": "治安",
+      "reading": "ちあん",
+      "meaning": "public order"
+    },
+    {
+      "word": "統治",
+      "reading": "とうち",
+      "meaning": "rule"
+    },
+    {
+      "word": "退治",
+      "reading": "たいじ",
+      "meaning": "extermination"
+    },
+    {
+      "word": "治める",
+      "reading": "おさめる",
+      "meaning": "to rule"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "腫れが治まるまで、どれぐらいかかりそうですか？",
+      "reading": null,
+      "english": "How many days will it take until the swelling goes down?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "腫れが治まるまで、どれぐらいかかりそうですか？",
+      "reading": null,
+      "english": "How many days will it take until the swelling goes down?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

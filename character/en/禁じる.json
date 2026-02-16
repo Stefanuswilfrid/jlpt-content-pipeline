@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "禁じる",
+    "reading": "きんじる",
+    "romaji": "kinjiru",
+    "jlpt": "N1",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to forbid",
+          "to ban",
+          "to prohibit"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to suppress (a feeling, laughter, etc.)",
+          "to hold back (e.g. tears)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "禁止",
+      "reading": "きんし",
+      "meaning": "prohibition"
+    },
+    {
+      "word": "禁物",
+      "reading": "きんもつ",
+      "meaning": "thing that should be (carefully) avoided"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の喫煙を禁じる。",
+      "reading": null,
+      "english": "I forbid you to smoke.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の喫煙を禁じる。",
+      "reading": null,
+      "english": "I forbid you to smoke.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

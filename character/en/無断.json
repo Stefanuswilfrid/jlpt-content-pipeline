@@ -1,0 +1,243 @@
+{
+  "definition": {
+    "word": "無断",
+    "reading": "むだん",
+    "romaji": "mudan",
+    "jlpt": "N1",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "absence of permission",
+          "lack of permission"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "absence of (advance) notice",
+          "lack of notice"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無線",
+      "reading": "むせん",
+      "meaning": "radio (communication)"
+    },
+    {
+      "word": "無効",
+      "reading": "むこう",
+      "meaning": "invalid"
+    },
+    {
+      "word": "断言",
+      "reading": "だんげん",
+      "meaning": "assertion"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "silence (not speaking)"
+    },
+    {
+      "word": "中断",
+      "reading": "ちゅうだん",
+      "meaning": "interruption"
+    },
+    {
+      "word": "無用",
+      "reading": "むよう",
+      "meaning": "useless"
+    },
+    {
+      "word": "無難",
+      "reading": "ぶなん",
+      "meaning": "safe (e.g. choice)"
+    },
+    {
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "regret"
+    },
+    {
+      "word": "決断",
+      "reading": "けつだん",
+      "meaning": "decision"
+    },
+    {
+      "word": "断面",
+      "reading": "だんめん",
+      "meaning": "section"
+    },
+    {
+      "word": "無駄遣い",
+      "reading": "むだづかい",
+      "meaning": "waste (of money, time, etc.)"
+    },
+    {
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "meaning": "innocent"
+    },
+    {
+      "word": "無口",
+      "reading": "むくち",
+      "meaning": "taciturn"
+    },
+    {
+      "word": "無知",
+      "reading": "むち",
+      "meaning": "ignorance"
+    },
+    {
+      "word": "台無し",
+      "reading": "だいなし",
+      "meaning": "spoiled"
+    },
+    {
+      "word": "無能",
+      "reading": "むのう",
+      "meaning": "incompetence"
+    },
+    {
+      "word": "無意味",
+      "reading": "むいみ",
+      "meaning": "nonsense"
+    },
+    {
+      "word": "無礼",
+      "reading": "ぶれい",
+      "meaning": "rudeness"
+    },
+    {
+      "word": "無茶",
+      "reading": "むちゃ",
+      "meaning": "absurd"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "無断でしゃべるのはやめてください。",
+      "reading": null,
+      "english": "Please refrain from speaking without permission.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーは母に無断でケーキを作った。",
+      "reading": null,
+      "english": "Mary made a cake without her mother's knowledge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "無断キャンセルにはほとほと困っています。",
+      "reading": null,
+      "english": "These cancellations without notice are a real pain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "本サイト内の記述、画像、写真の無断転載・転用を禁止します。",
+      "reading": null,
+      "english": "Reproduction or appropriation of HTML, images and photographs from within this site is prohibited.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "無断で欠席すべきではない。",
+      "reading": null,
+      "english": "You should not be absent without notice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "無断でそこに駐車してはいけません。",
+      "reading": null,
+      "english": "You must not park your car there without permission.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "無断でしゃべるのはやめてください。",
+      "reading": null,
+      "english": "Please refrain from speaking without permission.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は無断で欠勤した。",
+      "reading": null,
+      "english": "She was absent without leave.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は無断で学校を欠席した。",
+      "reading": null,
+      "english": "She was absent from school without notice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はよく無断欠席をする。",
+      "reading": null,
+      "english": "She is often absent without leave.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は無断欠勤した。",
+      "reading": null,
+      "english": "He was absent without leave.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は無断で彼女の自転車を借りた。",
+      "reading": null,
+      "english": "He used her bike without asking permission.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は無断でやめた。",
+      "reading": null,
+      "english": "He quit without notice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼はわれわれの私有地に不法侵入している、無断で通っている。",
+      "reading": null,
+      "english": "He is trespassing on our private property.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

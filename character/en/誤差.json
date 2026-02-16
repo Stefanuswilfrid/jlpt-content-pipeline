@@ -1,0 +1,112 @@
+{
+  "definition": {
+    "word": "誤差",
+    "reading": "ごさ",
+    "romaji": "gosa",
+    "jlpt": "N1",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "measurement error",
+          "calculation error"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "格差",
+      "reading": "かくさ",
+      "meaning": "qualitative difference"
+    },
+    {
+      "word": "差額",
+      "reading": "さがく",
+      "meaning": "balance"
+    },
+    {
+      "word": "時差",
+      "reading": "じさ",
+      "meaning": "time difference"
+    },
+    {
+      "word": "錯誤",
+      "reading": "さくご",
+      "meaning": "mistake"
+    },
+    {
+      "word": "過ち",
+      "reading": "あやまち",
+      "meaning": "fault"
+    },
+    {
+      "word": "差し引き",
+      "reading": "さしひき",
+      "meaning": "deduction"
+    },
+    {
+      "word": "物差し",
+      "reading": "ものさし",
+      "meaning": "ruler"
+    },
+    {
+      "word": "差",
+      "reading": "さ",
+      "meaning": "difference"
+    },
+    {
+      "word": "差別",
+      "reading": "さべつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "誤り",
+      "reading": "あやまり",
+      "meaning": "error"
+    },
+    {
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "misunderstanding"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々は誤差を見込んで余裕をとっておいた。",
+      "reading": null,
+      "english": "We left a margin for error in our estimates.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "計算にいくらかの誤差を考慮に入れましたか。",
+      "reading": null,
+      "english": "Have you allowed for any error in your calculation?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は誤差を見込んで余裕をとっておいた。",
+      "reading": null,
+      "english": "We left a margin for error in our estimates.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "計算にいくらかの誤差を考慮に入れましたか。",
+      "reading": null,
+      "english": "Have you allowed for any error in your calculation?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "駆け足",
+    "reading": "かけあし",
+    "romaji": "kakeashi",
+    "jlpt": "N1",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "running fast",
+          "double time"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cantering"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "doing things in a hurry"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発足",
+      "reading": "ほっそく",
+      "meaning": "starting"
+    },
+    {
+      "word": "裸足",
+      "reading": "はだし",
+      "meaning": "barefoot"
+    },
+    {
+      "word": "補足",
+      "reading": "ほそく",
+      "meaning": "supplement"
+    },
+    {
+      "word": "足し算",
+      "reading": "たしざん",
+      "meaning": "addition"
+    },
+    {
+      "word": "駆けっこ",
+      "reading": "かけっこ",
+      "meaning": "(foot) race"
+    },
+    {
+      "word": "遠足",
+      "reading": "えんそく",
+      "meaning": "school trip"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "insufficiency"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "トムは駆け足で階段を上っていった。",
+      "reading": null,
+      "english": "Tom ran up the stairs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムは駆け足で階段を上っていった。",
+      "reading": null,
+      "english": "Tom ran up the stairs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムは駆け足で階段を上っていった。",
+      "reading": null,
+      "english": "Tom tore up the stairs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムは駆け足で階段を上っていった。",
+      "reading": null,
+      "english": "Tom tore up the stairs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

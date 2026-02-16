@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "区々",
+    "reading": "まちまち",
+    "romaji": "machimachi",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "various",
+          "diverse",
+          "different",
+          "divergent",
+          "divided",
+          "conflicting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "区間",
+      "reading": "くかん",
+      "meaning": "section (of track, etc.)"
+    },
+    {
+      "word": "区切り",
+      "reading": "くぎり",
+      "meaning": "pause (in speech, writing, etc.)"
+    },
+    {
+      "word": "区画",
+      "reading": "くかく",
+      "meaning": "division"
+    },
+    {
+      "word": "区域",
+      "reading": "くいき",
+      "meaning": "area"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "division"
+    },
+    {
+      "word": "地区",
+      "reading": "ちく",
+      "meaning": "district"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その件について彼らの意見はまちまちだ。",
+      "reading": null,
+      "english": "Their views vary on the subject.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "箱の大きさは小さいのから大きいのまでまちまちだ。",
+      "reading": null,
+      "english": "The boxes vary in size from small to large.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日の東京市場の株価はまちまちだった。",
+      "reading": null,
+      "english": "Stock prices were mixed on the Tokyo market today.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その件について彼らの意見はまちまちだ。",
+      "reading": null,
+      "english": "Their views vary on the subject.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今日の東京市場の株価はまちまちだった。",
+      "reading": null,
+      "english": "Stock prices were mixed on the Tokyo market today.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "箱の大きさは小さいのから大きいのまでまちまちだ。",
+      "reading": null,
+      "english": "The boxes vary in size from small to large.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

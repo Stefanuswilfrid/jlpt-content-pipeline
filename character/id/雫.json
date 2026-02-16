@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "滴",
+    "reading": "しずく",
+    "romaji": "shizuku",
+    "jlpt": "N1",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "setetes (air)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "水滴",
+      "reading": "すいてき",
+      "meaning": "setetes air"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "点滴穿石",
+      "reading": "てんてきせんせき",
+      "meaning": "constant dripping wears away the stone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "涓滴岩を穿つ",
+      "reading": "けんてきいわをうがつ",
+      "meaning": "slow but steady wins the race",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "一雫の涙が彼女の頬を伝って落ちた。",
+      "reading": null,
+      "indonesian": "A tear rolled down her cheek.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "一雫の涙が彼女の頬を伝って落ちた。",
+      "reading": null,
+      "indonesian": "A tear rolled down her cheek.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    }
+  ]
+}

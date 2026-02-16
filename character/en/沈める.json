@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "沈める",
+    "reading": "しずめる",
+    "romaji": "shizumeru",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sink (e.g. a ship)",
+          "to submerge"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lower (e.g. one's body into a chair)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to floor (an opponent)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "沈黙",
+      "reading": "ちんもく",
+      "meaning": "silence"
+    },
+    {
+      "word": "沈没",
+      "reading": "ちんぼつ",
+      "meaning": "sinking"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

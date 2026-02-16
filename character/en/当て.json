@@ -1,0 +1,258 @@
+{
+  "definition": {
+    "word": "当て",
+    "reading": "あて",
+    "romaji": "ate",
+    "jlpt": "N1",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "aim",
+          "object",
+          "purpose",
+          "end"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "expectations",
+          "prospects",
+          "hopes"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "something that can be relied upon"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "snack served with alcoholic drink"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "pad",
+          "guard"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix",
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "blow",
+          "strike"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "addressed to"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "per"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "該当",
+      "reading": "がいとう",
+      "meaning": "corresponding to"
+    },
+    {
+      "word": "当人",
+      "reading": "とうにん",
+      "meaning": "the person concerned"
+    },
+    {
+      "word": "当選",
+      "reading": "とうせん",
+      "meaning": "being elected"
+    },
+    {
+      "word": "不当",
+      "reading": "ふとう",
+      "meaning": "unfair"
+    },
+    {
+      "word": "正当",
+      "reading": "せいとう",
+      "meaning": "just"
+    },
+    {
+      "word": "手当",
+      "reading": "てあて",
+      "meaning": "salary"
+    },
+    {
+      "word": "突き当たり",
+      "reading": "つきあたり",
+      "meaning": "end (of a street, hallway, etc.)"
+    },
+    {
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "estimate"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "山を当てる",
+      "reading": "やまをあてる",
+      "meaning": "to make a lucky hit",
+      "type": "idiom"
+    },
+    {
+      "word": "スポットを当てる",
+      "reading": "スポットをあてる",
+      "meaning": "to shine a spotlight on",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は彼の援助を当てにすることができる。",
+      "reading": null,
+      "english": "You can depend on his help.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君はそれを当てにできる。",
+      "reading": null,
+      "english": "You can bank on that.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "当てにしていていいよ。",
+      "reading": null,
+      "english": "You can bank on that.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君の約束を当てにしている。",
+      "reading": null,
+      "english": "I rest on your promise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の忠誠を当てにしてもいいかい。",
+      "reading": null,
+      "english": "Can I count on your loyalty?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の助けを当てにするよ。",
+      "reading": null,
+      "english": "I expect your help.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の言ったことはこの場合に当てはまらない。",
+      "reading": null,
+      "english": "What you said does not apply to this case.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの言ったことはこの場合当てはまらない。",
+      "reading": null,
+      "english": "What you said does not apply to this case.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の言ったことはこのことにも当てはまる。",
+      "reading": null,
+      "english": "What you said is also true of this case.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が言ったことはこの場合にも当てはまる。",
+      "reading": null,
+      "english": "What you said is also true of this case.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君に開会の挨拶をしてもらおうと当てにしています。",
+      "reading": null,
+      "english": "I am counting on you to deliver the opening address.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君が我々の仲間になってくれると当てにしているんだ。",
+      "reading": null,
+      "english": "I'm counting on you to join us.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "競馬で万馬券を当ててウハウハなんだ。",
+      "reading": null,
+      "english": "I'm tickled pink about winning 10,000 yen at the horse races.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "規則に当てはめて彼を罰した。",
+      "reading": null,
+      "english": "We punished him according to the rules.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

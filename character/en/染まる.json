@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "染まる",
+    "reading": "そまる",
+    "romaji": "somaru",
+    "jlpt": "N1",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be dyed"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be tainted",
+          "to be infected",
+          "to be stained",
+          "to be steeped"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "染みる",
+      "reading": "しみる",
+      "meaning": "to pierce"
+    },
+    {
+      "word": "感染",
+      "reading": "かんせん",
+      "meaning": "infection"
+    },
+    {
+      "word": "伝染",
+      "reading": "でんせん",
+      "meaning": "contagion"
+    },
+    {
+      "word": "汚染",
+      "reading": "おせん",
+      "meaning": "pollution"
+    },
+    {
+      "word": "染める",
+      "reading": "そめる",
+      "meaning": "to dye"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "悪習に染まるのは簡単だ。",
+      "reading": null,
+      "english": "It's easy to fall into bad habits.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "世間の悪風に染まる。",
+      "reading": null,
+      "english": "Be infected with the evil ways of the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "悪習に染まるのは簡単だ。",
+      "reading": null,
+      "english": "It's easy to fall into bad habits.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "世間の悪風に染まる。",
+      "reading": null,
+      "english": "Be infected with the evil ways of the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日が沈む頃には、空が美しい茜色に染まる。",
+      "reading": null,
+      "english": "When the sun sets, the sky is died a beautiful madder red.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日が沈む頃には、空が美しい茜色に染まる。",
+      "reading": null,
+      "english": "When the sun sets, the sky is died a beautiful madder red.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

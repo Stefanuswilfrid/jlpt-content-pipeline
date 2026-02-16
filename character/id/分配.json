@@ -1,0 +1,247 @@
+{
+  "definition": {
+    "word": "分配",
+    "reading": "ぶんぱい",
+    "romaji": "bunpai",
+    "jlpt": "N1",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pembagian",
+          "berbagi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "配分",
+      "reading": "はいぶん",
+      "meaning": "distribusi, jatah"
+    },
+    {
+      "word": "分担",
+      "reading": "ぶんたん",
+      "meaning": "pembagian, berbagi"
+    },
+    {
+      "word": "配置",
+      "reading": "はいち",
+      "meaning": "pengaturan (sumber daya), disposisi"
+    },
+    {
+      "word": "分子",
+      "reading": "ぶんし",
+      "meaning": "pembilang, molekul"
+    },
+    {
+      "word": "配給",
+      "reading": "はいきゅう",
+      "meaning": "distribusi (misalnya, film, beras)"
+    },
+    {
+      "word": "配偶者",
+      "reading": "はいぐうしゃ",
+      "meaning": "pasangan"
+    },
+    {
+      "word": "分散",
+      "reading": "ぶんさん",
+      "meaning": "penyebaran, desentralisasi, varians (statistik)"
+    },
+    {
+      "word": "配布",
+      "reading": "はいふ",
+      "meaning": "distribusi"
+    },
+    {
+      "word": "処分",
+      "reading": "しょぶん",
+      "meaning": "pembuangan, penanganan, hukuman"
+    },
+    {
+      "word": "分離",
+      "reading": "ぶんり",
+      "meaning": "pemisahan, pelepasan, segregasi"
+    },
+    {
+      "word": "分裂",
+      "reading": "ぶんれつ",
+      "meaning": "perpecahan, pembagian, putus"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaning": "pertimbangan, perhatian, perencanaan"
+    },
+    {
+      "word": "言い訳",
+      "reading": "いいわけ",
+      "meaning": "alasan, penjelasan"
+    },
+    {
+      "word": "手配",
+      "reading": "てはい",
+      "meaning": "pengaturan, penggeledahan (oleh polisi)"
+    },
+    {
+      "word": "分業",
+      "reading": "ぶんぎょう",
+      "meaning": "pembagian kerja, spesialisasi, produksi jalur perakitan"
+    },
+    {
+      "word": "配列",
+      "reading": "はいれつ",
+      "meaning": "susunan, array (pemrograman)"
+    },
+    {
+      "word": "一部分",
+      "reading": "いちぶぶん",
+      "meaning": "bagian, porsi"
+    },
+    {
+      "word": "申し分",
+      "reading": "もうしぶん",
+      "meaning": "keberatan, kekurangan"
+    },
+    {
+      "word": "手分け",
+      "reading": "てわけ",
+      "meaning": "pembagian kerja"
+    },
+    {
+      "word": "分母",
+      "reading": "ぶんぼ",
+      "meaning": "penyebut"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君たちは、ケーキを平等に分配しなくてはいけない。",
+      "reading": null,
+      "indonesian": "You have to share the cake equally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "救助隊員達が地震の被災者達に物資を分配するだろう。",
+      "reading": null,
+      "indonesian": "The rescue workers are going to hand out supplies to the victims of the earthquake.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのような分配された支配はほとんど存在しない。",
+      "reading": null,
+      "indonesian": "There is little, if any, of such distribution of control.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "わたしは国の富が公平に分配される社会を夢見ている。",
+      "reading": null,
+      "indonesian": "I dream of a society whose wealth is distributed fairly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "富の分配は公平でなければならないと彼らは言う。",
+      "reading": null,
+      "indonesian": "They argue that the distribution of wealth should be equitable.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは利益を公平に分配した。",
+      "reading": null,
+      "indonesian": "They allotted the profits fairly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは各選手に支払われるべき利益を分配した。",
+      "reading": null,
+      "indonesian": "They allotted to each player the benefits due him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの血は多くの人に分配されるであろう。",
+      "reading": null,
+      "indonesian": "Their blood will be distributed to many people.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "赤十字は被災者に食料と医療を分配した。",
+      "reading": null,
+      "indonesian": "The Red Cross dispensed food and medical supplies to the victims.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "仕事がちゃんと公平に分配されるようにしているのだ。",
+      "reading": null,
+      "indonesian": "We try to divvy up the work fairly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "財産は３人兄弟の間で分配された。",
+      "reading": null,
+      "indonesian": "The fortune was divided among the three brothers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君たちは、ケーキを平等に分配しなくてはいけない。",
+      "reading": null,
+      "indonesian": "You have to share the cake equally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "救助隊員達が地震の被災者達に物資を分配するだろう。",
+      "reading": null,
+      "indonesian": "The rescue workers are going to hand out supplies to the victims of the earthquake.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのような分配された支配はほとんど存在しない。",
+      "reading": null,
+      "indonesian": "There is little, if any, of such distribution of control.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "財産は３人兄弟の間で分配された。",
+      "reading": null,
+      "indonesian": "The fortune was divided among the three brothers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "食い違う",
+    "reading": "くいちがう",
+    "romaji": "kuichigau",
+    "jlpt": "N1",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to not match well (e.g. at the seams)",
+          "to not mesh properly (of gears)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to differ (e.g. of opinions)",
+          "to clash",
+          "to be in conflict (e.g. with the facts)",
+          "to run counter (to)",
+          "to be inconsistent (with)",
+          "to be contradictory"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "給食",
+      "reading": "きゅうしょく",
+      "meaning": "provision of lunch (e.g. at office, school, etc.)"
+    },
+    {
+      "word": "食う",
+      "reading": "くう",
+      "meaning": "to eat"
+    },
+    {
+      "word": "違反",
+      "reading": "いはん",
+      "meaning": "violation"
+    },
+    {
+      "word": "食事",
+      "reading": "しょくじ",
+      "meaning": "meal (e.g. lunch, dinner)"
+    },
+    {
+      "word": "相違",
+      "reading": "そうい",
+      "meaning": "difference"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私たちの意見が食い違うのはこの点です。",
+      "reading": null,
+      "english": "It is on this point that our opinions differ.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちの意見が食い違うのはこの点です。",
+      "reading": null,
+      "english": "It is on this point that our opinions differ.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちの意見が食い違うのはこの点です。",
+      "reading": null,
+      "english": "It's on this point that our opinions differ.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちの意見が食い違うのはこの点です。",
+      "reading": null,
+      "english": "It's on this point that our opinions differ.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

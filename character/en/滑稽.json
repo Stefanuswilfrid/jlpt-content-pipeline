@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "滑稽",
+    "reading": "こっけい",
+    "romaji": "kokkei",
+    "jlpt": "N1",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "funny",
+          "comical",
+          "humorous",
+          "laughable"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ridiculous",
+          "silly",
+          "absurd"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "円滑",
+      "reading": "えんかつ",
+      "meaning": "smooth"
+    },
+    {
+      "word": "滑らか",
+      "reading": "なめらか",
+      "meaning": "smooth (of a surface)"
+    },
+    {
+      "word": "稽古",
+      "reading": "けいこ",
+      "meaning": "practice"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "滑稽洒脱",
+      "reading": "こっけいしゃだつ",
+      "meaning": "smooth-talking and polished",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼の気取った話し方がとても滑稽におもえた。",
+      "reading": null,
+      "english": "His affected manner of speaking seemed very absurd to me.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼がとても滑稽な話をしたので、私たちはみんな笑った。",
+      "reading": null,
+      "english": "He told us such a funny story that we all laughed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼がとても滑稽な話をしたので、私たちはみんな笑った。",
+      "reading": null,
+      "english": "He told us such a funny story that we all laughed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の気取った話し方がとても滑稽におもえた。",
+      "reading": null,
+      "english": "His affected manner of speaking seemed very absurd to me.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは滑稽だ。",
+      "reading": null,
+      "english": "That will be funny.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは滑稽だ。",
+      "reading": null,
+      "english": "That will be funny.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

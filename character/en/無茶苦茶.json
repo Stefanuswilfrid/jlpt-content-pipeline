@@ -1,0 +1,225 @@
+{
+  "definition": {
+    "word": "無茶苦茶",
+    "reading": "むちゃくちゃ",
+    "romaji": "muchakucha",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "nonsensical",
+          "unreasonable",
+          "absurd",
+          "unrealistic"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "awfully",
+          "extremely",
+          "to excess",
+          "senseless",
+          "reckless"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "disorder",
+          "confusion",
+          "being jumbled",
+          "being mixed up"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "very",
+          "extremely",
+          "excessively"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無線",
+      "reading": "むせん",
+      "meaning": "radio (communication)"
+    },
+    {
+      "word": "無効",
+      "reading": "むこう",
+      "meaning": "invalid"
+    },
+    {
+      "word": "無闇に",
+      "reading": "むやみに",
+      "meaning": "thoughtlessly"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "silence (not speaking)"
+    },
+    {
+      "word": "無断",
+      "reading": "むだん",
+      "meaning": "absence of permission"
+    },
+    {
+      "word": "無用",
+      "reading": "むよう",
+      "meaning": "useless"
+    },
+    {
+      "word": "無難",
+      "reading": "ぶなん",
+      "meaning": "safe (e.g. choice)"
+    },
+    {
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "regret"
+    },
+    {
+      "word": "無茶",
+      "reading": "むちゃ",
+      "meaning": "absurd"
+    },
+    {
+      "word": "茶の間",
+      "reading": "ちゃのま",
+      "meaning": "(Japanese-style) living room"
+    },
+    {
+      "word": "無駄遣い",
+      "reading": "むだづかい",
+      "meaning": "waste (of money, time, etc.)"
+    },
+    {
+      "word": "無論",
+      "reading": "むろん",
+      "meaning": "of course"
+    },
+    {
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "meaning": "innocent"
+    },
+    {
+      "word": "無口",
+      "reading": "むくち",
+      "meaning": "taciturn"
+    },
+    {
+      "word": "無知",
+      "reading": "むち",
+      "meaning": "ignorance"
+    },
+    {
+      "word": "台無し",
+      "reading": "だいなし",
+      "meaning": "spoiled"
+    },
+    {
+      "word": "無能",
+      "reading": "むのう",
+      "meaning": "incompetence"
+    },
+    {
+      "word": "無意味",
+      "reading": "むいみ",
+      "meaning": "nonsense"
+    },
+    {
+      "word": "無礼",
+      "reading": "ぶれい",
+      "meaning": "rudeness"
+    },
+    {
+      "word": "茶の湯",
+      "reading": "ちゃのゆ",
+      "meaning": "tea ceremony"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "無茶苦茶なこと言うなよ。",
+      "reading": null,
+      "english": "Don't be absurd.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなの無茶苦茶だよ。",
+      "reading": null,
+      "english": "That's absurd.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼の論文、無茶苦茶だよ。",
+      "reading": null,
+      "english": "His thesis is absurd.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そんなの無茶苦茶だよ。",
+      "reading": null,
+      "english": "That is absurd.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "無茶苦茶なこと言うなよ。",
+      "reading": null,
+      "english": "Don't be absurd.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼の論文、無茶苦茶だよ。",
+      "reading": null,
+      "english": "His thesis is absurd.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そんなの無茶苦茶だよ。",
+      "reading": null,
+      "english": "That's absurd.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなの無茶苦茶だよ。",
+      "reading": null,
+      "english": "That is absurd.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

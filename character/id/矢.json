@@ -1,0 +1,201 @@
+{
+  "definition": {
+    "word": "矢",
+    "reading": "や",
+    "romaji": "ya",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "anak panah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wedge",
+          "chock"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "矢印",
+      "reading": "やじるし",
+      "meaning": "panah pengarah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "矢面に立つ",
+      "reading": "やおもてにたつ",
+      "meaning": "to be in the firing line",
+      "type": "idiom"
+    },
+    {
+      "word": "一矢を報いる",
+      "reading": "いっしをむくいる",
+      "meaning": "to retaliate",
+      "type": "idiom"
+    },
+    {
+      "word": "一矢報いる",
+      "reading": "いっしむくいる",
+      "meaning": "to retaliate",
+      "type": "idiom"
+    },
+    {
+      "word": "光陰矢のごとし",
+      "reading": "こういんやのごとし",
+      "meaning": "time flies like an arrow",
+      "type": "proverb"
+    },
+    {
+      "word": "白羽の矢が立つ",
+      "reading": "しらはのやがたつ",
+      "meaning": "to be selected (from among many people)",
+      "type": "idiom"
+    },
+    {
+      "word": "白羽の矢を立てる",
+      "reading": "しらはのやをたてる",
+      "meaning": "to select someone (out of many people)",
+      "type": "idiom"
+    },
+    {
+      "word": "刀折れ矢尽きる",
+      "reading": "かたなおれやつきる",
+      "meaning": "to exhaust all one's options",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "議長が批判の矢面に立った。",
+      "reading": null,
+      "indonesian": "The brunt of criticism was borne by the chairmen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我が社の新製品が、ライバル会社に一矢を報いる結果となった。",
+      "reading": null,
+      "indonesian": "This new product of ours is a serious blow to our rival company.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一本の矢が鷹を貫通した。",
+      "reading": null,
+      "indonesian": "An arrow passed through the hawk.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "無理矢理サインをさせられたのなら、その契約は無効です。",
+      "reading": null,
+      "indonesian": "The contract, if you were forced to sign it, is invalid.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "無理矢理サインさせられたのなら、その契約は無効ですよ。",
+      "reading": null,
+      "indonesian": "The contract, if you were forced to sign it, is invalid.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "矢は的からひどく外れた。",
+      "reading": null,
+      "indonesian": "The arrow fell wide of the mark.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その矢は的から大きく外れた。",
+      "reading": null,
+      "indonesian": "The arrow fell wide of the mark.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ウイリアム・テルは息子の頭の上のリンゴをねらって矢を射た。",
+      "reading": null,
+      "indonesian": "William Tell shot an arrow at the apple on his son's head.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "インディアンは弓と矢で戦った。",
+      "reading": null,
+      "indonesian": "The Indians fought with bows and arrows.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "７歳の時、すでに自ら弓と矢を作った。",
+      "reading": null,
+      "indonesian": "By the age of seven, he had already made his own bow and arrows.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "矢印は東京へ行く道を示す。",
+      "reading": null,
+      "indonesian": "The arrow indicates the way to Tokyo.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "矢印が進むべき方向を指示する。",
+      "reading": null,
+      "indonesian": "The arrow indicates the way to go.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "矢は木をかすめた。",
+      "reading": null,
+      "indonesian": "The arrow glanced off the tree.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "矢は的に届かなかった。",
+      "reading": null,
+      "indonesian": "The arrow fell short of the target.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "矢は的に当たった。",
+      "reading": null,
+      "indonesian": "The arrow hit the target.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

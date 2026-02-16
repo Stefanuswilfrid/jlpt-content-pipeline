@@ -1,0 +1,193 @@
+{
+  "definition": {
+    "word": "所得",
+    "reading": "しょとく",
+    "romaji": "shotoku",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "income",
+          "earnings"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "得点",
+      "reading": "とくてん",
+      "meaning": "scoring"
+    },
+    {
+      "word": "所属",
+      "reading": "しょぞく",
+      "meaning": "belonging to (a group, organization, etc.)"
+    },
+    {
+      "word": "獲得",
+      "reading": "かくとく",
+      "meaning": "acquisition"
+    },
+    {
+      "word": "説得",
+      "reading": "せっとく",
+      "meaning": "persuasion"
+    },
+    {
+      "word": "所有",
+      "reading": "しょゆう",
+      "meaning": "possession"
+    },
+    {
+      "word": "所在",
+      "reading": "しょざい",
+      "meaning": "location (of)"
+    },
+    {
+      "word": "所持",
+      "reading": "しょじ",
+      "meaning": "possession"
+    },
+    {
+      "word": "心得",
+      "reading": "こころえ",
+      "meaning": "knowledge"
+    },
+    {
+      "word": "事務所",
+      "reading": "じむしょ",
+      "meaning": "office"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaning": "place"
+    },
+    {
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "address (of a home, business, etc.)"
+    },
+    {
+      "word": "得意",
+      "reading": "とくい",
+      "meaning": "satisfaction"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "neighbourhood"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不労所得",
+      "reading": "ふろうしょとく",
+      "meaning": "unearned income",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "給与が増えるに比例して、所得税率もあがっていく。",
+      "reading": null,
+      "english": "The income tax rate increases in proportion as your salary rises.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "学校に対するあなたの寄付は、所得控除の対象になる。",
+      "reading": null,
+      "english": "Your contribution to the school is tax-deductible.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ここからあがる所得は無税である。",
+      "reading": null,
+      "english": "The income from this source is tax-free.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "前年の総所得金額はいくらでしょうか。",
+      "reading": null,
+      "english": "What was the gross income in the previous calendar year?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "野党は所得税減税法案を提出した。",
+      "reading": null,
+      "english": "The opposition party put forward a bill to reduce income tax.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本では、通常所得税は月給から天引きされる。",
+      "reading": null,
+      "english": "In Japan, the payroll tax is usually withheld from the monthly salary.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "税務署は所得税の脱税に目をひからせています。",
+      "reading": null,
+      "english": "Tax officials are zeroing in on income tax evasion.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "政府は特に高額の所得に対して特別税を課すことを決定した。",
+      "reading": null,
+      "english": "The government decided to impose a special tax on very high incomes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "所得税は控除額を上回るいかなる所得にもかかる。",
+      "reading": null,
+      "english": "An income tax is levied on any income that exceeds deductions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "実に高額の所得には特別税が課せられている。",
+      "reading": null,
+      "english": "A special tax is imposed on very high incomes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "慈善事業への寄付は課税所得から控除されます。",
+      "reading": null,
+      "english": "Donations to philanthropic programs are tax-exempt.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "資産家は高額の所得税を納めなければならない。",
+      "reading": null,
+      "english": "A man of wealth has to pay a lot of income tax.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "definition": {
+    "word": "在庫",
+    "reading": "ざいこ",
+    "romaji": "zaiko",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "menimbun",
+          "persediaan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "having in stock",
+          "being in stock"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不在",
+      "reading": "ふざい",
+      "meaning": "ketiadaan"
+    },
+    {
+      "word": "所在",
+      "reading": "しょざい",
+      "meaning": "dimana"
+    },
+    {
+      "word": "蔵",
+      "reading": "くら",
+      "meaning": "gudang, ruang bawah tanah"
+    },
+    {
+      "word": "自在",
+      "reading": "じざい",
+      "meaning": "dengan bebas, sesuka hati"
+    },
+    {
+      "word": "健在",
+      "reading": "けんざい",
+      "meaning": "dalam keadaan sehat, baik-baik saja"
+    },
+    {
+      "word": "現在",
+      "reading": "げんざい",
+      "meaning": "sekarang (sama dengan 今 (いま)), sekarang, saat ini"
+    },
+    {
+      "word": "存在",
+      "reading": "そんざい",
+      "meaning": "eksistensi, keberadaan"
+    },
+    {
+      "word": "滞在",
+      "reading": "たいざい",
+      "meaning": "tinggal, singgah"
+    },
+    {
+      "word": "倉庫",
+      "reading": "そうこ",
+      "meaning": "gudang, tempat penyimpanan"
+    },
+    {
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "lemari es"
+    },
+    {
+      "word": "在学",
+      "reading": "ざいがく",
+      "meaning": "(terdaftar) di sekolah"
+    },
+    {
+      "word": "金庫",
+      "reading": "きんこ",
+      "meaning": "brankas, lemari besi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "申し訳ございません、その本は在庫切れになっております。",
+      "reading": null,
+      "indonesian": "Sorry, the book is out of stock.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その店は各種ワインをたくさん在庫している。",
+      "reading": null,
+      "indonesian": "The store has a large stock of wines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのスーパーマーケットは大量の商品在庫を持っている。",
+      "reading": null,
+      "indonesian": "The supermarket has a large stock of merchandise.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "すみませんが在庫切れなのです。",
+      "reading": null,
+      "indonesian": "I'm sorry, but they're out of stock.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この型のセーターはすべて今在庫切れです。",
+      "reading": null,
+      "indonesian": "All sweaters of this type are out of stock now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あいにくお尋ねの商品は現在、在庫がありません。",
+      "reading": null,
+      "indonesian": "I regret to say that the product you have asked for is currently out of stock.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは年内に在庫品のかたをつけなければならなかった。",
+      "reading": null,
+      "indonesian": "They had to clean out the goods in stock within the year.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "当店ではレコードの在庫が多数あります。",
+      "reading": null,
+      "indonesian": "We have hundreds of records in stock.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "店はその雑誌の在庫を売り尽くしました。",
+      "reading": null,
+      "indonesian": "The shop had sold out its stock of that magazine.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "地方の需要に応えるのに十分な製品の在庫がある。",
+      "reading": null,
+      "indonesian": "We have adequate inventories of the product to meet local demand.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "石油の在庫がきれかかっている。",
+      "reading": null,
+      "indonesian": "Our stock of oil is running out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "在庫がなくなりははじめている。",
+      "reading": null,
+      "indonesian": "The supplies are beginning to give out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "申し訳ございません、その本は在庫切れになっております。",
+      "reading": null,
+      "indonesian": "Sorry, the book is out of stock.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その店は各種ワインをたくさん在庫している。",
+      "reading": null,
+      "indonesian": "The store has a large stock of wines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

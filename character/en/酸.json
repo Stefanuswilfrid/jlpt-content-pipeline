@@ -1,0 +1,176 @@
+{
+  "definition": {
+    "word": "酸",
+    "reading": "さん",
+    "romaji": "san",
+    "jlpt": "N1",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "acid"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sourness",
+          "sour taste"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "悲惨",
+      "reading": "ひさん",
+      "meaning": "disastrous"
+    },
+    {
+      "word": "酸性",
+      "reading": "さんせい",
+      "meaning": "acidity"
+    },
+    {
+      "word": "酸素",
+      "reading": "さんそ",
+      "meaning": "oxygen (O)"
+    },
+    {
+      "word": "酸化",
+      "reading": "さんか",
+      "meaning": "oxidation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "辛酸甘苦",
+      "reading": "しんさんかんく",
+      "meaning": "hardships and joys",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "辛酸をなめる",
+      "reading": "しんさんをなめる",
+      "meaning": "to undergo many hardships",
+      "type": "idiom"
+    },
+    {
+      "word": "口を酸っぱくする",
+      "reading": "くちをすっぱくする",
+      "meaning": "to repeatedly admonish",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空気中の酸素は水に溶解する。",
+      "reading": null,
+      "english": "Oxygen from the air dissolves in water.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "金属が酸で腐食してしまった。",
+      "reading": null,
+      "english": "The acid burned the metal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "牛乳は酸っぱくなりやすい。",
+      "reading": null,
+      "english": "Milk easily turns sour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "牛乳は、酸っぱくなった。",
+      "reading": null,
+      "english": "The milk turned sour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々は酸素が不足するとあくびをする。",
+      "reading": null,
+      "english": "We yawn when we are short of oxygen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火が燃えるには酸素がいる。",
+      "reading": null,
+      "english": "Oxygen is needed for combustion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "燃焼には酸素が必要です。",
+      "reading": null,
+      "english": "Oxygen is needed for combustion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "飲料水中の酸性雨は人間の健康に影響する。",
+      "reading": null,
+      "english": "Acid rain in drinking water affects human health.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "レモンは酸っぱい。",
+      "reading": null,
+      "english": "Lemon is sour.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ミルクが酸っぱくなった。",
+      "reading": null,
+      "english": "The milk went sour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パイナップルやレモンのような酸性の果実はすっぱい。",
+      "reading": null,
+      "english": "Acid fruits like pineapples and lemons are sour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "デオキシリボ核酸は、遺伝子を作っている複雑な化学物質である。",
+      "reading": null,
+      "english": "DNA is a complex chemical that makes up a gene.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その物質は酸で処理しなければならない。",
+      "reading": null,
+      "english": "The substance must be treated with acid.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

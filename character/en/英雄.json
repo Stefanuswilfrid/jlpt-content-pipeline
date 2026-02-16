@@ -1,0 +1,181 @@
+{
+  "definition": {
+    "word": "英雄",
+    "reading": "えいゆう",
+    "romaji": "eiyuu",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hero",
+          "heroine",
+          "great person"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Eroica Symphony (Beethoven, 1804)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Heroic Polonaise (Chopin)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "雄",
+      "reading": "おす",
+      "meaning": "male (animal, plant)"
+    },
+    {
+      "word": "英字",
+      "reading": "えいじ",
+      "meaning": "English letter"
+    },
+    {
+      "word": "英語",
+      "reading": "えいご",
+      "meaning": "English (language)"
+    },
+    {
+      "word": "英文",
+      "reading": "えいぶん",
+      "meaning": "English writing"
+    },
+    {
+      "word": "英和",
+      "reading": "えいわ",
+      "meaning": "English-Japanese"
+    },
+    {
+      "word": "和英",
+      "reading": "わえい",
+      "meaning": "Japanese-English"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "英雄豪傑",
+      "reading": "えいゆうごうけつ",
+      "meaning": "hero",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "英雄色を好む",
+      "reading": "えいゆういろをこのむ",
+      "meaning": "great men have great fondness for the sensual pleasures",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "俺は英雄。",
+      "reading": null,
+      "english": "I'm a hero.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英雄は英雄を知る。",
+      "reading": null,
+      "english": "Like knows like.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英雄相知る。",
+      "reading": null,
+      "english": "Like knows like.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英雄色を好む。",
+      "reading": null,
+      "english": "Who loves not women, wine and song remains a fool his whole life long.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "従者にとっては誰も英雄ではない。",
+      "reading": null,
+      "english": "No man is a hero to his valet.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "英雄も従者にはただの人。",
+      "reading": null,
+      "english": "No man is a hero to his valet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一人殺せば悪人となるが何百万人を殺せば英雄となる。",
+      "reading": null,
+      "english": "One murder makes a villain, millions a hero.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その勝利で彼は英雄になった。",
+      "reading": null,
+      "english": "His victory made him a hero.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その英雄の演説はすべての聴衆に感動を与えた。",
+      "reading": null,
+      "english": "The hero's speech touched the entire audience.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "すべての人が英雄になれるわけではない。",
+      "reading": null,
+      "english": "Every man cannot be a hero.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "アキレスは古代ギリシアの英雄だった。",
+      "reading": null,
+      "english": "Achilles was an ancient Greek hero.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このとき除雪車は確かに私たちの英雄でした。",
+      "reading": null,
+      "english": "At that time the snow plow was certainly our hero.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

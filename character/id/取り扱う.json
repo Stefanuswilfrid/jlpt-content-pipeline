@@ -1,0 +1,187 @@
+{
+  "definition": {
+    "word": "取り扱う",
+    "reading": "とりあつかう",
+    "romaji": "toriatsukau",
+    "jlpt": "N1",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menangani",
+          "untuk mengurus",
+          "untuk berurusan dengan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to deal with (an issue)",
+          "to manage"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to treat (someone)",
+          "to deal with (someone)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to deal in",
+          "to carry",
+          "to sell"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "乗っ取る",
+      "reading": "のっとる",
+      "meaning": "untuk merebut, untuk menduduki, untuk mengambil alih"
+    },
+    {
+      "word": "取り寄せる",
+      "reading": "とりよせる",
+      "meaning": "memesan, mengirimkan untuk"
+    },
+    {
+      "word": "取り調べる",
+      "reading": "とりしらべる",
+      "meaning": "untuk menyelidiki, untuk memeriksa"
+    },
+    {
+      "word": "取り締まる",
+      "reading": "とりしまる",
+      "meaning": "untuk menindak tegas, untuk mengendalikan, untuk mengawasi"
+    },
+    {
+      "word": "取り戻す",
+      "reading": "とりもどす",
+      "meaning": "untuk mengambil kembali, untuk mendapatkan kembali"
+    },
+    {
+      "word": "取引",
+      "reading": "とりひき",
+      "meaning": "transaksi, urusan, bisnis"
+    },
+    {
+      "word": "取材",
+      "reading": "しゅざい",
+      "meaning": "cakupan, pengumpulan data"
+    },
+    {
+      "word": "取り巻く",
+      "reading": "とりまく",
+      "meaning": "mengelilingi, melingkupi, melingkupi"
+    },
+    {
+      "word": "取り除く",
+      "reading": "とりのぞく",
+      "meaning": "untuk menghilangkan, untuk mengambil, memisahkan"
+    },
+    {
+      "word": "書き取る",
+      "reading": "かきとる",
+      "meaning": "untuk mencatat, untuk mengambil dikte"
+    },
+    {
+      "word": "取り次ぐ",
+      "reading": "とりつぐ",
+      "meaning": "bertindak sebagai agen untuk, mengumumkan (seseorang), menyampaikan (pesan)"
+    },
+    {
+      "word": "下取り",
+      "reading": "したどり",
+      "meaning": "tukar tambah, sebagian"
+    },
+    {
+      "word": "取り立てる",
+      "reading": "とりたてる",
+      "meaning": "untuk menagih, untuk memeras"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "科学者は主として物質の問題を取り扱う。",
+      "reading": null,
+      "indonesian": "Scientists deal mainly with physical matters.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "統計学は事実を表す数を取り扱うものである。",
+      "reading": null,
+      "indonesian": "Statistics deals with collected numbers representing facts.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は本章でその問題を取り扱うつもりです。",
+      "reading": null,
+      "indonesian": "I'm going to deal with the problem in this chapter.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "算数は数を取り扱う。",
+      "reading": null,
+      "indonesian": "Arithmetic deals with numbers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "科学者は主として物質の問題を取り扱う。",
+      "reading": null,
+      "indonesian": "Scientists deal mainly with physical matters.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "算数は数を取り扱う。",
+      "reading": null,
+      "indonesian": "Arithmetic deals with numbers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は本章でその問題を取り扱うつもりです。",
+      "reading": null,
+      "indonesian": "I'm going to deal with the problem in this chapter.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "統計学は事実を表す数を取り扱うものである。",
+      "reading": null,
+      "indonesian": "Statistics deals with collected numbers representing facts.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

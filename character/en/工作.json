@@ -1,0 +1,226 @@
+{
+  "definition": {
+    "word": "工作",
+    "reading": "こうさく",
+    "romaji": "kousaku",
+    "jlpt": "N1",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "handicraft"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "work",
+          "construction",
+          "manufacturing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "maneuvering",
+          "manoeuvering"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "作戦",
+      "reading": "さくせん",
+      "meaning": "tactics"
+    },
+    {
+      "word": "加工",
+      "reading": "かこう",
+      "meaning": "manufacturing"
+    },
+    {
+      "word": "工学",
+      "reading": "こうがく",
+      "meaning": "engineering"
+    },
+    {
+      "word": "原作",
+      "reading": "げんさく",
+      "meaning": "original work"
+    },
+    {
+      "word": "作り",
+      "reading": "つくり",
+      "meaning": "making"
+    },
+    {
+      "word": "着工",
+      "reading": "ちゃっこう",
+      "meaning": "starting (construction) work"
+    },
+    {
+      "word": "作用",
+      "reading": "さよう",
+      "meaning": "action"
+    },
+    {
+      "word": "発作",
+      "reading": "ほっさ",
+      "meaning": "fit"
+    },
+    {
+      "word": "凶作",
+      "reading": "きょうさく",
+      "meaning": "bad harvest"
+    },
+    {
+      "word": "細工",
+      "reading": "さいく",
+      "meaning": "work"
+    },
+    {
+      "word": "耕作",
+      "reading": "こうさく",
+      "meaning": "cultivation"
+    },
+    {
+      "word": "豊作",
+      "reading": "ほうさく",
+      "meaning": "abundant harvest"
+    },
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaning": "factory"
+    },
+    {
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "work"
+    },
+    {
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "work (e.g. book, film, painting, composition)"
+    },
+    {
+      "word": "工業",
+      "reading": "こうぎょう",
+      "meaning": "(manufacturing) industry"
+    },
+    {
+      "word": "工事",
+      "reading": "こうじ",
+      "meaning": "construction work"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaning": "author"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaning": "work (film, book)"
+    },
+    {
+      "word": "作曲",
+      "reading": "さっきょく",
+      "meaning": "composition (of music)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "裏面工作",
+      "reading": "りめんこうさく",
+      "meaning": "string-pulling",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "偽装工作",
+      "reading": "ぎそうこうさく",
+      "meaning": "diversionary tactics (maneuvering)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼らは裏面工作をしている。",
+      "reading": null,
+      "english": "They are maneuvering behind the scene.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作に熟練している。",
+      "reading": null,
+      "english": "He has skill in handwork.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作に熟練している。",
+      "reading": null,
+      "english": "He is skilled in handicraft.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作がうまい。",
+      "reading": null,
+      "english": "He has skill in handwork.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作に熟練している。",
+      "reading": null,
+      "english": "He has skill in handwork.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作がうまい。",
+      "reading": null,
+      "english": "He has skill in handwork.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは裏面工作をしている。",
+      "reading": null,
+      "english": "They are maneuvering behind the scene.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作に熟練している。",
+      "reading": null,
+      "english": "He is skilled in handicraft.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

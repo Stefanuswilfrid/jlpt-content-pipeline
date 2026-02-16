@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "映像",
+    "reading": "えいぞう",
+    "romaji": "eizou",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "refleksi",
+          "gambar"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "video",
+          "film",
+          "footage"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reflection"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "image (in one's mind)",
+          "mental picture"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "仏像",
+      "reading": "ぶつぞう",
+      "meaning": "Gambar (patung) Buddha"
+    },
+    {
+      "word": "現像",
+      "reading": "げんぞう",
+      "meaning": "mengembangkan (film)"
+    },
+    {
+      "word": "映写",
+      "reading": "えいしゃ",
+      "meaning": "proyeksi"
+    },
+    {
+      "word": "映画",
+      "reading": "えいが",
+      "meaning": "film, sinema"
+    },
+    {
+      "word": "想像",
+      "reading": "そうぞう",
+      "meaning": "imajinasi, tebakan"
+    },
+    {
+      "word": "映画館",
+      "reading": "えいがかん",
+      "meaning": "bioskop, gedung film"
+    },
+    {
+      "word": "反映",
+      "reading": "はんえい",
+      "meaning": "refleksi, pengaruh"
+    },
+    {
+      "word": "像",
+      "reading": "ぞう",
+      "meaning": "patung, gambar"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "映像はピントがあっていない。",
+      "reading": null,
+      "indonesian": "The image is out of focus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その映像はピントがあっていない。",
+      "reading": null,
+      "indonesian": "The image is not in focus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "映像はピントがあっていない。",
+      "reading": null,
+      "indonesian": "The image is out of focus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その映像はピントがあっていない。",
+      "reading": null,
+      "indonesian": "The image is not in focus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その映像はピントがあっていない。",
+      "reading": null,
+      "indonesian": "The image isn't in focus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この映像はドラマだ。",
+      "reading": null,
+      "indonesian": "This film is a drama.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

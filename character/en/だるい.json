@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "怠い",
+    "reading": "だるい",
+    "romaji": "darui",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "sluggish",
+          "languid",
+          "listless",
+          "heavy (heart, legs, etc.)",
+          "dull"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "bothersome",
+          "tiresome",
+          "pain-in-the-ass"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "怠慢",
+      "reading": "たいまん",
+      "meaning": "negligence"
+    },
+    {
+      "word": "怠ける",
+      "reading": "なまける",
+      "meaning": "to be lazy"
+    },
+    {
+      "word": "滞納",
+      "reading": "たいのう",
+      "meaning": "falling behind (with a payment)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ひだるい時にまずい物なし。",
+      "reading": null,
+      "english": "Hunger is the best sauce.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "教授のだるい講演で寝てしまった。",
+      "reading": null,
+      "english": "The professor's boring lecture put me to sleep.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "だるいし頭がずきずきする。",
+      "reading": null,
+      "english": "I feel listless and have a throbbing headache.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "体全体がだるいです。",
+      "reading": null,
+      "english": "My whole body feels heavy.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "足がだるいです。",
+      "reading": null,
+      "english": "My legs feel heavy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "教授のだるい講演で寝てしまった。",
+      "reading": null,
+      "english": "The professor's boring lecture put me to sleep.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ひだるい時にまずい物なし。",
+      "reading": null,
+      "english": "Hunger is the best sauce.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "だるいし頭がずきずきする。",
+      "reading": null,
+      "english": "I feel listless and have a throbbing headache.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "足がだるいです。",
+      "reading": null,
+      "english": "My legs feel heavy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "体全体がだるいです。",
+      "reading": null,
+      "english": "My whole body feels heavy.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なんだか風邪を引いたみたい。喉が痛いし、体がだるいもの。",
+      "reading": null,
+      "english": "My throat hurts and my body feels heavy. It looks like I've caught a cold somehow.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "なんだか風邪を引いたみたい。喉が痛いし、体がだるいもの。",
+      "reading": null,
+      "english": "My throat hurts and my body feels heavy. It looks like I've caught a cold somehow.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

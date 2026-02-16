@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "侵す",
+    "reading": "おかす",
+    "romaji": "okasu",
+    "jlpt": "N1",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menyerang",
+          "merampok",
+          "melanggar batas"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to infringe",
+          "to encroach"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to harm",
+          "to afflict",
+          "to affect"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "侵略",
+      "reading": "しんりゃく",
+      "meaning": "agresi, invasi, penyerbuan"
+    },
+    {
+      "word": "侵入",
+      "reading": "しんにゅう",
+      "meaning": "invasi, penyerbuan, pelanggaran batas"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "酸は金属を侵す。",
+      "reading": null,
+      "indonesian": "Acids act on metals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "酸は金属を侵す。",
+      "reading": null,
+      "indonesian": "Acids act on metals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

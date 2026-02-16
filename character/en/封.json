@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "封",
+    "reading": "ふう",
+    "romaji": "fuu",
+    "jlpt": "N1",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "seal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "封鎖",
+      "reading": "ふうさ",
+      "meaning": "blockade"
+    },
+    {
+      "word": "同封",
+      "reading": "どうふう",
+      "meaning": "enclosing (e.g. with a letter)"
+    },
+    {
+      "word": "封建",
+      "reading": "ほうけん",
+      "meaning": "feudalistic"
+    },
+    {
+      "word": "封筒",
+      "reading": "ふうとう",
+      "meaning": "envelope"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "だれがこの封筒を破って開けたのか。",
+      "reading": null,
+      "english": "Who has torn the envelope open?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "封筒には切手を貼りましたか？",
+      "reading": null,
+      "english": "Did you put a stamp on the envelope?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その朝届けられた郵便を、秘書は開封した。",
+      "reading": null,
+      "english": "The secretary opened the mail which had been delivered that morning.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その映画は何時封切りになりますか。",
+      "reading": null,
+      "english": "When will the film be released?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ご要望に従って私の写真を同封します。",
+      "reading": null,
+      "english": "In accordance with your request, I enclose a picture of myself.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この封筒に住所・氏名を書きなさい。",
+      "reading": null,
+      "english": "Write your name and address on this envelope.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この紙は大きすぎて封筒に入らない。",
+      "reading": null,
+      "english": "The paper is too big for the envelope.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この港は封鎖されうる。",
+      "reading": null,
+      "english": "The harbor can be blocked.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いったん封を切るとそのテープは返品できません。",
+      "reading": null,
+      "english": "Once you break the seal, you can't return the tape.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "履歴書はこの封筒に入れて人事部に提出して下さい。",
+      "reading": null,
+      "english": "Enclose your resume in this envelope and submit it to the personnel department.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "definition": {
+    "word": "制する",
+    "reading": "せいする",
+    "romaji": "seisuru",
+    "jlpt": "N1",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mengendalikan",
+          "untuk memerintah"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to get the better of"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to control",
+          "to command"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "統制",
+      "reading": "とうせい",
+      "meaning": "peraturan, kontrol"
+    },
+    {
+      "word": "制裁",
+      "reading": "せいさい",
+      "meaning": "pengekangan, sanksi, hukuman"
+    },
+    {
+      "word": "強制",
+      "reading": "きょうせい",
+      "meaning": "kewajiban, paksaan, penegakan"
+    },
+    {
+      "word": "制定",
+      "reading": "せいてい",
+      "meaning": "pemberlakuan, pendirian, penciptaan"
+    },
+    {
+      "word": "抑制",
+      "reading": "よくせい",
+      "meaning": "kontrol, pengekangan, penindasan"
+    },
+    {
+      "word": "制約",
+      "reading": "せいやく",
+      "meaning": "keterbatasan, kendala"
+    },
+    {
+      "word": "規制",
+      "reading": "きせい",
+      "meaning": "peraturan"
+    },
+    {
+      "word": "制限",
+      "reading": "せいげん",
+      "meaning": "pembatasan, pengekangan, keterbatasan"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaning": "karya (misalnya, film, buku)"
+    },
+    {
+      "word": "制服",
+      "reading": "せいふく",
+      "meaning": "seragam"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何も私にそれをあきらめるように強制することができない。",
+      "reading": null,
+      "indonesian": "Nothing can force me to give it up.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あの新しい会社は競争を制するかもしれません。",
+      "reading": null,
+      "indonesian": "That new company could flatten the competition.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は理性で情欲を制することが出来る。",
+      "reading": null,
+      "indonesian": "He is able to subordinate passion to reason.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は怒りを抑制することができなかった。",
+      "reading": null,
+      "indonesian": "He could not control his anger.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はもはや自分を抑制することができなかった。",
+      "reading": null,
+      "indonesian": "He could no longer restrain himself.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "船長は船のすべてを統制する。",
+      "reading": null,
+      "indonesian": "The captain controls the whole ship.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自制するよう努めなさい。",
+      "reading": null,
+      "indonesian": "Try to control yourself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自制するよう努めなさい。",
+      "reading": null,
+      "indonesian": "Try to control yourselves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "市内での車の使用を規制する計画がある。",
+      "reading": null,
+      "indonesian": "There is a plan to restrict the use of cars in the city center.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "最も多くを制する者は、なるべくなりをひそめる。",
+      "reading": null,
+      "indonesian": "They that govern the most make the least noise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "交通信号は交通の流れを規制するために使われている。",
+      "reading": null,
+      "indonesian": "Traffic lights are used to regulate traffic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

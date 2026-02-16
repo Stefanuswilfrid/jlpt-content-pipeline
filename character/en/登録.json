@@ -1,0 +1,170 @@
+{
+  "definition": {
+    "word": "登録",
+    "reading": "とうろく",
+    "romaji": "touroku",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "registration",
+          "accession",
+          "register",
+          "entry",
+          "record",
+          "subscription"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "登校",
+      "reading": "とうこう",
+      "meaning": "attendance (at school)"
+    },
+    {
+      "word": "目録",
+      "reading": "もくろく",
+      "meaning": "catalogue"
+    },
+    {
+      "word": "付録",
+      "reading": "ふろく",
+      "meaning": "appendix"
+    },
+    {
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "record"
+    },
+    {
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaning": "entrance (on the stage)"
+    },
+    {
+      "word": "登山",
+      "reading": "とざん",
+      "meaning": "mountain climbing"
+    },
+    {
+      "word": "録音",
+      "reading": "ろくおん",
+      "meaning": "(audio) recording"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "会員の名前をいつ登録したのか。",
+      "reading": null,
+      "english": "When did they register the names of the members?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "悪漢は金銭登録機のお金を要求した。",
+      "reading": null,
+      "english": "The bandits demanded all money in the register.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その名前では誰も学校の名簿に登録されていません。",
+      "reading": null,
+      "english": "No person by that name is listed in the register of the school.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "明日までに履修する科目の登録をしなければなりまれん。",
+      "reading": null,
+      "english": "We must register for the courses that we're going to take by tomorrow.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "必ず本人が登録用紙に記入して下さい。",
+      "reading": null,
+      "english": "Be sure to fill out the registration form in person.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は地域の大学の夜間授業２クラスに登録した。",
+      "reading": null,
+      "english": "She's signed up for a couple of night classes at the local college.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは彼を陪審員として登録した。",
+      "reading": null,
+      "english": "They enrolled him as a jury member.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "登録用紙は無料で入手できます。",
+      "reading": null,
+      "english": "I am able to obtain a registration form for free.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "登録の必要のない試用版は配ってもかまいません。",
+      "reading": null,
+      "english": "It is OK to redistribute the unregistered trial version.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "先生の秘書のおかげで秘密の登録テクニックがわかった。",
+      "reading": null,
+      "english": "I found out about a back-door registration technique from his secretary.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "申込書に記入した後で、登録係から手数料が８ドルだといわれた。",
+      "reading": null,
+      "english": "After she filled out the application, the records clerk told her that the fee was eight dollars.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "新しい客はホテルの宿帳に登録せねばならない。",
+      "reading": null,
+      "english": "New guests must register in the hotel book.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今登録されれば、１年間無料です。",
+      "reading": null,
+      "english": "Join now and pay nothing for a whole year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

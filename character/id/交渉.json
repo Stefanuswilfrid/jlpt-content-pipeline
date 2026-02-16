@@ -1,0 +1,188 @@
+{
+  "definition": {
+    "word": "交渉",
+    "reading": "こうしょう",
+    "romaji": "koushou",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "perundingan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "connection",
+          "relationship",
+          "relations",
+          "dealings"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "国交",
+      "reading": "こっこう",
+      "meaning": "hubungan diplomatik"
+    },
+    {
+      "word": "交付",
+      "reading": "こうふ",
+      "meaning": "mengirimkan, menyediakan (dengan salinan)"
+    },
+    {
+      "word": "干渉",
+      "reading": "かんしょう",
+      "meaning": "campur tangan, intervensi"
+    },
+    {
+      "word": "交互",
+      "reading": "こうご",
+      "meaning": "saling, timbal balik, bergantian"
+    },
+    {
+      "word": "交える",
+      "reading": "まじえる",
+      "meaning": "berbaur, bercakap-cakap, beradu pedang"
+    },
+    {
+      "word": "社交",
+      "reading": "しゃこう",
+      "meaning": "kehidupan sosial"
+    },
+    {
+      "word": "交わる",
+      "reading": "まじわる",
+      "meaning": "menyeberang, berpotongan, bercampur dengan,"
+    },
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomasi"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "pertukaran; arus bolak-balik"
+    },
+    {
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning": "tukar, ganti"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "lalu lintas, transportasi"
+    },
+    {
+      "word": "出くわす",
+      "reading": "でくわす",
+      "meaning": "kebetulan bertemu, secara tidak sengaja"
+    },
+    {
+      "word": "交際",
+      "reading": "こうさい",
+      "meaning": "persahabatan, pergaulan, kenalan"
+    },
+    {
+      "word": "交差点",
+      "reading": "こうさてん",
+      "meaning": "persimpangan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々は彼を彼らと交渉する代表にたてた。",
+      "reading": null,
+      "indonesian": "We delegated him to negotiate with them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は就労時間について社長と交渉した。",
+      "reading": null,
+      "indonesian": "We negotiated with the President about our working hours.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は交渉して週休２日制にする協定をした。",
+      "reading": null,
+      "indonesian": "We bargained that we should go on a five-day week.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々の交渉は途切れた。",
+      "reading": null,
+      "indonesian": "Our negotiations broke off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々の交渉は失敗どころか、大成功だった。",
+      "reading": null,
+      "indonesian": "Far from being a failure, our negotiation was a great success.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それから彼女は銀行との交渉を続けた。",
+      "reading": null,
+      "indonesian": "She then proceeded to negotiate with her bank.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "スタッフに交渉事がうまいのがいます。",
+      "reading": null,
+      "indonesian": "We have a good negotiator on the staff.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この交渉を打ち切りたい。",
+      "reading": null,
+      "indonesian": "We want to break off this negotiation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "うちの一番腕利きの交渉者はいつも強引に有利な取り引きをする。",
+      "reading": null,
+      "indonesian": "Our best negotiators always drive a hard bargain.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "インベーダーと和議の交渉をしないことに決めた。",
+      "reading": null,
+      "indonesian": "We decided not to have peace negotiations with the invaders.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

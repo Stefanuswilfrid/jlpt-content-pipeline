@@ -1,0 +1,204 @@
+{
+  "definition": {
+    "word": "育ち",
+    "reading": "そだち",
+    "romaji": "sodachi",
+    "jlpt": "N1",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "growth",
+          "breeding"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "growing up (in, as)",
+          "upbringing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "飼育",
+      "reading": "しいく",
+      "meaning": "breeding"
+    },
+    {
+      "word": "生育",
+      "reading": "せいいく",
+      "meaning": "birth and growth"
+    },
+    {
+      "word": "保育",
+      "reading": "ほいく",
+      "meaning": "nurturing"
+    },
+    {
+      "word": "育成",
+      "reading": "いくせい",
+      "meaning": "rearing"
+    },
+    {
+      "word": "発育",
+      "reading": "はついく",
+      "meaning": "(physical) growth"
+    },
+    {
+      "word": "成育",
+      "reading": "せいいく",
+      "meaning": "growth (to maturity)"
+    },
+    {
+      "word": "教育",
+      "reading": "きょういく",
+      "meaning": "education"
+    },
+    {
+      "word": "体育",
+      "reading": "たいいく",
+      "meaning": "physical education"
+    },
+    {
+      "word": "育児",
+      "reading": "いくじ",
+      "meaning": "childcare"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "温室育ち",
+      "reading": "おんしつそだち",
+      "meaning": "sheltered upbringing",
+      "type": "idiom"
+    },
+    {
+      "word": "氏より育ち",
+      "reading": "うじよりそだち",
+      "meaning": "nurture over nature",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "育ち盛りの子供にはもっと多くの食物が必要だ。",
+      "reading": null,
+      "english": "A growing child requires more food.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ロス育ちかと思いました。",
+      "reading": null,
+      "english": "I thought you were raised in L.A.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この種の植物は熱帯地方にのみ育ちます。",
+      "reading": null,
+      "english": "This kind of plant grows only in the tropical regions.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この子はすくすくとよく育ちました。",
+      "reading": null,
+      "english": "This child has grown up normally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "オレンジは温暖な国で育ちます。",
+      "reading": null,
+      "english": "Oranges grow in warm countries.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "オーストリアのどこであなたは育ちましたか。",
+      "reading": null,
+      "english": "Where in Austria did you grow up?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は畑の作物が育ち、りんごの実が赤く熟すのをみました。",
+      "reading": null,
+      "english": "She watched the gardens grow, and she watched the apples turn red and ripen.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は育ちがよい。",
+      "reading": null,
+      "english": "She is well brought up.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は都会人の作法を身につけているけれども根は田舎育ちだ。",
+      "reading": null,
+      "english": "For all his city ways, he is a country boy at heart.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は生まれも育ちも東京です。",
+      "reading": null,
+      "english": "He was born and brought up in Tokyo.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は生まれも育ちも東京です。",
+      "reading": null,
+      "english": "He was born and raised in Tokyo.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は生まれも育ちもいい人だ。",
+      "reading": null,
+      "english": "He is a man of birth and breeding.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は金持ちだ。そのうえ、育ちがいい。",
+      "reading": null,
+      "english": "He is rich, what is more, he is well-bred.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本のどこであなたは育ちましたか。",
+      "reading": null,
+      "english": "Where in Japan did you grow up?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

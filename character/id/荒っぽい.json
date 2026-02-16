@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "荒っぽい",
+    "reading": "あらっぽい",
+    "romaji": "arappoi",
+    "jlpt": "N1",
+    "frequency": 16750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "kasar",
+          "tidak sopan"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "rough (e.g. work)",
+          "crude",
+          "coarse",
+          "careless"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "荒い",
+      "reading": "あらい",
+      "meaning": "kasar, tidak sopan, liar"
+    },
+    {
+      "word": "荒らす",
+      "reading": "あらす",
+      "meaning": "merusak; menyerang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ボクシングは必ずしも荒っぽいスポーツではない。",
+      "reading": null,
+      "indonesian": "Boxing is not always a rough sport.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボクシングは必ずしも荒っぽいスポーツではない。",
+      "reading": null,
+      "indonesian": "Boxing is not always a rough sport.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

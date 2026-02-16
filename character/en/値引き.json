@@ -1,0 +1,144 @@
+{
+  "definition": {
+    "word": "値引き",
+    "reading": "ねびき",
+    "romaji": "nebiki",
+    "jlpt": "N1",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "price reduction",
+          "discount"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "引き上げる",
+      "reading": "ひきあげる",
+      "meaning": "to pull up"
+    },
+    {
+      "word": "引きずる",
+      "reading": "ひきずる",
+      "meaning": "to drag"
+    },
+    {
+      "word": "取引",
+      "reading": "とりひき",
+      "meaning": "transactions"
+    },
+    {
+      "word": "値打ち",
+      "reading": "ねうち",
+      "meaning": "value"
+    },
+    {
+      "word": "引き起こす",
+      "reading": "ひきおこす",
+      "meaning": "to cause"
+    },
+    {
+      "word": "強引",
+      "reading": "ごういん",
+      "meaning": "overbearing"
+    },
+    {
+      "word": "割引",
+      "reading": "わりびき",
+      "meaning": "discount"
+    },
+    {
+      "word": "引く",
+      "reading": "ひく",
+      "meaning": "to pull"
+    },
+    {
+      "word": "字引",
+      "reading": "じびき",
+      "meaning": "dictionary"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "価格を値引きする店もあります。",
+      "reading": null,
+      "english": "Some stores discount the price.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まとめて２個買いますから値引きしてください。",
+      "reading": null,
+      "english": "Could you knock down the price if I buy two?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どのくらいなら値引きできますか。",
+      "reading": null,
+      "english": "How much of a discount can you give?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それを５％値引きしていただけますか。",
+      "reading": null,
+      "english": "We would ask you to give us a price reduction of 5%.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これ以上の値引きは、私どもを赤字に追いやるでしょう。",
+      "reading": null,
+      "english": "A further reduction would make us go into the red.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これを買ってくれるなら１５％値引きします。",
+      "reading": null,
+      "english": "If you buy this, I will give you a fifteen percent discount.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは、通常の値引きとは異なります。",
+      "reading": null,
+      "english": "This offer is not subject to the usual discounts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの店ではすべての商品を１０％値引きをしている。",
+      "reading": null,
+      "english": "Everything at that store is 10 percent off the regular price.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ＳＴＬ＃３４５６の見積価格を５％値引きしていただけませんか。",
+      "reading": null,
+      "english": "We would like to ask you to reduce the prices quoted for STL#3456 by 5%.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

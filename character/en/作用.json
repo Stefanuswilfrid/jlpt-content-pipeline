@@ -1,0 +1,249 @@
+{
+  "definition": {
+    "word": "作用",
+    "reading": "さよう",
+    "romaji": "sayou",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "action",
+          "operation",
+          "process",
+          "agency",
+          "effect",
+          "function"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "工作",
+      "reading": "こうさく",
+      "meaning": "handicraft"
+    },
+    {
+      "word": "専用",
+      "reading": "せんよう",
+      "meaning": "(one's) exclusive use"
+    },
+    {
+      "word": "原作",
+      "reading": "げんさく",
+      "meaning": "original work"
+    },
+    {
+      "word": "作り",
+      "reading": "つくり",
+      "meaning": "making"
+    },
+    {
+      "word": "用紙",
+      "reading": "ようし",
+      "meaning": "blank form"
+    },
+    {
+      "word": "用品",
+      "reading": "ようひん",
+      "meaning": "articles"
+    },
+    {
+      "word": "発作",
+      "reading": "ほっさ",
+      "meaning": "fit"
+    },
+    {
+      "word": "凶作",
+      "reading": "きょうさく",
+      "meaning": "bad harvest"
+    },
+    {
+      "word": "無用",
+      "reading": "むよう",
+      "meaning": "useless"
+    },
+    {
+      "word": "作戦",
+      "reading": "さくせん",
+      "meaning": "tactics"
+    },
+    {
+      "word": "採用",
+      "reading": "さいよう",
+      "meaning": "use"
+    },
+    {
+      "word": "運用",
+      "reading": "うんよう",
+      "meaning": "making use of"
+    },
+    {
+      "word": "耕作",
+      "reading": "こうさく",
+      "meaning": "cultivation"
+    },
+    {
+      "word": "豊作",
+      "reading": "ほうさく",
+      "meaning": "abundant harvest"
+    },
+    {
+      "word": "公用",
+      "reading": "こうよう",
+      "meaning": "official business"
+    },
+    {
+      "word": "代用",
+      "reading": "だいよう",
+      "meaning": "substitution"
+    },
+    {
+      "word": "兼用",
+      "reading": "けんよう",
+      "meaning": "multi-use"
+    },
+    {
+      "word": "使用人",
+      "reading": "しようにん",
+      "meaning": "employee"
+    },
+    {
+      "word": "用件",
+      "reading": "ようけん",
+      "meaning": "business"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "同化作用",
+      "reading": "どうかさよう",
+      "meaning": "assimilation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自浄作用",
+      "reading": "じじょうさよう",
+      "meaning": "autopurificatory activity (in the natural world)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自壊作用",
+      "reading": "じかいさよう",
+      "meaning": "(the act of) disintegration",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そこで他人との相互作用が大切になる。",
+      "reading": null,
+      "english": "Then interaction with others becomes important.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この薬に副作用はありません。",
+      "reading": null,
+      "english": "This medicine has no side effects.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この薬には悪い副作用はありません。",
+      "reading": null,
+      "english": "This medicine is free from harmful effects.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "イースト菌はパンを膨らませる際の作用剤だ。",
+      "reading": null,
+      "english": "Yeast acts as an agent in making bread rise.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "副作用としては、視力障害があります。",
+      "reading": null,
+      "english": "This has visual impairment as a side effect.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "物価を押し上げるのにいくつかの要因が作用した。",
+      "reading": null,
+      "english": "Several factors operated to help prices go up.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "副作用はありませんか。",
+      "reading": null,
+      "english": "Is there any adverse reaction?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日光は皮膚に作用する。",
+      "reading": null,
+      "english": "The sunbeam acts upon the skin.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日光は皮膚に作用する。",
+      "reading": null,
+      "english": "Sunlight acts upon the skin.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "暖かい天候の時は、発汗作用が体温の調節をする上で役立つ。",
+      "reading": null,
+      "english": "During warm weather, sweating helps man regulate his body temperature.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "酸は金属を含む多くのものに作用する。",
+      "reading": null,
+      "english": "Acids act on many things including metals.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "酸は金属を含むものに作用する。",
+      "reading": null,
+      "english": "Acid acts on things which contain metal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "酸は、金属に作用する。",
+      "reading": null,
+      "english": "Acid acts on metals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

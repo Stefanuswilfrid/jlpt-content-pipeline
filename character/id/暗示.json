@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "暗示",
+    "reading": "あんじ",
+    "romaji": "anji",
+    "jlpt": "N1",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "petunjuk",
+          "saran"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "suggestion"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "展示",
+      "reading": "てんじ",
+      "meaning": "pameran, pajangan"
+    },
+    {
+      "word": "暗殺",
+      "reading": "あんさつ",
+      "meaning": "pembunuhan"
+    },
+    {
+      "word": "提示",
+      "reading": "ていじ",
+      "meaning": "presentasi, pameran, saran, kutipan"
+    },
+    {
+      "word": "暗算",
+      "reading": "あんざん",
+      "meaning": "aritmatika mental"
+    },
+    {
+      "word": "暗記",
+      "reading": "あんき",
+      "meaning": "menghafal, belajar dengan hati"
+    },
+    {
+      "word": "示す",
+      "reading": "しめす",
+      "meaning": "untuk menunjukkan, untuk mengindikasikan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自己暗示",
+      "reading": "じこあんじ",
+      "meaning": "autosuggestion",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼の言葉は何を暗示しているのか。",
+      "reading": null,
+      "indonesian": "What do his words imply?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の言葉は何を暗示しているのか。",
+      "reading": null,
+      "indonesian": "What do his words imply?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

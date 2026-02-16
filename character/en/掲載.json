@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "掲載",
+    "reading": "けいさい",
+    "romaji": "keisai",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "publication (e.g. of an article in a newspaper)",
+          "carrying (e.g. a story)",
+          "running (e.g. a serial)",
+          "insertion (e.g. of an advertisement)",
+          "printing",
+          "posting (e.g. on the web)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "掲げる",
+      "reading": "かかげる",
+      "meaning": "to put up (a notice, sign, etc.)"
+    },
+    {
+      "word": "記載",
+      "reading": "きさい",
+      "meaning": "mention (in a document)"
+    },
+    {
+      "word": "乗せる",
+      "reading": "のせる",
+      "meaning": "to place on (something)"
+    },
+    {
+      "word": "掲示",
+      "reading": "けいじ",
+      "meaning": "notice"
+    },
+    {
+      "word": "載る",
+      "reading": "のる",
+      "meaning": "to be placed on"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは昨日の産経新聞に掲載された。",
+      "reading": null,
+      "english": "It came out in yesterday's Sankei.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは昨日の産経新聞に掲載された。",
+      "reading": null,
+      "english": "It came out in yesterday's Sankei.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このサイトには、役立つ記事がたくさん掲載してある。",
+      "reading": null,
+      "english": "On this site, there are many useful articles.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このサイトには、役立つ記事がたくさん掲載してある。",
+      "reading": null,
+      "english": "On this site, there are many useful articles.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

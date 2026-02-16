@@ -1,0 +1,166 @@
+{
+  "definition": {
+    "word": "武装",
+    "reading": "ぶそう",
+    "romaji": "busou",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "arms",
+          "armament",
+          "taking up arms",
+          "arming oneself"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "武力",
+      "reading": "ぶりょく",
+      "meaning": "armed might"
+    },
+    {
+      "word": "装備",
+      "reading": "そうび",
+      "meaning": "equipment"
+    },
+    {
+      "word": "衣装",
+      "reading": "いしょう",
+      "meaning": "clothing"
+    },
+    {
+      "word": "装飾",
+      "reading": "そうしょく",
+      "meaning": "ornament"
+    },
+    {
+      "word": "舗装",
+      "reading": "ほそう",
+      "meaning": "paving (a road)"
+    },
+    {
+      "word": "武器",
+      "reading": "ぶき",
+      "meaning": "weapon"
+    },
+    {
+      "word": "装置",
+      "reading": "そうち",
+      "meaning": "equipment"
+    },
+    {
+      "word": "服装",
+      "reading": "ふくそう",
+      "meaning": "attire"
+    },
+    {
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaning": "packing"
+    },
+    {
+      "word": "武士",
+      "reading": "ぶし",
+      "meaning": "samurai"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "武装蜂起",
+      "reading": "ぶそうほうき",
+      "meaning": "armed uprising",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海賊は武装していない商船を餌食にした。",
+      "reading": null,
+      "english": "Larger pirates often preyed on unarmed merchant ships.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その兵士たちは武装していた。",
+      "reading": null,
+      "english": "The soldiers were equipped with weapons.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その集会はいかなる核武装にも抗議することを決議した。",
+      "reading": null,
+      "english": "The assembly voted to protest against any nuclear armament.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その国は公然と核武装するとおどしている。",
+      "reading": null,
+      "english": "That country has openly threatened to go nuclear.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "兵士は武装する。",
+      "reading": null,
+      "english": "Soldiers bear arms.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは銃で武装した。",
+      "reading": null,
+      "english": "They armed themselves with guns.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはライフルで武装していた。",
+      "reading": null,
+      "english": "They armed themselves with rifles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはみな武装している。",
+      "reading": null,
+      "english": "They are all in arms.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "短剣だけで武装して、彼は攻撃してきた５人を皆追い払った。",
+      "reading": null,
+      "english": "Armed only with a short sword, he drove off all five of his attackers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "四人の武装した男が銀行を襲って、四百万ドルを奪って逃げた。",
+      "reading": null,
+      "english": "Four armed men held up the bank and escaped with $4 million.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

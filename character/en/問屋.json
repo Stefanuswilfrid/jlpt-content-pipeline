@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "問屋",
+    "reading": "とんや",
+    "romaji": "ton'ya",
+    "jlpt": "N1",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wholesale store",
+          "wholesale dealer",
+          "wholesaler"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "屋敷",
+      "reading": "やしき",
+      "meaning": "residence"
+    },
+    {
+      "word": "小屋",
+      "reading": "こや",
+      "meaning": "hut"
+    },
+    {
+      "word": "学問",
+      "reading": "がくもん",
+      "meaning": "study"
+    },
+    {
+      "word": "屋上",
+      "reading": "おくじょう",
+      "meaning": "rooftop"
+    },
+    {
+      "word": "床屋",
+      "reading": "とこや",
+      "meaning": "barbershop"
+    },
+    {
+      "word": "家屋",
+      "reading": "かおく",
+      "meaning": "house"
+    },
+    {
+      "word": "屋外",
+      "reading": "おくがい",
+      "meaning": "outdoors"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "そうは問屋が卸さない",
+      "reading": "そうはとんやがおろさない",
+      "meaning": "things don't work that well in the real world",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そうは問屋がおろさないぞ。",
+      "reading": null,
+      "english": "You won't get it so easily.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そうは問屋がおろさないぞ。",
+      "reading": null,
+      "english": "You won't get it so easily.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そうは問屋がおろさないぞ。",
+      "reading": null,
+      "english": "Things don't always go as planned.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そうは問屋がおろさないぞ。",
+      "reading": null,
+      "english": "It won't be as easy as you think.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そうは問屋がおろさないぞ。",
+      "reading": null,
+      "english": "Things don't always go as planned.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そうは問屋がおろさないぞ。",
+      "reading": null,
+      "english": "It won't be as easy as you think.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

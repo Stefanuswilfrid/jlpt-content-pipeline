@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "老いる",
+    "reading": "おいる",
+    "romaji": "oiru",
+    "jlpt": "N1",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to age",
+          "to grow old"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "老衰",
+      "reading": "ろうすい",
+      "meaning": "senility"
+    },
+    {
+      "word": "老ける",
+      "reading": "ふける",
+      "meaning": "to age"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "生きることは老いること。それだけ。",
+      "reading": null,
+      "english": "Living is growing old, nothing more.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "生きることは老いること。それだけ。",
+      "reading": null,
+      "english": "Living is growing old, nothing more.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

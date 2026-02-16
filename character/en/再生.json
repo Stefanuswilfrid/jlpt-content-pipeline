@@ -1,0 +1,307 @@
+{
+  "definition": {
+    "word": "再生",
+    "reading": "さいせい",
+    "romaji": "saisei",
+    "jlpt": "N1",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "restoration to life",
+          "coming to life again",
+          "resuscitation",
+          "regeneration"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reformation",
+          "rehabilitation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "recycling",
+          "reclamation",
+          "recovery"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "playback",
+          "regeneration (of video or sound)",
+          "views (of an online video)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "regeneration (of lost or damaged tissue)",
+          "regrowth"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "rebirth",
+          "reincarnation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "recall (memory)",
+          "retrieval"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "再建",
+      "reading": "さいけん",
+      "meaning": "rebuilding"
+    },
+    {
+      "word": "発生",
+      "reading": "はっせい",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "野生",
+      "reading": "やせい",
+      "meaning": "wild"
+    },
+    {
+      "word": "出生",
+      "reading": "しゅっしょう",
+      "meaning": "birth"
+    },
+    {
+      "word": "再発",
+      "reading": "さいはつ",
+      "meaning": "return"
+    },
+    {
+      "word": "育成",
+      "reading": "いくせい",
+      "meaning": "rearing"
+    },
+    {
+      "word": "畜生",
+      "reading": "ちくしょう",
+      "meaning": "damn it"
+    },
+    {
+      "word": "再現",
+      "reading": "さいげん",
+      "meaning": "reappearance"
+    },
+    {
+      "word": "生かす",
+      "reading": "いかす",
+      "meaning": "to make (the best) use of"
+    },
+    {
+      "word": "再会",
+      "reading": "さいかい",
+      "meaning": "meeting again"
+    },
+    {
+      "word": "生育",
+      "reading": "せいいく",
+      "meaning": "birth and growth"
+    },
+    {
+      "word": "生死",
+      "reading": "せいし",
+      "meaning": "life and death"
+    },
+    {
+      "word": "生計",
+      "reading": "せいけい",
+      "meaning": "livelihood"
+    },
+    {
+      "word": "生身",
+      "reading": "なまみ",
+      "meaning": "living flesh"
+    },
+    {
+      "word": "生まれつき",
+      "reading": "うまれつき",
+      "meaning": "by nature"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "student (esp. a university student)"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "life"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "production"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(one's) life"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "音楽を頭の中で再生してみなさい。",
+      "reading": null,
+      "english": "Try to reproduce the music in your mind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その場面はスローモーションで再生された。",
+      "reading": null,
+      "english": "The scene was shown in slow motion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この教科書って再生紙でできてんだ。",
+      "reading": null,
+      "english": "You know this textbook is made of recycled paper.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "録音が終わったらそれを再生して聞かせてください。",
+      "reading": null,
+      "english": "Please play it back for me after you've finished the recording.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私達はエネルギーの再生利用を考えなければならない。",
+      "reading": null,
+      "english": "We must think about recycling energy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは新聞の再生利用を始めました。",
+      "reading": null,
+      "english": "We have started to recycle newspapers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは新聞の再生利用を始めました。",
+      "reading": null,
+      "english": "We've started to recycle newspapers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは再生できるエネルギー源を開発しなければならない。",
+      "reading": null,
+      "english": "We must develop the renewable energy sources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは再生できるエネルギー源を開発しなければならない。",
+      "reading": null,
+      "english": "We must develop renewable energy sources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは再生可能なエネルギー源を開発する必要がある。",
+      "reading": null,
+      "english": "We must develop renewable energy sources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "音楽を頭の中で再生してみなさい。",
+      "reading": null,
+      "english": "Try to reproduce the music in your mind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その場面はスローモーションで再生された。",
+      "reading": null,
+      "english": "The scene was shown in slow motion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは再生できるエネルギー源を開発しなければならない。",
+      "reading": null,
+      "english": "We must develop the renewable energy sources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは再生できるエネルギー源を開発しなければならない。",
+      "reading": null,
+      "english": "We must develop renewable energy sources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

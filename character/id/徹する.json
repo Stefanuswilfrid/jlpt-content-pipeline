@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "徹する",
+    "reading": "てっする",
+    "romaji": "tessuru",
+    "jlpt": "N1",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk mengabdikan diri",
+          "untuk percaya pada"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to devote oneself (to)",
+          "to do intently and exclusively"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to do throughout (e.g. the night)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "徹夜",
+      "reading": "てつや",
+      "meaning": "Begadang sepanjang malam, tidak bisa tidur"
+    },
+    {
+      "word": "徹底",
+      "reading": "てってい",
+      "meaning": "ketelitian, kelengkapan"
+    },
+    {
+      "word": "通る",
+      "reading": "とおる",
+      "meaning": "melewati, menempuh"
+    },
+    {
+      "word": "透き通る",
+      "reading": "すきとおる",
+      "meaning": "menjadi transparan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "眼光紙背に徹する",
+      "reading": "がんこうしはいにてっする",
+      "meaning": "to (be able to) read between the lines",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "夜を徹するか否か。",
+      "reading": null,
+      "indonesian": "To work all night, or not.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夜を徹するか否か。",
+      "reading": null,
+      "indonesian": "Should I stay up all night or not?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夜を徹するか否か。",
+      "reading": null,
+      "indonesian": "To work all night, or not.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夜を徹するか否か。",
+      "reading": null,
+      "indonesian": "Should I stay up all night or not?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

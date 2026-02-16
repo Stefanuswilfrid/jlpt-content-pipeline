@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "担う",
+    "reading": "になう",
+    "romaji": "ninau",
+    "jlpt": "N1",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membawa di pundak",
+          "memikul (beban)",
+          "memanggul (senjata)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bear (a burden, responsibility, etc.)",
+          "to take upon oneself"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "beban; muatan"
+    },
+    {
+      "word": "分担",
+      "reading": "ぶんたん",
+      "meaning": "pembagian, berbagi"
+    },
+    {
+      "word": "担ぐ",
+      "reading": "かつぐ",
+      "meaning": "untuk memanggul, membawa di pundak"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "(bertanggung jawab)"
+    },
+    {
+      "word": "担架",
+      "reading": "たんか",
+      "meaning": "tandu, usungan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一端を担う",
+      "reading": "いったんをになう",
+      "meaning": "to be partly responsible for",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

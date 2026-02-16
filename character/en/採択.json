@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "採択",
+    "reading": "さいたく",
+    "romaji": "saitaku",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "adoption",
+          "selection",
+          "choice"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "採用",
+      "reading": "さいよう",
+      "meaning": "use"
+    },
+    {
+      "word": "採決",
+      "reading": "さいけつ",
+      "meaning": "vote"
+    },
+    {
+      "word": "採算",
+      "reading": "さいさん",
+      "meaning": "profit"
+    },
+    {
+      "word": "採掘",
+      "reading": "さいくつ",
+      "meaning": "mining"
+    },
+    {
+      "word": "選択",
+      "reading": "せんたく",
+      "meaning": "choice"
+    },
+    {
+      "word": "選ぶ",
+      "reading": "えらぶ",
+      "meaning": "to choose"
+    },
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaning": "to take in"
+    },
+    {
+      "word": "採点",
+      "reading": "さいてん",
+      "meaning": "marking"
+    },
+    {
+      "word": "採集",
+      "reading": "さいしゅう",
+      "meaning": "collecting"
+    },
+    {
+      "word": "採る",
+      "reading": "とる",
+      "meaning": "to adopt (a method, proposal, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その委員会はその提案を採択した。",
+      "reading": null,
+      "english": "The committee adopted the plan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはその提案を採択した。",
+      "reading": null,
+      "english": "They adopted the proposal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "国連総会は停戦決議案を採択した。",
+      "reading": null,
+      "english": "The United Nations General Assembly adopted the cease-fire resolution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その委員会はその提案を採択した。",
+      "reading": null,
+      "english": "The committee adopted the plan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "国連総会は停戦決議案を採択した。",
+      "reading": null,
+      "english": "The United Nations General Assembly adopted the cease-fire resolution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはその提案を採択した。",
+      "reading": null,
+      "english": "They adopted the proposal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

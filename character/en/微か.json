@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "微か",
+    "reading": "かすか",
+    "romaji": "kasuka",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "faint",
+          "dim",
+          "weak",
+          "slight",
+          "vague",
+          "indistinct",
+          "hazy"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "poor",
+          "wretched",
+          "meagre",
+          "meager",
+          "scanty"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "微量",
+      "reading": "びりょう",
+      "meaning": "minuscule amount"
+    },
+    {
+      "word": "微妙",
+      "reading": "びみょう",
+      "meaning": "subtle"
+    },
+    {
+      "word": "微笑",
+      "reading": "びしょう",
+      "meaning": "smile"
+    },
+    {
+      "word": "微笑む",
+      "reading": "ほほえむ",
+      "meaning": "to smile"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その食べ物には微かににんにくの風味があった。",
+      "reading": null,
+      "english": "The food tasted slightly of garlic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "少年は容貌が父親に微かに似ていた。",
+      "reading": null,
+      "english": "The boy faintly resembled his father in appearance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "少年は容貌が父親に微かに似ていた。",
+      "reading": null,
+      "english": "The boy faintly resembled his father in appearance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ふと、私は、後ろから聞えて来る微かな跫音に耳を聳てたのです。",
+      "reading": null,
+      "english": "Suddenly, I raised my ears to the faint sound of footsteps coming from behind me.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "ふと、私は、後ろから聞えて来る微かな跫音に耳を聳てたのです。",
+      "reading": null,
+      "english": "Suddenly, I raised my ears to the faint sound of footsteps coming from behind me.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "その食べ物には微かににんにくの風味があった。",
+      "reading": null,
+      "english": "The food tasted slightly of garlic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

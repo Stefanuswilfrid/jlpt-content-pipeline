@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "差額",
+    "reading": "さがく",
+    "romaji": "sagaku",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "balance",
+          "difference (in price, cost)",
+          "margin"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時差",
+      "reading": "じさ",
+      "meaning": "time difference"
+    },
+    {
+      "word": "格差",
+      "reading": "かくさ",
+      "meaning": "qualitative difference"
+    },
+    {
+      "word": "誤差",
+      "reading": "ごさ",
+      "meaning": "measurement error"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "差額はありますか。",
+      "reading": null,
+      "english": "Is there a difference?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "差額はありますか。",
+      "reading": null,
+      "english": "Is there a difference?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

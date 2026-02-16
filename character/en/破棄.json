@@ -1,0 +1,209 @@
+{
+  "definition": {
+    "word": "破棄",
+    "reading": "はき",
+    "romaji": "haki",
+    "jlpt": "N1",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "tearing up and discarding (e.g. documents)",
+          "destruction"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "annulment",
+          "cancellation",
+          "abrogation",
+          "voiding",
+          "breaking (e.g. a treaty)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "reversal (of an original ruling on appeal)",
+          "quashing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "破裂",
+      "reading": "はれつ",
+      "meaning": "bursting"
+    },
+    {
+      "word": "破損",
+      "reading": "はそん",
+      "meaning": "damage"
+    },
+    {
+      "word": "破壊",
+      "reading": "はかい",
+      "meaning": "destruction"
+    },
+    {
+      "word": "廃棄",
+      "reading": "はいき",
+      "meaning": "disposal"
+    },
+    {
+      "word": "突破",
+      "reading": "とっぱ",
+      "meaning": "breaking through"
+    },
+    {
+      "word": "爆破",
+      "reading": "ばくは",
+      "meaning": "destructive blast"
+    },
+    {
+      "word": "棄権",
+      "reading": "きけん",
+      "meaning": "abstention (from voting)"
+    },
+    {
+      "word": "破産",
+      "reading": "はさん",
+      "meaning": "bankruptcy"
+    },
+    {
+      "word": "破片",
+      "reading": "はへん",
+      "meaning": "fragment"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その計画を破棄しろ。",
+      "reading": null,
+      "english": "Put the plan on the scrap heap.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの書類に関しては破棄することが一番いいと思う。",
+      "reading": null,
+      "english": "With respect to these documents, I think the best thing is to destroy them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は腹立ちまぎれに婚約を破棄した。",
+      "reading": null,
+      "english": "She broke off her engagement in a fit of anger.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは婚約を破棄した。",
+      "reading": null,
+      "english": "They called off their engagement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは婚約を破棄した。",
+      "reading": null,
+      "english": "They broke off their engagement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "女優は怒って契約を破棄した。",
+      "reading": null,
+      "english": "The actress tore up her contract angrily.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私達は地震によって契約の破棄を余儀なくされた。",
+      "reading": null,
+      "english": "We were forced to back out of a contract due to the earthquake.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "契約は破棄されたものとみなします。",
+      "reading": null,
+      "english": "I regard the contract as having been broken.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらの書類に関しては破棄することが一番いいと思う。",
+      "reading": null,
+      "english": "With respect to these documents, I think the best thing is to destroy them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "契約は破棄されたものとみなします。",
+      "reading": null,
+      "english": "I regard the contract as having been broken.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私達は地震によって契約の破棄を余儀なくされた。",
+      "reading": null,
+      "english": "We were forced to back out of a contract due to the earthquake.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "女優は怒って契約を破棄した。",
+      "reading": null,
+      "english": "The actress tore up her contract angrily.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは婚約を破棄した。",
+      "reading": null,
+      "english": "They called off their engagement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は腹立ちまぎれに婚約を破棄した。",
+      "reading": null,
+      "english": "She broke off her engagement in a fit of anger.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

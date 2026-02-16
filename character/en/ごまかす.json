@@ -1,0 +1,180 @@
+{
+  "definition": {
+    "word": "誤魔化す",
+    "reading": "ごまかす",
+    "romaji": "gomakasu",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to deceive",
+          "to cheat",
+          "to swindle"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to falsify",
+          "to misrepresent",
+          "to lie about",
+          "to tamper with",
+          "to fiddle",
+          "to doctor",
+          "to cook"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to evade (a question, taxes, etc.)",
+          "to dodge",
+          "to gloss over (a mistake, fault, etc.)",
+          "to smooth over",
+          "to get one's way out of (a difficult situation)",
+          "to explain away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to embezzle",
+          "to pocket"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "誤る",
+      "reading": "あやまる",
+      "meaning": "to make a mistake (in)"
+    },
+    {
+      "word": "酸化",
+      "reading": "さんか",
+      "meaning": "oxidation"
+    },
+    {
+      "word": "化粧",
+      "reading": "けしょう",
+      "meaning": "make-up"
+    },
+    {
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "misunderstanding"
+    },
+    {
+      "word": "消化",
+      "reading": "しょうか",
+      "meaning": "digestion (of food)"
+    },
+    {
+      "word": "邪魔",
+      "reading": "じゃま",
+      "meaning": "hindrance"
+    },
+    {
+      "word": "強化",
+      "reading": "きょうか",
+      "meaning": "strengthening"
+    },
+    {
+      "word": "化石",
+      "reading": "かせき",
+      "meaning": "fossil"
+    },
+    {
+      "word": "文化財",
+      "reading": "ぶんかざい",
+      "meaning": "cultural assets"
+    },
+    {
+      "word": "化合",
+      "reading": "かごう",
+      "meaning": "chemical combination"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外見で他人をごまかす。",
+      "reading": null,
+      "english": "He deceives others with his appearance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トランプでごまかすのはよくないことだ。",
+      "reading": null,
+      "english": "It is wrong to cheat at cards.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お前の責任なんだから、笑ってごまかすなよ。",
+      "reading": null,
+      "english": "This is your responsibility. It's not the kind of thing you can laugh off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "外見で他人をごまかす。",
+      "reading": null,
+      "english": "He deceives others with his appearance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トランプでごまかすのはよくないことだ。",
+      "reading": null,
+      "english": "It is wrong to cheat at cards.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お前の責任なんだから、笑ってごまかすなよ。",
+      "reading": null,
+      "english": "This is your responsibility. It's not the kind of thing you can laugh off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "話ごまかすなよ。",
+      "reading": null,
+      "english": "Don't twist your words with me.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "話ごまかすなよ。",
+      "reading": null,
+      "english": "Don't twist your words with me.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

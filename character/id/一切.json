@@ -1,0 +1,260 @@
+{
+  "definition": {
+    "word": "一切",
+    "reading": "いっさい",
+    "romaji": "issai",
+    "jlpt": "N1",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "tanpa terkecuali",
+          "seluruhnya"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "absolutely (not)",
+          "(not) at all",
+          "(none) whatsoever",
+          "without exception"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一気",
+      "reading": "いっき",
+      "meaning": "dengan sekali tekan, dalam sekali teguk"
+    },
+    {
+      "word": "一連",
+      "reading": "いちれん",
+      "meaning": "serangkaian, rantai, rim (kertas)"
+    },
+    {
+      "word": "一面",
+      "reading": "いちめん",
+      "meaning": "satu sisi, tangan lainnya"
+    },
+    {
+      "word": "一律",
+      "reading": "いちりつ",
+      "meaning": "merata, seragam, sama"
+    },
+    {
+      "word": "一括",
+      "reading": "いっかつ",
+      "meaning": "semuanya sekaligus, kelompok"
+    },
+    {
+      "word": "一変",
+      "reading": "いっぺん",
+      "meaning": "perubahan total"
+    },
+    {
+      "word": "単一",
+      "reading": "たんいつ",
+      "meaning": "tunggal, sederhana, satu-satunya"
+    },
+    {
+      "word": "小切手",
+      "reading": "こぎって",
+      "meaning": "cek, cek"
+    },
+    {
+      "word": "一挙に",
+      "reading": "いっきょに",
+      "meaning": "seketika, dengan satu gerakan"
+    },
+    {
+      "word": "一筋",
+      "reading": "ひとすじ",
+      "meaning": "sebuah baris, dengan sungguh-sungguh, tanpa berpikir panjang, secara langsung"
+    },
+    {
+      "word": "区切り",
+      "reading": "くぎり",
+      "meaning": "akhir, berhenti, tanda baca"
+    },
+    {
+      "word": "切実",
+      "reading": "せつじつ",
+      "meaning": "mendesak, serius, parah, akut"
+    },
+    {
+      "word": "一様",
+      "reading": "いちよう",
+      "meaning": "seragam, serupa, sama"
+    },
+    {
+      "word": "一見",
+      "reading": "いっけん",
+      "meaning": "sebuah pandangan, sekilas, tatapan; pertemuan pertama"
+    },
+    {
+      "word": "一心",
+      "reading": "いっしん",
+      "meaning": "satu pikiran, dengan perhatian penuh"
+    },
+    {
+      "word": "一目",
+      "reading": "ひとめ",
+      "meaning": "sekilas pandang, tatapan, sekilas"
+    },
+    {
+      "word": "切れ目",
+      "reading": "きれめ",
+      "meaning": "istirahat, jeda, celah"
+    },
+    {
+      "word": "一同",
+      "reading": "いちどう",
+      "meaning": "semua yang hadir, semua yang terkait, kita semua"
+    },
+    {
+      "word": "一概に",
+      "reading": "いちがいに",
+      "meaning": "tanpa syarat, perlu"
+    },
+    {
+      "word": "一部分",
+      "reading": "いちぶぶん",
+      "meaning": "bagian, porsi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一切衆生",
+      "reading": "いっさいしゅじょう",
+      "meaning": "all living creatures",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一切合切",
+      "reading": "いっさいがっさい",
+      "meaning": "any and every thing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一切皆空",
+      "reading": "いっさいかいくう",
+      "meaning": "matter is void",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ケーキもう一切れ食べてもいい？",
+      "reading": null,
+      "indonesian": "May I have another piece of cake?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうか私にパンを一切れください。",
+      "reading": null,
+      "indonesian": "Please give me a piece of bread.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "チーズケーキを一切れいただけますか。",
+      "reading": null,
+      "indonesian": "Could I have a slice of cheesecake?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その犬は肉を一切れくわえていた。",
+      "reading": null,
+      "indonesian": "The dog had a piece of meat in its mouth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "男性からの投稿や記事へのレスは一切お断りしております。",
+      "reading": null,
+      "indonesian": "Men are absolutely not allowed to post or reply to articles.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "目を覚まして見ると、一切が夢だったことがわかりました。",
+      "reading": null,
+      "indonesian": "I awoke to find everything had been a dream.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "夫は彼女に一切のことを言わせようとした。",
+      "reading": null,
+      "indonesian": "Her husband demanded that she tell him the whole truth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は肉を一切れ切り取った。",
+      "reading": null,
+      "indonesian": "He cut off a slice of meat.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は肉を一切れ切り取った。",
+      "reading": null,
+      "indonesian": "He cut off a piece of meat.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は私に食べ物を一切くれなかった。",
+      "reading": null,
+      "indonesian": "He didn't give me anything to eat.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は一切れの肉を犬に投げ与えた。",
+      "reading": null,
+      "indonesian": "He threw a piece of meat to a dog.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は一切の論議に耳を貸さなかった。",
+      "reading": null,
+      "indonesian": "He was deaf to all arguments.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はアルコールを一切飲まない。",
+      "reading": null,
+      "indonesian": "He never drinks alcohol.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

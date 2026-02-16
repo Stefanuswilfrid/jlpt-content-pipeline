@@ -1,0 +1,158 @@
+{
+  "definition": {
+    "word": "提示",
+    "reading": "ていじ",
+    "romaji": "teiji",
+    "jlpt": "N1",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "presentasi",
+          "pameran",
+          "saran",
+          "kutipan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "presentation (of a plan, response, etc.)",
+          "bringing up",
+          "citing (an example)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "展示",
+      "reading": "てんじ",
+      "meaning": "pameran, pajangan"
+    },
+    {
+      "word": "提携",
+      "reading": "ていけい",
+      "meaning": "kerja sama, kemitraan, usaha patungan"
+    },
+    {
+      "word": "前提",
+      "reading": "ぜんてい",
+      "meaning": "pendahuluan, premis, prasyarat"
+    },
+    {
+      "word": "提供",
+      "reading": "ていきょう",
+      "meaning": "penawaran, program sponsor"
+    },
+    {
+      "word": "暗示",
+      "reading": "あんじ",
+      "meaning": "petunjuk, saran"
+    },
+    {
+      "word": "示す",
+      "reading": "しめす",
+      "meaning": "untuk menunjukkan, untuk mengindikasikan"
+    },
+    {
+      "word": "掲示",
+      "reading": "けいじ",
+      "meaning": "pemberitahuan, buletin"
+    },
+    {
+      "word": "提案",
+      "reading": "ていあん",
+      "meaning": "usulan, proposisi, saran"
+    },
+    {
+      "word": "提出",
+      "reading": "ていしゅつ",
+      "meaning": "presentasi, pengajuan, pengarsipan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "下記に対して価格を提示してください。",
+      "reading": null,
+      "indonesian": "I'd like a quote for the following.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このセンターに入るには許可証を提示するよう求められている。",
+      "reading": null,
+      "indonesian": "You are asked to produce your permit to get in this center.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "同社の経営陣は組合に５％の賃上げを提示した。",
+      "reading": null,
+      "indonesian": "The management of a company offered a 5% pay increase to the union.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "支払条件もご提示下さい。",
+      "reading": null,
+      "indonesian": "Also, please let us know about your terms of payment.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "最も低い見積価格をご提示していることをご理解ください。",
+      "reading": null,
+      "indonesian": "Please note that we have quoted the lowest possible price.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "最も安い価格をご提示するよう努力してまいりました。",
+      "reading": null,
+      "indonesian": "We have made an effort to quote our most competitive price.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "国境でパスポートの提示を求められた。",
+      "reading": null,
+      "indonesian": "I was asked for my passport at the border.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "下記に対して価格を提示してください。",
+      "reading": null,
+      "indonesian": "I'd like a quote for the following.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このセンターに入るには許可証を提示するよう求められている。",
+      "reading": null,
+      "indonesian": "You are asked to produce your permit to get in this center.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

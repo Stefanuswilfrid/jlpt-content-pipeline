@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "明かす",
+    "reading": "あかす",
+    "romaji": "akasu",
+    "jlpt": "N1",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mengungkapkan; untuk tetap terjaga"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to reveal",
+          "to divulge",
+          "to disclose",
+          "to expose"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to prove",
+          "to verify"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "打ち明ける",
+      "reading": "うちあける",
+      "meaning": "untuk mengaku, untuk terbuka"
+    },
+    {
+      "word": "声明",
+      "reading": "せいめい",
+      "meaning": "deklarasi, pernyataan, proklamasi"
+    },
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "penjelasan"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "bukti, verifikasi"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "penerangan"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "penemuan"
+    },
+    {
+      "word": "明瞭",
+      "reading": "めいりょう",
+      "meaning": "kejelasan"
+    },
+    {
+      "word": "不明",
+      "reading": "ふめい",
+      "meaning": "tidak diketahui, ambigu"
+    },
+    {
+      "word": "明白",
+      "reading": "めいはく",
+      "meaning": "jelas, terang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "鼻を明かす",
+      "reading": "はなをあかす",
+      "meaning": "to outwit",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "記者はその情報源を明かすことを拒んだ。",
+      "reading": null,
+      "indonesian": "The reporter refused to name his sources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "さあ、一晩飲み明かすぞ。",
+      "reading": null,
+      "indonesian": "Let's drink the night away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は自分の秘密を明かすことには気が進まなかった。",
+      "reading": null,
+      "indonesian": "She was reluctant to reveal her secret.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "記者はその情報源を明かすことを拒んだ。",
+      "reading": null,
+      "indonesian": "The reporter refused to name his sources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "さあ、一晩飲み明かすぞ。",
+      "reading": null,
+      "indonesian": "Let's drink the night away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は自分の秘密を明かすことには気が進まなかった。",
+      "reading": null,
+      "indonesian": "She was reluctant to reveal her secret.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

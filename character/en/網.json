@@ -1,0 +1,167 @@
+{
+  "definition": {
+    "word": "網",
+    "reading": "あみ",
+    "romaji": "ami",
+    "jlpt": "N1",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "net",
+          "netting"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "web"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "一網打尽",
+      "reading": "いちもうだじん",
+      "meaning": "round-up (e.g. of criminals)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天網恢々",
+      "reading": "てんもうかいかい",
+      "meaning": "heaven's vengeance is slow but sure",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "網呑舟の魚を漏らす",
+      "reading": "あみどんしゅうのうおをもらす",
+      "meaning": "the law has holes large enough for the most wicked men to slip through",
+      "type": "proverb"
+    },
+    {
+      "word": "網の目に風とまらず",
+      "reading": "あみのめにかぜとまらず",
+      "meaning": "you can't catch the wind with a net",
+      "type": "proverb"
+    },
+    {
+      "word": "天網恢恢疎にして漏らさず",
+      "reading": "てんもうかいかいそにしてもらさず",
+      "meaning": "heaven's net has large meshes, but nothing escapes",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海に網を投げ入れた。",
+      "reading": null,
+      "english": "I cast my net into the sea.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は捕虫網で蝶を捕まえた。",
+      "reading": null,
+      "english": "I captured butterflies with a net.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "まもなく鉄道網が全国に広がった。",
+      "reading": null,
+      "english": "A network of railroads soon spread over the entire country.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ハンター達はその野生動物を丈夫なロープの網で捕まえた。",
+      "reading": null,
+      "english": "The hunters captured the wild animal with a strong rope net.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その漁師達は網を海に投げた。",
+      "reading": null,
+      "english": "The fishermen cast their nets into the sea.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この網は蚊を寄せ付けないためのものだ。",
+      "reading": null,
+      "english": "This net here is to keep off mosquitoes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このコンピューター網は、いわば、会社の神経組織である。",
+      "reading": null,
+      "english": "This computer network is, as it were, the nervous system of the company.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "クモは網を張る。",
+      "reading": null,
+      "english": "Spiders spin webs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "５年前に網膜剥離を起こしました。",
+      "reading": null,
+      "english": "I had retinal detachment five years ago.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "微生物学の基本から最新の情報までを網羅する。",
+      "reading": null,
+      "english": "It covers everything from the fundamentals of microbiology to the latest news.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "網にかかったものは何でも魚だ。",
+      "reading": null,
+      "english": "All's fish that comes to the net.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "網がスクリューに絡まった。",
+      "reading": null,
+      "english": "The net got entangled in the propeller.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "網がスクリューに絡まった。",
+      "reading": null,
+      "english": "The net got entangled in the screw.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

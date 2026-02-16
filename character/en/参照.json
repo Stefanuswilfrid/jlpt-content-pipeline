@@ -1,0 +1,185 @@
+{
+  "definition": {
+    "word": "参照",
+    "reading": "さんしょう",
+    "romaji": "sanshou",
+    "jlpt": "N1",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "reference (e.g. to a dictionary, passage, footnotes)",
+          "consultation",
+          "comparison"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "browsing (to a file or folder)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "参議院",
+      "reading": "さんぎいん",
+      "meaning": "House of Councillors (upper house of the National Diet of Japan)"
+    },
+    {
+      "word": "照合",
+      "reading": "しょうごう",
+      "meaning": "check (against)"
+    },
+    {
+      "word": "参考",
+      "reading": "さんこう",
+      "meaning": "reference"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "illumination"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaning": "participation"
+    },
+    {
+      "word": "対照",
+      "reading": "たいしょう",
+      "meaning": "contrast"
+    },
+    {
+      "word": "持参",
+      "reading": "じさん",
+      "meaning": "bringing"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お困りの点がありましたら、利用者マニュアルをご参照ください。",
+      "reading": null,
+      "english": "Refer to the Users' Guide if you have any problems.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "さらに詳しくは１６ページ参照。",
+      "reading": null,
+      "english": "For further information, see page 16.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "１０頁を参照してください。",
+      "reading": null,
+      "english": "Please refer to page ten.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "１０項を参照して下さい。",
+      "reading": null,
+      "english": "Please refer to paragraph ten.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "５ページ脚注を参照してください。",
+      "reading": null,
+      "english": "See the footnote on page 5.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "冷蔵庫を修理するなら取り扱い説明書を参照しなさい。",
+      "reading": null,
+      "english": "Refer to the instructions to fix the refrigerator.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "冷蔵庫を修理するなら取り扱い説明書を参照しなさい。",
+      "reading": null,
+      "english": "Refer to the instruction manual if you need to fix the refrigerator.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "前記参照。",
+      "reading": null,
+      "english": "See above.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "星印は重要な参照文献を示す。",
+      "reading": null,
+      "english": "The asterisks mark important references.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "疑問があれば、このガイドブックを参照してください。",
+      "reading": null,
+      "english": "If you have some questions, please refer to this guidebook.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はよくその辞書を参照する。",
+      "reading": null,
+      "english": "I often refer to the dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "作家はよく辞書を参照する。",
+      "reading": null,
+      "english": "Writers often refer to a dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "講演者は話の間中メモを参照しなかった。",
+      "reading": null,
+      "english": "The speaker did not refer to his notes during his talk.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "講演者は数分ごとにメモを参照した。",
+      "reading": null,
+      "english": "The speaker referred to his notes every few minutes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

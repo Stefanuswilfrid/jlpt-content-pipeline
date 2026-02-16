@@ -1,0 +1,222 @@
+{
+  "definition": {
+    "word": "相応",
+    "reading": "そうおう",
+    "romaji": "souou",
+    "jlpt": "N1",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kesesuaian",
+          "kebugaran"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "conjoining",
+          "association",
+          "samprayukta"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "相対",
+      "reading": "あいたい",
+      "meaning": "relatif"
+    },
+    {
+      "word": "応急",
+      "reading": "おうきゅう",
+      "meaning": "keadaan darurat"
+    },
+    {
+      "word": "外相",
+      "reading": "がいしょう",
+      "meaning": "Menteri Luar Negeri"
+    },
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaning": "menangani"
+    },
+    {
+      "word": "蔵相",
+      "reading": "ぞうしょう",
+      "meaning": "Menteri Keuangan"
+    },
+    {
+      "word": "相場",
+      "reading": "そうば",
+      "meaning": "harga pasar, spekulasi, estimasi"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaning": "berlangganan, aplikasi"
+    },
+    {
+      "word": "反応",
+      "reading": "はんのう",
+      "meaning": "reaksi, respons"
+    },
+    {
+      "word": "真相",
+      "reading": "しんそう",
+      "meaning": "kebenaran, situasi nyata"
+    },
+    {
+      "word": "様相",
+      "reading": "ようそう",
+      "meaning": "aspek"
+    },
+    {
+      "word": "適応",
+      "reading": "てきおう",
+      "meaning": "adaptasi, akomodasi, kesesuaian"
+    },
+    {
+      "word": "相対",
+      "reading": "そうたい",
+      "meaning": "relatif"
+    },
+    {
+      "word": "応接",
+      "reading": "おうせつ",
+      "meaning": "penerimaan"
+    },
+    {
+      "word": "応対",
+      "reading": "おうたい",
+      "meaning": "menerima, menangani"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "四神相応",
+      "reading": "しじんそうおう",
+      "meaning": "an ideal topography for the four Taoist gods, with a river in the east, a broad avenue in the west, a basin in the south, and a hill in the north",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "みなさんはある種の特権を持つゆえに相応の責任もあります。",
+      "reading": null,
+      "indonesian": "You have certain privileges and therefore corresponding responsibilities.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その職に就く為にはそれ相応の資格が必要です。",
+      "reading": null,
+      "indonesian": "Proper qualifications are required for the position.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのような行為は紳士に相応しくない。",
+      "reading": null,
+      "indonesian": "Such conduct does not become a gentleman.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これは身分不相応な贅沢なものだ。",
+      "reading": null,
+      "indonesian": "This is luxury beyond my income.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "保守的な人はすぐ分相応に振る舞えという。",
+      "reading": null,
+      "indonesian": "Conservative people always tell us to act within our station.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "分相応の暮らしをするように努めなさい。",
+      "reading": null,
+      "indonesian": "Try to live within your income.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "分相応の暮らしをするようにすべきだ。",
+      "reading": null,
+      "indonesian": "You should try to live within your income.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "分相応に暮らせ。",
+      "reading": null,
+      "indonesian": "Cut your coat according to your cloth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は買い物に出かけると、結局不相応な買い物をしてしまう。",
+      "reading": null,
+      "indonesian": "Whenever she goes shopping, she ends up buying more than she can afford.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は大人だから、それ相応に扱うべきだ。",
+      "reading": null,
+      "indonesian": "She is an adult, so you should treat her accordingly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は年齢相応に振る舞う。",
+      "reading": null,
+      "indonesian": "He acts his age.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は身分相応な生活をしている。",
+      "reading": null,
+      "indonesian": "He lives within his means.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "年齢相応に振る舞うようにしなさい。",
+      "reading": null,
+      "indonesian": "Try to act your age.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

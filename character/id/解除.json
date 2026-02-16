@@ -1,0 +1,195 @@
+{
+  "definition": {
+    "word": "解除",
+    "reading": "かいじょ",
+    "romaji": "kaijo",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pembatalan",
+          "rilis",
+          "batalkan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "lifting (of a ban, sanctions, etc.)",
+          "removal",
+          "release (from obligations)",
+          "cancellation (of a warning, alert, etc.)",
+          "calling off (e.g. a strike)",
+          "releasing (a lock)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "了解",
+      "reading": "りょうかい",
+      "meaning": "pemahaman, persetujuan, pengertian"
+    },
+    {
+      "word": "控除",
+      "reading": "こうじょ",
+      "meaning": "subsidi, potongan"
+    },
+    {
+      "word": "排除",
+      "reading": "はいじょ",
+      "meaning": "pengecualian, penghapusan, penolakan"
+    },
+    {
+      "word": "取り除く",
+      "reading": "とりのぞく",
+      "meaning": "untuk menghilangkan, untuk mengambil, memisahkan"
+    },
+    {
+      "word": "免除",
+      "reading": "めんじょ",
+      "meaning": "pengecualian, pembebasan, pembebasan"
+    },
+    {
+      "word": "解剖",
+      "reading": "かいぼう",
+      "meaning": "pembedahan, otopsi"
+    },
+    {
+      "word": "除外",
+      "reading": "じょがい",
+      "meaning": "pengecualian, pembebasan"
+    },
+    {
+      "word": "正解",
+      "reading": "せいかい",
+      "meaning": "benar, jawaban yang tepat, solusi"
+    },
+    {
+      "word": "弁解",
+      "reading": "べんかい",
+      "meaning": "penjelasan, pembenaran, alasan"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "penyelesaian, solusi, resolusi"
+    },
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "perpisahan, pembubaran"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "pendapat, sudut pandang"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "pemahaman, pengertian"
+    },
+    {
+      "word": "解放",
+      "reading": "かいほう",
+      "meaning": "pembebasan, kemerdekaan"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "penjelasan, komentar"
+    },
+    {
+      "word": "解釈",
+      "reading": "かいしゃく",
+      "meaning": "penjelasan, interpretasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "協定が調印されれば、輸入規制が解除できる。",
+      "reading": null,
+      "indonesian": "We can lift the restrictions on imports once the joint agreement is signed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "貿易障壁は戦争終結後解除されました。",
+      "reading": null,
+      "indonesian": "Trade barriers were lifted after the war ended.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "津波警報は解除された。",
+      "reading": null,
+      "indonesian": "The tidal wave warning has been canceled.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "政府は物価の統制を解除した。",
+      "reading": null,
+      "indonesian": "The government lifted price controls.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "協定が調印されれば、輸入規制が解除できる。",
+      "reading": null,
+      "indonesian": "We can lift the restrictions on imports once the joint agreement is signed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "政府は物価の統制を解除した。",
+      "reading": null,
+      "indonesian": "The government lifted price controls.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "津波警報は解除された。",
+      "reading": null,
+      "indonesian": "The tidal wave warning has been canceled.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "貿易障壁は戦争終結後解除されました。",
+      "reading": null,
+      "indonesian": "Trade barriers were lifted after the war ended.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "例文同士のリンクや解除はどうすればできますか？",
+      "reading": null,
+      "indonesian": "How can I link or unlink sentences?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

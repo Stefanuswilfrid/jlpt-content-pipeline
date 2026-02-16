@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "個別",
+    "reading": "こべつ",
+    "romaji": "kobetsu",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "individual",
+          "separate",
+          "personal",
+          "case-by-case"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaning": "special"
+    },
+    {
+      "word": "個々",
+      "reading": "ここ",
+      "meaning": "individual"
+    },
+    {
+      "word": "個性",
+      "reading": "こせい",
+      "meaning": "individuality"
+    },
+    {
+      "word": "別々",
+      "reading": "べつべつ",
+      "meaning": "separate"
+    },
+    {
+      "word": "別",
+      "reading": "べつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "個体",
+      "reading": "こたい",
+      "meaning": "individual"
+    },
+    {
+      "word": "格別",
+      "reading": "かくべつ",
+      "meaning": "particular"
+    },
+    {
+      "word": "送別",
+      "reading": "そうべつ",
+      "meaning": "farewell"
+    },
+    {
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "individual"
+    },
+    {
+      "word": "差別",
+      "reading": "さべつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "別に",
+      "reading": "べつに",
+      "meaning": "(not) particularly"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あらゆる事態を個別に分析する必要がある。",
+      "reading": null,
+      "english": "Every situation requires individual analysis.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "税金のために彼は銀行口座を個別にしておきたかった。",
+      "reading": null,
+      "english": "He wished to keep the bank accounts separate for tax purposes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あらゆる事態を個別に分析する必要がある。",
+      "reading": null,
+      "english": "Every situation requires individual analysis.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "税金のために彼は銀行口座を個別にしておきたかった。",
+      "reading": null,
+      "english": "He wished to keep the bank accounts separate for tax purposes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "最近塾の講師を始めた。主に数学と英語の個別指導をしている。",
+      "reading": null,
+      "english": "I recently started teaching at a cram school. Mainly I tutor maths and English to students individually.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "最近塾の講師を始めた。主に数学と英語の個別指導をしている。",
+      "reading": null,
+      "english": "I recently started teaching at a cram school. Mainly I tutor maths and English to students individually.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

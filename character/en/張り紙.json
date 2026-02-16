@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "張り紙",
+    "reading": "はりがみ",
+    "romaji": "harigami",
+    "jlpt": "N1",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "paper patch attached to something",
+          "paper backing",
+          "sticker",
+          "label"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "notice",
+          "poster"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "用紙",
+      "reading": "ようし",
+      "meaning": "blank form"
+    },
+    {
+      "word": "膨張",
+      "reading": "ぼうちょう",
+      "meaning": "expansion"
+    },
+    {
+      "word": "誇張",
+      "reading": "こちょう",
+      "meaning": "exaggeration"
+    },
+    {
+      "word": "主張",
+      "reading": "しゅちょう",
+      "meaning": "claim"
+    },
+    {
+      "word": "緊張",
+      "reading": "きんちょう",
+      "meaning": "tension"
+    },
+    {
+      "word": "紙",
+      "reading": "かみ",
+      "meaning": "paper"
+    },
+    {
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "letter"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "張り紙を出した。",
+      "reading": null,
+      "english": "I put up a notice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "張り紙お断り。",
+      "reading": null,
+      "english": "Post No Bills.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "張り紙お断り。",
+      "reading": null,
+      "english": "Post No Bills.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "張り紙を出した。",
+      "reading": null,
+      "english": "I put up a notice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

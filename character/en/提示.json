@@ -1,0 +1,157 @@
+{
+  "definition": {
+    "word": "提示",
+    "reading": "ていじ",
+    "romaji": "teiji",
+    "jlpt": "N1",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "presentation (of a passport, ID, etc.)",
+          "showing",
+          "production (e.g. of documents)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "presentation (of a plan, response, etc.)",
+          "bringing up",
+          "citing (an example)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "展示",
+      "reading": "てんじ",
+      "meaning": "exhibition"
+    },
+    {
+      "word": "提携",
+      "reading": "ていけい",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "前提",
+      "reading": "ぜんてい",
+      "meaning": "condition"
+    },
+    {
+      "word": "提供",
+      "reading": "ていきょう",
+      "meaning": "offer"
+    },
+    {
+      "word": "暗示",
+      "reading": "あんじ",
+      "meaning": "hint"
+    },
+    {
+      "word": "示す",
+      "reading": "しめす",
+      "meaning": "to (take out and) show"
+    },
+    {
+      "word": "掲示",
+      "reading": "けいじ",
+      "meaning": "notice"
+    },
+    {
+      "word": "提案",
+      "reading": "ていあん",
+      "meaning": "proposal"
+    },
+    {
+      "word": "提出",
+      "reading": "ていしゅつ",
+      "meaning": "presentation (of documents)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "下記に対して価格を提示してください。",
+      "reading": null,
+      "english": "I'd like a quote for the following.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このセンターに入るには許可証を提示するよう求められている。",
+      "reading": null,
+      "english": "You are asked to produce your permit to get in this center.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "同社の経営陣は組合に５％の賃上げを提示した。",
+      "reading": null,
+      "english": "The management of a company offered a 5% pay increase to the union.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "支払条件もご提示下さい。",
+      "reading": null,
+      "english": "Also, please let us know about your terms of payment.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "最も低い見積価格をご提示していることをご理解ください。",
+      "reading": null,
+      "english": "Please note that we have quoted the lowest possible price.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "最も安い価格をご提示するよう努力してまいりました。",
+      "reading": null,
+      "english": "We have made an effort to quote our most competitive price.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "国境でパスポートの提示を求められた。",
+      "reading": null,
+      "english": "I was asked for my passport at the border.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "下記に対して価格を提示してください。",
+      "reading": null,
+      "english": "I'd like a quote for the following.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このセンターに入るには許可証を提示するよう求められている。",
+      "reading": null,
+      "english": "You are asked to produce your permit to get in this center.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

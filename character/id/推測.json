@@ -1,0 +1,182 @@
+{
+  "definition": {
+    "word": "推測",
+    "reading": "すいそく",
+    "romaji": "suisoku",
+    "jlpt": "N1",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "tebakan",
+          "dugaan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "推理",
+      "reading": "すいり",
+      "meaning": "penalaran, inferensi, genre misteri atau detektif"
+    },
+    {
+      "word": "推進",
+      "reading": "すいしん",
+      "meaning": "penggerak, daya dorong"
+    },
+    {
+      "word": "類推",
+      "reading": "るいすい",
+      "meaning": "analogi"
+    },
+    {
+      "word": "測量",
+      "reading": "そくりょう",
+      "meaning": "pengukuran, survei"
+    },
+    {
+      "word": "推薦",
+      "reading": "すいせん",
+      "meaning": "rekomendasi"
+    },
+    {
+      "word": "観測",
+      "reading": "かんそく",
+      "meaning": "pengamatan"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediksi, estimasi"
+    },
+    {
+      "word": "推定",
+      "reading": "すいてい",
+      "meaning": "praduga, asumsi, perkiraan"
+    },
+    {
+      "word": "測定",
+      "reading": "そくてい",
+      "meaning": "pengukuran"
+    },
+    {
+      "word": "計る",
+      "reading": "はかる",
+      "meaning": "mengukur, menimbang, mensurvei"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の推測は的はずれだ。",
+      "reading": null,
+      "indonesian": "You're wide of the mark.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の推測はまったく的外れだ。",
+      "reading": null,
+      "indonesian": "Your guess is entirely off the mark.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々はそこから推測できることがわかり始めた。",
+      "reading": null,
+      "indonesian": "We began to see what we can deduce from it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは推測に基づいている。",
+      "reading": null,
+      "indonesian": "It is founded on supposition.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いずれにしてもあなたの推測は間違っている。",
+      "reading": null,
+      "indonesian": "In any case, you are wrong in your conjecture.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたも同意見だと推測します。",
+      "reading": null,
+      "indonesian": "I gather you'll agree with me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の推測は的はずれだ。",
+      "reading": null,
+      "indonesian": "Your guess is wrong.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "僕は彼が試合に勝つのではないかと推測している。",
+      "reading": null,
+      "indonesian": "I am speculating that he may win the game.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の年齢を推測できますか。",
+      "reading": null,
+      "indonesian": "Can you guess her age?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の推測は当たった。",
+      "reading": null,
+      "indonesian": "She guessed right.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の異常なふるまいから何を推測しますか。",
+      "reading": null,
+      "indonesian": "What do you infer from her strange behavior?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの話し振りから、私は彼らが結婚していると推測した。",
+      "reading": null,
+      "indonesian": "From the way they talked, I presumed they were married.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の推測は結局正しいことが判明した。",
+      "reading": null,
+      "indonesian": "His guess turned out to be right.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

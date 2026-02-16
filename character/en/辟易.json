@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "辟易",
+    "reading": "へきえき",
+    "romaji": "hekieki",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "to be fed up (with)",
+          "to be tired (of)",
+          "to be bored (with)",
+          "to be unable to bear"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "to be stumped",
+          "to be nonplussed",
+          "to be disconcerted"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "to wince",
+          "to shrink back",
+          "to cringe"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "簡易",
+      "reading": "かんい",
+      "meaning": "simple"
+    },
+    {
+      "word": "貿易",
+      "reading": "ぼうえき",
+      "meaning": "(foreign) trade"
+    },
+    {
+      "word": "容易",
+      "reading": "ようい",
+      "meaning": "easy"
+    },
+    {
+      "word": "安易",
+      "reading": "あんい",
+      "meaning": "easy"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼は人付き合いに辟易している。",
+      "reading": null,
+      "english": "He's fed up with socializing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は人付き合いに辟易している。",
+      "reading": null,
+      "english": "He's fed up with socializing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

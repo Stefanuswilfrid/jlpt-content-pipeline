@@ -1,0 +1,236 @@
+{
+  "definition": {
+    "word": "発言",
+    "reading": "はつげん",
+    "romaji": "hatsugen",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "statement",
+          "remark",
+          "observation",
+          "utterance",
+          "speech",
+          "proposal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaning": "development"
+    },
+    {
+      "word": "宣言",
+      "reading": "せんげん",
+      "meaning": "declaration"
+    },
+    {
+      "word": "反発",
+      "reading": "はんぱつ",
+      "meaning": "opposition"
+    },
+    {
+      "word": "活発",
+      "reading": "かっぱつ",
+      "meaning": "lively"
+    },
+    {
+      "word": "発生",
+      "reading": "はっせい",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "発足",
+      "reading": "ほっそく",
+      "meaning": "starting"
+    },
+    {
+      "word": "証言",
+      "reading": "しょうげん",
+      "meaning": "testimony"
+    },
+    {
+      "word": "再発",
+      "reading": "さいはつ",
+      "meaning": "return"
+    },
+    {
+      "word": "発掘",
+      "reading": "はっくつ",
+      "meaning": "excavation"
+    },
+    {
+      "word": "言論",
+      "reading": "げんろん",
+      "meaning": "(one's) speech"
+    },
+    {
+      "word": "発作",
+      "reading": "ほっさ",
+      "meaning": "fit"
+    },
+    {
+      "word": "断言",
+      "reading": "だんげん",
+      "meaning": "assertion"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "silence (not speaking)"
+    },
+    {
+      "word": "助言",
+      "reading": "じょげん",
+      "meaning": "advice"
+    },
+    {
+      "word": "発病",
+      "reading": "はつびょう",
+      "meaning": "onset of an illness"
+    },
+    {
+      "word": "言い訳",
+      "reading": "いいわけ",
+      "meaning": "excuse"
+    },
+    {
+      "word": "始発",
+      "reading": "しはつ",
+      "meaning": "first departure (of the day)"
+    },
+    {
+      "word": "予言",
+      "reading": "よげん",
+      "meaning": "prediction"
+    },
+    {
+      "word": "発育",
+      "reading": "はついく",
+      "meaning": "(physical) growth"
+    },
+    {
+      "word": "発芽",
+      "reading": "はつが",
+      "meaning": "germination"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の発言は要点がずれている。",
+      "reading": null,
+      "english": "Your remarks are besides the point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "疑わしいのは彼の発言ではなくて、彼の言い方であった。",
+      "reading": null,
+      "english": "It was not what he said, but the way he said it that made me suspicious.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "会議で発言したいと思ったら挙手しなければ行けません。",
+      "reading": null,
+      "english": "You have to raise your hand if you want to speak at the meeting.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "会員は各人発言をもとめられた。",
+      "reading": null,
+      "english": "Each member was called upon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ポケットに手を入れたままで発言してはいけません。",
+      "reading": null,
+      "english": "Don't speak with your hands in your pockets.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんな発言はいかにも彼らしい。",
+      "reading": null,
+      "english": "Such words are so typical for him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その件に関しては発言する立場にないものですから。",
+      "reading": null,
+      "english": "I'm not in a position to say anything about that.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのような発言は君にふさわしくない。",
+      "reading": null,
+      "english": "That kind of remark does not befit you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そういう発言は誤解を招きやすい。",
+      "reading": null,
+      "english": "Such a remark is open to misunderstanding.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジムはよけいな発言をした。",
+      "reading": null,
+      "english": "Jim made a superfluous remark.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これらの発言は彼女の提案に関係がある。",
+      "reading": null,
+      "english": "These remarks are related to her proposal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これに関連してどなたか発言がありますか。",
+      "reading": null,
+      "english": "Do any of you have anything to say in connection with this?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "考えてから発言しなさい。",
+      "reading": null,
+      "english": "You should think before you begin to speak.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

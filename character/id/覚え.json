@@ -1,0 +1,193 @@
+{
+  "definition": {
+    "word": "覚え",
+    "reading": "おぼえ",
+    "romaji": "oboe",
+    "jlpt": "N1",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ingatan",
+          "indra",
+          "pengalaman"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "味覚",
+      "reading": "みかく",
+      "meaning": "rasa, langit-langit mulut, indra pengecap"
+    },
+    {
+      "word": "聴覚",
+      "reading": "ちょうかく",
+      "meaning": "indra pendengaran"
+    },
+    {
+      "word": "自覚",
+      "reading": "じかく",
+      "meaning": "sadar diri"
+    },
+    {
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "indra, sensasi"
+    },
+    {
+      "word": "覚悟",
+      "reading": "かくご",
+      "meaning": "resolusi, pengunduran diri, kesiapan"
+    },
+    {
+      "word": "視覚",
+      "reading": "しかく",
+      "meaning": "indra penglihatan, visi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "覚えてろ",
+      "reading": "おぼえてろ",
+      "meaning": "You'll regret this!",
+      "type": "idiom"
+    },
+    {
+      "word": "春眠暁を覚えず",
+      "reading": "しゅんみんあかつきをおぼえず",
+      "meaning": "in spring one sleeps a sleep that knows no dawn",
+      "type": "proverb"
+    },
+    {
+      "word": "腕に覚えがある",
+      "reading": "うでにおぼえがある",
+      "meaning": "to have confidence in one's own abilities",
+      "type": "idiom"
+    },
+    {
+      "word": "馬鹿の一つ覚え",
+      "reading": "ばかのひとつおぼえ",
+      "meaning": "one who knows little often repeats it",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は僕と同様、物覚えが悪い。",
+      "reading": null,
+      "indonesian": "You are no better at remembering things than I am.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は以前私にあったことを覚えていますか。",
+      "reading": null,
+      "indonesian": "Do you remember seeing me before?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "前に私に会ったこと覚えてる？",
+      "reading": null,
+      "indonesian": "Do you remember seeing me before?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が生まれた日のことはよく覚えている。",
+      "reading": null,
+      "indonesian": "Well do I remember the day you were born.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "繰り返すことが物事を覚えるのに役に立つ。",
+      "reading": null,
+      "indonesian": "Repetition helps you remember something.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空腹でのどの渇きを覚え、私たちはようやく宿に着いた。",
+      "reading": null,
+      "indonesian": "Hungry and thirsty, we at last reached the inn.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "教育とは多くの事柄を覚えることにあるのではない。",
+      "reading": null,
+      "indonesian": "Education doesn't consist of learning a lot of facts.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "去年の春、料理教室に通って、パンの焼き方を覚えました。",
+      "reading": null,
+      "indonesian": "I took a cooking class last spring and learned to bake bread.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "犠牲者には深い同情の念を覚えます。",
+      "reading": null,
+      "indonesian": "I feel profound sympathy for the victims.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "物覚えが悪くなってきてね。",
+      "reading": null,
+      "indonesian": "My memory is failing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "覚える価値さえない。",
+      "reading": null,
+      "indonesian": "It's not worth remembering.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "覚えてろよ。いつか借りを返してやるからな。",
+      "reading": null,
+      "indonesian": "I will get even with you someday. Remember that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "覚えてろよ。",
+      "reading": null,
+      "indonesian": "I will get even with you some day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "覚えてる？",
+      "reading": null,
+      "indonesian": "Do you remember?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

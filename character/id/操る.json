@@ -1,0 +1,117 @@
+{
+  "definition": {
+    "word": "操る",
+    "reading": "あやつる",
+    "romaji": "ayatsuru",
+    "jlpt": "N1",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "memanipulasi",
+          "mengoperasikan",
+          "menarik tali"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have a good command of (a language)",
+          "to play proficiently (of a musical instrument)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to work (a puppet)",
+          "to pull the strings of a puppet"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to manipulate (a person, public opinion, etc.)",
+          "to pull the strings",
+          "to control from the shadows",
+          "to mastermind"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "操作",
+      "reading": "そうさ",
+      "meaning": "operasi, manajemen, pemrosesan"
+    },
+    {
+      "word": "操縦",
+      "reading": "そうじゅう",
+      "meaning": "manajemen, kontrol, manipulasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あの通訳は５か国語を自由に操る。",
+      "reading": null,
+      "indonesian": "That interpreter is a master of five languages.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は、数字を操るのがへたです。",
+      "reading": null,
+      "indonesian": "I am awkward with numbers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの通訳は５か国語を自由に操る。",
+      "reading": null,
+      "indonesian": "That interpreter is a master of five languages.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は、数字を操るのがへたです。",
+      "reading": null,
+      "indonesian": "I am awkward with numbers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムは他人を操る癖のある者が気に食わない。",
+      "reading": null,
+      "indonesian": "Tom doesn't like people who manipulate others.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムは他人を操る癖のある者が気に食わない。",
+      "reading": null,
+      "indonesian": "Tom doesn't like people who manipulate others.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "和文",
+    "reading": "わぶん",
+    "romaji": "wabun",
+    "jlpt": "N1",
+    "frequency": 16750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Japanese text",
+          "sentence in Japanese"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "中和",
+      "reading": "ちゅうわ",
+      "meaning": "neutralization"
+    },
+    {
+      "word": "温和",
+      "reading": "おんわ",
+      "meaning": "mild (climate)"
+    },
+    {
+      "word": "文語",
+      "reading": "ぶんご",
+      "meaning": "written language"
+    },
+    {
+      "word": "緩和",
+      "reading": "かんわ",
+      "meaning": "relief"
+    },
+    {
+      "word": "文書",
+      "reading": "ぶんしょ",
+      "meaning": "document"
+    },
+    {
+      "word": "共和",
+      "reading": "きょうわ",
+      "meaning": "republicanism"
+    },
+    {
+      "word": "文化財",
+      "reading": "ぶんかざい",
+      "meaning": "cultural assets"
+    },
+    {
+      "word": "本文",
+      "reading": "ほんぶん",
+      "meaning": "text (of a book, document, etc.)"
+    },
+    {
+      "word": "調和",
+      "reading": "ちょうわ",
+      "meaning": "harmony"
+    },
+    {
+      "word": "原文",
+      "reading": "げんぶん",
+      "meaning": "original text"
+    },
+    {
+      "word": "飽和",
+      "reading": "ほうわ",
+      "meaning": "saturation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この和文をフランス語に訳してください。",
+      "reading": null,
+      "english": "Please translate this Japanese text into French.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この和文をフランス語に訳してください。",
+      "reading": null,
+      "english": "Please translate this Japanese text into French.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

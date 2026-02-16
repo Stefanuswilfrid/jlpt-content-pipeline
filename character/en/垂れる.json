@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "垂れる",
+    "reading": "たれる",
+    "romaji": "tareru",
+    "jlpt": "N1",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to hang",
+          "to droop",
+          "to dangle",
+          "to sag",
+          "to lower",
+          "to pull down"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to give (e.g. lesson, instruction, scolding) (to someone of lower status)",
+          "to confer",
+          "to grant",
+          "to bestow"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to drip",
+          "to ooze",
+          "to trickle",
+          "to drop"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to leave behind (at death)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to excrete (urine, feces, etc.)",
+          "to let out (a fart)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "実るほど頭を垂れる稲穂かな",
+      "reading": "みのるほどあたまをたれるいなほかな",
+      "meaning": "the more learned, the more humble",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "実るほど頭を垂れる稲穂かな。",
+      "reading": null,
+      "english": "The boughs that bear most hang lowest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "実るほど頭を垂れる稲穂かな。",
+      "reading": null,
+      "english": "The boughs that bear most hang lowest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "犬は文句を垂れるように歩みを止めた。",
+      "reading": null,
+      "english": "The dog stopped walking, as if to complain.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "犬は文句を垂れるように歩みを止めた。",
+      "reading": null,
+      "english": "The dog stopped walking, as if to complain.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "definition": {
+    "word": "入浴",
+    "reading": "にゅうよく",
+    "romaji": "nyuuyoku",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "bathing",
+          "going in the bath"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "投入",
+      "reading": "とうにゅう",
+      "meaning": "throwing in"
+    },
+    {
+      "word": "入手",
+      "reading": "にゅうしゅ",
+      "meaning": "acquisition"
+    },
+    {
+      "word": "納入",
+      "reading": "のうにゅう",
+      "meaning": "payment (of taxes, fees, etc.)"
+    },
+    {
+      "word": "浴室",
+      "reading": "よくしつ",
+      "meaning": "bathroom"
+    },
+    {
+      "word": "購入",
+      "reading": "こうにゅう",
+      "meaning": "purchase"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaning": "introduction"
+    },
+    {
+      "word": "介入",
+      "reading": "かいにゅう",
+      "meaning": "intervention"
+    },
+    {
+      "word": "受け入れ",
+      "reading": "うけいれ",
+      "meaning": "receiving"
+    },
+    {
+      "word": "加入",
+      "reading": "かにゅう",
+      "meaning": "joining (a club, organization, etc.)"
+    },
+    {
+      "word": "入賞",
+      "reading": "にゅうしょう",
+      "meaning": "winning a prize"
+    },
+    {
+      "word": "潜入",
+      "reading": "せんにゅう",
+      "meaning": "infiltration"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一週間に何回入浴しますか。",
+      "reading": null,
+      "english": "How often a week do you take a bath?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お父さんは入浴中です。",
+      "reading": null,
+      "english": "Father is having a bath.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "例によって私の入浴中に電話が鳴った。",
+      "reading": null,
+      "english": "The phone rang while I was taking a bath, as usual.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "父は夕食前に入浴することにしている。",
+      "reading": null,
+      "english": "Father makes a point of taking a hot bath before supper.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父は夕食前に入浴する。",
+      "reading": null,
+      "english": "My father takes a bath before supper.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "疲れを感じてるときは、入浴に勝る物はない。",
+      "reading": null,
+      "english": "When you feel tired, there is nothing like having a bath.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は毎朝入浴します。",
+      "reading": null,
+      "english": "She has a bath every morning.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は赤ん坊を入浴させているところだ。",
+      "reading": null,
+      "english": "She is giving the baby a bath.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はたまたま入浴中だった。",
+      "reading": null,
+      "english": "It happened that she was taking a bath.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は毎朝入浴します。",
+      "reading": null,
+      "english": "He has a bath every morning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は毎朝入浴します。",
+      "reading": null,
+      "english": "He takes a bath every morning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は入浴して正装した。",
+      "reading": null,
+      "english": "He bathed and dressed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "入浴してもいいですか。",
+      "reading": null,
+      "english": "May I take a bath?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "男の子の中には定期的に入浴するのが嫌いな子もいる。",
+      "reading": null,
+      "english": "Some boys don't like to bathe regularly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

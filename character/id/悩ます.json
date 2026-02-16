@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "悩ます",
+    "reading": "なやます",
+    "romaji": "nayamasu",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengganggu",
+          "melecehkan",
+          "menyiksa"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "悩み",
+      "reading": "なやみ",
+      "meaning": "masalah, kekhawatiran, kesusahan"
+    },
+    {
+      "word": "悩ましい",
+      "reading": "なやましい",
+      "meaning": "menggoda, melankolis, lesu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そんなことで頭を悩ます必要はない。",
+      "reading": null,
+      "indonesian": "You don't have to worry about a thing like that.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "子供はしばしば両親を悩ます。",
+      "reading": null,
+      "indonesian": "Children often bother their parents.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなことで頭を悩ます必要はない。",
+      "reading": null,
+      "indonesian": "You don't have to worry about a thing like that.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "子供はしばしば両親を悩ます。",
+      "reading": null,
+      "indonesian": "Children often bother their parents.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

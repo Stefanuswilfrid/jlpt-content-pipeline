@@ -1,0 +1,226 @@
+{
+  "definition": {
+    "word": "収容",
+    "reading": "しゅうよう",
+    "romaji": "shuuyou",
+    "jlpt": "N1",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "accommodation",
+          "taking in",
+          "receiving",
+          "housing",
+          "seating",
+          "admission (of patients, students, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "imprisonment",
+          "detention",
+          "internment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "containing (e.g. words in a dictionary)",
+          "adding"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "収支",
+      "reading": "しゅうし",
+      "meaning": "income and expenditure"
+    },
+    {
+      "word": "回収",
+      "reading": "かいしゅう",
+      "meaning": "collection"
+    },
+    {
+      "word": "収益",
+      "reading": "しゅうえき",
+      "meaning": "earnings"
+    },
+    {
+      "word": "収集",
+      "reading": "しゅうしゅう",
+      "meaning": "collecting"
+    },
+    {
+      "word": "徴収",
+      "reading": "ちょうしゅう",
+      "meaning": "collection (of fees, taxes, etc.)"
+    },
+    {
+      "word": "受け入れる",
+      "reading": "うけいれる",
+      "meaning": "to accept"
+    },
+    {
+      "word": "許容",
+      "reading": "きょよう",
+      "meaning": "permission"
+    },
+    {
+      "word": "寛容",
+      "reading": "かんよう",
+      "meaning": "tolerance"
+    },
+    {
+      "word": "没収",
+      "reading": "ぼっしゅう",
+      "meaning": "seizure"
+    },
+    {
+      "word": "容易",
+      "reading": "ようい",
+      "meaning": "easy"
+    },
+    {
+      "word": "収穫",
+      "reading": "しゅうかく",
+      "meaning": "harvest"
+    },
+    {
+      "word": "容器",
+      "reading": "ようき",
+      "meaning": "container"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ホールは仕切りを設ける前は千人収容できた。",
+      "reading": null,
+      "english": "The hall could seat a thousand people before it was partitioned.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その報告ではホールの収容能力が誇張されていた。",
+      "reading": null,
+      "english": "The report exaggerated the capacity of the hall.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その家は二世帯の家族を収容できる。",
+      "reading": null,
+      "english": "The house could accommodate two families.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのホテルは３００人の客を収容できる施設がある。",
+      "reading": null,
+      "english": "The hotel can accommodate 300 people.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのホテルには１００人を収容する施設がある。",
+      "reading": null,
+      "english": "The hotel has accommodation for one hundred.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この部屋は三百人収容できる。",
+      "reading": null,
+      "english": "This room can hold three hundred people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このスタジアムは５万人収容できます。",
+      "reading": null,
+      "english": "This stadium will hold 50,000 people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このホテルは千人以上の客が収容できる。",
+      "reading": null,
+      "english": "This hotel can accommodate over 1,000 guests.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このホテルは千人を収容する設備がある。",
+      "reading": null,
+      "english": "This hotel has accommodations for 1,000 guests.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このホテルは５００人の客を収容できる。",
+      "reading": null,
+      "english": "This hotel can accommodate 500 guests.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このホールは最大で１０００人収容できる。",
+      "reading": null,
+      "english": "This hall holds a maximum of 1,000 people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このホールは何人収容できますか。",
+      "reading": null,
+      "english": "How many persons does this hall hold?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このホールは２千人の収容能力がある。",
+      "reading": null,
+      "english": "This hall is capable of holding 2,000 people.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このホールには２千人収容できる。",
+      "reading": null,
+      "english": "This hall holds 2,000 people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

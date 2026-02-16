@@ -1,0 +1,211 @@
+{
+  "definition": {
+    "word": "反する",
+    "reading": "はんする",
+    "romaji": "hansuru",
+    "jlpt": "N1",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be contrary (to)",
+          "to go against",
+          "to run counter (to)",
+          "to contradict",
+          "to be opposite (to)"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to infringe",
+          "to violate",
+          "to transgress"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to disobey (an order, teachings, etc.)",
+          "to defy",
+          "to rebel",
+          "to revolt"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "反発",
+      "reading": "はんぱつ",
+      "meaning": "opposition"
+    },
+    {
+      "word": "反応",
+      "reading": "はんのう",
+      "meaning": "reaction"
+    },
+    {
+      "word": "反響",
+      "reading": "はんきょう",
+      "meaning": "echo"
+    },
+    {
+      "word": "反撃",
+      "reading": "はんげき",
+      "meaning": "counterattack"
+    },
+    {
+      "word": "反乱",
+      "reading": "はんらん",
+      "meaning": "insurrection"
+    },
+    {
+      "word": "反射",
+      "reading": "はんしゃ",
+      "meaning": "reflection"
+    },
+    {
+      "word": "反抗",
+      "reading": "はんこう",
+      "meaning": "opposition"
+    },
+    {
+      "word": "違反",
+      "reading": "いはん",
+      "meaning": "violation"
+    },
+    {
+      "word": "反対",
+      "reading": "はんたい",
+      "meaning": "opposition"
+    },
+    {
+      "word": "反る",
+      "reading": "そる",
+      "meaning": "to warp"
+    },
+    {
+      "word": "反映",
+      "reading": "はんえい",
+      "meaning": "reflection (of light)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ああいうルールに反する人は罰せられるよ。",
+      "reading": null,
+      "english": "Those who violate the rules will be punished.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々の利害は相反するようだ。",
+      "reading": null,
+      "english": "Our interests seem to conflict with each other.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは道徳に反する。",
+      "reading": null,
+      "english": "It is contrary to the morals.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは私の主義に反する。",
+      "reading": null,
+      "english": "That runs against my principles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのような行動は我々の信条に反する。",
+      "reading": null,
+      "english": "Such actions are alien to our beliefs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これに関しては相反する思いがあります。",
+      "reading": null,
+      "english": "I have mixed feelings about this.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お金を借りる事は私の主義に反する。",
+      "reading": null,
+      "english": "It is against my principles to borrow money.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "うそをつくことは私の主義に反する。",
+      "reading": null,
+      "english": "It is against my principles to tell a lie.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "北アメリカではシートベルトを締めないのは法律に反する。",
+      "reading": null,
+      "english": "In North America it is against the law to fail to fasten your seatbelt.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の話は事実に反する。",
+      "reading": null,
+      "english": "What he has said is contrary to fact.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼の返事は私達の期待に反するものだった。",
+      "reading": null,
+      "english": "His response was contrary to our expectations.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の行動は彼の信念と反する。",
+      "reading": null,
+      "english": "His behavior is contrary to his belief.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "朝早く人を訪問するのは礼儀に反する。",
+      "reading": null,
+      "english": "It is against etiquette to call on a person early in the morning.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

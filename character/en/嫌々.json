@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "嫌々",
+    "reading": "いやいや",
+    "romaji": "iyaiya",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "unwillingly",
+          "reluctantly",
+          "grudgingly"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shaking one's head in refusal (like a child)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "嫌い",
+      "reading": "きらい",
+      "meaning": "disliked"
+    },
+    {
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "humour"
+    },
+    {
+      "word": "好き嫌い",
+      "reading": "すききらい",
+      "meaning": "likes and dislikes"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その命令に嫌々従う兵もいた。",
+      "reading": null,
+      "english": "Some soldiers were reluctant to obey the commands.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は嫌々ながらヒロシと結婚した。",
+      "reading": null,
+      "english": "She married Hiroshi against her will.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はそれを嫌々引き受けた。",
+      "reading": null,
+      "english": "I unwillingly undertook it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その命令に嫌々従う兵もいた。",
+      "reading": null,
+      "english": "Some soldiers were reluctant to obey the commands.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はそれを嫌々引き受けた。",
+      "reading": null,
+      "english": "I unwillingly undertook it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は嫌々ながらヒロシと結婚した。",
+      "reading": null,
+      "english": "She married Hiroshi against her will.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "マリアね、嫌々結婚したのよ。",
+      "reading": null,
+      "english": "Maria married unwillingly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "マリアね、嫌々結婚したのよ。",
+      "reading": null,
+      "english": "Maria married unwillingly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

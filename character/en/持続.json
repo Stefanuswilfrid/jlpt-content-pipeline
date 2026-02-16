@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "持続",
+    "reading": "じぞく",
+    "romaji": "jizoku",
+    "jlpt": "N1",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "continuation",
+          "persisting",
+          "lasting",
+          "sustaining",
+          "enduring"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "存続",
+      "reading": "そんぞく",
+      "meaning": "continuance"
+    },
+    {
+      "word": "所持",
+      "reading": "しょじ",
+      "meaning": "possession"
+    },
+    {
+      "word": "支持",
+      "reading": "しじ",
+      "meaning": "support"
+    },
+    {
+      "word": "継続",
+      "reading": "けいぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "持つ",
+      "reading": "もつ",
+      "meaning": "to hold (in one's hand)"
+    },
+    {
+      "word": "続き",
+      "reading": "つづき",
+      "meaning": "continuation"
+    },
+    {
+      "word": "相続",
+      "reading": "そうぞく",
+      "meaning": "succession"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼は持続可能な開発の専門家です。",
+      "reading": null,
+      "english": "He is a specialist in sustainable development.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は持続可能な開発の専門家です。",
+      "reading": null,
+      "english": "He is a specialist in sustainable development.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "definition": {
+    "word": "証拠",
+    "reading": "しょうこ",
+    "romaji": "shouko",
+    "jlpt": "N1",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bukti",
+          "pembuktian"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "証言",
+      "reading": "しょうげん",
+      "meaning": "bukti, kesaksian"
+    },
+    {
+      "word": "根拠",
+      "reading": "こんきょ",
+      "meaning": "dasar, landasan"
+    },
+    {
+      "word": "是正",
+      "reading": "ぜせい",
+      "meaning": "koreksi, revisi"
+    },
+    {
+      "word": "保証",
+      "reading": "ほしょう",
+      "meaning": "jaminan, kepastian, garansi"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "bukti, verifikasi"
+    },
+    {
+      "word": "内緒",
+      "reading": "ないしょ",
+      "meaning": "kerahasiaan, privasi, rahasia"
+    },
+    {
+      "word": "印",
+      "reading": "しるし",
+      "meaning": "tanda; simbol; bukti"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "証拠隠滅",
+      "reading": "しょうこいんめつ",
+      "meaning": "destruction of evidence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "状況証拠",
+      "reading": "じょうきょうしょうこ",
+      "meaning": "circumstantial evidence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "論より証拠",
+      "reading": "ろんよりしょうこ",
+      "meaning": "the proof of the pudding is in the eating",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "喫煙が健康に悪いと言う確固たる証拠がある。",
+      "reading": null,
+      "indonesian": "We have absolute proof that smoking is bad for your health.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "論より証拠。",
+      "reading": null,
+      "indonesian": "The proof of the pudding is in the eating.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "濡れたコートが彼の外出の証拠であった。",
+      "reading": null,
+      "indonesian": "His wet coat was evidence that he had been outside.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ぬれたコートが彼が外にでていった証拠であった。",
+      "reading": null,
+      "indonesian": "His wet coat was evidence that he had been outside.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ナイフの指紋が彼女の有罪の証拠である。",
+      "reading": null,
+      "indonesian": "The fingerprints on the knife attest to her guilt.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どんな証拠があるというのだ。",
+      "reading": null,
+      "indonesian": "What evidence do you have?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どんな証拠があるんですか？",
+      "reading": null,
+      "indonesian": "What evidence do you have?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それと反対の証拠がないので、みんなは彼の話を信じている。",
+      "reading": null,
+      "indonesian": "Everyone believes his story since there is no evidence to the contrary.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その話は証拠と一致する。",
+      "reading": null,
+      "indonesian": "The story is consistent with the evidence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その話が彼の体験に基づいているという証拠はない。",
+      "reading": null,
+      "indonesian": "There is no evidence that the story is based on his own experience.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その証拠は彼の前回の証言と一致している。",
+      "reading": null,
+      "indonesian": "The evidence corresponds to his previous statement.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その証拠は彼に有利であった。",
+      "reading": null,
+      "indonesian": "The evidence was in his favor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その証拠に疑問の余地はほとんどなかった。",
+      "reading": null,
+      "indonesian": "The evidence left little room for doubt.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

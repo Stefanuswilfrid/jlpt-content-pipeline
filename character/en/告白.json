@@ -1,0 +1,189 @@
+{
+  "definition": {
+    "word": "告白",
+    "reading": "こくはく",
+    "romaji": "kokuhaku",
+    "jlpt": "N1",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "confession (to a crime, wrongdoing, etc.)",
+          "admission"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "professing one's feelings (to someone one wants to go out with)",
+          "declaration of love"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "profession (of faith)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "confession (of sins)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "布告",
+      "reading": "ふこく",
+      "meaning": "edict"
+    },
+    {
+      "word": "告げる",
+      "reading": "つげる",
+      "meaning": "to tell"
+    },
+    {
+      "word": "勧告",
+      "reading": "かんこく",
+      "meaning": "advice"
+    },
+    {
+      "word": "忠告",
+      "reading": "ちゅうこく",
+      "meaning": "advice"
+    },
+    {
+      "word": "白状",
+      "reading": "はくじょう",
+      "meaning": "confession"
+    },
+    {
+      "word": "真っ白",
+      "reading": "まっしろ",
+      "meaning": "pure white"
+    },
+    {
+      "word": "白髪",
+      "reading": "しらが",
+      "meaning": "white hair"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "「すごくあなたが気になるの」と彼女は告白した。",
+      "reading": null,
+      "english": "\"I care very deeply for you\", she confessed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "牧師は彼女のキリスト信仰の告白を聞いた。",
+      "reading": null,
+      "english": "The minister listened to her profession of Christianity.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は父親の時計を壊したことを告白できなかった。",
+      "reading": null,
+      "english": "She couldn't make the admission that she had broken her father's watch.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は牧師に自分の罪を告白した。",
+      "reading": null,
+      "english": "He confessed his sins to the pastor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は自分が無神論者だと告白した。",
+      "reading": null,
+      "english": "He avowed himself an atheist.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は私を好きになったと告白した。",
+      "reading": null,
+      "english": "He confessed that he had fallen in love with me.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は罪を告白した方が良い。",
+      "reading": null,
+      "english": "He may as well confess his crimes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は告白して否まず。",
+      "reading": null,
+      "english": "He did not fail to confess.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自分の過ちを告白するのに恥じる必要は何もない。",
+      "reading": null,
+      "english": "There is no need to be ashamed of confessing one's mistakes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は無理に告白させられた。",
+      "reading": null,
+      "english": "I was compelled to confess.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は罪を告白した。",
+      "reading": null,
+      "english": "I confessed my sin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「すごくあなたが気になるの」と彼女は告白した。",
+      "reading": null,
+      "english": "\"I care very deeply for you\", she confessed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

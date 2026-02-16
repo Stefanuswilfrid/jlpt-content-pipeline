@@ -1,0 +1,112 @@
+{
+  "definition": {
+    "word": "掲げる",
+    "reading": "かかげる",
+    "romaji": "kakageru",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mengibarkan",
+          "menerbangkan (layar)",
+          "mengibarkan (bendera)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hold up high",
+          "to raise overhead"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tout (a principle, plan, etc.)",
+          "to herald",
+          "to hold up (an ideal)",
+          "to parade (e.g. a slogan)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to publish",
+          "to print",
+          "to carry (e.g. an article)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tuck up (e.g. sleeves)",
+          "to roll up"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "掲載",
+      "reading": "けいさい",
+      "meaning": "tampilan (misalnya, artikel di koran)"
+    },
+    {
+      "word": "掲示",
+      "reading": "けいじ",
+      "meaning": "pemberitahuan, buletin"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "以下に掲げる人が合格です。",
+      "reading": null,
+      "indonesian": "The following persons passed the examination.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "安全のために機械の前に掲示を掲げるつもりだ。",
+      "reading": null,
+      "indonesian": "We will set up a notice in front of the machine for safety's sake.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "以下に掲げる人が合格です。",
+      "reading": null,
+      "indonesian": "The following persons passed the examination.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "安全のために機械の前に掲示を掲げるつもりだ。",
+      "reading": null,
+      "indonesian": "We will set up a notice in front of the machine for safety's sake.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

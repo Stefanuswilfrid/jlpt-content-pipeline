@@ -1,0 +1,142 @@
+{
+  "definition": {
+    "word": "背後",
+    "reading": "はいご",
+    "romaji": "haigo",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "back",
+          "rear"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "background",
+          "behind the scenes"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "後退",
+      "reading": "こうたい",
+      "meaning": "retreat"
+    },
+    {
+      "word": "背景",
+      "reading": "はいけい",
+      "meaning": "background"
+    },
+    {
+      "word": "後回し",
+      "reading": "あとまわし",
+      "meaning": "putting off"
+    },
+    {
+      "word": "産後",
+      "reading": "さんご",
+      "meaning": "after childbirth"
+    },
+    {
+      "word": "直後",
+      "reading": "ちょくご",
+      "meaning": "immediately following"
+    },
+    {
+      "word": "以後",
+      "reading": "いご",
+      "meaning": "after this"
+    },
+    {
+      "word": "後ろ",
+      "reading": "うしろ",
+      "meaning": "back"
+    },
+    {
+      "word": "前後",
+      "reading": "ぜんご",
+      "meaning": "front and rear"
+    },
+    {
+      "word": "背中",
+      "reading": "せなか",
+      "meaning": "back (of the body)"
+    },
+    {
+      "word": "後輩",
+      "reading": "こうはい",
+      "meaning": "junior (at work, school, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "われわれはカーテンの背後に秘密のドアを見つけた。",
+      "reading": null,
+      "english": "We found out a secret door behind the curtain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "殺人事件の背後に潜むミステリーを解き明かせ。",
+      "reading": null,
+      "english": "Solve the mystery lurking behind the murder!",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の背後には資産家が控えている。",
+      "reading": null,
+      "english": "He has a wealthy supporter behind him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "背後で糸を引いている人物がいると警察は言っている。",
+      "reading": null,
+      "english": "The police say there's someone pulling string behind the scenes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はだれかが背後から肩をたたいているのを感じた。",
+      "reading": null,
+      "english": "I felt somebody patting on my shoulder from behind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "支配人の背後で暗躍した。",
+      "reading": null,
+      "english": "He acted behind the manager's back.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "われわれはカーテンの背後に秘密のドアを見つけた。",
+      "reading": null,
+      "english": "We found out a secret door behind the curtain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

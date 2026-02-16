@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "傾斜",
+    "reading": "けいしゃ",
+    "romaji": "keisha",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "inclination",
+          "slant",
+          "slope",
+          "bevel",
+          "list",
+          "dip",
+          "tilt",
+          "lean"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "斜面",
+      "reading": "しゃめん",
+      "meaning": "slope"
+    },
+    {
+      "word": "傾く",
+      "reading": "かたむく",
+      "meaning": "to incline toward"
+    },
+    {
+      "word": "斜め",
+      "reading": "ななめ",
+      "meaning": "slanting"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaning": "tendency"
+    },
+    {
+      "word": "傾ける",
+      "reading": "かたむける",
+      "meaning": "to incline"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "屋根は鋭い角度で傾斜している。",
+      "reading": null,
+      "english": "The roof slopes sharply.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その土地は川に向かって緩やかに傾斜している。",
+      "reading": null,
+      "english": "The land slopes gently toward the river.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "屋根は鋭い角度で傾斜している。",
+      "reading": null,
+      "english": "The roof slopes sharply.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その土地は川に向かって緩やかに傾斜している。",
+      "reading": null,
+      "english": "The land slopes gently toward the river.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

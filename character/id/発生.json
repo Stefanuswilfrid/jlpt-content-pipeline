@@ -1,0 +1,273 @@
+{
+  "definition": {
+    "word": "発生",
+    "reading": "はっせい",
+    "romaji": "hassei",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "wabah",
+          "muncul tiba-tiba",
+          "kejadian"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "generation (of power, heat, etc.)",
+          "production"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "ontogeny",
+          "development",
+          "growth",
+          "breeding"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaning": "pengembangan, eksploitasi"
+    },
+    {
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "ucapan, pidato, usulan"
+    },
+    {
+      "word": "反発",
+      "reading": "はんぱつ",
+      "meaning": "menolak, memantul, menentang"
+    },
+    {
+      "word": "活発",
+      "reading": "かっぱつ",
+      "meaning": "semangat, aktif"
+    },
+    {
+      "word": "発足",
+      "reading": "ほっそく",
+      "meaning": "permulaan, pelantikan"
+    },
+    {
+      "word": "再生",
+      "reading": "さいせい",
+      "meaning": "pemutaran ulang, regenerasi, resusitasi"
+    },
+    {
+      "word": "野生",
+      "reading": "やせい",
+      "meaning": "liar"
+    },
+    {
+      "word": "出生",
+      "reading": "しゅっしょう",
+      "meaning": "kelahiran"
+    },
+    {
+      "word": "再発",
+      "reading": "さいはつ",
+      "meaning": "kembali, kambuh, muncul kembali"
+    },
+    {
+      "word": "発掘",
+      "reading": "はっくつ",
+      "meaning": "penggalian, penemuan (misalnya, bakat baru)"
+    },
+    {
+      "word": "育成",
+      "reading": "いくせい",
+      "meaning": "pemeliharaan, pelatihan, budidaya"
+    },
+    {
+      "word": "発作",
+      "reading": "ほっさ",
+      "meaning": "cocok, menyerang"
+    },
+    {
+      "word": "畜生",
+      "reading": "ちくしょう",
+      "meaning": "binatang buas, kasar, terkutuk"
+    },
+    {
+      "word": "生かす",
+      "reading": "いかす",
+      "meaning": "untuk menjaga agar sesuatu tetap hidup; untuk memanfaatkannya"
+    },
+    {
+      "word": "発病",
+      "reading": "はつびょう",
+      "meaning": "menyerang, menjadi sakit"
+    },
+    {
+      "word": "生育",
+      "reading": "せいいく",
+      "meaning": "pertumbuhan, perkembangan, pembiakan"
+    },
+    {
+      "word": "生死",
+      "reading": "せいし",
+      "meaning": "hidup dan mati"
+    },
+    {
+      "word": "始発",
+      "reading": "しはつ",
+      "meaning": "kereta pertama"
+    },
+    {
+      "word": "生計",
+      "reading": "せいけい",
+      "meaning": "mata pencaharian, hidup"
+    },
+    {
+      "word": "発育",
+      "reading": "はついく",
+      "meaning": "pertumbuhan (fisik), perkembangan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "環境の変化から新種の発生をみた。",
+      "reading": null,
+      "indonesian": "Environmental changes gave rise to new species.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "干し草に自然発生的に火がついた。",
+      "reading": null,
+      "indonesian": "A spontaneous fire started in the hay.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "火災は５階で発生しました。",
+      "reading": null,
+      "indonesian": "A fire broke out on the fifth floor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火災が発生したら、このガラスを割ってください。",
+      "reading": null,
+      "indonesian": "Break this glass in case of fire.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火災が発生した時、母は偶然そこに居合わせた。",
+      "reading": null,
+      "indonesian": "My mother happened to be there when the fire broke out.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "疫病が発生した。",
+      "reading": null,
+      "indonesian": "An epidemic has broken out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ビルの中で火災が発生したら、どうすればいいかわかりますか。",
+      "reading": null,
+      "indonesian": "Do you know what to do if there's a fire in the building?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "デリカテッセンから火災が発生し、灰の山を残して全焼した。",
+      "reading": null,
+      "indonesian": "A delicatessen caught fire and burned down, leaving a heap of ashes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "たいてい、飢饉になると疫病も発生する。",
+      "reading": null,
+      "indonesian": "More often than not, famine is accompanied by plague.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "地震の後、火災が発生した。",
+      "reading": null,
+      "indonesian": "A fire broke out after the earthquake.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その災害を起こした地震は１９９５年に発生した。",
+      "reading": null,
+      "indonesian": "The earthquake which caused the disaster occurred in 1995.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その国のその地域ではよく嵐が発生した。",
+      "reading": null,
+      "indonesian": "There were storms in that region of the country.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その機械は大量の電気を発生させる。",
+      "reading": null,
+      "indonesian": "The machine generates a lot of electricity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その火事はおととい発生した。",
+      "reading": null,
+      "indonesian": "A fire broke out the day before yesterday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これが事故が発生した経緯です。",
+      "reading": null,
+      "indonesian": "This is how the accident happened.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

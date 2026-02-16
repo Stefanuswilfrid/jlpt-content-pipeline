@@ -1,0 +1,228 @@
+{
+  "definition": {
+    "word": "名誉",
+    "reading": "めいよ",
+    "romaji": "meiyo",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "kehormatan",
+          "pujian",
+          "prestise"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "prestige",
+          "dignity",
+          "reputation",
+          "honor",
+          "good name"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "honorary (e.g. president, doctorate)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "本名",
+      "reading": "ほんみょう",
+      "meaning": "nama asli"
+    },
+    {
+      "word": "名簿",
+      "reading": "めいぼ",
+      "meaning": "daftar nama"
+    },
+    {
+      "word": "名称",
+      "reading": "めいしょう",
+      "meaning": "nama"
+    },
+    {
+      "word": "著名",
+      "reading": "ちょめい",
+      "meaning": "terkenal, terkemuka, termasyhur"
+    },
+    {
+      "word": "名残",
+      "reading": "なごり",
+      "meaning": "sisa-sisa, jejak, kenangan"
+    },
+    {
+      "word": "記名",
+      "reading": "きめい",
+      "meaning": "tanda tangan, daftar"
+    },
+    {
+      "word": "名産",
+      "reading": "めいさん",
+      "meaning": "produk terkenal"
+    },
+    {
+      "word": "名札",
+      "reading": "なふだ",
+      "meaning": "papan nama, tanda nama"
+    },
+    {
+      "word": "名",
+      "reading": "な",
+      "meaning": "nama, reputasi"
+    },
+    {
+      "word": "名前",
+      "reading": "なまえ",
+      "meaning": "nama"
+    },
+    {
+      "word": "氏名",
+      "reading": "しめい",
+      "meaning": "nama lengkap"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaning": "terkenal"
+    },
+    {
+      "word": "署名",
+      "reading": "しょめい",
+      "meaning": "tanda tangan"
+    },
+    {
+      "word": "名人",
+      "reading": "めいじん",
+      "meaning": "master, ahli"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "名誉挽回",
+      "reading": "めいよばんかい",
+      "meaning": "restoring one's impaired reputation",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の不正行為は我が校の不名誉だ。",
+      "reading": null,
+      "indonesian": "Your wrongdoing is a disgrace to our school.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の行いはクラスの不名誉だ。",
+      "reading": null,
+      "indonesian": "What you did brought disgrace on the whole class.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "危険が大きければ大きいほど名誉も大きくなる。",
+      "reading": null,
+      "indonesian": "The more danger, the more honor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "むしろ名誉ある死を選びたい。",
+      "reading": null,
+      "indonesian": "I would prefer an honorable death.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムのようなよい生徒はわがクラスの名誉だ。",
+      "reading": null,
+      "indonesian": "A good student like Tom brings honor to our class.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その少年は我が校の名誉だ。",
+      "reading": null,
+      "indonesian": "The boy is a credit to our school.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その女優は雑誌を名誉き損で訴えた。",
+      "reading": null,
+      "indonesian": "The actress sued the magazine for libel.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これは我が校の名誉にかかわる問題だ。",
+      "reading": null,
+      "indonesian": "The problem affects the prestige of our school.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "グランプリに勝つことは有名なレーサーにとっては名誉であった。",
+      "reading": null,
+      "indonesian": "Winning the Grand Prix was a feather in the cap of the famous drivers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あれほど金と名誉があるのに、彼は幸せでない。",
+      "reading": null,
+      "indonesian": "For all his wealth and fame, he is unhappy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ああいう行動は君の名誉にかかわる。",
+      "reading": null,
+      "indonesian": "That kind of behaviour affects your honour.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "フランクス陸軍大将がナイト爵位の名誉称号を授かりました。",
+      "reading": null,
+      "indonesian": "General Franks received an honorary knighthood.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "友人に欺かれるよりも友人を信じないことの方が不名誉である。",
+      "reading": null,
+      "indonesian": "It is more ignominious to mistrust our friends than to be deceived by them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

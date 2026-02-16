@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "報ずる",
+    "reading": "ほうずる",
+    "romaji": "houzuru",
+    "jlpt": "N1",
+    "frequency": 10000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to report",
+          "to inform"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to repay",
+          "to return",
+          "to requite"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "報じる",
+      "reading": "ほうじる",
+      "meaning": "to report"
+    },
+    {
+      "word": "報道",
+      "reading": "ほうどう",
+      "meaning": "report (of news)"
+    },
+    {
+      "word": "報告",
+      "reading": "ほうこく",
+      "meaning": "report"
+    },
+    {
+      "word": "予報",
+      "reading": "よほう",
+      "meaning": "forecast"
+    },
+    {
+      "word": "報酬",
+      "reading": "ほうしゅう",
+      "meaning": "remuneration"
+    },
+    {
+      "word": "知らせる",
+      "reading": "しらせる",
+      "meaning": "to notify"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

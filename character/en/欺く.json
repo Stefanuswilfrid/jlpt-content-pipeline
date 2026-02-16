@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "欺く",
+    "reading": "あざむく",
+    "romaji": "azamuku",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to deceive",
+          "to delude",
+          "to trick",
+          "to fool"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be as ... as ... (e.g. \"as bright as day\", \"as beautiful as a rose\")"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "詐欺",
+      "reading": "さぎ",
+      "meaning": "fraud"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "敵を欺くにはまず味方から",
+      "reading": "てきをあざむくにはまずみかたから",
+      "meaning": "in fooling the enemy first deceive your allies",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼は他人を欺くようなことはしない。",
+      "reading": null,
+      "english": "He is above deceiving others.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は他人を欺くようなことはしない。",
+      "reading": null,
+      "english": "He's above deceiving others.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は他人を欺くようなことはしない。",
+      "reading": null,
+      "english": "He is above deceiving others.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分を欺くのはやめましょう。",
+      "reading": null,
+      "english": "Stop deluding yourself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は他人を欺くようなことはしない。",
+      "reading": null,
+      "english": "He's above deceiving others.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分を欺くのはやめましょう。",
+      "reading": null,
+      "english": "Stop deluding yourself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

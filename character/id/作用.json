@@ -1,0 +1,246 @@
+{
+  "definition": {
+    "word": "作用",
+    "reading": "さよう",
+    "romaji": "sayou",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "operasi",
+          "efek",
+          "fungsi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "工作",
+      "reading": "こうさく",
+      "meaning": "kerajinan tangan, manuver"
+    },
+    {
+      "word": "専用",
+      "reading": "せんよう",
+      "meaning": "penggunaan eksklusif, penggunaan pribadi"
+    },
+    {
+      "word": "原作",
+      "reading": "げんさく",
+      "meaning": "karya asli"
+    },
+    {
+      "word": "作り",
+      "reading": "つくり",
+      "meaning": "susunan, struktur, fisik"
+    },
+    {
+      "word": "用紙",
+      "reading": "ようし",
+      "meaning": "sebuah formulir"
+    },
+    {
+      "word": "用品",
+      "reading": "ようひん",
+      "meaning": "barang, perlengkapan, suku cadang"
+    },
+    {
+      "word": "発作",
+      "reading": "ほっさ",
+      "meaning": "cocok, menyerang"
+    },
+    {
+      "word": "凶作",
+      "reading": "きょうさく",
+      "meaning": "panen buruk, tanaman jelek"
+    },
+    {
+      "word": "無用",
+      "reading": "むよう",
+      "meaning": "tidak berguna, tidak perlu, tidak penting"
+    },
+    {
+      "word": "作戦",
+      "reading": "さくせん",
+      "meaning": "operasi militer, taktik, strategi"
+    },
+    {
+      "word": "採用",
+      "reading": "さいよう",
+      "meaning": "menggunakan, mengadopsi"
+    },
+    {
+      "word": "運用",
+      "reading": "うんよう",
+      "meaning": "memanfaatkan, penerapan, penggunaan praktis"
+    },
+    {
+      "word": "耕作",
+      "reading": "こうさく",
+      "meaning": "budidaya, pertanian"
+    },
+    {
+      "word": "豊作",
+      "reading": "ほうさく",
+      "meaning": "panen melimpah, hasil panen yang berlimpah"
+    },
+    {
+      "word": "公用",
+      "reading": "こうよう",
+      "meaning": "urusan pemerintah, penggunaan publik, pengeluaran publik"
+    },
+    {
+      "word": "代用",
+      "reading": "だいよう",
+      "meaning": "substitusi"
+    },
+    {
+      "word": "兼用",
+      "reading": "けんよう",
+      "meaning": "serbaguna, penggunaan gabungan"
+    },
+    {
+      "word": "使用人",
+      "reading": "しようにん",
+      "meaning": "karyawan, pelayan"
+    },
+    {
+      "word": "用件",
+      "reading": "ようけん",
+      "meaning": "bisnis"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "同化作用",
+      "reading": "どうかさよう",
+      "meaning": "assimilation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自浄作用",
+      "reading": "じじょうさよう",
+      "meaning": "autopurificatory activity (in the natural world)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自壊作用",
+      "reading": "じかいさよう",
+      "meaning": "(the act of) disintegration",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そこで他人との相互作用が大切になる。",
+      "reading": null,
+      "indonesian": "Then interaction with others becomes important.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この薬に副作用はありません。",
+      "reading": null,
+      "indonesian": "This medicine has no side effects.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この薬には悪い副作用はありません。",
+      "reading": null,
+      "indonesian": "This medicine is free from harmful effects.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "イースト菌はパンを膨らませる際の作用剤だ。",
+      "reading": null,
+      "indonesian": "Yeast acts as an agent in making bread rise.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "副作用としては、視力障害があります。",
+      "reading": null,
+      "indonesian": "This has visual impairment as a side effect.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "物価を押し上げるのにいくつかの要因が作用した。",
+      "reading": null,
+      "indonesian": "Several factors operated to help prices go up.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "副作用はありませんか。",
+      "reading": null,
+      "indonesian": "Is there any adverse reaction?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日光は皮膚に作用する。",
+      "reading": null,
+      "indonesian": "The sunbeam acts upon the skin.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日光は皮膚に作用する。",
+      "reading": null,
+      "indonesian": "Sunlight acts upon the skin.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "暖かい天候の時は、発汗作用が体温の調節をする上で役立つ。",
+      "reading": null,
+      "indonesian": "During warm weather, sweating helps man regulate his body temperature.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "酸は金属を含む多くのものに作用する。",
+      "reading": null,
+      "indonesian": "Acids act on many things including metals.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "酸は金属を含むものに作用する。",
+      "reading": null,
+      "indonesian": "Acid acts on things which contain metal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "酸は、金属に作用する。",
+      "reading": null,
+      "indonesian": "Acid acts on metals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

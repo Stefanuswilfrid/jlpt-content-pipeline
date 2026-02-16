@@ -1,0 +1,216 @@
+{
+  "definition": {
+    "word": "本能",
+    "reading": "ほんのう",
+    "romaji": "honnou",
+    "jlpt": "N1",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "instinct"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "本場",
+      "reading": "ほんば",
+      "meaning": "home (of something)"
+    },
+    {
+      "word": "手本",
+      "reading": "てほん",
+      "meaning": "model"
+    },
+    {
+      "word": "本館",
+      "reading": "ほんかん",
+      "meaning": "main building (as opposed to an annex, outbuilding, etc.)"
+    },
+    {
+      "word": "万能",
+      "reading": "ばんのう",
+      "meaning": "all-purpose"
+    },
+    {
+      "word": "本格",
+      "reading": "ほんかく",
+      "meaning": "original method"
+    },
+    {
+      "word": "本名",
+      "reading": "ほんみょう",
+      "meaning": "real name"
+    },
+    {
+      "word": "脚本",
+      "reading": "きゃくほん",
+      "meaning": "script"
+    },
+    {
+      "word": "本音",
+      "reading": "ほんね",
+      "meaning": "real intention"
+    },
+    {
+      "word": "本体",
+      "reading": "ほんたい",
+      "meaning": "substance"
+    },
+    {
+      "word": "本質",
+      "reading": "ほんしつ",
+      "meaning": "essence"
+    },
+    {
+      "word": "根本",
+      "reading": "こんぽん",
+      "meaning": "root"
+    },
+    {
+      "word": "本国",
+      "reading": "ほんごく",
+      "meaning": "home country"
+    },
+    {
+      "word": "放射能",
+      "reading": "ほうしゃのう",
+      "meaning": "radioactivity"
+    },
+    {
+      "word": "本文",
+      "reading": "ほんぶん",
+      "meaning": "text (of a book, document, etc.)"
+    },
+    {
+      "word": "本気",
+      "reading": "ほんき",
+      "meaning": "seriousness"
+    },
+    {
+      "word": "技能",
+      "reading": "ぎのう",
+      "meaning": "technical skill"
+    },
+    {
+      "word": "台本",
+      "reading": "だいほん",
+      "meaning": "script"
+    },
+    {
+      "word": "無能",
+      "reading": "むのう",
+      "meaning": "incompetence"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "帰巣本能",
+      "reading": "きそうほんのう",
+      "meaning": "homing instinct",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "敵は本能寺にあり",
+      "reading": "てきはほんのうじにあり",
+      "meaning": "his true objective lies elsewhere",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "基本的な本能は消えることはない。",
+      "reading": null,
+      "english": "Fundamental instincts will not go away.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どうするかを決めるときは、論理ではなく本能を当てにする。",
+      "reading": null,
+      "english": "In making a decision, I rely not on logic but on instinct.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その経済学者は現在の不況を本能的に予期していた。",
+      "reading": null,
+      "english": "The economist instinctively anticipated the current depression.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "本能に従うと道を誤ることが多い。",
+      "reading": null,
+      "english": "Instinct is often a poor guide.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "防衛本能はどんな動物も生まれつきもっているものです。",
+      "reading": null,
+      "english": "The instinct of self-defense is inherent in any animal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は本能のままに振る舞っているんですよ。",
+      "reading": null,
+      "english": "She's acting on instinct.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は闘争本能が強い。",
+      "reading": null,
+      "english": "He is possessed of a strong fighting instinct.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "動物は本能のままに振る舞う。",
+      "reading": null,
+      "english": "Animals act on instinct.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "鳥は本能的に飛ぶことを覚える。",
+      "reading": null,
+      "english": "Birds learn to fly by instinct.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "鳥には帰巣本能がある。",
+      "reading": null,
+      "english": "Birds have a homing instinct.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "全ての生き物は、生き延びるための本能的衝動を持っている。",
+      "reading": null,
+      "english": "All forms of life have an instinctive urge to survive.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "definition": {
+    "word": "実践",
+    "reading": "じっせん",
+    "romaji": "jissen",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "practice",
+          "putting into practice",
+          "implementation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "praxis"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "実態",
+      "reading": "じったい",
+      "meaning": "true state"
+    },
+    {
+      "word": "充実",
+      "reading": "じゅうじつ",
+      "meaning": "fullness"
+    },
+    {
+      "word": "実家",
+      "reading": "じっか",
+      "meaning": "(one's parents') home"
+    },
+    {
+      "word": "真実",
+      "reading": "しんじつ",
+      "meaning": "truth"
+    },
+    {
+      "word": "誠実",
+      "reading": "せいじつ",
+      "meaning": "sincere"
+    },
+    {
+      "word": "実業家",
+      "reading": "じつぎょうか",
+      "meaning": "businessperson"
+    },
+    {
+      "word": "切実",
+      "reading": "せつじつ",
+      "meaning": "earnest"
+    },
+    {
+      "word": "誠",
+      "reading": "まこと",
+      "meaning": "truth"
+    },
+    {
+      "word": "実費",
+      "reading": "じっぴ",
+      "meaning": "actual expenses"
+    },
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "certain"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaning": "experiment"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementation (e.g. of a system)"
+    },
+    {
+      "word": "実際",
+      "reading": "じっさい",
+      "meaning": "reality"
+    },
+    {
+      "word": "実績",
+      "reading": "じっせき",
+      "meaning": "achievements"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaning": "(real) ability"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "execution (e.g. of a plan)"
+    },
+    {
+      "word": "実",
+      "reading": "じつ",
+      "meaning": "truth"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "実践躬行",
+      "reading": "じっせんきゅうこう",
+      "meaning": "acting up to one's principles",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "共産主義はソ連で実践された体制である。",
+      "reading": null,
+      "english": "Communism is the system practiced in the Soviet Union.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "理論を実践と結び付けることが重要である。",
+      "reading": null,
+      "english": "It is important to combine theory with practice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "理論には実践が伴わなければならない。",
+      "reading": null,
+      "english": "A theory must be followed by practice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "理論と実践は相伴うとは限らない。",
+      "reading": null,
+      "english": "Theory and practice do not necessarily go together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "理論と実践は相伴うとは限らない。",
+      "reading": null,
+      "english": "Theory and practice don't necessarily go together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "理論と実践は常に両立するとは限らない。",
+      "reading": null,
+      "english": "Theory and practice do not always go together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "理論と実践が伴うとは限らない。",
+      "reading": null,
+      "english": "Theory and practice do not necessarily go together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "理論と実践が伴うとは限らない。",
+      "reading": null,
+      "english": "Theory and practice don't necessarily go together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "実践的見地からすれば彼の計画は実行しにくい。",
+      "reading": null,
+      "english": "From a practical point of view, his plan is not easy to carry out.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "実践的見地からすれば、彼の計画には欠点が多くある。",
+      "reading": null,
+      "english": "From the practical point of view, there are many shortcomings in his plan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "共産主義はソ連で実践された体制である。",
+      "reading": null,
+      "english": "Communism is the system practiced in the Soviet Union.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "口先よりも実践が大事なんだよ。",
+      "reading": null,
+      "english": "Actions speak louder than words.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "definition": {
+    "word": "相場",
+    "reading": "そうば",
+    "romaji": "souba",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "market price"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "speculation (e.g. on stocks)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reputation (according to conventional wisdom)",
+          "estimation",
+          "esteem"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外相",
+      "reading": "がいしょう",
+      "meaning": "Foreign Minister"
+    },
+    {
+      "word": "蔵相",
+      "reading": "ぞうしょう",
+      "meaning": "Minister of Finance"
+    },
+    {
+      "word": "真相",
+      "reading": "しんそう",
+      "meaning": "truth"
+    },
+    {
+      "word": "様相",
+      "reading": "ようそう",
+      "meaning": "aspect"
+    },
+    {
+      "word": "農場",
+      "reading": "のうじょう",
+      "meaning": "farm (agriculture)"
+    },
+    {
+      "word": "本場",
+      "reading": "ほんば",
+      "meaning": "home (of something)"
+    },
+    {
+      "word": "相対",
+      "reading": "あいたい",
+      "meaning": "involving only the parties concerned"
+    },
+    {
+      "word": "道場",
+      "reading": "どうじょう",
+      "meaning": "dojo"
+    },
+    {
+      "word": "役場",
+      "reading": "やくば",
+      "meaning": "town hall"
+    },
+    {
+      "word": "相応",
+      "reading": "そうおう",
+      "meaning": "suitable"
+    },
+    {
+      "word": "式場",
+      "reading": "しきじょう",
+      "meaning": "ceremonial hall (e.g. wedding, funeral)"
+    },
+    {
+      "word": "来場",
+      "reading": "らいじょう",
+      "meaning": "attendance"
+    },
+    {
+      "word": "満場",
+      "reading": "まんじょう",
+      "meaning": "whole house"
+    },
+    {
+      "word": "相対",
+      "reading": "そうたい",
+      "meaning": "relativity"
+    },
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "prime minister"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "companion"
+    },
+    {
+      "word": "現場",
+      "reading": "げんば",
+      "meaning": "actual spot"
+    },
+    {
+      "word": "市場",
+      "reading": "いちば",
+      "meaning": "(town) market"
+    },
+    {
+      "word": "市場",
+      "reading": "しじょう",
+      "meaning": "market (financial, stock, domestic, etc.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "相場が決まっている",
+      "reading": "そうばがきまっている",
+      "meaning": "to be taken for granted",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "為替相場は毎日会計室の前に掲示される。",
+      "reading": null,
+      "english": "The exchange rates are posted daily outside the cashier's office.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "為替相場は１ドル１４５円だ。",
+      "reading": null,
+      "english": "The rate of exchange is 145 yen to the dollar.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今、ドルの為替相場って、いくらなの？",
+      "reading": null,
+      "english": "What is the exchange rate for dollars now?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ドルに対する円相場があがった。",
+      "reading": null,
+      "english": "The exchange rate for the yen against the dollar has risen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そこ知らずの相場だ。",
+      "reading": null,
+      "english": "The bottom has fallen out of the market.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "相場師の中には老人の無知と寂しさに付け込む奴がいる。",
+      "reading": null,
+      "english": "Some speculators take advantage of the ignorance and helplessness of old people.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今日の為替相場はいくらですか。",
+      "reading": null,
+      "english": "What is the exchange rate today?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今日の為替相場はいくらですか。",
+      "reading": null,
+      "english": "What's the exchange rate today?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今は下がり相場だ。",
+      "reading": null,
+      "english": "It's a bearish market now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "為替相場は毎日会計室の前に掲示される。",
+      "reading": null,
+      "english": "The exchange rates are posted daily outside the cashier's office.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "為替相場は１ドル１４５円だ。",
+      "reading": null,
+      "english": "The rate of exchange is 145 yen to the dollar.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ドルに対する円相場があがった。",
+      "reading": null,
+      "english": "The exchange rate for the yen against the dollar has risen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そこ知らずの相場だ。",
+      "reading": null,
+      "english": "The bottom has fallen out of the market.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今は下がり相場だ。",
+      "reading": null,
+      "english": "It's a bearish market now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "definition": {
+    "word": "独自",
+    "reading": "どくじ",
+    "romaji": "dokuji",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "original",
+          "unique",
+          "distinctive",
+          "characteristic",
+          "peculiar"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "independent",
+          "one's own",
+          "personal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "単独",
+      "reading": "たんどく",
+      "meaning": "sole"
+    },
+    {
+      "word": "自主",
+      "reading": "じしゅ",
+      "meaning": "independence"
+    },
+    {
+      "word": "独裁",
+      "reading": "どくさい",
+      "meaning": "dictatorship"
+    },
+    {
+      "word": "独占",
+      "reading": "どくせん",
+      "meaning": "monopoly"
+    },
+    {
+      "word": "自立",
+      "reading": "じりつ",
+      "meaning": "independence"
+    },
+    {
+      "word": "孤独",
+      "reading": "こどく",
+      "meaning": "solitude"
+    },
+    {
+      "word": "自覚",
+      "reading": "じかく",
+      "meaning": "self-consciousness"
+    },
+    {
+      "word": "自在",
+      "reading": "じざい",
+      "meaning": "being able to do as one pleases"
+    },
+    {
+      "word": "独創",
+      "reading": "どくそう",
+      "meaning": "originality"
+    },
+    {
+      "word": "自我",
+      "reading": "じが",
+      "meaning": "ego"
+    },
+    {
+      "word": "自首",
+      "reading": "じしゅ",
+      "meaning": "surrender (to the authorities)"
+    },
+    {
+      "word": "自転",
+      "reading": "じてん",
+      "meaning": "rotation (on an axis)"
+    },
+    {
+      "word": "自ら",
+      "reading": "みずから",
+      "meaning": "oneself"
+    },
+    {
+      "word": "自身",
+      "reading": "じしん",
+      "meaning": "(one's) self"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaning": "nature"
+    },
+    {
+      "word": "自宅",
+      "reading": "じたく",
+      "meaning": "one's home"
+    },
+    {
+      "word": "自動車",
+      "reading": "じどうしゃ",
+      "meaning": "car"
+    },
+    {
+      "word": "自由",
+      "reading": "じゆう",
+      "meaning": "freedom"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もちろん地域独自の病院もあるべきだ。",
+      "reading": null,
+      "english": "Of course there should be local hospitals.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "めいめいの子供は独自の考え方を持っている。",
+      "reading": null,
+      "english": "Each child has an individual way of thinking.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "みんな独自の個性を持っている。",
+      "reading": null,
+      "english": "Everyone has a character of his own.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの民族も独自の神話を持っている。",
+      "reading": null,
+      "english": "Every nation has its own myths.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "スウェーデンには独自の言語がある。",
+      "reading": null,
+      "english": "Sweden has a language of its own.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このタッチは彼女独自のものだ。",
+      "reading": null,
+      "english": "This touch is original with her.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お歳暮は日本独自の習慣の一つである。",
+      "reading": null,
+      "english": "Sending year-end gifts is one of the customs peculiar to Japan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼独自のやり方はわれわれの間では人気がない。",
+      "reading": null,
+      "english": "His own way of doing things is not popular with us.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは独自の文化を持っていた。",
+      "reading": null,
+      "english": "They had a culture of their own.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

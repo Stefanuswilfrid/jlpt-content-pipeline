@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "滞る",
+    "reading": "とどこおる",
+    "romaji": "todokooru",
+    "jlpt": "N1",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stagnate",
+          "to be delayed",
+          "to be left undone"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be overdue (of a payment)",
+          "to fall into arrears",
+          "to be outstanding"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "停滞",
+      "reading": "ていたい",
+      "meaning": "stagnation"
+    },
+    {
+      "word": "滞在",
+      "reading": "たいざい",
+      "meaning": "stay"
+    },
+    {
+      "word": "渋滞",
+      "reading": "じゅうたい",
+      "meaning": "(traffic) congestion"
+    },
+    {
+      "word": "滞納",
+      "reading": "たいのう",
+      "meaning": "falling behind (with a payment)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "支払いを滞る原因となるような問題があるのですが。",
+      "reading": null,
+      "english": "I have run into a problem that is causing the delay of my payment.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "支払いを滞る原因となるような問題があるのですが。",
+      "reading": null,
+      "english": "I have run into a problem that is causing the delay of my payment.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "definition": {
+    "word": "釣鐘",
+    "reading": "つりがね",
+    "romaji": "tsurigane",
+    "jlpt": "N1",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lonceng kuil (untuk dipukul)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "鐘",
+      "reading": "かね",
+      "meaning": "lonceng, denting"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "jam tangan; jam dinding"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "提灯に釣鐘",
+      "reading": "ちょうちんにつりがね",
+      "meaning": "two ill-matched things",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "群がる",
+    "reading": "むらがる",
+    "romaji": "muragaru",
+    "jlpt": "N1",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to swarm",
+          "to gather"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "群集",
+      "reading": "ぐんしゅう",
+      "meaning": "crowd"
+    },
+    {
+      "word": "群衆",
+      "reading": "ぐんしゅう",
+      "meaning": "group (of people)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その歌手はファンの群がる中を苦心して進んだ。",
+      "reading": null,
+      "english": "The singer fought his way through the crowd of fans.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その歌手はファンの群がる中を苦心して進んだ。",
+      "reading": null,
+      "english": "The singer fought his way through the crowd of fans.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

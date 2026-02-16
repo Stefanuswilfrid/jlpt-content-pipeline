@@ -1,0 +1,201 @@
+{
+  "definition": {
+    "word": "堂々",
+    "reading": "どうどう",
+    "romaji": "doudou",
+    "jlpt": "N1",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "'taru' adjective",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "magnificent",
+          "grand",
+          "impressive",
+          "dignified",
+          "majestic",
+          "imposing",
+          "stately"
+        ]
+      },
+      {
+        "pos": [
+          "'taru' adjective",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "fair",
+          "square",
+          "open",
+          "unashamed",
+          "brazen"
+        ]
+      },
+      {
+        "pos": [
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "grandly",
+          "boldly",
+          "confidently"
+        ]
+      },
+      {
+        "pos": [
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "fairly",
+          "squarely",
+          "unreservedly",
+          "brazenly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "議事堂",
+      "reading": "ぎじどう",
+      "meaning": "assembly hall"
+    },
+    {
+      "word": "食堂",
+      "reading": "しょくどう",
+      "meaning": "dining room"
+    },
+    {
+      "word": "講堂",
+      "reading": "こうどう",
+      "meaning": "auditorium"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "正々堂々",
+      "reading": "せいせいどうどう",
+      "meaning": "fair and square",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "威風堂々",
+      "reading": "いふうどうどう",
+      "meaning": "majestic",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "旗鼓堂々",
+      "reading": "きこどうどう",
+      "meaning": "with colors flying and band playing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "雄気堂々",
+      "reading": "ゆうきどうどう",
+      "meaning": "with heroic drive and boundless energy",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "強盗団は今日、白昼堂々、もうひとつの銀行を襲った。",
+      "reading": null,
+      "english": "The thieves knocked off another bank today in a daytime robbery.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "強盗は白昼堂々と郵便局を襲った。",
+      "reading": null,
+      "english": "The burglar broke into the post office in broad daylight.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その老人は堂々とした顔つきをしていた。",
+      "reading": null,
+      "english": "The old man had a noble countenance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ウィルソンさんは彼が正々堂々とやってくれることを望む。",
+      "reading": null,
+      "english": "Mr Wilson likes him to play square.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは敵軍と正々堂々と戦った。",
+      "reading": null,
+      "english": "They fought a fair battle with the enemy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は非難されても堂々としていた。",
+      "reading": null,
+      "english": "He stood tall even under criticism.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は堂々と振る舞う。",
+      "reading": null,
+      "english": "He carries himself regally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は演説を堂々とやった。",
+      "reading": null,
+      "english": "He delivered his speech splendidly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼はその式典で堂々と振る舞った。",
+      "reading": null,
+      "english": "He bore himself well at the ceremony.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はあの堂々たる大邸宅に住んでいる。",
+      "reading": null,
+      "english": "He lives in that stately mansion.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "堂々としなさい。",
+      "reading": null,
+      "english": "Walk tall, son.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "将軍の堂々とした格幅は誰でも威圧される。",
+      "reading": null,
+      "english": "The general's massive presence awes everyone.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

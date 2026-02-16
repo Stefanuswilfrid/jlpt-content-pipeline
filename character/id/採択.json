@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "採択",
+    "reading": "さいたく",
+    "romaji": "saitaku",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "adopsi",
+          "seleksi",
+          "pilihan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "採用",
+      "reading": "さいよう",
+      "meaning": "menggunakan, mengadopsi"
+    },
+    {
+      "word": "採決",
+      "reading": "さいけつ",
+      "meaning": "pemungutan suara, panggilan nama"
+    },
+    {
+      "word": "採算",
+      "reading": "さいさん",
+      "meaning": "laba"
+    },
+    {
+      "word": "採掘",
+      "reading": "さいくつ",
+      "meaning": "pertambangan"
+    },
+    {
+      "word": "選択",
+      "reading": "せんたく",
+      "meaning": "seleksi, pilihan"
+    },
+    {
+      "word": "選ぶ",
+      "reading": "えらぶ",
+      "meaning": "untuk memilih; untuk menyeleksi"
+    },
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaning": "untuk memanen, untuk menerima, untuk mengadopsi"
+    },
+    {
+      "word": "採点",
+      "reading": "さいてん",
+      "meaning": "memberi nilai, memberi peringkat"
+    },
+    {
+      "word": "採集",
+      "reading": "さいしゅう",
+      "meaning": "mengumpulkan, menghimpun"
+    },
+    {
+      "word": "採る",
+      "reading": "とる",
+      "meaning": "mengadopsi (tindakan, usulan); memetik (buah)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その委員会はその提案を採択した。",
+      "reading": null,
+      "indonesian": "The committee adopted the plan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはその提案を採択した。",
+      "reading": null,
+      "indonesian": "They adopted the proposal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "国連総会は停戦決議案を採択した。",
+      "reading": null,
+      "indonesian": "The United Nations General Assembly adopted the cease-fire resolution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その委員会はその提案を採択した。",
+      "reading": null,
+      "indonesian": "The committee adopted the plan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "国連総会は停戦決議案を採択した。",
+      "reading": null,
+      "indonesian": "The United Nations General Assembly adopted the cease-fire resolution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはその提案を採択した。",
+      "reading": null,
+      "indonesian": "They adopted the proposal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

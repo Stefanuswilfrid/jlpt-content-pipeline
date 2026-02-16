@@ -1,0 +1,239 @@
+{
+  "definition": {
+    "word": "芸",
+    "reading": "げい",
+    "romaji": "gei",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "art",
+          "craft",
+          "accomplishment",
+          "artistic skill",
+          "technique",
+          "performance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "学芸",
+      "reading": "がくげい",
+      "meaning": "arts and sciences"
+    },
+    {
+      "word": "手芸",
+      "reading": "しゅげい",
+      "meaning": "handicrafts"
+    },
+    {
+      "word": "芸術",
+      "reading": "げいじゅつ",
+      "meaning": "art"
+    },
+    {
+      "word": "芸能",
+      "reading": "げいのう",
+      "meaning": "public entertainment"
+    },
+    {
+      "word": "文芸",
+      "reading": "ぶんげい",
+      "meaning": "literature"
+    },
+    {
+      "word": "工芸",
+      "reading": "こうげい",
+      "meaning": "industrial arts"
+    },
+    {
+      "word": "園芸",
+      "reading": "えんげい",
+      "meaning": "horticulture"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "文芸復興",
+      "reading": "ぶんげいふっこう",
+      "meaning": "Renaissance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無芸大食",
+      "reading": "むげいたいしょく",
+      "meaning": "lacking the talent to do anything but eat",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一芸一能",
+      "reading": "いちげいいちのう",
+      "meaning": "(excelling in) one area or skill",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "武芸百般",
+      "reading": "ぶげいひゃっぱん",
+      "meaning": "every martial art",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "多芸は無芸",
+      "reading": "たげいはむげい",
+      "meaning": "a jack of all trades is a master of none",
+      "type": "proverb"
+    },
+    {
+      "word": "芸は身を助く",
+      "reading": "げいはみをたすく",
+      "meaning": "art brings bread",
+      "type": "proverb"
+    },
+    {
+      "word": "芸術は長く人生は短し",
+      "reading": "げいじゅつはながくじんせいはみじかし",
+      "meaning": "art is long, life is short",
+      "type": "proverb"
+    },
+    {
+      "word": "芸は身を助ける",
+      "reading": "げいはみをたすける",
+      "meaning": "art brings bread",
+      "type": "proverb"
+    },
+    {
+      "word": "芸が身を助けるほどの不幸せ",
+      "reading": "げいがみをたすけるほどのふしあわせ",
+      "meaning": "being able to live as an artist is no blessing",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "私は芸術家ではない。全然向いていない。",
+      "reading": null,
+      "english": "I am not an artist. I never had the knack for it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の庭は芸術作品です。",
+      "reading": null,
+      "english": "Her garden is a work of art.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は芸術家ではない。全然向いていない。",
+      "reading": null,
+      "english": "I am not an artist. I never had the knack for it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空想はしばしば芸術の母になる。",
+      "reading": null,
+      "english": "Fantasy is often the mother of art.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "去年手芸コースを取っていたのです。",
+      "reading": null,
+      "english": "I took an art class last year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは誰でも、多かれ少なかれ芸術に興味を持っている。",
+      "reading": null,
+      "english": "Every one of us is more or less interested in art.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は誰でも芸術には多かれ少なかれ興味を抱いている。",
+      "reading": null,
+      "english": "Every one of us is more or less interested in art.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "歌舞伎は古くからの日本の芸術だ。",
+      "reading": null,
+      "english": "Kabuki is an old Japanese art.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "科学と芸術は人類の幸福の増進に貢献しなければならない。",
+      "reading": null,
+      "english": "Science and art must contribute to the promotion of human welfare.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "多芸は無芸。",
+      "reading": null,
+      "english": "A jack of all trades is a master of none.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "猿はたくさん芸を覚える。",
+      "reading": null,
+      "english": "Monkeys can learn a lot of tricks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "園芸がここ数年、流行しています。",
+      "reading": null,
+      "english": "Gardening has been popular for some years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一芸に長じることが大切だ。",
+      "reading": null,
+      "english": "It is important to be accomplished in some art.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれの芸術上の好みは一致する。",
+      "reading": null,
+      "english": "Our tastes in art agree.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "モネの芸術は印象派を代表している。",
+      "reading": null,
+      "english": "Monet's art is representative of Impressionism.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

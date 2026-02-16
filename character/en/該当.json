@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "該当",
+    "reading": "がいとう",
+    "romaji": "gaitou",
+    "jlpt": "N1",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "corresponding to",
+          "being applicable to",
+          "being relevant to",
+          "coming under",
+          "falling under",
+          "fulfilling (requirements)",
+          "meeting (conditions)",
+          "qualifying for"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "当て",
+      "reading": "あて",
+      "meaning": "aim"
+    },
+    {
+      "word": "当人",
+      "reading": "とうにん",
+      "meaning": "the person concerned"
+    },
+    {
+      "word": "当選",
+      "reading": "とうせん",
+      "meaning": "being elected"
+    },
+    {
+      "word": "不当",
+      "reading": "ふとう",
+      "meaning": "unfair"
+    },
+    {
+      "word": "正当",
+      "reading": "せいとう",
+      "meaning": "just"
+    },
+    {
+      "word": "手当",
+      "reading": "てあて",
+      "meaning": "salary"
+    },
+    {
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "estimate"
+    },
+    {
+      "word": "当番",
+      "reading": "とうばん",
+      "meaning": "being on duty"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この条件に該当する人は誰もいない。",
+      "reading": null,
+      "english": "There is nobody who fulfils these conditions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この条件に該当する人は誰もいない。",
+      "reading": null,
+      "english": "There is nobody who fulfils these conditions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "洗濯機で該当オプションを適用した。",
+      "reading": null,
+      "english": "I've entered the appropriate settings on the washing machine.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ATMコンソールで 該当する項目は見つかりませんでした。",
+      "reading": null,
+      "english": "I could not find the right menu option on the ATM.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "洗濯機で該当オプションを適用した。",
+      "reading": null,
+      "english": "I've entered the appropriate settings on the washing machine.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ATMコンソールで 該当する項目は見つかりませんでした。",
+      "reading": null,
+      "english": "I could not find the right menu option on the ATM.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

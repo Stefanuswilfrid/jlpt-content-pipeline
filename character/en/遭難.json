@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "遭難",
+    "reading": "そうなん",
+    "romaji": "sounan",
+    "jlpt": "N1",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "(meeting with) disaster",
+          "(having an) accident",
+          "mishap",
+          "shipwreck",
+          "distress"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無難",
+      "reading": "ぶなん",
+      "meaning": "safe (e.g. choice)"
+    },
+    {
+      "word": "避難",
+      "reading": "ひなん",
+      "meaning": "taking refuge"
+    },
+    {
+      "word": "非難",
+      "reading": "ひなん",
+      "meaning": "criticism"
+    },
+    {
+      "word": "難",
+      "reading": "なん",
+      "meaning": "difficulty"
+    },
+    {
+      "word": "盗難",
+      "reading": "とうなん",
+      "meaning": "theft"
+    },
+    {
+      "word": "困難",
+      "reading": "こんなん",
+      "meaning": "difficulty"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼らは山で遭難した。",
+      "reading": null,
+      "english": "They lost their way in the mountain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは山で遭難した。",
+      "reading": null,
+      "english": "They met with an accident in the mountains.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "船長は無線通信士に遭難信号を打つように命令した。",
+      "reading": null,
+      "english": "The ship's captain ordered the radio operator to send a distress signal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "船長は無線通信士に遭難信号を打つように命令した。",
+      "reading": null,
+      "english": "The ship's captain ordered the radio operator to send a distress signal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは山で遭難した。",
+      "reading": null,
+      "english": "They lost their way in the mountain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは山で遭難した。",
+      "reading": null,
+      "english": "They met with an accident in the mountains.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

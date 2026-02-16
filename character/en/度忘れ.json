@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "ど忘れ",
+    "reading": "どわすれ",
+    "romaji": "dowasure",
+    "jlpt": "N1",
+    "frequency": 10000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "lapse of memory",
+          "(something) slipping one's mind",
+          "forgetting for a moment something one knows well"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "忘れる",
+      "reading": "わすれる",
+      "meaning": "to forget"
+    },
+    {
+      "word": "忘れ物",
+      "reading": "わすれもの",
+      "meaning": "lost article"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私は彼女の名前を度忘れした。",
+      "reading": null,
+      "english": "For a moment I forgot what her name was.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は彼女の名前を度忘れした。",
+      "reading": null,
+      "english": "Her name slipped my mind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は彼女の名前を度忘れした。",
+      "reading": null,
+      "english": "For a moment I forgot what her name was.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は彼女の名前を度忘れした。",
+      "reading": null,
+      "english": "Her name slipped my mind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

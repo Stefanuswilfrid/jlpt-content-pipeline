@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "歩む",
+    "reading": "あゆむ",
+    "romaji": "ayumu",
+    "jlpt": "N1",
+    "frequency": 22750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to walk",
+          "to go on foot"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to tread (a figurative path)",
+          "to follow",
+          "to lead (a life)",
+          "to experience"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to advance towards (e.g. a solution)",
+          "to set out (e.g. on the path to destruction, ruin, etc.)",
+          "to embark (on the road to ...)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "譲歩",
+      "reading": "じょうほ",
+      "meaning": "concession"
+    },
+    {
+      "word": "進歩",
+      "reading": "しんぽ",
+      "meaning": "progress"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "walk"
+    },
+    {
+      "word": "歩く",
+      "reading": "あるく",
+      "meaning": "to walk"
+    },
+    {
+      "word": "徒歩",
+      "reading": "とほ",
+      "meaning": "walking"
+    },
+    {
+      "word": "歩み",
+      "reading": "あゆみ",
+      "meaning": "walking"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼は先人と同じ道を歩むことを名誉だと信じている。",
+      "reading": null,
+      "english": "He believes it to be an honor to follow in his predecessor's footsteps.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は先人と同じ道を歩むことを名誉だと信じている。",
+      "reading": null,
+      "english": "He believes it to be an honor to follow in his predecessor's footsteps.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "学び続けるのは成功の道を歩む人だ。",
+      "reading": null,
+      "english": "People who keep on learning are those who follow the path of success.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学び続けるのは成功の道を歩む人だ。",
+      "reading": null,
+      "english": "People who keep on learning are those who follow the path of success.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "焦らず、一歩一歩歩むことが大切です。",
+      "reading": null,
+      "english": "Without being hasty, it's important to move onwards step by step.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "焦らず、一歩一歩歩むことが大切です。",
+      "reading": null,
+      "english": "Without being hasty, it's important to move onwards step by step.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

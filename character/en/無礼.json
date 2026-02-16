@@ -1,0 +1,237 @@
+{
+  "definition": {
+    "word": "無礼",
+    "reading": "ぶれい",
+    "romaji": "burei",
+    "jlpt": "N1",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "rudeness",
+          "impoliteness",
+          "discourtesy",
+          "insolence"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無能",
+      "reading": "むのう",
+      "meaning": "incompetence"
+    },
+    {
+      "word": "無意味",
+      "reading": "むいみ",
+      "meaning": "nonsense"
+    },
+    {
+      "word": "無線",
+      "reading": "むせん",
+      "meaning": "radio (communication)"
+    },
+    {
+      "word": "無効",
+      "reading": "むこう",
+      "meaning": "invalid"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "silence (not speaking)"
+    },
+    {
+      "word": "無断",
+      "reading": "むだん",
+      "meaning": "absence of permission"
+    },
+    {
+      "word": "無用",
+      "reading": "むよう",
+      "meaning": "useless"
+    },
+    {
+      "word": "無難",
+      "reading": "ぶなん",
+      "meaning": "safe (e.g. choice)"
+    },
+    {
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "regret"
+    },
+    {
+      "word": "無駄遣い",
+      "reading": "むだづかい",
+      "meaning": "waste (of money, time, etc.)"
+    },
+    {
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "meaning": "innocent"
+    },
+    {
+      "word": "無口",
+      "reading": "むくち",
+      "meaning": "taciturn"
+    },
+    {
+      "word": "無知",
+      "reading": "むち",
+      "meaning": "ignorance"
+    },
+    {
+      "word": "台無し",
+      "reading": "だいなし",
+      "meaning": "spoiled"
+    },
+    {
+      "word": "家来",
+      "reading": "けらい",
+      "meaning": "retainer"
+    },
+    {
+      "word": "無茶",
+      "reading": "むちゃ",
+      "meaning": "absurd"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "慇懃無礼",
+      "reading": "いんぎんぶれい",
+      "meaning": "superficially polite but actually rude",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "傲岸無礼",
+      "reading": "ごうがんぶれい",
+      "meaning": "arrogance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "傲慢無礼",
+      "reading": "ごうまんぶれい",
+      "meaning": "(arrogance and) insolence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無礼千万",
+      "reading": "ぶれいせんばん",
+      "meaning": "extremely rude (impertinent, impolite)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "皆さん、今夜は無礼講で行きましょう。それでは、乾杯。",
+      "reading": null,
+      "english": "All right, everyone, let's not stand on ceremony tonight. Cheers!",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "たまに彼女の自由奔放な態度は無礼に見えることがある。",
+      "reading": null,
+      "english": "Sometimes her free manner seems rude.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その外国人をじっと見て指差している少年はとても無礼だと思う。",
+      "reading": null,
+      "english": "I thought the little boy who was staring and pointing at the foreigner was very rude.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この様な彼の無礼な行為はどんなことがあっても許されない。",
+      "reading": null,
+      "english": "Nothing can excuse him for such rude behavior.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あんまり無礼に扱われたので、カチンときた。",
+      "reading": null,
+      "english": "They were treating me so rudely that I suddenly just lost it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あんな無礼なことをしてしまってごめんなさい。",
+      "reading": null,
+      "english": "I'm sorry I was so rude.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの無礼な男を誰かが叱り付けなければならない。",
+      "reading": null,
+      "english": "Somebody should tell off that rude man.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "あの無礼な男には我慢ならない。",
+      "reading": null,
+      "english": "I can't abide that rude man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの男が無礼なので僕は腹が立ったが何も言わずにいた。",
+      "reading": null,
+      "english": "Although I was angry at the man for his rudeness, I held my tongue.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは私にもう無礼なことはしないと約束した。",
+      "reading": null,
+      "english": "You promised not to be rude to me any more.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は彼の無礼について、私に不満を言った。",
+      "reading": null,
+      "english": "She complained to me of his rudeness.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は彼の無礼にこれ以上我慢できなかった。",
+      "reading": null,
+      "english": "She couldn't put up with his rudeness any more.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は彼の無礼な言葉にもう我慢できなくなった。",
+      "reading": null,
+      "english": "She could no longer put up with his insulting words.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

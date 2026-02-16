@@ -1,0 +1,197 @@
+{
+  "definition": {
+    "word": "助言",
+    "reading": "じょげん",
+    "romaji": "jogen",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "saran",
+          "masukan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "言論",
+      "reading": "げんろん",
+      "meaning": "diskusi, pidato"
+    },
+    {
+      "word": "断言",
+      "reading": "だんげん",
+      "meaning": "pernyataan, deklarasi, penegasan"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "kesunyian"
+    },
+    {
+      "word": "助け",
+      "reading": "たすけ",
+      "meaning": "bantuan"
+    },
+    {
+      "word": "言い訳",
+      "reading": "いいわけ",
+      "meaning": "alasan, penjelasan"
+    },
+    {
+      "word": "宣言",
+      "reading": "せんげん",
+      "meaning": "deklarasi, proklamasi, pengumuman"
+    },
+    {
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "ucapan, pidato, usulan"
+    },
+    {
+      "word": "補助",
+      "reading": "ほじょ",
+      "meaning": "bantuan, dukungan, tambahan"
+    },
+    {
+      "word": "証言",
+      "reading": "しょうげん",
+      "meaning": "bukti, kesaksian"
+    },
+    {
+      "word": "予言",
+      "reading": "よげん",
+      "meaning": "prediksi, janji, ramalan"
+    },
+    {
+      "word": "片言",
+      "reading": "かたこと",
+      "meaning": "rusak (dalam konteks gaya berbicara, misalnya bahasa Jepang)"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "satu kata"
+    },
+    {
+      "word": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "bantuan, pertolongan, penyelamatan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は彼の助言に従えさえすればよい。",
+      "reading": null,
+      "indonesian": "All you have to do is follow his advice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼の助言に従いさえすればよい。",
+      "reading": null,
+      "indonesian": "All that you have to do is to follow his advice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼に助言を求めるべきだ。",
+      "reading": null,
+      "indonesian": "You ought to ask him for advice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼に助言を求めない方がいいだろう。",
+      "reading": null,
+      "indonesian": "It would be better for you not to ask him for advice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は先生に助言を求めた方がいいでしょう。",
+      "reading": null,
+      "indonesian": "You may as well ask for your teacher's advice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はお父さんの助言を聞いてそれに従うべきだ。",
+      "reading": null,
+      "indonesian": "You should ask your father for his advice and follow it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君はいい助言をしてくれた。",
+      "reading": null,
+      "indonesian": "You've given me good advice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の助言は私が自分の将来をはっきりさせるのに役立った。",
+      "reading": null,
+      "indonesian": "Your advice has helped me see the light regarding my future.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の助言はいつも私の役に立つ。",
+      "reading": null,
+      "indonesian": "Your advice is always helpful to me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "外部からの助言が必要かもしれません。",
+      "reading": null,
+      "indonesian": "Outside advice may be necessary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会社は新しい設備に投資すべきだというのが私たちの助言です。",
+      "reading": null,
+      "indonesian": "Our advice is that the company invest in new equipment.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何をしてよいか分からなかったので、彼に助言を求めた。",
+      "reading": null,
+      "indonesian": "Not knowing what to do, I asked for his advice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "遠慮しないで助言を求めなさい。",
+      "reading": null,
+      "indonesian": "Don't hesitate to ask for advice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "区画",
+    "reading": "くかく",
+    "romaji": "kukaku",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "divisi",
+          "bagian",
+          "area"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "区間",
+      "reading": "くかん",
+      "meaning": "bagian"
+    },
+    {
+      "word": "版画",
+      "reading": "はんが",
+      "meaning": "cetakan seni"
+    },
+    {
+      "word": "区切り",
+      "reading": "くぎり",
+      "meaning": "akhir, berhenti, tanda baca"
+    },
+    {
+      "word": "企画",
+      "reading": "きかく",
+      "meaning": "perencanaan, proyek"
+    },
+    {
+      "word": "油絵",
+      "reading": "あぶらえ",
+      "meaning": "lukisan cat minyak"
+    },
+    {
+      "word": "映画館",
+      "reading": "えいがかん",
+      "meaning": "bioskop, gedung film"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "perbedaan, pembedaan, klasifikasi"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "divisi, bagian, klasifikasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼女はここから数区画離れた所に住んでいる。",
+      "reading": null,
+      "indonesian": "She lives a few blocks away from here.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はその区画の新しい男の子とすぐ親しくなった。",
+      "reading": null,
+      "indonesian": "He quickly made friends with the new boy on the block.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はその区画の新しい男の子とすぐ親しくなった。",
+      "reading": null,
+      "indonesian": "He quickly made friends with the new boy on the block.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はここから数区画離れた所に住んでいる。",
+      "reading": null,
+      "indonesian": "She lives a few blocks away from here.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

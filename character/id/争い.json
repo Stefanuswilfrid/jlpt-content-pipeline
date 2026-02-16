@@ -1,0 +1,198 @@
+{
+  "definition": {
+    "word": "争い",
+    "reading": "あらそい",
+    "romaji": "arasoi",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perselisihan",
+          "pertengkaran",
+          "konflik"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "competition",
+          "contest",
+          "rivalry"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "紛争",
+      "reading": "ふんそう",
+      "meaning": "perselisihan, masalah, pertikaian"
+    },
+    {
+      "word": "抗争",
+      "reading": "こうそう",
+      "meaning": "perselisihan, perlawanan"
+    },
+    {
+      "word": "戦争",
+      "reading": "せんそう",
+      "meaning": "perang"
+    },
+    {
+      "word": "競争",
+      "reading": "きょうそう",
+      "meaning": "kompetisi, kontes"
+    },
+    {
+      "word": "論争",
+      "reading": "ろんそう",
+      "meaning": "kontroversi, perselisihan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "血肉の争い",
+      "reading": "けつにくのあらそい",
+      "meaning": "family quarrel",
+      "type": "idiom"
+    },
+    {
+      "word": "骨肉の争い",
+      "reading": "こつにくのあらそい",
+      "meaning": "family quarrel",
+      "type": "idiom"
+    },
+    {
+      "word": "鷸蚌の争い",
+      "reading": "いつぼうのあらそい",
+      "meaning": "fight from which neither part benefits (but a third part does)",
+      "type": "idiom"
+    },
+    {
+      "word": "蝸牛角上の争い",
+      "reading": "かぎゅうかくじょうのあらそい",
+      "meaning": "fighting over nothing",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼らは言い争いをした。",
+      "reading": null,
+      "indonesian": "They quarreled.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは言い争いをした。",
+      "reading": null,
+      "indonesian": "They quarreled.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金銭のことで彼と争いになった。",
+      "reading": null,
+      "indonesian": "I had a quarrel with him over money.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ポスト争いは厳しい。",
+      "reading": null,
+      "indonesian": "Competition for the position is very intense.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ビルは決して人と言い争いをしない。",
+      "reading": null,
+      "indonesian": "Bill never argues with other people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ひとつの誤解から多くの争いが生じる。",
+      "reading": null,
+      "indonesian": "Many a quarrel comes about through a misunderstanding.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "テーブルを広げれば争いはやむ。",
+      "reading": null,
+      "indonesian": "Spread the table, and contention will cease.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その争いの根源は二国間の対立関係にある。",
+      "reading": null,
+      "indonesian": "The quarrel originated in rivalry between the two countries.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その争いの後、双方に多数の死者が出た。",
+      "reading": null,
+      "indonesian": "After the conflict there were many dead on both sides.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その言い争いはすぐに手がつけられなくなった。",
+      "reading": null,
+      "indonesian": "The argument quickly got out of control.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジムは怒りを抑えて争いをさけることができた。",
+      "reading": null,
+      "indonesian": "Jim was able to hold back his anger and avoid a fight.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このような言い争いはやめよう。",
+      "reading": null,
+      "indonesian": "We must put an end to this kind of quarrel.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お互いに言い争いをする家族は嫌いです。",
+      "reading": null,
+      "indonesian": "I don't like families that quarrel amongst themselves.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの争いは誤解に基づくものだ。",
+      "reading": null,
+      "indonesian": "The dispute between them is due to a misunderstanding.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

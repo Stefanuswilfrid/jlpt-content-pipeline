@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "授ける",
+    "reading": "さずける",
+    "romaji": "sazukeru",
+    "jlpt": "N1",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to grant",
+          "to give",
+          "to confer",
+          "to award"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to teach",
+          "to instruct",
+          "to impart (knowledge)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教授",
+      "reading": "きょうじゅ",
+      "meaning": "professor"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "言論の自由は社会に多くの利益を授ける。",
+      "reading": null,
+      "english": "Many advantages accrue to society from the freedom of speech.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "言論の自由は社会に多くの利益を授ける。",
+      "reading": null,
+      "english": "Many advantages accrue to society from the freedom of speech.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

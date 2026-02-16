@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "還元",
+    "reading": "かんげん",
+    "romaji": "kangen",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "restoration",
+          "return"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reduction",
+          "resolution",
+          "deoxidization",
+          "deoxidation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "元首",
+      "reading": "げんしゅ",
+      "meaning": "sovereign"
+    },
+    {
+      "word": "元年",
+      "reading": "がんねん",
+      "meaning": "first year (of an imperial era)"
+    },
+    {
+      "word": "手元",
+      "reading": "てもと",
+      "meaning": "at hand"
+    },
+    {
+      "word": "地元",
+      "reading": "じもと",
+      "meaning": "home area"
+    },
+    {
+      "word": "返還",
+      "reading": "へんかん",
+      "meaning": "return"
+    },
+    {
+      "word": "還暦",
+      "reading": "かんれき",
+      "meaning": "kanreki"
+    },
+    {
+      "word": "元素",
+      "reading": "げんそ",
+      "meaning": "element"
+    },
+    {
+      "word": "元",
+      "reading": "もと",
+      "meaning": "origin"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "lively"
+    },
+    {
+      "word": "元日",
+      "reading": "がんじつ",
+      "meaning": "New Year's Day"
+    },
+    {
+      "word": "足元",
+      "reading": "あしもと",
+      "meaning": "at one's feet"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ゲイツ会長、広告収入をユーザーに還元する意向表明。",
+      "reading": null,
+      "english": "Bill Gates announces intent to return advertising revenue to the users.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ゲイツ会長、広告収入をユーザーに還元する意向表明。",
+      "reading": null,
+      "english": "Bill Gates announces intent to return advertising revenue to the users.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

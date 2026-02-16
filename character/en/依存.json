@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "依存",
+    "reading": "いぞん",
+    "romaji": "izon",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "dependence",
+          "reliance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "存続",
+      "reading": "そんぞく",
+      "meaning": "continuance"
+    },
+    {
+      "word": "共存",
+      "reading": "きょうぞん",
+      "meaning": "coexistence"
+    },
+    {
+      "word": "存在",
+      "reading": "そんざい",
+      "meaning": "existence"
+    },
+    {
+      "word": "保存",
+      "reading": "ほぞん",
+      "meaning": "preservation"
+    },
+    {
+      "word": "依頼",
+      "reading": "いらい",
+      "meaning": "request"
+    },
+    {
+      "word": "生存",
+      "reading": "せいぞん",
+      "meaning": "existence"
+    },
+    {
+      "word": "存じる",
+      "reading": "ぞんじる",
+      "meaning": "to know"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "京都は観光産業に依存している。",
+      "reading": null,
+      "english": "Kyoto depends on the tourist industry.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "わが国は天然資源を諸外国に依存している。",
+      "reading": null,
+      "english": "We depend on foreign nations for our natural resources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムはまだ、彼の両親に依存しているのですか。",
+      "reading": null,
+      "english": "Does Tom still rely on his parents?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それはすべて天候に依存している。",
+      "reading": null,
+      "english": "It all depends on the weather.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その島の経済は漁業に依存している。",
+      "reading": null,
+      "english": "The economy of the island is dependent on the fishing industry.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その国の外国貿易はこの港に完全に依存している。",
+      "reading": null,
+      "english": "The country's foreign trade depends entirely on this port.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その組織の運営は自発的な寄付に依存している。",
+      "reading": null,
+      "english": "That organization depends on voluntary contributions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その産業は政府の資金援助に大きく依存している。",
+      "reading": null,
+      "english": "The industry is heavily dependent on government funding.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その国の経済は、農業に依存している。",
+      "reading": null,
+      "english": "The country's economy depends on agriculture.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の夫はひどい麻薬依存症だ。",
+      "reading": null,
+      "english": "Her husband is heavily dependent on drugs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

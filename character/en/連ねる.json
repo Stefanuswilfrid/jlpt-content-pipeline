@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "連ねる",
+    "reading": "つらねる",
+    "romaji": "tsuraneru",
+    "jlpt": "N1",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to line up",
+          "to put in a row"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to add (to a group)",
+          "to accept (as a member of an organization, etc.)",
+          "to join (e.g. a list)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to link",
+          "to put together",
+          "to string together (e.g. compliments)",
+          "to enumerate"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take along with",
+          "to bring with"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "連想",
+      "reading": "れんそう",
+      "meaning": "association (of ideas)"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "union"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "contacting"
+    },
+    {
+      "word": "連れる",
+      "reading": "つれる",
+      "meaning": "to take (someone) with one"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

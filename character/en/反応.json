@@ -1,0 +1,254 @@
+{
+  "definition": {
+    "word": "反応",
+    "reading": "はんのう",
+    "romaji": "hannou",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reaction",
+          "response"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "physical reaction (to a stimulus)",
+          "observable response (of an organism)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reaction",
+          "effect",
+          "change"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaning": "correspondence (to)"
+    },
+    {
+      "word": "反発",
+      "reading": "はんぱつ",
+      "meaning": "opposition"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaning": "application"
+    },
+    {
+      "word": "反響",
+      "reading": "はんきょう",
+      "meaning": "echo"
+    },
+    {
+      "word": "反撃",
+      "reading": "はんげき",
+      "meaning": "counterattack"
+    },
+    {
+      "word": "反乱",
+      "reading": "はんらん",
+      "meaning": "insurrection"
+    },
+    {
+      "word": "適応",
+      "reading": "てきおう",
+      "meaning": "adaptation"
+    },
+    {
+      "word": "応急",
+      "reading": "おうきゅう",
+      "meaning": "emergency"
+    },
+    {
+      "word": "反感",
+      "reading": "はんかん",
+      "meaning": "antipathy"
+    },
+    {
+      "word": "反射",
+      "reading": "はんしゃ",
+      "meaning": "reflection"
+    },
+    {
+      "word": "相応",
+      "reading": "そうおう",
+      "meaning": "suitable"
+    },
+    {
+      "word": "反する",
+      "reading": "はんする",
+      "meaning": "to be contrary (to)"
+    },
+    {
+      "word": "違反",
+      "reading": "いはん",
+      "meaning": "violation"
+    },
+    {
+      "word": "反対",
+      "reading": "はんたい",
+      "meaning": "opposition"
+    },
+    {
+      "word": "応援",
+      "reading": "おうえん",
+      "meaning": "aid"
+    },
+    {
+      "word": "反省",
+      "reading": "はんせい",
+      "meaning": "reflection"
+    },
+    {
+      "word": "応じる",
+      "reading": "おうじる",
+      "meaning": "to respond"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "連鎖反応",
+      "reading": "れんさはんのう",
+      "meaning": "chain reaction",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "観客は彼女の演奏にさまざまな反応を示した。",
+      "reading": null,
+      "english": "The audience reacted in different ways to her performance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々のからだは感情に反応する。",
+      "reading": null,
+      "english": "Our bodies respond to our feelings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "価格について触れたときに彼の顔に出る反応を観察しなさい。",
+      "reading": null,
+      "english": "Observe his facial reaction when we mention a price.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もしアメリカ人ならば、日本人とは違った反応をしていただろう。",
+      "reading": null,
+      "english": "Americans would have responded differently from Japanese.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どんな要素がその反応に貢献したのか。",
+      "reading": null,
+      "english": "What factor contributed to the reaction?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ツベルクリン反応は陽性でした。",
+      "reading": null,
+      "english": "The result of the tuberculin test was positive.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ツベルクリン反応は疑陽性でした。",
+      "reading": null,
+      "english": "The tuberculin reaction was pseudopositive.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ツベルクリン反応は陰性でした。",
+      "reading": null,
+      "english": "The result of the tuberculin test was negative.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この機械は人間の声に反応する。",
+      "reading": null,
+      "english": "This machine answers to human voice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このニュースに対する彼女の反応はどうでしたか。",
+      "reading": null,
+      "english": "What was her reaction to the news?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このニュースに対する彼の反応はどうでしたか。",
+      "reading": null,
+      "english": "What was his reaction to this news?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "５．反応が終わったら、濡れ雑巾の上に試験管をおく。",
+      "reading": null,
+      "english": "5. When the reaction is over, place the test-tube on a damp cloth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "リプレーする度に彼女の反応にいちいち萌えてしまいます。",
+      "reading": null,
+      "english": "I find myself being enthralled by her reaction each time I replay it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "AとBを反応させるとCが生成されます。",
+      "reading": null,
+      "english": "C is formed by reacting A with B.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

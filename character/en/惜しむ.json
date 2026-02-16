@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "惜しむ",
+    "reading": "おしむ",
+    "romaji": "oshimu",
+    "jlpt": "N1",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to spare",
+          "to grudge",
+          "to be sparing (with)",
+          "to be frugal",
+          "to be stingy"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to regret",
+          "to lament"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be reluctant (to do)",
+          "to be unwilling"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to value",
+          "to prize",
+          "to hold dear"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "体を惜しむ",
+      "reading": "からだをおしむ",
+      "meaning": "to be lazy",
+      "type": "idiom"
+    },
+    {
+      "word": "骨を惜しむ",
+      "reading": "ほねをおしむ",
+      "meaning": "to spare oneself (the trouble)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "鞭を惜しむと子供は駄目になる。",
+      "reading": null,
+      "english": "Spare the rod and spoil the child.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "鞭を惜しむと子供は駄目になる。",
+      "reading": null,
+      "english": "Spare the rod and spoil the child.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "行く秋を惜しむ気持でいっぱいだ。",
+      "reading": null,
+      "english": "The passing autumn fills me with a feeling of grief.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "行く秋を惜しむ気持でいっぱいだ。",
+      "reading": null,
+      "english": "The passing autumn fills me with a feeling of grief.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "剥ぐ",
+    "reading": "はぐ",
+    "romaji": "hagu",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "merobek",
+          "mengupas",
+          "mencabik"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to strip of (clothes, rank, etc.)",
+          "to deprive of",
+          "to divest of"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "化けの皮を剥ぐ",
+      "reading": "ばけのかわをはぐ",
+      "meaning": "to unmask (someone's true nature)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "私はその日、彼らが人間の生皮を剥ぐのを見た。",
+      "reading": null,
+      "indonesian": "I watched them skin a human being that day.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "私はその日、彼らが人間の生皮を剥ぐのを見た。",
+      "reading": null,
+      "indonesian": "I watched them skin a human being that day.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    }
+  ]
+}

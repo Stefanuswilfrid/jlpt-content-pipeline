@@ -1,0 +1,112 @@
+{
+  "definition": {
+    "word": "購買",
+    "reading": "こうばい",
+    "romaji": "koubai",
+    "jlpt": "N1",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "procurement",
+          "purchase",
+          "buying"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "school store",
+          "co-op",
+          "school canteen",
+          "tuck shop"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "購読",
+      "reading": "こうどく",
+      "meaning": "buying and reading (book, magazine, etc.)"
+    },
+    {
+      "word": "購入",
+      "reading": "こうにゅう",
+      "meaning": "purchase"
+    },
+    {
+      "word": "売買",
+      "reading": "ばいばい",
+      "meaning": "trade"
+    },
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaning": "shopping"
+    },
+    {
+      "word": "買う",
+      "reading": "かう",
+      "meaning": "to buy"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お客様の今後の購買需要を明らかにしようとしています。",
+      "reading": null,
+      "english": "We are trying to clarify your future procurement requirements.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "購買部の者に会われたほうがいいと思います。",
+      "reading": null,
+      "english": "I think you should probably see someone from Purchasing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "購買部にとって重要な人材になられると思います。",
+      "reading": null,
+      "english": "She will be an asset to the Purchasing Department.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "お客様の今後の購買需要を明らかにしようとしています。",
+      "reading": null,
+      "english": "We are trying to clarify your future procurement requirements.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "購買部にとって重要な人材になられると思います。",
+      "reading": null,
+      "english": "She will be an asset to the Purchasing Department.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "購買部の者に会われたほうがいいと思います。",
+      "reading": null,
+      "english": "I think you should probably see someone from Purchasing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

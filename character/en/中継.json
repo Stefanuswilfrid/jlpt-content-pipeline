@@ -1,0 +1,191 @@
+{
+  "definition": {
+    "word": "中継",
+    "reading": "ちゅうけい",
+    "romaji": "chuukei",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "relay",
+          "hook-up"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "relay broadcasting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "中立",
+      "reading": "ちゅうりつ",
+      "meaning": "neutrality"
+    },
+    {
+      "word": "中枢",
+      "reading": "ちゅうすう",
+      "meaning": "centre"
+    },
+    {
+      "word": "心中",
+      "reading": "しんちゅう",
+      "meaning": "one's heart"
+    },
+    {
+      "word": "中断",
+      "reading": "ちゅうだん",
+      "meaning": "interruption"
+    },
+    {
+      "word": "中毒",
+      "reading": "ちゅうどく",
+      "meaning": "poisoning"
+    },
+    {
+      "word": "連中",
+      "reading": "れんちゅう",
+      "meaning": "company"
+    },
+    {
+      "word": "心中",
+      "reading": "しんじゅう",
+      "meaning": "double suicide"
+    },
+    {
+      "word": "中傷",
+      "reading": "ちゅうしょう",
+      "meaning": "slander"
+    },
+    {
+      "word": "受け継ぐ",
+      "reading": "うけつぐ",
+      "meaning": "to inherit"
+    },
+    {
+      "word": "命中",
+      "reading": "めいちゅう",
+      "meaning": "(direct) hit"
+    },
+    {
+      "word": "中腹",
+      "reading": "ちゅうふく",
+      "meaning": "halfway up (down) a mountain"
+    },
+    {
+      "word": "中和",
+      "reading": "ちゅうわ",
+      "meaning": "neutralization"
+    },
+    {
+      "word": "跡継ぎ",
+      "reading": "あとつぎ",
+      "meaning": "heir"
+    },
+    {
+      "word": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "centre"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "center"
+    },
+    {
+      "word": "中間",
+      "reading": "ちゅうかん",
+      "meaning": "middle"
+    },
+    {
+      "word": "途中",
+      "reading": "とちゅう",
+      "meaning": "on the way"
+    },
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "concentration (on a task)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "テレビ中継された大阪での追跡劇の末、彼は逮捕された。",
+      "reading": null,
+      "english": "He was arrested by police after a TV chase in Osaka.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのコンサートは生中継された。",
+      "reading": null,
+      "english": "The concert was broadcast live.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは昭和座から舞台中継です。",
+      "reading": null,
+      "english": "This is a direct broadcast from the Showa theater.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "テレビ中継された大阪での追跡劇の末、彼は逮捕された。",
+      "reading": null,
+      "english": "He was arrested by police after a TV chase in Osaka.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのコンサートは生中継された。",
+      "reading": null,
+      "english": "The concert was broadcast live.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは昭和座から舞台中継です。",
+      "reading": null,
+      "english": "This is a direct broadcast from the Showa theater.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これは生中継です。",
+      "reading": null,
+      "english": "This is a live broadcast.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは生中継です。",
+      "reading": null,
+      "english": "This is a live broadcast.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

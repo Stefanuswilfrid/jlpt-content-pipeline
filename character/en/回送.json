@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "回送",
+    "reading": "かいそう",
+    "romaji": "kaisou",
+    "jlpt": "N1",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "forwarding",
+          "sending on",
+          "redirecting (e.g. mail)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "deadheading (e.g. train)",
+          "(train) returning to the station"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "回覧",
+      "reading": "かいらん",
+      "meaning": "circulation (esp. of documents)"
+    },
+    {
+      "word": "回収",
+      "reading": "かいしゅう",
+      "meaning": "collection"
+    },
+    {
+      "word": "運送",
+      "reading": "うんそう",
+      "meaning": "transport"
+    },
+    {
+      "word": "送金",
+      "reading": "そうきん",
+      "meaning": "remittance"
+    },
+    {
+      "word": "回路",
+      "reading": "かいろ",
+      "meaning": "circuit"
+    },
+    {
+      "word": "根回し",
+      "reading": "ねまわし",
+      "meaning": "laying the groundwork"
+    },
+    {
+      "word": "身の回り",
+      "reading": "みのまわり",
+      "meaning": "one's personal belongings"
+    },
+    {
+      "word": "後回し",
+      "reading": "あとまわし",
+      "meaning": "putting off"
+    },
+    {
+      "word": "遠回り",
+      "reading": "とおまわり",
+      "meaning": "detour"
+    },
+    {
+      "word": "上回る",
+      "reading": "うわまわる",
+      "meaning": "to exceed (esp. figures: profits, unemployment rate, etc.)"
+    },
+    {
+      "word": "転回",
+      "reading": "てんかい",
+      "meaning": "revolution"
+    },
+    {
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "coupon tickets"
+    },
+    {
+      "word": "送別",
+      "reading": "そうべつ",
+      "meaning": "farewell"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

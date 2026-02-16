@@ -1,0 +1,274 @@
+{
+  "definition": {
+    "word": "発生",
+    "reading": "はっせい",
+    "romaji": "hassei",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "occurrence",
+          "incidence",
+          "outbreak",
+          "birth (e.g. of civilization)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "generation (of power, heat, etc.)",
+          "production"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "ontogeny",
+          "development",
+          "growth",
+          "breeding"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaning": "development"
+    },
+    {
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "statement"
+    },
+    {
+      "word": "反発",
+      "reading": "はんぱつ",
+      "meaning": "opposition"
+    },
+    {
+      "word": "活発",
+      "reading": "かっぱつ",
+      "meaning": "lively"
+    },
+    {
+      "word": "発足",
+      "reading": "ほっそく",
+      "meaning": "starting"
+    },
+    {
+      "word": "再生",
+      "reading": "さいせい",
+      "meaning": "restoration to life"
+    },
+    {
+      "word": "野生",
+      "reading": "やせい",
+      "meaning": "wild"
+    },
+    {
+      "word": "出生",
+      "reading": "しゅっしょう",
+      "meaning": "birth"
+    },
+    {
+      "word": "再発",
+      "reading": "さいはつ",
+      "meaning": "return"
+    },
+    {
+      "word": "発掘",
+      "reading": "はっくつ",
+      "meaning": "excavation"
+    },
+    {
+      "word": "育成",
+      "reading": "いくせい",
+      "meaning": "rearing"
+    },
+    {
+      "word": "発作",
+      "reading": "ほっさ",
+      "meaning": "fit"
+    },
+    {
+      "word": "畜生",
+      "reading": "ちくしょう",
+      "meaning": "damn it"
+    },
+    {
+      "word": "生かす",
+      "reading": "いかす",
+      "meaning": "to make (the best) use of"
+    },
+    {
+      "word": "発病",
+      "reading": "はつびょう",
+      "meaning": "onset of an illness"
+    },
+    {
+      "word": "生育",
+      "reading": "せいいく",
+      "meaning": "birth and growth"
+    },
+    {
+      "word": "生死",
+      "reading": "せいし",
+      "meaning": "life and death"
+    },
+    {
+      "word": "始発",
+      "reading": "しはつ",
+      "meaning": "first departure (of the day)"
+    },
+    {
+      "word": "生計",
+      "reading": "せいけい",
+      "meaning": "livelihood"
+    },
+    {
+      "word": "発育",
+      "reading": "はついく",
+      "meaning": "(physical) growth"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "環境の変化から新種の発生をみた。",
+      "reading": null,
+      "english": "Environmental changes gave rise to new species.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "干し草に自然発生的に火がついた。",
+      "reading": null,
+      "english": "A spontaneous fire started in the hay.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "火災は５階で発生しました。",
+      "reading": null,
+      "english": "A fire broke out on the fifth floor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火災が発生したら、このガラスを割ってください。",
+      "reading": null,
+      "english": "Break this glass in case of fire.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火災が発生した時、母は偶然そこに居合わせた。",
+      "reading": null,
+      "english": "My mother happened to be there when the fire broke out.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "疫病が発生した。",
+      "reading": null,
+      "english": "An epidemic has broken out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ビルの中で火災が発生したら、どうすればいいかわかりますか。",
+      "reading": null,
+      "english": "Do you know what to do if there's a fire in the building?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "デリカテッセンから火災が発生し、灰の山を残して全焼した。",
+      "reading": null,
+      "english": "A delicatessen caught fire and burned down, leaving a heap of ashes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "たいてい、飢饉になると疫病も発生する。",
+      "reading": null,
+      "english": "More often than not, famine is accompanied by plague.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "地震の後、火災が発生した。",
+      "reading": null,
+      "english": "A fire broke out after the earthquake.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その災害を起こした地震は１９９５年に発生した。",
+      "reading": null,
+      "english": "The earthquake which caused the disaster occurred in 1995.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その国のその地域ではよく嵐が発生した。",
+      "reading": null,
+      "english": "There were storms in that region of the country.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その機械は大量の電気を発生させる。",
+      "reading": null,
+      "english": "The machine generates a lot of electricity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その火事はおととい発生した。",
+      "reading": null,
+      "english": "A fire broke out the day before yesterday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これが事故が発生した経緯です。",
+      "reading": null,
+      "english": "This is how the accident happened.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

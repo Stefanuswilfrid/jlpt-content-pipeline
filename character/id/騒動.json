@@ -1,0 +1,236 @@
+{
+  "definition": {
+    "word": "騒動",
+    "reading": "そうどう",
+    "romaji": "soudou",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "perselisihan",
+          "kerusuhan",
+          "pemberontakan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "(media) uproar",
+          "brouhaha",
+          "(public) outcry",
+          "scandal",
+          "controversy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "feud",
+          "tussle",
+          "quarrel",
+          "dispute"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不動産",
+      "reading": "ふどうさん",
+      "meaning": "real estat"
+    },
+    {
+      "word": "動向",
+      "reading": "どうこう",
+      "meaning": "tren, kecenderungan, gerakan, sikap"
+    },
+    {
+      "word": "変動",
+      "reading": "へんどう",
+      "meaning": "perubahan, fluktuasi"
+    },
+    {
+      "word": "動機",
+      "reading": "どうき",
+      "meaning": "motif, insentif"
+    },
+    {
+      "word": "暴動",
+      "reading": "ぼうどう",
+      "meaning": "pemberontakan, kerusuhan, pergolakan"
+    },
+    {
+      "word": "出動",
+      "reading": "しゅつどう",
+      "meaning": "mobilisasi, aksi"
+    },
+    {
+      "word": "動員",
+      "reading": "どういん",
+      "meaning": "mobilisasi"
+    },
+    {
+      "word": "振動",
+      "reading": "しんどう",
+      "meaning": "osilasi, getaran"
+    },
+    {
+      "word": "動き",
+      "reading": "うごき",
+      "meaning": "pergerakan, aktivitas, tren"
+    },
+    {
+      "word": "動力",
+      "reading": "どうりょく",
+      "meaning": "daya, tenaga penggerak, gaya dinamis"
+    },
+    {
+      "word": "動物",
+      "reading": "どうぶつ",
+      "meaning": "hewan"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaning": "migrasi, pergerakan"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "otomatis, gerak sendiri"
+    },
+    {
+      "word": "騒ぎ",
+      "reading": "さわぎ",
+      "meaning": "keributan, gangguan"
+    },
+    {
+      "word": "騒音",
+      "reading": "そうおん",
+      "meaning": "kebisingan"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "sangat terharu, gembira"
+    },
+    {
+      "word": "動物園",
+      "reading": "どうぶつえん",
+      "meaning": "kebun binatang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ひと騒動起こしてやります。",
+      "reading": null,
+      "indonesian": "I'm going to rock the boat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まず最初の議題は今朝の同衾騒動の件について。",
+      "reading": null,
+      "indonesian": "Starting off, first on the agenda is about this morning's two-in-a-bed ruckus.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "大都市では騒動が起こる可能性が大変大きい。",
+      "reading": null,
+      "indonesian": "Big cities have too high a potential for riots.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "国民の怒りが噴出して騒動が繰り返された。",
+      "reading": null,
+      "indonesian": "The anger of the people exploded, leading to a series of riots.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察が騒動に介入した。",
+      "reading": null,
+      "indonesian": "The police intervened in the disturbance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ひと騒動起こしてやります。",
+      "reading": null,
+      "indonesian": "I'm going to rock the boat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "警察が騒動に介入した。",
+      "reading": null,
+      "indonesian": "The police intervened in the disturbance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "国民の怒りが噴出して騒動が繰り返された。",
+      "reading": null,
+      "indonesian": "The anger of the people exploded, leading to a series of riots.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "大都市では騒動が起こる可能性が大変大きい。",
+      "reading": null,
+      "indonesian": "Big cities have too high a potential for riots.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "まず最初の議題は今朝の同衾騒動の件について。",
+      "reading": null,
+      "indonesian": "Starting off, first on the agenda is about this morning's two-in-a-bed ruckus.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "１９１８年に全国で米騒動が起こりました。",
+      "reading": null,
+      "indonesian": "In 1918, revolts due to the price of rice erupted all around the country.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "１９１８年に全国で米騒動が起こりました。",
+      "reading": null,
+      "indonesian": "In 1918, revolts due to the price of rice erupted all around the country.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

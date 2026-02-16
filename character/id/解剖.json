@@ -1,0 +1,135 @@
+{
+  "definition": {
+    "word": "解剖",
+    "reading": "かいぼう",
+    "romaji": "kaibou",
+    "jlpt": "N1",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pembedahan",
+          "otopsi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "analysis",
+          "postmortem"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "正解",
+      "reading": "せいかい",
+      "meaning": "benar, jawaban yang tepat, solusi"
+    },
+    {
+      "word": "解除",
+      "reading": "かいじょ",
+      "meaning": "pembatalan, rilis, batalkan"
+    },
+    {
+      "word": "了解",
+      "reading": "りょうかい",
+      "meaning": "pemahaman, persetujuan, pengertian"
+    },
+    {
+      "word": "弁解",
+      "reading": "べんかい",
+      "meaning": "penjelasan, pembenaran, alasan"
+    },
+    {
+      "word": "解く",
+      "reading": "とく",
+      "meaning": "untuk membuka"
+    },
+    {
+      "word": "解く",
+      "reading": "ほどく",
+      "meaning": "untuk membuka"
+    },
+    {
+      "word": "分解",
+      "reading": "ぶんかい",
+      "meaning": "analisis, pembongkaran"
+    },
+    {
+      "word": "解答",
+      "reading": "かいとう",
+      "meaning": "jawaban, solusi"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "penyelesaian, solusi, resolusi"
+    },
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "perpisahan, pembubaran"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "pendapat, sudut pandang"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "pemahaman, pengertian"
+    },
+    {
+      "word": "解放",
+      "reading": "かいほう",
+      "meaning": "pembebasan, kemerdekaan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私たちは内臓器官を調べるためにカエルを解剖した。",
+      "reading": null,
+      "indonesian": "We dissected a frog to examine its internal organs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "死体解剖の結果、絞殺と判明しました。",
+      "reading": null,
+      "indonesian": "The postmortem showed that she had been strangled.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "死体解剖の結果、絞殺と判明しました。",
+      "reading": null,
+      "indonesian": "The postmortem showed that she had been strangled.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは内臓器官を調べるためにカエルを解剖した。",
+      "reading": null,
+      "indonesian": "We dissected a frog to examine its internal organs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "恥じらう",
+    "reading": "はじらう",
+    "romaji": "hajirau",
+    "jlpt": "N1",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to feel shy",
+          "to be bashful",
+          "to blush"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "恥じる",
+      "reading": "はじる",
+      "meaning": "to feel ashamed"
+    },
+    {
+      "word": "恥",
+      "reading": "はじ",
+      "meaning": "shame"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "花も恥じらう乙女たちに囲まれ、トムは緊張を隠せなかった。",
+      "reading": null,
+      "english": "Tom couldn't hide his nervousness at being surrounded by a group of excessively lovely maidens.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "花も恥じらう乙女たちに囲まれ、トムは緊張を隠せなかった。",
+      "reading": null,
+      "english": "Tom couldn't hide his nervousness at being surrounded by a group of excessively lovely maidens.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

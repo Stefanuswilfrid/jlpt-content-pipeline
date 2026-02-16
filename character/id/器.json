@@ -1,0 +1,221 @@
+{
+  "definition": {
+    "word": "器",
+    "reading": "うつわ",
+    "romaji": "utsuwa",
+    "jlpt": "N1",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mangkuk",
+          "wadah",
+          "bejana"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ability",
+          "capacity",
+          "calibre",
+          "caliber"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "陶器",
+      "reading": "とうき",
+      "meaning": "tembikar, keramik"
+    },
+    {
+      "word": "兵器",
+      "reading": "へいき",
+      "meaning": "senjata, persenjataan, tata cara"
+    },
+    {
+      "word": "聴診器",
+      "reading": "ちょうしんき",
+      "meaning": "stetoskop"
+    },
+    {
+      "word": "楽器",
+      "reading": "がっき",
+      "meaning": "alat musik"
+    },
+    {
+      "word": "容器",
+      "reading": "ようき",
+      "meaning": "kontainer, kapal"
+    },
+    {
+      "word": "器具",
+      "reading": "きぐ",
+      "meaning": "instrumen"
+    },
+    {
+      "word": "食器",
+      "reading": "しょっき",
+      "meaning": "peralatan makan"
+    },
+    {
+      "word": "受話器",
+      "reading": "じゅわき",
+      "meaning": "(telepon) penerima"
+    },
+    {
+      "word": "武器",
+      "reading": "ぶき",
+      "meaning": "senjata, persenjataan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "器用貧乏",
+      "reading": "きようびんぼう",
+      "meaning": "jack of all trades, master of none",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三種の神器",
+      "reading": "さんしゅのじんぎ",
+      "meaning": "the Three Sacred Treasures (Mirror, Sword and Jewels)",
+      "type": "idiom"
+    },
+    {
+      "word": "大器晩成",
+      "reading": "たいきばんせい",
+      "meaning": "great talents mature late",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "最終兵器",
+      "reading": "さいしゅうへいき",
+      "meaning": "ultimate weapon",
+      "type": "idiom"
+    },
+    {
+      "word": "名器",
+      "reading": "めいき",
+      "meaning": "famous utensil",
+      "type": "expression"
+    },
+    {
+      "word": "肉便器",
+      "reading": "にくべんき",
+      "meaning": "promiscuous woman",
+      "type": "expression"
+    },
+    {
+      "word": "君子は器ならず",
+      "reading": "くんしはきならず",
+      "meaning": "a true gentleman is well-rounded",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は手先が器用だね。",
+      "reading": null,
+      "indonesian": "You have a light hand, don't you?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空手は武器を用いない護身術である。",
+      "reading": null,
+      "indonesian": "Karate is an art of unarmed defense.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空の容器は一番音を立てる。",
+      "reading": null,
+      "indonesian": "Empty vessels make the most sound.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "凶器に残された指紋は容疑者のものと一致する。",
+      "reading": null,
+      "indonesian": "The fingerprints left on the weapon correspond with the suspect's.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "記憶のよさが彼の武器である。",
+      "reading": null,
+      "indonesian": "A good memory is his weapon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "楽器をなにか演奏しますか。",
+      "reading": null,
+      "indonesian": "Do you play a musical instrument?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何か楽器を演奏するの？",
+      "reading": null,
+      "indonesian": "Do you play a musical instrument?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "楽器の演奏を習うものもいた。",
+      "reading": null,
+      "indonesian": "Some learned to play musical instruments.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "核兵器は全人類への脅威である。",
+      "reading": null,
+      "indonesian": "Nuclear weapons are a threat to all humanity.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "核兵器は人類の破滅以外の何ももたらさないだろう。",
+      "reading": null,
+      "indonesian": "Nuclear weapons will bring about nothing but the ruin of mankind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "核兵器は人類の絶滅をもたらすかもしれない。",
+      "reading": null,
+      "indonesian": "Nuclear weapons may bring about the annihilation of man.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "核兵器は人類にとって脅威だ。",
+      "reading": null,
+      "indonesian": "Nuclear weapons are a threat to the human race.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

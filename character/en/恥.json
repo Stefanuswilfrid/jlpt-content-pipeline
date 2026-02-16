@@ -1,0 +1,217 @@
+{
+  "definition": {
+    "word": "恥",
+    "reading": "はじ",
+    "romaji": "haji",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shame",
+          "embarrassment",
+          "disgrace"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "恥じらう",
+      "reading": "はじらう",
+      "meaning": "to feel shy"
+    },
+    {
+      "word": "恥じる",
+      "reading": "はじる",
+      "meaning": "to feel ashamed"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "厚顔無恥",
+      "reading": "こうがんむち",
+      "meaning": "shameless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "花も恥らう",
+      "reading": "はなもはじらう",
+      "meaning": "outblooming even a flower (of a young girl)",
+      "type": "idiom"
+    },
+    {
+      "word": "会稽の恥",
+      "reading": "かいけいのはじ",
+      "meaning": "humiliation of defeat in battle",
+      "type": "idiom"
+    },
+    {
+      "word": "据え膳食わぬは男の恥",
+      "reading": "すえぜんくわぬはおとこのはじ",
+      "meaning": "it is shameful to reject the advances of a woman",
+      "type": "proverb"
+    },
+    {
+      "word": "命長ければ恥多し",
+      "reading": "いのちながければはじおおし",
+      "meaning": "to live long is to outlive much",
+      "type": "proverb"
+    },
+    {
+      "word": "旅の恥はかき捨て",
+      "reading": "たびのはじはかきすて",
+      "meaning": "once over the borders one may do anything",
+      "type": "proverb"
+    },
+    {
+      "word": "会稽の恥を雪ぐ",
+      "reading": "かいけいのはじをすすぐ",
+      "meaning": "to avenge a defeat",
+      "type": "idiom"
+    },
+    {
+      "word": "聞くは一時の恥、聞かぬは末代の恥",
+      "reading": "きくはいっときのはじ、きかぬはまつだいのはじ",
+      "meaning": "better to ask and be embarrassed than not ask and never know",
+      "type": "proverb"
+    },
+    {
+      "word": "問うは一旦の恥、問わぬは末代の恥",
+      "reading": "とうはいったんのはじ、とわぬはまつだいのはじ",
+      "meaning": "better to ask and be embarrassed than not ask and never know",
+      "type": "proverb"
+    },
+    {
+      "word": "問うは一度の恥、問わぬは末代の恥",
+      "reading": "とうはいちどのはじ、とわぬはまつだいのはじ",
+      "meaning": "better to ask and be embarrassed than not ask and never know",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は恥を知るべきだ。",
+      "reading": null,
+      "english": "You ought to be ashamed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "恥を知りなさい。",
+      "reading": null,
+      "english": "You ought to be ashamed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は自分の無知を恥じるべきである。",
+      "reading": null,
+      "english": "You should be ashamed of your ignorance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は自分の行いを恥ずかしいと思うべきだ。",
+      "reading": null,
+      "english": "You should be ashamed of your conduct.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は、自分の愚かさを恥ずべきだ。",
+      "reading": null,
+      "english": "You should be ashamed of your folly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君のまちがいが恥ずかしい。",
+      "reading": null,
+      "english": "I blush for your mistake.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君のすばらしい仕事ぶりを見ると僕は恥ずかしくなるよ。",
+      "reading": null,
+      "english": "Your excellent work puts me to shame.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君がしたことは全く恥ずかしいことだ。",
+      "reading": null,
+      "english": "Your conduct is absolutely shameful.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "嬉しいやら恥ずかしいやらで、彼女は耳まで赤くなった。",
+      "reading": null,
+      "english": "What with joy and shame, she blushed to the ears.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "顔を失うとは恥をかかされるという意味である。",
+      "reading": null,
+      "english": "To lose face means to be humiliated.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何も恥ずかしがる必要はありません。",
+      "reading": null,
+      "english": "You have no need to be ashamed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一生で一番恥ずかしいことです。",
+      "reading": null,
+      "english": "This is the most embarrassing moment of my life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自分が恥ずかしいよ。",
+      "reading": null,
+      "english": "I am ashamed of myself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "めがねを忘れるなんて恥ずかしいことだ。",
+      "reading": null,
+      "english": "Fancy forgetting my glasses, it's so embarrassing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は恥より死のほうがましだと思っている。",
+      "reading": null,
+      "english": "I think death is preferable to shame.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

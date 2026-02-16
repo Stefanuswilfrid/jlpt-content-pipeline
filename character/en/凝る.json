@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "凝る",
+    "reading": "こごる",
+    "romaji": "kogoru",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to congeal",
+          "to gelatinize",
+          "to jellify",
+          "to jell",
+          "to gell",
+          "to freeze"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "凝らす",
+      "reading": "こらす",
+      "meaning": "to concentrate"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "肩が凝る",
+      "reading": "かたがこる",
+      "meaning": "to have stiff shoulders",
+      "type": "idiom"
+    },
+    {
+      "word": "碁に凝ると親の死に目に逢わぬ",
+      "reading": "ごにこるとおやのしにめにあわぬ",
+      "meaning": "if you get too absorbed when playing go, you will miss your parent's deathbed",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼女は肩が凝る本を読む気にはなれなかった。",
+      "reading": null,
+      "english": "She was not in the mood for serious books.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は何かをやり出すとそれに凝る性質です。",
+      "reading": null,
+      "english": "When he begins to do anything, he devotes himself to it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の聞く音楽といったら肩の凝るものばかりだ。",
+      "reading": null,
+      "english": "He always listens to serious music.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の聞く音楽といったら肩の凝るものばかりだ。",
+      "reading": null,
+      "english": "He always listens to serious music.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は何かをやり出すとそれに凝る性質です。",
+      "reading": null,
+      "english": "When he begins to do anything, he devotes himself to it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は肩が凝る本を読む気にはなれなかった。",
+      "reading": null,
+      "english": "She was not in the mood for serious books.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "definition": {
+    "word": "打開",
+    "reading": "だかい",
+    "romaji": "dakai",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "break in the deadlock"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaning": "development"
+    },
+    {
+      "word": "開催",
+      "reading": "かいさい",
+      "meaning": "holding (a conference, exhibition, etc.)"
+    },
+    {
+      "word": "打撃",
+      "reading": "だげき",
+      "meaning": "blow"
+    },
+    {
+      "word": "開拓",
+      "reading": "かいたく",
+      "meaning": "reclamation (e.g. of wasteland)"
+    },
+    {
+      "word": "打ち切る",
+      "reading": "うちきる",
+      "meaning": "to stop"
+    },
+    {
+      "word": "打ち込む",
+      "reading": "うちこむ",
+      "meaning": "to drive in (a nail, stake, etc.)"
+    },
+    {
+      "word": "値打ち",
+      "reading": "ねうち",
+      "meaning": "value"
+    },
+    {
+      "word": "打ち消し",
+      "reading": "うちけし",
+      "meaning": "negation"
+    },
+    {
+      "word": "未開",
+      "reading": "みかい",
+      "meaning": "uncivilized"
+    },
+    {
+      "word": "打ち明ける",
+      "reading": "うちあける",
+      "meaning": "to confide"
+    },
+    {
+      "word": "切開",
+      "reading": "せっかい",
+      "meaning": "incision"
+    },
+    {
+      "word": "開始",
+      "reading": "かいし",
+      "meaning": "start"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaning": "opening (a door, window, etc.)"
+    },
+    {
+      "word": "展開",
+      "reading": "てんかい",
+      "meaning": "development"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "局面打開",
+      "reading": "きょくめんだかい",
+      "meaning": "breakthrough in the situation",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "われわれは局面の打開を図らなくてはならない。",
+      "reading": null,
+      "english": "We must try to break the deadlock.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "打開策を見つけるのが先決だ。",
+      "reading": null,
+      "english": "In the first place we must find a way out of this.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "現状の打開策を暗中模索している。",
+      "reading": null,
+      "english": "We are groping for a way out of the present situation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは局面の打開を図らなくてはならない。",
+      "reading": null,
+      "english": "We must try to break the deadlock.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "現状の打開策を暗中模索している。",
+      "reading": null,
+      "english": "We are groping for a way out of the present situation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "打開策を見つけるのが先決だ。",
+      "reading": null,
+      "english": "In the first place we must find a way out of this.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "データギャップを打開するように簡単な方法論を開発した。",
+      "reading": null,
+      "english": "In order to overcome the data gap, I developed a simple methodology.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "データギャップを打開するように簡単な方法論を開発した。",
+      "reading": null,
+      "english": "In order to overcome the data gap, I developed a simple methodology.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

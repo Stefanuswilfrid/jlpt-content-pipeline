@@ -1,0 +1,188 @@
+{
+  "definition": {
+    "word": "定義",
+    "reading": "ていぎ",
+    "romaji": "teigi",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "definition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "制定",
+      "reading": "せいてい",
+      "meaning": "enactment"
+    },
+    {
+      "word": "設定",
+      "reading": "せってい",
+      "meaning": "establishment"
+    },
+    {
+      "word": "確定",
+      "reading": "かくてい",
+      "meaning": "decision"
+    },
+    {
+      "word": "定年",
+      "reading": "ていねん",
+      "meaning": "(compulsory) retirement age"
+    },
+    {
+      "word": "判定",
+      "reading": "はんてい",
+      "meaning": "judgement"
+    },
+    {
+      "word": "改定",
+      "reading": "かいてい",
+      "meaning": "revision (of a rule, price, etc.)"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaning": "limit"
+    },
+    {
+      "word": "未定",
+      "reading": "みてい",
+      "meaning": "not yet fixed"
+    },
+    {
+      "word": "固定",
+      "reading": "こてい",
+      "meaning": "fixing (in place)"
+    },
+    {
+      "word": "義理",
+      "reading": "ぎり",
+      "meaning": "duty"
+    },
+    {
+      "word": "協定",
+      "reading": "きょうてい",
+      "meaning": "arrangement"
+    },
+    {
+      "word": "規定",
+      "reading": "きてい",
+      "meaning": "stipulation"
+    },
+    {
+      "word": "正義",
+      "reading": "せいぎ",
+      "meaning": "justice"
+    },
+    {
+      "word": "定める",
+      "reading": "さだめる",
+      "meaning": "to decide"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaning": "set meal"
+    },
+    {
+      "word": "国定",
+      "reading": "こくてい",
+      "meaning": "state-sponsored"
+    },
+    {
+      "word": "論議",
+      "reading": "ろんぎ",
+      "meaning": "discussion"
+    },
+    {
+      "word": "定員",
+      "reading": "ていいん",
+      "meaning": "fixed number (of people)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "円錐形の定義を教えてくれませんか。",
+      "reading": null,
+      "english": "Can you give me the definition of a cone?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ボクシングは、打たれずに打つ術だと定義されている。",
+      "reading": null,
+      "english": "Boxing has been defined as the art of hitting without being hit.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とりわけ、論理学には正確な定義が要求される。",
+      "reading": null,
+      "english": "Above all, logic requires precise definitions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "とりわけ、科学用語には正確な定義が要求される。",
+      "reading": null,
+      "english": "Above all, scientific terms call for precise definitions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この語を明確に定義できますか。",
+      "reading": null,
+      "english": "Can you clearly define this word?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは「幸福」をどのように定義しますか。",
+      "reading": null,
+      "english": "How would you define \"happiness\"?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「三角形」を定義するのは難しいです。",
+      "reading": null,
+      "english": "It is hard to define \"triangle.\"",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "定義するのが難しい語もある。",
+      "reading": null,
+      "english": "Some words are hard to define.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "数学では直線は２つの点によって定義される。",
+      "reading": null,
+      "english": "In mathematics, a straight line is defined by two points.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

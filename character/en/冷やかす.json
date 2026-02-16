@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "冷やかす",
+    "reading": "ひやかす",
+    "romaji": "hiyakasu",
+    "jlpt": "N1",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to banter",
+          "to make fun of",
+          "to jeer at"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cool",
+          "to refrigerate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to window-shop",
+          "to look at without buying"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "冷蔵",
+      "reading": "れいぞう",
+      "meaning": "cold storage"
+    },
+    {
+      "word": "冷凍",
+      "reading": "れいとう",
+      "meaning": "freezing"
+    },
+    {
+      "word": "冷ます",
+      "reading": "さます",
+      "meaning": "to cool (e.g. from a high temperature to room temperature)"
+    },
+    {
+      "word": "冷房",
+      "reading": "れいぼう",
+      "meaning": "air conditioning"
+    },
+    {
+      "word": "冷やす",
+      "reading": "ひやす",
+      "meaning": "to cool"
+    },
+    {
+      "word": "冷酷",
+      "reading": "れいこく",
+      "meaning": "cruelty"
+    },
+    {
+      "word": "冷淡",
+      "reading": "れいたん",
+      "meaning": "cool"
+    },
+    {
+      "word": "冷たい",
+      "reading": "つめたい",
+      "meaning": "cold (to the touch)"
+    },
+    {
+      "word": "冷める",
+      "reading": "さめる",
+      "meaning": "to cool down"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "人前で彼を冷やかすなんて君は意地悪だ。",
+      "reading": null,
+      "english": "It is mean of you to ridicule him in public.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人前で彼を冷やかすなんて君は意地悪だ。",
+      "reading": null,
+      "english": "It is mean of you to ridicule him in public.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

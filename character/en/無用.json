@@ -1,0 +1,266 @@
+{
+  "definition": {
+    "word": "無用",
+    "reading": "むよう",
+    "romaji": "muyou",
+    "jlpt": "N1",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "useless",
+          "futile"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unnecessary",
+          "needless"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "not on business",
+          "unrelated",
+          "unauthorised",
+          "unauthorized"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "prohibited",
+          "banned",
+          "forbidden"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "作用",
+      "reading": "さよう",
+      "meaning": "action"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "silence (not speaking)"
+    },
+    {
+      "word": "無断",
+      "reading": "むだん",
+      "meaning": "absence of permission"
+    },
+    {
+      "word": "無難",
+      "reading": "ぶなん",
+      "meaning": "safe (e.g. choice)"
+    },
+    {
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "regret"
+    },
+    {
+      "word": "公用",
+      "reading": "こうよう",
+      "meaning": "official business"
+    },
+    {
+      "word": "採用",
+      "reading": "さいよう",
+      "meaning": "use"
+    },
+    {
+      "word": "運用",
+      "reading": "うんよう",
+      "meaning": "making use of"
+    },
+    {
+      "word": "専用",
+      "reading": "せんよう",
+      "meaning": "(one's) exclusive use"
+    },
+    {
+      "word": "無線",
+      "reading": "むせん",
+      "meaning": "radio (communication)"
+    },
+    {
+      "word": "無効",
+      "reading": "むこう",
+      "meaning": "invalid"
+    },
+    {
+      "word": "用紙",
+      "reading": "ようし",
+      "meaning": "blank form"
+    },
+    {
+      "word": "用品",
+      "reading": "ようひん",
+      "meaning": "articles"
+    },
+    {
+      "word": "無駄遣い",
+      "reading": "むだづかい",
+      "meaning": "waste (of money, time, etc.)"
+    },
+    {
+      "word": "代用",
+      "reading": "だいよう",
+      "meaning": "substitution"
+    },
+    {
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "meaning": "innocent"
+    },
+    {
+      "word": "無口",
+      "reading": "むくち",
+      "meaning": "taciturn"
+    },
+    {
+      "word": "無知",
+      "reading": "むち",
+      "meaning": "ignorance"
+    },
+    {
+      "word": "台無し",
+      "reading": "だいなし",
+      "meaning": "spoiled"
+    },
+    {
+      "word": "兼用",
+      "reading": "けんよう",
+      "meaning": "multi-use"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "天地無用",
+      "reading": "てんちむよう",
+      "meaning": "do not turn upside down",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "問答無用",
+      "reading": "もんどうむよう",
+      "meaning": "there being no use in arguing (about it)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "他言無用",
+      "reading": "たごんむよう",
+      "meaning": "not a word to anyone",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "他言は無用だ。",
+      "reading": null,
+      "english": "Keep it quiet.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あせって仕事を仕上げようとすれば、無用な間違いを犯す。",
+      "reading": null,
+      "english": "When we rush to complete our work, we make needless errors.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "無用の立ち入り禁止。",
+      "reading": null,
+      "english": "No admittance except on business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電気のために、ろうそくは我々の生活にほとんど無用になった。",
+      "reading": null,
+      "english": "Electricity made candles of little use in our life.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自然の中には無用なものは何もない。",
+      "reading": null,
+      "english": "There is nothing useless in nature.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私のためにご心配はご無用に願います。",
+      "reading": null,
+      "english": "Please don't take any trouble on my account.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あせって仕事を仕上げようとすれば、無用な間違いを犯す。",
+      "reading": null,
+      "english": "When we rush to complete our work, we make needless errors.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私のためにご心配はご無用に願います。",
+      "reading": null,
+      "english": "Please don't take any trouble on my account.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自然の中には無用なものは何もない。",
+      "reading": null,
+      "english": "There is nothing useless in nature.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電気のために、ろうそくは我々の生活にほとんど無用になった。",
+      "reading": null,
+      "english": "Electricity made candles of little use in our life.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "無用の立ち入り禁止。",
+      "reading": null,
+      "english": "No admittance except on business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

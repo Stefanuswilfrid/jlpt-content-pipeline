@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "傾ける",
+    "reading": "かたむける",
+    "romaji": "katamukeru",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "condong",
+          "miring",
+          "membengkokkan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to devote oneself to",
+          "to concentrate on",
+          "to pour one's energy into"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to ruin",
+          "to squander",
+          "to empty"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drink (alcohol)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "傾斜",
+      "reading": "けいしゃ",
+      "meaning": "kemiringan, lereng, penurunan"
+    },
+    {
+      "word": "傾く",
+      "reading": "かたむく",
+      "meaning": "condong ke arah, miring, terhuyung-huyung"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "耳を傾ける",
+      "reading": "みみをかたむける",
+      "meaning": "to lend an ear",
+      "type": "idiom"
+    },
+    {
+      "word": "小首を傾ける",
+      "reading": "こくびをかたむける",
+      "meaning": "to look slightly doubtful",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼は君の言うことならなんでも耳を傾けるだろう。",
+      "reading": null,
+      "indonesian": "He listens to whatever you say.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は君の言うことならなんでも耳を傾けるだろう。",
+      "reading": null,
+      "indonesian": "He listens to whatever you say.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人の意見に耳を傾けることも大切だと思うよ。",
+      "reading": null,
+      "indonesian": "I think it's also important to listen to other people's opinions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人の意見に耳を傾けることも大切だと思うよ。",
+      "reading": null,
+      "indonesian": "I think it's also important to listen to other people's opinions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

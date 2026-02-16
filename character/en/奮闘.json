@@ -1,0 +1,153 @@
+{
+  "definition": {
+    "word": "奮闘",
+    "reading": "ふんとう",
+    "romaji": "funtou",
+    "jlpt": "N1",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "strenuous effort",
+          "hard struggle",
+          "working hard"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "hard fighting",
+          "fierce fighting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "戦闘",
+      "reading": "せんとう",
+      "meaning": "battle"
+    },
+    {
+      "word": "興奮",
+      "reading": "こうふん",
+      "meaning": "excitement"
+    },
+    {
+      "word": "戦う",
+      "reading": "たたかう",
+      "meaning": "to make war (on)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "孤軍奮闘",
+      "reading": "こぐんふんとう",
+      "meaning": "fighting alone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "力戦奮闘",
+      "reading": "りきせんふんとう",
+      "meaning": "fighting with all one's might",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "奮闘努力",
+      "reading": "ふんとうどりょく",
+      "meaning": "try one's best",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "会社は生き残りを賭けて奮闘している。",
+      "reading": null,
+      "english": "The company is struggling for survival.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "暮らしのために奮闘している。",
+      "reading": null,
+      "english": "She struggles for her living.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはビジネスの世界で生き延びようと奮闘している。",
+      "reading": null,
+      "english": "They are struggling to survive in business.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "成功しようと奮闘していて、時に人はむなしい気持ちになる。",
+      "reading": null,
+      "english": "The struggle to succeed sometimes leaves people feeling empty.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人々は貧困に向かって奮闘した。",
+      "reading": null,
+      "english": "People struggled against poverty.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "会社は生き残りを賭けて奮闘している。",
+      "reading": null,
+      "english": "The company is struggling for survival.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人々は貧困に向かって奮闘した。",
+      "reading": null,
+      "english": "People struggled against poverty.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "成功しようと奮闘していて、時に人はむなしい気持ちになる。",
+      "reading": null,
+      "english": "The struggle to succeed sometimes leaves people feeling empty.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはビジネスの世界で生き延びようと奮闘している。",
+      "reading": null,
+      "english": "They are struggling to survive in business.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "暮らしのために奮闘している。",
+      "reading": null,
+      "english": "She struggles for her living.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

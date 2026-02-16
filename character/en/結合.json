@@ -1,0 +1,213 @@
+{
+  "definition": {
+    "word": "結合",
+    "reading": "けつごう",
+    "romaji": "ketsugou",
+    "jlpt": "N1",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "combination",
+          "union",
+          "joining",
+          "linking",
+          "coupling"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "bond"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "join (in relational algebra)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "合成",
+      "reading": "ごうせい",
+      "meaning": "composition"
+    },
+    {
+      "word": "合致",
+      "reading": "がっち",
+      "meaning": "agreement"
+    },
+    {
+      "word": "結晶",
+      "reading": "けっしょう",
+      "meaning": "crystal"
+    },
+    {
+      "word": "問い合わせる",
+      "reading": "といあわせる",
+      "meaning": "to enquire"
+    },
+    {
+      "word": "見合い",
+      "reading": "みあい",
+      "meaning": "(formal) meeting with a view to marriage"
+    },
+    {
+      "word": "合意",
+      "reading": "ごうい",
+      "meaning": "(coming to an) agreement"
+    },
+    {
+      "word": "総合",
+      "reading": "そうごう",
+      "meaning": "synthesis"
+    },
+    {
+      "word": "統合",
+      "reading": "とうごう",
+      "meaning": "integration"
+    },
+    {
+      "word": "結成",
+      "reading": "けっせい",
+      "meaning": "formation"
+    },
+    {
+      "word": "合併",
+      "reading": "がっぺい",
+      "meaning": "merger (of companies, towns, etc.)"
+    },
+    {
+      "word": "複合",
+      "reading": "ふくごう",
+      "meaning": "composite"
+    },
+    {
+      "word": "結束",
+      "reading": "けっそく",
+      "meaning": "union"
+    },
+    {
+      "word": "結核",
+      "reading": "けっかく",
+      "meaning": "tuberculosis"
+    },
+    {
+      "word": "団結",
+      "reading": "だんけつ",
+      "meaning": "unity"
+    },
+    {
+      "word": "合間",
+      "reading": "あいま",
+      "meaning": "interval"
+    },
+    {
+      "word": "合唱",
+      "reading": "がっしょう",
+      "meaning": "singing together"
+    },
+    {
+      "word": "化合",
+      "reading": "かごう",
+      "meaning": "chemical combination"
+    },
+    {
+      "word": "組み合わせる",
+      "reading": "くみあわせる",
+      "meaning": "to put together"
+    },
+    {
+      "word": "結び",
+      "reading": "むすび",
+      "meaning": "ending"
+    },
+    {
+      "word": "妥結",
+      "reading": "だけつ",
+      "meaning": "settlement"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これらの諸州は結合して１つの国になった。",
+      "reading": null,
+      "english": "These states were united into one nation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの州は結合して１つの国になった。",
+      "reading": null,
+      "english": "These states were united into one nation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "霊長類の毛づくろいは集団の結合を強める。",
+      "reading": null,
+      "english": "Grooming in primates increases group cohesion.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "水素と酸素が結合して水になるのです。",
+      "reading": null,
+      "english": "Hydrogen and oxygen combine to form water.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらの諸州は結合して１つの国になった。",
+      "reading": null,
+      "english": "These states were united into one nation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの州は結合して１つの国になった。",
+      "reading": null,
+      "english": "These states were united into one nation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水素と酸素が結合して水になるのです。",
+      "reading": null,
+      "english": "Hydrogen and oxygen combine to form water.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "霊長類の毛づくろいは集団の結合を強める。",
+      "reading": null,
+      "english": "Grooming in primates increases group cohesion.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "逸らす",
+    "reading": "そらす",
+    "romaji": "sorasu",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membengkokkan",
+          "melengkungkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to displease",
+          "to annoy",
+          "to offend",
+          "to upset"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to miss (the target, ball, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "逸れる",
+      "reading": "それる",
+      "meaning": "menyimpang (berbelok) dari pokok bahasan, tersesat"
+    },
+    {
+      "word": "逸れる",
+      "reading": "はぐれる",
+      "meaning": "menyimpang (berbelok) dari pokok bahasan, tersesat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "話をそらすなよ。",
+      "reading": null,
+      "indonesian": "Don't change the subject.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "話をそらすなよ。",
+      "reading": null,
+      "indonesian": "Don't change the subject.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "目をそらすことができない。",
+      "reading": null,
+      "indonesian": "I can't look away.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "目をそらすことができません。",
+      "reading": null,
+      "indonesian": "I can't look away.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "目をそらすことができない。",
+      "reading": null,
+      "indonesian": "I can't look away.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "目をそらすことができません。",
+      "reading": null,
+      "indonesian": "I can't look away.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "definition": {
+    "word": "予言",
+    "reading": "よげん",
+    "romaji": "yogen",
+    "jlpt": "N1",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "prediksi",
+          "janji",
+          "ramalan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "(religious) prophecy"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "宣言",
+      "reading": "せんげん",
+      "meaning": "deklarasi, proklamasi, pengumuman"
+    },
+    {
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "ucapan, pidato, usulan"
+    },
+    {
+      "word": "証言",
+      "reading": "しょうげん",
+      "meaning": "bukti, kesaksian"
+    },
+    {
+      "word": "言論",
+      "reading": "げんろん",
+      "meaning": "diskusi, pidato"
+    },
+    {
+      "word": "断言",
+      "reading": "だんげん",
+      "meaning": "pernyataan, deklarasi, penegasan"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "kesunyian"
+    },
+    {
+      "word": "助言",
+      "reading": "じょげん",
+      "meaning": "saran, masukan"
+    },
+    {
+      "word": "予感",
+      "reading": "よかん",
+      "meaning": "firasat, pertanda"
+    },
+    {
+      "word": "言い訳",
+      "reading": "いいわけ",
+      "meaning": "alasan, penjelasan"
+    },
+    {
+      "word": "片言",
+      "reading": "かたこと",
+      "meaning": "rusak (dalam konteks gaya berbicara, misalnya bahasa Jepang)"
+    },
+    {
+      "word": "伝言",
+      "reading": "でんごん",
+      "meaning": "pesan verbal"
+    },
+    {
+      "word": "予期",
+      "reading": "よき",
+      "meaning": "harapan, perkiraan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の予言どおりやつはうってきた。",
+      "reading": null,
+      "indonesian": "He came out shooting, same as you said he would.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の予言が当たったよ。",
+      "reading": null,
+      "indonesian": "Your prophecy has come true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々は本当に何も予言できはしない。",
+      "reading": null,
+      "indonesian": "We cannot really predict anything.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その老人はわれわれの成功を予言した。",
+      "reading": null,
+      "indonesian": "The old man predicted our success.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その予言は本当になった。",
+      "reading": null,
+      "indonesian": "The prophecy came to pass.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その予言は結果によって誤りとわかった。",
+      "reading": null,
+      "indonesian": "The prediction was falsified by the result.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "預言者は何世紀もの間、この世の終わりを予言し続けてきた。",
+      "reading": null,
+      "indonesian": "Prophets have been forecasting the end of the world for centuries.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "不思議な話だが、彼の予言は当たった。",
+      "reading": null,
+      "indonesian": "Strange to say, his prediction has come true.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "飛べないのと同じように私は未来を予言できない。",
+      "reading": null,
+      "indonesian": "I can no more predict the future than I can fly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女には予言する能力がある。",
+      "reading": null,
+      "indonesian": "She has a gift for prophecy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は予言の才を持っていた。",
+      "reading": null,
+      "indonesian": "He had the gift of prophecy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は恐ろしい災害が起こると予言した。",
+      "reading": null,
+      "indonesian": "He prophesied that a dreadful calamity would happen.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は雨になると予言した。",
+      "reading": null,
+      "indonesian": "He predicted there would be rain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

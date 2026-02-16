@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "聴講",
+    "reading": "ちょうこう",
+    "romaji": "choukou",
+    "jlpt": "N1",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kehadiran kuliah",
+          "mengikuti kuliah sebagai pendengar"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "聴覚",
+      "reading": "ちょうかく",
+      "meaning": "indra pendengaran"
+    },
+    {
+      "word": "講習",
+      "reading": "こうしゅう",
+      "meaning": "kursus singkat, pelatihan"
+    },
+    {
+      "word": "聞き取り",
+      "reading": "ききとり",
+      "meaning": "pemahaman mendengarkan"
+    },
+    {
+      "word": "聴診器",
+      "reading": "ちょうしんき",
+      "meaning": "stetoskop"
+    },
+    {
+      "word": "講演",
+      "reading": "こうえん",
+      "meaning": "kuliah, ceramah"
+    },
+    {
+      "word": "講師",
+      "reading": "こうし",
+      "meaning": "pengajar"
+    },
+    {
+      "word": "講義",
+      "reading": "こうぎ",
+      "meaning": "kuliah"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "聴講切符を前もって入手しておかなければならない。",
+      "reading": null,
+      "indonesian": "You must get lecture tickets in advance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "聴講切符を前もって入手しておかなければならない。",
+      "reading": null,
+      "indonesian": "You must get lecture tickets in advance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

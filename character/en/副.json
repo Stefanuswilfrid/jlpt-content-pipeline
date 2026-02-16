@@ -1,0 +1,125 @@
+{
+  "definition": {
+    "word": "副",
+    "reading": "ふく",
+    "romaji": "fuku",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "prefix"
+        ],
+        "meanings": [
+          "assistant",
+          "associate",
+          "vice-",
+          "sub-",
+          "deputy",
+          "substitute",
+          "auxiliary",
+          "supplementary",
+          "additional",
+          "collateral"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "duplicate",
+          "copy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "adverb"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "副詞",
+      "reading": "ふくし",
+      "meaning": "adverb"
+    },
+    {
+      "word": "添える",
+      "reading": "そえる",
+      "meaning": "to garnish"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "英語の副詞の中には形容詞の役目をするものがある。",
+      "reading": null,
+      "english": "Some English adverbs function as adjectives.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この薬に副作用はありません。",
+      "reading": null,
+      "english": "This medicine has no side effects.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この薬には悪い副作用はありません。",
+      "reading": null,
+      "english": "This medicine is free from harmful effects.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "副業でたんまり儲けたんだ。",
+      "reading": null,
+      "english": "I made a lot of money on the side.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "副作用としては、視力障害があります。",
+      "reading": null,
+      "english": "This has visual impairment as a side effect.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "補足情報には、副詞や副詞のはたらきをするものが入ります。",
+      "reading": null,
+      "english": "Supplementary information includes adverbs and things that function as adverbs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "副大統領は大統領のかわりに、その会合で話をした。",
+      "reading": null,
+      "english": "The Vice-President talked at the meeting in place of the President.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "副大統領は大統領に代わって式典に出席した。",
+      "reading": null,
+      "english": "The vice-president attended the ceremony on behalf of the president.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

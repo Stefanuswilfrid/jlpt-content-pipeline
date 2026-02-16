@@ -1,0 +1,221 @@
+{
+  "definition": {
+    "word": "類",
+    "reading": "るい",
+    "romaji": "rui",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "kind",
+          "sort",
+          "type",
+          "class",
+          "genus",
+          "order",
+          "family"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "similar example",
+          "parallel",
+          "the like"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "衣類",
+      "reading": "いるい",
+      "meaning": "clothes"
+    },
+    {
+      "word": "類似",
+      "reading": "るいじ",
+      "meaning": "resemblance"
+    },
+    {
+      "word": "類推",
+      "reading": "るいすい",
+      "meaning": "analogy"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaning": "variety"
+    },
+    {
+      "word": "書類",
+      "reading": "しょるい",
+      "meaning": "document"
+    },
+    {
+      "word": "親類",
+      "reading": "しんるい",
+      "meaning": "relative"
+    },
+    {
+      "word": "分類",
+      "reading": "ぶんるい",
+      "meaning": "classification"
+    },
+    {
+      "word": "人類",
+      "reading": "じんるい",
+      "meaning": "mankind"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "親類縁者",
+      "reading": "しんるいえんじゃ",
+      "meaning": "one's relatives by blood and marriage (in blood and law)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異類異形",
+      "reading": "いるいいぎょう",
+      "meaning": "strange-looking creatures",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天下無類",
+      "reading": "てんかむるい",
+      "meaning": "peerless (unparalleled, matchless, unequaled) in the country",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "類は友を呼ぶ",
+      "reading": "るいはともをよぶ",
+      "meaning": "birds of a feather flock together",
+      "type": "proverb"
+    },
+    {
+      "word": "類をもって集まる",
+      "reading": "るいをもってあつまる",
+      "meaning": "birds of a feather flock together",
+      "type": "proverb"
+    },
+    {
+      "word": "虎を画きて狗に類す",
+      "reading": "とらをえがきていぬにるいす",
+      "meaning": "attempting to be something you are not",
+      "type": "idiom"
+    },
+    {
+      "word": "遠くの親類より近くの他人",
+      "reading": "とおくのしんるいよりちかくのたにん",
+      "meaning": "a neighbour is better than a relative living far",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたはいつか人類が月に植民すると思いますか。",
+      "reading": null,
+      "english": "Do you think mankind will someday colonize the Moon?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "俺たちは同類だよ。",
+      "reading": null,
+      "english": "We are cut from the same cloth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はこの書類に署名をしさえすればよい。",
+      "reading": null,
+      "english": "All you have to do is sign this paper.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の問題と僕の問題との間には類似点はない。",
+      "reading": null,
+      "english": "I see no analogy between your problem and mine.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君が話してくれたので、やっとこの書類の重要さがわかった。",
+      "reading": null,
+      "english": "I hadn't recognized the importance of this document until you told me about it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "金庫の中の書類が消えてなくなっている。",
+      "reading": null,
+      "english": "The papers that were in the safe are gone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "驚いたことに、その人類学者は殺人罪で告訴された。",
+      "reading": null,
+      "english": "To my surprise, the anthropologist was accused of murder.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "究極的には宇宙飛行は全人類に有益なものとなろう。",
+      "reading": null,
+      "english": "Ultimately, space flight will be beneficial to all mankind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "関係書類の山をしらべていくうちに、彼らは真実をつかんだ。",
+      "reading": null,
+      "english": "They found out truth while examining a pile of relevant documents.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "核兵器は全人類への脅威である。",
+      "reading": null,
+      "english": "Nuclear weapons are a threat to all humanity.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "核兵器は人類の破滅以外の何ももたらさないだろう。",
+      "reading": null,
+      "english": "Nuclear weapons will bring about nothing but the ruin of mankind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "核兵器は人類の絶滅をもたらすかもしれない。",
+      "reading": null,
+      "english": "Nuclear weapons may bring about the annihilation of man.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

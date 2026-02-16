@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "傾斜",
+    "reading": "けいしゃ",
+    "romaji": "keisha",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kemiringan",
+          "lereng",
+          "penurunan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "斜面",
+      "reading": "しゃめん",
+      "meaning": "kemiringan, permukaan miring, bevel"
+    },
+    {
+      "word": "傾く",
+      "reading": "かたむく",
+      "meaning": "condong ke arah, miring, terhuyung-huyung"
+    },
+    {
+      "word": "斜め",
+      "reading": "ななめ",
+      "meaning": "diagonal, miring"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaning": "kecenderungan, tren, inkonsistensi"
+    },
+    {
+      "word": "傾ける",
+      "reading": "かたむける",
+      "meaning": "condong, miring, membengkokkan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "屋根は鋭い角度で傾斜している。",
+      "reading": null,
+      "indonesian": "The roof slopes sharply.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その土地は川に向かって緩やかに傾斜している。",
+      "reading": null,
+      "indonesian": "The land slopes gently toward the river.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "屋根は鋭い角度で傾斜している。",
+      "reading": null,
+      "indonesian": "The roof slopes sharply.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その土地は川に向かって緩やかに傾斜している。",
+      "reading": null,
+      "indonesian": "The land slopes gently toward the river.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

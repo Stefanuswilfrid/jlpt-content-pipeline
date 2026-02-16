@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "模倣",
+    "reading": "もほう",
+    "romaji": "mohou",
+    "jlpt": "N1",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "imitation",
+          "copying"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "規模",
+      "reading": "きぼ",
+      "meaning": "scale"
+    },
+    {
+      "word": "模型",
+      "reading": "もけい",
+      "meaning": "model"
+    },
+    {
+      "word": "模索",
+      "reading": "もさく",
+      "meaning": "groping (for)"
+    },
+    {
+      "word": "模範",
+      "reading": "もはん",
+      "meaning": "exemplar"
+    },
+    {
+      "word": "見習う",
+      "reading": "みならう",
+      "meaning": "to follow (someone's) example"
+    },
+    {
+      "word": "模様",
+      "reading": "もよう",
+      "meaning": "pattern"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "全ての子供には、尊敬し模倣する人が必要だ。",
+      "reading": null,
+      "english": "Every child needs someone to look up to and copy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "全ての子供には、尊敬し模倣する人が必要だ。",
+      "reading": null,
+      "english": "Every child needs someone to look up to and copy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

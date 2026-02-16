@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "潜る",
+    "reading": "くぐる",
+    "romaji": "kuguru",
+    "jlpt": "N1",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk melewati; untuk memutar"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to dive (into or under the water)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to evade",
+          "to get around",
+          "to slip past"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to survive",
+          "to surmount"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "潜水",
+      "reading": "せんすい",
+      "meaning": "menyelam"
+    },
+    {
+      "word": "潜入",
+      "reading": "せんにゅう",
+      "meaning": "infiltrasi, menyelinap masuk"
+    },
+    {
+      "word": "密か",
+      "reading": "ひそか",
+      "meaning": "rahasia, pribadi, diam-diam"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼女は規則をかいくぐるのがうまい。",
+      "reading": null,
+      "indonesian": "She's good at getting around rules.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は規則をかいくぐるのがうまい。",
+      "reading": null,
+      "indonesian": "She's good at getting around rules.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

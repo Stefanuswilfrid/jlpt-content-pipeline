@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "果てる",
+    "reading": "はてる",
+    "romaji": "hateru",
+    "jlpt": "N1",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berakhir",
+          "selesai",
+          "habis"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to die",
+          "to perish"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to do utterly",
+          "to do completely"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "果たす",
+      "reading": "はたす",
+      "meaning": "untuk menyelesaikan, untuk memenuhi, untuk melaksanakan, untuk meraih"
+    },
+    {
+      "word": "結果",
+      "reading": "けっか",
+      "meaning": "hasil, konsekuensi"
+    },
+    {
+      "word": "成果",
+      "reading": "せいか",
+      "meaning": "hasil, buah-buahan"
+    },
+    {
+      "word": "果て",
+      "reading": "はて",
+      "meaning": "akhir, ujung, batas"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私達は疲れ果てるまで何時間も、その音楽に合わせて踊った。",
+      "reading": null,
+      "indonesian": "We danced to the music for hours until we were all exhausted.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私達は疲れ果てるまで何時間も、その音楽に合わせて踊った。",
+      "reading": null,
+      "indonesian": "We danced to the music for hours until we were all exhausted.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

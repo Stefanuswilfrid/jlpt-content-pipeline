@@ -1,0 +1,191 @@
+{
+  "definition": {
+    "word": "交渉",
+    "reading": "こうしょう",
+    "romaji": "koushou",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "negotiations",
+          "bargaining",
+          "discussions",
+          "talks"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "connection",
+          "relationship",
+          "relations",
+          "dealings"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "国交",
+      "reading": "こっこう",
+      "meaning": "diplomatic relations"
+    },
+    {
+      "word": "交付",
+      "reading": "こうふ",
+      "meaning": "delivery"
+    },
+    {
+      "word": "干渉",
+      "reading": "かんしょう",
+      "meaning": "interference"
+    },
+    {
+      "word": "交互",
+      "reading": "こうご",
+      "meaning": "alternate"
+    },
+    {
+      "word": "交える",
+      "reading": "まじえる",
+      "meaning": "to mix"
+    },
+    {
+      "word": "社交",
+      "reading": "しゃこう",
+      "meaning": "social life"
+    },
+    {
+      "word": "交わる",
+      "reading": "まじわる",
+      "meaning": "to cross"
+    },
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomacy"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "exchange (e.g. cultural)"
+    },
+    {
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning": "exchange"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "traffic"
+    },
+    {
+      "word": "出くわす",
+      "reading": "でくわす",
+      "meaning": "to happen to meet"
+    },
+    {
+      "word": "交際",
+      "reading": "こうさい",
+      "meaning": "company"
+    },
+    {
+      "word": "交差点",
+      "reading": "こうさてん",
+      "meaning": "crossing"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々は彼を彼らと交渉する代表にたてた。",
+      "reading": null,
+      "english": "We delegated him to negotiate with them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は就労時間について社長と交渉した。",
+      "reading": null,
+      "english": "We negotiated with the President about our working hours.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は交渉して週休２日制にする協定をした。",
+      "reading": null,
+      "english": "We bargained that we should go on a five-day week.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々の交渉は途切れた。",
+      "reading": null,
+      "english": "Our negotiations broke off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々の交渉は失敗どころか、大成功だった。",
+      "reading": null,
+      "english": "Far from being a failure, our negotiation was a great success.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それから彼女は銀行との交渉を続けた。",
+      "reading": null,
+      "english": "She then proceeded to negotiate with her bank.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "スタッフに交渉事がうまいのがいます。",
+      "reading": null,
+      "english": "We have a good negotiator on the staff.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この交渉を打ち切りたい。",
+      "reading": null,
+      "english": "We want to break off this negotiation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "うちの一番腕利きの交渉者はいつも強引に有利な取り引きをする。",
+      "reading": null,
+      "english": "Our best negotiators always drive a hard bargain.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "インベーダーと和議の交渉をしないことに決めた。",
+      "reading": null,
+      "english": "We decided not to have peace negotiations with the invaders.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

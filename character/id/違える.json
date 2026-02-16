@@ -1,0 +1,188 @@
+{
+  "definition": {
+    "word": "違える",
+    "reading": "ちがえる",
+    "romaji": "chigaeru",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mengubah"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to mistake",
+          "to make a mistake"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fail to keep (e.g. one's promise)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sprain (a muscle)",
+          "to dislocate (e.g. one's neck)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "間違える",
+      "reading": "まちがえる",
+      "meaning": "membuat kesalahan"
+    },
+    {
+      "word": "行き違い",
+      "reading": "いきちがい",
+      "meaning": "kesalahpahaman, ketidaksepakatan"
+    },
+    {
+      "word": "食い違う",
+      "reading": "くいちがう",
+      "meaning": "saling bersilangan, berbeda pendapat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ボタンを掛け違える",
+      "reading": "ボタンをかけちがえる",
+      "meaning": "to button up wrong",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君が歌うのを聞けば人は君を少女と間違えるかもしれない。",
+      "reading": null,
+      "indonesian": "Hearing you sing, people might take you for a girl.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "間違えることが必ず悪いとは限らない。",
+      "reading": null,
+      "indonesian": "To make mistakes is not always wrong.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一つ間違えると君は失敗者になる。",
+      "reading": null,
+      "indonesian": "A single mistake, and you are a failure.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もっと注意しないと間違えるよ。",
+      "reading": null,
+      "indonesian": "Be more careful, or you will make mistakes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスを乗り間違えるなんて私はどうかしている。",
+      "reading": null,
+      "indonesian": "It is careless of me to take the wrong bus.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ちょっと化粧すると彼女は見違えるほどきれいになった。",
+      "reading": null,
+      "indonesian": "A little make-up worked wonders with her.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "誰でも間違えることはある。",
+      "reading": null,
+      "indonesian": "Anybody can make a mistake.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あまりにお変わりになっていて見違えるほどです。",
+      "reading": null,
+      "indonesian": "You have changed so much that I can hardly recognize you.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたがたは間違えることを怖がる必要はありません。",
+      "reading": null,
+      "indonesian": "You needn't be afraid of making mistakes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女が英語を話すのを聞くと、アメリカ人と間違えるでしょう。",
+      "reading": null,
+      "indonesian": "If you heard her speak English, you would take her for an American.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は間違えるといけないから、非常に注意した。",
+      "reading": null,
+      "indonesian": "He was very careful for fear he should make a mistake.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は英語を書くと必ず間違える。",
+      "reading": null,
+      "indonesian": "He cannot write English without making mistakes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は英語をしゃべると必ず間違える。",
+      "reading": null,
+      "indonesian": "He never speaks English without making mistakes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はフランス語を話すと必ず少し間違える。",
+      "reading": null,
+      "indonesian": "He cannot speak French without making a few mistakes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

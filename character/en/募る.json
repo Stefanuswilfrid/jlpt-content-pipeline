@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "募る",
+    "reading": "つのる",
+    "romaji": "tsunoru",
+    "jlpt": "N1",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become stronger",
+          "to grow in intensity",
+          "to grow violent",
+          "to become worse"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to invite contributions, etc.",
+          "to solicit help, participation, etc.",
+          "to recruit (e.g. soldiers)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "募金",
+      "reading": "ぼきん",
+      "meaning": "fundraising"
+    },
+    {
+      "word": "公募",
+      "reading": "こうぼ",
+      "meaning": "public appeal (e.g. for contributions)"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaning": "application"
+    },
+    {
+      "word": "募集",
+      "reading": "ぼしゅう",
+      "meaning": "recruitment"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "社会保険庁や厚生労働省への不信感は募る一方である。",
+      "reading": null,
+      "english": "Distrust of the Social Insurance Agency and the Ministry of Health, Labour and Welfare just keeps getting stronger.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "社会保険庁や厚生労働省への不信感は募る一方である。",
+      "reading": null,
+      "english": "Distrust of the Social Insurance Agency and the Ministry of Health, Labour and Welfare just keeps getting stronger.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "寒さは募る一方です。",
+      "reading": null,
+      "english": "The cold just grows stronger.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒さは募る一方です。",
+      "reading": null,
+      "english": "It keeps getting colder.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒さは募る一方です。",
+      "reading": null,
+      "english": "The cold just grows stronger.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒さは募る一方です。",
+      "reading": null,
+      "english": "It keeps getting colder.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

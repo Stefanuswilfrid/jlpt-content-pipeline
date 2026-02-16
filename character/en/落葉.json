@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "落ち葉",
+    "reading": "おちば",
+    "romaji": "ochiba",
+    "jlpt": "N1",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fallen leaves",
+          "leaf litter",
+          "falling leaves"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "leaf fall",
+          "dropping leaves",
+          "defoliation"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "deciduous"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "落下",
+      "reading": "らっか",
+      "meaning": "fall"
+    },
+    {
+      "word": "墜落",
+      "reading": "ついらく",
+      "meaning": "fall"
+    },
+    {
+      "word": "落ち込む",
+      "reading": "おちこむ",
+      "meaning": "to feel down"
+    },
+    {
+      "word": "転落",
+      "reading": "てんらく",
+      "meaning": "fall"
+    },
+    {
+      "word": "落ち着き",
+      "reading": "おちつき",
+      "meaning": "calmness"
+    },
+    {
+      "word": "没落",
+      "reading": "ぼつらく",
+      "meaning": "ruin"
+    },
+    {
+      "word": "言葉遣い",
+      "reading": "ことばづかい",
+      "meaning": "speech"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "落葉を取り除いて下さい。",
+      "reading": null,
+      "english": "Please get rid of the dead leaves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "落葉を取り除いて下さい。",
+      "reading": null,
+      "english": "Please get rid of the dead leaves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "丘の日が当っている部分は落葉樹でいっぱいだ。",
+      "reading": null,
+      "english": "The sunny side of the hill is full of deciduous trees.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "丘の日が当っている部分は落葉樹でいっぱいだ。",
+      "reading": null,
+      "english": "The sunny side of the hill is full of deciduous trees.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "チークって、４０メートルまで育つことがある落葉樹なんだよ。",
+      "reading": null,
+      "english": "The teak is a deciduous tree that can grow to a height of 40 metres.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "秋には落葉します。",
+      "reading": null,
+      "english": "The leaves fall off the trees in autumn.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "チークって、４０メートルまで育つことがある落葉樹なんだよ。",
+      "reading": null,
+      "english": "The teak is a deciduous tree that can grow to a height of 40 metres.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "秋には落葉します。",
+      "reading": null,
+      "english": "The leaves fall off the trees in autumn.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

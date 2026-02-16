@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "窮乏",
+    "reading": "きゅうぼう",
+    "romaji": "kyuubou",
+    "jlpt": "N1",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "poverty",
+          "destitution",
+          "privation",
+          "indigence",
+          "penury"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "貧乏",
+      "reading": "びんぼう",
+      "meaning": "poverty-stricken"
+    },
+    {
+      "word": "窮屈",
+      "reading": "きゅうくつ",
+      "meaning": "narrow"
+    },
+    {
+      "word": "欠乏",
+      "reading": "けつぼう",
+      "meaning": "deficiency"
+    },
+    {
+      "word": "究極",
+      "reading": "きゅうきょく",
+      "meaning": "ultimate"
+    },
+    {
+      "word": "乏しい",
+      "reading": "とぼしい",
+      "meaning": "meagre"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "困苦窮乏",
+      "reading": "こんくきゅうぼう",
+      "meaning": "hardships and privations",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "飢饉が人々にひどい窮乏をもたらした。",
+      "reading": null,
+      "english": "Famine caused great distress among the people.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はそんな窮乏の中でどうやって暮らしていたのか。",
+      "reading": null,
+      "english": "How did he make his living in such poverty?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "飢饉が人々にひどい窮乏をもたらした。",
+      "reading": null,
+      "english": "Famine caused great distress among the people.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はそんな窮乏の中でどうやって暮らしていたのか。",
+      "reading": null,
+      "english": "How did he make his living in such poverty?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

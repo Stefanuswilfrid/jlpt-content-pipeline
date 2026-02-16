@@ -1,0 +1,227 @@
+{
+  "definition": {
+    "word": "工作",
+    "reading": "こうさく",
+    "romaji": "kousaku",
+    "jlpt": "N1",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "kerajinan tangan",
+          "manuver"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "work",
+          "construction",
+          "manufacturing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "maneuvering",
+          "manoeuvering"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "作戦",
+      "reading": "さくせん",
+      "meaning": "operasi militer, taktik, strategi"
+    },
+    {
+      "word": "加工",
+      "reading": "かこう",
+      "meaning": "manufaktur, pengolahan, perawatan"
+    },
+    {
+      "word": "工学",
+      "reading": "こうがく",
+      "meaning": "rekayasa"
+    },
+    {
+      "word": "原作",
+      "reading": "げんさく",
+      "meaning": "karya asli"
+    },
+    {
+      "word": "作り",
+      "reading": "つくり",
+      "meaning": "susunan, struktur, fisik"
+    },
+    {
+      "word": "着工",
+      "reading": "ちゃっこう",
+      "meaning": "awal pekerjaan (konstruksi)"
+    },
+    {
+      "word": "作用",
+      "reading": "さよう",
+      "meaning": "operasi, efek, fungsi"
+    },
+    {
+      "word": "発作",
+      "reading": "ほっさ",
+      "meaning": "cocok, menyerang"
+    },
+    {
+      "word": "凶作",
+      "reading": "きょうさく",
+      "meaning": "panen buruk, tanaman jelek"
+    },
+    {
+      "word": "細工",
+      "reading": "さいく",
+      "meaning": "pekerjaan, keahlian, trik"
+    },
+    {
+      "word": "耕作",
+      "reading": "こうさく",
+      "meaning": "budidaya, pertanian"
+    },
+    {
+      "word": "豊作",
+      "reading": "ほうさく",
+      "meaning": "panen melimpah, hasil panen yang berlimpah"
+    },
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaning": "pabrik, perusahaan"
+    },
+    {
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "pekerjaan, operasi, manufaktur"
+    },
+    {
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "karya, opus, produksi"
+    },
+    {
+      "word": "工業",
+      "reading": "こうぎょう",
+      "meaning": "industri (manufaktur)"
+    },
+    {
+      "word": "工事",
+      "reading": "こうじ",
+      "meaning": "Ada Pekerjaan Konstruksi"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaning": "penulis, pengarang, novelis"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaning": "karya (misalnya, film, buku)"
+    },
+    {
+      "word": "作曲",
+      "reading": "さっきょく",
+      "meaning": "komposisi (musik)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "裏面工作",
+      "reading": "りめんこうさく",
+      "meaning": "string-pulling",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "偽装工作",
+      "reading": "ぎそうこうさく",
+      "meaning": "diversionary tactics (maneuvering)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼らは裏面工作をしている。",
+      "reading": null,
+      "indonesian": "They are maneuvering behind the scene.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作に熟練している。",
+      "reading": null,
+      "indonesian": "He has skill in handwork.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作に熟練している。",
+      "reading": null,
+      "indonesian": "He is skilled in handicraft.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作がうまい。",
+      "reading": null,
+      "indonesian": "He has skill in handwork.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作に熟練している。",
+      "reading": null,
+      "indonesian": "He has skill in handwork.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作がうまい。",
+      "reading": null,
+      "indonesian": "He has skill in handwork.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは裏面工作をしている。",
+      "reading": null,
+      "indonesian": "They are maneuvering behind the scene.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は工作に熟練している。",
+      "reading": null,
+      "indonesian": "He is skilled in handicraft.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

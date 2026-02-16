@@ -1,0 +1,144 @@
+{
+  "definition": {
+    "word": "詳細",
+    "reading": "しょうさい",
+    "romaji": "shousai",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "detail",
+          "rincian"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "detailed",
+          "specific",
+          "minute"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "close-up view (of a digitally displayed map)",
+          "zoomed-in view"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "細胞",
+      "reading": "さいぼう",
+      "meaning": "sel"
+    },
+    {
+      "word": "細菌",
+      "reading": "さいきん",
+      "meaning": "basil, bakteri, kuman"
+    },
+    {
+      "word": "細工",
+      "reading": "さいく",
+      "meaning": "pekerjaan, keahlian, trik"
+    },
+    {
+      "word": "細やか",
+      "reading": "ささやか",
+      "meaning": "sedikit, sederhana"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々は事故の原因を詳細に分析しなければならない。",
+      "reading": null,
+      "indonesian": "We have to make a close analysis of the accident.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々はその問題を詳細に論じた。",
+      "reading": null,
+      "indonesian": "We discussed the matter at large.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "パイロットはその光景を詳細に述べた。",
+      "reading": null,
+      "indonesian": "The pilot described the scene in detail.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その事故を詳細に述べなさい。",
+      "reading": null,
+      "indonesian": "Describe that accident in detail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その航空専門家は統計を詳細に分析した。",
+      "reading": null,
+      "indonesian": "The aviation expert analyzed the statistics in detail.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その計画は詳細に論議された。",
+      "reading": null,
+      "indonesian": "The plan was discussed in detail.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その計画の詳細がだんだん明らかになってきた。",
+      "reading": null,
+      "indonesian": "The details of the plan unfolded.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "詳細は、１６ページをご覧ください。",
+      "reading": null,
+      "indonesian": "For further information, see page 16.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらのコースについての詳細な資料をお送りください。",
+      "reading": null,
+      "indonesian": "Please send details of these courses.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この地域の詳細な地図はまだ書かれていない。",
+      "reading": null,
+      "indonesian": "Detailed maps of this area have not been drawn.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

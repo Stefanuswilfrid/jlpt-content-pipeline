@@ -1,0 +1,177 @@
+{
+  "definition": {
+    "word": "荷",
+    "reading": "に",
+    "romaji": "ni",
+    "jlpt": "N1",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "muatan",
+          "bagasi",
+          "kargo"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "burden",
+          "responsibility"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "荷造り",
+      "reading": "にづくり",
+      "meaning": "pengemasan, pengepakan, pembuatan peti"
+    },
+    {
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaning": "koper; bagasi"
+    },
+    {
+      "word": "担う",
+      "reading": "になう",
+      "meaning": "membawa di pundak, memikul (beban), memanggul (senjata)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "肩の荷が下りる",
+      "reading": "かたのにがおりる",
+      "meaning": "to feel relieved of one's burden",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "どれがあなたの荷物ですか？",
+      "reading": null,
+      "indonesian": "Which is your luggage?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "荷物を持って出て行け。",
+      "reading": null,
+      "indonesian": "Pick up your things and go away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君にはちょっと荷が勝っているね。",
+      "reading": null,
+      "indonesian": "I'm afraid this job is too much for you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教育というものは子供同様親にも重荷となってはいけない。",
+      "reading": null,
+      "indonesian": "Education should not be a burden on the parents as well as on the children.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "京子は親切にも私のために荷物を運んでくれた。",
+      "reading": null,
+      "indonesian": "Kyoko had the kindness to carry my baggage for me.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "機内持ち込みの荷物はいくつありますか。",
+      "reading": null,
+      "indonesian": "How many pieces of carry-on are you going to take?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "各々の乗客には荷物二つの制限がある。",
+      "reading": null,
+      "indonesian": "There is a limit of two pieces of luggage for each passenger.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "荷物を全部選り分けるのにかなり時間がかかった。",
+      "reading": null,
+      "indonesian": "It took quite a while to sort out all our luggage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "荷物を預けることができますか。",
+      "reading": null,
+      "indonesian": "Could I check my bags?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この荷物を預ける事が出来ますか。",
+      "reading": null,
+      "indonesian": "Could I check my bags?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "荷物検査で引っかからなければいいけど。",
+      "reading": null,
+      "indonesian": "I hope this makes it through baggage inspection.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "荷物を預かって欲しいのですが。",
+      "reading": null,
+      "indonesian": "Would you keep this baggage, please?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "荷物を置く場所を空けてくれ。",
+      "reading": null,
+      "indonesian": "Make room for the baggage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "荷物を二階に運んでいただけませんか。",
+      "reading": null,
+      "indonesian": "Would you carry my luggage upstairs?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "荷物を置いたまま外に出ていいですか。",
+      "reading": null,
+      "indonesian": "May I leave my belongings on the bus?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

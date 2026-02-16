@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "整列",
+    "reading": "せいれつ",
+    "romaji": "seiretsu",
+    "jlpt": "N1",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "standing in a row",
+          "forming a line",
+          "alignment"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "配列",
+      "reading": "はいれつ",
+      "meaning": "arranging"
+    },
+    {
+      "word": "陳列",
+      "reading": "ちんれつ",
+      "meaning": "exhibition"
+    },
+    {
+      "word": "並列",
+      "reading": "へいれつ",
+      "meaning": "arranging in a line"
+    },
+    {
+      "word": "調整",
+      "reading": "ちょうせい",
+      "meaning": "adjustment"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaning": "maintenance"
+    },
+    {
+      "word": "列車",
+      "reading": "れっしゃ",
+      "meaning": "train"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "sorting"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "軍隊は戦闘の配置で整列していた。",
+      "reading": null,
+      "english": "The troops were in battle array.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "軍隊は戦闘の配置で整列していた。",
+      "reading": null,
+      "english": "The troops were in battle array.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

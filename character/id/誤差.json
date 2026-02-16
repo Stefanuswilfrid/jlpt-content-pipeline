@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "誤差",
+    "reading": "ごさ",
+    "romaji": "gosa",
+    "jlpt": "N1",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kesalahan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "格差",
+      "reading": "かくさ",
+      "meaning": "perbedaan, kesenjangan"
+    },
+    {
+      "word": "差額",
+      "reading": "さがく",
+      "meaning": "saldo, selisih, margin"
+    },
+    {
+      "word": "時差",
+      "reading": "じさ",
+      "meaning": "perbedaan waktu"
+    },
+    {
+      "word": "錯誤",
+      "reading": "さくご",
+      "meaning": "kesalahan"
+    },
+    {
+      "word": "過ち",
+      "reading": "あやまち",
+      "meaning": "kesalahan, kekeliruan, ketidakbijaksanaan"
+    },
+    {
+      "word": "差し引き",
+      "reading": "さしひき",
+      "meaning": "pengurangan, saldo"
+    },
+    {
+      "word": "物差し",
+      "reading": "ものさし",
+      "meaning": "penggaris, alat ukur"
+    },
+    {
+      "word": "差",
+      "reading": "さ",
+      "meaning": "perbedaan, variasi"
+    },
+    {
+      "word": "差別",
+      "reading": "さべつ",
+      "meaning": "diskriminasi, diferensiasi"
+    },
+    {
+      "word": "誤り",
+      "reading": "あやまり",
+      "meaning": "kesalahan"
+    },
+    {
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "salah paham"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々は誤差を見込んで余裕をとっておいた。",
+      "reading": null,
+      "indonesian": "We left a margin for error in our estimates.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "計算にいくらかの誤差を考慮に入れましたか。",
+      "reading": null,
+      "indonesian": "Have you allowed for any error in your calculation?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は誤差を見込んで余裕をとっておいた。",
+      "reading": null,
+      "indonesian": "We left a margin for error in our estimates.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "計算にいくらかの誤差を考慮に入れましたか。",
+      "reading": null,
+      "indonesian": "Have you allowed for any error in your calculation?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

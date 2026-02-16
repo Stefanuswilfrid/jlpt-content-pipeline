@@ -1,0 +1,194 @@
+{
+  "definition": {
+    "word": "開発",
+    "reading": "かいはつ",
+    "romaji": "kaihatsu",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pengembangan",
+          "eksploitasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "ucapan, pidato, usulan"
+    },
+    {
+      "word": "開催",
+      "reading": "かいさい",
+      "meaning": "mengadakan pertemuan, membuka pameran"
+    },
+    {
+      "word": "反発",
+      "reading": "はんぱつ",
+      "meaning": "menolak, memantul, menentang"
+    },
+    {
+      "word": "活発",
+      "reading": "かっぱつ",
+      "meaning": "semangat, aktif"
+    },
+    {
+      "word": "発生",
+      "reading": "はっせい",
+      "meaning": "wabah, muncul tiba-tiba, kejadian"
+    },
+    {
+      "word": "発足",
+      "reading": "ほっそく",
+      "meaning": "permulaan, pelantikan"
+    },
+    {
+      "word": "打開",
+      "reading": "だかい",
+      "meaning": "solusi, terobosan"
+    },
+    {
+      "word": "再発",
+      "reading": "さいはつ",
+      "meaning": "kembali, kambuh, muncul kembali"
+    },
+    {
+      "word": "発掘",
+      "reading": "はっくつ",
+      "meaning": "penggalian, penemuan (misalnya, bakat baru)"
+    },
+    {
+      "word": "発作",
+      "reading": "ほっさ",
+      "meaning": "cocok, menyerang"
+    },
+    {
+      "word": "開拓",
+      "reading": "かいたく",
+      "meaning": "budidaya, perintis"
+    },
+    {
+      "word": "発病",
+      "reading": "はつびょう",
+      "meaning": "menyerang, menjadi sakit"
+    },
+    {
+      "word": "始発",
+      "reading": "しはつ",
+      "meaning": "kereta pertama"
+    },
+    {
+      "word": "発育",
+      "reading": "はついく",
+      "meaning": "pertumbuhan (fisik), perkembangan"
+    },
+    {
+      "word": "発芽",
+      "reading": "はつが",
+      "meaning": "pengecambahan"
+    },
+    {
+      "word": "未開",
+      "reading": "みかい",
+      "meaning": "tanah liar, wilayah terbelakang, tidak beradab"
+    },
+    {
+      "word": "切開",
+      "reading": "せっかい",
+      "meaning": "membuka, memotong"
+    },
+    {
+      "word": "開始",
+      "reading": "かいし",
+      "meaning": "awal, permulaan, permulaan"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaning": "buka, buka lebar, liberalisasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "教育は潜在する能力の開発をめざすものだ。",
+      "reading": null,
+      "indonesian": "Education aims to develop potential abilities.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "海底油田の開発をしたい。",
+      "reading": null,
+      "indonesian": "We want to explore an underwater oil field.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我が国は自国の天然資源を開発しなければならない。",
+      "reading": null,
+      "indonesian": "Our country must develop its natural resources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その地方は大規模に開発されるだろう。",
+      "reading": null,
+      "indonesian": "It seems the rural area will be developed on a large scale.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その会社は１か月おきに新製品を開発している。",
+      "reading": null,
+      "indonesian": "The company develops new products every other month.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "エンドユーザーの視野にたった商品開発が必須。",
+      "reading": null,
+      "indonesian": "Our new product development efforts must be done from the end user's viewpoint.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "いくつかの地方自治体では開発を禁止した。",
+      "reading": null,
+      "indonesian": "Localities imposed bans on development.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あぶく銭を稼ごうとする開発業者たちよ。",
+      "reading": null,
+      "indonesian": "They're some developers who aim to make a fast buck!",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "「ソフトウェア開発」は「モノ作り」ではない。",
+      "reading": null,
+      "indonesian": "\"Software development\" isn't \"manufacture\".",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

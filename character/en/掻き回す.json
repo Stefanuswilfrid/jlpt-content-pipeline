@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "かき回す",
+    "reading": "かきまわす",
+    "romaji": "kakimawasu",
+    "jlpt": "N1",
+    "frequency": 10000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stir",
+          "to churn",
+          "to poke (a fire)",
+          "to disturb (water)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to rummage around"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to throw into confusion",
+          "to throw into chaos",
+          "to disturb"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "回収",
+      "reading": "かいしゅう",
+      "meaning": "collection"
+    },
+    {
+      "word": "回送",
+      "reading": "かいそう",
+      "meaning": "forwarding"
+    },
+    {
+      "word": "回覧",
+      "reading": "かいらん",
+      "meaning": "circulation (esp. of documents)"
+    },
+    {
+      "word": "上回る",
+      "reading": "うわまわる",
+      "meaning": "to exceed (esp. figures: profits, unemployment rate, etc.)"
+    },
+    {
+      "word": "転回",
+      "reading": "てんかい",
+      "meaning": "revolution"
+    },
+    {
+      "word": "回復",
+      "reading": "かいふく",
+      "meaning": "restoration"
+    },
+    {
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning": "reply"
+    },
+    {
+      "word": "後回し",
+      "reading": "あとまわし",
+      "meaning": "putting off"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

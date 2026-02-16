@@ -1,0 +1,194 @@
+{
+  "definition": {
+    "word": "半端",
+    "reading": "はんぱ",
+    "romaji": "hanpa",
+    "jlpt": "N1",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "fragmen",
+          "pecahan",
+          "ketidaklengkapan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fraction",
+          "odd sum"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "halfway",
+          "half-hearted",
+          "perfunctory"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "irresponsible",
+          "foolish"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "極端",
+      "reading": "きょくたん",
+      "meaning": "ekstrem, ekstremitas"
+    },
+    {
+      "word": "半径",
+      "reading": "はんけい",
+      "meaning": "radius"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "中途半端",
+      "reading": "ちゅうとはんぱ",
+      "meaning": "halfway",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は物事を中途半端にしてはいけないよ。",
+      "reading": null,
+      "indonesian": "You shouldn't do things by halves.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "火事は中途半端なやり方では防げない。",
+      "reading": null,
+      "indonesian": "Fire cannot be prevented by half measures.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何事も中途半端にするな。",
+      "reading": null,
+      "indonesian": "Don't do anything by halves.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何でも屋は何でも中途半端。",
+      "reading": null,
+      "indonesian": "Jack of all trades, and master of none.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何でも屋は何でも中途半端。",
+      "reading": null,
+      "indonesian": "A jack of all trades is a master of none.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "物事を中途半端に知っているより、全く知らない方がましだ。",
+      "reading": null,
+      "indonesian": "One may as well not know a thing at all, as know it but imperfectly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "物事は中途半端にするなかれ。",
+      "reading": null,
+      "indonesian": "Don't leave things half done.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "物事は中途半端にするなかれ。",
+      "reading": null,
+      "indonesian": "Don't leave things half finished.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "物事は中途半端にするな。",
+      "reading": null,
+      "indonesian": "Never do things by halves.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "半端な時間に自転車に乗るだけだ。",
+      "reading": null,
+      "indonesian": "I only ride a bicycle at odd times.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "中途半端にやるくらいなら、やらない方がましだ。",
+      "reading": null,
+      "indonesian": "You may as well not do it at all than do it imperfectly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "中途半端なことはしたくない。",
+      "reading": null,
+      "indonesian": "I don't like to leave things up in the air.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は決して何事も中途半端にはしないつもりだ。",
+      "reading": null,
+      "indonesian": "I'll never do anything by halves.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "仕事を中途半端にするな。",
+      "reading": null,
+      "indonesian": "Don't leave your work half done.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "仕事を中途半端で辞めてはいけない。",
+      "reading": null,
+      "indonesian": "Don't leave your work half finished.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

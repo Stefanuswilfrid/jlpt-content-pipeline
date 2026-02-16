@@ -1,0 +1,248 @@
+{
+  "definition": {
+    "word": "手元",
+    "reading": "てもと",
+    "romaji": "temoto",
+    "jlpt": "N1",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(uang) yang ada di tangan atau di rumah",
+          "dompet seseorang; keterampilan biasa"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "way of moving one's arms",
+          "skill"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "money at hand",
+          "pocket money"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "grip",
+          "handle"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "元首",
+      "reading": "げんしゅ",
+      "meaning": "penguasa, raja"
+    },
+    {
+      "word": "手当",
+      "reading": "てあて",
+      "meaning": "tunjangan, kompensasi; perawatan"
+    },
+    {
+      "word": "手軽",
+      "reading": "てがる",
+      "meaning": "mudah, sederhana, murah"
+    },
+    {
+      "word": "手順",
+      "reading": "てじゅん",
+      "meaning": "proses, prosedur, protokol"
+    },
+    {
+      "word": "還元",
+      "reading": "かんげん",
+      "meaning": "resolusi, pengurangan, pengembalian"
+    },
+    {
+      "word": "元年",
+      "reading": "がんねん",
+      "meaning": "tahun pertama (dari masa pemerintahan tertentu)"
+    },
+    {
+      "word": "小切手",
+      "reading": "こぎって",
+      "meaning": "cek, cek"
+    },
+    {
+      "word": "入手",
+      "reading": "にゅうしゅ",
+      "meaning": "memperoleh, tersedia"
+    },
+    {
+      "word": "手本",
+      "reading": "てほん",
+      "meaning": "model, pola"
+    },
+    {
+      "word": "勝手",
+      "reading": "かって",
+      "meaning": "dapur; cara seseorang, keegoisan"
+    },
+    {
+      "word": "地元",
+      "reading": "じもと",
+      "meaning": "lokal"
+    },
+    {
+      "word": "手法",
+      "reading": "しゅほう",
+      "meaning": "teknik"
+    },
+    {
+      "word": "手配",
+      "reading": "てはい",
+      "meaning": "pengaturan, penggeledahan (oleh polisi)"
+    },
+    {
+      "word": "着手",
+      "reading": "ちゃくしゅ",
+      "meaning": "keberangkatan, peluncuran"
+    },
+    {
+      "word": "元来",
+      "reading": "がんらい",
+      "meaning": "awalnya, secara alami"
+    },
+    {
+      "word": "手際",
+      "reading": "てぎわ",
+      "meaning": "kinerja, keterampilan, taktik"
+    },
+    {
+      "word": "お手上げ",
+      "reading": "おてあげ",
+      "meaning": "menyerah, kehilangan harapan"
+    },
+    {
+      "word": "手錠",
+      "reading": "てじょう",
+      "meaning": "borgol, belenggu"
+    },
+    {
+      "word": "土手",
+      "reading": "どて",
+      "meaning": "tanggul, bank"
+    },
+    {
+      "word": "元素",
+      "reading": "げんそ",
+      "meaning": "elemen"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々の手元に合計５ドル残った。",
+      "reading": null,
+      "indonesian": "We had five dollars left between us.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語の雑誌を読むときは、いつも大きな辞書を手元に置く。",
+      "reading": null,
+      "indonesian": "I keep a large dictionary close at hand when I read English magazines.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "よい辞書を手元に置いておきなさい。",
+      "reading": null,
+      "indonesian": "Keep a good dictionary at hand.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その辞書を手元に置いておきなさい。",
+      "reading": null,
+      "indonesian": "Keep the dictionary by you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この本を手元に置いてください。",
+      "reading": null,
+      "indonesian": "Please keep this book at hand.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつでも使えるようにその辞書を手元に置いておきなさい。",
+      "reading": null,
+      "indonesian": "Keep the dictionary ready at hand.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "手元にあるものでがまんしなければならないだろう。",
+      "reading": null,
+      "indonesian": "You will just have to do with what you've got.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "彼は書きものをする時には、いつも辞書を手元に置いている。",
+      "reading": null,
+      "indonesian": "When he writes, he always keeps a dictionary at hand.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "手元に豊富な資金がある。",
+      "reading": null,
+      "indonesian": "We have ample funds in hand.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "手元に気をつけて！",
+      "reading": null,
+      "indonesian": "Watch your fingers!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "手元に気をつけて！",
+      "reading": null,
+      "indonesian": "Watch your fingers.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "手元にはこれだけしかお金がありません。",
+      "reading": null,
+      "indonesian": "This is all the money I have.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

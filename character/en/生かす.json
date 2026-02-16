@@ -1,0 +1,179 @@
+{
+  "definition": {
+    "word": "生かす",
+    "reading": "いかす",
+    "romaji": "ikasu",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make (the best) use of",
+          "to put to good use",
+          "to leverage (skills, attributes, experience, etc.)",
+          "to capitalise on (experience, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to let live",
+          "to keep alive"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to revive",
+          "to resuscitate",
+          "to bring back to life"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to restore (a deleted passage; in proofreading)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生育",
+      "reading": "せいいく",
+      "meaning": "birth and growth"
+    },
+    {
+      "word": "発生",
+      "reading": "はっせい",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "再生",
+      "reading": "さいせい",
+      "meaning": "restoration to life"
+    },
+    {
+      "word": "育成",
+      "reading": "いくせい",
+      "meaning": "rearing"
+    },
+    {
+      "word": "生ずる",
+      "reading": "しょうずる",
+      "meaning": "to produce"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "production"
+    },
+    {
+      "word": "畜生",
+      "reading": "ちくしょう",
+      "meaning": "damn it"
+    },
+    {
+      "word": "生死",
+      "reading": "せいし",
+      "meaning": "life and death"
+    },
+    {
+      "word": "写生",
+      "reading": "しゃせい",
+      "meaning": "sketching"
+    },
+    {
+      "word": "生じる",
+      "reading": "しょうじる",
+      "meaning": "to produce"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "小の虫を殺して大の虫を生かす",
+      "reading": "しょうのむしをころしてだいのむしをいかす",
+      "meaning": "to sacrifice something small in order to save something great",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "悪い状況を最大限に生かすようにするべきだ。",
+      "reading": null,
+      "english": "You should make the best of a bad situation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "デザイナーになったら君の才能をよく生かすことが出来るだろう。",
+      "reading": null,
+      "english": "You can put your talents to good use if you become a designer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君を生かすも殺すも僕次第だ。",
+      "reading": null,
+      "english": "It's up to me whether I kill you or let you live!",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "悪い状況を最大限に生かすようにするべきだ。",
+      "reading": null,
+      "english": "You should make the best of a bad situation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "デザイナーになったら君の才能をよく生かすことが出来るだろう。",
+      "reading": null,
+      "english": "You can put your talents to good use if you become a designer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "デザイナーになったら君の才能をよく生かすことが出来るだろう。",
+      "reading": null,
+      "english": "If you became a designer, you could make better use of your talents.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君を生かすも殺すも僕次第だ。",
+      "reading": null,
+      "english": "It's up to me whether I kill you or let you live!",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "デザイナーになったら君の才能をよく生かすことが出来るだろう。",
+      "reading": null,
+      "english": "If you became a designer, you could make better use of your talents.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

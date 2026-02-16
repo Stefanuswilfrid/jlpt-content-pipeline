@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "粘る",
+    "reading": "ねばる",
+    "romaji": "nebaru",
+    "jlpt": "N1",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menjadi lengket",
+          "menjadi perekat",
+          "bertahan",
+          "menempel pada"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to persevere",
+          "to persist",
+          "to stick to",
+          "to hold out",
+          "to linger"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "粘り",
+      "reading": "ねばり",
+      "meaning": "kelengketan, viskositas"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "トムはマラソン大会で最後まで粘るも、ライバルに敗れた。",
+      "reading": null,
+      "indonesian": "Even though Tom stuck it out to the end of the marathon, he lost to his rival.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムはマラソン大会で最後まで粘るも、ライバルに敗れた。",
+      "reading": null,
+      "indonesian": "Even though Tom stuck it out to the end of the marathon, he lost to his rival.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

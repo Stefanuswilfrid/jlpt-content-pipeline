@@ -1,0 +1,134 @@
+{
+  "definition": {
+    "word": "代弁",
+    "reading": "だいべん",
+    "romaji": "daiben",
+    "jlpt": "N1",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "speaking by proxy",
+          "speaking for (someone else)",
+          "acting as spokesman (for)",
+          "representing (the views, feelings, etc. of)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "payment by proxy",
+          "compensation by proxy",
+          "paying on behalf (of)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "acting for (someone else)",
+          "carrying out (on someone's behalf)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "弁解",
+      "reading": "べんかい",
+      "meaning": "explanation (e.g. for one's actions)"
+    },
+    {
+      "word": "世代",
+      "reading": "せだい",
+      "meaning": "generation"
+    },
+    {
+      "word": "弁護",
+      "reading": "べんご",
+      "meaning": "defense"
+    },
+    {
+      "word": "古代",
+      "reading": "こだい",
+      "meaning": "ancient times"
+    },
+    {
+      "word": "弁論",
+      "reading": "べんろん",
+      "meaning": "discussion"
+    },
+    {
+      "word": "先代",
+      "reading": "せんだい",
+      "meaning": "previous generation (of a family)"
+    },
+    {
+      "word": "代用",
+      "reading": "だいよう",
+      "meaning": "substitution"
+    },
+    {
+      "word": "弁償",
+      "reading": "べんしょう",
+      "meaning": "compensation"
+    },
+    {
+      "word": "勘弁",
+      "reading": "かんべん",
+      "meaning": "pardon"
+    },
+    {
+      "word": "花びら",
+      "reading": "はなびら",
+      "meaning": "petal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼女は家のない人々の代弁をした。",
+      "reading": null,
+      "english": "She spoke for the homeless.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "誰が代弁者になるか。",
+      "reading": null,
+      "english": "Who will act as spokesman?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "誰が代弁者になるか。",
+      "reading": null,
+      "english": "Who will act as spokesman?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は家のない人々の代弁をした。",
+      "reading": null,
+      "english": "She spoke for the homeless.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

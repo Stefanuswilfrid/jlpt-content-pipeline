@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "伝来",
+    "reading": "でんらい",
+    "romaji": "denrai",
+    "jlpt": "N1",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "leluhur",
+          "turun temurun",
+          "impor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "transmission (through successive generations)",
+          "being handed down (from generation to generation)",
+          "being passed down"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "来場",
+      "reading": "らいじょう",
+      "meaning": "kehadiran"
+    },
+    {
+      "word": "従来",
+      "reading": "じゅうらい",
+      "meaning": "sampai sekarang, sejauh ini, tradisional"
+    },
+    {
+      "word": "伝説",
+      "reading": "でんせつ",
+      "meaning": "tradisi, legenda, cerita rakyat"
+    },
+    {
+      "word": "外来",
+      "reading": "がいらい",
+      "meaning": "(singkatan) impor, klinik rawat jalan"
+    },
+    {
+      "word": "伝達",
+      "reading": "でんたつ",
+      "meaning": "transmisi (misalnya, berita, komunikasi, pengiriman)"
+    },
+    {
+      "word": "家来",
+      "reading": "けらい",
+      "meaning": "pengawal, rombongan, pelayan"
+    },
+    {
+      "word": "伝わる",
+      "reading": "つたわる",
+      "meaning": "untuk diwariskan, untuk ditransmisikan"
+    },
+    {
+      "word": "出来上がり",
+      "reading": "できあがり",
+      "meaning": "selesai, siap"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "先祖伝来",
+      "reading": "せんぞでんらい",
+      "meaning": "inherited",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "祖先伝来",
+      "reading": "そせんでんらい",
+      "meaning": "hereditary",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "父祖伝来",
+      "reading": "ふそでんらい",
+      "meaning": "hereditary",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この先祖伝来の家宝は君の物だ。",
+      "reading": null,
+      "indonesian": "This heirloom shall be yours.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私達の生活様式はヨーロッパ文明の伝来以来変化してきた。",
+      "reading": null,
+      "indonesian": "Our mode of life has changed since the introduction of European civilization.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この先祖伝来の家宝は君の物だ。",
+      "reading": null,
+      "indonesian": "This heirloom shall be yours.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私達の生活様式はヨーロッパ文明の伝来以来変化してきた。",
+      "reading": null,
+      "indonesian": "Our mode of life has changed since the introduction of European civilization.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

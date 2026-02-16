@@ -1,0 +1,178 @@
+{
+  "definition": {
+    "word": "親父",
+    "reading": "おやじ",
+    "romaji": "oyaji",
+    "jlpt": "N1",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's father",
+          "one's old man",
+          "dad",
+          "pops"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "middle-aged (or older) man",
+          "old man",
+          "geezer"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's boss"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "proprietor (of a restaurant, store, etc.)",
+          "landlord"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "grizzly bear"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "親善",
+      "reading": "しんぜん",
+      "meaning": "friendship"
+    },
+    {
+      "word": "肉親",
+      "reading": "にくしん",
+      "meaning": "blood relationship"
+    },
+    {
+      "word": "父親",
+      "reading": "ちちおや",
+      "meaning": "father"
+    },
+    {
+      "word": "親戚",
+      "reading": "しんせき",
+      "meaning": "relative"
+    },
+    {
+      "word": "父",
+      "reading": "ちち",
+      "meaning": "father"
+    },
+    {
+      "word": "親",
+      "reading": "おや",
+      "meaning": "parent"
+    },
+    {
+      "word": "母親",
+      "reading": "ははおや",
+      "meaning": "mother"
+    },
+    {
+      "word": "両親",
+      "reading": "りょうしん",
+      "meaning": "parents"
+    },
+    {
+      "word": "父母",
+      "reading": "ふぼ",
+      "meaning": "father and mother"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "地震雷火事親父",
+      "reading": "じしんかみなりかじおやじ",
+      "meaning": "things to fear: earthquakes, thunder, fires and, most of all, fathers",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の主張は、ぼくの頑固親父のと同じく納得できない。",
+      "reading": null,
+      "english": "Your argument is not any more convincing than that of my stubborn father.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は親父の後を継いだ。",
+      "reading": null,
+      "english": "He succeeded to his father's business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は親父とそっくりだ。",
+      "reading": null,
+      "english": "He's a carbon copy of his father.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "親父はじっと私の顔を見た。",
+      "reading": null,
+      "english": "Father looked me full in the face.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の主張は、ぼくの頑固親父のと同じく納得できない。",
+      "reading": null,
+      "english": "Your argument is not any more convincing than that of my stubborn father.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "親父はじっと私の顔を見た。",
+      "reading": null,
+      "english": "Father looked me full in the face.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は親父とそっくりだ。",
+      "reading": null,
+      "english": "He's a carbon copy of his father.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は親父の後を継いだ。",
+      "reading": null,
+      "english": "He succeeded to his father's business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

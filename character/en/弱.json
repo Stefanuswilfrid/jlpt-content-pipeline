@@ -1,0 +1,232 @@
+{
+  "definition": {
+    "word": "弱",
+    "reading": "じゃく",
+    "romaji": "jaku",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "a little less than",
+          "a little under",
+          "slightly fewer than"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "weakness",
+          "the weak",
+          "low (setting)"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "-lower (seismic intensity)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "貧弱",
+      "reading": "ひんじゃく",
+      "meaning": "poor"
+    },
+    {
+      "word": "薄弱",
+      "reading": "はくじゃく",
+      "meaning": "feebleness"
+    },
+    {
+      "word": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "weak point"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "弱肉強食",
+      "reading": "じゃくにくきょうしょく",
+      "meaning": "the law of the jungle",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "心神耗弱",
+      "reading": "しんしんこうじゃく",
+      "meaning": "diminished capacity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "意志薄弱",
+      "reading": "いしはくじゃく",
+      "meaning": "weak-willed",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "薄志弱行",
+      "reading": "はくしじゃっこう",
+      "meaning": "infirm of purpose and lacking in decision",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一強多弱",
+      "reading": "いっきょうたじゃく",
+      "meaning": "one strong, many weak",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一強皆弱",
+      "reading": "いっきょうかいじゃく",
+      "meaning": "one strong, everyone else weak",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "弱り目に祟り目",
+      "reading": "よわりめにたたりめ",
+      "meaning": "misfortunes never come singly",
+      "type": "proverb"
+    },
+    {
+      "word": "勇将の下に弱卒なし",
+      "reading": "ゆうしょうのもとにじゃくそつなし",
+      "meaning": "followers take after their leaders",
+      "type": "proverb"
+    },
+    {
+      "word": "弱き者汝の名は女なり",
+      "reading": "よわきものなんじのなはおんななり",
+      "meaning": "frailty, thy name is woman",
+      "type": "proverb"
+    },
+    {
+      "word": "至弱をもって至強にあたる",
+      "reading": "しじゃくをもってしきょうにあたる",
+      "meaning": "attack your enemy's strength with your weakness",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "心熱けれど肉体は弱し。",
+      "reading": null,
+      "english": "The spirit is willing, but the flesh is weak.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "強者は生き残り、弱者は死ぬものだ。",
+      "reading": null,
+      "english": "The strong will survive and the weak will die.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "強者は弱者を助けなければならない。",
+      "reading": null,
+      "english": "The strong must help the weak.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "強者は弱者の面倒を見るべきだ。",
+      "reading": null,
+      "english": "The strong should take care of the weak.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "弱り目に祟り目。",
+      "reading": null,
+      "english": "Misfortunes never come singly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "弱気が美人を得たためしがない。",
+      "reading": null,
+      "english": "Faint heart never won fair lady.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "気の弱い男が美女を得たためしがない。",
+      "reading": null,
+      "english": "Faint heart never won fair lady.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "寒い季節に入ると、体の弱い人はとかく風邪を引きやすい。",
+      "reading": null,
+      "english": "Those who are delicate in health are apt to catch a cold when the cold season sets in.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "確かに彼女は若くて美しいが、体が弱い。",
+      "reading": null,
+      "english": "Indeed she is young and beautiful, but she is in delicate health.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々はボロ勝ちした。何せ相手の選手ときたら弱いのなんの。",
+      "reading": null,
+      "english": "We won hands down, because the other players were weak.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "音は次第に弱くなり、そしてとうとう聞こえなくなった。",
+      "reading": null,
+      "english": "The sound became fainter and fainter, until at last it disappeared.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "欧州通貨はドルに対して弱くなった。",
+      "reading": null,
+      "english": "European currencies weakened against the dollar.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "炎を弱くしなさい。",
+      "reading": null,
+      "english": "Turn the flame down low.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火を弱くして。",
+      "reading": null,
+      "english": "Turn the flame down low.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

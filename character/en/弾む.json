@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "弾む",
+    "reading": "はずむ",
+    "romaji": "hazumu",
+    "jlpt": "N1",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to spring",
+          "to bound",
+          "to bounce"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be stimulated",
+          "to be encouraged",
+          "to get lively"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pay handsomely",
+          "to splurge",
+          "to part eagerly with (money, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to breathe hard",
+          "to pant",
+          "to be out of breath"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "弾く",
+      "reading": "はじく",
+      "meaning": "to flip"
+    },
+    {
+      "word": "弾く",
+      "reading": "ひく",
+      "meaning": "to play (a stringed or keyboard instrument)"
+    },
+    {
+      "word": "爆弾",
+      "reading": "ばくだん",
+      "meaning": "bomb"
+    },
+    {
+      "word": "弾力",
+      "reading": "だんりょく",
+      "meaning": "elasticity"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ゴムのボールは弾力性があるから弾む。",
+      "reading": null,
+      "english": "A rubber ball bounces because it is elastic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ゴムのボールは弾力性があるから弾む。",
+      "reading": null,
+      "english": "A rubber ball bounces because it is elastic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

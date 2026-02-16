@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "何より",
+    "reading": "なにより",
+    "romaji": "naniyori",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "above anything else",
+          "above all",
+          "more than anything"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "best",
+          "greatest",
+          "excellent",
+          "wonderful",
+          "most important"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何だか",
+      "reading": "なんだか",
+      "meaning": "(a) little"
+    },
+    {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "what"
+    },
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    },
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "なによりもまず、今君は働かなければならない。",
+      "reading": null,
+      "english": "Above all, you must work now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人はなによりもまずその外見によって判断される。",
+      "reading": null,
+      "english": "One will be judged by one's appearance first of all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はなによりもまずこの辞書を手に入れたい。",
+      "reading": null,
+      "english": "I want to have this dictionary most of all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なによりもまず、今君は働かなければならない。",
+      "reading": null,
+      "english": "Above all, you must work now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はなによりもまずこの辞書を手に入れたい。",
+      "reading": null,
+      "english": "I want to have this dictionary most of all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人はなによりもまずその外見によって判断される。",
+      "reading": null,
+      "english": "One will be judged by one's appearance first of all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なによりも健康が第一です。",
+      "reading": null,
+      "english": "Health is more important than anything else.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

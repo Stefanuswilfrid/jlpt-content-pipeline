@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "抜かす",
+    "reading": "ぬかす",
+    "romaji": "nukasu",
+    "jlpt": "N1",
+    "frequency": 16750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to omit",
+          "to leave out",
+          "to skip"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to overtake",
+          "to pass"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "抜け出す",
+      "reading": "ぬけだす",
+      "meaning": "to slip out"
+    },
+    {
+      "word": "抜く",
+      "reading": "ぬく",
+      "meaning": "to pull out"
+    },
+    {
+      "word": "抜ける",
+      "reading": "ぬける",
+      "meaning": "to come out"
+    },
+    {
+      "word": "海抜",
+      "reading": "かいばつ",
+      "meaning": "height above sea level"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "は？グダグダ抜かすんじゃねぇ。それでもオトコか。",
+      "reading": null,
+      "english": "Huh? Don't be so whiny! And you call yourself a man!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "注意しなさい。君はよく何かの文字を抜かすよ。",
+      "reading": null,
+      "english": "Be more careful. You often leave out some letter or other.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "注意しなさい。君はよく何かの文字を抜かすよ。",
+      "reading": null,
+      "english": "Be more careful. You often leave out some letter or other.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "は？グダグダ抜かすんじゃねぇ。それでもオトコか。",
+      "reading": null,
+      "english": "Huh? Don't be so whiny! And you call yourself a man!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

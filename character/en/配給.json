@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "配給",
+    "reading": "はいきゅう",
+    "romaji": "haikyuu",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "distribution (e.g. films, rice)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "rationing (e.g. food, gasoline)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "food ration"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "配分",
+      "reading": "はいぶん",
+      "meaning": "distribution"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaning": "consideration"
+    },
+    {
+      "word": "給食",
+      "reading": "きゅうしょく",
+      "meaning": "provision of lunch (e.g. at office, school, etc.)"
+    },
+    {
+      "word": "配置",
+      "reading": "はいち",
+      "meaning": "arrangement (of resources)"
+    },
+    {
+      "word": "補給",
+      "reading": "ほきゅう",
+      "meaning": "supply"
+    },
+    {
+      "word": "配偶者",
+      "reading": "はいぐうしゃ",
+      "meaning": "spouse"
+    },
+    {
+      "word": "分配",
+      "reading": "ぶんぱい",
+      "meaning": "division"
+    },
+    {
+      "word": "配布",
+      "reading": "はいふ",
+      "meaning": "distribution"
+    },
+    {
+      "word": "手配",
+      "reading": "てはい",
+      "meaning": "arrangement"
+    },
+    {
+      "word": "配列",
+      "reading": "はいれつ",
+      "meaning": "arranging"
+    },
+    {
+      "word": "給仕",
+      "reading": "きゅうじ",
+      "meaning": "waiting on a table"
+    },
+    {
+      "word": "心配",
+      "reading": "しんぱい",
+      "meaning": "worry"
+    },
+    {
+      "word": "給与",
+      "reading": "きゅうよ",
+      "meaning": "pay"
+    },
+    {
+      "word": "支給",
+      "reading": "しきゅう",
+      "meaning": "provision"
+    },
+    {
+      "word": "気配",
+      "reading": "けはい",
+      "meaning": "indication"
+    },
+    {
+      "word": "給料",
+      "reading": "きゅうりょう",
+      "meaning": "salary"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼らはパンと牛乳の追加配給を交渉で決めた。",
+      "reading": null,
+      "english": "They bargained additional rations of bread and milk.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "戦時中政府は肉を配給にした。",
+      "reading": null,
+      "english": "The government rationed meat during the war.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "戦時中政府は肉を配給にした。",
+      "reading": null,
+      "english": "The government rationed meat during the war.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはパンと牛乳の追加配給を交渉で決めた。",
+      "reading": null,
+      "english": "They bargained additional rations of bread and milk.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

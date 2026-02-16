@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "染める",
+    "reading": "そめる",
+    "romaji": "someru",
+    "jlpt": "N1",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to dye",
+          "to colour",
+          "to color"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "染みる",
+      "reading": "しみる",
+      "meaning": "to pierce"
+    },
+    {
+      "word": "汚染",
+      "reading": "おせん",
+      "meaning": "pollution"
+    },
+    {
+      "word": "感染",
+      "reading": "かんせん",
+      "meaning": "infection"
+    },
+    {
+      "word": "染まる",
+      "reading": "そまる",
+      "meaning": "to be dyed"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手を染める",
+      "reading": "てをそめる",
+      "meaning": "to get involved (with)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "清廉潔白できこえた彼が、汚職なんかに手を染めるわけない。",
+      "reading": null,
+      "english": "He has a reputation as being straight as an arrow. He'd never get involved in corruption.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "清廉潔白できこえた彼が、汚職なんかに手を染めるわけない。",
+      "reading": null,
+      "english": "He has a reputation as being straight as an arrow. He'd never get involved in corruption.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "目蓋には淡い日の光、ゆるやかな色合いが部屋の中を染める。",
+      "reading": null,
+      "english": "Dim sunbeams on my eyelids, a faint tinge dyes the room.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "目蓋には淡い日の光、ゆるやかな色合いが部屋の中を染める。",
+      "reading": null,
+      "english": "Dim sunbeams on my eyelids, a faint tinge dyes the room.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

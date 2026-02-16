@@ -1,0 +1,50 @@
+{
+  "definition": {
+    "word": "励ます",
+    "reading": "はげます",
+    "romaji": "hagemasu",
+    "jlpt": "N1",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to encourage",
+          "to cheer on",
+          "to cheer (someone) up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to raise (one's voice)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "奨励",
+      "reading": "しょうれい",
+      "meaning": "encouragement"
+    },
+    {
+      "word": "激励",
+      "reading": "げきれい",
+      "meaning": "encouragement"
+    },
+    {
+      "word": "励む",
+      "reading": "はげむ",
+      "meaning": "to work hard"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

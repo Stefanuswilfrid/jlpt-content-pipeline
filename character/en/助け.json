@@ -1,0 +1,173 @@
+{
+  "definition": {
+    "word": "助け",
+    "reading": "たすけ",
+    "romaji": "tasuke",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "assistance",
+          "help",
+          "aid",
+          "support",
+          "reinforcement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "助言",
+      "reading": "じょげん",
+      "meaning": "advice"
+    },
+    {
+      "word": "補助",
+      "reading": "ほじょ",
+      "meaning": "assistance"
+    },
+    {
+      "word": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "relief"
+    },
+    {
+      "word": "援助",
+      "reading": "えんじょ",
+      "meaning": "assistance"
+    },
+    {
+      "word": "助教授",
+      "reading": "じょきょうじゅ",
+      "meaning": "assistant professor"
+    },
+    {
+      "word": "助手",
+      "reading": "じょしゅ",
+      "meaning": "assistant"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "芸は身を助ける",
+      "reading": "げいはみをたすける",
+      "meaning": "art brings bread",
+      "type": "proverb"
+    },
+    {
+      "word": "小の虫を殺して大の虫を助ける",
+      "reading": "しょうのむしをころしてだいのむしをたすける",
+      "meaning": "to sacrifice something small in order to save something great",
+      "type": "proverb"
+    },
+    {
+      "word": "芸が身を助けるほどの不幸せ",
+      "reading": "げいがみをたすけるほどのふしあわせ",
+      "meaning": "being able to live as an artist is no blessing",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それで誰もあなたを助けなかったの？",
+      "reading": null,
+      "english": "And nobody helped you?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の助けが必要なんだ。",
+      "reading": null,
+      "english": "I need your help.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の助けが必要なんだ。",
+      "reading": null,
+      "english": "I need your assistance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼女を助けなければいけない。しかもすぐに。",
+      "reading": null,
+      "english": "You must help her, and soon!",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは彼女を助けなければならない。しかもすぐにだ。",
+      "reading": null,
+      "english": "You must help her, and soon!",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼らを助けるよう求められている。",
+      "reading": null,
+      "english": "You're required to help them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は親切にも私を助けてくれた。",
+      "reading": null,
+      "english": "You were kind to help me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は君を助けてくれるような友達を持たなければならない。",
+      "reading": null,
+      "english": "You need to have friends who can help you out.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたのアドバイスにはいつも助けられています。",
+      "reading": null,
+      "english": "Your advice is always helpful to me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の助けを当てにするよ。",
+      "reading": null,
+      "english": "I expect your help.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の助けはいらないよ。",
+      "reading": null,
+      "english": "I don't need your help.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君の助けがなかったら、私は失敗していただろう。",
+      "reading": null,
+      "english": "But for your help, I should have failed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

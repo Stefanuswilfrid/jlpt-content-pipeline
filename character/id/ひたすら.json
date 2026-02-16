@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "只管",
+    "reading": "ひたすら",
+    "romaji": "hitasura",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "tidak lain hanyalah",
+          "dengan sungguh-sungguh",
+          "dengan penuh perhatian"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "只",
+      "reading": "ただ",
+      "meaning": "gratis, semata-mata, hanya"
+    },
+    {
+      "word": "保管",
+      "reading": "ほかん",
+      "meaning": "penjagaan, penyimpanan, pengamanan"
+    },
+    {
+      "word": "血管",
+      "reading": "けっかん",
+      "meaning": "pembuluh darah"
+    },
+    {
+      "word": "管",
+      "reading": "くだ",
+      "meaning": "pipa, tabung"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "只管打坐",
+      "reading": "しかんたざ",
+      "meaning": "shikantaza",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼はひたすら成功を望んで懸命に働く。",
+      "reading": null,
+      "indonesian": "He works hard because he is anxious to succeed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分が遅刻したことを、ひたすら謝ったよ。",
+      "reading": null,
+      "indonesian": "I apologized profusely for my being late.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はひたすら成功を望んで懸命に働く。",
+      "reading": null,
+      "indonesian": "He works hard because he is anxious to succeed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分が遅刻したことを、ひたすら謝ったよ。",
+      "reading": null,
+      "indonesian": "I apologized profusely for my being late.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

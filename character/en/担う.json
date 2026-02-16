@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "担う",
+    "reading": "になう",
+    "romaji": "ninau",
+    "jlpt": "N1",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to carry on one's shoulder",
+          "to shoulder",
+          "to bear"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bear (a burden, responsibility, etc.)",
+          "to take upon oneself"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "burden"
+    },
+    {
+      "word": "分担",
+      "reading": "ぶんたん",
+      "meaning": "taking on one's share (e.g. of work)"
+    },
+    {
+      "word": "担ぐ",
+      "reading": "かつぐ",
+      "meaning": "to shoulder"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "being in charge (of an area of responsibility)"
+    },
+    {
+      "word": "担架",
+      "reading": "たんか",
+      "meaning": "stretcher"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一端を担う",
+      "reading": "いったんをになう",
+      "meaning": "to be partly responsible for",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

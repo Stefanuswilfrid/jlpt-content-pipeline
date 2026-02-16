@@ -1,0 +1,211 @@
+{
+  "definition": {
+    "word": "貧乏",
+    "reading": "びんぼう",
+    "romaji": "binbou",
+    "jlpt": "N1",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "poverty-stricken",
+          "destitute",
+          "poor",
+          "penurious"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "貧困",
+      "reading": "ひんこん",
+      "meaning": "poverty"
+    },
+    {
+      "word": "貧弱",
+      "reading": "ひんじゃく",
+      "meaning": "poor"
+    },
+    {
+      "word": "欠乏",
+      "reading": "けつぼう",
+      "meaning": "deficiency"
+    },
+    {
+      "word": "窮乏",
+      "reading": "きゅうぼう",
+      "meaning": "poverty"
+    },
+    {
+      "word": "乏しい",
+      "reading": "とぼしい",
+      "meaning": "meagre"
+    },
+    {
+      "word": "貧しい",
+      "reading": "まずしい",
+      "meaning": "poor"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "器用貧乏",
+      "reading": "きようびんぼう",
+      "meaning": "jack of all trades, master of none",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "貧乏暇なし",
+      "reading": "びんぼうひまなし",
+      "meaning": "a poor man has no time for leisure",
+      "type": "proverb"
+    },
+    {
+      "word": "貧乏子沢山",
+      "reading": "びんぼうこだくさん",
+      "meaning": "poor households have many children",
+      "type": "proverb"
+    },
+    {
+      "word": "貧乏人の子沢山",
+      "reading": "びんぼうにんのこだくさん",
+      "meaning": "poor households have many children",
+      "type": "proverb"
+    },
+    {
+      "word": "稼ぐに追いつく貧乏なし",
+      "reading": "かせぐにおいつくびんぼうなし",
+      "meaning": "poverty is a stranger to industry",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "金持ちは貧乏人を軽蔑しがちだ。",
+      "reading": null,
+      "english": "The rich are apt to look down upon the poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "お金持ちは貧乏人を見下しがちである。",
+      "reading": null,
+      "english": "The rich are apt to look down upon the poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "金持ちは時に貧乏人を見下します。",
+      "reading": null,
+      "english": "The rich sometimes despise the poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "金持ちにも貧乏人と同じく悩みがある。",
+      "reading": null,
+      "english": "The rich have troubles as well as the poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "金持ちになるよりむしろ貧乏でいる方がいい。",
+      "reading": null,
+      "english": "I prefer being poor to being rich.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "金持ちか貧乏かによって、ものの見方が違うものだ。",
+      "reading": null,
+      "english": "We see things differently according to whether we are rich or poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "お金とは縁がないんだ。つまり、貧乏ってこと。",
+      "reading": null,
+      "english": "Money and I are strangers; in other words, I am poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "願っただけで望みがかなうなら貧乏人も金持ちになれようが。",
+      "reading": null,
+      "english": "If wishes were horses, beggars might ride.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "金持ちか貧乏かによって、ものの見方が違うものだ。",
+      "reading": null,
+      "english": "We see things differently, according to whether we are rich or poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "稼ぐに追いつく貧乏なし。",
+      "reading": null,
+      "english": "No poverty can catch up with industry.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "稼ぎに追いつく貧乏なし。",
+      "reading": null,
+      "english": "Poverty is a stranger to industry.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一生懸命働いたが、彼は相変わらず貧乏であった。",
+      "reading": null,
+      "english": "He remained poor despite being a hard worker.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もし今彼のお父さんがいなければ、彼は貧乏していることだろう。",
+      "reading": null,
+      "english": "If his father wasn't there, he'd be poor right now.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーが子供の頃、彼女の家はとても貧乏だった。",
+      "reading": null,
+      "english": "When Mary was a child, her family was dirt poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "なるほど彼は貧乏だが、満足している。",
+      "reading": null,
+      "english": "It is true that he is poor, but he is contented.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

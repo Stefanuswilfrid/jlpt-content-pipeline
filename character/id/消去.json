@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "消去",
+    "reading": "しょうきょ",
+    "romaji": "shoukyo",
+    "jlpt": "N1",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "penghapusan",
+          "menghilangkan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "elimination (of variables)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "extinction"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "消息",
+      "reading": "しょうそく",
+      "meaning": "berita, surat, keadaan"
+    },
+    {
+      "word": "打ち消し",
+      "reading": "うちけし",
+      "meaning": "(gram) negasi, penyangkalan, negatif"
+    },
+    {
+      "word": "消す",
+      "reading": "けす",
+      "meaning": "menghapus, mematikan daya"
+    },
+    {
+      "word": "打ち消す",
+      "reading": "うちけす",
+      "meaning": "menyangkal, meniadakan"
+    },
+    {
+      "word": "去る",
+      "reading": "さる",
+      "meaning": "pergi, meninggalkan"
+    },
+    {
+      "word": "過去",
+      "reading": "かこ",
+      "meaning": "masa lalu"
+    },
+    {
+      "word": "消費",
+      "reading": "しょうひ",
+      "meaning": "konsumsi, pengeluaran"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一番下の背景レイヤーを消去します。",
+      "reading": null,
+      "indonesian": "Remove the lower-most background layer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一番下の背景レイヤーを消去します。",
+      "reading": null,
+      "indonesian": "Remove the lower-most background layer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "「なんで私？」「消去法で仕方がなかったから」",
+      "reading": null,
+      "indonesian": "\"Why me?\" \"Because, by process of elimination, there was no other choice.\"",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "「なんで私？」「消去法で仕方がなかったから」",
+      "reading": null,
+      "indonesian": "\"Why me?\" \"Because, by process of elimination, there was no other choice.\"",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

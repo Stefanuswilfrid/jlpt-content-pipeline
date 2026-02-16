@@ -1,0 +1,134 @@
+{
+  "definition": {
+    "word": "蓄積",
+    "reading": "ちくせき",
+    "romaji": "chikuseki",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "accumulation",
+          "accumulate",
+          "store"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見積もり",
+      "reading": "みつもり",
+      "meaning": "estimate"
+    },
+    {
+      "word": "貯蓄",
+      "reading": "ちょちく",
+      "meaning": "savings"
+    },
+    {
+      "word": "積む",
+      "reading": "つむ",
+      "meaning": "to pile up"
+    },
+    {
+      "word": "容積",
+      "reading": "ようせき",
+      "meaning": "capacity"
+    },
+    {
+      "word": "面積",
+      "reading": "めんせき",
+      "meaning": "area (measurement)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼は富を蓄積しようとした。",
+      "reading": null,
+      "english": "He tried to accumulate wealth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼には国際政治に関する情報の蓄積がある。",
+      "reading": null,
+      "english": "He has fund of information about world politics.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本の学生は知識を蓄積する事は大変得意だ。",
+      "reading": null,
+      "english": "I think that Japanese students are very good at gathering knowledge.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "賢明な投資をして彼女は一財産を蓄積した。",
+      "reading": null,
+      "english": "By investing wisely, she accumulated a fortune.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "賢明な投資をして彼女は一財産を蓄積した。",
+      "reading": null,
+      "english": "She accumulated a fortune by investing wisely.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "賢明な投資をして彼女は一財産を蓄積した。",
+      "reading": null,
+      "english": "By investing wisely, she accumulated a fortune.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本の学生は知識を蓄積する事は大変得意だ。",
+      "reading": null,
+      "english": "I think that Japanese students are very good at gathering knowledge.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼には国際政治に関する情報の蓄積がある。",
+      "reading": null,
+      "english": "He has fund of information about world politics.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は富を蓄積しようとした。",
+      "reading": null,
+      "english": "He tried to accumulate wealth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "賢明な投資をして彼女は一財産を蓄積した。",
+      "reading": null,
+      "english": "She accumulated a fortune by investing wisely.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

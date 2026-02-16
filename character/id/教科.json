@@ -1,0 +1,220 @@
+{
+  "definition": {
+    "word": "教科",
+    "reading": "きょうか",
+    "romaji": "kyouka",
+    "jlpt": "N1",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mata pelajaran",
+          "kurikulum"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教訓",
+      "reading": "きょうくん",
+      "meaning": "pelajaran, ajaran, instruksi moral"
+    },
+    {
+      "word": "教材",
+      "reading": "きょうざい",
+      "meaning": "bahan ajar"
+    },
+    {
+      "word": "歯科",
+      "reading": "しか",
+      "meaning": "kedokteran gigi"
+    },
+    {
+      "word": "小児科",
+      "reading": "しょうにか",
+      "meaning": "pediatri"
+    },
+    {
+      "word": "教習",
+      "reading": "きょうしゅう",
+      "meaning": "pelatihan, instruksi"
+    },
+    {
+      "word": "眼科",
+      "reading": "がんか",
+      "meaning": "oftalmologi"
+    },
+    {
+      "word": "教職",
+      "reading": "きょうしょく",
+      "meaning": "profesi mengajar"
+    },
+    {
+      "word": "耳鼻科",
+      "reading": "じびか",
+      "meaning": "otolaringologi"
+    },
+    {
+      "word": "宣教",
+      "reading": "せんきょう",
+      "meaning": "misi keagamaan"
+    },
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "buku pelajaran"
+    },
+    {
+      "word": "学科",
+      "reading": "がっか",
+      "meaning": "mata pelajaran, program studi"
+    },
+    {
+      "word": "外科",
+      "reading": "げか",
+      "meaning": "departemen bedah"
+    },
+    {
+      "word": "教養",
+      "reading": "きょうよう",
+      "meaning": "budaya, pendidikan, kecanggihan"
+    },
+    {
+      "word": "理科",
+      "reading": "りか",
+      "meaning": "sains"
+    },
+    {
+      "word": "科目",
+      "reading": "かもく",
+      "meaning": "(mata pelajaran) sekolah, kurikulum, kursus"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "教科書を書き写すときに１語落としてしまったよ。",
+      "reading": null,
+      "indonesian": "You've left out a word in copying the textbook.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教科書の９ページを開いてください。",
+      "reading": null,
+      "indonesian": "Open your book to page nine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教科書を忘れてはいけません。",
+      "reading": null,
+      "indonesian": "You must not forget your schoolbooks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教科書を閉じて私の言うことを聞きなさい。",
+      "reading": null,
+      "indonesian": "Listen to me with your textbooks closed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "教科書を閉じて話を聞いてください。",
+      "reading": null,
+      "indonesian": "Listen to me with your textbooks closed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "教科書はどうしたらいいんでしょうか。",
+      "reading": null,
+      "indonesian": "Where do we get the textbooks?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教科書はどこで買えるんですか？",
+      "reading": null,
+      "indonesian": "Where do we get the textbooks?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "教科書を正しく読みなさい。",
+      "reading": null,
+      "indonesian": "You must read the textbook closely.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "教科書の各章に約１２もの練習問題がついている。",
+      "reading": null,
+      "indonesian": "Each chapter in the textbook is followed by about a dozen comprehension questions.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教科書の５０ページを開きなさい。",
+      "reading": null,
+      "indonesian": "Open your texts to page 50.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校が私たちに教科書を用意してくれた。",
+      "reading": null,
+      "indonesian": "The school provided us with textbooks.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どの教科が不得意ですか。",
+      "reading": null,
+      "indonesian": "What subject are you poor at?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの教科が得意ですか。",
+      "reading": null,
+      "indonesian": "What subject are you good at?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの教科が一番好きですか。",
+      "reading": null,
+      "indonesian": "Which subject do you like best?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これはよい教科書だ。",
+      "reading": null,
+      "indonesian": "This is a good textbook.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

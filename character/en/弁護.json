@@ -1,0 +1,200 @@
+{
+  "definition": {
+    "word": "弁護",
+    "reading": "べんご",
+    "romaji": "bengo",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "defense",
+          "defence",
+          "pleading",
+          "advocacy"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "介護",
+      "reading": "かいご",
+      "meaning": "nursing"
+    },
+    {
+      "word": "看護",
+      "reading": "かんご",
+      "meaning": "nursing"
+    },
+    {
+      "word": "養護",
+      "reading": "ようご",
+      "meaning": "nursing"
+    },
+    {
+      "word": "護衛",
+      "reading": "ごえい",
+      "meaning": "guard"
+    },
+    {
+      "word": "弁論",
+      "reading": "べんろん",
+      "meaning": "discussion"
+    },
+    {
+      "word": "弁解",
+      "reading": "べんかい",
+      "meaning": "explanation (e.g. for one's actions)"
+    },
+    {
+      "word": "代弁",
+      "reading": "だいべん",
+      "meaning": "speaking by proxy"
+    },
+    {
+      "word": "弁償",
+      "reading": "べんしょう",
+      "meaning": "compensation"
+    },
+    {
+      "word": "勘弁",
+      "reading": "かんべん",
+      "meaning": "pardon"
+    },
+    {
+      "word": "保護",
+      "reading": "ほご",
+      "meaning": "protection"
+    },
+    {
+      "word": "看護婦",
+      "reading": "かんごふ",
+      "meaning": "(female) nurse"
+    },
+    {
+      "word": "弁当",
+      "reading": "べんとう",
+      "meaning": "bento"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自己弁護",
+      "reading": "じこべんご",
+      "meaning": "self-justification",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は非常に優秀な弁護士になれる気がする。",
+      "reading": null,
+      "english": "I have a feeling you'll be a very good lawyer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の弁護士に相談した方がいい。",
+      "reading": null,
+      "english": "Better to get advice from your lawyer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教師の給料は弁護士よりも低い。",
+      "reading": null,
+      "english": "The salary of a teacher is lower than that of a lawyer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "依頼人は弁護士と相談した。",
+      "reading": null,
+      "english": "The client talked with the lawyer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ホワイト氏が彼の弁護人として出廷した。",
+      "reading": null,
+      "english": "Mr White appeared for him in court.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ベンは日記を弁護士が管理するよう委託した。",
+      "reading": null,
+      "english": "Ben committed his diary to the lawyer's care.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ベンは知っていることをすべて弁護士に話すことにした。",
+      "reading": null,
+      "english": "Ben decided to tell the lawyer everything he knew.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ドレークは弁護士のために働くことで暮らしを立てている。",
+      "reading": null,
+      "english": "Drake earns his living by working for the lawyer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どうしてその弁護士はその議論で負けたのだろうか。",
+      "reading": null,
+      "english": "Why did the lawyer lose the argument?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その弁護士への報酬はとても高かった。",
+      "reading": null,
+      "english": "The lawyer's fee was very high.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その弁護士への謝礼はとても高かった。",
+      "reading": null,
+      "english": "The lawyer's fee was very high.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その弁護士は秘書と一緒に出かけた。",
+      "reading": null,
+      "english": "The lawyer went out with the secretary.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その弁護士は大変なやり手なので依頼人が多い。",
+      "reading": null,
+      "english": "Because of his great professional skill, the lawyer has a large number of clients.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

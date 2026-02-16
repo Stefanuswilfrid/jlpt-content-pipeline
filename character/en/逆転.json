@@ -1,0 +1,171 @@
+{
+  "definition": {
+    "word": "逆転",
+    "reading": "ぎゃくてん",
+    "romaji": "gyakuten",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reversal (of a situation)",
+          "turnaround",
+          "turnabout",
+          "turning the tables",
+          "sudden change",
+          "comeback"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reversal (of direction of rotation)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "転換",
+      "reading": "てんかん",
+      "meaning": "conversion"
+    },
+    {
+      "word": "転勤",
+      "reading": "てんきん",
+      "meaning": "job transfer"
+    },
+    {
+      "word": "転じる",
+      "reading": "てんじる",
+      "meaning": "to turn"
+    },
+    {
+      "word": "転落",
+      "reading": "てんらく",
+      "meaning": "fall"
+    },
+    {
+      "word": "転居",
+      "reading": "てんきょ",
+      "meaning": "moving"
+    },
+    {
+      "word": "転ずる",
+      "reading": "てんずる",
+      "meaning": "to turn"
+    },
+    {
+      "word": "自転",
+      "reading": "じてん",
+      "meaning": "rotation (on an axis)"
+    },
+    {
+      "word": "逆立ち",
+      "reading": "さかだち",
+      "meaning": "handstand"
+    },
+    {
+      "word": "転回",
+      "reading": "てんかい",
+      "meaning": "revolution"
+    },
+    {
+      "word": "転任",
+      "reading": "てんにん",
+      "meaning": "change of post"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operation (of a machine)"
+    },
+    {
+      "word": "移転",
+      "reading": "いてん",
+      "meaning": "moving"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "driver"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "bicycle"
+    },
+    {
+      "word": "回転",
+      "reading": "かいてん",
+      "meaning": "rotation"
+    },
+    {
+      "word": "逆",
+      "reading": "ぎゃく",
+      "meaning": "reverse"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "松井、起死回生の逆転満塁サヨナラホームラン！",
+      "reading": null,
+      "english": "Matsui pulled the Giants back from the brink with a grand slam that gave them a come-from-behind victory.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "形勢は逆転した。",
+      "reading": null,
+      "english": "Now the shoe is on the other foot.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "形勢は逆転した。",
+      "reading": null,
+      "english": "Now the shoe is on the other foot.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "松井、起死回生の逆転満塁サヨナラホームラン！",
+      "reading": null,
+      "english": "Matsui pulled the Giants back from the brink with a grand slam that gave them a come-from-behind victory.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "オリンピックのせいで完全に昼夜逆転してる。",
+      "reading": null,
+      "english": "My sleeping patterns have been turned upside down due to the Olympics.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "オリンピックのせいで完全に昼夜逆転してる。",
+      "reading": null,
+      "english": "My sleeping patterns have been turned upside down due to the Olympics.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

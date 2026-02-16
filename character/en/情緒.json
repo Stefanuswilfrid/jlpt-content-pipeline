@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "情緒",
+    "reading": "じょうちょ",
+    "romaji": "joucho",
+    "jlpt": "N1",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "emotion",
+          "feeling"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "atmosphere",
+          "mood",
+          "spirit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "同情",
+      "reading": "どうじょう",
+      "meaning": "sympathy"
+    },
+    {
+      "word": "内緒",
+      "reading": "ないしょ",
+      "meaning": "secrecy"
+    },
+    {
+      "word": "心情",
+      "reading": "しんじょう",
+      "meaning": "sentiment"
+    },
+    {
+      "word": "情勢",
+      "reading": "じょうせい",
+      "meaning": "state of things"
+    },
+    {
+      "word": "情熱",
+      "reading": "じょうねつ",
+      "meaning": "passion"
+    },
+    {
+      "word": "情け",
+      "reading": "なさけ",
+      "meaning": "pity"
+    },
+    {
+      "word": "愛情",
+      "reading": "あいじょう",
+      "meaning": "love"
+    },
+    {
+      "word": "情",
+      "reading": "じょう",
+      "meaning": "feelings"
+    },
+    {
+      "word": "友情",
+      "reading": "ゆうじょう",
+      "meaning": "friendship"
+    },
+    {
+      "word": "事情",
+      "reading": "じじょう",
+      "meaning": "circumstances"
+    },
+    {
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaning": "information"
+    },
+    {
+      "word": "表情",
+      "reading": "ひょうじょう",
+      "meaning": "facial expression"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "(doing) together"
+    },
+    {
+      "word": "感情",
+      "reading": "かんじょう",
+      "meaning": "emotion"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "情緒纏綿",
+      "reading": "じょうしょてんめん",
+      "meaning": "tender sentiments",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異国情緒",
+      "reading": "いこくじょうちょ",
+      "meaning": "exotic mood",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "異国情緒あふれる街並みが続く。",
+      "reading": null,
+      "english": "The streets are filled with an air of exoticism.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "異国情緒あふれる街並みが続く。",
+      "reading": null,
+      "english": "The streets are filled with an air of exoticism.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

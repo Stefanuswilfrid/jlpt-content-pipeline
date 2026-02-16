@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "拡散",
+    "reading": "かくさん",
+    "romaji": "kakusan",
+    "jlpt": "N1",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "spreading",
+          "disseminating",
+          "scattering"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "diffusion (of light, gas)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "分散",
+      "reading": "ぶんさん",
+      "meaning": "dispersion"
+    },
+    {
+      "word": "拡大",
+      "reading": "かくだい",
+      "meaning": "expansion"
+    },
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "breaking up (a meeting, gathering, etc.)"
+    },
+    {
+      "word": "拡充",
+      "reading": "かくじゅう",
+      "meaning": "expansion"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "walk"
+    },
+    {
+      "word": "拡張",
+      "reading": "かくちょう",
+      "meaning": "expansion"
+    },
+    {
+      "word": "散る",
+      "reading": "ちる",
+      "meaning": "to fall (e.g. blossoms, leaves)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "エイズウイルスの拡散は恐るべき速さで進んでいる。",
+      "reading": null,
+      "english": "The speed of the spread of AIDS is horrifyingly fast.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "エイズウイルスの拡散は恐るべき速さで進んでいる。",
+      "reading": null,
+      "english": "The speed of the spread of AIDS is horrifyingly fast.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "definition": {
+    "word": "疲労",
+    "reading": "ひろう",
+    "romaji": "hirou",
+    "jlpt": "N1",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kelelahan",
+          "keletihan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "fatigue (of metal, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "過労",
+      "reading": "かろう",
+      "meaning": "kerja berlebihan, ketegangan"
+    },
+    {
+      "word": "勤労",
+      "reading": "きんろう",
+      "meaning": "kerja keras, usaha, pelayanan yang tekun"
+    },
+    {
+      "word": "労力",
+      "reading": "ろうりょく",
+      "meaning": "kerja keras, usaha, kesulitan"
+    },
+    {
+      "word": "苦労",
+      "reading": "くろう",
+      "meaning": "kesulitan; penderitaan"
+    },
+    {
+      "word": "疲れ",
+      "reading": "つかれ",
+      "meaning": "kelelahan, letih"
+    },
+    {
+      "word": "労働",
+      "reading": "ろうどう",
+      "meaning": "tenaga kerja, pekerjaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "疲労困憊",
+      "reading": "ひろうこんぱい",
+      "meaning": "total exhaustion",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空腹やら疲労やらで、その犬はとうとう死んだ。",
+      "reading": null,
+      "indonesian": "With hunger and fatigue, the dog died at last.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たち全員、かなりの疲労困憊ぶりだった。",
+      "reading": null,
+      "indonesian": "We were all rather exhausted.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "よく激しい疲労感に襲われます。",
+      "reading": null,
+      "indonesian": "I often feel extremely exhausted.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "飛行機でヨーロッパに行った後は、疲労が残る。",
+      "reading": null,
+      "indonesian": "Fatigue follows a flight to Europe.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "欧州への飛行には疲労がつきものである。",
+      "reading": null,
+      "indonesian": "Fatigue follows a flight to Europe.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "欧州までのフライトには疲労がつき物である。",
+      "reading": null,
+      "indonesian": "Fatigue follows a flight to Europe.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "つまり疲労困憊、心も体もクタクタです。",
+      "reading": null,
+      "indonesian": "That is, total exhaustion. Body and soul completely knackered.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "夜眠れなくて彼は疲労して顔色が悪かった。",
+      "reading": null,
+      "indonesian": "He was pale with fatigue after his sleepless night.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "飛行機でヨーロッパに行った後は、疲労が残る。",
+      "reading": null,
+      "indonesian": "Fatigue follows a flight to Europe.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "疲労やら飢えやらで彼は目眩を感じた。",
+      "reading": null,
+      "indonesian": "What with fatigue and hunger, he was faint.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "彼女は激しい疲労のために仕事をやめ一週間休んだ。",
+      "reading": null,
+      "indonesian": "Overwork caused her to be absent from work for a week.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は空腹と疲労で気を失ったが、しばらくして意識を取り戻した。",
+      "reading": null,
+      "indonesian": "He fainted with hunger and fatigue, but came to after a while.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "常に疲労感があります。",
+      "reading": null,
+      "indonesian": "I always have a tired feeling.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日ではパイロットの疲労の方がずっと多いようだ。",
+      "reading": null,
+      "indonesian": "Today pilot fatigue seems more likely.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "definition": {
+    "word": "無線",
+    "reading": "むせん",
+    "romaji": "musen",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nirkabel",
+          "radio"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wireless",
+          "not using wires"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無効",
+      "reading": "むこう",
+      "meaning": "tidak valid, tidak ada efek, tidak tersedia"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "kesunyian"
+    },
+    {
+      "word": "無断",
+      "reading": "むだん",
+      "meaning": "tanpa izin, tanpa pemberitahuan"
+    },
+    {
+      "word": "繊維",
+      "reading": "せんい",
+      "meaning": "serat, tekstil"
+    },
+    {
+      "word": "無用",
+      "reading": "むよう",
+      "meaning": "tidak berguna, tidak perlu, tidak penting"
+    },
+    {
+      "word": "幹線",
+      "reading": "かんせん",
+      "meaning": "jalur utama, jalur cabang"
+    },
+    {
+      "word": "三味線",
+      "reading": "しゃみせん",
+      "meaning": "gitar Jepang tiga senar"
+    },
+    {
+      "word": "無難",
+      "reading": "ぶなん",
+      "meaning": "keselamatan, keamanan"
+    },
+    {
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "rasa malu, penyesalan"
+    },
+    {
+      "word": "沿線",
+      "reading": "えんせん",
+      "meaning": "di sepanjang jalur kereta api"
+    },
+    {
+      "word": "無駄遣い",
+      "reading": "むだづかい",
+      "meaning": "menghamburkan uang untuk, menyia-nyiakan uang untuk"
+    },
+    {
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "meaning": "kepolosan, kesederhanaan pikiran"
+    },
+    {
+      "word": "無口",
+      "reading": "むくち",
+      "meaning": "sikap diam"
+    },
+    {
+      "word": "無知",
+      "reading": "むち",
+      "meaning": "ketidaktahuan"
+    },
+    {
+      "word": "台無し",
+      "reading": "だいなし",
+      "meaning": "berantakan, rusak, (berakhir) tidak ada apa-apa"
+    },
+    {
+      "word": "無能",
+      "reading": "むのう",
+      "meaning": "ketidakefisienan, ketidakmampuan"
+    },
+    {
+      "word": "無意味",
+      "reading": "むいみ",
+      "meaning": "omong kosong, tidak ada artinya"
+    },
+    {
+      "word": "無礼",
+      "reading": "ぶれい",
+      "meaning": "tidak sopan, kasar"
+    },
+    {
+      "word": "無茶",
+      "reading": "むちゃ",
+      "meaning": "tidak masuk akal, tidak masuk akal"
+    },
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "gratis, tanpa biaya"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "マルコーニは無線を発明した。",
+      "reading": null,
+      "indonesian": "Marconi invented the radio.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パイロットは無線で空港と情報を交換する。",
+      "reading": null,
+      "indonesian": "Pilots communicate with the airport by radio.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは敵の無線通信を受信した。",
+      "reading": null,
+      "indonesian": "They monitored the enemy's radio communications.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "電波の発見により、無線通信が可能になった。",
+      "reading": null,
+      "indonesian": "The discovery of electric waves made radio possible.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "船長は無線通信士に遭難信号を打つように命令した。",
+      "reading": null,
+      "indonesian": "The ship's captain ordered the radio operator to send a distress signal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "マルコーニは無線を発明した。",
+      "reading": null,
+      "indonesian": "Marconi invented the radio.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パイロットは無線で空港と情報を交換する。",
+      "reading": null,
+      "indonesian": "Pilots communicate with the airport by radio.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "船長は無線通信士に遭難信号を打つように命令した。",
+      "reading": null,
+      "indonesian": "The ship's captain ordered the radio operator to send a distress signal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "電波の発見により、無線通信が可能になった。",
+      "reading": null,
+      "indonesian": "The discovery of electric waves made radio possible.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは敵の無線通信を受信した。",
+      "reading": null,
+      "indonesian": "They monitored the enemy's radio communications.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "市の防災行政無線放送が聞こえる。",
+      "reading": null,
+      "indonesian": "The city's disaster prevention radio broadcast can be heard.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "市の防災行政無線放送が聞こえる。",
+      "reading": null,
+      "indonesian": "The city's disaster prevention radio broadcast can be heard.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

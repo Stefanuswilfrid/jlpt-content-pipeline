@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "只管",
+    "reading": "ひたすら",
+    "romaji": "hitasura",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "intently",
+          "single-mindedly",
+          "devotedly",
+          "solely",
+          "earnestly",
+          "with all one's heart"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "只",
+      "reading": "ただ",
+      "meaning": "ordinary"
+    },
+    {
+      "word": "保管",
+      "reading": "ほかん",
+      "meaning": "charge"
+    },
+    {
+      "word": "血管",
+      "reading": "けっかん",
+      "meaning": "blood vessel"
+    },
+    {
+      "word": "管",
+      "reading": "くだ",
+      "meaning": "pipe"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "只管打坐",
+      "reading": "しかんたざ",
+      "meaning": "shikantaza",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼はひたすら成功を望んで懸命に働く。",
+      "reading": null,
+      "english": "He works hard because he is anxious to succeed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分が遅刻したことを、ひたすら謝ったよ。",
+      "reading": null,
+      "english": "I apologized profusely for my being late.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はひたすら成功を望んで懸命に働く。",
+      "reading": null,
+      "english": "He works hard because he is anxious to succeed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分が遅刻したことを、ひたすら謝ったよ。",
+      "reading": null,
+      "english": "I apologized profusely for my being late.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "definition": {
+    "word": "真実",
+    "reading": "しんじつ",
+    "romaji": "shinjitsu",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "truth",
+          "reality"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "truly",
+          "really"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "absolute truth"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "実態",
+      "reading": "じったい",
+      "meaning": "true state"
+    },
+    {
+      "word": "充実",
+      "reading": "じゅうじつ",
+      "meaning": "fullness"
+    },
+    {
+      "word": "真相",
+      "reading": "しんそう",
+      "meaning": "truth"
+    },
+    {
+      "word": "実家",
+      "reading": "じっか",
+      "meaning": "(one's parents') home"
+    },
+    {
+      "word": "実践",
+      "reading": "じっせん",
+      "meaning": "practice"
+    },
+    {
+      "word": "誠実",
+      "reading": "せいじつ",
+      "meaning": "sincere"
+    },
+    {
+      "word": "実業家",
+      "reading": "じつぎょうか",
+      "meaning": "businessperson"
+    },
+    {
+      "word": "切実",
+      "reading": "せつじつ",
+      "meaning": "earnest"
+    },
+    {
+      "word": "誠に",
+      "reading": "まことに",
+      "meaning": "really"
+    },
+    {
+      "word": "誠",
+      "reading": "まこと",
+      "meaning": "truth"
+    },
+    {
+      "word": "真珠",
+      "reading": "しんじゅ",
+      "meaning": "pearl"
+    },
+    {
+      "word": "真っ二つ",
+      "reading": "まっぷたつ",
+      "meaning": "in two equal parts"
+    },
+    {
+      "word": "実費",
+      "reading": "じっぴ",
+      "meaning": "actual expenses"
+    },
+    {
+      "word": "真上",
+      "reading": "まうえ",
+      "meaning": "right above"
+    },
+    {
+      "word": "真下",
+      "reading": "ました",
+      "meaning": "right under"
+    },
+    {
+      "word": "真心",
+      "reading": "まごころ",
+      "meaning": "sincerity"
+    },
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "certain"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaning": "experiment"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementation (e.g. of a system)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "真実一路",
+      "reading": "しんじついちろ",
+      "meaning": "path of sincerity",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "真実のみが美しい。",
+      "reading": null,
+      "english": "Nothing is beautiful but the truth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "作り事はすべて、真実だ。",
+      "reading": null,
+      "english": "All that which is invented, is true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "証明もできないのに、一体何を真実だと信じるのだ？",
+      "reading": null,
+      "english": "What do you believe is true even though you cannot prove it?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは全くの真実です。",
+      "reading": null,
+      "english": "That's the absolute truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どんな意見も真実と誤りの混合だ。",
+      "reading": null,
+      "english": "Every opinion is a mixture of truth and mistakes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "真実のみが美しい。",
+      "reading": null,
+      "english": "Nothing is beautiful but the truth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "作り事はすべて、真実だ。",
+      "reading": null,
+      "english": "All that which is invented, is true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "証明もできないのに、一体何を真実だと信じるのだ？",
+      "reading": null,
+      "english": "What do you believe is true even though you cannot prove it?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは全くの真実です。",
+      "reading": null,
+      "english": "That's the absolute truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼に真実を話すべきだ。",
+      "reading": null,
+      "english": "You should tell him the truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼に真実を伝えた方がよい。",
+      "reading": null,
+      "english": "You should tell him the truth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼に真実を伝えた方がよい。",
+      "reading": null,
+      "english": "You had better tell him the truth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は私に真実を言うべきだったのに。",
+      "reading": null,
+      "english": "You should have told me the truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

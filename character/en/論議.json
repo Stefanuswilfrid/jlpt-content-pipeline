@@ -1,0 +1,240 @@
+{
+  "definition": {
+    "word": "論議",
+    "reading": "ろんぎ",
+    "romaji": "rongi",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "discussion",
+          "argument",
+          "debate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "決議",
+      "reading": "けつぎ",
+      "meaning": "resolution"
+    },
+    {
+      "word": "審議",
+      "reading": "しんぎ",
+      "meaning": "deliberation"
+    },
+    {
+      "word": "世論",
+      "reading": "よろん",
+      "meaning": "public opinion"
+    },
+    {
+      "word": "抗議",
+      "reading": "こうぎ",
+      "meaning": "protest"
+    },
+    {
+      "word": "討論",
+      "reading": "とうろん",
+      "meaning": "debate"
+    },
+    {
+      "word": "理論",
+      "reading": "りろん",
+      "meaning": "theory"
+    },
+    {
+      "word": "論理",
+      "reading": "ろんり",
+      "meaning": "logic"
+    },
+    {
+      "word": "議題",
+      "reading": "ぎだい",
+      "meaning": "topic of discussion"
+    },
+    {
+      "word": "参議院",
+      "reading": "さんぎいん",
+      "meaning": "House of Councillors (upper house of the National Diet of Japan)"
+    },
+    {
+      "word": "討議",
+      "reading": "とうぎ",
+      "meaning": "debate"
+    },
+    {
+      "word": "議論",
+      "reading": "ぎろん",
+      "meaning": "argument"
+    },
+    {
+      "word": "異論",
+      "reading": "いろん",
+      "meaning": "different opinion"
+    },
+    {
+      "word": "言論",
+      "reading": "げんろん",
+      "meaning": "(one's) speech"
+    },
+    {
+      "word": "議決",
+      "reading": "ぎけつ",
+      "meaning": "resolution"
+    },
+    {
+      "word": "異議",
+      "reading": "いぎ",
+      "meaning": "objection"
+    },
+    {
+      "word": "衆議院",
+      "reading": "しゅうぎいん",
+      "meaning": "House of Representatives (lower house of the National Diet of Japan)"
+    },
+    {
+      "word": "弁論",
+      "reading": "べんろん",
+      "meaning": "discussion"
+    },
+    {
+      "word": "議案",
+      "reading": "ぎあん",
+      "meaning": "legislative bill"
+    },
+    {
+      "word": "議事堂",
+      "reading": "ぎじどう",
+      "meaning": "assembly hall"
+    },
+    {
+      "word": "物議",
+      "reading": "ぶつぎ",
+      "meaning": "public discussion"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "論議は最後に喧嘩になった。",
+      "reading": null,
+      "english": "The argument ended in a fight.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "論議を終えましょう。",
+      "reading": null,
+      "english": "Let's be done with the argument.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それを今論議するのはまだ早い。",
+      "reading": null,
+      "english": "It is premature to discuss it now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その問題は自然に論議を呼びました。",
+      "reading": null,
+      "english": "That problem naturally invited debate.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その問題は会合で激しく論議された。",
+      "reading": null,
+      "english": "The question was hotly disputed in the meeting.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのことで彼と論議しても無駄だ。",
+      "reading": null,
+      "english": "It is no use arguing with him about it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その計画は詳細に論議された。",
+      "reading": null,
+      "english": "The plan was discussed in detail.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この論議はやめようではないか。",
+      "reading": null,
+      "english": "Let's put a stop to this discussion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "論議を終えましょう。",
+      "reading": null,
+      "english": "Let's be done with the argument.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "論議を終えましょう。",
+      "reading": null,
+      "english": "Let's end this debate.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "論議は最後に喧嘩になった。",
+      "reading": null,
+      "english": "The argument ended in a fight.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはその問題を論議した。",
+      "reading": null,
+      "english": "They discussed the problem.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は彼女と論議するほどばかではない。",
+      "reading": null,
+      "english": "He knows better than to argue with her.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は私の論議でやり込められた。",
+      "reading": null,
+      "english": "He was floored by my argument.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "焦る",
+    "reading": "あせる",
+    "romaji": "aseru",
+    "jlpt": "N1",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "terburu-buru",
+          "tidak sabar"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get a fright",
+          "to panic",
+          "to get flustered",
+          "to be startled"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "焦げる",
+      "reading": "こげる",
+      "meaning": "terbakar, dibakar"
+    },
+    {
+      "word": "焦がす",
+      "reading": "こがす",
+      "meaning": "membakar, menghanguskan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "教習所の教師にそう焦るなと言われています。",
+      "reading": null,
+      "indonesian": "My driving instructor says I should be more patient.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "教習所の教師にそう焦るなと言われています。",
+      "reading": null,
+      "indonesian": "My driving instructor says I should be more patient.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "焦るな。落ち着いて選んで。",
+      "reading": null,
+      "indonesian": "Don't rush. Choose calmly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなに焦るな。",
+      "reading": null,
+      "indonesian": "Don't be so impatient.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなに焦るな。",
+      "reading": null,
+      "indonesian": "Don't be so impatient.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "焦るな。落ち着いて選んで。",
+      "reading": null,
+      "indonesian": "Don't rush. Choose calmly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

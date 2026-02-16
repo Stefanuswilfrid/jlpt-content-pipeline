@@ -1,0 +1,194 @@
+{
+  "definition": {
+    "word": "開発",
+    "reading": "かいはつ",
+    "romaji": "kaihatsu",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "development",
+          "exploitation (of resources)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "statement"
+    },
+    {
+      "word": "開催",
+      "reading": "かいさい",
+      "meaning": "holding (a conference, exhibition, etc.)"
+    },
+    {
+      "word": "反発",
+      "reading": "はんぱつ",
+      "meaning": "opposition"
+    },
+    {
+      "word": "活発",
+      "reading": "かっぱつ",
+      "meaning": "lively"
+    },
+    {
+      "word": "発生",
+      "reading": "はっせい",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "発足",
+      "reading": "ほっそく",
+      "meaning": "starting"
+    },
+    {
+      "word": "打開",
+      "reading": "だかい",
+      "meaning": "break in the deadlock"
+    },
+    {
+      "word": "再発",
+      "reading": "さいはつ",
+      "meaning": "return"
+    },
+    {
+      "word": "発掘",
+      "reading": "はっくつ",
+      "meaning": "excavation"
+    },
+    {
+      "word": "発作",
+      "reading": "ほっさ",
+      "meaning": "fit"
+    },
+    {
+      "word": "開拓",
+      "reading": "かいたく",
+      "meaning": "reclamation (e.g. of wasteland)"
+    },
+    {
+      "word": "発病",
+      "reading": "はつびょう",
+      "meaning": "onset of an illness"
+    },
+    {
+      "word": "始発",
+      "reading": "しはつ",
+      "meaning": "first departure (of the day)"
+    },
+    {
+      "word": "発育",
+      "reading": "はついく",
+      "meaning": "(physical) growth"
+    },
+    {
+      "word": "発芽",
+      "reading": "はつが",
+      "meaning": "germination"
+    },
+    {
+      "word": "未開",
+      "reading": "みかい",
+      "meaning": "uncivilized"
+    },
+    {
+      "word": "切開",
+      "reading": "せっかい",
+      "meaning": "incision"
+    },
+    {
+      "word": "開始",
+      "reading": "かいし",
+      "meaning": "start"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaning": "opening (a door, window, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "教育は潜在する能力の開発をめざすものだ。",
+      "reading": null,
+      "english": "Education aims to develop potential abilities.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "海底油田の開発をしたい。",
+      "reading": null,
+      "english": "We want to explore an underwater oil field.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我が国は自国の天然資源を開発しなければならない。",
+      "reading": null,
+      "english": "Our country must develop its natural resources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その地方は大規模に開発されるだろう。",
+      "reading": null,
+      "english": "It seems the rural area will be developed on a large scale.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その会社は１か月おきに新製品を開発している。",
+      "reading": null,
+      "english": "The company develops new products every other month.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "エンドユーザーの視野にたった商品開発が必須。",
+      "reading": null,
+      "english": "Our new product development efforts must be done from the end user's viewpoint.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "いくつかの地方自治体では開発を禁止した。",
+      "reading": null,
+      "english": "Localities imposed bans on development.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あぶく銭を稼ごうとする開発業者たちよ。",
+      "reading": null,
+      "english": "They're some developers who aim to make a fast buck!",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "「ソフトウェア開発」は「モノ作り」ではない。",
+      "reading": null,
+      "english": "\"Software development\" isn't \"manufacture\".",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

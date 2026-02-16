@@ -1,0 +1,161 @@
+{
+  "definition": {
+    "word": "派遣",
+    "reading": "はけん",
+    "romaji": "haken",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "dispatch",
+          "despatch",
+          "deployment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "temporary employee (esp. from an agency)",
+          "temporary worker",
+          "agency temp"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無駄遣い",
+      "reading": "むだづかい",
+      "meaning": "waste (of money, time, etc.)"
+    },
+    {
+      "word": "特派",
+      "reading": "とくは",
+      "meaning": "send specially"
+    },
+    {
+      "word": "お使い",
+      "reading": "おつかい",
+      "meaning": "errand"
+    },
+    {
+      "word": "使う",
+      "reading": "つかう",
+      "meaning": "to use (a tool, method, etc.)"
+    },
+    {
+      "word": "派手",
+      "reading": "はで",
+      "meaning": "showy"
+    },
+    {
+      "word": "仮名遣い",
+      "reading": "かなづかい",
+      "meaning": "kana orthography"
+    },
+    {
+      "word": "小遣い",
+      "reading": "こづかい",
+      "meaning": "pocket money"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外国へ派遣されると考えただけで彼らはうれしくなった。",
+      "reading": null,
+      "english": "The very idea of being sent abroad delighted them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "営業員をこの新しい取引先に派遣してください。",
+      "reading": null,
+      "english": "Please send your sales reps to this new account.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "マンパワーは世界で一番大きな人材派遣会社です。",
+      "reading": null,
+      "english": "\"Manpower\" is the world's largest temp agency.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのため、派遣労働者は劣悪な労働条件の下で働いている。",
+      "reading": null,
+      "english": "For that reason, temporary workers are working under inferior conditions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "せっかく採用した派遣社員がすぐに辞めてしまった。",
+      "reading": null,
+      "english": "The temporary workers that we managed to employ left work right away.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "政府が自衛隊に沖縄への災害派遣を要請した。",
+      "reading": null,
+      "english": "The government asked the SDF for a disaster relief deployment to Okinawa.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "暴動を鎮圧するために直ちに軍隊が派遣された。",
+      "reading": null,
+      "english": "Troops were swiftly called in to put down the riot.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は派遣社員です。",
+      "reading": null,
+      "english": "She is a temp.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は特別な任務でヨーロッパに派遣された。",
+      "reading": null,
+      "english": "He was sent on a special mission to Europe.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は特派員として海外に派遣された。",
+      "reading": null,
+      "english": "He was sent abroad as a correspondent.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "政府は外国へ使節を派遣した。",
+      "reading": null,
+      "english": "The government dispatched missions abroad.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

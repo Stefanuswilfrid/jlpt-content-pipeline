@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "折衷",
+    "reading": "せっちゅう",
+    "romaji": "setchuu",
+    "jlpt": "N1",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "kompromi",
+          "persilangan",
+          "perpaduan",
+          "eklektisisme"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "折",
+      "reading": "おり",
+      "meaning": "kesempatan, peristiwa"
+    },
+    {
+      "word": "折り返す",
+      "reading": "おりかえす",
+      "meaning": "untuk muncul, untuk dilipat kembali"
+    },
+    {
+      "word": "屈折",
+      "reading": "くっせつ",
+      "meaning": "pembengkokan, lekukan, pembiasan"
+    },
+    {
+      "word": "折角",
+      "reading": "せっかく",
+      "meaning": "dengan susah payah, dengan susah payah, yang telah lama ditunggu-tunggu"
+    },
+    {
+      "word": "骨折",
+      "reading": "こっせつ",
+      "meaning": "patah tulang"
+    },
+    {
+      "word": "折る",
+      "reading": "おる",
+      "meaning": "patah, retak; bengkok"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "和洋折衷",
+      "reading": "わようせっちゅう",
+      "meaning": "blending of Japanese and Western styles",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "雅俗折衷",
+      "reading": "がぞくせっちゅう",
+      "meaning": "blending of the classical and colloquial styles",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼は和洋折衷の家に住んでいる。",
+      "reading": null,
+      "indonesian": "He lives in a house built in a semi foreign style.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は和洋折衷の家に住んでいる。",
+      "reading": null,
+      "indonesian": "He lives in a house built in a semi foreign style.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

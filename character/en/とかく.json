@@ -1,0 +1,234 @@
+{
+  "definition": {
+    "word": "兎角",
+    "reading": "とかく",
+    "romaji": "tokaku",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "(doing) various things",
+          "(doing) this and that"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "being apt to",
+          "being prone to",
+          "tending to"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "at any rate",
+          "anyhow",
+          "anyway"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "all sorts of (negative things)",
+          "various"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "things that do not exist",
+          "rabbit horns"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "角",
+      "reading": "かど",
+      "meaning": "corner"
+    },
+    {
+      "word": "角度",
+      "reading": "かくど",
+      "meaning": "angle"
+    },
+    {
+      "word": "角",
+      "reading": "かく",
+      "meaning": "angle"
+    },
+    {
+      "word": "角",
+      "reading": "つの",
+      "meaning": "horn"
+    },
+    {
+      "word": "四つ角",
+      "reading": "よつかど",
+      "meaning": "four corners"
+    },
+    {
+      "word": "折角",
+      "reading": "せっかく",
+      "meaning": "with trouble"
+    },
+    {
+      "word": "三角",
+      "reading": "さんかく",
+      "meaning": "triangle"
+    },
+    {
+      "word": "街角",
+      "reading": "まちかど",
+      "meaning": "street corner"
+    },
+    {
+      "word": "隅",
+      "reading": "すみ",
+      "meaning": "corner"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "亀毛兎角",
+      "reading": "きもうとかく",
+      "meaning": "things that do not exist",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "兎角亀毛",
+      "reading": "とかくきもう",
+      "meaning": "things that do not exist",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "寒い季節に入ると、体の弱い人はとかく風邪を引きやすい。",
+      "reading": null,
+      "english": "Those who are delicate in health are apt to catch a cold when the cold season sets in.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "学のある人はとかく無知な人を軽蔑する。",
+      "reading": null,
+      "english": "The learned are apt to despise the ignorant.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "運動が健康の鍵であるのを私たちはとかく忘れがちだ。",
+      "reading": null,
+      "english": "We tend to forget that exercise is a key to good health.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "とかくするうちに年が明けた。",
+      "reading": null,
+      "english": "Meanwhile, a new year began.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "事故はとかく起こりがちなもの。",
+      "reading": null,
+      "english": "Accidents will happen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ティーカップの入っている小包には取り扱い注意とかくべきです。",
+      "reading": null,
+      "english": "You should write HANDLE WITH CARE on the parcel that contains the teacups.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あの人にはとかくのうわさがあった。",
+      "reading": null,
+      "english": "There were some unsavory rumors about him.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "面と向かって誉めるような人は、とかく陰で悪口を言うものだ。",
+      "reading": null,
+      "english": "Such men as praise you to your face are apt to speak ill of you behind your back.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "男の子はとかく危険を冒すものだ。",
+      "reading": null,
+      "english": "Boys will run risks.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人はとかく自分の欠点に気が付かないものだ。",
+      "reading": null,
+      "english": "People often don't notice their own faults.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "若い人はとかくそんなふうに行動するものだ。",
+      "reading": null,
+      "english": "Young people are apt to behave that way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "事故はとかく起こりがちなもの。",
+      "reading": null,
+      "english": "Accidents will happen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私たちはとかく怠惰になりがちである。",
+      "reading": null,
+      "english": "We are liable to be lazy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "寒い季節に入ると、体の弱い人はとかく風邪を引きやすい。",
+      "reading": null,
+      "english": "Those who are delicate in health are apt to catch a cold when the cold season sets in.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

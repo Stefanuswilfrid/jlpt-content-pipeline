@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "薄弱",
+    "reading": "はくじゃく",
+    "romaji": "hakujaku",
+    "jlpt": "N1",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "feebleness",
+          "weakness"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "弱",
+      "reading": "じゃく",
+      "meaning": "a little less than"
+    },
+    {
+      "word": "貧弱",
+      "reading": "ひんじゃく",
+      "meaning": "poor"
+    },
+    {
+      "word": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "weak point"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "意志薄弱",
+      "reading": "いしはくじゃく",
+      "meaning": "weak-willed",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "こいつは意志薄弱な男です。",
+      "reading": null,
+      "english": "He's a weak-willed man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こいつは意志薄弱な男です。",
+      "reading": null,
+      "english": "He's a weak-willed man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "早くも、意志薄弱ぶりを発揮した。",
+      "reading": null,
+      "english": "He's already shown his weak-willed nature.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "早くも、意志薄弱ぶりを発揮した。",
+      "reading": null,
+      "english": "He's already shown his weak-willed nature.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

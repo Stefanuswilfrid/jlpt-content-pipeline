@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "損なう",
+    "reading": "そこなう",
+    "romaji": "sokonau",
+    "jlpt": "N1",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menyakiti",
+          "melukai"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'u' ending"
+        ],
+        "meanings": [
+          "to fail to do",
+          "to do amiss",
+          "to miss one's opportunity to do"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'u' ending"
+        ],
+        "meanings": [
+          "to almost do",
+          "to come close to doing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "破損",
+      "reading": "はそん",
+      "meaning": "kerusakan"
+    },
+    {
+      "word": "損失",
+      "reading": "そんしつ",
+      "meaning": "kehilangan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "女賢しくて牛売り損なう",
+      "reading": "おんなさかしくてうしうりそこなう",
+      "meaning": "even a clever woman is bound to mess up",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,180 @@
+{
+  "definition": {
+    "word": "源",
+    "reading": "みなもと",
+    "romaji": "minamoto",
+    "jlpt": "N1",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "source (of a river)",
+          "fountainhead"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "source",
+          "origin",
+          "root"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "財源",
+      "reading": "ざいげん",
+      "meaning": "source of funds"
+    },
+    {
+      "word": "電源",
+      "reading": "でんげん",
+      "meaning": "source of electricity"
+    },
+    {
+      "word": "水源",
+      "reading": "すいげん",
+      "meaning": "source of river"
+    },
+    {
+      "word": "語源",
+      "reading": "ごげん",
+      "meaning": "origin of a word"
+    },
+    {
+      "word": "資源",
+      "reading": "しげん",
+      "meaning": "resources"
+    },
+    {
+      "word": "起源",
+      "reading": "きげん",
+      "meaning": "origin"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "武陵桃源",
+      "reading": "ぶりょうとうげん",
+      "meaning": "earthly paradise",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "医食同源",
+      "reading": "いしょくどうげん",
+      "meaning": "a balanced diet leads to a healthy body",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "抜本塞源",
+      "reading": "ばっぽんそくげん",
+      "meaning": "eradication of (sources of) evil",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたにとってひらめきの最大の源は何？",
+      "reading": null,
+      "english": "What is your greatest source of inspiration?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたにとってひらめきの最大の源は何？",
+      "reading": null,
+      "english": "What is your greatest source of inspiration?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金は諸悪の根源。",
+      "reading": null,
+      "english": "Money is the root of all evil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "議会は１４世紀英国にその起源がある。",
+      "reading": null,
+      "english": "Parliament has its beginnings in 14th-century England.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "記者はその情報源を明かすことを拒んだ。",
+      "reading": null,
+      "english": "The reporter refused to name his sources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "鎌倉は源氏ゆかりの地です。",
+      "reading": null,
+      "english": "Kamakura is a place noted in connection with the Genji family.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海は各種の資源を与えてくれる。",
+      "reading": null,
+      "english": "The ocean affords various kinds of resources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "回路を調べる前に、電源のスイッチを切りなさい。",
+      "reading": null,
+      "english": "You must switch off the power before checking the circuit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は天然資源をもっと有効に利用する必要がある。",
+      "reading": null,
+      "english": "We had better utilize our natural resources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は天然の資源を保存するように勤めなければならない。",
+      "reading": null,
+      "english": "We must try to conserve our natural resources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は資源が限られている。",
+      "reading": null,
+      "english": "We have limited resources.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々はエネルギー資源を浪費してはいけない。",
+      "reading": null,
+      "english": "We mustn't waste our energy resources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "definition": {
+    "word": "推測",
+    "reading": "すいそく",
+    "romaji": "suisoku",
+    "jlpt": "N1",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "guess",
+          "conjecture"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "推理",
+      "reading": "すいり",
+      "meaning": "reasoning"
+    },
+    {
+      "word": "推進",
+      "reading": "すいしん",
+      "meaning": "propulsion"
+    },
+    {
+      "word": "類推",
+      "reading": "るいすい",
+      "meaning": "analogy"
+    },
+    {
+      "word": "測量",
+      "reading": "そくりょう",
+      "meaning": "measurement"
+    },
+    {
+      "word": "推薦",
+      "reading": "すいせん",
+      "meaning": "recommendation"
+    },
+    {
+      "word": "観測",
+      "reading": "かんそく",
+      "meaning": "observation"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediction"
+    },
+    {
+      "word": "推定",
+      "reading": "すいてい",
+      "meaning": "presumption"
+    },
+    {
+      "word": "測定",
+      "reading": "そくてい",
+      "meaning": "measurement"
+    },
+    {
+      "word": "計る",
+      "reading": "はかる",
+      "meaning": "to measure"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の推測は的はずれだ。",
+      "reading": null,
+      "english": "You're wide of the mark.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の推測はまったく的外れだ。",
+      "reading": null,
+      "english": "Your guess is entirely off the mark.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々はそこから推測できることがわかり始めた。",
+      "reading": null,
+      "english": "We began to see what we can deduce from it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは推測に基づいている。",
+      "reading": null,
+      "english": "It is founded on supposition.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いずれにしてもあなたの推測は間違っている。",
+      "reading": null,
+      "english": "In any case, you are wrong in your conjecture.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたも同意見だと推測します。",
+      "reading": null,
+      "english": "I gather you'll agree with me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の推測は的はずれだ。",
+      "reading": null,
+      "english": "Your guess is wrong.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "僕は彼が試合に勝つのではないかと推測している。",
+      "reading": null,
+      "english": "I am speculating that he may win the game.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の年齢を推測できますか。",
+      "reading": null,
+      "english": "Can you guess her age?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の推測は当たった。",
+      "reading": null,
+      "english": "She guessed right.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の異常なふるまいから何を推測しますか。",
+      "reading": null,
+      "english": "What do you infer from her strange behavior?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの話し振りから、私は彼らが結婚していると推測した。",
+      "reading": null,
+      "english": "From the way they talked, I presumed they were married.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の推測は結局正しいことが判明した。",
+      "reading": null,
+      "english": "His guess turned out to be right.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "鈍る",
+    "reading": "にぶる",
+    "romaji": "niburu",
+    "jlpt": "N1",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menjadi kurang mampu",
+          "menjadi tumpul",
+          "menjadi lemah"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become less capable",
+          "to weaken",
+          "to falter"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "鈍感",
+      "reading": "どんかん",
+      "meaning": "kekeraskepalaan, keteguhan hati"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "飲めば飲むほど注意力が鈍る。",
+      "reading": null,
+      "indonesian": "The more you drink, the less careful you will be.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "飲めば飲むほど注意力が鈍る。",
+      "reading": null,
+      "indonesian": "The more you drink, the less careful you will be.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "案じる",
+    "reading": "あんじる",
+    "romaji": "anjiru",
+    "jlpt": "N1",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be anxious (about)",
+          "to be concerned (about)",
+          "to worry (about)",
+          "to fear"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to think out (e.g. a plan)",
+          "to work out",
+          "to devise",
+          "to consider",
+          "to ponder"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to investigate"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stroke",
+          "to rub",
+          "to pat",
+          "to grasp (the hilt of one's sword)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "提案",
+      "reading": "ていあん",
+      "meaning": "proposal"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "guidance"
+    },
+    {
+      "word": "法案",
+      "reading": "ほうあん",
+      "meaning": "bill (law)"
+    },
+    {
+      "word": "議案",
+      "reading": "ぎあん",
+      "meaning": "legislative bill"
+    },
+    {
+      "word": "案の定",
+      "reading": "あんのじょう",
+      "meaning": "as expected"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

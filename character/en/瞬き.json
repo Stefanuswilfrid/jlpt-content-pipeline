@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "瞬き",
+    "reading": "まばたき",
+    "romaji": "mabataki",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "blink (of eyes)",
+          "wink"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "twinkling (of stars)",
+          "flicker (of light)",
+          "blink (of light)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "moment"
+    },
+    {
+      "word": "一瞬",
+      "reading": "いっしゅん",
+      "meaning": "instant"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "人って、1分間に平均何回瞬きをするの？",
+      "reading": null,
+      "english": "On average, how many times per minute does a person blink?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人って、1分間に平均何回瞬きをするの？",
+      "reading": null,
+      "english": "On average, how many times per minute does a person blink?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

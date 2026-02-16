@@ -1,0 +1,238 @@
+{
+  "definition": {
+    "word": "観点",
+    "reading": "かんてん",
+    "romaji": "kanten",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "point of view",
+          "viewpoint",
+          "standpoint",
+          "perspective",
+          "angle"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "得点",
+      "reading": "とくてん",
+      "meaning": "scoring"
+    },
+    {
+      "word": "原点",
+      "reading": "げんてん",
+      "meaning": "starting point"
+    },
+    {
+      "word": "点検",
+      "reading": "てんけん",
+      "meaning": "detailed inspection"
+    },
+    {
+      "word": "悲観",
+      "reading": "ひかん",
+      "meaning": "pessimism"
+    },
+    {
+      "word": "楽観",
+      "reading": "らっかん",
+      "meaning": "optimism"
+    },
+    {
+      "word": "逆転",
+      "reading": "ぎゃくてん",
+      "meaning": "reversal (of a situation)"
+    },
+    {
+      "word": "観衆",
+      "reading": "かんしゅう",
+      "meaning": "spectators"
+    },
+    {
+      "word": "客観",
+      "reading": "きゃっかん",
+      "meaning": "objectivity"
+    },
+    {
+      "word": "利点",
+      "reading": "りてん",
+      "meaning": "advantage"
+    },
+    {
+      "word": "外観",
+      "reading": "がいかん",
+      "meaning": "outward appearance"
+    },
+    {
+      "word": "起点",
+      "reading": "きてん",
+      "meaning": "starting point"
+    },
+    {
+      "word": "観覧",
+      "reading": "かんらん",
+      "meaning": "viewing"
+    },
+    {
+      "word": "主観",
+      "reading": "しゅかん",
+      "meaning": "subjectivity"
+    },
+    {
+      "word": "盲点",
+      "reading": "もうてん",
+      "meaning": "blind spot (on the retina)"
+    },
+    {
+      "word": "観光",
+      "reading": "かんこう",
+      "meaning": "sightseeing"
+    },
+    {
+      "word": "観測",
+      "reading": "かんそく",
+      "meaning": "observation"
+    },
+    {
+      "word": "焦点",
+      "reading": "しょうてん",
+      "meaning": "focus"
+    },
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaning": "spectator"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々の観点から言うと、彼の提案は妥当なものだ。",
+      "reading": null,
+      "english": "From our point of view, his proposal is reasonable.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その問題を別の観点から見てみましょう。",
+      "reading": null,
+      "english": "Let's look at the problem from a different point of view.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その問題をあらゆる観点から考えなければならない。",
+      "reading": null,
+      "english": "We must consider the question from every aspect.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その事実は科学の観点からすれば非常に重要です。",
+      "reading": null,
+      "english": "That fact is of great importance from the viewpoint of science.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その事実は、科学の観点からすれば、非常に重大です。",
+      "reading": null,
+      "english": "The fact is of great importance from the viewpoint of science.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この観点からすれば、彼は正しかったと言えよう。",
+      "reading": null,
+      "english": "From this point of view we should say he was right.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今日は道徳の観点からこの問題について討論しようと思います。",
+      "reading": null,
+      "english": "Today we are going to discuss this problem in terms of morality.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "いろいろな観点からその問題を検討できる。",
+      "reading": null,
+      "english": "We can consider the problem from several standpoints.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは、全てをお金の観点で見ている。",
+      "reading": null,
+      "english": "You see everything in terms of money.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この内大事なのは第二目の観点である。",
+      "reading": null,
+      "english": "Among these views, the second one is of importance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "法律の観点からすると、彼は自由だ。",
+      "reading": null,
+      "english": "From the standpoint of the law, he is free.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "母は何でもお金の観点から考える。",
+      "reading": null,
+      "english": "My mother thinks of everything in terms of money.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの家具はデザインよりむしろ実用性の観点から選ばれていた。",
+      "reading": null,
+      "english": "Their furniture was chosen for utility rather than style.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は私を違った観点から見るようになった。",
+      "reading": null,
+      "english": "He came to see me in a different light.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は私を違った観点から見るようになった。",
+      "reading": null,
+      "english": "He came to see me in a different way.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

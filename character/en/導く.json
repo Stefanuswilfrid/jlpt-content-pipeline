@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "導く",
+    "reading": "みちびく",
+    "romaji": "michibiku",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to guide",
+          "to lead",
+          "to show the way",
+          "to conduct"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to derive",
+          "to deduce"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "誘導",
+      "reading": "ゆうどう",
+      "meaning": "guidance"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaning": "introduction"
+    },
+    {
+      "word": "主導",
+      "reading": "しゅどう",
+      "meaning": "leadership"
+    },
+    {
+      "word": "報道",
+      "reading": "ほうどう",
+      "meaning": "report (of news)"
+    },
+    {
+      "word": "指導",
+      "reading": "しどう",
+      "meaning": "guidance"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "盲人が盲人を導く",
+      "reading": "もうじんがもうじんをみちびく",
+      "meaning": "the blind leading the blind",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

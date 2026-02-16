@@ -1,0 +1,195 @@
+{
+  "definition": {
+    "word": "支持",
+    "reading": "しじ",
+    "romaji": "shiji",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "support",
+          "backing",
+          "endorsement",
+          "approval"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "propping up",
+          "holding up",
+          "support"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "収支",
+      "reading": "しゅうし",
+      "meaning": "income and expenditure"
+    },
+    {
+      "word": "持続",
+      "reading": "じぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "所持",
+      "reading": "しょじ",
+      "meaning": "possession"
+    },
+    {
+      "word": "維持",
+      "reading": "いじ",
+      "meaning": "maintenance"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "feeling"
+    },
+    {
+      "word": "支店",
+      "reading": "してん",
+      "meaning": "branch office"
+    },
+    {
+      "word": "支配",
+      "reading": "しはい",
+      "meaning": "rule"
+    },
+    {
+      "word": "支出",
+      "reading": "ししゅつ",
+      "meaning": "expenditure"
+    },
+    {
+      "word": "支給",
+      "reading": "しきゅう",
+      "meaning": "provision"
+    },
+    {
+      "word": "支払う",
+      "reading": "しはらう",
+      "meaning": "to pay"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は軍備縮小を支持すべきだ。",
+      "reading": null,
+      "english": "You should advocate disarmament.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の申し出に関して、私は君を支持したい。",
+      "reading": null,
+      "english": "With reference to your request, I will support.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "会議に出席した人々は、その法案を支持した。",
+      "reading": null,
+      "english": "Those present at the meeting supported the bill.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "会議に出席した人はその法案を支持した。",
+      "reading": null,
+      "english": "Those present at the meeting supported the bill.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は彼が支持してくれるものと思っていた。",
+      "reading": null,
+      "english": "We expected him to support us.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々はこぞって君を支持する。",
+      "reading": null,
+      "english": "We are solidly behind you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々には互いに支持しあおうという暗黙の了解があった。",
+      "reading": null,
+      "english": "We had an implicit agreement that we would support each other.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何が起ころうと、君を支持するよ。",
+      "reading": null,
+      "english": "I'll stand by you whatever happens.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは彼を支持したい気がする。",
+      "reading": null,
+      "english": "We are inclined to stand up for him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたが支持してくれるなら、やりましょう。",
+      "reading": null,
+      "english": "I will do it on condition that you support me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "できるだけあなたを支持します。",
+      "reading": null,
+      "english": "I'll support you as much as I can.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その団体は政府への支持をとりやめた。",
+      "reading": null,
+      "english": "The group withdrew their support for the Government.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その試みは支持者不足のために失敗に終った。",
+      "reading": null,
+      "english": "The attempt ended in failure for want of support.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

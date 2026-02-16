@@ -1,0 +1,240 @@
+{
+  "definition": {
+    "word": "念",
+    "reading": "ねん",
+    "romaji": "nen",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sense",
+          "idea",
+          "thought",
+          "feeling"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "desire",
+          "concern"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "attention",
+          "care"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "概念",
+      "reading": "がいねん",
+      "meaning": "general idea"
+    },
+    {
+      "word": "念願",
+      "reading": "ねんがん",
+      "meaning": "one's heart's desire"
+    },
+    {
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "regret"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "commemoration"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "regrettable"
+    },
+    {
+      "word": "観念",
+      "reading": "かんねん",
+      "meaning": "idea"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一念発起",
+      "reading": "いちねんほっき",
+      "meaning": "being resolved to (do something)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "既成概念",
+      "reading": "きせいがいねん",
+      "meaning": "stereotype",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "馬の耳に念仏",
+      "reading": "うまのみみにねんぶつ",
+      "meaning": "preaching to the deaf",
+      "type": "idiom"
+    },
+    {
+      "word": "無念無想",
+      "reading": "むねんむそう",
+      "meaning": "free from worldly or worthless thoughts",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "残念無念",
+      "reading": "ざんねんむねん",
+      "meaning": "deep regret",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "念仏三昧",
+      "reading": "ねんぶつざんまい",
+      "meaning": "being deep in prayer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "残念至極",
+      "reading": "ざんねんしごく",
+      "meaning": "deep regret",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無想無念",
+      "reading": "むそうむねん",
+      "meaning": "being free from all distracting thoughts",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無念千万",
+      "reading": "むねんせんばん",
+      "meaning": "being really disappointed",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一念天に通ず",
+      "reading": "いちねんてんにつうず",
+      "meaning": "faith will move mountains",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "残念ながらそれは本当なのです。",
+      "reading": null,
+      "english": "It is unfortunately true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "痩せる必要がないというのは残念だ。",
+      "reading": null,
+      "english": "It's too bad that I don't need to lose weight.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "アメリカ旅行のよい記念になります。",
+      "reading": null,
+      "english": "This will be a good souvenir of my trip around the United States.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "意見は人が掌握し、信念は人を掌握する。",
+      "reading": null,
+      "english": "Our opinion is an idea which we have; our conviction an idea which has us.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "残念ながらそれは本当なのです。",
+      "reading": null,
+      "english": "It is unfortunately true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "残念ながらそれは本当なのです。",
+      "reading": null,
+      "english": "Unfortunately, it's true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "残念ながらそれは本当なのです。",
+      "reading": null,
+      "english": "Unfortunately, that's true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "残念ながらそれは本当なのです。",
+      "reading": null,
+      "english": "Unfortunately, that is true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "残念ながらそれは本当なのです。",
+      "reading": null,
+      "english": "It's unfortunately true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "残念ながらそれは本当なのです。",
+      "reading": null,
+      "english": "Unfortunately it's true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "痩せる必要がないというのは残念だ。",
+      "reading": null,
+      "english": "It's too bad that I don't need to lose weight.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君が来られないのが残念だ。",
+      "reading": null,
+      "english": "It's a pity that you can't come.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたがおいでにならないのは残念です。",
+      "reading": null,
+      "english": "It's a pity that you can't come.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "あざ笑う",
+    "reading": "あざわらう",
+    "romaji": "azawarau",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to laugh at",
+          "to ridicule",
+          "to mock",
+          "to make fun of",
+          "to sneer at"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "笑う",
+      "reading": "わらう",
+      "meaning": "to laugh"
+    },
+    {
+      "word": "微笑",
+      "reading": "びしょう",
+      "meaning": "smile"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼女が自分で自分を嘲笑うのがわたしには魅力的だ。",
+      "reading": null,
+      "english": "It's the way that she laughs at herself that endears her to me.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女が自分で自分を嘲笑うのがわたしには魅力的だ。",
+      "reading": null,
+      "english": "It's the way that she laughs at herself that endears her to me.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

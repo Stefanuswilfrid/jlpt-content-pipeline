@@ -1,0 +1,170 @@
+{
+  "definition": {
+    "word": "細工",
+    "reading": "さいく",
+    "romaji": "saiku",
+    "jlpt": "N1",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "work",
+          "workmanship",
+          "craftsmanship",
+          "handiwork"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "artifice",
+          "trick",
+          "device",
+          "tampering",
+          "doctoring"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "詳細",
+      "reading": "しょうさい",
+      "meaning": "details"
+    },
+    {
+      "word": "細菌",
+      "reading": "さいきん",
+      "meaning": "bacterium"
+    },
+    {
+      "word": "細胞",
+      "reading": "さいぼう",
+      "meaning": "cell"
+    },
+    {
+      "word": "工作",
+      "reading": "こうさく",
+      "meaning": "handicraft"
+    },
+    {
+      "word": "加工",
+      "reading": "かこう",
+      "meaning": "manufacturing"
+    },
+    {
+      "word": "工学",
+      "reading": "こうがく",
+      "meaning": "engineering"
+    },
+    {
+      "word": "着工",
+      "reading": "ちゃっこう",
+      "meaning": "starting (construction) work"
+    },
+    {
+      "word": "工員",
+      "reading": "こういん",
+      "meaning": "factory worker"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "細工は流々仕上げを御覧じろ",
+      "reading": "さいくはりゅうりゅうしあげをごろうじろ",
+      "meaning": "don't complain until the job is finished",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "宝石細工師はそのブローチに大きな真珠をはめ込んだ。",
+      "reading": null,
+      "english": "The jeweler mounted a big pearl in the brooch.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの最高の技術は木工細工に見られた。",
+      "reading": null,
+      "english": "Their highest skill was woodworking.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの最高の技術は木工細工に見られた。",
+      "reading": null,
+      "english": "Their highest skill was woodworking.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "宝石細工師はそのブローチに大きな真珠をはめ込んだ。",
+      "reading": null,
+      "english": "The jeweler mounted a big pearl in the brooch.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は不細工なのでしょうか。",
+      "reading": null,
+      "english": "Do you think I'm ugly?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は不細工なのでしょうか。",
+      "reading": null,
+      "english": "Do you think I'm ugly?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの女は不細工だ。",
+      "reading": null,
+      "english": "She's a dog.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "不細工ではないけど、可愛くもない。",
+      "reading": null,
+      "english": "I'm not ugly, but I'm not pretty either.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの女は不細工だ。",
+      "reading": null,
+      "english": "She's a dog.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "不細工ではないけど、可愛くもない。",
+      "reading": null,
+      "english": "I'm not ugly, but I'm not pretty either.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

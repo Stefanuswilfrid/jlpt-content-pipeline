@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "概説",
+    "reading": "がいせつ",
+    "romaji": "gaisetsu",
+    "jlpt": "N1",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "overview",
+          "outline",
+          "rough summary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "概略",
+      "reading": "がいりゃく",
+      "meaning": "outline"
+    },
+    {
+      "word": "説得",
+      "reading": "せっとく",
+      "meaning": "persuasion"
+    },
+    {
+      "word": "概念",
+      "reading": "がいねん",
+      "meaning": "general idea"
+    },
+    {
+      "word": "伝説",
+      "reading": "でんせつ",
+      "meaning": "legend"
+    },
+    {
+      "word": "大概",
+      "reading": "たいがい",
+      "meaning": "generally"
+    },
+    {
+      "word": "学説",
+      "reading": "がくせつ",
+      "meaning": "theory"
+    },
+    {
+      "word": "演説",
+      "reading": "えんぜつ",
+      "meaning": "speech"
+    },
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "explanation"
+    },
+    {
+      "word": "小説",
+      "reading": "しょうせつ",
+      "meaning": "novel"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "explanation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "まず新しいサイトの概説をしようと思う。",
+      "reading": null,
+      "english": "First, I'm going to do an outline of my new website.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "まず新しいサイトの概説をしようと思う。",
+      "reading": null,
+      "english": "First, I'm going to do an outline of my new website.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "病む",
+    "reading": "やむ",
+    "romaji": "yamu",
+    "jlpt": "N1",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to fall ill"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to suffer from (e.g. a disease)",
+          "to have something wrong with (e.g. an inner organ)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be depressed",
+          "to feel down",
+          "to have mental health issues"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発病",
+      "reading": "はつびょう",
+      "meaning": "onset of an illness"
+    },
+    {
+      "word": "看病",
+      "reading": "かんびょう",
+      "meaning": "nursing (a patient)"
+    },
+    {
+      "word": "臆病",
+      "reading": "おくびょう",
+      "meaning": "cowardly"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心を病む",
+      "reading": "こころをやむ",
+      "meaning": "to suffer mentally",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "皆さんが気に病む必要はありません。",
+      "reading": null,
+      "english": "You don't have to trouble yourselves.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "皆さんが気に病む必要はありません。",
+      "reading": null,
+      "english": "You don't have to trouble yourselves.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

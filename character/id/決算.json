@@ -1,0 +1,173 @@
+{
+  "definition": {
+    "word": "決算",
+    "reading": "けっさん",
+    "romaji": "kessan",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "neraca",
+          "penyelesaian rekening"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "決議",
+      "reading": "けつぎ",
+      "meaning": "resolusi, pemungutan suara, keputusan"
+    },
+    {
+      "word": "判決",
+      "reading": "はんけつ",
+      "meaning": "keputusan pengadilan, putusan, vonis, dekrit"
+    },
+    {
+      "word": "決勝",
+      "reading": "けっしょう",
+      "meaning": "final (dalam olahraga)"
+    },
+    {
+      "word": "決意",
+      "reading": "けつい",
+      "meaning": "keputusan, penetapan"
+    },
+    {
+      "word": "決断",
+      "reading": "けつだん",
+      "meaning": "keputusan, penetapan"
+    },
+    {
+      "word": "採決",
+      "reading": "さいけつ",
+      "meaning": "pemungutan suara, panggilan nama"
+    },
+    {
+      "word": "対決",
+      "reading": "たいけつ",
+      "meaning": "konfrontasi, pertarungan"
+    },
+    {
+      "word": "採算",
+      "reading": "さいさん",
+      "meaning": "laba"
+    },
+    {
+      "word": "議決",
+      "reading": "ぎけつ",
+      "meaning": "resolusi, keputusan, pemungutan suara"
+    },
+    {
+      "word": "換算",
+      "reading": "かんさん",
+      "meaning": "konversi, perubahan, pertukaran"
+    },
+    {
+      "word": "否決",
+      "reading": "ひけつ",
+      "meaning": "penolakan, penyangkalan, pemungutan suara negatif"
+    },
+    {
+      "word": "決",
+      "reading": "けつ",
+      "meaning": "keputusan, pemungutan suara"
+    },
+    {
+      "word": "多数決",
+      "reading": "たすうけつ",
+      "meaning": "aturan mayoritas"
+    },
+    {
+      "word": "足し算",
+      "reading": "たしざん",
+      "meaning": "tambahan"
+    },
+    {
+      "word": "暗算",
+      "reading": "あんざん",
+      "meaning": "aritmatika mental"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "penyelesaian, solusi, resolusi"
+    },
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "keputusan, penetapan"
+    },
+    {
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "perkiraan, anggaran"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "粉飾決算",
+      "reading": "ふんしょくけっさん",
+      "meaning": "fraudulent accounting",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その会社は毎年３月に決算をする。",
+      "reading": null,
+      "indonesian": "The company closes its books at the end of March.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水増し決算の噂で株価は上がりませんでした。",
+      "reading": null,
+      "indonesian": "The stock got creamed when they got wind of the dilution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "決算報告を申し上げます。",
+      "reading": null,
+      "indonesian": "We will now report on this year's business results.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その会社は毎年３月に決算をする。",
+      "reading": null,
+      "indonesian": "The company closes its books at the end of March.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "決算報告を申し上げます。",
+      "reading": null,
+      "indonesian": "We will now report on this year's business results.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水増し決算の噂で株価は上がりませんでした。",
+      "reading": null,
+      "indonesian": "The stock got creamed when they got wind of the dilution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

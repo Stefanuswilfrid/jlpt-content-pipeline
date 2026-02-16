@@ -1,0 +1,158 @@
+{
+  "definition": {
+    "word": "にも関わらず",
+    "reading": "にもかかわらず",
+    "romaji": "nimokakawarazu",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "in spite of",
+          "despite",
+          "although"
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "nonetheless",
+          "nevertheless",
+          "but",
+          "(and) yet"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関与",
+      "reading": "かんよ",
+      "meaning": "participation"
+    },
+    {
+      "word": "関税",
+      "reading": "かんぜい",
+      "meaning": "customs (duties)"
+    },
+    {
+      "word": "干渉",
+      "reading": "かんしょう",
+      "meaning": "interference"
+    },
+    {
+      "word": "玄関",
+      "reading": "げんかん",
+      "meaning": "entrance"
+    },
+    {
+      "word": "税関",
+      "reading": "ぜいかん",
+      "meaning": "customs"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "雨にも関わらずゴルフをした。",
+      "reading": null,
+      "english": "We played golf in spite of the rain.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "わたしは彼の欠点にも関わらずやはり彼が好きだ。",
+      "reading": null,
+      "english": "I do not love him the less for his faults.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それにも関わらず彼は試験に合格することができた。",
+      "reading": null,
+      "english": "And yet he could pass the exam.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "貧しいにも関わらず、彼は幸せだった。",
+      "reading": null,
+      "english": "Even though he was poor, he was happy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の抗議にも関わらず彼は行った。",
+      "reading": null,
+      "english": "Although she kept protesting, he went.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の欠点にも関わらず、私は彼女を愛している。",
+      "reading": null,
+      "english": "I love her none the less for her faults.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の欠点にも関わらず、私は彼女が好きです。",
+      "reading": null,
+      "english": "With all her faults, I like her.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の警告にも関わらず、彼はそのことを軽んじた。",
+      "reading": null,
+      "english": "Despite her warning, he made little of the matter.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は貧乏にも関わらず、そのテストに合格した。",
+      "reading": null,
+      "english": "He passed the test in the face of poverty.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は病気だったにも関わらず仕事に出かけた。",
+      "reading": null,
+      "english": "He went to work in spite of his illness.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は努力をしたにも関わらず、事業に失敗した。",
+      "reading": null,
+      "english": "He failed in his business in spite of his efforts.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は大きな危険にも関わらず成功した。",
+      "reading": null,
+      "english": "He succeeded in the face of great danger.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

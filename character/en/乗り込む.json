@@ -1,0 +1,210 @@
+{
+  "definition": {
+    "word": "乗り込む",
+    "reading": "のりこむ",
+    "romaji": "norikomu",
+    "jlpt": "N1",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to board (a train, plane, etc.)",
+          "to get into (a car)",
+          "to get on (a bus)",
+          "to go on board",
+          "to get aboard"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to march into",
+          "to enter",
+          "to arrive (at, in)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "飲み込む",
+      "reading": "のみこむ",
+      "meaning": "to swallow"
+    },
+    {
+      "word": "踏み込む",
+      "reading": "ふみこむ",
+      "meaning": "to step into (e.g. someone else's territory)"
+    },
+    {
+      "word": "追い込む",
+      "reading": "おいこむ",
+      "meaning": "to herd"
+    },
+    {
+      "word": "込める",
+      "reading": "こめる",
+      "meaning": "to load (a gun, etc.)"
+    },
+    {
+      "word": "組み込む",
+      "reading": "くみこむ",
+      "meaning": "to insert"
+    },
+    {
+      "word": "落ち込む",
+      "reading": "おちこむ",
+      "meaning": "to feel down"
+    },
+    {
+      "word": "意気込む",
+      "reading": "いきごむ",
+      "meaning": "to be enthusiastic (about)"
+    },
+    {
+      "word": "打ち込む",
+      "reading": "うちこむ",
+      "meaning": "to drive in (a nail, stake, etc.)"
+    },
+    {
+      "word": "押し込む",
+      "reading": "おしこむ",
+      "meaning": "to push into"
+    },
+    {
+      "word": "払い込む",
+      "reading": "はらいこむ",
+      "meaning": "to deposit"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もう乗り込む時間だ。",
+      "reading": null,
+      "english": "It's time to get aboard.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は飛行機に乗り込む前に、私に手を振った。",
+      "reading": null,
+      "english": "She waved at me before she got on board the plane.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はナンシーがタクシーに乗り込むのを見つけた。",
+      "reading": null,
+      "english": "He caught sight of Nancy getting into a taxi.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼が飛行機に乗り込むと、見物人が集まってきた。",
+      "reading": null,
+      "english": "Spectators gathered as he climbed into the plane.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "大統領は車に乗り込むところです。",
+      "reading": null,
+      "english": "The president is getting into the car.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私が乗り込むやいなや、汽車は動き出した。",
+      "reading": null,
+      "english": "I had barely got aboard when the train began to move.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もう乗り込む時間だ。",
+      "reading": null,
+      "english": "It's time to get aboard.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私が乗り込むやいなや、汽車は動き出した。",
+      "reading": null,
+      "english": "I had barely got aboard when the train began to move.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "大統領は車に乗り込むところです。",
+      "reading": null,
+      "english": "The president is getting into the car.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼が飛行機に乗り込むと、見物人が集まってきた。",
+      "reading": null,
+      "english": "Spectators gathered as he climbed into the plane.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はナンシーがタクシーに乗り込むのを見つけた。",
+      "reading": null,
+      "english": "He caught sight of Nancy getting into a taxi.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は飛行機に乗り込む前に、私に手を振った。",
+      "reading": null,
+      "english": "She waved at me before she got on board the plane.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムはトラックに乗り込むと走り去った。",
+      "reading": null,
+      "english": "Tom got into the truck and drove off.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムはトラックに乗り込むと走り去った。",
+      "reading": null,
+      "english": "Tom got into the truck and drove off.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムがメアリーの車に乗り込むのを見た。",
+      "reading": null,
+      "english": "I saw Tom getting into Mary's car.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

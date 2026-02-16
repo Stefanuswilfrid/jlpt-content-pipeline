@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "種々",
+    "reading": "しゅじゅ",
+    "romaji": "shuju",
+    "jlpt": "N1",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "various",
+          "a variety of",
+          "all kinds of",
+          "many",
+          "diverse"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "品種",
+      "reading": "ひんしゅ",
+      "meaning": "type (of goods)"
+    },
+    {
+      "word": "各種",
+      "reading": "かくしゅ",
+      "meaning": "every kind"
+    },
+    {
+      "word": "一種",
+      "reading": "いっしゅ",
+      "meaning": "a kind"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaning": "variety"
+    },
+    {
+      "word": "人種",
+      "reading": "じんしゅ",
+      "meaning": "race (of people)"
+    },
+    {
+      "word": "種",
+      "reading": "たね",
+      "meaning": "seed (e.g. of a plant)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "種々雑多",
+      "reading": "しゅじゅざった",
+      "meaning": "all sorts of",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼は種々の方法を試みた。",
+      "reading": null,
+      "english": "He tried many different methods.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼に起こった種々の不幸に加えて息子が急死した。",
+      "reading": null,
+      "english": "To add to his difficulties his son died a sudden death.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本の産業は種々の製品をアメリカに輸出している。",
+      "reading": null,
+      "english": "Japanese industries export various products to America.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "著者は種々に異なるヨーロッパ文学をいっしょくたに扱っている。",
+      "reading": null,
+      "english": "The author lumps all the different European literatures together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "著者は種々に異なるヨーロッパ文学をいっしょくたに扱っている。",
+      "reading": null,
+      "english": "The author lumps all the different European literatures together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本の産業は種々の製品をアメリカに輸出している。",
+      "reading": null,
+      "english": "Japanese industries export various products to America.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼に起こった種々の不幸に加えて息子が急死した。",
+      "reading": null,
+      "english": "To add to his difficulties his son died a sudden death.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は種々の方法を試みた。",
+      "reading": null,
+      "english": "He tried many different methods.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

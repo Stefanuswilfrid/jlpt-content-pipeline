@@ -1,0 +1,172 @@
+{
+  "definition": {
+    "word": "要する",
+    "reading": "ようする",
+    "romaji": "yousuru",
+    "jlpt": "N1",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to need",
+          "to demand",
+          "to take",
+          "to require"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "要望",
+      "reading": "ようぼう",
+      "meaning": "demand for"
+    },
+    {
+      "word": "要求",
+      "reading": "ようきゅう",
+      "meaning": "demand"
+    },
+    {
+      "word": "要請",
+      "reading": "ようせい",
+      "meaning": "appeal"
+    },
+    {
+      "word": "要因",
+      "reading": "よういん",
+      "meaning": "main cause"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "care"
+    },
+    {
+      "word": "要旨",
+      "reading": "ようし",
+      "meaning": "(main) point"
+    },
+    {
+      "word": "要するに",
+      "reading": "ようするに",
+      "meaning": "in short"
+    },
+    {
+      "word": "要領",
+      "reading": "ようりょう",
+      "meaning": "point"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "教えるということは大いに忍耐力を要する。",
+      "reading": null,
+      "english": "Teaching demands a lot of patience.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "急を要することだから急いでください。",
+      "reading": null,
+      "english": "Please hurry, it's urgent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々は財政的に困窮していた。要するに破産したのだ。",
+      "reading": null,
+      "english": "We were financially troubled, in short, we were bankrupt.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ダイエットは非常な努力を要するが、その割に成果は少ない。",
+      "reading": null,
+      "english": "Dieting takes up so much human endeavor with so little to show for it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは慎重を要する問題だ。",
+      "reading": null,
+      "english": "It's a delicate problem.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは慎重な考慮を要する。",
+      "reading": null,
+      "english": "That requires careful consideration.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは高度の集中を要する類の仕事だ。",
+      "reading": null,
+      "english": "It's the sort of work that calls for a high level of concentration.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その会合は要するに時間の無駄だった。",
+      "reading": null,
+      "english": "The meeting, in short, was a waste of time.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その家は大修理を要する。",
+      "reading": null,
+      "english": "The house requires repairs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この事態は慎重な取り扱いを要する。",
+      "reading": null,
+      "english": "This situation requires nice handling.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この仕事は熟練を要する。",
+      "reading": null,
+      "english": "This job calls for skill.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この計画は秘密を要する。",
+      "reading": null,
+      "english": "This plan requires secrecy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この学校へ行くには多額の金を要する。",
+      "reading": null,
+      "english": "Going to this school requires a lot of money.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

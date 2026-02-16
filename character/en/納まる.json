@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "収まる",
+    "reading": "おさまる",
+    "romaji": "osamaru",
+    "jlpt": "N1",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to fit into (a box, frame, category, etc.)",
+          "to be contained within",
+          "to fall within (e.g. a budget)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to settle down (into)",
+          "to be installed (in one's rightful place)",
+          "to be returned (to one's original position)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to settle into (one's position)",
+          "to take up (a post)",
+          "to occupy (a role)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be delivered",
+          "to be paid (e.g. taxes)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be settled (dispute, conflict, etc.)",
+          "to be sorted",
+          "to subside (e.g. wind)",
+          "to calm down",
+          "to abate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be satisfied (e.g. with an answer)",
+          "to consent",
+          "to agree"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "没収",
+      "reading": "ぼっしゅう",
+      "meaning": "seizure"
+    },
+    {
+      "word": "収支",
+      "reading": "しゅうし",
+      "meaning": "income and expenditure"
+    },
+    {
+      "word": "回収",
+      "reading": "かいしゅう",
+      "meaning": "collection"
+    },
+    {
+      "word": "収益",
+      "reading": "しゅうえき",
+      "meaning": "earnings"
+    },
+    {
+      "word": "収集",
+      "reading": "しゅうしゅう",
+      "meaning": "collecting"
+    },
+    {
+      "word": "収容",
+      "reading": "しゅうよう",
+      "meaning": "accommodation"
+    },
+    {
+      "word": "徴収",
+      "reading": "ちょうしゅう",
+      "meaning": "collection (of fees, taxes, etc.)"
+    },
+    {
+      "word": "収める",
+      "reading": "おさめる",
+      "meaning": "to put (into)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "元の鞘に収まる",
+      "reading": "もとのさやにおさまる",
+      "meaning": "to bury the hatchet",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

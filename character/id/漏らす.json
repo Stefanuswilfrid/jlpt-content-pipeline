@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "漏らす",
+    "reading": "もらす",
+    "romaji": "morasu",
+    "jlpt": "N1",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membiarkan bocor",
+          "mengungkapkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to let out (a secret)",
+          "to leak (information)",
+          "to divulge",
+          "to disclose",
+          "to let slip"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to give utterance to (e.g. one's dissatisfaction)",
+          "to vent",
+          "to express",
+          "to reveal (e.g. one's true intentions)",
+          "to let out (a sigh, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to wet one's pants"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to omit",
+          "to leave out"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'su' ending"
+        ],
+        "meanings": [
+          "to fail to do",
+          "to miss",
+          "to omit (by mistake)",
+          "to forget to do"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "漏る",
+      "reading": "もる",
+      "meaning": "bocor, habis"
+    },
+    {
+      "word": "漏れる",
+      "reading": "もれる",
+      "meaning": "bocor keluar, lolos, tersaring keluar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "網呑舟の魚を漏らす",
+      "reading": "あみどんしゅうのうおをもらす",
+      "meaning": "the law has holes large enough for the most wicked men to slip through",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "医師が患者の秘密を漏らすのは道義にもとる。",
+      "reading": null,
+      "indonesian": "It is not ethical for a doctor to reveal confidences.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはその秘密を漏らすべきではなかったのに。",
+      "reading": null,
+      "indonesian": "You ought not to have disclosed the secret.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医師が患者の秘密を漏らすのは道義にもとる。",
+      "reading": null,
+      "indonesian": "It is not ethical for a doctor to reveal confidences.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはその秘密を漏らすべきではなかったのに。",
+      "reading": null,
+      "indonesian": "You ought not to have disclosed the secret.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

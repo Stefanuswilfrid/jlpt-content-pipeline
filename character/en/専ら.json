@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "専ら",
+    "reading": "もっぱら",
+    "romaji": "moppara",
+    "jlpt": "N1",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "wholly",
+          "solely",
+          "entirely",
+          "exclusively",
+          "devotedly",
+          "fixedly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "principally",
+          "mostly",
+          "chiefly",
+          "mainly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "専用",
+      "reading": "せんよう",
+      "meaning": "(one's) exclusive use"
+    },
+    {
+      "word": "専制",
+      "reading": "せんせい",
+      "meaning": "despotism"
+    },
+    {
+      "word": "専攻",
+      "reading": "せんこう",
+      "meaning": "major subject"
+    },
+    {
+      "word": "専修",
+      "reading": "せんしゅう",
+      "meaning": "specialization"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "政治に対する私の関心は専ら学問上のものです。",
+      "reading": null,
+      "english": "My interest in politics is strictly academic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "政治に対する私の関心は専ら学問上のものです。",
+      "reading": null,
+      "english": "My interest in politics is strictly academic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

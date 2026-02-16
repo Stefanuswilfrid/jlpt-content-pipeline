@@ -1,0 +1,117 @@
+{
+  "definition": {
+    "word": "排水",
+    "reading": "はいすい",
+    "romaji": "haisui",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "drainage",
+          "draining",
+          "pumping out (water)",
+          "sewerage"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "displacement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "排除",
+      "reading": "はいじょ",
+      "meaning": "exclusion"
+    },
+    {
+      "word": "水田",
+      "reading": "すいでん",
+      "meaning": "(water-filled) paddy field"
+    },
+    {
+      "word": "洪水",
+      "reading": "こうずい",
+      "meaning": "flood"
+    },
+    {
+      "word": "水源",
+      "reading": "すいげん",
+      "meaning": "source of river"
+    },
+    {
+      "word": "潜水",
+      "reading": "せんすい",
+      "meaning": "diving"
+    },
+    {
+      "word": "水気",
+      "reading": "みずけ",
+      "meaning": "water content"
+    },
+    {
+      "word": "降水",
+      "reading": "こうすい",
+      "meaning": "rainfall"
+    },
+    {
+      "word": "大水",
+      "reading": "おおみず",
+      "meaning": "flood"
+    },
+    {
+      "word": "水道",
+      "reading": "すいどう",
+      "meaning": "water supply"
+    },
+    {
+      "word": "水面",
+      "reading": "すいめん",
+      "meaning": "water's surface"
+    },
+    {
+      "word": "水泳",
+      "reading": "すいえい",
+      "meaning": "swimming"
+    },
+    {
+      "word": "水産",
+      "reading": "すいさん",
+      "meaning": "aquatic products"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学校はプールの水を月一回排水する。",
+      "reading": null,
+      "english": "The school drains the pool once a month.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "学校はプールの水を月一回排水する。",
+      "reading": null,
+      "english": "The school drains the pool once a month.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

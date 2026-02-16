@@ -1,0 +1,148 @@
+{
+  "definition": {
+    "word": "明かす",
+    "reading": "あかす",
+    "romaji": "akasu",
+    "jlpt": "N1",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pass (the night)",
+          "to spend"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to reveal",
+          "to divulge",
+          "to disclose",
+          "to expose"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to prove",
+          "to verify"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "打ち明ける",
+      "reading": "うちあける",
+      "meaning": "to confide"
+    },
+    {
+      "word": "声明",
+      "reading": "せいめい",
+      "meaning": "declaration"
+    },
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "explanation"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "proof"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "illumination"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "明瞭",
+      "reading": "めいりょう",
+      "meaning": "clear"
+    },
+    {
+      "word": "不明",
+      "reading": "ふめい",
+      "meaning": "unclear"
+    },
+    {
+      "word": "明白",
+      "reading": "めいはく",
+      "meaning": "obvious"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "鼻を明かす",
+      "reading": "はなをあかす",
+      "meaning": "to outwit",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "記者はその情報源を明かすことを拒んだ。",
+      "reading": null,
+      "english": "The reporter refused to name his sources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "さあ、一晩飲み明かすぞ。",
+      "reading": null,
+      "english": "Let's drink the night away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は自分の秘密を明かすことには気が進まなかった。",
+      "reading": null,
+      "english": "She was reluctant to reveal her secret.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "記者はその情報源を明かすことを拒んだ。",
+      "reading": null,
+      "english": "The reporter refused to name his sources.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "さあ、一晩飲み明かすぞ。",
+      "reading": null,
+      "english": "Let's drink the night away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は自分の秘密を明かすことには気が進まなかった。",
+      "reading": null,
+      "english": "She was reluctant to reveal her secret.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "完璧",
+    "reading": "かんぺき",
+    "romaji": "kanpeki",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perfect",
+          "complete",
+          "flawless"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "完了",
+      "reading": "かんりょう",
+      "meaning": "completion"
+    },
+    {
+      "word": "完成",
+      "reading": "かんせい",
+      "meaning": "completion"
+    },
+    {
+      "word": "完全",
+      "reading": "かんぜん",
+      "meaning": "perfect"
+    },
+    {
+      "word": "玉",
+      "reading": "たま",
+      "meaning": "ball"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "練習が完ぺきにする。",
+      "reading": null,
+      "english": "Practice makes perfect.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "練習が完ぺきにする。",
+      "reading": null,
+      "english": "Practice makes perfect.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

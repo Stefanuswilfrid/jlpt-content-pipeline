@@ -1,0 +1,242 @@
+{
+  "definition": {
+    "word": "対応",
+    "reading": "たいおう",
+    "romaji": "taiou",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "correspondence (to)",
+          "equivalence"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "suitability",
+          "coordination",
+          "matching",
+          "being appropriate (for)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "dealing with",
+          "coping with",
+          "handling",
+          "response",
+          "reception",
+          "reaction"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "compatibility (with technology, software, etc.)",
+          "capability",
+          "support (for)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "対話",
+      "reading": "たいわ",
+      "meaning": "dialogue"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaning": "application"
+    },
+    {
+      "word": "反応",
+      "reading": "はんのう",
+      "meaning": "reaction"
+    },
+    {
+      "word": "対決",
+      "reading": "たいけつ",
+      "meaning": "confrontation"
+    },
+    {
+      "word": "対抗",
+      "reading": "たいこう",
+      "meaning": "opposition"
+    },
+    {
+      "word": "対処",
+      "reading": "たいしょ",
+      "meaning": "dealing with"
+    },
+    {
+      "word": "対等",
+      "reading": "たいとう",
+      "meaning": "equality (esp. of status)"
+    },
+    {
+      "word": "対談",
+      "reading": "たいだん",
+      "meaning": "talk"
+    },
+    {
+      "word": "適応",
+      "reading": "てきおう",
+      "meaning": "adaptation"
+    },
+    {
+      "word": "相対",
+      "reading": "あいたい",
+      "meaning": "involving only the parties concerned"
+    },
+    {
+      "word": "対面",
+      "reading": "たいめん",
+      "meaning": "meeting face-to-face"
+    },
+    {
+      "word": "応急",
+      "reading": "おうきゅう",
+      "meaning": "emergency"
+    },
+    {
+      "word": "相応",
+      "reading": "そうおう",
+      "meaning": "suitable"
+    },
+    {
+      "word": "対比",
+      "reading": "たいひ",
+      "meaning": "contrast"
+    },
+    {
+      "word": "相対",
+      "reading": "そうたい",
+      "meaning": "relativity"
+    },
+    {
+      "word": "対策",
+      "reading": "たいさく",
+      "meaning": "measure"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaning": "target"
+    },
+    {
+      "word": "反対",
+      "reading": "はんたい",
+      "meaning": "opposition"
+    },
+    {
+      "word": "対立",
+      "reading": "たいりつ",
+      "meaning": "confrontation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君はさまざまな状況に対応しなければならない。",
+      "reading": null,
+      "english": "You must adapt to a variety of conditions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "学校制度は生徒数の変化に対応しなくてはならない。",
+      "reading": null,
+      "english": "School systems have to cope with changing numbers of pupils.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは教育の方法を時代に対応しなければならない。",
+      "reading": null,
+      "english": "We have to bring our teaching methods up to date.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我が社は、２０００年問題への対応は万全です。",
+      "reading": null,
+      "english": "We're thoroughly prepared for the Y2K bug.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "気温の急変に対応するのは難しい。",
+      "reading": null,
+      "english": "It is difficult to adapt oneself to sudden changes of temperature.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "まさに臨機応変の対応。見事というべきだね。",
+      "reading": null,
+      "english": "He handled things wonderfully, playing it by ear the whole way. I have to say he did an excellent job.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "デパートでとても感じのいい若い女性が対応してくれた。",
+      "reading": null,
+      "english": "A very pleasant young woman waited on me in the department store.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その日本語に対応する英語はない。",
+      "reading": null,
+      "english": "That Japanese word has no equivalent in English.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あれは昨日あの店で私に対応してくれた少女です。",
+      "reading": null,
+      "english": "That is the girl who waited on me in the shop yesterday.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "Windows95対応のゲームを動かしたいのです。",
+      "reading": null,
+      "english": "I want to run a Windows 95 game.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "傷つける",
+    "reading": "きずつける",
+    "romaji": "kizutsukeru",
+    "jlpt": "N1",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "melukai",
+          "menyakiti perasaan seseorang"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hurt someone's feelings (pride, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to damage",
+          "to chip",
+          "to scratch"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "負傷",
+      "reading": "ふしょう",
+      "meaning": "cedera, luka"
+    },
+    {
+      "word": "中傷",
+      "reading": "ちゅうしょう",
+      "meaning": "fitnah, pencemaran nama baik"
+    },
+    {
+      "word": "火傷",
+      "reading": "やけど",
+      "meaning": "terbakar, melepuh"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の心を傷付けるつもりはなかったんだ。",
+      "reading": null,
+      "indonesian": "I didn't mean to hurt you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の心を傷付けるつもりはなかったんだ。",
+      "reading": null,
+      "indonesian": "I didn't mean to hurt you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

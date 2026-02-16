@@ -1,0 +1,173 @@
+{
+  "definition": {
+    "word": "沈黙",
+    "reading": "ちんもく",
+    "romaji": "chinmoku",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "keheningan",
+          "keengganan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reticence",
+          "inaction"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "沈没",
+      "reading": "ちんぼつ",
+      "meaning": "tenggelam, terombang-ambing"
+    },
+    {
+      "word": "黙る",
+      "reading": "だまる",
+      "meaning": "untuk diam"
+    },
+    {
+      "word": "沈める",
+      "reading": "しずめる",
+      "meaning": "menenggelamkan, membalut"
+    },
+    {
+      "word": "沈む",
+      "reading": "しずむ",
+      "meaning": "tenggelam; merasa depresi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "沈黙寡言",
+      "reading": "ちんもくかげん",
+      "meaning": "taciturn",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "沈黙は金雄弁は銀",
+      "reading": "ちんもくはきんゆうべんはぎん",
+      "meaning": "speech is silver, silence is golden",
+      "type": "proverb"
+    },
+    {
+      "word": "雄弁は銀、沈黙は金",
+      "reading": "ゆうべんはぎん、ちんもくはきん",
+      "meaning": "speech is silver, silence is golden",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "沈黙は同意を表す。",
+      "reading": null,
+      "indonesian": "Silence gives consent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "沈黙は承諾の印。",
+      "reading": null,
+      "indonesian": "Silence gives consent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "沈黙は同意を表す。",
+      "reading": null,
+      "indonesian": "Silence gives consent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それから長い沈黙が続いた。",
+      "reading": null,
+      "indonesian": "There followed a long silence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その夕方不気味な沈黙のうちにお茶がすまされた。",
+      "reading": null,
+      "indonesian": "That evening tea was partaken of in a grim silence.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その後長い沈黙が続いた。",
+      "reading": null,
+      "indonesian": "There followed a prolonged silence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "しばしの沈黙があった。",
+      "reading": null,
+      "indonesian": "There was a silence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この無限の空間に漂う永遠の沈黙が私を恐怖に陥れる。",
+      "reading": null,
+      "indonesian": "The eternal silence of these infinite spaces terrifies me.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "いま価値のあるのは沈黙だ。",
+      "reading": null,
+      "indonesian": "It is silence that is valuable now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの沈黙を同意のしるしと解釈した。",
+      "reading": null,
+      "indonesian": "I interpreted your silence as consent.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "雄弁は銀、沈黙は金。",
+      "reading": null,
+      "indonesian": "Speech is silver, silence is gold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雄弁は銀、沈黙は金。",
+      "reading": null,
+      "indonesian": "Speech is silver, silence is golden.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

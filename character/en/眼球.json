@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "眼球",
+    "reading": "がんきゅう",
+    "romaji": "gankyuu",
+    "jlpt": "N1",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "eyeball"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "球根",
+      "reading": "きゅうこん",
+      "meaning": "(plant) bulb"
+    },
+    {
+      "word": "近眼",
+      "reading": "きんがん",
+      "meaning": "nearsightedness"
+    },
+    {
+      "word": "眼科",
+      "reading": "がんか",
+      "meaning": "ophthalmology"
+    },
+    {
+      "word": "人目",
+      "reading": "ひとめ",
+      "meaning": "(public) notice"
+    },
+    {
+      "word": "効き目",
+      "reading": "ききめ",
+      "meaning": "effect"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "豚の眼球は食べても大丈夫なんですか？",
+      "reading": null,
+      "english": "Is it safe to eat a pig's eyeball?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "豚の眼球は食べても大丈夫なんですか？",
+      "reading": null,
+      "english": "Is it safe to eat a pig's eyeball?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "色覚障害は眼球の中が歪むことだから、治せないと思います。",
+      "reading": null,
+      "english": "I don't think color blindness can be cured since it's a distortion in the eye.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "色覚障害は眼球の中が歪むことだから、治せないと思います。",
+      "reading": null,
+      "english": "I don't think color blindness can be cured since it's a distortion in the eye.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "間誤付く",
+    "reading": "まごつく",
+    "romaji": "magotsuku",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be confused",
+          "to be flustered",
+          "to be at a loss"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to loiter",
+          "to hang around",
+          "to wander around",
+          "to prowl",
+          "to roam"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "誤る",
+      "reading": "あやまる",
+      "meaning": "to make a mistake (in)"
+    },
+    {
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "misunderstanding"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "reception (desk)"
+    },
+    {
+      "word": "間に合う",
+      "reading": "まにあう",
+      "meaning": "to be in time (for)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

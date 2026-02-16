@@ -1,0 +1,188 @@
+{
+  "definition": {
+    "word": "逃す",
+    "reading": "のがす",
+    "romaji": "nogasu",
+    "jlpt": "N1",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to miss (e.g. a chance)",
+          "to lose",
+          "to let get away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to set free",
+          "to let go"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to fail to ..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "逃げ出す",
+      "reading": "にげだす",
+      "meaning": "to run away"
+    },
+    {
+      "word": "見逃す",
+      "reading": "みのがす",
+      "meaning": "to miss"
+    },
+    {
+      "word": "逃がす",
+      "reading": "にがす",
+      "meaning": "to set free"
+    },
+    {
+      "word": "逃走",
+      "reading": "とうそう",
+      "meaning": "flight"
+    },
+    {
+      "word": "逃亡",
+      "reading": "とうぼう",
+      "meaning": "escape"
+    },
+    {
+      "word": "逃れる",
+      "reading": "のがれる",
+      "meaning": "to escape"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "このチャンスを逃す手はないよ。",
+      "reading": null,
+      "english": "You had better avail yourself of this opportunity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君がそんなチャンスを逃すとは残念だ。",
+      "reading": null,
+      "english": "It is a pity that you should lose such a chance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この機会を逃す手はないぞ。",
+      "reading": null,
+      "english": "You must take advantage of the opportunity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まっすぐ行けばわかります。見逃すことはありませんよ。",
+      "reading": null,
+      "english": "Go straight ahead and you will find it. You can't miss it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ぼんやり運転していたら、入っていく道を見逃すよ。",
+      "reading": null,
+      "english": "If you drive carelessly, you will miss your turn.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "チャンスを逃すな。",
+      "reading": null,
+      "english": "Don't let opportunities pass by.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "見逃すことはありませんよ。",
+      "reading": null,
+      "english": "You can't miss it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんな好機は逃すなよ。",
+      "reading": null,
+      "english": "Don't let such a good opportunity go by.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは逃すのはもったいないチャンスだ。",
+      "reading": null,
+      "english": "This is too good a chance to lose.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この好機を逃すな。",
+      "reading": null,
+      "english": "Don't let this chance slip by.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはそれを見る機会を逃すべきではない。",
+      "reading": null,
+      "english": "You shouldn't miss the opportunity to see it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はあなたがそのようなチャンスを逃すのを残念に思う。",
+      "reading": null,
+      "english": "I think it a pity for you to lose such a chance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "好機を逃すな。",
+      "reading": null,
+      "english": "Make hay while the sun shines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "見逃すことはありませんよ。",
+      "reading": null,
+      "english": "You can't miss it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

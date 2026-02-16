@@ -1,0 +1,206 @@
+{
+  "definition": {
+    "word": "温和",
+    "reading": "おんわ",
+    "romaji": "onwa",
+    "jlpt": "N1",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mild (climate)",
+          "temperate",
+          "clement",
+          "pleasant",
+          "agreeable"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gentle (nature, personality, etc.)",
+          "mild",
+          "quiet",
+          "pleasant"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "moderate (statement, measure, etc.)",
+          "mild",
+          "temperate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "中和",
+      "reading": "ちゅうわ",
+      "meaning": "neutralization"
+    },
+    {
+      "word": "和文",
+      "reading": "わぶん",
+      "meaning": "Japanese text"
+    },
+    {
+      "word": "緩和",
+      "reading": "かんわ",
+      "meaning": "relief"
+    },
+    {
+      "word": "共和",
+      "reading": "きょうわ",
+      "meaning": "republicanism"
+    },
+    {
+      "word": "調和",
+      "reading": "ちょうわ",
+      "meaning": "harmony"
+    },
+    {
+      "word": "和やか",
+      "reading": "にこやか",
+      "meaning": "smiling"
+    },
+    {
+      "word": "飽和",
+      "reading": "ほうわ",
+      "meaning": "saturation"
+    },
+    {
+      "word": "保温",
+      "reading": "ほおん",
+      "meaning": "retaining warmth"
+    },
+    {
+      "word": "和やか",
+      "reading": "なごやか",
+      "meaning": "mild"
+    },
+    {
+      "word": "和英",
+      "reading": "わえい",
+      "meaning": "Japanese-English"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "概して日本の気候は温和であると言える。",
+      "reading": null,
+      "english": "It may be said, as a rule, that the climate of Japan is mild.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "概して日本の気候は温和である。",
+      "reading": null,
+      "english": "Generally speaking, the climate of Japan is mild.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一般的に言えば、日本の気候は温和だ。",
+      "reading": null,
+      "english": "Generally speaking, the climate of Japan is mild.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "概して言えば、当地の気候は温和です。",
+      "reading": null,
+      "english": "Generally speaking, the climate here is mild.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本は海に取り囲まれているので、気候が温和である。",
+      "reading": null,
+      "english": "Surrounded by the sea, Japan has a mild climate.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "海に囲まれているので、日本の気候は温和である。",
+      "reading": null,
+      "english": "Surrounded by the sea, Japan has a mild climate.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その国は気候が温和だ。",
+      "reading": null,
+      "english": "That country has a mild climate.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は温和な婦人です。",
+      "reading": null,
+      "english": "She is a quiet woman.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は生まれつき温和な気質だ。",
+      "reading": null,
+      "english": "He is gentle by nature.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本は海に取り囲まれているので、気候が温和である。",
+      "reading": null,
+      "english": "Surrounded by the sea, Japan has a mild climate.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本の気候はインドのそれよりも温和である。",
+      "reading": null,
+      "english": "The climate of Japan is milder than that of India.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "冬のフロリダも気候は、アイオワの気候よりも温和だ。",
+      "reading": null,
+      "english": "The climate of Florida in the wintertime is milder than that of Iowa.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "概して日本の気候は温和であると言える。",
+      "reading": null,
+      "english": "It may be said, as a rule, that the climate of Japan is mild.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

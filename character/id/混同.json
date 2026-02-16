@@ -1,0 +1,220 @@
+{
+  "definition": {
+    "word": "混同",
+    "reading": "こんどう",
+    "romaji": "kondou",
+    "jlpt": "N1",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "kebingungan",
+          "pencampuran",
+          "penggabungan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一同",
+      "reading": "いちどう",
+      "meaning": "semua yang hadir, semua yang terkait, kita semua"
+    },
+    {
+      "word": "同封",
+      "reading": "どうふう",
+      "meaning": "lampiran (misalnya, dalam surat)"
+    },
+    {
+      "word": "同い年",
+      "reading": "おないどし",
+      "meaning": "seusia"
+    },
+    {
+      "word": "同盟",
+      "reading": "どうめい",
+      "meaning": "aliansi, persatuan, liga"
+    },
+    {
+      "word": "同意",
+      "reading": "どうい",
+      "meaning": "kesepakatan, persetujuan; arti yang sama"
+    },
+    {
+      "word": "同情",
+      "reading": "どうじょう",
+      "meaning": "simpati, belas kasihan, bersimpati"
+    },
+    {
+      "word": "同居",
+      "reading": "どうきょ",
+      "meaning": "tinggal bersama"
+    },
+    {
+      "word": "同調",
+      "reading": "どうちょう",
+      "meaning": "simpati, setuju dengan, keselarasan"
+    },
+    {
+      "word": "同級",
+      "reading": "どうきゅう",
+      "meaning": "kelas yang sama, tingkatan yang sama"
+    },
+    {
+      "word": "同感",
+      "reading": "どうかん",
+      "meaning": "kesepakatan, pendapat yang sama, perasaan yang sama"
+    },
+    {
+      "word": "同等",
+      "reading": "どうとう",
+      "meaning": "kesetaraan, sama, peringkat yang sama"
+    },
+    {
+      "word": "混血",
+      "reading": "こんけつ",
+      "meaning": "ras campuran, keturunan campuran"
+    },
+    {
+      "word": "交える",
+      "reading": "まじえる",
+      "meaning": "berbaur, bercakap-cakap, beradu pedang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "公私混同",
+      "reading": "こうしこんどう",
+      "meaning": "mixing of public and private affairs",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "英語を学ぶ学生たちはｌｉｅとｌａｙとをよく混同する。",
+      "reading": null,
+      "indonesian": "Students of English often mix up the words 'lie' and 'lay'.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "オーストリアとオーストラリアを混同してはいけない。",
+      "reading": null,
+      "indonesian": "Don't confuse Austria with Australia.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ｄａｒｅとｄｅａｒとを混同するな。",
+      "reading": null,
+      "indonesian": "Don't confuse \"dare\" and \"dear\".",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "欲望を愛と混同するな。",
+      "reading": null,
+      "indonesian": "Don't confuse desire with love.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "名前の混同が少しあった。",
+      "reading": null,
+      "indonesian": "There has been a little confusion of names.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はときに空想と現実を混同することがある。",
+      "reading": null,
+      "indonesian": "She sometimes mixes up fancies with realities.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はいつも塩と砂糖を混同している。",
+      "reading": null,
+      "indonesian": "She is always confusing salt with sugar.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは差出人と受取人の名前を混同した。",
+      "reading": null,
+      "indonesian": "They confused the names of the sender and the addressee.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "同情と愛情を決して混同しないように。",
+      "reading": null,
+      "indonesian": "Never confuse pity with love.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は時々ＣｕｒｖｅとＣａｒｖｅを混同してしまう。",
+      "reading": null,
+      "indonesian": "At times I confuse curve with carve.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はいつもジョンを双子の弟と混同する。",
+      "reading": null,
+      "indonesian": "I always confuse John and his twin brother.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はいつもジョンとポールを混同してしまう。",
+      "reading": null,
+      "indonesian": "I'm always confusing John with Paul.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "混同しないように、両チームは色の違う服を着ていた。",
+      "reading": null,
+      "indonesian": "To avoid confusion, the teams wore different colors.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "国家主義と愛国心とを混同してはならない。",
+      "reading": null,
+      "indonesian": "Nationalism is not to be confused with patriotism.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "公私を混同してはいけない。",
+      "reading": null,
+      "indonesian": "You should not confuse business with personal affairs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

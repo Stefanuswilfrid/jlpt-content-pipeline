@@ -1,0 +1,157 @@
+{
+  "definition": {
+    "word": "値する",
+    "reading": "あたいする",
+    "romaji": "ataisuru",
+    "jlpt": "N1",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - included",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be worth",
+          "to be worthy of",
+          "to deserve",
+          "to merit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "値打ち",
+      "reading": "ねうち",
+      "meaning": "value"
+    },
+    {
+      "word": "値引き",
+      "reading": "ねびき",
+      "meaning": "price reduction"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "万死に値する",
+      "reading": "ばんしにあたいする",
+      "meaning": "to be the worst of the worst",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君にはその賞を取るに値する。",
+      "reading": null,
+      "english": "You deserve the prize.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ニューヨークは訪れるに値する。",
+      "reading": null,
+      "english": "New York is worth visiting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その論文は注意深く研究するのに値する。",
+      "reading": null,
+      "english": "The article deserves careful study.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その犯罪は死刑に値する。",
+      "reading": null,
+      "english": "That crime is punishable by death.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの博物館はくるに値する。",
+      "reading": null,
+      "english": "That museum is worth visiting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その地域は風景と野生動物で注目に値する。",
+      "reading": null,
+      "english": "The area is notable for its scenery and wildlife.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その申し出は考慮に値する。",
+      "reading": null,
+      "english": "The offer is worthy of being considered.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その新しい方法は熟考に値する。",
+      "reading": null,
+      "english": "The new method is well worth consideration.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その小説は賞賛に値する。",
+      "reading": null,
+      "english": "The novel is worthy of praise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その見本市には注目に値するものはなにもなかった。",
+      "reading": null,
+      "english": "There was nothing worthy of remark at the fair.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これは注目に値することです。",
+      "reading": null,
+      "english": "This is a matter worthy of note.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは一読に値する本だ。",
+      "reading": null,
+      "english": "This is a worthwhile book.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この問題は一考に値する。",
+      "reading": null,
+      "english": "This problem deserves considering.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この本は注目に値する。",
+      "reading": null,
+      "english": "This book is worthy of attention.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

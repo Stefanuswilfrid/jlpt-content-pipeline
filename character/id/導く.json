@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "導く",
+    "reading": "みちびく",
+    "romaji": "michibiku",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk dibimbing",
+          "untuk ditunjukkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to derive",
+          "to deduce"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "誘導",
+      "reading": "ゆうどう",
+      "meaning": "bimbingan, kepemimpinan, bujukan"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaning": "pengantar, memperkenalkan, memimpin"
+    },
+    {
+      "word": "主導",
+      "reading": "しゅどう",
+      "meaning": "kepemimpinan utama"
+    },
+    {
+      "word": "報道",
+      "reading": "ほうどう",
+      "meaning": "liputan, laporan"
+    },
+    {
+      "word": "指導",
+      "reading": "しどう",
+      "meaning": "kepemimpinan, bimbingan, pelatihan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "盲人が盲人を導く",
+      "reading": "もうじんがもうじんをみちびく",
+      "meaning": "the blind leading the blind",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

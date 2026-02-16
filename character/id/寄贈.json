@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "寄贈",
+    "reading": "きぞう",
+    "romaji": "kizou",
+    "jlpt": "N1",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "donasi",
+          "presentasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "寄与",
+      "reading": "きよ",
+      "meaning": "kontribusi, layanan"
+    },
+    {
+      "word": "取り寄せる",
+      "reading": "とりよせる",
+      "meaning": "memesan, mengirimkan untuk"
+    },
+    {
+      "word": "寄付",
+      "reading": "きふ",
+      "meaning": "kontribusi, donasi"
+    },
+    {
+      "word": "贈る",
+      "reading": "おくる",
+      "meaning": "untuk mempersembahkan, untuk memberikan kepada, untuk menganugerahkan kepada"
+    },
+    {
+      "word": "寄せる",
+      "reading": "よせる",
+      "meaning": "mengumpulkan, menghimpun, menyisihkan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "同書を一部ご寄贈いただければ幸いに存じます。",
+      "reading": null,
+      "indonesian": "I would very much appreciate receiving a copy of the book.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "同書を一部ご寄贈いただければ幸いに存じます。",
+      "reading": null,
+      "indonesian": "I would very much appreciate receiving a copy of the book.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

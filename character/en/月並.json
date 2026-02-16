@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "月並み",
+    "reading": "つきなみ",
+    "romaji": "tsukinami",
+    "jlpt": "N1",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "every month"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "trite",
+          "commonplace",
+          "conventional",
+          "hackneyed"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "月賦",
+      "reading": "げっぷ",
+      "meaning": "monthly installment (instalment)"
+    },
+    {
+      "word": "満月",
+      "reading": "まんげつ",
+      "meaning": "full moon"
+    },
+    {
+      "word": "並列",
+      "reading": "へいれつ",
+      "meaning": "arranging in a line"
+    },
+    {
+      "word": "月謝",
+      "reading": "げっしゃ",
+      "meaning": "monthly tuition fee"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼らの判断は月並みだ。",
+      "reading": null,
+      "english": "They are conventional in their judgement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は月並みな家の広告にまんまとだまされた。",
+      "reading": null,
+      "english": "He fell for that old ad for a house like a ton of bricks.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "月並みのパーティーだったよ。",
+      "reading": null,
+      "english": "That was just another party.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "月並みのパーティーだったよ。",
+      "reading": null,
+      "english": "That was just another party.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は月並みな家の広告にまんまとだまされた。",
+      "reading": null,
+      "english": "He fell for that old ad for a house like a ton of bricks.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの判断は月並みだ。",
+      "reading": null,
+      "english": "They are conventional in their judgement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

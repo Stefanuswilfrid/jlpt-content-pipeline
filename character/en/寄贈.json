@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "寄贈",
+    "reading": "きぞう",
+    "romaji": "kizou",
+    "jlpt": "N1",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "donation",
+          "presentation",
+          "gift"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "寄与",
+      "reading": "きよ",
+      "meaning": "contribution"
+    },
+    {
+      "word": "取り寄せる",
+      "reading": "とりよせる",
+      "meaning": "to order"
+    },
+    {
+      "word": "寄付",
+      "reading": "きふ",
+      "meaning": "contribution"
+    },
+    {
+      "word": "贈る",
+      "reading": "おくる",
+      "meaning": "to give (as a gift)"
+    },
+    {
+      "word": "寄せる",
+      "reading": "よせる",
+      "meaning": "to come near"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "同書を一部ご寄贈いただければ幸いに存じます。",
+      "reading": null,
+      "english": "I would very much appreciate receiving a copy of the book.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "同書を一部ご寄贈いただければ幸いに存じます。",
+      "reading": null,
+      "english": "I would very much appreciate receiving a copy of the book.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

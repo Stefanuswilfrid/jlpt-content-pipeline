@@ -1,0 +1,50 @@
+{
+  "definition": {
+    "word": "碁盤",
+    "reading": "ごばん",
+    "romaji": "goban",
+    "jlpt": "N1",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Go board"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "基盤",
+      "reading": "きばん",
+      "meaning": "base"
+    },
+    {
+      "word": "地盤",
+      "reading": "じばん",
+      "meaning": "ground"
+    },
+    {
+      "word": "算盤",
+      "reading": "そろばん",
+      "meaning": "abacus"
+    },
+    {
+      "word": "碁",
+      "reading": "ご",
+      "meaning": "go (board game)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "碁盤の目",
+      "reading": "ごばんのめ",
+      "meaning": "intersection on a go board",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

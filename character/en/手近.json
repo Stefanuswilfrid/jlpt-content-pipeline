@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "手近",
+    "reading": "てぢか",
+    "romaji": "tejika",
+    "jlpt": "N1",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "near",
+          "close by",
+          "within reach",
+          "handy"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "familiar"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手軽",
+      "reading": "てがる",
+      "meaning": "easy"
+    },
+    {
+      "word": "近眼",
+      "reading": "きんがん",
+      "meaning": "nearsightedness"
+    },
+    {
+      "word": "勝手",
+      "reading": "かって",
+      "meaning": "one's own convenience"
+    },
+    {
+      "word": "身近",
+      "reading": "みぢか",
+      "meaning": "near oneself"
+    },
+    {
+      "word": "近視",
+      "reading": "きんし",
+      "meaning": "myopia"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "recently"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "neighbourhood"
+    },
+    {
+      "word": "苦手",
+      "reading": "にがて",
+      "meaning": "poor (at)"
+    },
+    {
+      "word": "派手",
+      "reading": "はで",
+      "meaning": "showy"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "いつも手近に辞書を持っていなさい。",
+      "reading": null,
+      "english": "Always have your dictionary near at hand.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はいつも手近に辞書を置いている。",
+      "reading": null,
+      "english": "I always keep a dictionary close at hand.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "いつも手近に辞書を持っていなさい。",
+      "reading": null,
+      "english": "Always have your dictionary near at hand.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はいつも手近に辞書を置いている。",
+      "reading": null,
+      "english": "I always keep a dictionary close at hand.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

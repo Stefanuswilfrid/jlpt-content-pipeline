@@ -1,0 +1,180 @@
+{
+  "definition": {
+    "word": "区間",
+    "reading": "くかん",
+    "romaji": "kukan",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "section (of track, etc.)",
+          "segment",
+          "dimension"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "interval"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "空間",
+      "reading": "くうかん",
+      "meaning": "space"
+    },
+    {
+      "word": "合間",
+      "reading": "あいま",
+      "meaning": "interval"
+    },
+    {
+      "word": "間柄",
+      "reading": "あいだがら",
+      "meaning": "relationship"
+    },
+    {
+      "word": "つかの間",
+      "reading": "つかのま",
+      "meaning": "moment"
+    },
+    {
+      "word": "区切り",
+      "reading": "くぎり",
+      "meaning": "pause (in speech, writing, etc.)"
+    },
+    {
+      "word": "区画",
+      "reading": "くかく",
+      "meaning": "division"
+    },
+    {
+      "word": "茶の間",
+      "reading": "ちゃのま",
+      "meaning": "(Japanese-style) living room"
+    },
+    {
+      "word": "中間",
+      "reading": "ちゅうかん",
+      "meaning": "middle"
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaning": "companion"
+    },
+    {
+      "word": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "moment"
+    },
+    {
+      "word": "間",
+      "reading": "あいだ",
+      "meaning": "space (between)"
+    },
+    {
+      "word": "区域",
+      "reading": "くいき",
+      "meaning": "area"
+    },
+    {
+      "word": "世間",
+      "reading": "せけん",
+      "meaning": "world"
+    },
+    {
+      "word": "夜間",
+      "reading": "やかん",
+      "meaning": "night"
+    },
+    {
+      "word": "間違い",
+      "reading": "まちがい",
+      "meaning": "mistake"
+    },
+    {
+      "word": "昼間",
+      "reading": "ひるま",
+      "meaning": "daytime"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "このバスは一区間９０円です。",
+      "reading": null,
+      "english": "The bus fare here is 90 yen a section.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "不通区間の開通の見込みはまだない。",
+      "reading": null,
+      "english": "There's no hope at this moment that the closed section will be reopened.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このバスは一区間９０円です。",
+      "reading": null,
+      "english": "The bus fare here is 90 yen a section.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "不通区間の開通の見込みはまだない。",
+      "reading": null,
+      "english": "There's no hope at this moment that the closed section will be reopened.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムはマラソンで区間賞を受賞しました。",
+      "reading": null,
+      "english": "Tom got a prize for running one of the sections at a marathon the fastest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムはマラソンで区間賞を受賞しました。",
+      "reading": null,
+      "english": "Tom got a prize for running one of the sections at a marathon the fastest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いっつもこの区間は揺れるんだよなあ。",
+      "reading": null,
+      "english": "There's always a lot of shaking around this part of the track, huh?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "いっつもこの区間は揺れるんだよなあ。",
+      "reading": null,
+      "english": "There's always a lot of shaking around this part of the track, huh?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "丸める",
+    "reading": "まるめる",
+    "romaji": "marumeru",
+    "jlpt": "N1",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk membulatkan",
+          "untuk mempersempit",
+          "untuk menggulung"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to seduce",
+          "to cajole",
+          "to explain away"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to round off (a fraction)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to shave (one's head)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "丸々",
+      "reading": "まるまる",
+      "meaning": "sama sekali"
+    },
+    {
+      "word": "日の丸",
+      "reading": "ひのまる",
+      "meaning": "bendera Jepang"
+    },
+    {
+      "word": "丸ごと",
+      "reading": "まるごと",
+      "meaning": "secara keseluruhan, utuh, sepenuhnya"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "猫は背中を丸める。",
+      "reading": null,
+      "indonesian": "Cats arch their backs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "猫は背中を丸める。",
+      "reading": null,
+      "indonesian": "Cats arch their backs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

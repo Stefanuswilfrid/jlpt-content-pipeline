@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "敗北",
+    "reading": "はいぼく",
+    "romaji": "haiboku",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "defeat",
+          "loss",
+          "reverse",
+          "setback"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "腐敗",
+      "reading": "ふはい",
+      "meaning": "decomposition"
+    },
+    {
+      "word": "敗戦",
+      "reading": "はいせん",
+      "meaning": "defeat"
+    },
+    {
+      "word": "南北",
+      "reading": "なんぼく",
+      "meaning": "north and south"
+    },
+    {
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "failure"
+    },
+    {
+      "word": "勝敗",
+      "reading": "しょうはい",
+      "meaning": "victory or defeat"
+    },
+    {
+      "word": "北",
+      "reading": "きた",
+      "meaning": "north"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼らは勇敢に戦ったけれども、敗北した。",
+      "reading": null,
+      "english": "Bravely though they fought, they were defeated.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は決して敗北を認めないだろう。",
+      "reading": null,
+      "english": "He will on no account accept defeat.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "敗北や失敗は人間を非常に卑屈にする。",
+      "reading": null,
+      "english": "Defeat and failure make people too humble.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "敗北した軍はその国から撤退した。",
+      "reading": null,
+      "english": "The defeated army retreated from the country.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "実は我々は敗北を覚悟していた。",
+      "reading": null,
+      "english": "Actually, we had prepared ourselves for defeat.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分が敗北者だと認めるのは難しい。",
+      "reading": null,
+      "english": "It's hard to admit to yourself that you are a failure.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分が敗北者だと認めるのは難しい。",
+      "reading": null,
+      "english": "It's hard to admit that you're a failure.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分が敗北者だと認めるのは難しい。",
+      "reading": null,
+      "english": "It's hard to admit you're a failure.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "フランス軍はワーテルローの戦いで敗北した。",
+      "reading": null,
+      "english": "The French were defeated at Waterloo.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

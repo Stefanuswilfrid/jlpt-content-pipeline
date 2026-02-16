@@ -1,0 +1,234 @@
+{
+  "definition": {
+    "word": "野生",
+    "reading": "やせい",
+    "romaji": "yasei",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "wild"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "growing wild",
+          "living in the wild"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発生",
+      "reading": "はっせい",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "再生",
+      "reading": "さいせい",
+      "meaning": "restoration to life"
+    },
+    {
+      "word": "視野",
+      "reading": "しや",
+      "meaning": "field of vision"
+    },
+    {
+      "word": "出生",
+      "reading": "しゅっしょう",
+      "meaning": "birth"
+    },
+    {
+      "word": "野外",
+      "reading": "やがい",
+      "meaning": "outdoors"
+    },
+    {
+      "word": "畜生",
+      "reading": "ちくしょう",
+      "meaning": "damn it"
+    },
+    {
+      "word": "育成",
+      "reading": "いくせい",
+      "meaning": "rearing"
+    },
+    {
+      "word": "生き生き",
+      "reading": "いきいき",
+      "meaning": "in a lively way"
+    },
+    {
+      "word": "野心",
+      "reading": "やしん",
+      "meaning": "ambition"
+    },
+    {
+      "word": "生育",
+      "reading": "せいいく",
+      "meaning": "birth and growth"
+    },
+    {
+      "word": "生死",
+      "reading": "せいし",
+      "meaning": "life and death"
+    },
+    {
+      "word": "生計",
+      "reading": "せいけい",
+      "meaning": "livelihood"
+    },
+    {
+      "word": "生身",
+      "reading": "なまみ",
+      "meaning": "living flesh"
+    },
+    {
+      "word": "生まれつき",
+      "reading": "うまれつき",
+      "meaning": "by nature"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaning": "field"
+    },
+    {
+      "word": "野党",
+      "reading": "やとう",
+      "meaning": "opposition party"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "student (esp. a university student)"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "life"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "production"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "希少野生動物をこの国に輸入することは厳禁されています。",
+      "reading": null,
+      "english": "The importation of rare wild animals to this country is strictly prohibited.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ハンター達はその野生動物を丈夫なロープの網で捕まえた。",
+      "reading": null,
+      "english": "The hunters captured the wild animal with a strong rope net.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "野原には野生の花がたくさんある。",
+      "reading": null,
+      "english": "The fields abound in wild flowers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その野原は野生の花でいっぱいだ。",
+      "reading": null,
+      "english": "The fields abound in wild flowers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その地域は風景と野生動物で注目に値する。",
+      "reading": null,
+      "english": "The area is notable for its scenery and wildlife.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "全ての動物が野生であるとは限らない。",
+      "reading": null,
+      "english": "Not all animals are wild.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この地域には野生動物が多い。",
+      "reading": null,
+      "english": "This area abounds in wild animals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この森では野生のうさぎを見る事が出来る。",
+      "reading": null,
+      "english": "You can see some wild rabbits in the forest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この種のバラは野生です。",
+      "reading": null,
+      "english": "This kind of rose grows wild.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "キツネは野生動物です。",
+      "reading": null,
+      "english": "A fox is a wild animal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いまにも絶滅しようとしている野生動物もいます。",
+      "reading": null,
+      "english": "Some wild animals are on the verge of extinction.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "野生動物には、絶滅の危機に瀕しているものもいる。",
+      "reading": null,
+      "english": "Some wild animals are on the verge of extinction.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "「野生の動物はロボットではありません」と彼女は言う。",
+      "reading": null,
+      "english": "\"Animals in the wild are not robots,\" she says.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

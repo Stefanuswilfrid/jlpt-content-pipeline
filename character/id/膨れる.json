@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "膨れる",
+    "reading": "ふくれる",
+    "romaji": "fukureru",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "membengkak",
+          "mengembang",
+          "menggembung"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get cross",
+          "to get sulky",
+          "to pout"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "膨張",
+      "reading": "ぼうちょう",
+      "meaning": "perluasan, pembengkakan, peningkatan"
+    },
+    {
+      "word": "膨大",
+      "reading": "ぼうだい",
+      "meaning": "sangat besar, luas"
+    },
+    {
+      "word": "膨らむ",
+      "reading": "ふくらむ",
+      "meaning": "mengembang, membengkak, menjadi menggembung"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "トムってすぐ膨れるよね。",
+      "reading": null,
+      "indonesian": "Tom gets cross easily.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "炭酸を飲むとすぐにお腹が膨れる。",
+      "reading": null,
+      "indonesian": "When I drink carbonated water my stomach quickly starts feeling inflated.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムってすぐ膨れるよね。",
+      "reading": null,
+      "indonesian": "Tom gets cross easily.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "炭酸を飲むとすぐにお腹が膨れる。",
+      "reading": null,
+      "indonesian": "When I drink carbonated water my stomach quickly starts feeling inflated.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

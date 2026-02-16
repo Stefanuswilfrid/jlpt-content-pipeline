@@ -1,0 +1,179 @@
+{
+  "definition": {
+    "word": "演出",
+    "reading": "えんしゅつ",
+    "romaji": "enshutsu",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "direction (of a play, film, etc.)",
+          "production"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "organization (of an event)",
+          "arrangement",
+          "staging (for effect)",
+          "orchestration"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出演",
+      "reading": "しゅつえん",
+      "meaning": "appearance (in a film, play, TV show, etc.)"
+    },
+    {
+      "word": "進出",
+      "reading": "しんしゅつ",
+      "meaning": "advance (into a new market, industry, etc.)"
+    },
+    {
+      "word": "出産",
+      "reading": "しゅっさん",
+      "meaning": "childbirth"
+    },
+    {
+      "word": "主演",
+      "reading": "しゅえん",
+      "meaning": "starring (in a film, play, etc.)"
+    },
+    {
+      "word": "出生",
+      "reading": "しゅっしょう",
+      "meaning": "birth"
+    },
+    {
+      "word": "上演",
+      "reading": "じょうえん",
+      "meaning": "performance (of a play, opera, etc.)"
+    },
+    {
+      "word": "脱出",
+      "reading": "だっしゅつ",
+      "meaning": "escape"
+    },
+    {
+      "word": "出血",
+      "reading": "しゅっけつ",
+      "meaning": "bleeding"
+    },
+    {
+      "word": "出動",
+      "reading": "しゅつどう",
+      "meaning": "mobilization"
+    },
+    {
+      "word": "出現",
+      "reading": "しゅつげん",
+      "meaning": "appearance"
+    },
+    {
+      "word": "出品",
+      "reading": "しゅっぴん",
+      "meaning": "exhibiting"
+    },
+    {
+      "word": "出直し",
+      "reading": "でなおし",
+      "meaning": "starting from scratch"
+    },
+    {
+      "word": "出費",
+      "reading": "しゅっぴ",
+      "meaning": "expenses"
+    },
+    {
+      "word": "放出",
+      "reading": "ほうしゅつ",
+      "meaning": "emission"
+    },
+    {
+      "word": "出世",
+      "reading": "しゅっせ",
+      "meaning": "success in life"
+    },
+    {
+      "word": "売り出す",
+      "reading": "うりだす",
+      "meaning": "to put on the market"
+    },
+    {
+      "word": "振り出し",
+      "reading": "ふりだし",
+      "meaning": "shaking (something) out"
+    },
+    {
+      "word": "噴出",
+      "reading": "ふんしゅつ",
+      "meaning": "spewing"
+    },
+    {
+      "word": "売り出し",
+      "reading": "うりだし",
+      "meaning": "(bargain) sale"
+    },
+    {
+      "word": "出題",
+      "reading": "しゅつだい",
+      "meaning": "setting a question (for an exam, quiz, etc.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自己演出",
+      "reading": "じこえんしゅつ",
+      "meaning": "author directing or producing his or her own play (film)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その劇は彼によって演出された。",
+      "reading": null,
+      "english": "The play was produced by him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その劇は彼によって演出された。",
+      "reading": null,
+      "english": "The play was produced by him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんな演出意図、誰もわからないよ。",
+      "reading": null,
+      "english": "No one will understand the point of such a production.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そんな演出意図、誰もわからないよ。",
+      "reading": null,
+      "english": "No one will understand the point of such a production.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

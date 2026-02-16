@@ -1,0 +1,176 @@
+{
+  "definition": {
+    "word": "処置",
+    "reading": "しょち",
+    "romaji": "shochi",
+    "jlpt": "N1",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "perlakuan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "medical treatment"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "配置",
+      "reading": "はいち",
+      "meaning": "pengaturan (sumber daya), disposisi"
+    },
+    {
+      "word": "対処",
+      "reading": "たいしょ",
+      "meaning": "menangani, mengatasi"
+    },
+    {
+      "word": "処罰",
+      "reading": "しょばつ",
+      "meaning": "hukuman"
+    },
+    {
+      "word": "措置",
+      "reading": "そち",
+      "meaning": "mengukur, langkah"
+    },
+    {
+      "word": "処分",
+      "reading": "しょぶん",
+      "meaning": "pembuangan, penanganan, hukuman"
+    },
+    {
+      "word": "設置",
+      "reading": "せっち",
+      "meaning": "pendirian, lembaga"
+    },
+    {
+      "word": "放置",
+      "reading": "ほうち",
+      "meaning": "biarkan apa adanya, jangan ganggu, abaikan"
+    },
+    {
+      "word": "前置き",
+      "reading": "まえおき",
+      "meaning": "kata pengantar, pendahuluan"
+    },
+    {
+      "word": "置く",
+      "reading": "おく",
+      "meaning": "meletakkan; menaruh; menempatkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "善後処置",
+      "reading": "ぜんごしょち",
+      "meaning": "remedial measure",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "応急処置をお願いします。",
+      "reading": null,
+      "indonesian": "I need first aid.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "応急処置のできる人はいませんか。",
+      "reading": null,
+      "indonesian": "Is there anybody who knows first aid?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "応急処置をしときますね。",
+      "reading": null,
+      "indonesian": "I'll give you a temporary treatment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どういう処置を取るかはあなたに任せます。",
+      "reading": null,
+      "indonesian": "I leave it in your hands what course of action to take.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの患者には外科的な処置だけでは十分とは言い難い。",
+      "reading": null,
+      "indonesian": "For these patients, surgical treatment is far from being satisfactory.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼をどう処置しようかと迷っているのです。",
+      "reading": null,
+      "indonesian": "I am in doubt what to do with him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は臨機応変の処置を取った。",
+      "reading": null,
+      "indonesian": "He took the proper steps to meet the situation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は裁判官に寛大な処置を願った。",
+      "reading": null,
+      "indonesian": "He pleaded with the judge for mercy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼に応急処置をお願いします。",
+      "reading": null,
+      "indonesian": "Can you give him first aid?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本にすぐに帰るので応急処置だけしていただけますか。",
+      "reading": null,
+      "indonesian": "Could I get some temporary treatment because I'll be going back to Japan soon?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "店で気絶して意識を取り戻した時彼女は応急処置室にいた。",
+      "reading": null,
+      "indonesian": "She fainted in the store and found herself in the first aid room when she came to.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

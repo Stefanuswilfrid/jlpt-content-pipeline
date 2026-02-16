@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "診療",
+    "reading": "しんりょう",
+    "romaji": "shinryou",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pemeriksaan dan pengobatan medis"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "往診",
+      "reading": "おうしん",
+      "meaning": "kunjungan dokter, kunjungan rumah"
+    },
+    {
+      "word": "聴診器",
+      "reading": "ちょうしんき",
+      "meaning": "stetoskop"
+    },
+    {
+      "word": "医療",
+      "reading": "いりょう",
+      "meaning": "perawatan medis, pengobatan medis"
+    },
+    {
+      "word": "治療",
+      "reading": "ちりょう",
+      "meaning": "perawatan medis"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosa"
+    },
+    {
+      "word": "診察",
+      "reading": "しんさつ",
+      "meaning": "pemeriksaan medis (pasien)"
+    },
+    {
+      "word": "診る",
+      "reading": "みる",
+      "meaning": "untuk memeriksa (pasien)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼の診療所は、そのスキャンダル以来多くの患者を失った。",
+      "reading": null,
+      "indonesian": "His clinic has lost many patients since the scandal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "診療予約を取ってもらえますか。",
+      "reading": null,
+      "indonesian": "Can I make an appointment to have a medical examination?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "診療予約を取ってもらえますか。",
+      "reading": null,
+      "indonesian": "Can I make an appointment to have a medical examination?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼の診療所は、そのスキャンダル以来多くの患者を失った。",
+      "reading": null,
+      "indonesian": "His clinic has lost many patients since the scandal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

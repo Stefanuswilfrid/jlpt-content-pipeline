@@ -1,0 +1,197 @@
+{
+  "definition": {
+    "word": "回路",
+    "reading": "かいろ",
+    "romaji": "kairo",
+    "jlpt": "N1",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rangkaian (listrik)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cycle (e.g. Krebs cycle)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cycle",
+          "loop"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "根回し",
+      "reading": "ねまわし",
+      "meaning": "membuat pengaturan yang diperlukan"
+    },
+    {
+      "word": "経路",
+      "reading": "けいろ",
+      "meaning": "jalur, rute, saluran"
+    },
+    {
+      "word": "身の回り",
+      "reading": "みのまわり",
+      "meaning": "penampilan pribadi seseorang, barang-barang pribadi"
+    },
+    {
+      "word": "回収",
+      "reading": "かいしゅう",
+      "meaning": "pengumpulan, pemulihan"
+    },
+    {
+      "word": "後回し",
+      "reading": "あとまわし",
+      "meaning": "menunda, mengundur"
+    },
+    {
+      "word": "回送",
+      "reading": "かいそう",
+      "meaning": "meneruskan"
+    },
+    {
+      "word": "海路",
+      "reading": "かいろ",
+      "meaning": "jalur laut"
+    },
+    {
+      "word": "回覧",
+      "reading": "かいらん",
+      "meaning": "sirkulasi"
+    },
+    {
+      "word": "十字路",
+      "reading": "じゅうじろ",
+      "meaning": "persimpangan"
+    },
+    {
+      "word": "遠回り",
+      "reading": "とおまわり",
+      "meaning": "jalan memutar, jalan memutar"
+    },
+    {
+      "word": "転回",
+      "reading": "てんかい",
+      "meaning": "revolusi, rotasi"
+    },
+    {
+      "word": "回転",
+      "reading": "かいてん",
+      "meaning": "rotasi, berputar"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "回路を調べる前に、電源のスイッチを切りなさい。",
+      "reading": null,
+      "indonesian": "You must switch off the power before checking the circuit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのシステム中には保護回路が組み込まれています。",
+      "reading": null,
+      "indonesian": "The protection circuit is built into the system.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このシステムには、保護回路が組み込まれています。",
+      "reading": null,
+      "indonesian": "A protection system has been built into this circuit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このシステムには、保護回路が組み込まれています。",
+      "reading": null,
+      "indonesian": "With this system a protection circuit has been built in.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ここで迷わず迂回路を取ることにする。",
+      "reading": null,
+      "indonesian": "Here I decide, without hesitating, to take the alternative route.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "保護回路を飛ばしてしまおう。",
+      "reading": null,
+      "indonesian": "Let's bypass the protection circuit.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "保護回路を飛ばしてしまおう。",
+      "reading": null,
+      "indonesian": "Let's jump the protection circuit.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "回路を調べる前に、電源のスイッチを切りなさい。",
+      "reading": null,
+      "indonesian": "You must switch off the power before checking the circuit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのシステム中には保護回路が組み込まれています。",
+      "reading": null,
+      "indonesian": "The protection circuit is built into the system.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このシステムには、保護回路が組み込まれています。",
+      "reading": null,
+      "indonesian": "A protection system has been built into this circuit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このシステムには、保護回路が組み込まれています。",
+      "reading": null,
+      "indonesian": "With this system a protection circuit has been built in.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このシステムには、保護回路が組み込まれています。",
+      "reading": null,
+      "indonesian": "This system has a built-in protection circuit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "顔つき",
+    "reading": "かおつき",
+    "romaji": "kaotsuki",
+    "jlpt": "N1",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(outward) looks",
+          "features",
+          "face",
+          "countenance",
+          "expression"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "顔",
+      "reading": "かお",
+      "meaning": "face"
+    },
+    {
+      "word": "笑顔",
+      "reading": "えがお",
+      "meaning": "smiling face"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼は優しい顔付きをしている。",
+      "reading": null,
+      "english": "He has a kind expression.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は優しい顔付きをしている。",
+      "reading": null,
+      "english": "He has a kind expression.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

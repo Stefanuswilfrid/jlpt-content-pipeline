@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "清濁",
+    "reading": "せいだく",
+    "romaji": "seidaku",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "good and evil",
+          "purity and impurity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "voiced and unvoiced consonants"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "清純",
+      "reading": "せいじゅん",
+      "meaning": "purity"
+    },
+    {
+      "word": "清掃",
+      "reading": "せいそう",
+      "meaning": "cleaning"
+    },
+    {
+      "word": "清書",
+      "reading": "せいしょ",
+      "meaning": "fair copy"
+    },
+    {
+      "word": "清潔",
+      "reading": "せいけつ",
+      "meaning": "clean"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "清濁併せ呑む",
+      "reading": "せいだくあわせのむ",
+      "meaning": "to be broad-minded enough to associate with various types of people",
+      "type": "idiom"
+    },
+    {
+      "word": "清濁併呑",
+      "reading": "せいだくへいどん",
+      "meaning": "being so broad-minded as to accept all sorts of things, both good and evil",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "清濁あわせのむ。",
+      "reading": null,
+      "english": "Accept both good and bad.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "清濁あわせのむ。",
+      "reading": null,
+      "english": "Accept both good and bad.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

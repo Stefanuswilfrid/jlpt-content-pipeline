@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "弾む",
+    "reading": "はずむ",
+    "romaji": "hazumu",
+    "jlpt": "N1",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk bersemangat",
+          "untuk mendapat dorongan",
+          "untuk berfoya-foya"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be stimulated",
+          "to be encouraged",
+          "to get lively"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pay handsomely",
+          "to splurge",
+          "to part eagerly with (money, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to breathe hard",
+          "to pant",
+          "to be out of breath"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "弾く",
+      "reading": "はじく",
+      "meaning": "memainkan (piano, gitar)"
+    },
+    {
+      "word": "弾く",
+      "reading": "ひく",
+      "meaning": "memainkan (piano, gitar)"
+    },
+    {
+      "word": "爆弾",
+      "reading": "ばくだん",
+      "meaning": "bom"
+    },
+    {
+      "word": "弾力",
+      "reading": "だんりょく",
+      "meaning": "elastisitas, fleksibilitas"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ゴムのボールは弾力性があるから弾む。",
+      "reading": null,
+      "indonesian": "A rubber ball bounces because it is elastic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ゴムのボールは弾力性があるから弾む。",
+      "reading": null,
+      "indonesian": "A rubber ball bounces because it is elastic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

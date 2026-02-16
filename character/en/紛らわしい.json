@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "紛らわしい",
+    "reading": "まぎらわしい",
+    "romaji": "magirawashii",
+    "jlpt": "N1",
+    "frequency": 21750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "easily mixed up (e.g. similar words)",
+          "easily mistaken",
+          "confusing",
+          "misleading",
+          "equivocal",
+          "ambiguous"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "紛争",
+      "reading": "ふんそう",
+      "meaning": "dispute"
+    },
+    {
+      "word": "紛失",
+      "reading": "ふんしつ",
+      "meaning": "loss"
+    },
+    {
+      "word": "紛れる",
+      "reading": "まぎれる",
+      "meaning": "to disappear into"
+    },
+    {
+      "word": "気まぐれ",
+      "reading": "きまぐれ",
+      "meaning": "whim"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これはちょっと紛らわしいな。",
+      "reading": null,
+      "english": "This is a bit confusing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これはちょっと紛らわしいな。",
+      "reading": null,
+      "english": "This is a bit confusing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

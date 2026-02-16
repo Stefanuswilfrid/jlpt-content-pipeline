@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "漏れる",
+    "reading": "もれる",
+    "romaji": "moreru",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "bocor keluar",
+          "lolos",
+          "tersaring keluar"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to find expression",
+          "to give vent"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to leak out",
+          "to be divulged",
+          "to be disclosed"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be omitted",
+          "to be left out",
+          "to be excluded",
+          "to be not included"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "漏る",
+      "reading": "もる",
+      "meaning": "bocor, habis"
+    },
+    {
+      "word": "漏らす",
+      "reading": "もらす",
+      "meaning": "membiarkan bocor, mengungkapkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "上手の手から水が漏れる",
+      "reading": "じょうずのてからみずがもれる",
+      "meaning": "even Homer nods",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その話が漏れると私は困ったことになる。",
+      "reading": null,
+      "indonesian": "I'll be in trouble if the story gets out.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その話が漏れると私は困ったことになる。",
+      "reading": null,
+      "indonesian": "I'll be in trouble if the story gets out.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その話が漏れると私は困ったことになる。",
+      "reading": null,
+      "indonesian": "If that story gets leaked, I'll be in trouble.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "カーテンから光が漏れる。",
+      "reading": null,
+      "indonesian": "Light is coming through the curtains.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "カーテンから光が漏れる。",
+      "reading": null,
+      "indonesian": "There's light coming through the curtains.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "カーテンから光が漏れる。",
+      "reading": null,
+      "indonesian": "Light is coming through the curtains.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "カーテンから光が漏れる。",
+      "reading": null,
+      "indonesian": "There's light coming through the curtains.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その話が漏れると私は困ったことになる。",
+      "reading": null,
+      "indonesian": "If that story gets leaked, I'll be in trouble.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

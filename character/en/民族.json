@@ -1,0 +1,200 @@
+{
+  "definition": {
+    "word": "民族",
+    "reading": "みんぞく",
+    "romaji": "minzoku",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "people",
+          "race",
+          "nation",
+          "ethnic group",
+          "ethnos"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "人民",
+      "reading": "じんみん",
+      "meaning": "the people"
+    },
+    {
+      "word": "庶民",
+      "reading": "しょみん",
+      "meaning": "common people"
+    },
+    {
+      "word": "移民",
+      "reading": "いみん",
+      "meaning": "immigration"
+    },
+    {
+      "word": "植民地",
+      "reading": "しょくみんち",
+      "meaning": "colony"
+    },
+    {
+      "word": "民俗",
+      "reading": "みんぞく",
+      "meaning": "folk customs"
+    },
+    {
+      "word": "貴族",
+      "reading": "きぞく",
+      "meaning": "nobility"
+    },
+    {
+      "word": "民宿",
+      "reading": "みんしゅく",
+      "meaning": "guest house"
+    },
+    {
+      "word": "国民",
+      "reading": "こくみん",
+      "meaning": "people (of a country)"
+    },
+    {
+      "word": "市民",
+      "reading": "しみん",
+      "meaning": "citizen (of a country)"
+    },
+    {
+      "word": "住民",
+      "reading": "じゅうみん",
+      "meaning": "inhabitant"
+    },
+    {
+      "word": "民間",
+      "reading": "みんかん",
+      "meaning": "private"
+    },
+    {
+      "word": "家族",
+      "reading": "かぞく",
+      "meaning": "family"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "民族自決",
+      "reading": "みんぞくじけつ",
+      "meaning": "self-determination of peoples",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "我々は平和を愛する民族である。",
+      "reading": null,
+      "english": "We are a peace-loving nation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々は少数民族の権利を守らなければならない。",
+      "reading": null,
+      "english": "We have to stand up for minority rights.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ヨーロッパは強力な雑種民族大陸である。",
+      "reading": null,
+      "english": "Europe is a continent of energetic peoples.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どの民族も独自の神話を持っている。",
+      "reading": null,
+      "english": "Every nation has its own myths.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その当時、そこには未開民族が住んでいた。",
+      "reading": null,
+      "english": "A savage tribe lived there in those days.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その国にはいくつかの民族がある。",
+      "reading": null,
+      "english": "There are several peoples in the country.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの食べ物は、さまざまな民族の集団を連想させる。",
+      "reading": null,
+      "english": "These foods are associated with ethnic groups.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この民族の起源は神秘につつまれている。",
+      "reading": null,
+      "english": "The origins of these people is shrouded in mystery.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ここでは多様な民族的・経済的利害関係がみられる。",
+      "reading": null,
+      "english": "We find diverse ethnic and economic interests here.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "インカ人は信心深い民族だった。",
+      "reading": null,
+      "english": "The Inca were religious people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アジアの民族は協力し合わなければならない。",
+      "reading": null,
+      "english": "People of Asia must work together.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アジアには多民族が住んでいる。",
+      "reading": null,
+      "english": "Many peoples live in Asia.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アジアにはたくさんの民族がいる。",
+      "reading": null,
+      "english": "There are many people in Asia.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

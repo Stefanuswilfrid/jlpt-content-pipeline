@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "絶える",
+    "reading": "たえる",
+    "romaji": "taeru",
+    "jlpt": "N1",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berhenti",
+          "punah"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to cease",
+          "to be stopped",
+          "to be discontinued",
+          "to be cut off"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "途絶える",
+      "reading": "とだえる",
+      "meaning": "berhenti, mengakhiri, mencapai akhir"
+    },
+    {
+      "word": "絶版",
+      "reading": "ぜっぱん",
+      "meaning": "sudah tidak dicetak lagi"
+    },
+    {
+      "word": "拒絶",
+      "reading": "きょぜつ",
+      "meaning": "penolakan, penyangkalan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足が途絶える",
+      "reading": "あしがとだえる",
+      "meaning": "to lose all customers (visitors, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

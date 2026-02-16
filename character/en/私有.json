@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "私有",
+    "reading": "しゆう",
+    "romaji": "shiyuu",
+    "jlpt": "N1",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "private ownership"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "固有",
+      "reading": "こゆう",
+      "meaning": "characteristic"
+    },
+    {
+      "word": "特有",
+      "reading": "とくゆう",
+      "meaning": "characteristic (of)"
+    },
+    {
+      "word": "国有",
+      "reading": "こくゆう",
+      "meaning": "national ownership"
+    },
+    {
+      "word": "有望",
+      "reading": "ゆうぼう",
+      "meaning": "promising"
+    },
+    {
+      "word": "有益",
+      "reading": "ゆうえき",
+      "meaning": "beneficial"
+    },
+    {
+      "word": "有力",
+      "reading": "ゆうりょく",
+      "meaning": "influential"
+    },
+    {
+      "word": "所有",
+      "reading": "しょゆう",
+      "meaning": "possession"
+    },
+    {
+      "word": "私物",
+      "reading": "しぶつ",
+      "meaning": "private property"
+    },
+    {
+      "word": "有する",
+      "reading": "ゆうする",
+      "meaning": "to have"
+    },
+    {
+      "word": "私鉄",
+      "reading": "してつ",
+      "meaning": "private railway"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼はわれわれの私有地に不法侵入している、無断で通っている。",
+      "reading": null,
+      "english": "He is trespassing on our private property.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はわれわれの私有地に不法侵入している、無断で通っている。",
+      "reading": null,
+      "english": "He is trespassing on our private property.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

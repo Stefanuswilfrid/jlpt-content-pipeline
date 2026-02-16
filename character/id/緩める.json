@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "緩める",
+    "reading": "ゆるめる",
+    "romaji": "yurumeru",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk melonggarkan",
+          "untuk memperlambat"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to relax (attention, efforts, etc.)",
+          "to let down (one's guard)",
+          "to relieve (tension)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to relax (a rule)",
+          "to ease (e.g. restrictions)",
+          "to loosen (control)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to reduce (speed)",
+          "to slow down",
+          "to ease up"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make more gradual (of a slope)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "緩和",
+      "reading": "かんわ",
+      "meaning": "bantuan, mitigasi"
+    },
+    {
+      "word": "緩やか",
+      "reading": "ゆるやか",
+      "meaning": "lunak"
+    },
+    {
+      "word": "緩む",
+      "reading": "ゆるむ",
+      "meaning": "menjadi longgar, mengendur"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

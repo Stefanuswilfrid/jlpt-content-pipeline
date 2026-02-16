@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "聞き取り",
+    "reading": "ききとり",
+    "romaji": "kikitori",
+    "jlpt": "N1",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "listening comprehension",
+          "aural comprehension"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hearing what others say",
+          "gathering information, opinions, etc.",
+          "public hearing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "取引",
+      "reading": "とりひき",
+      "meaning": "transactions"
+    },
+    {
+      "word": "取材",
+      "reading": "しゅざい",
+      "meaning": "gathering material (for an article, novel, etc.)"
+    },
+    {
+      "word": "日取り",
+      "reading": "ひどり",
+      "meaning": "fixed date"
+    },
+    {
+      "word": "下取り",
+      "reading": "したどり",
+      "meaning": "trade-in"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "大阪の方言は聞き取り難い。",
+      "reading": null,
+      "english": "It's hard to catch words in the Osakan dialect.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大阪の方言は聞き取り難い。",
+      "reading": null,
+      "english": "It's hard to understand the Osaka dialect.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大阪の方言は聞き取り難い。",
+      "reading": null,
+      "english": "It's hard to catch words in the Osakan dialect.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大阪の方言は聞き取り難い。",
+      "reading": null,
+      "english": "It's hard to understand the Osaka dialect.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

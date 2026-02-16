@@ -1,0 +1,217 @@
+{
+  "definition": {
+    "word": "調べ",
+    "reading": "しらべ",
+    "romaji": "shirabe",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "investigation",
+          "inspection",
+          "examination"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "tune",
+          "note",
+          "melody"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "好調",
+      "reading": "こうちょう",
+      "meaning": "favourable"
+    },
+    {
+      "word": "調印",
+      "reading": "ちょういん",
+      "meaning": "signature"
+    },
+    {
+      "word": "調停",
+      "reading": "ちょうてい",
+      "meaning": "arbitration"
+    },
+    {
+      "word": "調理",
+      "reading": "ちょうり",
+      "meaning": "cooking"
+    },
+    {
+      "word": "調和",
+      "reading": "ちょうわ",
+      "meaning": "harmony"
+    },
+    {
+      "word": "不調",
+      "reading": "ふちょう",
+      "meaning": "bad condition"
+    },
+    {
+      "word": "同調",
+      "reading": "どうちょう",
+      "meaning": "conformity"
+    },
+    {
+      "word": "単調",
+      "reading": "たんちょう",
+      "meaning": "monotony"
+    },
+    {
+      "word": "下調べ",
+      "reading": "したしらべ",
+      "meaning": "preliminary investigation"
+    },
+    {
+      "word": "失調",
+      "reading": "しっちょう",
+      "meaning": "lack of harmony"
+    },
+    {
+      "word": "調査",
+      "reading": "ちょうさ",
+      "meaning": "investigation"
+    },
+    {
+      "word": "調整",
+      "reading": "ちょうせい",
+      "meaning": "adjustment"
+    },
+    {
+      "word": "協調",
+      "reading": "きょうちょう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "favourable"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaning": "tune"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の車は音が大きすぎる。調べてもらうべきだよ。",
+      "reading": null,
+      "english": "Your car makes too much noise. You should have it looked at.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の辞書で‘ｇｕｙ’の語義を調べなさい。",
+      "reading": null,
+      "english": "Look up the definition of 'guy' in your dictionary.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の辞書でその単語を調べてみなさい。",
+      "reading": null,
+      "english": "Look up the words in your dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの報告書を調べてみます。",
+      "reading": null,
+      "english": "I'll study your report.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "回路を調べる前に、電源のスイッチを切りなさい。",
+      "reading": null,
+      "english": "You must switch off the power before checking the circuit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "会計係はこれらの数字を調べるだろう。",
+      "reading": null,
+      "english": "The accountant will go into these figures.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何年間もマリナは家のことを調べていた。",
+      "reading": null,
+      "english": "For years Marina had been inspecting houses.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "下調べはしたかい。会議は２日後だよ。",
+      "reading": null,
+      "english": "Did you do your homework? The meeting is only two days away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語を書くときは、彼はしばしば辞書を調べる。",
+      "reading": null,
+      "english": "When he writes English, he often consults the dictionary.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医者はその子を調べて、健康だと言った。",
+      "reading": null,
+      "english": "The doctor examined the child and said she was healthy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "医者は、私の胃を調べるためにＸ線を用いた。",
+      "reading": null,
+      "english": "The doctor used X-rays to examine my stomach.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ロンドン行きの列車を時刻表で調べなさい。",
+      "reading": null,
+      "english": "Look up the trains to London in the timetable.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "よく知らない単語はみな辞書で調べるべきだ。",
+      "reading": null,
+      "english": "You should look up all unfamiliar words in a dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

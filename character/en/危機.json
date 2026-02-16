@@ -1,0 +1,161 @@
+{
+  "definition": {
+    "word": "危機",
+    "reading": "きき",
+    "romaji": "kiki",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "crisis",
+          "critical situation",
+          "emergency",
+          "pinch"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "動機",
+      "reading": "どうき",
+      "meaning": "motive"
+    },
+    {
+      "word": "危害",
+      "reading": "きがい",
+      "meaning": "injury"
+    },
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "engine"
+    },
+    {
+      "word": "機構",
+      "reading": "きこう",
+      "meaning": "mechanism"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaning": "function"
+    },
+    {
+      "word": "危険",
+      "reading": "きけん",
+      "meaning": "danger"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaning": "chance"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaning": "machine"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "airplane"
+    },
+    {
+      "word": "契機",
+      "reading": "けいき",
+      "meaning": "opportunity"
+    },
+    {
+      "word": "有機",
+      "reading": "ゆうき",
+      "meaning": "organic"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "危機一髪",
+      "reading": "ききいっぱつ",
+      "meaning": "by a hair's breadth",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は不屈の精神で危機を切り抜けられるだろう。",
+      "reading": null,
+      "english": "Your undaunted spirit will carry you through.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は危機に直面していることを知らねばならんよ。",
+      "reading": null,
+      "english": "You must know you're faced with a crisis.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "近い将来エネルギー危機が起こるだろう。",
+      "reading": null,
+      "english": "There will be an energy crisis in the near future.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは危機に瀕すると、逃げる。",
+      "reading": null,
+      "english": "When they are in danger, they run away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "危機の際には赤ランプが点灯する。",
+      "reading": null,
+      "english": "The red lamp lights up in case of danger.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "危機の時は落ち着かなければならない。",
+      "reading": null,
+      "english": "In a crisis you must keep your head.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "患者は今や危機を脱した。",
+      "reading": null,
+      "english": "The patient is out of danger now.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は一大危機に直面している。",
+      "reading": null,
+      "english": "We are facing a violent crisis.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わが国は危機に陥っている。",
+      "reading": null,
+      "english": "Our country is in a crisis.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

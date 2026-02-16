@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "液",
+    "reading": "えき",
+    "romaji": "eki",
+    "jlpt": "N1",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "cairan",
+          "fluida"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "溶液",
+      "reading": "ようえき",
+      "meaning": "larutan"
+    },
+    {
+      "word": "血液",
+      "reading": "けつえき",
+      "meaning": "darah"
+    },
+    {
+      "word": "液体",
+      "reading": "えきたい",
+      "meaning": "cairan, fluida"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "蜜液",
+      "reading": "みつえき",
+      "meaning": "love fluids",
+      "type": "expression"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "液体は気体より重い。",
+      "reading": null,
+      "indonesian": "Liquids are heavier than gases.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "液晶画面は、見にくいなぁ。",
+      "reading": null,
+      "indonesian": "You can't see too well with these LCD displays.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そもそも何故私の物だけ液晶に線が入っていたのか。",
+      "reading": null,
+      "indonesian": "In any case why was it only mine that had a line in the LCD?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その液体は強烈な匂いを発した。",
+      "reading": null,
+      "indonesian": "The liquid gave off a strong smell.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その液体はうまくこせない。",
+      "reading": null,
+      "indonesian": "The liquid does not strain well.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その液はいやな臭いを発した。",
+      "reading": null,
+      "indonesian": "The liquor gave off a sickly odor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スポンジは液体を吸い取る。",
+      "reading": null,
+      "indonesian": "A sponge absorbs liquids.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この透明な液体は毒のようなものを含んでいる。",
+      "reading": null,
+      "indonesian": "This transparent liquid contains a kind of poison.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この透明な液体には毒が含まれている。",
+      "reading": null,
+      "indonesian": "This transparent liquid contains poison.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この液体は３つの要素に分解できる。",
+      "reading": null,
+      "indonesian": "This liquid can be resolved into three elements.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "きついバンドは血液の循環を妨げる。",
+      "reading": null,
+      "indonesian": "A tight belt will interfere with circulation of the blood.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "アンモニアは、非常に強い匂いをもった液体または気体である。",
+      "reading": null,
+      "indonesian": "Ammonia is a colorless liquid or gas with a very strong smell.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの血液型は何ですか。",
+      "reading": null,
+      "indonesian": "What's your blood group?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

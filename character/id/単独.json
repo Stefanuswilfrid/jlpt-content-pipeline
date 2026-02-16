@@ -1,0 +1,183 @@
+{
+  "definition": {
+    "word": "単独",
+    "reading": "たんどく",
+    "romaji": "tandoku",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "tunggal",
+          "satuan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "independence",
+          "singleness",
+          "singularity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "独自",
+      "reading": "どくじ",
+      "meaning": "asli, unik, khas"
+    },
+    {
+      "word": "独裁",
+      "reading": "どくさい",
+      "meaning": "kediktatoran, despotisme"
+    },
+    {
+      "word": "独占",
+      "reading": "どくせん",
+      "meaning": "monopoli"
+    },
+    {
+      "word": "孤独",
+      "reading": "こどく",
+      "meaning": "isolasi, kesepian, kesunyian"
+    },
+    {
+      "word": "単一",
+      "reading": "たんいつ",
+      "meaning": "tunggal, sederhana, satu-satunya"
+    },
+    {
+      "word": "単調",
+      "reading": "たんちょう",
+      "meaning": "kemonotonan, monoton, kebosanan"
+    },
+    {
+      "word": "独創",
+      "reading": "どくそう",
+      "meaning": "keaslian"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "sederhana"
+    },
+    {
+      "word": "独立",
+      "reading": "どくりつ",
+      "meaning": "kemandirian (misalnya, Hari Kemerdekaan), swadaya"
+    },
+    {
+      "word": "単位",
+      "reading": "たんい",
+      "meaning": "kredit (untuk suatu mata kuliah di sekolah); satuan, denominasi"
+    },
+    {
+      "word": "単純",
+      "reading": "たんじゅん",
+      "meaning": "kesederhanaan"
+    },
+    {
+      "word": "独特",
+      "reading": "どくとく",
+      "meaning": "kekhasan, keunikan, karakteristik"
+    },
+    {
+      "word": "独身",
+      "reading": "どくしん",
+      "meaning": "lajang, belum menikah"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "satu orang"
+    },
+    {
+      "word": "単数",
+      "reading": "たんすう",
+      "meaning": "tunggal (angka)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そういうことは単独でやるべきではない。",
+      "reading": null,
+      "indonesian": "You should not do that kind of thing by yourself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "肩関節は、単独で動くほか、腕の動きにも連動して動きます。",
+      "reading": null,
+      "indonesian": "The shoulder joints, as well as moving on their own, also move in conjunction with arm movements.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "不幸は単独でやってこない。",
+      "reading": null,
+      "indonesian": "Misfortune never come single.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "単独で太平洋を航海するのは勇気を要した。",
+      "reading": null,
+      "indonesian": "It took courage to sail across the Pacific single-handed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "単独でその崖を登るのは大胆な行為だ。",
+      "reading": null,
+      "indonesian": "Climbing the cliff alone is a bold deed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人間は誰も自分一人の力で単独に生きてはいけない。",
+      "reading": null,
+      "indonesian": "No man can live by and for himself.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は不幸は単独にはやってこないと言うことを忘れない。",
+      "reading": null,
+      "indonesian": "I bear in mind that misfortunes never come singly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そういうことは単独でやるべきではない。",
+      "reading": null,
+      "indonesian": "You should not do that kind of thing by yourself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は不幸は単独にはやってこないと言うことを忘れない。",
+      "reading": null,
+      "indonesian": "I bear in mind that misfortunes never come singly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

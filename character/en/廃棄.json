@@ -1,0 +1,159 @@
+{
+  "definition": {
+    "word": "廃棄",
+    "reading": "はいき",
+    "romaji": "haiki",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "disposal",
+          "abandonment",
+          "scrapping",
+          "discarding",
+          "abolition"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "annulment",
+          "cancellation",
+          "abrogation",
+          "repeal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "廃止",
+      "reading": "はいし",
+      "meaning": "abolition"
+    },
+    {
+      "word": "棄権",
+      "reading": "きけん",
+      "meaning": "abstention (from voting)"
+    },
+    {
+      "word": "破棄",
+      "reading": "はき",
+      "meaning": "tearing up and discarding (e.g. documents)"
+    },
+    {
+      "word": "荒廃",
+      "reading": "こうはい",
+      "meaning": "ruin"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その本はすべて廃棄せよと彼らは要求した。",
+      "reading": null,
+      "english": "They have demanded that all copies of the book be destroyed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その廃棄物はどこに処分したらいいのか。",
+      "reading": null,
+      "english": "Where should we dispose of the waste?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その川は家庭や工場からの廃棄物によって汚染されている。",
+      "reading": null,
+      "english": "The river is polluted by waste from houses and factories.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その工場は古い機械類を廃棄することにした。",
+      "reading": null,
+      "english": "The factory decided to do away with the old machinery.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その工場の廃棄物は深刻な環境汚染を引き起こした。",
+      "reading": null,
+      "english": "The factory waste gave rise to serious environmental pollution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この川は工場の廃棄物で汚染されている。",
+      "reading": null,
+      "english": "This river is polluted with factory waste.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "米国の核廃棄物、テロ攻撃の標的になりうる。",
+      "reading": null,
+      "english": "America's radioactive waste may be targeted in terrorist attacks.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "廃棄物は我々の水の一部を汚染した。",
+      "reading": null,
+      "english": "Wastes have polluted portions of our water.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "政府はこれらの法規を廃棄すべきである。",
+      "reading": null,
+      "english": "The government should do away with these regulations.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "産業廃棄物が地球を汚染する。",
+      "reading": null,
+      "english": "Industrial wastes pollute the earth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "工場廃棄物で海は汚染された。",
+      "reading": null,
+      "english": "Factory waste has polluted the sea.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "工場の廃棄物が私達の川を汚すことがある。",
+      "reading": null,
+      "english": "Factory waste sometimes pollutes our rivers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

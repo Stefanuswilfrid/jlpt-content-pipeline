@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "浸す",
+    "reading": "ひたす",
+    "romaji": "hitasu",
+    "jlpt": "N1",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to soak",
+          "to dip",
+          "to steep",
+          "to immerse"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to moisten",
+          "to wet"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "漬ける",
+      "reading": "つける",
+      "meaning": "to soak (in)"
+    },
+    {
+      "word": "染みる",
+      "reading": "しみる",
+      "meaning": "to pierce"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

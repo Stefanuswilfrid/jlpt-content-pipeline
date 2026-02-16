@@ -1,0 +1,153 @@
+{
+  "definition": {
+    "word": "破損",
+    "reading": "はそん",
+    "romaji": "hason",
+    "jlpt": "N1",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "damage",
+          "breakage"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "破裂",
+      "reading": "はれつ",
+      "meaning": "bursting"
+    },
+    {
+      "word": "破棄",
+      "reading": "はき",
+      "meaning": "tearing up and discarding (e.g. documents)"
+    },
+    {
+      "word": "破壊",
+      "reading": "はかい",
+      "meaning": "destruction"
+    },
+    {
+      "word": "損失",
+      "reading": "そんしつ",
+      "meaning": "loss (of assets, profit, etc.)"
+    },
+    {
+      "word": "突破",
+      "reading": "とっぱ",
+      "meaning": "breaking through"
+    },
+    {
+      "word": "爆破",
+      "reading": "ばくは",
+      "meaning": "destructive blast"
+    },
+    {
+      "word": "損害",
+      "reading": "そんがい",
+      "meaning": "damage"
+    },
+    {
+      "word": "損",
+      "reading": "そん",
+      "meaning": "loss"
+    },
+    {
+      "word": "破産",
+      "reading": "はさん",
+      "meaning": "bankruptcy"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "屋根が破損した家は今では修理が完了している。",
+      "reading": null,
+      "english": "The house with the damaged roof has been repaired.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ご注文の品が破損していたとのことで、お詫び申し上げます。",
+      "reading": null,
+      "english": "We're very sorry that your order was damaged.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "窓の破損料を請求された。",
+      "reading": null,
+      "english": "They charged me for the broken window.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "屋根が破損した家は今では修理が完了している。",
+      "reading": null,
+      "english": "The house with the damaged roof has been repaired.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ご注文の品が破損していたとのことで、お詫び申し上げます。",
+      "reading": null,
+      "english": "We're very sorry that your order was damaged.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ご注文の品が破損していたとのことで、お詫び申し上げます。",
+      "reading": null,
+      "english": "We're very sorry your order was damaged.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "窓の破損料を請求された。",
+      "reading": null,
+      "english": "They charged me for the broken window.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ファイルが破損しています。",
+      "reading": null,
+      "english": "The file is corrupt.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ファイルが破損しています。",
+      "reading": null,
+      "english": "The file is corrupt.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご注文の品が破損していたとのことで、お詫び申し上げます。",
+      "reading": null,
+      "english": "We're very sorry your order was damaged.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "設ける",
+    "reading": "もうける",
+    "romaji": "moukeru",
+    "jlpt": "N1",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menciptakan",
+          "untuk membangun"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to set up",
+          "to establish",
+          "to organize",
+          "to lay down (rules)",
+          "to make (an excuse)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "施設",
+      "reading": "しせつ",
+      "meaning": "pendirian, fasilitas"
+    },
+    {
+      "word": "設置",
+      "reading": "せっち",
+      "meaning": "pendirian, lembaga"
+    },
+    {
+      "word": "設立",
+      "reading": "せつりつ",
+      "meaning": "pendirian, yayasan, lembaga"
+    },
+    {
+      "word": "設定",
+      "reading": "せってい",
+      "meaning": "pendirian, penciptaan"
+    },
+    {
+      "word": "建設",
+      "reading": "けんせつ",
+      "meaning": "konstruksi, pondasi"
+    },
+    {
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "peralatan, perangkat, fasilitas"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "rencana, desain"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ホールは仕切りを設ける前は千人収容できた。",
+      "reading": null,
+      "indonesian": "The hall could seat a thousand people before it was partitioned.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ホールは仕切りを設ける前は千人収容できた。",
+      "reading": null,
+      "indonesian": "The hall could seat a thousand people before it was partitioned.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

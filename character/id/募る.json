@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "募る",
+    "reading": "つのる",
+    "romaji": "tsunoru",
+    "jlpt": "N1",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "mengundang",
+          "meminta bantuan",
+          "partisipasi",
+          "dan lain sebagainya."
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to invite contributions, etc.",
+          "to solicit help, participation, etc.",
+          "to recruit (e.g. soldiers)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "募金",
+      "reading": "ぼきん",
+      "meaning": "penggalangan dana, pengumpulan dana"
+    },
+    {
+      "word": "公募",
+      "reading": "こうぼ",
+      "meaning": "permohonan publik, kontribusi publik"
+    },
+    {
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaning": "berlangganan, aplikasi"
+    },
+    {
+      "word": "募集",
+      "reading": "ぼしゅう",
+      "meaning": "perekrutan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "社会保険庁や厚生労働省への不信感は募る一方である。",
+      "reading": null,
+      "indonesian": "Distrust of the Social Insurance Agency and the Ministry of Health, Labour and Welfare just keeps getting stronger.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "社会保険庁や厚生労働省への不信感は募る一方である。",
+      "reading": null,
+      "indonesian": "Distrust of the Social Insurance Agency and the Ministry of Health, Labour and Welfare just keeps getting stronger.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "寒さは募る一方です。",
+      "reading": null,
+      "indonesian": "The cold just grows stronger.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒さは募る一方です。",
+      "reading": null,
+      "indonesian": "It keeps getting colder.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒さは募る一方です。",
+      "reading": null,
+      "indonesian": "The cold just grows stronger.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒さは募る一方です。",
+      "reading": null,
+      "indonesian": "It keeps getting colder.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

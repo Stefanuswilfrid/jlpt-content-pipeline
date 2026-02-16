@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "細やか",
+    "reading": "こまやか",
+    "romaji": "komayaka",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "tender",
+          "warm",
+          "caring",
+          "thoughtful"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "meticulous",
+          "detailed",
+          "attentive"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "deep (of a colour)",
+          "thick (e.g. fog)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "詳細",
+      "reading": "しょうさい",
+      "meaning": "details"
+    },
+    {
+      "word": "細胞",
+      "reading": "さいぼう",
+      "meaning": "cell"
+    },
+    {
+      "word": "細菌",
+      "reading": "さいきん",
+      "meaning": "bacterium"
+    },
+    {
+      "word": "細工",
+      "reading": "さいく",
+      "meaning": "work"
+    },
+    {
+      "word": "心細い",
+      "reading": "こころぼそい",
+      "meaning": "helpless"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "細やかなお心遣いに感謝いたします。",
+      "reading": null,
+      "english": "I appreciate your attention to detail.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "細やかなお心遣いに感謝いたします。",
+      "reading": null,
+      "english": "I appreciate your attention to detail.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

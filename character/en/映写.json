@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "映写",
+    "reading": "えいしゃ",
+    "romaji": "eisha",
+    "jlpt": "N1",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "projection (on a screen)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "映像",
+      "reading": "えいぞう",
+      "meaning": "image (on a screen)"
+    },
+    {
+      "word": "描写",
+      "reading": "びょうしゃ",
+      "meaning": "depiction"
+    },
+    {
+      "word": "写し",
+      "reading": "うつし",
+      "meaning": "copy"
+    },
+    {
+      "word": "映す",
+      "reading": "うつす",
+      "meaning": "to project"
+    },
+    {
+      "word": "映画",
+      "reading": "えいが",
+      "meaning": "movie"
+    },
+    {
+      "word": "映画館",
+      "reading": "えいがかん",
+      "meaning": "movie theatre"
+    },
+    {
+      "word": "反映",
+      "reading": "はんえい",
+      "meaning": "reflection (of light)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼はその劇場で映写係をやっている。",
+      "reading": null,
+      "english": "He's the projectionist at the theater.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はその劇場で映写係をやっている。",
+      "reading": null,
+      "english": "He's the projectionist at the theater.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

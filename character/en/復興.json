@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "復興",
+    "reading": "ふっこう",
+    "romaji": "fukkou",
+    "jlpt": "N1",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "revival",
+          "reconstruction",
+          "restoration",
+          "rebuilding",
+          "recovery",
+          "renaissance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "復活",
+      "reading": "ふっかつ",
+      "meaning": "revival (of an old system, custom, fashion, etc.)"
+    },
+    {
+      "word": "復旧",
+      "reading": "ふっきゅう",
+      "meaning": "restoration"
+    },
+    {
+      "word": "興業",
+      "reading": "こうぎょう",
+      "meaning": "promotion of industry"
+    },
+    {
+      "word": "興じる",
+      "reading": "きょうじる",
+      "meaning": "to amuse oneself"
+    },
+    {
+      "word": "余興",
+      "reading": "よきょう",
+      "meaning": "performance (at a party or banquet, etc.)"
+    },
+    {
+      "word": "回復",
+      "reading": "かいふく",
+      "meaning": "restoration"
+    },
+    {
+      "word": "興味",
+      "reading": "きょうみ",
+      "meaning": "interest (in something)"
+    },
+    {
+      "word": "振興",
+      "reading": "しんこう",
+      "meaning": "promotion"
+    },
+    {
+      "word": "往復",
+      "reading": "おうふく",
+      "meaning": "making a round trip"
+    },
+    {
+      "word": "重複",
+      "reading": "ちょうふく",
+      "meaning": "duplication"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "plural"
+    },
+    {
+      "word": "興奮",
+      "reading": "こうふん",
+      "meaning": "excitement"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "文芸復興",
+      "reading": "ぶんげいふっこう",
+      "meaning": "Renaissance",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それはさらにいっそうの活力で復興した。",
+      "reading": null,
+      "english": "It revived with even greater vigor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本の戦後の復興は有名な話である。",
+      "reading": null,
+      "english": "Japan is a famous come-back story after World War II.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それはさらにいっそうの活力で復興した。",
+      "reading": null,
+      "english": "It revived with even greater vigor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本の戦後の復興は有名な話である。",
+      "reading": null,
+      "english": "Japan is a famous come-back story after World War II.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

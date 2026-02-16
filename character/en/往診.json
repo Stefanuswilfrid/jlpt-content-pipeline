@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "往診",
+    "reading": "おうしん",
+    "romaji": "oushin",
+    "jlpt": "N1",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "doctor's visit",
+          "house call"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "診療",
+      "reading": "しんりょう",
+      "meaning": "diagnosis and treatment"
+    },
+    {
+      "word": "聴診器",
+      "reading": "ちょうしんき",
+      "meaning": "stethoscope"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosis"
+    },
+    {
+      "word": "往復",
+      "reading": "おうふく",
+      "meaning": "making a round trip"
+    },
+    {
+      "word": "診察",
+      "reading": "しんさつ",
+      "meaning": "medical examination"
+    },
+    {
+      "word": "診る",
+      "reading": "みる",
+      "meaning": "to examine (medically)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "医者は午後６軒往診した。",
+      "reading": null,
+      "english": "The doctor made six house calls in the afternoon.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医者に往診してもらおう。",
+      "reading": null,
+      "english": "Let's send for the doctor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "明日もう一度息子を往診してくれるように、彼女は医師に頼んだ。",
+      "reading": null,
+      "english": "She asked the doctor to come and see her son again the next day.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医者は午後６軒往診した。",
+      "reading": null,
+      "english": "The doctor made six house calls in the afternoon.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医者に往診してもらおう。",
+      "reading": null,
+      "english": "Let's send for the doctor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は医者に往診してもらう必要がある。",
+      "reading": null,
+      "english": "I must send for the doctor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "明日もう一度息子を往診してくれるように、彼女は医師に頼んだ。",
+      "reading": null,
+      "english": "She asked the doctor to come and see her son again the next day.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は医者に往診してもらう必要がある。",
+      "reading": null,
+      "english": "I must send for the doctor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

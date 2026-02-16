@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "練る",
+    "reading": "ねる",
+    "romaji": "neru",
+    "jlpt": "N1",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to knead",
+          "to thicken into a paste (stirring over a flame)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to polish (a plan, etc.)",
+          "to refine",
+          "to elaborate",
+          "to work out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to train",
+          "to drill",
+          "to exercise"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to gloss (silk)",
+          "to soften",
+          "to degum"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tan (leather)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to temper (steel)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to walk in procession",
+          "to parade",
+          "to march"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaning": "practice"
+    },
+    {
+      "word": "訓練",
+      "reading": "くんれん",
+      "meaning": "training"
+    },
+    {
+      "word": "未練",
+      "reading": "みれん",
+      "meaning": "lingering attachment"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は胆力を練る必要がある。",
+      "reading": null,
+      "english": "You must build up your courage.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は胆力を練る必要がある。",
+      "reading": null,
+      "english": "You must build up your courage.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人に聞いた話をヒントに新たな構想を練る。",
+      "reading": null,
+      "english": "I listen to what people say to get hints for developing new ideas.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人に聞いた話をヒントに新たな構想を練る。",
+      "reading": null,
+      "english": "I listen to what people say to get hints for developing new ideas.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

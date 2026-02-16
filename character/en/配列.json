@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "配列",
+    "reading": "はいれつ",
+    "romaji": "hairetsu",
+    "jlpt": "N1",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "arranging",
+          "ordering",
+          "sequencing",
+          "lining up",
+          "laying out"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "sequence (e.g. DNA sequence)",
+          "arrangement",
+          "alignment",
+          "layout (e.g. keyboard layout)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "array"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手配",
+      "reading": "てはい",
+      "meaning": "arrangement"
+    },
+    {
+      "word": "陳列",
+      "reading": "ちんれつ",
+      "meaning": "exhibition"
+    },
+    {
+      "word": "配分",
+      "reading": "はいぶん",
+      "meaning": "distribution"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaning": "consideration"
+    },
+    {
+      "word": "配置",
+      "reading": "はいち",
+      "meaning": "arrangement (of resources)"
+    },
+    {
+      "word": "配給",
+      "reading": "はいきゅう",
+      "meaning": "distribution (e.g. films, rice)"
+    },
+    {
+      "word": "配偶者",
+      "reading": "はいぐうしゃ",
+      "meaning": "spouse"
+    },
+    {
+      "word": "分配",
+      "reading": "ぶんぱい",
+      "meaning": "division"
+    },
+    {
+      "word": "配布",
+      "reading": "はいふ",
+      "meaning": "distribution"
+    },
+    {
+      "word": "並列",
+      "reading": "へいれつ",
+      "meaning": "arranging in a line"
+    },
+    {
+      "word": "整列",
+      "reading": "せいれつ",
+      "meaning": "standing in a row"
+    },
+    {
+      "word": "配る",
+      "reading": "くばる",
+      "meaning": "to distribute"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

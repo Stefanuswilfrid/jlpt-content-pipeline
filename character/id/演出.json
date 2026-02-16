@@ -1,0 +1,179 @@
+{
+  "definition": {
+    "word": "演出",
+    "reading": "えんしゅつ",
+    "romaji": "enshutsu",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "produksi (erg. bermain",
+          "penyutradaraan)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "organization (of an event)",
+          "arrangement",
+          "staging (for effect)",
+          "orchestration"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出演",
+      "reading": "しゅつえん",
+      "meaning": "pemain utama, penampilan di panggung"
+    },
+    {
+      "word": "進出",
+      "reading": "しんしゅつ",
+      "meaning": "kemajuan"
+    },
+    {
+      "word": "出産",
+      "reading": "しゅっさん",
+      "meaning": "persalinan"
+    },
+    {
+      "word": "主演",
+      "reading": "しゅえん",
+      "meaning": "membintangi, memainkan peran utama"
+    },
+    {
+      "word": "出生",
+      "reading": "しゅっしょう",
+      "meaning": "kelahiran"
+    },
+    {
+      "word": "上演",
+      "reading": "じょうえん",
+      "meaning": "pertunjukan seni"
+    },
+    {
+      "word": "脱出",
+      "reading": "だっしゅつ",
+      "meaning": "melarikan diri"
+    },
+    {
+      "word": "出血",
+      "reading": "しゅっけつ",
+      "meaning": "perdarahan"
+    },
+    {
+      "word": "出動",
+      "reading": "しゅつどう",
+      "meaning": "mobilisasi, aksi"
+    },
+    {
+      "word": "出現",
+      "reading": "しゅつげん",
+      "meaning": "penampilan, kedatangan"
+    },
+    {
+      "word": "出品",
+      "reading": "しゅっぴん",
+      "meaning": "pameran, pajangan"
+    },
+    {
+      "word": "出直し",
+      "reading": "でなおし",
+      "meaning": "penyesuaian, perbaikan"
+    },
+    {
+      "word": "出費",
+      "reading": "しゅっぴ",
+      "meaning": "pengeluaran, pembayaran"
+    },
+    {
+      "word": "放出",
+      "reading": "ほうしゅつ",
+      "meaning": "melepaskan, memancarkan"
+    },
+    {
+      "word": "出世",
+      "reading": "しゅっせ",
+      "meaning": "promosi, karier sukses, keunggulan"
+    },
+    {
+      "word": "売り出す",
+      "reading": "うりだす",
+      "meaning": "untuk dijual, untuk dipasarkan"
+    },
+    {
+      "word": "振り出し",
+      "reading": "ふりだし",
+      "meaning": "awal, titik awal, menggambar atau menerbitkan (draf)"
+    },
+    {
+      "word": "噴出",
+      "reading": "ふんしゅつ",
+      "meaning": "menyembur, mengalir deras, memancar"
+    },
+    {
+      "word": "売り出し",
+      "reading": "うりだし",
+      "meaning": "obral (murah)"
+    },
+    {
+      "word": "出題",
+      "reading": "しゅつだい",
+      "meaning": "mengajukan pertanyaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自己演出",
+      "reading": "じこえんしゅつ",
+      "meaning": "author directing or producing his or her own play (film)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その劇は彼によって演出された。",
+      "reading": null,
+      "indonesian": "The play was produced by him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その劇は彼によって演出された。",
+      "reading": null,
+      "indonesian": "The play was produced by him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんな演出意図、誰もわからないよ。",
+      "reading": null,
+      "indonesian": "No one will understand the point of such a production.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そんな演出意図、誰もわからないよ。",
+      "reading": null,
+      "indonesian": "No one will understand the point of such a production.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "早める",
+    "reading": "はやめる",
+    "romaji": "hayameru",
+    "jlpt": "N1",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mempercepat",
+          "menambah kecepatan",
+          "meningkatkan laju"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to quicken (e.g. one's step)",
+          "to speed up",
+          "to accelerate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "素早い",
+      "reading": "すばやい",
+      "meaning": "cepat, cepat"
+    },
+    {
+      "word": "早急",
+      "reading": "そうきゅう",
+      "meaning": "mendesak"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この新薬は君の回復を早めるかも知れない。",
+      "reading": null,
+      "indonesian": "This new medicine may aid your recovery.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この新薬は君の回復を早めるかも知れない。",
+      "reading": null,
+      "indonesian": "This new medicine may aid your recovery.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

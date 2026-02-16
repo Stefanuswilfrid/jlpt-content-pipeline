@@ -1,0 +1,160 @@
+{
+  "definition": {
+    "word": "走行",
+    "reading": "そうこう",
+    "romaji": "soukou",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "running (of a car, bus, etc.)",
+          "traveling",
+          "travelling"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "running (of a program)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "行政",
+      "reading": "ぎょうせい",
+      "meaning": "executive"
+    },
+    {
+      "word": "現行",
+      "reading": "げんこう",
+      "meaning": "present"
+    },
+    {
+      "word": "行為",
+      "reading": "こうい",
+      "meaning": "act"
+    },
+    {
+      "word": "移行",
+      "reading": "いこう",
+      "meaning": "transition"
+    },
+    {
+      "word": "施行",
+      "reading": "しこう",
+      "meaning": "putting in force (a law)"
+    },
+    {
+      "word": "修行",
+      "reading": "しゅぎょう",
+      "meaning": "training"
+    },
+    {
+      "word": "行進",
+      "reading": "こうしん",
+      "meaning": "march"
+    },
+    {
+      "word": "強行",
+      "reading": "きょうこう",
+      "meaning": "forcing (e.g. a vote)"
+    },
+    {
+      "word": "逃走",
+      "reading": "とうそう",
+      "meaning": "flight"
+    },
+    {
+      "word": "行い",
+      "reading": "おこない",
+      "meaning": "deed"
+    },
+    {
+      "word": "徐行",
+      "reading": "じょこう",
+      "meaning": "going slowly (esp. to enable a vehicle to stop immediately)"
+    },
+    {
+      "word": "行き違い",
+      "reading": "いきちがい",
+      "meaning": "crossing without meeting (e.g. letters in the post, people on the road)"
+    },
+    {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "bank"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "action"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "(one's) whereabouts"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "publication (of a newspaper, magazine, book, etc.)"
+    },
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "travel"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "execution (e.g. of a plan)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "走行中の箱乗りはご遠慮下さい！",
+      "reading": null,
+      "english": "Please don't lean out of the window when we're moving.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "走行マイルで料金が加算されますか。",
+      "reading": null,
+      "english": "Is there a mileage charge?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "走行マイルで料金が加算されますか。",
+      "reading": null,
+      "english": "Is there a mileage charge?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "走行中の箱乗りはご遠慮下さい！",
+      "reading": null,
+      "english": "Please don't lean out of the window when we're moving.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

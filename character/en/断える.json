@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "絶える",
+    "reading": "たえる",
+    "romaji": "taeru",
+    "jlpt": "N1",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to die out",
+          "to peter out",
+          "to become extinct"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to cease",
+          "to be stopped",
+          "to be discontinued",
+          "to be cut off"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "途絶える",
+      "reading": "とだえる",
+      "meaning": "to stop"
+    },
+    {
+      "word": "絶版",
+      "reading": "ぜっぱん",
+      "meaning": "out of print"
+    },
+    {
+      "word": "拒絶",
+      "reading": "きょぜつ",
+      "meaning": "refusal"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足が途絶える",
+      "reading": "あしがとだえる",
+      "meaning": "to lose all customers (visitors, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

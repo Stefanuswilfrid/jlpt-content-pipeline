@@ -1,0 +1,200 @@
+{
+  "definition": {
+    "word": "誠",
+    "reading": "まこと",
+    "romaji": "makoto",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kebenaran",
+          "iman",
+          "kesetiaan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sincerity",
+          "honesty",
+          "faithfulness",
+          "good faith"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "indeed",
+          "really",
+          "absolutely",
+          "truly",
+          "actually",
+          "very",
+          "quite"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "誠に",
+      "reading": "まことに",
+      "meaning": "memang, sungguh (sangat sopan), mutlak"
+    },
+    {
+      "word": "誠実",
+      "reading": "せいじつ",
+      "meaning": "tulus, jujur, setia"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "誠心誠意",
+      "reading": "せいしんせいい",
+      "meaning": "in all sincerity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "至誠天に通ず",
+      "reading": "しせいてんにつうず",
+      "meaning": "sincerity can move heaven",
+      "type": "proverb"
+    },
+    {
+      "word": "巧詐は拙誠に如かず",
+      "reading": "こうさはせっせいにしかず",
+      "meaning": "better shoddy and sincere than clever and deceptive",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "友達には誠実でいなさい。",
+      "reading": null,
+      "indonesian": "You should be true to your friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の忠誠を当てにしてもいいかい。",
+      "reading": null,
+      "indonesian": "Can I count on your loyalty?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が誠実なのは疑う余地もないよ。",
+      "reading": null,
+      "indonesian": "I don't for a moment doubt your honesty.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々の中で彼の誠実さに敬服しないものはいない。",
+      "reading": null,
+      "indonesian": "There are none of us who do not respect his honesty.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何よりもまず友人に誠実でなければならない。",
+      "reading": null,
+      "indonesian": "You must, above all, be faithful to your friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なんと不誠実なやつだろう。",
+      "reading": null,
+      "indonesian": "What a dishonest fellow!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "騎士が王への忠誠を誓った。",
+      "reading": null,
+      "indonesian": "The knight swore an oath of allegiance to the king.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "嘘から出た誠。",
+      "reading": null,
+      "indonesian": "Many a true word is spoken in jest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは、誠実であるということの重要性を強調する。",
+      "reading": null,
+      "indonesian": "We lay emphasis on the importance of being sincere.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "まずは誠実でいなきゃ駄目だよ。",
+      "reading": null,
+      "indonesian": "To begin with, you must be honest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "誠にすみませんが、私のかわりにそれをやっていただけませんか。",
+      "reading": null,
+      "indonesian": "Would you be good enough to do it for me?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ナンシーには誠実さが欠けているようだ。",
+      "reading": null,
+      "indonesian": "Nancy seems to lack sincerity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムは誠実というより抜け目がない。",
+      "reading": null,
+      "indonesian": "Tom is more clever than honest.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それらの手紙を見るだけで、彼女が誠実な女性だとわかる。",
+      "reading": null,
+      "indonesian": "These letters reveal her to be an honest lady.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その独裁者は側近たち全員の絶対的な忠誠を受けた。",
+      "reading": null,
+      "indonesian": "The dictator had the absolute loyalty of all his aides.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

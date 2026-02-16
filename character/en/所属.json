@@ -1,0 +1,211 @@
+{
+  "definition": {
+    "word": "所属",
+    "reading": "しょぞく",
+    "romaji": "shozoku",
+    "jlpt": "N1",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "belonging to (a group, organization, etc.)",
+          "affiliation (with)",
+          "being attached to",
+          "being under the control of",
+          "serving (in the military, congress, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "所得",
+      "reading": "しょとく",
+      "meaning": "income"
+    },
+    {
+      "word": "所有",
+      "reading": "しょゆう",
+      "meaning": "possession"
+    },
+    {
+      "word": "所在",
+      "reading": "しょざい",
+      "meaning": "location (of)"
+    },
+    {
+      "word": "所持",
+      "reading": "しょじ",
+      "meaning": "possession"
+    },
+    {
+      "word": "所定",
+      "reading": "しょてい",
+      "meaning": "prescribed"
+    },
+    {
+      "word": "事務所",
+      "reading": "じむしょ",
+      "meaning": "office"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaning": "place"
+    },
+    {
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "address (of a home, business, etc.)"
+    },
+    {
+      "word": "金属",
+      "reading": "きんぞく",
+      "meaning": "metal"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "neighbourhood"
+    },
+    {
+      "word": "役所",
+      "reading": "やくしょ",
+      "meaning": "government office"
+    },
+    {
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "kitchen"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どこかのクラブに所属してるの？",
+      "reading": null,
+      "english": "Do you belong to any clubs?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はどのクラブに所属していますか。",
+      "reading": null,
+      "english": "Which club do you belong to?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は、どちらの派に所属しているのですか。",
+      "reading": null,
+      "english": "Which party do you belong to?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ユミコはテニス部に所属しています。",
+      "reading": null,
+      "english": "Yumiko belongs to the tennis club.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ぼくは、空手部に所属しています。",
+      "reading": null,
+      "english": "I belong to the karate club.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はテニスクラブに所属しています。",
+      "reading": null,
+      "english": "I belong to a tennis club.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その無所属候補者は中絶問題を公約からはずしました。",
+      "reading": null,
+      "english": "The independent candidate took the abortion issue off his platform.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その人たちは同じチームに所属している。",
+      "reading": null,
+      "english": "The people are on the team.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スコット・ホールはアウトサイダースに所属しています。",
+      "reading": null,
+      "english": "Scott Hall belongs to the Outsiders.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "僕は文学の団体に所属している。",
+      "reading": null,
+      "english": "I belong to the literary circle.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は民主党に所属しています。",
+      "reading": null,
+      "english": "She belongs to the Democratic Party.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は庶務課に所属している。",
+      "reading": null,
+      "english": "She is attached to the general affairs section.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はテニス部に所属している。",
+      "reading": null,
+      "english": "She belongs to the tennis club.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は無所属で立候補した。",
+      "reading": null,
+      "english": "He ran as a candidate, independent of any party.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は僕たちのテニスチームに所属している。",
+      "reading": null,
+      "english": "He belongs to our tennis team.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

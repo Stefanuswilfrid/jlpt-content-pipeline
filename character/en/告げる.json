@@ -1,0 +1,150 @@
+{
+  "definition": {
+    "word": "告げる",
+    "reading": "つげる",
+    "romaji": "tsugeru",
+    "jlpt": "N1",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tell",
+          "to inform",
+          "to announce"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to indicate",
+          "to signal",
+          "to mark"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "布告",
+      "reading": "ふこく",
+      "meaning": "edict"
+    },
+    {
+      "word": "告白",
+      "reading": "こくはく",
+      "meaning": "confession (to a crime, wrongdoing, etc.)"
+    },
+    {
+      "word": "勧告",
+      "reading": "かんこく",
+      "meaning": "advice"
+    },
+    {
+      "word": "忠告",
+      "reading": "ちゅうこく",
+      "meaning": "advice"
+    },
+    {
+      "word": "報告",
+      "reading": "ほうこく",
+      "meaning": "report"
+    },
+    {
+      "word": "広告",
+      "reading": "こうこく",
+      "meaning": "advertisement"
+    },
+    {
+      "word": "申告",
+      "reading": "しんこく",
+      "meaning": "report"
+    },
+    {
+      "word": "警告",
+      "reading": "けいこく",
+      "meaning": "warning"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "真実を告げることをためらってはなりません。",
+      "reading": null,
+      "english": "Never hesitate to tell the truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "医者は彼は脳死状態だとあなたに告げるのです。",
+      "reading": null,
+      "english": "The doctors tell you that he is brain-dead.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "問題はだれが彼に真実を告げるかだ。",
+      "reading": null,
+      "english": "The problem is who is going to tell him the truth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は私に何をすべきか告げる立場ではない。",
+      "reading": null,
+      "english": "It's not his place to tell me what to do.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "熱狂の宴が始まりを告げる。",
+      "reading": null,
+      "english": "A frenzied feasting tells of the beginning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は自分の愛を彼女に告げる事に決めた。",
+      "reading": null,
+      "english": "I decided on telling her of my love.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はその悲しい知らせを彼女に告げる勇気がない。",
+      "reading": null,
+      "english": "I dare not tell her the sad news.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "最もよいのは真実を告げることです。",
+      "reading": null,
+      "english": "The best thing is to tell the truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "医者は彼は脳死状態だとあなたに告げるのです。",
+      "reading": null,
+      "english": "The doctors tell you that he is brain-dead.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

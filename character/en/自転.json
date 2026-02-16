@@ -1,0 +1,222 @@
+{
+  "definition": {
+    "word": "自転",
+    "reading": "じてん",
+    "romaji": "jiten",
+    "jlpt": "N1",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "rotation (on an axis)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "rotation (under its own power)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "転ずる",
+      "reading": "てんずる",
+      "meaning": "to turn"
+    },
+    {
+      "word": "独自",
+      "reading": "どくじ",
+      "meaning": "original"
+    },
+    {
+      "word": "転換",
+      "reading": "てんかん",
+      "meaning": "conversion"
+    },
+    {
+      "word": "自主",
+      "reading": "じしゅ",
+      "meaning": "independence"
+    },
+    {
+      "word": "逆転",
+      "reading": "ぎゃくてん",
+      "meaning": "reversal (of a situation)"
+    },
+    {
+      "word": "自立",
+      "reading": "じりつ",
+      "meaning": "independence"
+    },
+    {
+      "word": "自覚",
+      "reading": "じかく",
+      "meaning": "self-consciousness"
+    },
+    {
+      "word": "転勤",
+      "reading": "てんきん",
+      "meaning": "job transfer"
+    },
+    {
+      "word": "自在",
+      "reading": "じざい",
+      "meaning": "being able to do as one pleases"
+    },
+    {
+      "word": "転じる",
+      "reading": "てんじる",
+      "meaning": "to turn"
+    },
+    {
+      "word": "転落",
+      "reading": "てんらく",
+      "meaning": "fall"
+    },
+    {
+      "word": "自我",
+      "reading": "じが",
+      "meaning": "ego"
+    },
+    {
+      "word": "転居",
+      "reading": "てんきょ",
+      "meaning": "moving"
+    },
+    {
+      "word": "自首",
+      "reading": "じしゅ",
+      "meaning": "surrender (to the authorities)"
+    },
+    {
+      "word": "転回",
+      "reading": "てんかい",
+      "meaning": "revolution"
+    },
+    {
+      "word": "転任",
+      "reading": "てんにん",
+      "meaning": "change of post"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "bicycle"
+    },
+    {
+      "word": "転校",
+      "reading": "てんこう",
+      "meaning": "changing schools"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "誕生日には自転車をあげるよ。",
+      "reading": null,
+      "english": "I will give you a bicycle for your birthday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は君の誕生日に自転車を贈るつもりです。",
+      "reading": null,
+      "english": "I will give you a bicycle for your birthday.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の誕生日に自転車を贈ろう。",
+      "reading": null,
+      "english": "I will give you a bicycle for your birthday.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "誕生日には自転車をあげるよ。",
+      "reading": null,
+      "english": "You shall have a bicycle for your birthday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の誕生日に自転車を贈ろう。",
+      "reading": null,
+      "english": "You shall have a bicycle for your birthday.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の自転車を２、３日貸してくれませんか。",
+      "reading": null,
+      "english": "Could you lend me your bicycle for a couple of days?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の自転車は私のと似ている。",
+      "reading": null,
+      "english": "Your bicycle is similar to mine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お前の自転車って、俺のと似てるんだよ。",
+      "reading": null,
+      "english": "Your bicycle is similar to mine.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の自転車は僕の自転車よりも上等です。",
+      "reading": null,
+      "english": "Your bike is better than mine.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君のラジオを僕の自転車と取り替えっこしないか。",
+      "reading": null,
+      "english": "Will you give me your radio for my bicycle?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "近頃では、少年たちは自分の自転車を持っている。",
+      "reading": null,
+      "english": "Boys have their own bikes these days.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "帰ってきたら自転車がなくなってたんだ。",
+      "reading": null,
+      "english": "My bicycle was gone when I returned.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

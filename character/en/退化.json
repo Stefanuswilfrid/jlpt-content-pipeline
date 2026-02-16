@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "退化",
+    "reading": "たいか",
+    "romaji": "taika",
+    "jlpt": "N1",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "degeneration",
+          "retrogression",
+          "atrophy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "regression (e.g. of society)",
+          "deterioration",
+          "degeneration"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "退職",
+      "reading": "たいしょく",
+      "meaning": "retirement"
+    },
+    {
+      "word": "悪化",
+      "reading": "あっか",
+      "meaning": "deterioration"
+    },
+    {
+      "word": "後退",
+      "reading": "こうたい",
+      "meaning": "retreat"
+    },
+    {
+      "word": "脱退",
+      "reading": "だったい",
+      "meaning": "withdrawal (e.g. from an organization)"
+    },
+    {
+      "word": "化石",
+      "reading": "かせき",
+      "meaning": "fossil"
+    },
+    {
+      "word": "文化財",
+      "reading": "ぶんかざい",
+      "meaning": "cultural assets"
+    },
+    {
+      "word": "化合",
+      "reading": "かごう",
+      "meaning": "chemical combination"
+    },
+    {
+      "word": "化繊",
+      "reading": "かせん",
+      "meaning": "synthetic fiber"
+    },
+    {
+      "word": "進化",
+      "reading": "しんか",
+      "meaning": "evolution"
+    },
+    {
+      "word": "退治",
+      "reading": "たいじ",
+      "meaning": "extermination"
+    },
+    {
+      "word": "化ける",
+      "reading": "ばける",
+      "meaning": "to take the form of (esp. in ref. to a spirit, fox, raccoon dog, etc.)"
+    },
+    {
+      "word": "老ける",
+      "reading": "ふける",
+      "meaning": "to age"
+    },
+    {
+      "word": "退屈",
+      "reading": "たいくつ",
+      "meaning": "tedious"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "人類は生態系の退化を防ぐことができるだろうか？",
+      "reading": null,
+      "english": "Will humanity be able to prevent the degradation of ecosystems?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人類は生態系の退化を防ぐことができるだろうか？",
+      "reading": null,
+      "english": "Will humanity be able to prevent the degradation of ecosystems?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

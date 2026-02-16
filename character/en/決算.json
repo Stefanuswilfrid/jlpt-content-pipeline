@@ -1,0 +1,175 @@
+{
+  "definition": {
+    "word": "決算",
+    "reading": "けっさん",
+    "romaji": "kessan",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "settlement of accounts",
+          "closing accounts",
+          "financial results",
+          "reporting (of accounts)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "決議",
+      "reading": "けつぎ",
+      "meaning": "resolution"
+    },
+    {
+      "word": "判決",
+      "reading": "はんけつ",
+      "meaning": "judicial decision"
+    },
+    {
+      "word": "決勝",
+      "reading": "けっしょう",
+      "meaning": "decision of a contest"
+    },
+    {
+      "word": "決意",
+      "reading": "けつい",
+      "meaning": "decision"
+    },
+    {
+      "word": "決断",
+      "reading": "けつだん",
+      "meaning": "decision"
+    },
+    {
+      "word": "採決",
+      "reading": "さいけつ",
+      "meaning": "vote"
+    },
+    {
+      "word": "対決",
+      "reading": "たいけつ",
+      "meaning": "confrontation"
+    },
+    {
+      "word": "採算",
+      "reading": "さいさん",
+      "meaning": "profit"
+    },
+    {
+      "word": "議決",
+      "reading": "ぎけつ",
+      "meaning": "resolution"
+    },
+    {
+      "word": "換算",
+      "reading": "かんさん",
+      "meaning": "conversion (e.g. yen to dollars)"
+    },
+    {
+      "word": "否決",
+      "reading": "ひけつ",
+      "meaning": "rejection"
+    },
+    {
+      "word": "決",
+      "reading": "けつ",
+      "meaning": "decision"
+    },
+    {
+      "word": "多数決",
+      "reading": "たすうけつ",
+      "meaning": "majority decision"
+    },
+    {
+      "word": "足し算",
+      "reading": "たしざん",
+      "meaning": "addition"
+    },
+    {
+      "word": "暗算",
+      "reading": "あんざん",
+      "meaning": "mental arithmetic"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "settlement"
+    },
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "decision"
+    },
+    {
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "estimate (of costs)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "粉飾決算",
+      "reading": "ふんしょくけっさん",
+      "meaning": "fraudulent accounting",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その会社は毎年３月に決算をする。",
+      "reading": null,
+      "english": "The company closes its books at the end of March.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水増し決算の噂で株価は上がりませんでした。",
+      "reading": null,
+      "english": "The stock got creamed when they got wind of the dilution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "決算報告を申し上げます。",
+      "reading": null,
+      "english": "We will now report on this year's business results.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その会社は毎年３月に決算をする。",
+      "reading": null,
+      "english": "The company closes its books at the end of March.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "決算報告を申し上げます。",
+      "reading": null,
+      "english": "We will now report on this year's business results.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水増し決算の噂で株価は上がりませんでした。",
+      "reading": null,
+      "english": "The stock got creamed when they got wind of the dilution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

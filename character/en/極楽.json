@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "極楽",
+    "reading": "ごくらく",
+    "romaji": "gokuraku",
+    "jlpt": "N1",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Sukhavati (Amitabha's Pure Land)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "paradise",
+          "heaven on earth"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "両極",
+      "reading": "りょうきょく",
+      "meaning": "both extremities"
+    },
+    {
+      "word": "極端",
+      "reading": "きょくたん",
+      "meaning": "extreme"
+    },
+    {
+      "word": "楽観",
+      "reading": "らっかん",
+      "meaning": "optimism"
+    },
+    {
+      "word": "究極",
+      "reading": "きゅうきょく",
+      "meaning": "ultimate"
+    },
+    {
+      "word": "楽譜",
+      "reading": "がくふ",
+      "meaning": "score"
+    },
+    {
+      "word": "北極",
+      "reading": "ほっきょく",
+      "meaning": "North Pole"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "極楽往生",
+      "reading": "ごくらくおうじょう",
+      "meaning": "rebirth in paradise",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "極楽浄土",
+      "reading": "ごくらくじょうど",
+      "meaning": "Amitabha's Pure Land",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "極楽とんぼ",
+      "reading": "ごくらくとんぼ",
+      "meaning": "happy-go-lucky fellow",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "聞いて極楽見て地獄",
+      "reading": "きいてごくらくみてじごく",
+      "meaning": "don't believe everything you hear",
+      "type": "proverb"
+    },
+    {
+      "word": "信心過ぎて極楽を通り越す",
+      "reading": "しんじんすぎてごくらくをとおりこす",
+      "meaning": "faith is best in moderation",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "地獄極楽は心にあり。",
+      "reading": null,
+      "english": "Heaven and hell exist in the hearts of man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "地獄極楽は心にあり。",
+      "reading": null,
+      "english": "Heaven and hell exist in the hearts of man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

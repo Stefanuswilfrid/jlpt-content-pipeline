@@ -1,0 +1,250 @@
+{
+  "definition": {
+    "word": "同意",
+    "reading": "どうい",
+    "romaji": "doui",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kesepakatan",
+          "persetujuan; arti yang sama"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "same opinion",
+          "same view"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "same meaning"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "合意",
+      "reading": "ごうい",
+      "meaning": "kesepakatan, persetujuan, saling pengertian"
+    },
+    {
+      "word": "意向",
+      "reading": "いこう",
+      "meaning": "niat, ide, kecenderungan"
+    },
+    {
+      "word": "同盟",
+      "reading": "どうめい",
+      "meaning": "aliansi, persatuan, liga"
+    },
+    {
+      "word": "意欲",
+      "reading": "いよく",
+      "meaning": "kemauan, keinginan, ambisi"
+    },
+    {
+      "word": "決意",
+      "reading": "けつい",
+      "meaning": "keputusan, penetapan"
+    },
+    {
+      "word": "意図",
+      "reading": "いと",
+      "meaning": "niat, tujuan, desain"
+    },
+    {
+      "word": "熱意",
+      "reading": "ねつい",
+      "meaning": "semangat, antusiasme"
+    },
+    {
+      "word": "同情",
+      "reading": "どうじょう",
+      "meaning": "simpati, belas kasihan, bersimpati"
+    },
+    {
+      "word": "好意",
+      "reading": "こうい",
+      "meaning": "niat baik, bantuan, kesopanan"
+    },
+    {
+      "word": "同居",
+      "reading": "どうきょ",
+      "meaning": "tinggal bersama"
+    },
+    {
+      "word": "同調",
+      "reading": "どうちょう",
+      "meaning": "simpati, setuju dengan, keselarasan"
+    },
+    {
+      "word": "同級",
+      "reading": "どうきゅう",
+      "meaning": "kelas yang sama, tingkatan yang sama"
+    },
+    {
+      "word": "同感",
+      "reading": "どうかん",
+      "meaning": "kesepakatan, pendapat yang sama, perasaan yang sama"
+    },
+    {
+      "word": "同等",
+      "reading": "どうとう",
+      "meaning": "kesetaraan, sama, peringkat yang sama"
+    },
+    {
+      "word": "意気込む",
+      "reading": "いきごむ",
+      "meaning": "untuk antusias tentang"
+    },
+    {
+      "word": "一同",
+      "reading": "いちどう",
+      "meaning": "semua yang hadir, semua yang terkait, kita semua"
+    },
+    {
+      "word": "同封",
+      "reading": "どうふう",
+      "meaning": "lampiran (misalnya, dalam surat)"
+    },
+    {
+      "word": "混同",
+      "reading": "こんどう",
+      "meaning": "kebingungan, pencampuran, penggabungan"
+    },
+    {
+      "word": "不意",
+      "reading": "ふい",
+      "meaning": "tiba-tiba, mendadak, tak terduga"
+    },
+    {
+      "word": "同い年",
+      "reading": "おないどし",
+      "meaning": "seusia"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "沈黙は同意を表す。",
+      "reading": null,
+      "indonesian": "Silence gives consent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "沈黙は同意を表す。",
+      "reading": null,
+      "indonesian": "Silence gives consent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の同意が無くてはどうしようもありません。",
+      "reading": null,
+      "indonesian": "Without your consent, nothing can be done about it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は貴方の提案には同意できません。",
+      "reading": null,
+      "indonesian": "I cannot agree to your proposal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の提案には同意できないな。",
+      "reading": null,
+      "indonesian": "I cannot agree to your proposal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の言う事は認めるが、同意は出来ない。",
+      "reading": null,
+      "indonesian": "Admitting what you say, I cannot agree with you.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君のいうことに同意できない。",
+      "reading": null,
+      "indonesian": "I don't agree with you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はあなたに同意できない。",
+      "reading": null,
+      "indonesian": "I don't agree with you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が同意しようとしまいと、ぼくはやる。",
+      "reading": null,
+      "indonesian": "I am going to do it whether you agree or not.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君がそう言うのももっともかもしれないが、私は同意できない。",
+      "reading": null,
+      "indonesian": "You may well say so, but I cannot agree.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は、休日の計画について、彼の考えに同意した。",
+      "reading": null,
+      "indonesian": "She agreed with him about the holiday plan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々はみな同意している。",
+      "reading": null,
+      "indonesian": "We are all in agreement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "価格を下げてくだされば条件に同意します。",
+      "reading": null,
+      "indonesian": "I'll agree to the terms if you lower the price.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

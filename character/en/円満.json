@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "円満",
+    "reading": "えんまん",
+    "romaji": "enman",
+    "jlpt": "N1",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "harmonious",
+          "peaceful",
+          "happy",
+          "amicable",
+          "smooth",
+          "free from trouble"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "円滑",
+      "reading": "えんかつ",
+      "meaning": "smooth"
+    },
+    {
+      "word": "満月",
+      "reading": "まんげつ",
+      "meaning": "full moon"
+    },
+    {
+      "word": "満場",
+      "reading": "まんじょう",
+      "meaning": "whole house"
+    },
+    {
+      "word": "円周",
+      "reading": "えんしゅう",
+      "meaning": "circumference"
+    },
+    {
+      "word": "満点",
+      "reading": "まんてん",
+      "meaning": "perfect score"
+    },
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "dissatisfaction"
+    },
+    {
+      "word": "未満",
+      "reading": "みまん",
+      "meaning": "less than"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "円満具足",
+      "reading": "えんまんぐそく",
+      "meaning": "(things) being complete, tranquil, and in harmony",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "福徳円満",
+      "reading": "ふくとくえんまん",
+      "meaning": "being perfectly happy and prosperous",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "家庭は円満だ。",
+      "reading": null,
+      "english": "I have peace at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "争議は円満に解決した。",
+      "reading": null,
+      "english": "The dispute was settled peacefully.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "家庭は円満だ。",
+      "reading": null,
+      "english": "I have peace at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "争議は円満に解決した。",
+      "reading": null,
+      "english": "The dispute was settled peacefully.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

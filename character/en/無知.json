@@ -1,0 +1,265 @@
+{
+  "definition": {
+    "word": "無知",
+    "reading": "むち",
+    "romaji": "muchi",
+    "jlpt": "N1",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "ignorance",
+          "innocence",
+          "stupidity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "meaning": "innocent"
+    },
+    {
+      "word": "無口",
+      "reading": "むくち",
+      "meaning": "taciturn"
+    },
+    {
+      "word": "旧知",
+      "reading": "きゅうち",
+      "meaning": "old friend"
+    },
+    {
+      "word": "台無し",
+      "reading": "だいなし",
+      "meaning": "spoiled"
+    },
+    {
+      "word": "無能",
+      "reading": "むのう",
+      "meaning": "incompetence"
+    },
+    {
+      "word": "無線",
+      "reading": "むせん",
+      "meaning": "radio (communication)"
+    },
+    {
+      "word": "知的",
+      "reading": "ちてき",
+      "meaning": "intellectual"
+    },
+    {
+      "word": "無効",
+      "reading": "むこう",
+      "meaning": "invalid"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "silence (not speaking)"
+    },
+    {
+      "word": "無断",
+      "reading": "むだん",
+      "meaning": "absence of permission"
+    },
+    {
+      "word": "無用",
+      "reading": "むよう",
+      "meaning": "useless"
+    },
+    {
+      "word": "未知",
+      "reading": "みち",
+      "meaning": "not yet known"
+    },
+    {
+      "word": "無難",
+      "reading": "ぶなん",
+      "meaning": "safe (e.g. choice)"
+    },
+    {
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "regret"
+    },
+    {
+      "word": "知性",
+      "reading": "ちせい",
+      "meaning": "intelligence"
+    },
+    {
+      "word": "無駄遣い",
+      "reading": "むだづかい",
+      "meaning": "waste (of money, time, etc.)"
+    },
+    {
+      "word": "無意味",
+      "reading": "むいみ",
+      "meaning": "nonsense"
+    },
+    {
+      "word": "無礼",
+      "reading": "ぶれい",
+      "meaning": "rudeness"
+    },
+    {
+      "word": "無茶",
+      "reading": "むちゃ",
+      "meaning": "absurd"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無知蒙昧",
+      "reading": "むちもうまい",
+      "meaning": "unenlightened",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無学無知",
+      "reading": "むがくむち",
+      "meaning": "illiterate and ignorant",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無知愚昧",
+      "reading": "むちぐまい",
+      "meaning": "unenlightened",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無知文盲",
+      "reading": "むちもんもう",
+      "meaning": "ignorance and illiteracy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無知は幸福",
+      "reading": "むちはこうふく",
+      "meaning": "ignorance is bliss",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼は世の中の事に無知だ。",
+      "reading": null,
+      "english": "He is ignorant of the world.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は自分の無知を恥じるべきである。",
+      "reading": null,
+      "english": "You should be ashamed of your ignorance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の無知には感心するよ。",
+      "reading": null,
+      "english": "I admire your ignorance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "恐怖は常に無知から生まれる。",
+      "reading": null,
+      "english": "Fear always springs from ignorance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "学べば学ぶほど、自分が無知であることがよく分かる。",
+      "reading": null,
+      "english": "The more we learn, the better we realize our ignorance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学べば学ぶほど、ますます自分が無知であることがわかる。",
+      "reading": null,
+      "english": "The more you study, the more you discover your ignorance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "学のある人はとかく無知な人を軽蔑する。",
+      "reading": null,
+      "english": "The learned are apt to despise the ignorant.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この事実で彼が無知なのが分かる。",
+      "reading": null,
+      "english": "This fact accounts for his ignorance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "無知は幸福。",
+      "reading": null,
+      "english": "Ignorance is bliss.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "彼女は彼の無知に困っている。",
+      "reading": null,
+      "english": "She is annoyed at his ignorance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は彼の無知に困っている。",
+      "reading": null,
+      "english": "His ignorance causes her problems.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は私の無知に付け込んだ。",
+      "reading": null,
+      "english": "She took advantage of my ignorance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは無知と貧困から逃れられなくなった。",
+      "reading": null,
+      "english": "They got into the grip of ignorance and poverty.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は無知を装ったが、そのことが私をさらに怒らせた。",
+      "reading": null,
+      "english": "He pretended ignorance, which made me still more angry.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

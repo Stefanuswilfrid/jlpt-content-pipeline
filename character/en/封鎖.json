@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "封鎖",
+    "reading": "ふうさ",
+    "romaji": "fuusa",
+    "jlpt": "N1",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "blockade",
+          "lockdown",
+          "sealing off (an area)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "freezing (funds)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "封",
+      "reading": "ふう",
+      "meaning": "seal"
+    },
+    {
+      "word": "閉鎖",
+      "reading": "へいさ",
+      "meaning": "closing"
+    },
+    {
+      "word": "同封",
+      "reading": "どうふう",
+      "meaning": "enclosing (e.g. with a letter)"
+    },
+    {
+      "word": "封建",
+      "reading": "ほうけん",
+      "meaning": "feudalistic"
+    },
+    {
+      "word": "封筒",
+      "reading": "ふうとう",
+      "meaning": "envelope"
+    },
+    {
+      "word": "手錠",
+      "reading": "てじょう",
+      "meaning": "handcuffs"
+    },
+    {
+      "word": "鎖",
+      "reading": "くさり",
+      "meaning": "chain"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この港は封鎖されうる。",
+      "reading": null,
+      "english": "The harbor can be blocked.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兵隊が町への道を封鎖した。",
+      "reading": null,
+      "english": "Soldiers barred the way to the city.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "兵隊が町への道を封鎖した。",
+      "reading": null,
+      "english": "The army blocked the roads to the city.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この港は封鎖されうる。",
+      "reading": null,
+      "english": "The harbor can be blocked.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兵隊が町への道を封鎖した。",
+      "reading": null,
+      "english": "Soldiers barred the way to the city.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察はそのエリアを封鎖した。",
+      "reading": null,
+      "english": "The police have blocked off the area.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "警察はそのエリアを封鎖した。",
+      "reading": null,
+      "english": "The police have blocked off the area.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兵隊が町への道を封鎖した。",
+      "reading": null,
+      "english": "The army blocked the roads to the city.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

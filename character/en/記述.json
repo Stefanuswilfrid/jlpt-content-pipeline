@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "記述",
+    "reading": "きじゅつ",
+    "romaji": "kijutsu",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "description",
+          "account"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "記載",
+      "reading": "きさい",
+      "meaning": "mention (in a document)"
+    },
+    {
+      "word": "記す",
+      "reading": "しるす",
+      "meaning": "to write down"
+    },
+    {
+      "word": "記名",
+      "reading": "きめい",
+      "meaning": "signature"
+    },
+    {
+      "word": "口述",
+      "reading": "こうじゅつ",
+      "meaning": "dictation"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "commemoration"
+    },
+    {
+      "word": "記憶",
+      "reading": "きおく",
+      "meaning": "memory"
+    },
+    {
+      "word": "日記",
+      "reading": "にっき",
+      "meaning": "diary"
+    },
+    {
+      "word": "記事",
+      "reading": "きじ",
+      "meaning": "article"
+    },
+    {
+      "word": "記者",
+      "reading": "きしゃ",
+      "meaning": "reporter"
+    },
+    {
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "record"
+    },
+    {
+      "word": "記号",
+      "reading": "きごう",
+      "meaning": "sign"
+    },
+    {
+      "word": "伝記",
+      "reading": "でんき",
+      "meaning": "biography"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あの男は新聞の記述と一致する。",
+      "reading": null,
+      "english": "The man answers to the description in the newspaper.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "本サイト内の記述、画像、写真の無断転載・転用を禁止します。",
+      "reading": null,
+      "english": "Reproduction or appropriation of HTML, images and photographs from within this site is prohibited.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は何が起こったのか正確に記述した。",
+      "reading": null,
+      "english": "He described exactly what happened.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あの男は新聞の記述と一致する。",
+      "reading": null,
+      "english": "The man answers to the description in the newspaper.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

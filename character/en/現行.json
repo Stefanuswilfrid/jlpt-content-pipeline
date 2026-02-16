@@ -1,0 +1,239 @@
+{
+  "definition": {
+    "word": "現行",
+    "reading": "げんこう",
+    "romaji": "genkou",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "present",
+          "current",
+          "in operation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "現地",
+      "reading": "げんち",
+      "meaning": "actual place"
+    },
+    {
+      "word": "行政",
+      "reading": "ぎょうせい",
+      "meaning": "executive"
+    },
+    {
+      "word": "行為",
+      "reading": "こうい",
+      "meaning": "act"
+    },
+    {
+      "word": "移行",
+      "reading": "いこう",
+      "meaning": "transition"
+    },
+    {
+      "word": "走行",
+      "reading": "そうこう",
+      "meaning": "running (of a car, bus, etc.)"
+    },
+    {
+      "word": "施行",
+      "reading": "しこう",
+      "meaning": "putting in force (a law)"
+    },
+    {
+      "word": "修行",
+      "reading": "しゅぎょう",
+      "meaning": "training"
+    },
+    {
+      "word": "出現",
+      "reading": "しゅつげん",
+      "meaning": "appearance"
+    },
+    {
+      "word": "行進",
+      "reading": "こうしん",
+      "meaning": "march"
+    },
+    {
+      "word": "再現",
+      "reading": "さいげん",
+      "meaning": "reappearance"
+    },
+    {
+      "word": "強行",
+      "reading": "きょうこう",
+      "meaning": "forcing (e.g. a vote)"
+    },
+    {
+      "word": "行い",
+      "reading": "おこない",
+      "meaning": "deed"
+    },
+    {
+      "word": "現像",
+      "reading": "げんぞう",
+      "meaning": "development (of film)"
+    },
+    {
+      "word": "徐行",
+      "reading": "じょこう",
+      "meaning": "going slowly (esp. to enable a vehicle to stop immediately)"
+    },
+    {
+      "word": "行き違い",
+      "reading": "いきちがい",
+      "meaning": "crossing without meeting (e.g. letters in the post, people on the road)"
+    },
+    {
+      "word": "現在",
+      "reading": "げんざい",
+      "meaning": "the present"
+    },
+    {
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "reality"
+    },
+    {
+      "word": "現場",
+      "reading": "げんば",
+      "meaning": "actual spot"
+    },
+    {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "bank"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "action"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼女はネックレスを盗もうとして現行犯でつかまった。",
+      "reading": null,
+      "english": "She was caught red-handed trying to steal a necklace.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はすりの現行犯でつかまった。",
+      "reading": null,
+      "english": "He was caught in the act of pickpocketing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "泥棒は現行犯でつかまった。",
+      "reading": null,
+      "english": "The thief was caught in the act.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "泥棒は、現行犯で捕まった。",
+      "reading": null,
+      "english": "The thief was arrested red-handed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "車の事故に関する現行の法は手直しが必要である。",
+      "reading": null,
+      "english": "The existing law concerning car accidents requires amending.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "現行の法律は人種の多様性を考慮していない。",
+      "reading": null,
+      "english": "Existing legislation does not take diversity of races into account.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察は彼を現行犯で逮捕した。",
+      "reading": null,
+      "english": "The police caught him at it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察は強盗を現行犯で捕まえた。",
+      "reading": null,
+      "english": "The police caught the burglar red-handed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察はすりを現行犯で取り押さえた。",
+      "reading": null,
+      "english": "The police arrested the pickpocket in the act.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察はすりを現行犯で取り押さえた。",
+      "reading": null,
+      "english": "The police arrested the pickpocket in the act.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察はスリを現行犯で逮捕した。",
+      "reading": null,
+      "english": "The police arrested the pickpocket in the act.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察は強盗を現行犯で捕まえた。",
+      "reading": null,
+      "english": "The police caught the burglar red-handed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察は彼を現行犯で逮捕した。",
+      "reading": null,
+      "english": "The police caught him at it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "現行の法律は人種の多様性を考慮していない。",
+      "reading": null,
+      "english": "Existing legislation does not take diversity of races into account.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

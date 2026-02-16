@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "設ける",
+    "reading": "もうける",
+    "romaji": "moukeru",
+    "jlpt": "N1",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to prepare",
+          "to provide"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to set up",
+          "to establish",
+          "to organize",
+          "to lay down (rules)",
+          "to make (an excuse)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "施設",
+      "reading": "しせつ",
+      "meaning": "facility"
+    },
+    {
+      "word": "設置",
+      "reading": "せっち",
+      "meaning": "establishment"
+    },
+    {
+      "word": "設立",
+      "reading": "せつりつ",
+      "meaning": "establishment"
+    },
+    {
+      "word": "設定",
+      "reading": "せってい",
+      "meaning": "establishment"
+    },
+    {
+      "word": "建設",
+      "reading": "けんせつ",
+      "meaning": "construction"
+    },
+    {
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "equipment"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "plan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ホールは仕切りを設ける前は千人収容できた。",
+      "reading": null,
+      "english": "The hall could seat a thousand people before it was partitioned.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ホールは仕切りを設ける前は千人収容できた。",
+      "reading": null,
+      "english": "The hall could seat a thousand people before it was partitioned.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

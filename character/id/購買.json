@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "購買",
+    "reading": "こうばい",
+    "romaji": "koubai",
+    "jlpt": "N1",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membeli",
+          "membeli"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "school store",
+          "co-op",
+          "school canteen",
+          "tuck shop"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "購読",
+      "reading": "こうどく",
+      "meaning": "berlangganan"
+    },
+    {
+      "word": "購入",
+      "reading": "こうにゅう",
+      "meaning": "membeli, membeli"
+    },
+    {
+      "word": "売買",
+      "reading": "ばいばい",
+      "meaning": "perdagangan, jual beli"
+    },
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaning": "belanja"
+    },
+    {
+      "word": "買う",
+      "reading": "かう",
+      "meaning": "untuk membeli"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お客様の今後の購買需要を明らかにしようとしています。",
+      "reading": null,
+      "indonesian": "We are trying to clarify your future procurement requirements.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "購買部の者に会われたほうがいいと思います。",
+      "reading": null,
+      "indonesian": "I think you should probably see someone from Purchasing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "購買部にとって重要な人材になられると思います。",
+      "reading": null,
+      "indonesian": "She will be an asset to the Purchasing Department.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "お客様の今後の購買需要を明らかにしようとしています。",
+      "reading": null,
+      "indonesian": "We are trying to clarify your future procurement requirements.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "購買部にとって重要な人材になられると思います。",
+      "reading": null,
+      "indonesian": "She will be an asset to the Purchasing Department.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "購買部の者に会われたほうがいいと思います。",
+      "reading": null,
+      "indonesian": "I think you should probably see someone from Purchasing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "並列",
+    "reading": "へいれつ",
+    "romaji": "heiretsu",
+    "jlpt": "N1",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "arranging in a line",
+          "standing in a row"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "parallel (electronics, computing, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "陳列",
+      "reading": "ちんれつ",
+      "meaning": "exhibition"
+    },
+    {
+      "word": "配列",
+      "reading": "はいれつ",
+      "meaning": "arranging"
+    },
+    {
+      "word": "連ねる",
+      "reading": "つらねる",
+      "meaning": "to line up"
+    },
+    {
+      "word": "整列",
+      "reading": "せいれつ",
+      "meaning": "standing in a row"
+    },
+    {
+      "word": "並ぶ",
+      "reading": "ならぶ",
+      "meaning": "to line up"
+    },
+    {
+      "word": "連なる",
+      "reading": "つらなる",
+      "meaning": "to extend"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

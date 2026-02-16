@@ -1,0 +1,219 @@
+{
+  "definition": {
+    "word": "無能",
+    "reading": "むのう",
+    "romaji": "munou",
+    "jlpt": "N1",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "incompetence",
+          "inefficiency",
+          "inability",
+          "incapacity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "incompetent person"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "meaning": "innocent"
+    },
+    {
+      "word": "無口",
+      "reading": "むくち",
+      "meaning": "taciturn"
+    },
+    {
+      "word": "無知",
+      "reading": "むち",
+      "meaning": "ignorance"
+    },
+    {
+      "word": "台無し",
+      "reading": "だいなし",
+      "meaning": "spoiled"
+    },
+    {
+      "word": "無意味",
+      "reading": "むいみ",
+      "meaning": "nonsense"
+    },
+    {
+      "word": "無礼",
+      "reading": "ぶれい",
+      "meaning": "rudeness"
+    },
+    {
+      "word": "無線",
+      "reading": "むせん",
+      "meaning": "radio (communication)"
+    },
+    {
+      "word": "無効",
+      "reading": "むこう",
+      "meaning": "invalid"
+    },
+    {
+      "word": "放射能",
+      "reading": "ほうしゃのう",
+      "meaning": "radioactivity"
+    },
+    {
+      "word": "技能",
+      "reading": "ぎのう",
+      "meaning": "technical skill"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "silence (not speaking)"
+    },
+    {
+      "word": "無断",
+      "reading": "むだん",
+      "meaning": "absence of permission"
+    },
+    {
+      "word": "無用",
+      "reading": "むよう",
+      "meaning": "useless"
+    },
+    {
+      "word": "無難",
+      "reading": "ぶなん",
+      "meaning": "safe (e.g. choice)"
+    },
+    {
+      "word": "万能",
+      "reading": "ばんのう",
+      "meaning": "all-purpose"
+    },
+    {
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "regret"
+    },
+    {
+      "word": "本能",
+      "reading": "ほんのう",
+      "meaning": "instinct"
+    },
+    {
+      "word": "無駄遣い",
+      "reading": "むだづかい",
+      "meaning": "waste (of money, time, etc.)"
+    },
+    {
+      "word": "無茶",
+      "reading": "むちゃ",
+      "meaning": "absurd"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無為無能",
+      "reading": "むいむのう",
+      "meaning": "idle and incompetent",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あらゆる芸術評論家達は無能であり危険な存在である。",
+      "reading": null,
+      "english": "Regard all art critics as useless and dangerous.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は弁護士としては無能だ。",
+      "reading": null,
+      "english": "He is no good as a lawyer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は医者として無能だ。",
+      "reading": null,
+      "english": "He is no good as a doctor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼の無能ぶりに誰もが苛立ち始めた。",
+      "reading": null,
+      "english": "His incompetence began to irritate everyone.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の失敗は無能によるものかそれとも不運によるものか。",
+      "reading": null,
+      "english": "Is his failure ascribable to incompetence or to bad luck?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あらゆる芸術評論家達は無能であり危険な存在である。",
+      "reading": null,
+      "english": "Regard all art critics as useless and dangerous.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の失敗は無能によるものかそれとも不運によるものか。",
+      "reading": null,
+      "english": "Is his failure ascribable to incompetence or to bad luck?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の無能ぶりに誰もが苛立ち始めた。",
+      "reading": null,
+      "english": "His incompetence began to irritate everyone.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は医者として無能だ。",
+      "reading": null,
+      "english": "He is no good as a doctor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は弁護士としては無能だ。",
+      "reading": null,
+      "english": "He is no good as a lawyer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

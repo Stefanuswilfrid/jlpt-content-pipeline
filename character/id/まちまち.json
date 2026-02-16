@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "区々",
+    "reading": "まちまち",
+    "romaji": "machimachi",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "beragam",
+          "berbeda"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "区間",
+      "reading": "くかん",
+      "meaning": "bagian"
+    },
+    {
+      "word": "区切り",
+      "reading": "くぎり",
+      "meaning": "akhir, berhenti, tanda baca"
+    },
+    {
+      "word": "区画",
+      "reading": "くかく",
+      "meaning": "divisi, bagian, area"
+    },
+    {
+      "word": "区域",
+      "reading": "くいき",
+      "meaning": "zona, distrik, wilayah"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "perbedaan, pembedaan, klasifikasi"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "divisi, bagian, klasifikasi"
+    },
+    {
+      "word": "地区",
+      "reading": "ちく",
+      "meaning": "distrik, bagian"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その件について彼らの意見はまちまちだ。",
+      "reading": null,
+      "indonesian": "Their views vary on the subject.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "箱の大きさは小さいのから大きいのまでまちまちだ。",
+      "reading": null,
+      "indonesian": "The boxes vary in size from small to large.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日の東京市場の株価はまちまちだった。",
+      "reading": null,
+      "indonesian": "Stock prices were mixed on the Tokyo market today.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その件について彼らの意見はまちまちだ。",
+      "reading": null,
+      "indonesian": "Their views vary on the subject.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今日の東京市場の株価はまちまちだった。",
+      "reading": null,
+      "indonesian": "Stock prices were mixed on the Tokyo market today.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "箱の大きさは小さいのから大きいのまでまちまちだ。",
+      "reading": null,
+      "indonesian": "The boxes vary in size from small to large.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

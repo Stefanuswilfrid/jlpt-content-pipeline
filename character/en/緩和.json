@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "緩和",
+    "reading": "かんわ",
+    "romaji": "kanwa",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "relief",
+          "mitigation",
+          "alleviation",
+          "relaxation (of restrictions, tensions, etc.)",
+          "easing",
+          "softening"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "共和",
+      "reading": "きょうわ",
+      "meaning": "republicanism"
+    },
+    {
+      "word": "調和",
+      "reading": "ちょうわ",
+      "meaning": "harmony"
+    },
+    {
+      "word": "緩める",
+      "reading": "ゆるめる",
+      "meaning": "to loosen"
+    },
+    {
+      "word": "飽和",
+      "reading": "ほうわ",
+      "meaning": "saturation"
+    },
+    {
+      "word": "緩む",
+      "reading": "ゆるむ",
+      "meaning": "to become loose"
+    },
+    {
+      "word": "中和",
+      "reading": "ちゅうわ",
+      "meaning": "neutralization"
+    },
+    {
+      "word": "温和",
+      "reading": "おんわ",
+      "meaning": "mild (climate)"
+    },
+    {
+      "word": "和らげる",
+      "reading": "やわらげる",
+      "meaning": "to soften"
+    },
+    {
+      "word": "和文",
+      "reading": "わぶん",
+      "meaning": "Japanese text"
+    },
+    {
+      "word": "平和",
+      "reading": "へいわ",
+      "meaning": "peace"
+    },
+    {
+      "word": "漢和",
+      "reading": "かんわ",
+      "meaning": "China and Japan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "緊張緩和",
+      "reading": "きんちょうかんわ",
+      "meaning": "easing of tensions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "規制緩和",
+      "reading": "きせいかんわ",
+      "meaning": "deregulation",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この薬で痛みは緩和するでしょう。",
+      "reading": null,
+      "english": "This medicine will relieve the pain.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この薬を飲むと痙攣が緩和されます。",
+      "reading": null,
+      "english": "This medicine will ease your cramps.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "日米間の摩擦は緩和の方向に向かっています。",
+      "reading": null,
+      "english": "Frictions between Japan and the U.S. are easing up for a change.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "大統領の演説は世界の緊張緩和を意図したものだった。",
+      "reading": null,
+      "english": "The President's speech was calculated to ease world tensions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "需給関係が緩和している。",
+      "reading": null,
+      "english": "The supply-demand balance is relaxing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "景気を支えるために金融緩和が必要と考えられている。",
+      "reading": null,
+      "english": "Credit relaxation is considered necessary to shore up business.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "景気を支えるために金融緩和が必要と考えられている。",
+      "reading": null,
+      "english": "Credit relaxation is considered necessary to shore up business.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

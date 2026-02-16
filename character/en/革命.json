@@ -1,0 +1,226 @@
+{
+  "definition": {
+    "word": "革命",
+    "reading": "かくめい",
+    "romaji": "kakumei",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "revolution"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "58th year of the sexagenary cycle (in Onmyōdō)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "改革",
+      "reading": "かいかく",
+      "meaning": "reform"
+    },
+    {
+      "word": "革新",
+      "reading": "かくしん",
+      "meaning": "reform"
+    },
+    {
+      "word": "変革",
+      "reading": "へんかく",
+      "meaning": "change"
+    },
+    {
+      "word": "運命",
+      "reading": "うんめい",
+      "meaning": "fate"
+    },
+    {
+      "word": "使命",
+      "reading": "しめい",
+      "meaning": "mission"
+    },
+    {
+      "word": "任命",
+      "reading": "にんめい",
+      "meaning": "appointment"
+    },
+    {
+      "word": "宿命",
+      "reading": "しゅくめい",
+      "meaning": "fate"
+    },
+    {
+      "word": "命中",
+      "reading": "めいちゅう",
+      "meaning": "(direct) hit"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "life"
+    },
+    {
+      "word": "命",
+      "reading": "いのち",
+      "meaning": "life"
+    },
+    {
+      "word": "命令",
+      "reading": "めいれい",
+      "meaning": "order"
+    },
+    {
+      "word": "懸命",
+      "reading": "けんめい",
+      "meaning": "eager"
+    },
+    {
+      "word": "革",
+      "reading": "かわ",
+      "meaning": "leather"
+    },
+    {
+      "word": "寿命",
+      "reading": "じゅみょう",
+      "meaning": "lifespan"
+    },
+    {
+      "word": "人命",
+      "reading": "じんめい",
+      "meaning": "(human) life"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "易姓革命",
+      "reading": "えきせいかくめい",
+      "meaning": "revolution (change of dynasty) decreed by Heaven when the incumbent emperor is found lacking in moral virtue (old Chinese political thought)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "革命評議委員会は戦略の計画を立てるために集まった。",
+      "reading": null,
+      "english": "The revolutionary council met to plan strategy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "革命後、フランスは共和国になった。",
+      "reading": null,
+      "english": "After the revolution, France became a republic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "革命は新たな時代をもたらした。",
+      "reading": null,
+      "english": "The revolution ushered in a new era.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "革命によって多くの変化が起こった。",
+      "reading": null,
+      "english": "The revolution has brought about many changes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その革命が多くの変化を引き起こしている。",
+      "reading": null,
+      "english": "The revolution has brought about many changes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "科学技術において革命が起きた。",
+      "reading": null,
+      "english": "A revolution has occurred in technology.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "科学技術において、大きな革命が起こった。",
+      "reading": null,
+      "english": "A great revolution has taken place in technology.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "メキシコで革命が起こった。",
+      "reading": null,
+      "english": "A revolution broke out in Mexico.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まるで革命前夜のような騒ぎだった。",
+      "reading": null,
+      "english": "It looked as if we were on the eve of a revolution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "フランス革命についての論文を書いています。",
+      "reading": null,
+      "english": "I am writing a study of the French Revolution.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バイオテクノロジーは農業に革命をもたらすだろう。",
+      "reading": null,
+      "english": "Biotechnology will bring about a revolution in agriculture.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その国に革命が起こった。",
+      "reading": null,
+      "english": "A revolution broke out in that country.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ある意味でそのような政治活動は一つの革命と言える。",
+      "reading": null,
+      "english": "In a sense, such a political movement may be called a revolution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "１９世紀には産業革命が起こった。",
+      "reading": null,
+      "english": "The 19th century saw the Industrial Revolution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

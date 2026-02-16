@@ -1,0 +1,170 @@
+{
+  "definition": {
+    "word": "未だ",
+    "reading": "まだ",
+    "romaji": "mada",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "still",
+          "as yet",
+          "only"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(not) yet"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "more",
+          "(more) still"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "at least",
+          "comparatively",
+          "relatively"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "unfinished",
+          "incomplete",
+          "not yet done"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "未定",
+      "reading": "みてい",
+      "meaning": "not yet fixed"
+    },
+    {
+      "word": "未熟",
+      "reading": "みじゅく",
+      "meaning": "unripe"
+    },
+    {
+      "word": "未練",
+      "reading": "みれん",
+      "meaning": "lingering attachment"
+    },
+    {
+      "word": "未満",
+      "reading": "みまん",
+      "meaning": "less than"
+    },
+    {
+      "word": "未婚",
+      "reading": "みこん",
+      "meaning": "unmarried"
+    },
+    {
+      "word": "未知",
+      "reading": "みち",
+      "meaning": "not yet known"
+    },
+    {
+      "word": "未開",
+      "reading": "みかい",
+      "meaning": "uncivilized"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そんなものは未だかつて見たことがない。",
+      "reading": null,
+      "english": "Never have I seen such a thing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その古い諺は、我々の近代社会にも未だに当てはまる。",
+      "reading": null,
+      "english": "The old proverb still holds good in our modern society.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "未だパリに行ったことがありません。",
+      "reading": null,
+      "english": "I have never been to Paris.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は未だここに来てない。",
+      "reading": null,
+      "english": "She has not come here yet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は未だここに来てない。",
+      "reading": null,
+      "english": "She hasn't come here yet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は未だかつて北海道へ行ったことがない。",
+      "reading": null,
+      "english": "She has never been to Hokkaido.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の影響力は未だ衰えていない。",
+      "reading": null,
+      "english": "His influence is still potent.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の影響力は未だ衰えていない。",
+      "reading": null,
+      "english": "His influence is still undiminished.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そんなものは未だかつて見たことがない。",
+      "reading": null,
+      "english": "Never have I seen such a thing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

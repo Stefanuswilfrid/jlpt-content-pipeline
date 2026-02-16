@@ -1,0 +1,203 @@
+{
+  "definition": {
+    "word": "総合",
+    "reading": "そうごう",
+    "romaji": "sougou",
+    "jlpt": "N1",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "synthesis",
+          "combination",
+          "integration",
+          "putting together"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "general",
+          "combined",
+          "composite",
+          "mixed",
+          "integrated",
+          "comprehensive"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "synthesis",
+          "colligation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "総会",
+      "reading": "そうかい",
+      "meaning": "general meeting"
+    },
+    {
+      "word": "合意",
+      "reading": "ごうい",
+      "meaning": "(coming to an) agreement"
+    },
+    {
+      "word": "統合",
+      "reading": "とうごう",
+      "meaning": "integration"
+    },
+    {
+      "word": "合併",
+      "reading": "がっぺい",
+      "meaning": "merger (of companies, towns, etc.)"
+    },
+    {
+      "word": "複合",
+      "reading": "ふくごう",
+      "meaning": "composite"
+    },
+    {
+      "word": "合間",
+      "reading": "あいま",
+      "meaning": "interval"
+    },
+    {
+      "word": "合唱",
+      "reading": "がっしょう",
+      "meaning": "singing together"
+    },
+    {
+      "word": "化合",
+      "reading": "かごう",
+      "meaning": "chemical combination"
+    },
+    {
+      "word": "組み合わせる",
+      "reading": "くみあわせる",
+      "meaning": "to put together"
+    },
+    {
+      "word": "合成",
+      "reading": "ごうせい",
+      "meaning": "composition"
+    },
+    {
+      "word": "合致",
+      "reading": "がっち",
+      "meaning": "agreement"
+    },
+    {
+      "word": "問い合わせる",
+      "reading": "といあわせる",
+      "meaning": "to enquire"
+    },
+    {
+      "word": "結合",
+      "reading": "けつごう",
+      "meaning": "combination"
+    },
+    {
+      "word": "見合い",
+      "reading": "みあい",
+      "meaning": "(formal) meeting with a view to marriage"
+    },
+    {
+      "word": "合議",
+      "reading": "ごうぎ",
+      "meaning": "consultation"
+    },
+    {
+      "word": "照合",
+      "reading": "しょうごう",
+      "meaning": "check (against)"
+    },
+    {
+      "word": "待ち合わせ",
+      "reading": "まちあわせ",
+      "meaning": "appointment"
+    },
+    {
+      "word": "見合わせる",
+      "reading": "みあわせる",
+      "meaning": "to exchange glances"
+    },
+    {
+      "word": "合わす",
+      "reading": "あわす",
+      "meaning": "to match (rhythm, speed, etc.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "疑惑の総合商社",
+      "reading": "ぎわくのそうごうしょうしゃ",
+      "meaning": "person suspected of multiple wrongdoings",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "このプロダクトはインテリジェント総合情報システムです。",
+      "reading": null,
+      "english": "This product is an intelligent integrated information system.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼も大人になって、物事を総合的な視野で見られるようになった。",
+      "reading": null,
+      "english": "As he grew up, he learned to put things in perspective.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼も大人になって、物事を総合的な視野で見られるようになった。",
+      "reading": null,
+      "english": "As he grew up, he learned to put things in perspective.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このプロダクトはインテリジェント総合情報システムです。",
+      "reading": null,
+      "english": "This product is an intelligent integrated information system.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この授業を通して、日本語の総合的な力を養っていきます。",
+      "reading": null,
+      "english": "Following this class's instruction, you will develop a comprehensive perceptive of Japanese.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この授業を通して、日本語の総合的な力を養っていきます。",
+      "reading": null,
+      "english": "Following this class's instruction, you will develop a comprehensive perceptive of Japanese.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

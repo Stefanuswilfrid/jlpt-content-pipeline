@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "染みる",
+    "reading": "しみる",
+    "romaji": "shimiru",
+    "jlpt": "N1",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to pierce",
+          "to penetrate",
+          "to soak in",
+          "to permeate"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to sting (wound or sensitive area, etc.)",
+          "to smart",
+          "to twinge"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be infected (with vice)",
+          "to be steeped (with prejudice)",
+          "to be influenced"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to feel keenly",
+          "to make a deep impression"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "染まる",
+      "reading": "そまる",
+      "meaning": "to be dyed"
+    },
+    {
+      "word": "感染",
+      "reading": "かんせん",
+      "meaning": "infection"
+    },
+    {
+      "word": "染める",
+      "reading": "そめる",
+      "meaning": "to dye"
+    },
+    {
+      "word": "伝染",
+      "reading": "でんせん",
+      "meaning": "contagion"
+    },
+    {
+      "word": "汚染",
+      "reading": "おせん",
+      "meaning": "pollution"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

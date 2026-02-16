@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "診療",
+    "reading": "しんりょう",
+    "romaji": "shinryou",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "diagnosis and treatment",
+          "medical care"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "往診",
+      "reading": "おうしん",
+      "meaning": "doctor's visit"
+    },
+    {
+      "word": "聴診器",
+      "reading": "ちょうしんき",
+      "meaning": "stethoscope"
+    },
+    {
+      "word": "医療",
+      "reading": "いりょう",
+      "meaning": "medical treatment"
+    },
+    {
+      "word": "治療",
+      "reading": "ちりょう",
+      "meaning": "(medical) treatment"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosis"
+    },
+    {
+      "word": "診察",
+      "reading": "しんさつ",
+      "meaning": "medical examination"
+    },
+    {
+      "word": "診る",
+      "reading": "みる",
+      "meaning": "to examine (medically)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼の診療所は、そのスキャンダル以来多くの患者を失った。",
+      "reading": null,
+      "english": "His clinic has lost many patients since the scandal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "診療予約を取ってもらえますか。",
+      "reading": null,
+      "english": "Can I make an appointment to have a medical examination?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "診療予約を取ってもらえますか。",
+      "reading": null,
+      "english": "Can I make an appointment to have a medical examination?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼の診療所は、そのスキャンダル以来多くの患者を失った。",
+      "reading": null,
+      "english": "His clinic has lost many patients since the scandal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "ばら撒く",
+    "reading": "ばらまく",
+    "romaji": "baramaku",
+    "jlpt": "N1",
+    "frequency": 10000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menyebarluaskan",
+          "menghamburkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to distribute widely (e.g. leaflets)",
+          "to hand out freely",
+          "to spend recklessly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "撒く",
+      "reading": "まく",
+      "meaning": "untuk menabur, untuk memercikkan, menabur"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼女は金をばらまくのが好きだった。",
+      "reading": null,
+      "indonesian": "She liked throwing her money about.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は金をばらまくのが好きだった。",
+      "reading": null,
+      "indonesian": "She liked throwing her money about.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

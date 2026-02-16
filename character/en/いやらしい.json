@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "嫌らしい",
+    "reading": "いやらしい",
+    "romaji": "iyarashii",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "unpleasant",
+          "disagreeable",
+          "nasty"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "lewd",
+          "lascivious",
+          "obscene",
+          "filthy",
+          "dirty"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "嫌",
+      "reading": "いや",
+      "meaning": "disliking"
+    },
+    {
+      "word": "嫌い",
+      "reading": "きらい",
+      "meaning": "disliked"
+    },
+    {
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "humour"
+    },
+    {
+      "word": "嫌う",
+      "reading": "きらう",
+      "meaning": "to hate"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "なんていやらしい男でしょう。",
+      "reading": null,
+      "english": "What a nasty man he is!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "私の夫について、よくもそんないやらしい言い方ができるわね。",
+      "reading": null,
+      "english": "How dare you speak about my husband in that disgusting way!",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "なんていやらしい男でしょう。",
+      "reading": null,
+      "english": "What a nasty man he is!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "私の夫について、よくもそんないやらしい言い方ができるわね。",
+      "reading": null,
+      "english": "How dare you speak about my husband in that disgusting way!",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

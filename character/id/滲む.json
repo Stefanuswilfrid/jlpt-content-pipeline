@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "滲む",
+    "reading": "にじむ",
+    "romaji": "nijimu",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk berlari",
+          "untuk menjadi kabur",
+          "untuk menyebar"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to blur",
+          "to blot",
+          "to be blurred"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to ooze",
+          "to well up (of tears, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to show through (of feelings, emotions, etc.)",
+          "to reveal itself"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "染みる",
+      "reading": "しみる",
+      "meaning": "merendam; menusuk"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "汗が滲む。",
+      "reading": null,
+      "indonesian": "Sweat leaks out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "汗が滲む。",
+      "reading": null,
+      "indonesian": "Sweat leaks out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

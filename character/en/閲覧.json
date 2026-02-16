@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "閲覧",
+    "reading": "えつらん",
+    "romaji": "etsuran",
+    "jlpt": "N1",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "inspection",
+          "reading",
+          "perusal"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "browsing (the web)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観覧",
+      "reading": "かんらん",
+      "meaning": "viewing"
+    },
+    {
+      "word": "回覧",
+      "reading": "かいらん",
+      "meaning": "circulation (esp. of documents)"
+    },
+    {
+      "word": "展覧会",
+      "reading": "てんらんかい",
+      "meaning": "exhibition"
+    },
+    {
+      "word": "見る",
+      "reading": "みる",
+      "meaning": "to see"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "定期雑誌類は閲覧室より帯出禁止。",
+      "reading": null,
+      "english": "Periodicals may not be removed from the reading room.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "定期雑誌類は閲覧室より帯出禁止。",
+      "reading": null,
+      "english": "Periodicals may not be removed from the reading room.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ジュネーブ大学の図書館には、いい閲覧室がある。",
+      "reading": null,
+      "english": "The Geneva University Library has a good reading room.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "お前の好きなインターネット閲覧ソフトはなんだ。",
+      "reading": null,
+      "english": "What's your favorite web browser?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "お前の好きなインターネット閲覧ソフトはなんだ。",
+      "reading": null,
+      "english": "What's your favorite web browser?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ジュネーブ大学の図書館には、いい閲覧室がある。",
+      "reading": null,
+      "english": "The Geneva University Library has a good reading room.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "インターネットの閲覧にYahooを使っている。",
+      "reading": null,
+      "english": "I use \"Yahoo\" to browse the internet.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "インターネットの閲覧にYahooを使っている。",
+      "reading": null,
+      "english": "I use \"Yahoo\" to browse the internet.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

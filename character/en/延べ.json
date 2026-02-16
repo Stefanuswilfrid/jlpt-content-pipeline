@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "延べ",
+    "reading": "のべ",
+    "romaji": "nobe",
+    "jlpt": "N1",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "futures"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "credit (buying)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stretching"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "total (preceding counter, unit, etc.)",
+          "aggregate",
+          "gross"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "延長",
+      "reading": "えんちょう",
+      "meaning": "extension"
+    },
+    {
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "postponement"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "悪は延べよ",
+      "reading": "あくはのべよ",
+      "meaning": "don't hasten into action when you have doubts",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "金の延べ棒１本を盗まれた。",
+      "reading": null,
+      "english": "We had a bar of gold stolen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わが戦闘機の延べ出撃機数は平均１日４３０機であった。",
+      "reading": null,
+      "english": "Our fighters averaged 430 missions a day.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その支払いは２年間繰り延べられる。",
+      "reading": null,
+      "english": "The payment will be deferred for two years.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "契約では３年の延べ払いということになっている。",
+      "reading": null,
+      "english": "The contract provides for a deferred payment over three years.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "金の延べ棒１本を盗まれた。",
+      "reading": null,
+      "english": "We had a bar of gold stolen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わが戦闘機の延べ出撃機数は平均１日４３０機であった。",
+      "reading": null,
+      "english": "Our fighters averaged 430 missions a day.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その支払いは２年間繰り延べられる。",
+      "reading": null,
+      "english": "The payment will be deferred for two years.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "契約では３年の延べ払いということになっている。",
+      "reading": null,
+      "english": "The contract provides for a deferred payment over three years.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

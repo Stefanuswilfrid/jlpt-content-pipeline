@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "釣鐘",
+    "reading": "つりがね",
+    "romaji": "tsurigane",
+    "jlpt": "N1",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "temple bell",
+          "hanging bell",
+          "funeral bell"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "鐘",
+      "reading": "かね",
+      "meaning": "bell (often a large hanging bell)"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "clock"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "提灯に釣鐘",
+      "reading": "ちょうちんにつりがね",
+      "meaning": "two ill-matched things",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

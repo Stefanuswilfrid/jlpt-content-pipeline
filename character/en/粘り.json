@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "粘り",
+    "reading": "ねばり",
+    "romaji": "nebari",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stickiness",
+          "viscosity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tenacity",
+          "persistence"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "粘る",
+      "reading": "ねばる",
+      "meaning": "to be sticky"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうぞ、皆様も最後の一瞬まで粘り抜いてください。",
+      "reading": null,
+      "english": "Will everyone please stick with it to the last moment.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は粘り強い精神の持ち主だ。",
+      "reading": null,
+      "english": "He has a spirit of tenacity.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "最後まで粘り抜いてね。",
+      "reading": null,
+      "english": "Stick it out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "最後まで粘り抜いてね。",
+      "reading": null,
+      "english": "Stick it out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は粘り強い精神の持ち主だ。",
+      "reading": null,
+      "english": "He has a spirit of tenacity.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どうぞ、皆様も最後の一瞬まで粘り抜いてください。",
+      "reading": null,
+      "english": "Will everyone please stick with it to the last moment.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

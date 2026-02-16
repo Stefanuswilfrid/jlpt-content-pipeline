@@ -1,0 +1,190 @@
+{
+  "definition": {
+    "word": "他方",
+    "reading": "たほう",
+    "romaji": "tahou",
+    "jlpt": "N1",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "sisi lain",
+          "di sisi lain"
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "on the other hand"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方策",
+      "reading": "ほうさく",
+      "meaning": "rencana, kebijakan"
+    },
+    {
+      "word": "目方",
+      "reading": "めかた",
+      "meaning": "berat"
+    },
+    {
+      "word": "大方",
+      "reading": "おおかた",
+      "meaning": "hampir semua, mayoritas"
+    },
+    {
+      "word": "方式",
+      "reading": "ほうしき",
+      "meaning": "bentuk, metode, sistem"
+    },
+    {
+      "word": "遠方",
+      "reading": "えんぽう",
+      "meaning": "jauh, tempat yang terpencil"
+    },
+    {
+      "word": "平方",
+      "reading": "へいほう",
+      "meaning": "persegi (misalnya, meter persegi)"
+    },
+    {
+      "word": "立方",
+      "reading": "たちかた",
+      "meaning": "kubus"
+    },
+    {
+      "word": "他人",
+      "reading": "たにん",
+      "meaning": "orang yang tidak ada hubungan, orang asing"
+    },
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "arah; area"
+    },
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "sore menjelang malam (biasanya tepat sebelum waktu makan malam), malam hari"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaning": "kedua belah pihak, kedua partai"
+    },
+    {
+      "word": "方々",
+      "reading": "かたがた",
+      "meaning": "di sana sini, di mana-mana"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一方は知っているが他方は知らない。",
+      "reading": null,
+      "indonesian": "I know one of them but not the other.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一方の本は薄い、他方は厚い、厚いのは約２００ページある。",
+      "reading": null,
+      "indonesian": "One book is thin. The other is thick. The thick one has about 200 pages.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一方に当てはまることは他方にも当てはまる。",
+      "reading": null,
+      "indonesian": "What's sauce for the goose is sauce for the gander.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一方で彼は私の報告書を賞賛したが、他方ではそれを批判した。",
+      "reading": null,
+      "indonesian": "On one hand he praised my report, but on the other hand he criticized it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一方では彼は親切だが、他方では怠け者だ。",
+      "reading": null,
+      "indonesian": "On one hand he is kind, but on the other hand he is lazy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "他方でその経験から学んだものも大きかった。",
+      "reading": null,
+      "indonesian": "On the other hand we learned a great deal from the experience.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どちらかが他方よりいい、というのではない。",
+      "reading": null,
+      "indonesian": "One way is not better than the other.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その双子の一方を他方と見分けることができますか。",
+      "reading": null,
+      "indonesian": "Can you tell one of the twins from the other?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その仕事はあまりおもしろくなかったが、他方で報酬が良かった。",
+      "reading": null,
+      "indonesian": "That job was not very interesting, but on the other hand it was well paid.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "片方の本は薄く、他方は厚い。",
+      "reading": null,
+      "indonesian": "One book is thin, and the other is thick.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は有能な人だが、他方では、私たちに要求が多すぎる。",
+      "reading": null,
+      "indonesian": "He is able man, but on the other hand he asks too much of us.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は頭はよいが、他方ではしばしば軽率な間違いをする。",
+      "reading": null,
+      "indonesian": "He is clever, but on the other hand he often makes careless mistakes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

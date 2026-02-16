@@ -1,0 +1,237 @@
+{
+  "definition": {
+    "word": "収集",
+    "reading": "しゅうしゅう",
+    "romaji": "shuushuu",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengumpulkan",
+          "koleksi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "collection (of art, stamps, insects, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "garbage collection",
+          "waste collection"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "収支",
+      "reading": "しゅうし",
+      "meaning": "pendapatan dan pengeluaran"
+    },
+    {
+      "word": "回収",
+      "reading": "かいしゅう",
+      "meaning": "pengumpulan, pemulihan"
+    },
+    {
+      "word": "収益",
+      "reading": "しゅうえき",
+      "meaning": "pendapatan, hasil, pengembalian"
+    },
+    {
+      "word": "特集",
+      "reading": "とくしゅう",
+      "meaning": "fitur (misalnya, surat kabar, edisi khusus, laporan)"
+    },
+    {
+      "word": "集計",
+      "reading": "しゅうけい",
+      "meaning": "totalisasi, agregat"
+    },
+    {
+      "word": "収容",
+      "reading": "しゅうよう",
+      "meaning": "akomodasi; tempat duduk; hak asuh"
+    },
+    {
+      "word": "群集",
+      "reading": "ぐんしゅう",
+      "meaning": "kelompok (sosial), kerumunan, massa"
+    },
+    {
+      "word": "徴収",
+      "reading": "ちょうしゅう",
+      "meaning": "pengumpulan, pungutan"
+    },
+    {
+      "word": "密集",
+      "reading": "みっしゅう",
+      "meaning": "keramaian, formasi rapat, padat"
+    },
+    {
+      "word": "没収",
+      "reading": "ぼっしゅう",
+      "meaning": "dibatalkan"
+    },
+    {
+      "word": "収入",
+      "reading": "しゅうにゅう",
+      "meaning": "pendapatan, pemasukan"
+    },
+    {
+      "word": "集会",
+      "reading": "しゅうかい",
+      "meaning": "pertemuan, majelis"
+    },
+    {
+      "word": "集団",
+      "reading": "しゅうだん",
+      "meaning": "kelompok, massa"
+    },
+    {
+      "word": "編集",
+      "reading": "へんしゅう",
+      "meaning": "penyuntingan, kompilasi, editorial (misalnya, komite)"
+    },
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "konsentrasi, memfokuskan pikiran"
+    },
+    {
+      "word": "募集",
+      "reading": "ぼしゅう",
+      "meaning": "perekrutan"
+    },
+    {
+      "word": "収穫",
+      "reading": "しゅうかく",
+      "meaning": "panen, tanaman, pengumpulan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "以下で議論されるデータは次の方法で収集された。",
+      "reading": null,
+      "indonesian": "The data to be discussed below was collected in the following way.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "洋子は、切手の収集に興味がある。",
+      "reading": null,
+      "indonesian": "Yoko is interested in collecting stamps.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "まだ切手の収集をやっているの？",
+      "reading": null,
+      "indonesian": "Are you still collecting stamps?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "できましたら、あなたの切手の収集を見てみたいものです。",
+      "reading": null,
+      "indonesian": "I'd like to have a look at your stamp collection.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "できたら、あなたの切手の収集を見たいものだ。",
+      "reading": null,
+      "indonesian": "I'd like to have a look at your stamp collection.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "データ収集のため、次の雑誌を調査した。",
+      "reading": null,
+      "indonesian": "We examined the following magazines to collect the data.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "データを収集するため、次の実験を行った。",
+      "reading": null,
+      "indonesian": "They conducted the following experiment to collect the data.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その収集品は一般に公開されている。",
+      "reading": null,
+      "indonesian": "The collection is open to the public.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "サンプルは世界２００の医療機関から収集された。",
+      "reading": null,
+      "indonesian": "The samples were collected from two hundred medical institutions all over the world.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ゴミ収集は週に３回やっています。",
+      "reading": null,
+      "indonesian": "The garbage collector comes three times a week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "腕時計の収集が趣味だ。",
+      "reading": null,
+      "indonesian": "The collection of wristwatches is a hobby.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "腕時計の収集が趣味だ。",
+      "reading": null,
+      "indonesian": "My hobby is collecting watches.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "旅は情報収集が重要。",
+      "reading": null,
+      "indonesian": "Gathering information is one of the essentials of travel.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

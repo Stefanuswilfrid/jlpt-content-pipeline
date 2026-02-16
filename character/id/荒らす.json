@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "荒らす",
+    "reading": "あらす",
+    "romaji": "arasu",
+    "jlpt": "N1",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "merusak; menyerang"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to invade",
+          "to break into"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to troll (e.g. web forums)",
+          "to spam"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "荒っぽい",
+      "reading": "あらっぽい",
+      "meaning": "kasar, tidak sopan"
+    },
+    {
+      "word": "荒廃",
+      "reading": "こうはい",
+      "meaning": "menghancurkan"
+    },
+    {
+      "word": "荒れる",
+      "reading": "あれる",
+      "meaning": "menjadi badai, menjadi ganas, menjadi hancur"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "掲示板を荒らす人の精神状態がわかりません。",
+      "reading": null,
+      "indonesian": "I just don't understand what goes through the minds of people who troll forums.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "掲示板を荒らす人の精神状態がわかりません。",
+      "reading": null,
+      "indonesian": "I just don't understand what goes through the minds of people who troll forums.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

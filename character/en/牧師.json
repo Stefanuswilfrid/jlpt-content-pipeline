@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "牧師",
+    "reading": "ぼくし",
+    "romaji": "bokushi",
+    "jlpt": "N1",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "pastor",
+          "minister",
+          "clergyman",
+          "reverend"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "遊牧",
+      "reading": "ゆうぼく",
+      "meaning": "nomadism"
+    },
+    {
+      "word": "技師",
+      "reading": "ぎし",
+      "meaning": "engineer"
+    },
+    {
+      "word": "牧場",
+      "reading": "ぼくじょう",
+      "meaning": "farm (livestock)"
+    },
+    {
+      "word": "漁師",
+      "reading": "りょうし",
+      "meaning": "fisherman"
+    },
+    {
+      "word": "医師",
+      "reading": "いし",
+      "meaning": "doctor"
+    },
+    {
+      "word": "講師",
+      "reading": "こうし",
+      "meaning": "speaker"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "教区牧師は法話の時しばしば聖書に言及する。",
+      "reading": null,
+      "english": "The vicar often refers to the Bible in his sermon.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その牧師は貧乏人のために懸命に働いた。",
+      "reading": null,
+      "english": "The minister worked hard on behalf of the poor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その牧師は今週３組の結婚式を行った。",
+      "reading": null,
+      "english": "The clergyman has married three couples this week.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その少女は、目を閉じて牧師の話を聞いた。",
+      "reading": null,
+      "english": "The girl, closing her eyes, listened to the pastor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "すべての牧師が新しい法律に反対である。",
+      "reading": null,
+      "english": "All the clergy are against the new law.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ジャックとペギーの結婚式はジョン・スミス牧師により行われた。",
+      "reading": null,
+      "english": "Jack and Peggy were married by the Rev. John Smith.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "キング牧師は首を撃たれ、後方に倒れた。",
+      "reading": null,
+      "english": "Rev. King fell backwards, shot in the neck.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "キング牧師と彼の支持者は脅迫された。",
+      "reading": null,
+      "english": "Rev. King and his supporters were threatened.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "４０代になるまでは牧師になるべきではない。",
+      "reading": null,
+      "english": "A man shouldn't be a pastor until he's in his forties.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "書き取る",
+    "reading": "かきとる",
+    "romaji": "kakitoru",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to write down (what someone says)",
+          "to take down dictation",
+          "to take notes (e.g. of a lecture)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to copy out (a text)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "取り巻く",
+      "reading": "とりまく",
+      "meaning": "to surround"
+    },
+    {
+      "word": "取り除く",
+      "reading": "とりのぞく",
+      "meaning": "to remove"
+    },
+    {
+      "word": "取引",
+      "reading": "とりひき",
+      "meaning": "transactions"
+    },
+    {
+      "word": "取材",
+      "reading": "しゅざい",
+      "meaning": "gathering material (for an article, novel, etc.)"
+    },
+    {
+      "word": "乗っ取る",
+      "reading": "のっとる",
+      "meaning": "to take possession of (forcibly)"
+    },
+    {
+      "word": "取り扱う",
+      "reading": "とりあつかう",
+      "meaning": "to handle"
+    },
+    {
+      "word": "取り寄せる",
+      "reading": "とりよせる",
+      "meaning": "to order"
+    },
+    {
+      "word": "取り調べる",
+      "reading": "とりしらべる",
+      "meaning": "to investigate"
+    },
+    {
+      "word": "取り締まる",
+      "reading": "とりしまる",
+      "meaning": "to manage"
+    },
+    {
+      "word": "取り戻す",
+      "reading": "とりもどす",
+      "meaning": "to take back"
+    },
+    {
+      "word": "取り次ぐ",
+      "reading": "とりつぐ",
+      "meaning": "to pass on (a message, thoughts, etc.)"
+    },
+    {
+      "word": "下取り",
+      "reading": "したどり",
+      "meaning": "trade-in"
+    },
+    {
+      "word": "取り立てる",
+      "reading": "とりたてる",
+      "meaning": "to collect (debts)"
+    },
+    {
+      "word": "取る",
+      "reading": "とる",
+      "meaning": "to take"
+    },
+    {
+      "word": "書く",
+      "reading": "かく",
+      "meaning": "to write"
+    },
+    {
+      "word": "清書",
+      "reading": "せいしょ",
+      "meaning": "fair copy"
+    },
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaning": "to take in"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それを書き取るだけでよい。",
+      "reading": null,
+      "english": "All you have to do is write it down.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それを書き取るだけでよい。",
+      "reading": null,
+      "english": "All you have to do is write it down.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

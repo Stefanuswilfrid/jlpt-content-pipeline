@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "桟橋",
+    "reading": "さんばし",
+    "romaji": "sanbashi",
+    "jlpt": "N1",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wharf",
+          "bridge",
+          "jetty",
+          "pier"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "橋渡し",
+      "reading": "はしわたし",
+      "meaning": "mediation"
+    },
+    {
+      "word": "鉄橋",
+      "reading": "てっきょう",
+      "meaning": "railway bridge"
+    },
+    {
+      "word": "橋",
+      "reading": "はし",
+      "meaning": "bridge"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "コンクリート桟橋なのですが、途中何カ所か崩壊しています。",
+      "reading": null,
+      "english": "It's a concrete bridge, but several places along its length have collapsed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "コンクリート桟橋なのですが、途中何カ所か崩壊しています。",
+      "reading": null,
+      "english": "It's a concrete bridge, but several places along its length have collapsed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "昔ここには桟橋があったんだ。",
+      "reading": null,
+      "english": "There used to be a pier here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "昔ここには桟橋があったんだ。",
+      "reading": null,
+      "english": "There used to be a pier here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

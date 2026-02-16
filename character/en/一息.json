@@ -1,0 +1,276 @@
+{
+  "definition": {
+    "word": "一息",
+    "reading": "ひといき",
+    "romaji": "hitoiki",
+    "jlpt": "N1",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one breath"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "time of one breath"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pause",
+          "break",
+          "rest",
+          "breather"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(doing in) one go",
+          "doing without stopping"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "small amount of effort",
+          "a little more effort"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一同",
+      "reading": "いちどう",
+      "meaning": "all present"
+    },
+    {
+      "word": "一部分",
+      "reading": "いちぶぶん",
+      "meaning": "one part"
+    },
+    {
+      "word": "一気",
+      "reading": "いっき",
+      "meaning": "one breath"
+    },
+    {
+      "word": "一連",
+      "reading": "いちれん",
+      "meaning": "series"
+    },
+    {
+      "word": "一切",
+      "reading": "いっさい",
+      "meaning": "all"
+    },
+    {
+      "word": "一面",
+      "reading": "いちめん",
+      "meaning": "one face"
+    },
+    {
+      "word": "一律",
+      "reading": "いちりつ",
+      "meaning": "uniform"
+    },
+    {
+      "word": "一括",
+      "reading": "いっかつ",
+      "meaning": "lumping together"
+    },
+    {
+      "word": "一変",
+      "reading": "いっぺん",
+      "meaning": "complete change"
+    },
+    {
+      "word": "単一",
+      "reading": "たんいつ",
+      "meaning": "single"
+    },
+    {
+      "word": "利息",
+      "reading": "りそく",
+      "meaning": "interest (on a loan, deposit etc.)"
+    },
+    {
+      "word": "消息",
+      "reading": "しょうそく",
+      "meaning": "news (from someone)"
+    },
+    {
+      "word": "一筋",
+      "reading": "ひとすじ",
+      "meaning": "one line"
+    },
+    {
+      "word": "一様",
+      "reading": "いちよう",
+      "meaning": "uniform"
+    },
+    {
+      "word": "窒息",
+      "reading": "ちっそく",
+      "meaning": "suffocation"
+    },
+    {
+      "word": "一見",
+      "reading": "いっけん",
+      "meaning": "look"
+    },
+    {
+      "word": "一心",
+      "reading": "いっしん",
+      "meaning": "one mind"
+    },
+    {
+      "word": "一目",
+      "reading": "ひとめ",
+      "meaning": "glance"
+    },
+    {
+      "word": "子息",
+      "reading": "しそく",
+      "meaning": "(another's) son"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一息いれようよ。",
+      "reading": null,
+      "english": "Let's take a break.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "グレタ君がビールを一息に飲み干した。",
+      "reading": null,
+      "english": "Greta chugged the beer in one gulp.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう一息努力すれば成功するだろう。",
+      "reading": null,
+      "english": "Make one more effort, and you will succeed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう一息というところです。",
+      "reading": null,
+      "english": "It's getting there.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あと一息だ。",
+      "reading": null,
+      "english": "We're almost there.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "彼女は新鮮な空気を一息吸いに表へ出た。",
+      "reading": null,
+      "english": "She went outside to get a breath of fresh air.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "座って、一息いれましょう。",
+      "reading": null,
+      "english": "Let's sit down and catch our breath.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "講師は一息入れてから、また話し続けた。",
+      "reading": null,
+      "english": "The speaker paused and then went on talking again.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一息いれようよ。",
+      "reading": null,
+      "english": "Let's take a break.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一息いれようよ。",
+      "reading": null,
+      "english": "Let's take a short break.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もう一息努力すれば成功するだろう。",
+      "reading": null,
+      "english": "Make one more effort, and you will succeed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう一息というところです。",
+      "reading": null,
+      "english": "It's getting there.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あと一息だ。",
+      "reading": null,
+      "english": "We're almost there.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あと一息だ。",
+      "reading": null,
+      "english": "We are almost there.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "講師は一息入れてから、また話し続けた。",
+      "reading": null,
+      "english": "The speaker paused and then went on talking again.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

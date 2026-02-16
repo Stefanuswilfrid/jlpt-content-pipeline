@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "専ら",
+    "reading": "もっぱら",
+    "romaji": "moppara",
+    "jlpt": "N1",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "seluruhnya",
+          "sepenuhnya",
+          "seluruhnya"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "principally",
+          "mostly",
+          "chiefly",
+          "mainly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "専用",
+      "reading": "せんよう",
+      "meaning": "penggunaan eksklusif, penggunaan pribadi"
+    },
+    {
+      "word": "専制",
+      "reading": "せんせい",
+      "meaning": "despotisme, otokrasi"
+    },
+    {
+      "word": "専攻",
+      "reading": "せんこう",
+      "meaning": "mata kuliah utama, studi khusus"
+    },
+    {
+      "word": "専修",
+      "reading": "せんしゅう",
+      "meaning": "spesialisasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "政治に対する私の関心は専ら学問上のものです。",
+      "reading": null,
+      "indonesian": "My interest in politics is strictly academic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "政治に対する私の関心は専ら学問上のものです。",
+      "reading": null,
+      "indonesian": "My interest in politics is strictly academic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

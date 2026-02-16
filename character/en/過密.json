@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "過密",
+    "reading": "かみつ",
+    "romaji": "kamitsu",
+    "jlpt": "N1",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "overcrowding",
+          "congestion",
+          "overpopulation"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "crammed (schedule)",
+          "congested",
+          "busy",
+          "tight"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "密か",
+      "reading": "ひそか",
+      "meaning": "secret"
+    },
+    {
+      "word": "精密",
+      "reading": "せいみつ",
+      "meaning": "precise"
+    },
+    {
+      "word": "厳密",
+      "reading": "げんみつ",
+      "meaning": "strict"
+    },
+    {
+      "word": "密度",
+      "reading": "みつど",
+      "meaning": "density"
+    },
+    {
+      "word": "過ち",
+      "reading": "あやまち",
+      "meaning": "fault"
+    },
+    {
+      "word": "密集",
+      "reading": "みっしゅう",
+      "meaning": "crowding together"
+    },
+    {
+      "word": "経過",
+      "reading": "けいか",
+      "meaning": "passage (of time)"
+    },
+    {
+      "word": "密接",
+      "reading": "みっせつ",
+      "meaning": "close (relationship, connection, etc.)"
+    },
+    {
+      "word": "過疎",
+      "reading": "かそ",
+      "meaning": "underpopulation"
+    },
+    {
+      "word": "過労",
+      "reading": "かろう",
+      "meaning": "overwork"
+    },
+    {
+      "word": "超過",
+      "reading": "ちょうか",
+      "meaning": "excess"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼は過密スケジュールを都合して、私の舞台を見に来てくれた。",
+      "reading": null,
+      "english": "He organized his overcrowded schedule and managed to come to see my performance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は過密スケジュールを都合して、私の舞台を見に来てくれた。",
+      "reading": null,
+      "english": "He organized his overcrowded schedule and managed to come to see my performance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "崩壊",
+    "reading": "ほうかい",
+    "romaji": "houkai",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "runtuh",
+          "peluruhan (fisika)",
+          "hancur"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "(radioactive) decay",
+          "disintegration"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "破壊",
+      "reading": "はかい",
+      "meaning": "pengrusakan"
+    },
+    {
+      "word": "雪崩",
+      "reading": "なだれ",
+      "meaning": "salju longsor"
+    },
+    {
+      "word": "崩れる",
+      "reading": "くずれる",
+      "meaning": "runtuh, hancur"
+    },
+    {
+      "word": "壊れる",
+      "reading": "こわれる",
+      "meaning": "untuk dihancurkan, untuk memecahkan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "橋は強い流れに耐えられず崩壊した。",
+      "reading": null,
+      "indonesian": "The bridge couldn't sustain the force of the strong current and collapsed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ベルリンの壁が崩壊したのは１９８９年のことだった。",
+      "reading": null,
+      "indonesian": "It was in 1989 that the Berlin Wall was taken down.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ニュースはソ連崩壊のものばかりだった。",
+      "reading": null,
+      "indonesian": "The news was all about the collapse of the Soviet Union.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "チューダー朝は１６０３年に崩壊した。",
+      "reading": null,
+      "indonesian": "The Tudor Dynasty fell in the year 1603.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その塔は崩壊した。",
+      "reading": null,
+      "indonesian": "The tower fell into ruin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その建物は三年前に崩壊した。",
+      "reading": null,
+      "indonesian": "The building crumbled to pieces three years ago.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この事件は運動を崩壊させた。",
+      "reading": null,
+      "indonesian": "This incident led the movement to collapse.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "冷戦はソビエトの崩壊と共に終わった。",
+      "reading": null,
+      "indonesian": "The Cold War ended when the Soviet Union collapsed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "冷戦はソビエトの崩壊と共に終わった。",
+      "reading": null,
+      "indonesian": "The Cold War ended with the fall of the USSR.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

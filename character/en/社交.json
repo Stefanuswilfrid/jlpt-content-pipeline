@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "社交",
+    "reading": "しゃこう",
+    "romaji": "shakou",
+    "jlpt": "N1",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "social life",
+          "social intercourse"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "交渉",
+      "reading": "こうしょう",
+      "meaning": "negotiations"
+    },
+    {
+      "word": "国交",
+      "reading": "こっこう",
+      "meaning": "diplomatic relations"
+    },
+    {
+      "word": "交付",
+      "reading": "こうふ",
+      "meaning": "delivery"
+    },
+    {
+      "word": "交互",
+      "reading": "こうご",
+      "meaning": "alternate"
+    },
+    {
+      "word": "社宅",
+      "reading": "しゃたく",
+      "meaning": "company housing"
+    },
+    {
+      "word": "出社",
+      "reading": "しゅっしゃ",
+      "meaning": "going to work (e.g. in the morning)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "社交辞令",
+      "reading": "しゃこうじれい",
+      "meaning": "something said for politeness' sake",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "私は非社交的かもしれないけれど人と話さないわけではない。",
+      "reading": null,
+      "english": "I may be antisocial, but it doesn't mean I don't talk to people.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の言っていることはただの社交辞令だよ。",
+      "reading": null,
+      "english": "You're just being diplomatic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーは社交的な気質を持っている。",
+      "reading": null,
+      "english": "Mary has a social nature.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーはとても社交的な人です。",
+      "reading": null,
+      "english": "Mary is a very sociable person.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "六月はロンドンでは社交の季節だ。",
+      "reading": null,
+      "english": "June is a social season in London.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は町の社交的型にあわせようとしない。",
+      "reading": null,
+      "english": "She won't conform to the town's social patterns.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は社交的な性格だ。",
+      "reading": null,
+      "english": "He has a sociable disposition.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼はとても社交的だ。",
+      "reading": null,
+      "english": "He is very sociable.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自分の社交クラブを偶然訪れたとき彼は昔の友達に偶然に会った。",
+      "reading": null,
+      "english": "He came upon an old friend when he visited his club.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "子供ではあるけれど、彼女はとても社交的です。",
+      "reading": null,
+      "english": "Child as she is, she is sociable.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

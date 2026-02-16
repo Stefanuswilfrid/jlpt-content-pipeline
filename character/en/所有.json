@@ -1,0 +1,198 @@
+{
+  "definition": {
+    "word": "所有",
+    "reading": "しょゆう",
+    "romaji": "shoyuu",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "possession",
+          "ownership"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "所得",
+      "reading": "しょとく",
+      "meaning": "income"
+    },
+    {
+      "word": "有力",
+      "reading": "ゆうりょく",
+      "meaning": "influential"
+    },
+    {
+      "word": "所属",
+      "reading": "しょぞく",
+      "meaning": "belonging to (a group, organization, etc.)"
+    },
+    {
+      "word": "所在",
+      "reading": "しょざい",
+      "meaning": "location (of)"
+    },
+    {
+      "word": "所持",
+      "reading": "しょじ",
+      "meaning": "possession"
+    },
+    {
+      "word": "内緒",
+      "reading": "ないしょ",
+      "meaning": "secrecy"
+    },
+    {
+      "word": "国有",
+      "reading": "こくゆう",
+      "meaning": "national ownership"
+    },
+    {
+      "word": "有望",
+      "reading": "ゆうぼう",
+      "meaning": "promising"
+    },
+    {
+      "word": "私有",
+      "reading": "しゆう",
+      "meaning": "private ownership"
+    },
+    {
+      "word": "有益",
+      "reading": "ゆうえき",
+      "meaning": "beneficial"
+    },
+    {
+      "word": "有する",
+      "reading": "ゆうする",
+      "meaning": "to have"
+    },
+    {
+      "word": "事務所",
+      "reading": "じむしょ",
+      "meaning": "office"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaning": "place"
+    },
+    {
+      "word": "有効",
+      "reading": "ゆうこう",
+      "meaning": "valid"
+    },
+    {
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "address (of a home, business, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "金持ちで自分自身の財産を所有している人は、わずかしかいない。",
+      "reading": null,
+      "english": "Few rich men own their own property.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "期待はしばしば実際の所有にまさる。",
+      "reading": null,
+      "english": "Prospect is often better than possession.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ペットを所有している人は、このアパートには住めません。",
+      "reading": null,
+      "english": "No one who owns a pet is allowed to live in this apartment building.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "フォード氏がこの土地を所有している。",
+      "reading": null,
+      "english": "Mr Ford owns this land.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その老人は巨万の富を所有している。",
+      "reading": null,
+      "english": "The old man possesses great wealth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その俳優は大きなヨットを所有している。",
+      "reading": null,
+      "english": "The actor has a large yacht.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その公爵はたくさんの土地を所有している。",
+      "reading": null,
+      "english": "The duke holds a lot of land.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その兄弟はそれぞれ車を所有している。",
+      "reading": null,
+      "english": "Each of the brothers has a car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その家は彼が所有している。",
+      "reading": null,
+      "english": "The house is owned by him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジョンはその絵の所有権を主張した。",
+      "reading": null,
+      "english": "John laid claim to the painting.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この本はあなたの所有物ですか？",
+      "reading": null,
+      "english": "Does this book belong to you?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この土地は池田氏の所有だ。",
+      "reading": null,
+      "english": "This land belongs to Mr Ikeda.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

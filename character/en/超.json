@@ -1,0 +1,154 @@
+{
+  "definition": {
+    "word": "超",
+    "reading": "ちょう",
+    "romaji": "chou",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "super-",
+          "ultra-",
+          "hyper-",
+          "extreme"
+        ]
+      },
+      {
+        "pos": [
+          "prefix",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "extremely",
+          "really",
+          "totally",
+          "absolutely"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "of course",
+          "definitely",
+          "absolutely",
+          "for sure",
+          "totally"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "over",
+          "more than",
+          "exceeding"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "超過",
+      "reading": "ちょうか",
+      "meaning": "excess"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "超腹減った。",
+      "reading": null,
+      "english": "I'm starving!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "弟は超重要人物だ。すくなくとも奴はそう思っている。",
+      "reading": null,
+      "english": "My brother is very important. At least he thinks he is.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あんたが叩いた腕のとこ、超痛いんだけど。",
+      "reading": null,
+      "english": "I have a very sore arm where you hit me.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今日は超寒い。",
+      "reading": null,
+      "english": "It's awfully cold today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "恐らく彼女は４０を超えているでしょう。",
+      "reading": null,
+      "english": "She is probably over forty.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "記事の長さは１０００語を超えてはならない。",
+      "reading": null,
+      "english": "The length of the article is not to exceed 1000 words.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "超疲れた！",
+      "reading": null,
+      "english": "I'm exhausted.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々の借金は我々の返済能力を超えている。",
+      "reading": null,
+      "english": "Our debt is more than we can pay.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ロシアはもう１つの超大国として台頭していた。",
+      "reading": null,
+      "english": "Russia had emerged as a second superpower.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ルールを知ってれば超簡単だよ。",
+      "reading": null,
+      "english": "It's so easy when you know the rules.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ヘリコプターが超低空飛行をしています。",
+      "reading": null,
+      "english": "The helicopter is flying very low.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

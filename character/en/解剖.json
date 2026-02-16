@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "解剖",
+    "reading": "かいぼう",
+    "romaji": "kaibou",
+    "jlpt": "N1",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "dissection",
+          "autopsy",
+          "postmortem examination"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "analysis",
+          "postmortem"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "正解",
+      "reading": "せいかい",
+      "meaning": "correct answer"
+    },
+    {
+      "word": "解除",
+      "reading": "かいじょ",
+      "meaning": "termination (of a contract)"
+    },
+    {
+      "word": "了解",
+      "reading": "りょうかい",
+      "meaning": "comprehension"
+    },
+    {
+      "word": "弁解",
+      "reading": "べんかい",
+      "meaning": "explanation (e.g. for one's actions)"
+    },
+    {
+      "word": "解く",
+      "reading": "とく",
+      "meaning": "to untie"
+    },
+    {
+      "word": "解く",
+      "reading": "ほどく",
+      "meaning": "to undo"
+    },
+    {
+      "word": "分解",
+      "reading": "ぶんかい",
+      "meaning": "disassembly"
+    },
+    {
+      "word": "解答",
+      "reading": "かいとう",
+      "meaning": "answer"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "settlement"
+    },
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "breaking up (a meeting, gathering, etc.)"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "opinion"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "understanding"
+    },
+    {
+      "word": "解放",
+      "reading": "かいほう",
+      "meaning": "release"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私たちは内臓器官を調べるためにカエルを解剖した。",
+      "reading": null,
+      "english": "We dissected a frog to examine its internal organs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "死体解剖の結果、絞殺と判明しました。",
+      "reading": null,
+      "english": "The postmortem showed that she had been strangled.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "死体解剖の結果、絞殺と判明しました。",
+      "reading": null,
+      "english": "The postmortem showed that she had been strangled.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは内臓器官を調べるためにカエルを解剖した。",
+      "reading": null,
+      "english": "We dissected a frog to examine its internal organs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

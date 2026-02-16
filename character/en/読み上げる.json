@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "読み上げる",
+    "reading": "よみあげる",
+    "romaji": "yomiageru",
+    "jlpt": "N1",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to read out",
+          "to read aloud",
+          "to call out"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to finish reading",
+          "to read through"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "上演",
+      "reading": "じょうえん",
+      "meaning": "performance (of a play, opera, etc.)"
+    },
+    {
+      "word": "朗読",
+      "reading": "ろうどく",
+      "meaning": "reading aloud"
+    },
+    {
+      "word": "引き上げる",
+      "reading": "ひきあげる",
+      "meaning": "to pull up"
+    },
+    {
+      "word": "購読",
+      "reading": "こうどく",
+      "meaning": "buying and reading (book, magazine, etc.)"
+    },
+    {
+      "word": "仕上げる",
+      "reading": "しあげる",
+      "meaning": "to finish up"
+    },
+    {
+      "word": "上回る",
+      "reading": "うわまわる",
+      "meaning": "to exceed (esp. figures: profits, unemployment rate, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私は彼らに向かってそれを読み上げる以外に仕方がなかった。",
+      "reading": null,
+      "english": "I had no choice but to read it out to them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私がこの本を読み上げるのに約１時間かかった。",
+      "reading": null,
+      "english": "It took me about an hour to read this book through.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私がこの本を読み上げるのに約１時間かかった。",
+      "reading": null,
+      "english": "It took me about an hour to read this book through.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は彼らに向かってそれを読み上げる以外に仕方がなかった。",
+      "reading": null,
+      "english": "I had no choice but to read it out to them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "definition": {
+    "word": "予感",
+    "reading": "よかん",
+    "romaji": "yokan",
+    "jlpt": "N1",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "firasat",
+          "pertanda"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have a premonition",
+          "to have a hunch"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "共感",
+      "reading": "きょうかん",
+      "meaning": "simpati, tanggapan"
+    },
+    {
+      "word": "感触",
+      "reading": "かんしょく",
+      "meaning": "indra peraba, perasaan, sensasi"
+    },
+    {
+      "word": "同感",
+      "reading": "どうかん",
+      "meaning": "kesepakatan, pendapat yang sama, perasaan yang sama"
+    },
+    {
+      "word": "反感",
+      "reading": "はんかん",
+      "meaning": "antipati, pemberontakan, permusuhan"
+    },
+    {
+      "word": "感染",
+      "reading": "かんせん",
+      "meaning": "infeksi, penularan"
+    },
+    {
+      "word": "痛感",
+      "reading": "つうかん",
+      "meaning": "merasakan dengan sangat dalam, menyadari sepenuhnya"
+    },
+    {
+      "word": "敏感",
+      "reading": "びんかん",
+      "meaning": "kepekaan, kerentanan, sensitif (terhadap)"
+    },
+    {
+      "word": "予言",
+      "reading": "よげん",
+      "meaning": "prediksi, janji, ramalan"
+    },
+    {
+      "word": "感度",
+      "reading": "かんど",
+      "meaning": "sensitivitas, tingkat keparahan (gempa)"
+    },
+    {
+      "word": "直感",
+      "reading": "ちょっかん",
+      "meaning": "intuisi, naluri"
+    },
+    {
+      "word": "鈍感",
+      "reading": "どんかん",
+      "meaning": "kekeraskepalaan, keteguhan hati"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "kekaguman"
+    },
+    {
+      "word": "感激",
+      "reading": "かんげき",
+      "meaning": "emosi mendalam, kesan, inspirasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "雨の降る予感がする。",
+      "reading": null,
+      "indonesian": "I have a hunch that it will rain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "吹き荒れる嵐の予感に、僕らはこぞって震えあがった。",
+      "reading": null,
+      "indonesian": "At this hint of the violent storm to come we shuddered as one.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らが仲良くやっていけない予感がする。",
+      "reading": null,
+      "indonesian": "I feel in my bones that they will never get along well together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の予感があたった。",
+      "reading": null,
+      "indonesian": "His predictions have come true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼の予感があたった。",
+      "reading": null,
+      "indonesian": "His predictions have come true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らが仲良くやっていけない予感がする。",
+      "reading": null,
+      "indonesian": "I feel in my bones that they will never get along well together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "吹き荒れる嵐の予感に、僕らはこぞって震えあがった。",
+      "reading": null,
+      "indonesian": "At this hint of the violent storm to come we shuddered as one.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "雨の降る予感がする。",
+      "reading": null,
+      "indonesian": "I have a hunch that it will rain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨の降る予感がする。",
+      "reading": null,
+      "indonesian": "I think that it might rain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨の降る予感がする。",
+      "reading": null,
+      "indonesian": "I think that it might rain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "嫌な予感が的中した。",
+      "reading": null,
+      "indonesian": "My premonition turned out to be right.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "嫌な予感が的中した。",
+      "reading": null,
+      "indonesian": "My premonition turned out to be right.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "嫌な予感がする。",
+      "reading": null,
+      "indonesian": "I have a bad feeling.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "平常",
+    "reading": "へいじょう",
+    "romaji": "heijou",
+    "jlpt": "N1",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "normal",
+          "usual",
+          "ordinary",
+          "everyday"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "正常",
+      "reading": "せいじょう",
+      "meaning": "normal"
+    },
+    {
+      "word": "通常",
+      "reading": "つうじょう",
+      "meaning": "usual"
+    },
+    {
+      "word": "平方",
+      "reading": "へいほう",
+      "meaning": "square (e.g. metre)"
+    },
+    {
+      "word": "公平",
+      "reading": "こうへい",
+      "meaning": "fairness"
+    },
+    {
+      "word": "水平",
+      "reading": "すいへい",
+      "meaning": "horizontal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "社屋や従業員に被害はなく、平常通り営業している。",
+      "reading": null,
+      "english": "There was no damage to the office, or workers, and we're in business as usual.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "平常通り営業いたします。",
+      "reading": null,
+      "english": "Business as usual.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "平常通り営業いたします。",
+      "reading": null,
+      "english": "Business as usual.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "社屋や従業員に被害はなく、平常通り営業している。",
+      "reading": null,
+      "english": "There was no damage to the office, or workers, and we're in business as usual.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

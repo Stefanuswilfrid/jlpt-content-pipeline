@@ -1,0 +1,189 @@
+{
+  "definition": {
+    "word": "追跡",
+    "reading": "ついせき",
+    "romaji": "tsuiseki",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "chase",
+          "pursuit",
+          "tracking",
+          "stalking"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "following up",
+          "tracing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "遺跡",
+      "reading": "いせき",
+      "meaning": "(archeological) remains"
+    },
+    {
+      "word": "追い込む",
+      "reading": "おいこむ",
+      "meaning": "to herd"
+    },
+    {
+      "word": "追及",
+      "reading": "ついきゅう",
+      "meaning": "investigation (e.g. into someone's guilt)"
+    },
+    {
+      "word": "追放",
+      "reading": "ついほう",
+      "meaning": "exile"
+    },
+    {
+      "word": "追い出す",
+      "reading": "おいだす",
+      "meaning": "to expel"
+    },
+    {
+      "word": "跡継ぎ",
+      "reading": "あとつぎ",
+      "meaning": "heir"
+    },
+    {
+      "word": "足跡",
+      "reading": "あしあと",
+      "meaning": "footprints"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "テレビ中継された大阪での追跡劇の末、彼は逮捕された。",
+      "reading": null,
+      "english": "He was arrested by police after a TV chase in Osaka.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ちょっと追跡して警官は彼を捕まえた。",
+      "reading": null,
+      "english": "After a short pursuit, the police caught him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その警官は泥棒を追跡した。",
+      "reading": null,
+      "english": "The policeman chased the thief.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "オートバイはものすごいスピードで追跡し始めた。",
+      "reading": null,
+      "english": "The motorcycle started in pursuit at breakneck speed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは泥棒を追跡している。",
+      "reading": null,
+      "english": "They are pursuing the robber.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼はその泥棒を追跡した。",
+      "reading": null,
+      "english": "He chased the thief.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "泥棒の追跡が始まった。",
+      "reading": null,
+      "english": "The thief's pursuit began.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "犬はきつねを追跡した。",
+      "reading": null,
+      "english": "The dog ran after a fox.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "警察は彼女をパリまで追跡した。",
+      "reading": null,
+      "english": "The police have traced her to Paris.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察は泥棒を追跡中である。",
+      "reading": null,
+      "english": "The police are on the track of the thief.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察は脱獄した犯人を追跡している。",
+      "reading": null,
+      "english": "The police are pursuing an escaped prisoner.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察は殺人犯人を追跡した。",
+      "reading": null,
+      "english": "The police pursued the murderer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警察は、逃亡者を追跡している。",
+      "reading": null,
+      "english": "The police are in pursuit of the runaway.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "刑事たちは彼を追跡した。",
+      "reading": null,
+      "english": "The detectives pursued him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

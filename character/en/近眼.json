@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "近眼",
+    "reading": "きんがん",
+    "romaji": "kingan",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "nearsightedness",
+          "shortsightedness",
+          "myopia"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "近郊",
+      "reading": "きんこう",
+      "meaning": "outskirts"
+    },
+    {
+      "word": "眼科",
+      "reading": "がんか",
+      "meaning": "ophthalmology"
+    },
+    {
+      "word": "身近",
+      "reading": "みぢか",
+      "meaning": "near oneself"
+    },
+    {
+      "word": "眼球",
+      "reading": "がんきゅう",
+      "meaning": "eyeball"
+    },
+    {
+      "word": "手近",
+      "reading": "てぢか",
+      "meaning": "near"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "neighbourhood"
+    },
+    {
+      "word": "接近",
+      "reading": "せっきん",
+      "meaning": "getting closer"
+    },
+    {
+      "word": "近く",
+      "reading": "ちかく",
+      "meaning": "near"
+    },
+    {
+      "word": "近頃",
+      "reading": "ちかごろ",
+      "meaning": "lately"
+    },
+    {
+      "word": "眼鏡",
+      "reading": "メガネ",
+      "meaning": "glasses"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "十人に一人は近眼である。",
+      "reading": null,
+      "english": "One out of ten persons is nearsighted.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "十人に一人は近眼である。",
+      "reading": null,
+      "english": "One out of ten persons is nearsighted.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "近眼なんですか？",
+      "reading": null,
+      "english": "Are you nearsighted?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "近眼なんですか？",
+      "reading": null,
+      "english": "Are you nearsighted?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

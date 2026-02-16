@@ -1,0 +1,225 @@
+{
+  "definition": {
+    "word": "闇",
+    "reading": "やみ",
+    "romaji": "yami",
+    "jlpt": "N1",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "kegelapan",
+          "teduh",
+          "ilegal"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bewilderment",
+          "despair",
+          "hopelessness"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hidden place",
+          "secrecy",
+          "oblivion"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "black market",
+          "shady trading",
+          "underhand transactions",
+          "illegal channels"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無闇に",
+      "reading": "むやみに",
+      "meaning": "secara tidak masuk akal, secara absurd, secara acak"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一寸先は闇",
+      "reading": "いっすんさきはやみ",
+      "meaning": "no one knows what the future holds",
+      "type": "proverb"
+    },
+    {
+      "word": "闇夜の烏",
+      "reading": "やみよのからす",
+      "meaning": "something indistinct",
+      "type": "idiom"
+    },
+    {
+      "word": "闇夜に烏",
+      "reading": "やみよにからす",
+      "meaning": "something indistinct",
+      "type": "idiom"
+    },
+    {
+      "word": "闇夜の鉄砲",
+      "reading": "やみよのてっぽう",
+      "meaning": "aimless attempt",
+      "type": "idiom"
+    },
+    {
+      "word": "闇夜の礫",
+      "reading": "やみよのつぶて",
+      "meaning": "aimless attempt",
+      "type": "idiom"
+    },
+    {
+      "word": "闇の女",
+      "reading": "やみのおんな",
+      "meaning": "street prostitute",
+      "type": "idiom"
+    },
+    {
+      "word": "恋は闇",
+      "reading": "こいはやみ",
+      "meaning": "love is blind",
+      "type": "proverb"
+    },
+    {
+      "word": "闇に鉄砲",
+      "reading": "やみにてっぽう",
+      "meaning": "doing something without having decided what one's goal for it is",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は暗闇の恐怖を克服しなければならない。",
+      "reading": null,
+      "indonesian": "You must conquer your fear of the dark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は暗闇に対する恐怖を克服しなければならない。",
+      "reading": null,
+      "indonesian": "You must conquer your fear of the dark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は暗闇の中で正しい道に行き当たった。",
+      "reading": null,
+      "indonesian": "We hit the right road in the dark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は暗闇の中では注意深く手探りで進まなければならない。",
+      "reading": null,
+      "indonesian": "We must feel our way carefully in the dark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々の目は暗闇に慣れるのに時間がかかる。",
+      "reading": null,
+      "indonesian": "Our eyes take time to adjust to the darkness.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一寸先は闇。",
+      "reading": null,
+      "indonesian": "Who can read the future?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "闇夜だった。",
+      "reading": null,
+      "indonesian": "It was a dark night.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "闇はこれに打ち勝たなかった。",
+      "reading": null,
+      "indonesian": "The darkness has not overcome it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "闇の中でかろうじて２人の人影が見分けられた。",
+      "reading": null,
+      "indonesian": "We could barely make out two figures in the dark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "闇とは光がないことです。",
+      "reading": null,
+      "indonesian": "Darkness is the absence of light.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "暗闇の中に人影が見えた。",
+      "reading": null,
+      "indonesian": "A form appeared in the darkness.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "暗闇の中にほのかな光が見えた。",
+      "reading": null,
+      "indonesian": "We saw a dim light in the darkness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "暗闇の中で小さな物が動いた。",
+      "reading": null,
+      "indonesian": "A tiny object moved in the dark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "暗闇の中で彼が写真を撮るのは不可能だった。",
+      "reading": null,
+      "indonesian": "It was impossible for him to take the picture in the dark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

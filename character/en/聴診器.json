@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "聴診器",
+    "reading": "ちょうしんき",
+    "romaji": "choushinki",
+    "jlpt": "N1",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stethoscope"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "兵器",
+      "reading": "へいき",
+      "meaning": "arms"
+    },
+    {
+      "word": "診療",
+      "reading": "しんりょう",
+      "meaning": "diagnosis and treatment"
+    },
+    {
+      "word": "器",
+      "reading": "うつわ",
+      "meaning": "bowl"
+    },
+    {
+      "word": "陶器",
+      "reading": "とうき",
+      "meaning": "pottery"
+    },
+    {
+      "word": "聴覚",
+      "reading": "ちょうかく",
+      "meaning": "(sense of) hearing"
+    },
+    {
+      "word": "聴講",
+      "reading": "ちょうこう",
+      "meaning": "lecture attendance"
+    },
+    {
+      "word": "往診",
+      "reading": "おうしん",
+      "meaning": "doctor's visit"
+    },
+    {
+      "word": "聞き取り",
+      "reading": "ききとり",
+      "meaning": "listening comprehension"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "医者は患者の胸に聴診器を当てた。",
+      "reading": null,
+      "english": "The doctor placed a stethoscope on the patient's chest.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医者は患者の胸に聴診器を当てた。",
+      "reading": null,
+      "english": "The doctor placed a stethoscope on the patient's chest.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

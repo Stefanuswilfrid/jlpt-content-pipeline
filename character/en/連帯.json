@@ -1,0 +1,187 @@
+{
+  "definition": {
+    "word": "連帯",
+    "reading": "れんたい",
+    "romaji": "rentai",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "solidarity"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "joint",
+          "collective"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "連盟",
+      "reading": "れんめい",
+      "meaning": "league"
+    },
+    {
+      "word": "一連",
+      "reading": "いちれん",
+      "meaning": "series"
+    },
+    {
+      "word": "連日",
+      "reading": "れんじつ",
+      "meaning": "day after day"
+    },
+    {
+      "word": "世帯",
+      "reading": "せたい",
+      "meaning": "household"
+    },
+    {
+      "word": "連休",
+      "reading": "れんきゅう",
+      "meaning": "consecutive holidays"
+    },
+    {
+      "word": "連中",
+      "reading": "れんちゅう",
+      "meaning": "company"
+    },
+    {
+      "word": "国連",
+      "reading": "こくれん",
+      "meaning": "United Nations"
+    },
+    {
+      "word": "連邦",
+      "reading": "れんぽう",
+      "meaning": "federation (of states)"
+    },
+    {
+      "word": "連なる",
+      "reading": "つらなる",
+      "meaning": "to extend"
+    },
+    {
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "contacting"
+    },
+    {
+      "word": "地帯",
+      "reading": "ちたい",
+      "meaning": "zone"
+    },
+    {
+      "word": "携帯",
+      "reading": "けいたい",
+      "meaning": "carrying (on one's person or in the hand)"
+    },
+    {
+      "word": "熱帯",
+      "reading": "ねったい",
+      "meaning": "tropics"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "連帯責任",
+      "reading": "れんたいせきにん",
+      "meaning": "collective responsibility",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "荷物が遅れた場合、特別な連帯保険がある。",
+      "reading": null,
+      "english": "In case the shipment is delayed, we have special delay insurance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "連帯責任は無責任。",
+      "reading": null,
+      "english": "Everybody's business is nobody's business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "連帯責任は無責任。",
+      "reading": null,
+      "english": "Collective responsibility means irresponsibility.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはこの計画に連帯してあたった。",
+      "reading": null,
+      "english": "They worked jointly on this project.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "証書貸付は連帯保証人が必要でした。",
+      "reading": null,
+      "english": "Loan on deeds needed the joint surety.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "荷物が遅れた場合、特別な連帯保険がある。",
+      "reading": null,
+      "english": "In case the shipment is delayed, we have special delay insurance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "証書貸付は連帯保証人が必要でした。",
+      "reading": null,
+      "english": "Loan on deeds needed the joint surety.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはこの計画に連帯してあたった。",
+      "reading": null,
+      "english": "They worked jointly on this project.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "連帯責任は無責任。",
+      "reading": null,
+      "english": "Everybody's business is nobody's business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "連帯責任は無責任。",
+      "reading": null,
+      "english": "Collective responsibility means irresponsibility.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

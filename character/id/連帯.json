@@ -1,0 +1,187 @@
+{
+  "definition": {
+    "word": "連帯",
+    "reading": "れんたい",
+    "romaji": "rentai",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "solidaritas"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "joint",
+          "collective"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "連盟",
+      "reading": "れんめい",
+      "meaning": "liga, serikat, aliansi"
+    },
+    {
+      "word": "一連",
+      "reading": "いちれん",
+      "meaning": "serangkaian, rantai, rim (kertas)"
+    },
+    {
+      "word": "連日",
+      "reading": "れんじつ",
+      "meaning": "setiap hari"
+    },
+    {
+      "word": "世帯",
+      "reading": "せたい",
+      "meaning": "rumah tangga"
+    },
+    {
+      "word": "連休",
+      "reading": "れんきゅう",
+      "meaning": "liburan berturut-turut"
+    },
+    {
+      "word": "連中",
+      "reading": "れんちゅう",
+      "meaning": "rekan kerja, perusahaan, banyak hal"
+    },
+    {
+      "word": "国連",
+      "reading": "こくれん",
+      "meaning": "PBB, Perserikatan Bangsa-Bangsa"
+    },
+    {
+      "word": "連邦",
+      "reading": "れんぽう",
+      "meaning": "Persemakmuran, Federasi Negara Bagian"
+    },
+    {
+      "word": "連なる",
+      "reading": "つらなる",
+      "meaning": "untuk membentangkan, untuk merentangkan, untuk berdiri berbaris"
+    },
+    {
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "komunikasi, kontak, koneksi"
+    },
+    {
+      "word": "地帯",
+      "reading": "ちたい",
+      "meaning": "wilayah, zona"
+    },
+    {
+      "word": "携帯",
+      "reading": "けいたい",
+      "meaning": "membawa sesuatu; telepon seluler"
+    },
+    {
+      "word": "熱帯",
+      "reading": "ねったい",
+      "meaning": "daerah tropis"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "連帯責任",
+      "reading": "れんたいせきにん",
+      "meaning": "collective responsibility",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "荷物が遅れた場合、特別な連帯保険がある。",
+      "reading": null,
+      "indonesian": "In case the shipment is delayed, we have special delay insurance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "連帯責任は無責任。",
+      "reading": null,
+      "indonesian": "Everybody's business is nobody's business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "連帯責任は無責任。",
+      "reading": null,
+      "indonesian": "Collective responsibility means irresponsibility.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはこの計画に連帯してあたった。",
+      "reading": null,
+      "indonesian": "They worked jointly on this project.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "証書貸付は連帯保証人が必要でした。",
+      "reading": null,
+      "indonesian": "Loan on deeds needed the joint surety.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "荷物が遅れた場合、特別な連帯保険がある。",
+      "reading": null,
+      "indonesian": "In case the shipment is delayed, we have special delay insurance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "証書貸付は連帯保証人が必要でした。",
+      "reading": null,
+      "indonesian": "Loan on deeds needed the joint surety.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らはこの計画に連帯してあたった。",
+      "reading": null,
+      "indonesian": "They worked jointly on this project.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "連帯責任は無責任。",
+      "reading": null,
+      "indonesian": "Everybody's business is nobody's business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "連帯責任は無責任。",
+      "reading": null,
+      "indonesian": "Collective responsibility means irresponsibility.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

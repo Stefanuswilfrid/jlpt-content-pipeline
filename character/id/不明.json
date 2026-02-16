@@ -1,0 +1,221 @@
+{
+  "definition": {
+    "word": "不明",
+    "reading": "ふめい",
+    "romaji": "fumei",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tidak diketahui",
+          "ambigu"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "suffix"
+        ],
+        "meanings": [
+          "unknown",
+          "unidentified"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ignorance",
+          "lack of wisdom",
+          "lack of insight"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不況",
+      "reading": "ふきょう",
+      "meaning": "resesi, depresi, kemerosotan"
+    },
+    {
+      "word": "不動産",
+      "reading": "ふどうさん",
+      "meaning": "real estat"
+    },
+    {
+      "word": "不振",
+      "reading": "ふしん",
+      "meaning": "kelesuan, kemerosotan, stagnasi"
+    },
+    {
+      "word": "不当",
+      "reading": "ふとう",
+      "meaning": "ketidakadilan, ketidakpantasan, tidak adil"
+    },
+    {
+      "word": "不在",
+      "reading": "ふざい",
+      "meaning": "ketiadaan"
+    },
+    {
+      "word": "不良",
+      "reading": "ふりょう",
+      "meaning": "keburukan, kenakalan, kegagalan"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaning": "sangat diperlukan, penting"
+    },
+    {
+      "word": "不調",
+      "reading": "ふちょう",
+      "meaning": "kondisi buruk, kekacauan, kemerosotan"
+    },
+    {
+      "word": "不審",
+      "reading": "ふしん",
+      "meaning": "curiga, ragu, perselingkuhan"
+    },
+    {
+      "word": "不服",
+      "reading": "ふふく",
+      "meaning": "ketidakpuasan, ketidakpuasan, ketidaksetujuan"
+    },
+    {
+      "word": "明白",
+      "reading": "めいはく",
+      "meaning": "jelas, terang"
+    },
+    {
+      "word": "不景気",
+      "reading": "ふけいき",
+      "meaning": "resesi bisnis, masa-masa sulit, depresi"
+    },
+    {
+      "word": "賢明",
+      "reading": "けんめい",
+      "meaning": "kebijaksanaan, kecerdasan, kehati-hatian"
+    },
+    {
+      "word": "明朗",
+      "reading": "めいろう",
+      "meaning": "cerah, jernih, ceria"
+    },
+    {
+      "word": "不順",
+      "reading": "ふじゅん",
+      "meaning": "ketidakberaturan, ketidakmusiman"
+    },
+    {
+      "word": "不評",
+      "reading": "ふひょう",
+      "meaning": "reputasi buruk, aib, tidak populer"
+    },
+    {
+      "word": "不意",
+      "reading": "ふい",
+      "meaning": "tiba-tiba, mendadak, tak terduga"
+    },
+    {
+      "word": "不吉",
+      "reading": "ふきつ",
+      "meaning": "pertanda buruk, menyeramkan, nasib sial, pertanda buruk"
+    },
+    {
+      "word": "明瞭",
+      "reading": "めいりょう",
+      "meaning": "kejelasan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々は行方不明の子を求めて森の中を探した。",
+      "reading": null,
+      "indonesian": "We searched the woods for the missing child.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "火事の原因は不明である。",
+      "reading": null,
+      "indonesian": "The cause of the fire is not known.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火事の原因は不明だ。",
+      "reading": null,
+      "indonesian": "The cause of the fire is not known.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "意味不明の微笑が日本人に特有である、としばしば指摘される。",
+      "reading": null,
+      "indonesian": "It is often pointed out that a vague smile is typical of the Japanese.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "レスキュー隊は行方不明の乗客を捜査した。",
+      "reading": null,
+      "indonesian": "The rescue party searched for the missing passengers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それ以来彼らの消息は不明だ。",
+      "reading": null,
+      "indonesian": "They have never been heard of since.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それらの範囲や形は不明確である。",
+      "reading": null,
+      "indonesian": "Their scope and shape is unclear.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この文の意味は不明瞭だ。",
+      "reading": null,
+      "indonesian": "The meaning of this sentence is obscure.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その行方不明だった子は２日後に見つかった。",
+      "reading": null,
+      "indonesian": "The lost child was found after two days.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "警察は行方不明の少年を捜した。",
+      "reading": null,
+      "indonesian": "The police searched for the lost boy.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

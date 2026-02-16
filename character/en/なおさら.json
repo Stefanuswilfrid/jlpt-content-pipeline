@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "尚更",
+    "reading": "なおさら",
+    "romaji": "naosara",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "still more",
+          "even more",
+          "all the more"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "still less",
+          "even less"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今更",
+      "reading": "いまさら",
+      "meaning": "now (when it is already much too late)"
+    },
+    {
+      "word": "夜更け",
+      "reading": "よふけ",
+      "meaning": "late at night"
+    },
+    {
+      "word": "更に",
+      "reading": "さらに",
+      "meaning": "furthermore"
+    },
+    {
+      "word": "尊ぶ",
+      "reading": "とうとぶ",
+      "meaning": "to value"
+    },
+    {
+      "word": "高尚",
+      "reading": "こうしょう",
+      "meaning": "high"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "英語は話せません。スペイン語はなおさらできません。",
+      "reading": null,
+      "english": "I cannot speak English, much less Spanish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それらの星は肉眼で見える、まして望遠鏡ならなおさらである。",
+      "reading": null,
+      "english": "You can see the stars with your naked eye, and even better through a telescope.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "無口だからなおさら彼が好きなのだ。",
+      "reading": null,
+      "english": "I like him all the more for his reticence.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は欠点があるので、なおさら好きです。",
+      "reading": null,
+      "english": "I like her all the better for her faults.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はフランス語を話せる。まして英語はなおさらだ。",
+      "reading": null,
+      "english": "She can speak French, and is even better at English.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はフランス語を知っている。英語はなおさら知っている。",
+      "reading": null,
+      "english": "She knows French, and even more English.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はフランス語が得意です。まして英語はなおさらです。",
+      "reading": null,
+      "english": "He's good at French, but much better at English.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は英語を知らない。フランス語はなおさらのことだ。",
+      "reading": null,
+      "english": "He does not know English, much less French.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は英語が話せない。ドイツ語はなおさらだ。",
+      "reading": null,
+      "english": "He cannot speak English, much less German.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は英語が読めない。ましてやドイツ語はなおさら読めない。",
+      "reading": null,
+      "english": "He can't read English, much less German.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

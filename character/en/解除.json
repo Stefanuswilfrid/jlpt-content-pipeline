@@ -1,0 +1,196 @@
+{
+  "definition": {
+    "word": "解除",
+    "reading": "かいじょ",
+    "romaji": "kaijo",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "termination (of a contract)",
+          "cancellation",
+          "rescinding",
+          "rescission"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "lifting (of a ban, sanctions, etc.)",
+          "removal",
+          "release (from obligations)",
+          "cancellation (of a warning, alert, etc.)",
+          "calling off (e.g. a strike)",
+          "releasing (a lock)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "了解",
+      "reading": "りょうかい",
+      "meaning": "comprehension"
+    },
+    {
+      "word": "控除",
+      "reading": "こうじょ",
+      "meaning": "subtraction"
+    },
+    {
+      "word": "排除",
+      "reading": "はいじょ",
+      "meaning": "exclusion"
+    },
+    {
+      "word": "取り除く",
+      "reading": "とりのぞく",
+      "meaning": "to remove"
+    },
+    {
+      "word": "免除",
+      "reading": "めんじょ",
+      "meaning": "exemption"
+    },
+    {
+      "word": "解剖",
+      "reading": "かいぼう",
+      "meaning": "dissection"
+    },
+    {
+      "word": "除外",
+      "reading": "じょがい",
+      "meaning": "exception"
+    },
+    {
+      "word": "正解",
+      "reading": "せいかい",
+      "meaning": "correct answer"
+    },
+    {
+      "word": "弁解",
+      "reading": "べんかい",
+      "meaning": "explanation (e.g. for one's actions)"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "settlement"
+    },
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "breaking up (a meeting, gathering, etc.)"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "opinion"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "understanding"
+    },
+    {
+      "word": "解放",
+      "reading": "かいほう",
+      "meaning": "release"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "explanation"
+    },
+    {
+      "word": "解釈",
+      "reading": "かいしゃく",
+      "meaning": "interpretation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "協定が調印されれば、輸入規制が解除できる。",
+      "reading": null,
+      "english": "We can lift the restrictions on imports once the joint agreement is signed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "貿易障壁は戦争終結後解除されました。",
+      "reading": null,
+      "english": "Trade barriers were lifted after the war ended.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "津波警報は解除された。",
+      "reading": null,
+      "english": "The tidal wave warning has been canceled.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "政府は物価の統制を解除した。",
+      "reading": null,
+      "english": "The government lifted price controls.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "協定が調印されれば、輸入規制が解除できる。",
+      "reading": null,
+      "english": "We can lift the restrictions on imports once the joint agreement is signed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "政府は物価の統制を解除した。",
+      "reading": null,
+      "english": "The government lifted price controls.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "津波警報は解除された。",
+      "reading": null,
+      "english": "The tidal wave warning has been canceled.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "貿易障壁は戦争終結後解除されました。",
+      "reading": null,
+      "english": "Trade barriers were lifted after the war ended.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "例文同士のリンクや解除はどうすればできますか？",
+      "reading": null,
+      "english": "How can I link or unlink sentences?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

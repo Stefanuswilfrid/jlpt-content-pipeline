@@ -1,0 +1,165 @@
+{
+  "definition": {
+    "word": "反響",
+    "reading": "はんきょう",
+    "romaji": "hankyou",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "echo",
+          "reverberation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "response",
+          "reaction",
+          "repercussions",
+          "sensation",
+          "influence"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "反発",
+      "reading": "はんぱつ",
+      "meaning": "opposition"
+    },
+    {
+      "word": "反応",
+      "reading": "はんのう",
+      "meaning": "reaction"
+    },
+    {
+      "word": "反撃",
+      "reading": "はんげき",
+      "meaning": "counterattack"
+    },
+    {
+      "word": "反乱",
+      "reading": "はんらん",
+      "meaning": "insurrection"
+    },
+    {
+      "word": "反感",
+      "reading": "はんかん",
+      "meaning": "antipathy"
+    },
+    {
+      "word": "反射",
+      "reading": "はんしゃ",
+      "meaning": "reflection"
+    },
+    {
+      "word": "反する",
+      "reading": "はんする",
+      "meaning": "to be contrary (to)"
+    },
+    {
+      "word": "反省",
+      "reading": "はんせい",
+      "meaning": "reflection"
+    },
+    {
+      "word": "反る",
+      "reading": "そる",
+      "meaning": "to warp"
+    },
+    {
+      "word": "響く",
+      "reading": "ひびく",
+      "meaning": "to resound"
+    },
+    {
+      "word": "響き",
+      "reading": "ひびき",
+      "meaning": "echo"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "反響を呼ぶ",
+      "reading": "はんきょうをよぶ",
+      "meaning": "to make a splash",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そのニュースは大反響を呼んだ。",
+      "reading": null,
+      "english": "The news caused a great sensation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "話し声が壁に反響してうるさいな、この部屋。",
+      "reading": null,
+      "english": "This room is noisy. The sound bounces right off the walls.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "洞窟からうつろに反響する音を耳にした。",
+      "reading": null,
+      "english": "We heard somber hollow sounds from the cave.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "谷は滝の音を反響する。",
+      "reading": null,
+      "english": "The valley echoes the sound of the waterfall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "谷は滝の音を反響する。",
+      "reading": null,
+      "english": "The valley echoes the sound of the waterfall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "洞窟からうつろに反響する音を耳にした。",
+      "reading": null,
+      "english": "We heard somber hollow sounds from the cave.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "話し声が壁に反響してうるさいな、この部屋。",
+      "reading": null,
+      "english": "This room is noisy. The sound bounces right off the walls.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そのニュースは大反響を呼んだ。",
+      "reading": null,
+      "english": "The news caused a great sensation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

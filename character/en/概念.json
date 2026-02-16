@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "概念",
+    "reading": "がいねん",
+    "romaji": "gainen",
+    "jlpt": "N1",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "general idea",
+          "concept",
+          "notion"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "念",
+      "reading": "ねん",
+      "meaning": "sense"
+    },
+    {
+      "word": "念願",
+      "reading": "ねんがん",
+      "meaning": "one's heart's desire"
+    },
+    {
+      "word": "大概",
+      "reading": "たいがい",
+      "meaning": "generally"
+    },
+    {
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "regret"
+    },
+    {
+      "word": "概略",
+      "reading": "がいりゃく",
+      "meaning": "outline"
+    },
+    {
+      "word": "概説",
+      "reading": "がいせつ",
+      "meaning": "overview"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "commemoration"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "regrettable"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "既成概念",
+      "reading": "きせいがいねん",
+      "meaning": "stereotype",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その土地についての僕の概念はあまりはっきりしない。",
+      "reading": null,
+      "english": "My idea of that place is not very clear.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ゼロという概念はヒンドゥー文化に由来している。",
+      "reading": null,
+      "english": "The concept of zero sprang from the Hindu culture.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この章では幾何学の概念に焦点をあてます。",
+      "reading": null,
+      "english": "This chapter will focus on the concepts of geometry.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "「割り当て」という概念を考察することから始めよう。",
+      "reading": null,
+      "english": "We will begin by considering the concept of \"quota\".",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "既成概念を壊そう！",
+      "reading": null,
+      "english": "Let's break stereotypes!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼の福祉の概念はかなり観念的だ。",
+      "reading": null,
+      "english": "His notion of welfare is pretty abstract.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "頭の良いその少年は幾何学の概念を理解した。",
+      "reading": null,
+      "english": "The bright boy comprehended the concept of geometry.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "中国語に時制の概念が存在しないことは興味深い。",
+      "reading": null,
+      "english": "It's very interesting that in Chinese the concept of tense does not exist.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

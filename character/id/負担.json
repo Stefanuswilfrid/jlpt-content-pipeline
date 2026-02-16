@@ -1,0 +1,189 @@
+{
+  "definition": {
+    "word": "負担",
+    "reading": "ふたん",
+    "romaji": "futan",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "beban; muatan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "bearing (a cost, responsibility, etc.)",
+          "shouldering"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "負債",
+      "reading": "ふさい",
+      "meaning": "utang, kewajiban"
+    },
+    {
+      "word": "分担",
+      "reading": "ぶんたん",
+      "meaning": "pembagian, berbagi"
+    },
+    {
+      "word": "負かす",
+      "reading": "まかす",
+      "meaning": "untuk mengalahkan"
+    },
+    {
+      "word": "負傷",
+      "reading": "ふしょう",
+      "meaning": "cedera, luka"
+    },
+    {
+      "word": "担架",
+      "reading": "たんか",
+      "meaning": "tandu, usungan"
+    },
+    {
+      "word": "担う",
+      "reading": "になう",
+      "meaning": "membawa di pundak, memikul (beban), memanggul (senjata)"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "(bertanggung jawab)"
+    },
+    {
+      "word": "勝負",
+      "reading": "しょうぶ",
+      "meaning": "kemenangan atau kekalahan, permainan"
+    },
+    {
+      "word": "負け",
+      "reading": "まけ",
+      "meaning": "kekalahan, kehilangan"
+    },
+    {
+      "word": "負う",
+      "reading": "おう",
+      "meaning": "menanggung, berutang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その費用は彼が負担すべきだ。",
+      "reading": null,
+      "indonesian": "The expense is chargeable on him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その責任は彼には負担だ。",
+      "reading": null,
+      "indonesian": "That responsibility is a burden to him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その仕事は私の健康にとって負担だ。",
+      "reading": null,
+      "indonesian": "The work is a heavy tax on my health.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ガソリンはこちらの負担ですか。",
+      "reading": null,
+      "indonesian": "Should I pay for the gas?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "両親にこれ以上負担をかけたくない。",
+      "reading": null,
+      "indonesian": "I don't want to be any more burden to my parents.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "費用は彼の負担になるだろう。",
+      "reading": null,
+      "indonesian": "The expense will fall on him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は自分の負担で本を出版した。",
+      "reading": null,
+      "indonesian": "She published the book at her own expense.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女の親切に感謝する一方負担にも感じる。",
+      "reading": null,
+      "indonesian": "I appreciated her kindness, while I feel it burdensome.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は家計の上で彼女の負担にはなっていなかった。",
+      "reading": null,
+      "indonesian": "He was not a financial burden on her.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は、両親の負担になった。",
+      "reading": null,
+      "indonesian": "He was a burden to his parents.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼の負担を軽くしてやった。",
+      "reading": null,
+      "indonesian": "I relieved him of his burden.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大家族を養って行く負担が徐々に彼を追いつめてきた。",
+      "reading": null,
+      "indonesian": "The pressures of supporting a big family are beginning to catch up with him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "接待費はうちのグループが負担させられた。",
+      "reading": null,
+      "indonesian": "The entertainment expense was borne by our group.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

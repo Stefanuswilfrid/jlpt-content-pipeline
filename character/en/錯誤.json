@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "錯誤",
+    "reading": "さくご",
+    "romaji": "sakugo",
+    "jlpt": "N1",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mistake",
+          "error",
+          "discrepancy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "discrepancy between one's actions and intentions"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "誤差",
+      "reading": "ごさ",
+      "meaning": "measurement error"
+    },
+    {
+      "word": "過ち",
+      "reading": "あやまち",
+      "meaning": "fault"
+    },
+    {
+      "word": "誤り",
+      "reading": "あやまり",
+      "meaning": "error"
+    },
+    {
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "misunderstanding"
+    },
+    {
+      "word": "誤る",
+      "reading": "あやまる",
+      "meaning": "to make a mistake (in)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "試行錯誤",
+      "reading": "しこうさくご",
+      "meaning": "trial and error",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "時代錯誤",
+      "reading": "じだいさくご",
+      "meaning": "anachronism",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "解決策が功を奏したのは試行錯誤の結果だった。",
+      "reading": null,
+      "english": "Finding a solution that worked was a process of trial and error.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "試行錯誤は進歩に不可欠だ。",
+      "reading": null,
+      "english": "Trial and error is essential to progress.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "試行錯誤の末、彼はふと正しい答えを思いついた。",
+      "reading": null,
+      "english": "Through trial and error, he found the right answer by chance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "解決策が功を奏したのは試行錯誤の結果だった。",
+      "reading": null,
+      "english": "Finding a solution that worked was a process of trial and error.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "試行錯誤の末、彼はふと正しい答えを思いついた。",
+      "reading": null,
+      "english": "Through trial and error, he found the right answer by chance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "試行錯誤は進歩に不可欠だ。",
+      "reading": null,
+      "english": "Trial and error is essential to progress.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "まだ試行錯誤だな。",
+      "reading": null,
+      "english": "It's still being tested.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まだ試行錯誤だな。",
+      "reading": null,
+      "english": "It's still being tested.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

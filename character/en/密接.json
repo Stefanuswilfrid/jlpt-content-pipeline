@@ -1,0 +1,170 @@
+{
+  "definition": {
+    "word": "密接",
+    "reading": "みっせつ",
+    "romaji": "missetsu",
+    "jlpt": "N1",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "close (relationship, connection, etc.)",
+          "intimate",
+          "near"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "being in close proximity",
+          "being adjacent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "接触",
+      "reading": "せっしょく",
+      "meaning": "touch"
+    },
+    {
+      "word": "密か",
+      "reading": "ひそか",
+      "meaning": "secret"
+    },
+    {
+      "word": "精密",
+      "reading": "せいみつ",
+      "meaning": "precise"
+    },
+    {
+      "word": "厳密",
+      "reading": "げんみつ",
+      "meaning": "strict"
+    },
+    {
+      "word": "密度",
+      "reading": "みつど",
+      "meaning": "density"
+    },
+    {
+      "word": "過密",
+      "reading": "かみつ",
+      "meaning": "overcrowding"
+    },
+    {
+      "word": "密集",
+      "reading": "みっしゅう",
+      "meaning": "crowding together"
+    },
+    {
+      "word": "秘密",
+      "reading": "ひみつ",
+      "meaning": "secret"
+    },
+    {
+      "word": "面接",
+      "reading": "めんせつ",
+      "meaning": "interview (e.g. for a job)"
+    },
+    {
+      "word": "接近",
+      "reading": "せっきん",
+      "meaning": "getting closer"
+    },
+    {
+      "word": "接する",
+      "reading": "せっする",
+      "meaning": "to touch"
+    },
+    {
+      "word": "間接",
+      "reading": "かんせつ",
+      "meaning": "indirection"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これはその問題と密接な関係がある。",
+      "reading": null,
+      "english": "This is closely bound up with the question.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この問題はあの問題と密接に関連している。",
+      "reading": null,
+      "english": "This question is closely related to that one.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "オランダ語はドイツ語と密接なつながりがある。",
+      "reading": null,
+      "english": "Dutch is closely related to German.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "両国はお互いに密接な関係がある。",
+      "reading": null,
+      "english": "The two countries are closely related to each other.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はその会社と密接な関係がある。",
+      "reading": null,
+      "english": "She is closely associated with the firm.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の考えは仏教と密接に結びついていた。",
+      "reading": null,
+      "english": "What he thought was bound up with Buddhism.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "従業員の利害は会社の利害と密接な関係を持つ。",
+      "reading": null,
+      "english": "The employees' interests are bound up with those of the corporation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "需要と供給の間には密接な関係がある。",
+      "reading": null,
+      "english": "There is close relationship between supply and demand.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私の将来は会社の経済状態と密接に関係している。",
+      "reading": null,
+      "english": "My future is closely bound up with the finances of my firm.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

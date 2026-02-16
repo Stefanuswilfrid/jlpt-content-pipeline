@@ -1,0 +1,257 @@
+{
+  "definition": {
+    "word": "手数",
+    "reading": "てすう",
+    "romaji": "tesuu",
+    "jlpt": "N1",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "masalah",
+          "tenaga kerja",
+          "penanganan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "number of moves (in go, shogi, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "number of punches"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手遅れ",
+      "reading": "ておくれ",
+      "meaning": "menjadi (terlalu); pengobatan terlambat"
+    },
+    {
+      "word": "手分け",
+      "reading": "てわけ",
+      "meaning": "pembagian kerja"
+    },
+    {
+      "word": "手芸",
+      "reading": "しゅげい",
+      "meaning": "kerajinan tangan"
+    },
+    {
+      "word": "手法",
+      "reading": "しゅほう",
+      "meaning": "teknik"
+    },
+    {
+      "word": "手当",
+      "reading": "てあて",
+      "meaning": "tunjangan, kompensasi; perawatan"
+    },
+    {
+      "word": "手軽",
+      "reading": "てがる",
+      "meaning": "mudah, sederhana, murah"
+    },
+    {
+      "word": "手順",
+      "reading": "てじゅん",
+      "meaning": "proses, prosedur, protokol"
+    },
+    {
+      "word": "手元",
+      "reading": "てもと",
+      "meaning": "(uang) yang ada di tangan atau di rumah, dompet seseorang; keterampilan biasa"
+    },
+    {
+      "word": "小切手",
+      "reading": "こぎって",
+      "meaning": "cek, cek"
+    },
+    {
+      "word": "入手",
+      "reading": "にゅうしゅ",
+      "meaning": "memperoleh, tersedia"
+    },
+    {
+      "word": "手本",
+      "reading": "てほん",
+      "meaning": "model, pola"
+    },
+    {
+      "word": "勝手",
+      "reading": "かって",
+      "meaning": "dapur; cara seseorang, keegoisan"
+    },
+    {
+      "word": "手配",
+      "reading": "てはい",
+      "meaning": "pengaturan, penggeledahan (oleh polisi)"
+    },
+    {
+      "word": "着手",
+      "reading": "ちゃくしゅ",
+      "meaning": "keberangkatan, peluncuran"
+    },
+    {
+      "word": "多数決",
+      "reading": "たすうけつ",
+      "meaning": "aturan mayoritas"
+    },
+    {
+      "word": "手際",
+      "reading": "てぎわ",
+      "meaning": "kinerja, keterampilan, taktik"
+    },
+    {
+      "word": "お手上げ",
+      "reading": "おてあげ",
+      "meaning": "menyerah, kehilangan harapan"
+    },
+    {
+      "word": "手錠",
+      "reading": "てじょう",
+      "meaning": "borgol, belenggu"
+    },
+    {
+      "word": "土手",
+      "reading": "どて",
+      "meaning": "tanggul, bank"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お手数ですが、駅までの道を教えていただけますか。",
+      "reading": null,
+      "indonesian": "Please be so kind as to show me the way to the station.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "たいへんお手数をおかけしまして申し訳ございません。",
+      "reading": null,
+      "indonesian": "I am sorry that I have troubled you so much.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それには手数料がかかりますか。",
+      "reading": null,
+      "indonesian": "Is there a service charge for that?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お手数をおかけしてすみません。",
+      "reading": null,
+      "indonesian": "I'm sorry to trouble you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お手数をおかけしました。",
+      "reading": null,
+      "indonesian": "Thank you for your trouble.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お手数ですが塩を回していただけませんか。",
+      "reading": null,
+      "indonesian": "May I trouble you to pass me the salt?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お手数かけてどうもすいません。",
+      "reading": null,
+      "indonesian": "I'm sorry to bother you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "いろいろお手数をかけて申し訳ない。",
+      "reading": null,
+      "indonesian": "I'm sorry to give you all this trouble.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの給与は一定の基本給に販売手数料が加算されます。",
+      "reading": null,
+      "indonesian": "You will be paid a stable base salary plus commissions on sale.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この為替を作るのに銀行の手数料が５０ドルかかった。",
+      "reading": null,
+      "indonesian": "Arranging this money order cost $50 in bank fees and commissions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "毎度お手数をおかけして申し訳ありません。",
+      "reading": null,
+      "indonesian": "I'm sorry to trouble you so often.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "毎度お手数をおかけして申し訳ありません。",
+      "reading": null,
+      "indonesian": "I'm sorry to bother you so often.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "申込書に記入した後で、登録係から手数料が８ドルだといわれた。",
+      "reading": null,
+      "indonesian": "After she filled out the application, the records clerk told her that the fee was eight dollars.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "修理費には部品代と手数料が含まれます。",
+      "reading": null,
+      "indonesian": "The repair bill includes parts and labor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "手数料はかかりますか。",
+      "reading": null,
+      "indonesian": "Is there a handling charge?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "definition": {
+    "word": "相場",
+    "reading": "そうば",
+    "romaji": "souba",
+    "jlpt": "N1",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "harga pasar",
+          "spekulasi",
+          "estimasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "speculation (e.g. on stocks)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reputation (according to conventional wisdom)",
+          "estimation",
+          "esteem"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外相",
+      "reading": "がいしょう",
+      "meaning": "Menteri Luar Negeri"
+    },
+    {
+      "word": "蔵相",
+      "reading": "ぞうしょう",
+      "meaning": "Menteri Keuangan"
+    },
+    {
+      "word": "真相",
+      "reading": "しんそう",
+      "meaning": "kebenaran, situasi nyata"
+    },
+    {
+      "word": "様相",
+      "reading": "ようそう",
+      "meaning": "aspek"
+    },
+    {
+      "word": "農場",
+      "reading": "のうじょう",
+      "meaning": "peternakan"
+    },
+    {
+      "word": "本場",
+      "reading": "ほんば",
+      "meaning": "rumah, tempat terbaik, asli"
+    },
+    {
+      "word": "相対",
+      "reading": "あいたい",
+      "meaning": "relatif"
+    },
+    {
+      "word": "道場",
+      "reading": "どうじょう",
+      "meaning": "(arsitektur) dojo, aula yang digunakan untuk pelatihan seni bela diri, mandala"
+    },
+    {
+      "word": "役場",
+      "reading": "やくば",
+      "meaning": "balai kota"
+    },
+    {
+      "word": "相応",
+      "reading": "そうおう",
+      "meaning": "kesesuaian, kebugaran"
+    },
+    {
+      "word": "式場",
+      "reading": "しきじょう",
+      "meaning": "aula upacara, tempat upacara (misalnya, pernikahan)"
+    },
+    {
+      "word": "来場",
+      "reading": "らいじょう",
+      "meaning": "kehadiran"
+    },
+    {
+      "word": "満場",
+      "reading": "まんじょう",
+      "meaning": "bulat, seluruh hadirin"
+    },
+    {
+      "word": "相対",
+      "reading": "そうたい",
+      "meaning": "relatif"
+    },
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "Perdana Menteri"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "mitra; penerima; orang yang Anda ajak bicara"
+    },
+    {
+      "word": "現場",
+      "reading": "げんば",
+      "meaning": "lokasi sebenarnya, adegan, lapangan"
+    },
+    {
+      "word": "市場",
+      "reading": "いちば",
+      "meaning": "(pasar) (sebagai sebuah konsep)"
+    },
+    {
+      "word": "市場",
+      "reading": "しじょう",
+      "meaning": "(pasar) (sebagai sebuah konsep)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "相場が決まっている",
+      "reading": "そうばがきまっている",
+      "meaning": "to be taken for granted",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "為替相場は毎日会計室の前に掲示される。",
+      "reading": null,
+      "indonesian": "The exchange rates are posted daily outside the cashier's office.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "為替相場は１ドル１４５円だ。",
+      "reading": null,
+      "indonesian": "The rate of exchange is 145 yen to the dollar.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今、ドルの為替相場って、いくらなの？",
+      "reading": null,
+      "indonesian": "What is the exchange rate for dollars now?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ドルに対する円相場があがった。",
+      "reading": null,
+      "indonesian": "The exchange rate for the yen against the dollar has risen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そこ知らずの相場だ。",
+      "reading": null,
+      "indonesian": "The bottom has fallen out of the market.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "相場師の中には老人の無知と寂しさに付け込む奴がいる。",
+      "reading": null,
+      "indonesian": "Some speculators take advantage of the ignorance and helplessness of old people.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今日の為替相場はいくらですか。",
+      "reading": null,
+      "indonesian": "What is the exchange rate today?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今日の為替相場はいくらですか。",
+      "reading": null,
+      "indonesian": "What's the exchange rate today?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今は下がり相場だ。",
+      "reading": null,
+      "indonesian": "It's a bearish market now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "為替相場は毎日会計室の前に掲示される。",
+      "reading": null,
+      "indonesian": "The exchange rates are posted daily outside the cashier's office.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "為替相場は１ドル１４５円だ。",
+      "reading": null,
+      "indonesian": "The rate of exchange is 145 yen to the dollar.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ドルに対する円相場があがった。",
+      "reading": null,
+      "indonesian": "The exchange rate for the yen against the dollar has risen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そこ知らずの相場だ。",
+      "reading": null,
+      "indonesian": "The bottom has fallen out of the market.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今は下がり相場だ。",
+      "reading": null,
+      "indonesian": "It's a bearish market now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

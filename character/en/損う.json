@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "損なう",
+    "reading": "そこなう",
+    "romaji": "sokonau",
+    "jlpt": "N1",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to harm",
+          "to hurt",
+          "to injure",
+          "to damage",
+          "to spoil",
+          "to mar",
+          "to ruin"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'u' ending"
+        ],
+        "meanings": [
+          "to fail to do",
+          "to do amiss",
+          "to miss one's opportunity to do"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'u' ending"
+        ],
+        "meanings": [
+          "to almost do",
+          "to come close to doing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "破損",
+      "reading": "はそん",
+      "meaning": "damage"
+    },
+    {
+      "word": "損失",
+      "reading": "そんしつ",
+      "meaning": "loss (of assets, profit, etc.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "女賢しくて牛売り損なう",
+      "reading": "おんなさかしくてうしうりそこなう",
+      "meaning": "even a clever woman is bound to mess up",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

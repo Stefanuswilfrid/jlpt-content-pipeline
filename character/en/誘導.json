@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "誘導",
+    "reading": "ゆうどう",
+    "romaji": "yuudou",
+    "jlpt": "N1",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "guidance",
+          "leading",
+          "induction",
+          "introduction",
+          "incitement",
+          "inducement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "主導",
+      "reading": "しゅどう",
+      "meaning": "leadership"
+    },
+    {
+      "word": "導く",
+      "reading": "みちびく",
+      "meaning": "to guide"
+    },
+    {
+      "word": "勧誘",
+      "reading": "かんゆう",
+      "meaning": "invitation"
+    },
+    {
+      "word": "導入",
+      "reading": "どうにゅう",
+      "meaning": "introduction"
+    },
+    {
+      "word": "誘惑",
+      "reading": "ゆうわく",
+      "meaning": "temptation"
+    },
+    {
+      "word": "報道",
+      "reading": "ほうどう",
+      "meaning": "report (of news)"
+    },
+    {
+      "word": "誘う",
+      "reading": "さそう",
+      "meaning": "to invite"
+    },
+    {
+      "word": "指導",
+      "reading": "しどう",
+      "meaning": "guidance"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ジェット機は管制塔からの誘導で着陸した。",
+      "reading": null,
+      "english": "The jet plane landed following the instructions of the control tower.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "水先案内人は船を港に誘導する。",
+      "reading": null,
+      "english": "A pilot guides the ship toward the port.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "検事は誘導尋問をした。",
+      "reading": null,
+      "english": "The prosecutor asked me a leading question.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ジェット機は管制塔からの誘導で着陸した。",
+      "reading": null,
+      "english": "The jet plane landed following the instructions of the control tower.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "検事は誘導尋問をした。",
+      "reading": null,
+      "english": "The prosecutor asked me a leading question.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "水先案内人は船を港に誘導する。",
+      "reading": null,
+      "english": "A pilot guides the ship toward the port.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

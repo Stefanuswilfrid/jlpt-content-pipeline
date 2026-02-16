@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "ファイル",
+    "reading": "ファイル",
+    "romaji": "fuairu",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "berkas; portofolio"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "file (collection of documents)",
+          "filing",
+          "keeping on file"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "file"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どのフォルダにファイルを保存しましたか。",
+      "reading": null,
+      "indonesian": "In which folder did you save the file?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "圧縮したファイルを添付で送ってください。",
+      "reading": null,
+      "indonesian": "Send it to me as a compressed file.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "マイクロソフトエクセルのファイルを添付しました。",
+      "reading": null,
+      "indonesian": "I have attached a Microsoft Excel file.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ファイルを暗号化しないでください。",
+      "reading": null,
+      "indonesian": "Please don't encrypt your file.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ファイルを３つ添付します。",
+      "reading": null,
+      "indonesian": "I'm attaching three files.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ファイルキャビネットの引き出しが開いている。",
+      "reading": null,
+      "indonesian": "The file cabinet drawers are open.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その情報は私のコンピューターのファイルに入っている。",
+      "reading": null,
+      "indonesian": "The information is in a file in my computer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このファイルは削除して下さい。",
+      "reading": null,
+      "indonesian": "Please delete this file.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このファイルを削除してください。",
+      "reading": null,
+      "indonesian": "Please delete this file.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ウィンドウズは、拡張子を付けないとファイルを読んでくれない。",
+      "reading": null,
+      "indonesian": "With Windows, you have to have extensions or it won't read your files.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "読み上げる",
+    "reading": "よみあげる",
+    "romaji": "yomiageru",
+    "jlpt": "N1",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membaca dengan lantang (dan jelas)",
+          "memanggil nama."
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to finish reading",
+          "to read through"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "上演",
+      "reading": "じょうえん",
+      "meaning": "pertunjukan seni"
+    },
+    {
+      "word": "朗読",
+      "reading": "ろうどく",
+      "meaning": "membaca dengan lantang, melafalkan"
+    },
+    {
+      "word": "引き上げる",
+      "reading": "ひきあげる",
+      "meaning": "menarik diri, pergi, mencabut"
+    },
+    {
+      "word": "購読",
+      "reading": "こうどく",
+      "meaning": "berlangganan"
+    },
+    {
+      "word": "仕上げる",
+      "reading": "しあげる",
+      "meaning": "untuk menyelesaikan, untuk melengkapi"
+    },
+    {
+      "word": "上回る",
+      "reading": "うわまわる",
+      "meaning": "melebihi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私は彼らに向かってそれを読み上げる以外に仕方がなかった。",
+      "reading": null,
+      "indonesian": "I had no choice but to read it out to them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私がこの本を読み上げるのに約１時間かかった。",
+      "reading": null,
+      "indonesian": "It took me about an hour to read this book through.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私がこの本を読み上げるのに約１時間かかった。",
+      "reading": null,
+      "indonesian": "It took me about an hour to read this book through.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は彼らに向かってそれを読み上げる以外に仕方がなかった。",
+      "reading": null,
+      "indonesian": "I had no choice but to read it out to them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

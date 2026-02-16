@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "歪む",
+    "reading": "ゆがむ",
+    "romaji": "yugamu",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "melengkung",
+          "menjadi terdistorsi"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be perverted",
+          "to be warped (of a view, mind, etc.)",
+          "to be distorted",
+          "to be cross-grained"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "色覚障害は眼球の中が歪むことだから、治せないと思います。",
+      "reading": null,
+      "indonesian": "I don't think color blindness can be cured since it's a distortion in the eye.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "色覚障害は眼球の中が歪むことだから、治せないと思います。",
+      "reading": null,
+      "indonesian": "I don't think color blindness can be cured since it's a distortion in the eye.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    }
+  ]
+}

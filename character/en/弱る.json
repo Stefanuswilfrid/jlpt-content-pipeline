@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "弱る",
+    "reading": "よわる",
+    "romaji": "yowaru",
+    "jlpt": "N1",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to weaken",
+          "to grow weak",
+          "to wane",
+          "to decline (of one's health)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be downcast",
+          "to be dejected",
+          "to be dispirited"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be troubled",
+          "to be at a loss",
+          "to be perplexed",
+          "to be annoyed"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "弱まる",
+      "reading": "よわまる",
+      "meaning": "to abate"
+    },
+    {
+      "word": "薄弱",
+      "reading": "はくじゃく",
+      "meaning": "feebleness"
+    },
+    {
+      "word": "弱",
+      "reading": "じゃく",
+      "meaning": "a little less than"
+    },
+    {
+      "word": "貧弱",
+      "reading": "ひんじゃく",
+      "meaning": "poor"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "良さそうにみえる馬でも時には弱ることもある。",
+      "reading": null,
+      "english": "A good-looking horse may sometimes break down.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "良さそうにみえる馬でも時には弱ることもある。",
+      "reading": null,
+      "english": "A good-looking horse may sometimes break down.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

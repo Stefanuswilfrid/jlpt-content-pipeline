@@ -1,0 +1,213 @@
+{
+  "definition": {
+    "word": "正解",
+    "reading": "せいかい",
+    "romaji": "seikai",
+    "jlpt": "N1",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "correct answer",
+          "right solution",
+          "correct interpretation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "right decision",
+          "right choice",
+          "appropriate judgement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "訂正",
+      "reading": "ていせい",
+      "meaning": "correction"
+    },
+    {
+      "word": "解剖",
+      "reading": "かいぼう",
+      "meaning": "dissection"
+    },
+    {
+      "word": "弁解",
+      "reading": "べんかい",
+      "meaning": "explanation (e.g. for one's actions)"
+    },
+    {
+      "word": "正常",
+      "reading": "せいじょう",
+      "meaning": "normal"
+    },
+    {
+      "word": "是正",
+      "reading": "ぜせい",
+      "meaning": "correction"
+    },
+    {
+      "word": "正義",
+      "reading": "せいぎ",
+      "meaning": "justice"
+    },
+    {
+      "word": "解除",
+      "reading": "かいじょ",
+      "meaning": "termination (of a contract)"
+    },
+    {
+      "word": "正当",
+      "reading": "せいとう",
+      "meaning": "just"
+    },
+    {
+      "word": "了解",
+      "reading": "りょうかい",
+      "meaning": "comprehension"
+    },
+    {
+      "word": "解く",
+      "reading": "とく",
+      "meaning": "to untie"
+    },
+    {
+      "word": "解く",
+      "reading": "ほどく",
+      "meaning": "to undo"
+    },
+    {
+      "word": "解ける",
+      "reading": "とける",
+      "meaning": "to be solved"
+    },
+    {
+      "word": "解ける",
+      "reading": "ほどける",
+      "meaning": "to come loose"
+    },
+    {
+      "word": "正体",
+      "reading": "しょうたい",
+      "meaning": "true character"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "正解です。",
+      "reading": null,
+      "english": "Your answer is right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "局地的な大雨だったらしいけど、行かなくて正解だったよ。",
+      "reading": null,
+      "english": "I'm glad we didn't go there because there were some localized heavy rain showers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "正解だよ。",
+      "reading": null,
+      "english": "You guessed right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "正解をまるで囲みなさい。",
+      "reading": null,
+      "english": "Please circle the right answer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "正解に印をつけてください。",
+      "reading": null,
+      "english": "Please check the correct answer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "正解に印をつけてください。",
+      "reading": null,
+      "english": "Please mark the correct answer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "局地的な大雨だったらしいけど、行かなくて正解だったよ。",
+      "reading": null,
+      "english": "I'm glad we didn't go there because there were some localized heavy rain showers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "正解に印をつけてください。",
+      "reading": null,
+      "english": "Please check the correct answer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "正解をまるで囲みなさい。",
+      "reading": null,
+      "english": "Please circle the right answer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "正解！",
+      "reading": null,
+      "english": "Correct!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "正解！",
+      "reading": null,
+      "english": "Correct!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "正解！",
+      "reading": null,
+      "english": "That is correct!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "正解に印をつけてください。",
+      "reading": null,
+      "english": "Please mark the correct answer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

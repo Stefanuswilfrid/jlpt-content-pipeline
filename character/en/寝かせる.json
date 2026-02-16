@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "寝かせる",
+    "reading": "ねかせる",
+    "romaji": "nekaseru",
+    "jlpt": "N1",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put to bed",
+          "to let sleep"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lay (something) down",
+          "to put on its side"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to let (money, goods, etc.) lie idle",
+          "to set aside unused",
+          "to let (stock) lie unsold"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to (let) ferment",
+          "to (let) age",
+          "to let (dough) rise",
+          "to lay down (wine)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "寝る",
+      "reading": "ねる",
+      "meaning": "to sleep (lying down)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼女はその人形をベッドに寝かせるだろう。",
+      "reading": null,
+      "english": "She will lay the doll on her bed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女はその人形をベッドに寝かせるだろう。",
+      "reading": null,
+      "english": "She will lay the doll on her bed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

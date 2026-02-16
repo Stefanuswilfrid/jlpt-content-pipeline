@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "棄権",
+    "reading": "きけん",
+    "romaji": "kiken",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "abstention (from voting)",
+          "renunciation (of a right)",
+          "withdrawal (from a contest)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "主権",
+      "reading": "しゅけん",
+      "meaning": "sovereignty"
+    },
+    {
+      "word": "権威",
+      "reading": "けんい",
+      "meaning": "authority"
+    },
+    {
+      "word": "特権",
+      "reading": "とっけん",
+      "meaning": "privilege"
+    },
+    {
+      "word": "政権",
+      "reading": "せいけん",
+      "meaning": "(political) administration"
+    },
+    {
+      "word": "権力",
+      "reading": "けんりょく",
+      "meaning": "(political) power"
+    },
+    {
+      "word": "廃棄",
+      "reading": "はいき",
+      "meaning": "disposal"
+    },
+    {
+      "word": "権限",
+      "reading": "けんげん",
+      "meaning": "power"
+    },
+    {
+      "word": "破棄",
+      "reading": "はき",
+      "meaning": "tearing up and discarding (e.g. documents)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "棄権が二票あった。",
+      "reading": null,
+      "english": "There were two abstentions.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いざ投票という時、彼は棄権した。",
+      "reading": null,
+      "english": "When it was time to vote, he abstained.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今度の選挙は棄権するつもりだ。",
+      "reading": null,
+      "english": "I don't plan to vote at the upcoming election.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "棄権が二票あった。",
+      "reading": null,
+      "english": "There were two abstentions.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いざ投票という時、彼は棄権した。",
+      "reading": null,
+      "english": "When it was time to vote, he abstained.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今度の選挙は棄権するつもりだ。",
+      "reading": null,
+      "english": "I don't plan to vote at the upcoming election.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

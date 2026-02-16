@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "模索",
+    "reading": "もさく",
+    "romaji": "mosaku",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "meraba-raba (untuk)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "模型",
+      "reading": "もけい",
+      "meaning": "model, boneka, marquette"
+    },
+    {
+      "word": "規模",
+      "reading": "きぼ",
+      "meaning": "skala, cakupan, rencana, struktur"
+    },
+    {
+      "word": "捜索",
+      "reading": "そうさく",
+      "meaning": "pencarian (khususnya untuk seseorang atau sesuatu yang hilang, investigasi)"
+    },
+    {
+      "word": "模範",
+      "reading": "もはん",
+      "meaning": "model, contoh"
+    },
+    {
+      "word": "模倣",
+      "reading": "もほう",
+      "meaning": "imitasi, meniru"
+    },
+    {
+      "word": "模様",
+      "reading": "もよう",
+      "meaning": "pola, gambar, desain"
+    },
+    {
+      "word": "索引",
+      "reading": "さくいん",
+      "meaning": "indeks, indeks"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "暗中模索",
+      "reading": "あんちゅうもさく",
+      "meaning": "groping in the dark",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "暗中模索も良いけれど、そろそろ結論を出してくれないかね。",
+      "reading": null,
+      "indonesian": "I don't mind your groping in the dark for a solution, but I wish you'd come to a decision.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "現状の打開策を暗中模索している。",
+      "reading": null,
+      "indonesian": "We are groping for a way out of the present situation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "暗中模索も良いけれど、そろそろ結論を出してくれないかね。",
+      "reading": null,
+      "indonesian": "I don't mind your groping in the dark for a solution, but I wish you'd come to a decision.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "現状の打開策を暗中模索している。",
+      "reading": null,
+      "indonesian": "We are groping for a way out of the present situation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "より簡単な解決策を模索している。",
+      "reading": null,
+      "indonesian": "I'm looking for a simpler solution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "より簡単な解決策を模索している。",
+      "reading": null,
+      "indonesian": "I'm looking for a simpler solution.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

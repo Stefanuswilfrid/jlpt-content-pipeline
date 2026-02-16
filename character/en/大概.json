@@ -1,0 +1,285 @@
+{
+  "definition": {
+    "word": "大概",
+    "reading": "たいがい",
+    "romaji": "taigai",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "generally",
+          "mainly",
+          "usually",
+          "normally",
+          "mostly",
+          "for the most part"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nearly all",
+          "almost all",
+          "most"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gist",
+          "summary",
+          "outline",
+          "main idea"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "staying within bounds",
+          "not overdoing (something)",
+          "not getting carried away",
+          "not going too far",
+          "being moderate"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "probably",
+          "perhaps",
+          "in all likelihood"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "considerably",
+          "greatly",
+          "really"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大衆",
+      "reading": "たいしゅう",
+      "meaning": "general public"
+    },
+    {
+      "word": "短大",
+      "reading": "たんだい",
+      "meaning": "junior college"
+    },
+    {
+      "word": "大胆",
+      "reading": "だいたん",
+      "meaning": "bold"
+    },
+    {
+      "word": "概念",
+      "reading": "がいねん",
+      "meaning": "general idea"
+    },
+    {
+      "word": "大筋",
+      "reading": "おおすじ",
+      "meaning": "outline"
+    },
+    {
+      "word": "大便",
+      "reading": "だいべん",
+      "meaning": "feces"
+    },
+    {
+      "word": "壮大",
+      "reading": "そうだい",
+      "meaning": "magnificent"
+    },
+    {
+      "word": "大方",
+      "reading": "おおかた",
+      "meaning": "large part"
+    },
+    {
+      "word": "大金",
+      "reading": "たいきん",
+      "meaning": "large amount of money"
+    },
+    {
+      "word": "大幅",
+      "reading": "おおはば",
+      "meaning": "big"
+    },
+    {
+      "word": "盛大",
+      "reading": "せいだい",
+      "meaning": "grand"
+    },
+    {
+      "word": "大空",
+      "reading": "おおぞら",
+      "meaning": "wide open sky"
+    },
+    {
+      "word": "一概に",
+      "reading": "いちがいに",
+      "meaning": "unconditionally"
+    },
+    {
+      "word": "大部",
+      "reading": "たいぶ",
+      "meaning": "lengthy (of a book, etc.)"
+    },
+    {
+      "word": "大柄",
+      "reading": "おおがら",
+      "meaning": "large build"
+    },
+    {
+      "word": "大水",
+      "reading": "おおみず",
+      "meaning": "flood"
+    },
+    {
+      "word": "概略",
+      "reading": "がいりゃく",
+      "meaning": "outline"
+    },
+    {
+      "word": "概説",
+      "reading": "がいせつ",
+      "meaning": "overview"
+    },
+    {
+      "word": "大気",
+      "reading": "たいき",
+      "meaning": "atmosphere"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "酒もいいが大概にしておきなさい。",
+      "reading": null,
+      "english": "It's all right to drink, but drink in moderation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "冗談も大概にしろ！",
+      "reading": null,
+      "english": "You mustn't carry your jokes too far!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私の仕事は大概片付いた。",
+      "reading": null,
+      "english": "My work is almost finished.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私の仕事は大概片付いた。",
+      "reading": null,
+      "english": "My work is almost finished.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "冗談も大概にしろ！",
+      "reading": null,
+      "english": "You mustn't carry your jokes too far!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "酒もいいが大概にしておきなさい。",
+      "reading": null,
+      "english": "It's all right to drink, but drink in moderation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "大概の喫煙者は禁煙したいと言う。",
+      "reading": null,
+      "english": "Most smokers say that they want to quit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "大概の喫煙者は禁煙したいと言う。",
+      "reading": null,
+      "english": "Most smokers say that they want to quit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "お前なぁ、わがままも大概にしろよ。",
+      "reading": null,
+      "english": "You need to stop being so selfish, you know.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "お前なぁ、わがままも大概にしろよ。",
+      "reading": null,
+      "english": "You need to stop being so selfish, you know.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "甘えるのも大概にしろ！",
+      "reading": null,
+      "english": "Do limit your spoilt behaviour!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "甘えるのも大概にしろ！",
+      "reading": null,
+      "english": "Do limit your requests of me!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "甘えるのも大概にしろ！",
+      "reading": null,
+      "english": "Don't presume of me!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

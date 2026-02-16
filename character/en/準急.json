@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "準急",
+    "reading": "じゅんきゅう",
+    "romaji": "junkyuu",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "semi-express train",
+          "local express train",
+          "sub-express train"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "応急",
+      "reading": "おうきゅう",
+      "meaning": "emergency"
+    },
+    {
+      "word": "緊急",
+      "reading": "きんきゅう",
+      "meaning": "urgency"
+    },
+    {
+      "word": "早急",
+      "reading": "そうきゅう",
+      "meaning": "immediate"
+    },
+    {
+      "word": "特急",
+      "reading": "とっきゅう",
+      "meaning": "limited express (train for which a limited-express ticket is required)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "新宿駅まで準急で行ったのよ。",
+      "reading": null,
+      "english": "I went to Tokyo Station by the local express.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "新宿駅まで準急で行ったのよ。",
+      "reading": null,
+      "english": "I went to Tokyo Station by the local express.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

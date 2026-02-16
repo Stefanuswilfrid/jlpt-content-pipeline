@@ -1,0 +1,224 @@
+{
+  "definition": {
+    "word": "動機",
+    "reading": "どうき",
+    "romaji": "douki",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "motif",
+          "insentif"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "motif"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "動き",
+      "reading": "うごき",
+      "meaning": "pergerakan, aktivitas, tren"
+    },
+    {
+      "word": "危機",
+      "reading": "きき",
+      "meaning": "krisis"
+    },
+    {
+      "word": "不動産",
+      "reading": "ふどうさん",
+      "meaning": "real estat"
+    },
+    {
+      "word": "動向",
+      "reading": "どうこう",
+      "meaning": "tren, kecenderungan, gerakan, sikap"
+    },
+    {
+      "word": "変動",
+      "reading": "へんどう",
+      "meaning": "perubahan, fluktuasi"
+    },
+    {
+      "word": "騒動",
+      "reading": "そうどう",
+      "meaning": "perselisihan, kerusuhan, pemberontakan"
+    },
+    {
+      "word": "暴動",
+      "reading": "ぼうどう",
+      "meaning": "pemberontakan, kerusuhan, pergolakan"
+    },
+    {
+      "word": "出動",
+      "reading": "しゅつどう",
+      "meaning": "mobilisasi, aksi"
+    },
+    {
+      "word": "動員",
+      "reading": "どういん",
+      "meaning": "mobilisasi"
+    },
+    {
+      "word": "振動",
+      "reading": "しんどう",
+      "meaning": "osilasi, getaran"
+    },
+    {
+      "word": "動力",
+      "reading": "どうりょく",
+      "meaning": "daya, tenaga penggerak, gaya dinamis"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "latihan"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "tindakan, perilaku, tingkah laku"
+    },
+    {
+      "word": "自動車",
+      "reading": "じどうしゃ",
+      "meaning": "mobil"
+    },
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "mesin; lembaga, organisasi"
+    },
+    {
+      "word": "機構",
+      "reading": "きこう",
+      "meaning": "mekanisme, organisasi"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaning": "fungsi, fakultas"
+    },
+    {
+      "word": "動物",
+      "reading": "どうぶつ",
+      "meaning": "hewan"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaning": "kesempatan, peluang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の動機は立派であったが行動はそうではなかった。",
+      "reading": null,
+      "indonesian": "Your motive was admirable, but your action was not.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の動機は立派だったが行動はそうではなかった。",
+      "reading": null,
+      "indonesian": "Your motive was admirable, but your action was not.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "近頃では、結婚の動機は必ずしも純粋とは限らない。",
+      "reading": null,
+      "indonesian": "These days, the motives for marriage are not necessarily pure.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "近ごろでは、結婚の動機は必ずしも純粋なものではない。",
+      "reading": null,
+      "indonesian": "These days, the motive for marriage is not necessarily pure.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何らかの決定をする時には自身の動機をよく考えよ。",
+      "reading": null,
+      "indonesian": "Reflect on your own motives when making a decision.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その殺人の動機は誰にもないようだった。",
+      "reading": null,
+      "indonesian": "Nobody seemed to have a motive for the murder.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あの人の動機が信用できなかった。",
+      "reading": null,
+      "indonesian": "I was distrustful of his motives.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は何か利己的な動機で行動している。",
+      "reading": null,
+      "indonesian": "She is acting from some selfish motive.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はそれをした動機は何だったのだろう。",
+      "reading": null,
+      "indonesian": "What was his motive for doing it?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の殺人の動機は何だ。",
+      "reading": null,
+      "indonesian": "What's his motive for committing murder?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の行為は崇高な理想が動機になっていた。",
+      "reading": null,
+      "indonesian": "His act was animated by noble ideals.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼がその家に放火した動機は何であったのか。",
+      "reading": null,
+      "indonesian": "What was his motive for setting the house on fire?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

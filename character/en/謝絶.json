@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "謝絶",
+    "reading": "しゃぜつ",
+    "romaji": "shazetsu",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "refusal",
+          "declining"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "絶版",
+      "reading": "ぜっぱん",
+      "meaning": "out of print"
+    },
+    {
+      "word": "月謝",
+      "reading": "げっしゃ",
+      "meaning": "monthly tuition fee"
+    },
+    {
+      "word": "拒絶",
+      "reading": "きょぜつ",
+      "meaning": "refusal"
+    },
+    {
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "absolutely"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "thanks"
+    },
+    {
+      "word": "絶滅",
+      "reading": "ぜつめつ",
+      "meaning": "extinction"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "細菌などから隔離するため、面会謝絶となっています。",
+      "reading": null,
+      "english": "In order to isolate him from bacteria, and such, he is not allowed visitors.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は面会謝絶だ。",
+      "reading": null,
+      "english": "He sees no company.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は面会謝絶だ。",
+      "reading": null,
+      "english": "He sees no company.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "細菌などから隔離するため、面会謝絶となっています。",
+      "reading": null,
+      "english": "In order to isolate him from bacteria, and such, he is not allowed visitors.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

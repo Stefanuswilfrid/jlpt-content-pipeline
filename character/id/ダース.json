@@ -1,0 +1,217 @@
+{
+  "definition": {
+    "word": "打",
+    "reading": "ダース",
+    "romaji": "daasu",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lusin"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "打開",
+      "reading": "だかい",
+      "meaning": "solusi, terobosan"
+    },
+    {
+      "word": "打撃",
+      "reading": "だげき",
+      "meaning": "pukulan, kerusakan; memukul (bisbol)"
+    },
+    {
+      "word": "値打ち",
+      "reading": "ねうち",
+      "meaning": "nilai, harga, harga"
+    },
+    {
+      "word": "打ち消し",
+      "reading": "うちけし",
+      "meaning": "(gram) negasi, penyangkalan, negatif"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一網打尽",
+      "reading": "いちもうだじん",
+      "meaning": "round-up (e.g. of criminals)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "局面打開",
+      "reading": "きょくめんだかい",
+      "meaning": "breakthrough in the situation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "現状打破",
+      "reading": "げんじょうだは",
+      "meaning": "abandonment of the status quo",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "休止符を打つ",
+      "reading": "きゅうしふをうつ",
+      "meaning": "to put a period to",
+      "type": "idiom"
+    },
+    {
+      "word": "只管打坐",
+      "reading": "しかんたざ",
+      "meaning": "shikantaza",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "終止符を打つ",
+      "reading": "しゅうしふをうつ",
+      "meaning": "to put an end (to)",
+      "type": "idiom"
+    },
+    {
+      "word": "手を打つ",
+      "reading": "てをうつ",
+      "meaning": "to take (preventive) measures",
+      "type": "idiom"
+    },
+    {
+      "word": "胸を打つ",
+      "reading": "むねをうつ",
+      "meaning": "to be touching",
+      "type": "idiom"
+    },
+    {
+      "word": "竜虎相打つ",
+      "reading": "りゅうこあいうつ",
+      "meaning": "a fight between equally great opponents",
+      "type": "idiom"
+    },
+    {
+      "word": "打成一片",
+      "reading": "たじょういっぺん",
+      "meaning": "intensive zazen meditation on a subject",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "我々はその品物を１ダースにつき３ドルで買った。",
+      "reading": null,
+      "indonesian": "We bought the goods at $3 a dozen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "鉛筆を何ダース持っていますか。",
+      "reading": null,
+      "indonesian": "How many dozen pencils do you have?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日鉛筆を１ダース買った。",
+      "reading": null,
+      "indonesian": "I bought a dozen pencils today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "鉛筆は１ダース単位で売られている。",
+      "reading": null,
+      "indonesian": "Pencils are sold by the dozen.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "鉛筆は１ダースいくらで売られる。",
+      "reading": null,
+      "indonesian": "Pencils are sold by the dozen.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "りんごは１ダース単位で売られている。",
+      "reading": null,
+      "indonesian": "Apples are sold by the dozen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "リンゴはダース売りされる。",
+      "reading": null,
+      "indonesian": "Apples are sold by the dozen.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "パウダースノー・スキーは好きですか。",
+      "reading": null,
+      "indonesian": "Do you like powder-snow skiing?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ダース単位で卵を買う。",
+      "reading": null,
+      "indonesian": "We buy eggs by the dozen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その品物を１ダースにつき３ドルで買う。",
+      "reading": null,
+      "indonesian": "I buy the goods at $3 a dozen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スコット・ホールはアウトサイダースに所属しています。",
+      "reading": null,
+      "indonesian": "Scott Hall belongs to the Outsiders.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "シュークリームを１ダース下さい。",
+      "reading": null,
+      "indonesian": "I want a dozen cream puffs.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この卵はダースごとに売られていますか。",
+      "reading": null,
+      "indonesian": "Are these eggs sold by the dozen?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "１ダースいくらで注文したほうが安い。",
+      "reading": null,
+      "indonesian": "It's cheaper to order by the dozen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

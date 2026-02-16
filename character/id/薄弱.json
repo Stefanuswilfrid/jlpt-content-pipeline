@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "薄弱",
+    "reading": "はくじゃく",
+    "romaji": "hakujaku",
+    "jlpt": "N1",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "kelemahan",
+          "kelemahan",
+          "lemah"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "弱",
+      "reading": "じゃく",
+      "meaning": "halus, lentur"
+    },
+    {
+      "word": "貧弱",
+      "reading": "ひんじゃく",
+      "meaning": "miskin, sedikit, tidak berarti"
+    },
+    {
+      "word": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "titik lemah, kelemahan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "意志薄弱",
+      "reading": "いしはくじゃく",
+      "meaning": "weak-willed",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "こいつは意志薄弱な男です。",
+      "reading": null,
+      "indonesian": "He's a weak-willed man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こいつは意志薄弱な男です。",
+      "reading": null,
+      "indonesian": "He's a weak-willed man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "早くも、意志薄弱ぶりを発揮した。",
+      "reading": null,
+      "indonesian": "He's already shown his weak-willed nature.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "早くも、意志薄弱ぶりを発揮した。",
+      "reading": null,
+      "indonesian": "He's already shown his weak-willed nature.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "definition": {
+    "word": "助言",
+    "reading": "じょげん",
+    "romaji": "jogen",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "advice",
+          "counsel",
+          "suggestion",
+          "tip",
+          "hint"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "言論",
+      "reading": "げんろん",
+      "meaning": "(one's) speech"
+    },
+    {
+      "word": "断言",
+      "reading": "だんげん",
+      "meaning": "assertion"
+    },
+    {
+      "word": "無言",
+      "reading": "むごん",
+      "meaning": "silence (not speaking)"
+    },
+    {
+      "word": "助け",
+      "reading": "たすけ",
+      "meaning": "assistance"
+    },
+    {
+      "word": "言い訳",
+      "reading": "いいわけ",
+      "meaning": "excuse"
+    },
+    {
+      "word": "宣言",
+      "reading": "せんげん",
+      "meaning": "declaration"
+    },
+    {
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "statement"
+    },
+    {
+      "word": "補助",
+      "reading": "ほじょ",
+      "meaning": "assistance"
+    },
+    {
+      "word": "証言",
+      "reading": "しょうげん",
+      "meaning": "testimony"
+    },
+    {
+      "word": "予言",
+      "reading": "よげん",
+      "meaning": "prediction"
+    },
+    {
+      "word": "片言",
+      "reading": "かたこと",
+      "meaning": "prattle"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "single word"
+    },
+    {
+      "word": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "relief"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は彼の助言に従えさえすればよい。",
+      "reading": null,
+      "english": "All you have to do is follow his advice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼の助言に従いさえすればよい。",
+      "reading": null,
+      "english": "All that you have to do is to follow his advice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼に助言を求めるべきだ。",
+      "reading": null,
+      "english": "You ought to ask him for advice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は彼に助言を求めない方がいいだろう。",
+      "reading": null,
+      "english": "It would be better for you not to ask him for advice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は先生に助言を求めた方がいいでしょう。",
+      "reading": null,
+      "english": "You may as well ask for your teacher's advice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はお父さんの助言を聞いてそれに従うべきだ。",
+      "reading": null,
+      "english": "You should ask your father for his advice and follow it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君はいい助言をしてくれた。",
+      "reading": null,
+      "english": "You've given me good advice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の助言は私が自分の将来をはっきりさせるのに役立った。",
+      "reading": null,
+      "english": "Your advice has helped me see the light regarding my future.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の助言はいつも私の役に立つ。",
+      "reading": null,
+      "english": "Your advice is always helpful to me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "外部からの助言が必要かもしれません。",
+      "reading": null,
+      "english": "Outside advice may be necessary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会社は新しい設備に投資すべきだというのが私たちの助言です。",
+      "reading": null,
+      "english": "Our advice is that the company invest in new equipment.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何をしてよいか分からなかったので、彼に助言を求めた。",
+      "reading": null,
+      "english": "Not knowing what to do, I asked for his advice.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "遠慮しないで助言を求めなさい。",
+      "reading": null,
+      "english": "Don't hesitate to ask for advice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

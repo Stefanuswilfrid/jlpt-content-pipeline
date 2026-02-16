@@ -1,0 +1,261 @@
+{
+  "definition": {
+    "word": "不在",
+    "reading": "ふざい",
+    "romaji": "fuzai",
+    "jlpt": "N1",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "absence"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "disregard",
+          "indifference"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不況",
+      "reading": "ふきょう",
+      "meaning": "(economic) depression"
+    },
+    {
+      "word": "不動産",
+      "reading": "ふどうさん",
+      "meaning": "real estate"
+    },
+    {
+      "word": "不明",
+      "reading": "ふめい",
+      "meaning": "unclear"
+    },
+    {
+      "word": "不振",
+      "reading": "ふしん",
+      "meaning": "dullness"
+    },
+    {
+      "word": "不当",
+      "reading": "ふとう",
+      "meaning": "unfair"
+    },
+    {
+      "word": "在庫",
+      "reading": "ざいこ",
+      "meaning": "stock"
+    },
+    {
+      "word": "不良",
+      "reading": "ふりょう",
+      "meaning": "bad"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaning": "indispensable"
+    },
+    {
+      "word": "不調",
+      "reading": "ふちょう",
+      "meaning": "bad condition"
+    },
+    {
+      "word": "不審",
+      "reading": "ふしん",
+      "meaning": "doubt"
+    },
+    {
+      "word": "不服",
+      "reading": "ふふく",
+      "meaning": "dissatisfaction"
+    },
+    {
+      "word": "所在",
+      "reading": "しょざい",
+      "meaning": "location (of)"
+    },
+    {
+      "word": "自在",
+      "reading": "じざい",
+      "meaning": "being able to do as one pleases"
+    },
+    {
+      "word": "不景気",
+      "reading": "ふけいき",
+      "meaning": "economic slump"
+    },
+    {
+      "word": "健在",
+      "reading": "けんざい",
+      "meaning": "in good health"
+    },
+    {
+      "word": "不順",
+      "reading": "ふじゅん",
+      "meaning": "irregular"
+    },
+    {
+      "word": "不評",
+      "reading": "ふひょう",
+      "meaning": "bad reputation"
+    },
+    {
+      "word": "不意",
+      "reading": "ふい",
+      "meaning": "sudden"
+    },
+    {
+      "word": "不吉",
+      "reading": "ふきつ",
+      "meaning": "ominous"
+    },
+    {
+      "word": "現在",
+      "reading": "げんざい",
+      "meaning": "the present"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不在証明",
+      "reading": "ふざいしょうめい",
+      "meaning": "alibi",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "下宿生たちは今休暇で不在です。",
+      "reading": null,
+      "english": "The boarders are now away on vacation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ピーターは今不在です。",
+      "reading": null,
+      "english": "Peter is not in now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すみません、不在のようです。",
+      "reading": null,
+      "english": "Sorry sir, I'm afraid he may not be in.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らが休暇で不在の間、近所の人たちが犬の世話をしてあげた。",
+      "reading": null,
+      "english": "While they were away on holiday, their neighbours looked after the dog.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたが不在の間、誰があなたの猫の世話をするのか。",
+      "reading": null,
+      "english": "Who will look after your cat while you are away?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あいにく、彼女は不在です。",
+      "reading": null,
+      "english": "As it happens, she is absent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "問い合わせてみて、彼女は不在だとわかった。",
+      "reading": null,
+      "english": "Upon inquiring, I learned that she was out.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "僕が訪ねて行った時彼は不在だった。",
+      "reading": null,
+      "english": "He wasn't at home when I called on him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "部長が不在のときはブラウン氏が業務を管理する。",
+      "reading": null,
+      "english": "Mr. Brown is in charge of the business in the absence of the manager.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "父は不在です。",
+      "reading": null,
+      "english": "My father is away from home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父は不在です。",
+      "reading": null,
+      "english": "Father is away from home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父は不在です。",
+      "reading": null,
+      "english": "My father isn't at home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父は商用で不在です。",
+      "reading": null,
+      "english": "My father is absent on business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父は今不在です。",
+      "reading": null,
+      "english": "Father is away now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女ははるばる医者に診てもらいに行ったが、医者は不在だった。",
+      "reading": null,
+      "english": "She went all the way to see her doctor only to find him absent.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

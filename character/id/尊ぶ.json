@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "尊ぶ",
+    "reading": "とうとぶ",
+    "romaji": "toutobu",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menghargai",
+          "untuk memuliakan",
+          "untuk menghormati"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to respect",
+          "to honour",
+          "to honor",
+          "to revere",
+          "to look up to"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "尊重",
+      "reading": "そんちょう",
+      "meaning": "rasa hormat, penghargaan, rasa hormat"
+    },
+    {
+      "word": "尊敬",
+      "reading": "そんけい",
+      "meaning": "rasa hormat, kekaguman, penghargaan"
+    },
+    {
+      "word": "尊い",
+      "reading": "とうとい",
+      "meaning": "berharga, bernilai, mulia"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々は時間を守ることを尊ぶ。",
+      "reading": null,
+      "indonesian": "We value punctuality.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "イギリス人は自由を尊ぶ国民である。",
+      "reading": null,
+      "indonesian": "The English set a high value on freedom.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は時間を守ることを尊ぶ。",
+      "reading": null,
+      "indonesian": "We value punctuality.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "イギリス人は自由を尊ぶ国民である。",
+      "reading": null,
+      "indonesian": "The English set a high value on freedom.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

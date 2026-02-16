@@ -1,0 +1,275 @@
+{
+  "definition": {
+    "word": "折",
+    "reading": "おり",
+    "romaji": "ori",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "kesempatan",
+          "peristiwa"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "folding",
+          "fold",
+          "pleat",
+          "crease"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "small food box (wooden or cardboard)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "folding in ... (two, three, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for folded items"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for items (esp. food) packed in an oribako"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時折",
+      "reading": "ときおり",
+      "meaning": "Kadang-kadang"
+    },
+    {
+      "word": "折衷",
+      "reading": "せっちゅう",
+      "meaning": "kompromi, persilangan, perpaduan, eklektisisme"
+    },
+    {
+      "word": "屈折",
+      "reading": "くっせつ",
+      "meaning": "pembengkokan, lekukan, pembiasan"
+    },
+    {
+      "word": "折角",
+      "reading": "せっかく",
+      "meaning": "dengan susah payah, dengan susah payah, yang telah lama ditunggu-tunggu"
+    },
+    {
+      "word": "骨折",
+      "reading": "こっせつ",
+      "meaning": "patah tulang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "和洋折衷",
+      "reading": "わようせっちゅう",
+      "meaning": "blending of Japanese and Western styles",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "紆余曲折",
+      "reading": "うよきょくせつ",
+      "meaning": "turns and twists",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "骨が折れる",
+      "reading": "ほねがおれる",
+      "meaning": "to be hard (to do)",
+      "type": "idiom"
+    },
+    {
+      "word": "九十九折",
+      "reading": "つづらおり",
+      "meaning": "winding",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "話の腰を折る",
+      "reading": "はなしのこしをおる",
+      "meaning": "to interfere",
+      "type": "idiom"
+    },
+    {
+      "word": "骨を折る",
+      "reading": "ほねをおる",
+      "meaning": "to make efforts",
+      "type": "idiom"
+    },
+    {
+      "word": "波乱曲折",
+      "reading": "はらんきょくせつ",
+      "meaning": "very involved and troublesome situation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "雅俗折衷",
+      "reading": "がぞくせっちゅう",
+      "meaning": "blending of the classical and colloquial styles",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "樽俎折衝",
+      "reading": "そんそせっしょう",
+      "meaning": "diplomatic negotiations at the dinner table",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百折不撓",
+      "reading": "ひゃくせつふとう",
+      "meaning": "indefatigability",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君のためにできるだけ骨を折ろう。",
+      "reading": null,
+      "indonesian": "I will do all I can for you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "骨折りなければ利益なし。",
+      "reading": null,
+      "indonesian": "No pain, no gain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "幾多の紆余曲折を経て条約は締結されるに至った。",
+      "reading": null,
+      "indonesian": "The treaty has been concluded after many twists and turns.",
+      "lessonInfo": {
+        "level": "advanced"
+      }
+    },
+    {
+      "japanese": "岩棚から落ちて彼は足を折った。",
+      "reading": null,
+      "indonesian": "The fall from the ledge shattered his leg.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は骨を折って山を登った。",
+      "reading": null,
+      "indonesian": "We toiled up a hill.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "家賃に関して私は彼と折り合いがついた。",
+      "reading": null,
+      "indonesian": "Regarding the matter of house-rent, I have come to terms with him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "価格の折り合えば、大量注文したいと思います。",
+      "reading": null,
+      "indonesian": "If your prices are competitive, we will place a large order.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "音読は彼にとってたいへん骨の折れる仕事であった。",
+      "reading": null,
+      "indonesian": "Reading aloud was a great effort for him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "英語を学ぶのは骨が折れる。",
+      "reading": null,
+      "indonesian": "Learning English is hard work.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "右腕を骨折したようです。",
+      "reading": null,
+      "indonesian": "I think my right arm is broken.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "右腕を骨折したみたいなんだ。",
+      "reading": null,
+      "indonesian": "I think my right arm is broken.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "右折しなさい、そうすれば私の事務所が見つかります。",
+      "reading": null,
+      "indonesian": "Turn to the right, and you'll find my office.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一生懸命頑張ってどうにかもう１羽折ることができた。",
+      "reading": null,
+      "indonesian": "With great effort she managed to fold one more.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医者は彼の折れた足をついだ。",
+      "reading": null,
+      "indonesian": "The doctor set his broken leg.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わたしは足の骨折のために歩けない。",
+      "reading": null,
+      "indonesian": "I can't walk because of my broken leg.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

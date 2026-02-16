@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "漢語",
+    "reading": "かんご",
+    "romaji": "kango",
+    "jlpt": "N1",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kata Cina",
+          "kata Sino-Jepang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "language of the Han people",
+          "Chinese"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "略語",
+      "reading": "りゃくご",
+      "meaning": "singkatan, akronim"
+    },
+    {
+      "word": "文語",
+      "reading": "ぶんご",
+      "meaning": "bahasa tulis, bahasa sastra"
+    },
+    {
+      "word": "語彙",
+      "reading": "ごい",
+      "meaning": "kosakata, glosarium"
+    },
+    {
+      "word": "標語",
+      "reading": "ひょうご",
+      "meaning": "motto, slogan, kata kunci"
+    },
+    {
+      "word": "語源",
+      "reading": "ごげん",
+      "meaning": "akar kata, asal kata, etimologi"
+    },
+    {
+      "word": "語句",
+      "reading": "ごく",
+      "meaning": "kata-kata, frasa"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "漢語はもともと外来語です。",
+      "reading": null,
+      "indonesian": "Kanji compounds are originally loanwords.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "漢語はもともと外来語です。",
+      "reading": null,
+      "indonesian": "Kanji compounds are originally loanwords.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

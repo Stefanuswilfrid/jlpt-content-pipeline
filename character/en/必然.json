@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "必然",
+    "reading": "ひつぜん",
+    "romaji": "hitsuzen",
+    "jlpt": "N1",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "inevitable",
+          "necessary",
+          "certain",
+          "sure"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "inevitability",
+          "necessity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "公然",
+      "reading": "こうぜん",
+      "meaning": "open"
+    },
+    {
+      "word": "必修",
+      "reading": "ひっしゅう",
+      "meaning": "required (subject)"
+    },
+    {
+      "word": "偶然",
+      "reading": "ぐうぜん",
+      "meaning": "coincidence"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaning": "necessary"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaning": "nature"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "natural"
+    },
+    {
+      "word": "必死",
+      "reading": "ひっし",
+      "meaning": "frantic"
+    },
+    {
+      "word": "天然",
+      "reading": "てんねん",
+      "meaning": "nature"
+    },
+    {
+      "word": "突然",
+      "reading": "とつぜん",
+      "meaning": "abrupt"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは必然的に延期しなければならない。",
+      "reading": null,
+      "english": "It must, of necessity, be postponed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "文明が進むにつれて、詩は殆ど必然的に衰える。",
+      "reading": null,
+      "english": "As civilization advances, poetry almost necessarily declines.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは必然的に延期しなければならない。",
+      "reading": null,
+      "english": "It must, of necessity, be postponed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "文明が進むにつれて、詩は殆ど必然的に衰える。",
+      "reading": null,
+      "english": "As civilization advances, poetry almost necessarily declines.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの出会いは必然だった。",
+      "reading": null,
+      "english": "Their meeting was inevitable.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの出会いは必然だった。",
+      "reading": null,
+      "english": "Their meeting was inevitable.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "偶然も３度重なれば必然になる。",
+      "reading": null,
+      "english": "In addition, coincidences inevitably come in threes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "偶然も３度重なれば必然になる。",
+      "reading": null,
+      "english": "In addition, coincidences inevitably come in threes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

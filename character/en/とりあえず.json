@@ -1,0 +1,202 @@
+{
+  "definition": {
+    "word": "取りあえず",
+    "reading": "とりあえず",
+    "romaji": "toriaezu",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "first of all",
+          "at once",
+          "right away"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "for now",
+          "for the time being",
+          "tentatively"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "anyway",
+          "at least"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "日取り",
+      "reading": "ひどり",
+      "meaning": "fixed date"
+    },
+    {
+      "word": "取り巻く",
+      "reading": "とりまく",
+      "meaning": "to surround"
+    },
+    {
+      "word": "取り除く",
+      "reading": "とりのぞく",
+      "meaning": "to remove"
+    },
+    {
+      "word": "書き取る",
+      "reading": "かきとる",
+      "meaning": "to write down (what someone says)"
+    },
+    {
+      "word": "取引",
+      "reading": "とりひき",
+      "meaning": "transactions"
+    },
+    {
+      "word": "取材",
+      "reading": "しゅざい",
+      "meaning": "gathering material (for an article, novel, etc.)"
+    },
+    {
+      "word": "聞き取り",
+      "reading": "ききとり",
+      "meaning": "listening comprehension"
+    },
+    {
+      "word": "乗っ取る",
+      "reading": "のっとる",
+      "meaning": "to take possession of (forcibly)"
+    },
+    {
+      "word": "取り扱う",
+      "reading": "とりあつかう",
+      "meaning": "to handle"
+    },
+    {
+      "word": "取り寄せる",
+      "reading": "とりよせる",
+      "meaning": "to order"
+    },
+    {
+      "word": "取り組む",
+      "reading": "とりくむ",
+      "meaning": "to grapple with"
+    },
+    {
+      "word": "取り調べる",
+      "reading": "とりしらべる",
+      "meaning": "to investigate"
+    },
+    {
+      "word": "取り締まる",
+      "reading": "とりしまる",
+      "meaning": "to manage"
+    },
+    {
+      "word": "取り戻す",
+      "reading": "とりもどす",
+      "meaning": "to take back"
+    },
+    {
+      "word": "取り次ぐ",
+      "reading": "とりつぐ",
+      "meaning": "to pass on (a message, thoughts, etc.)"
+    },
+    {
+      "word": "下取り",
+      "reading": "したどり",
+      "meaning": "trade-in"
+    },
+    {
+      "word": "取り立てる",
+      "reading": "とりたてる",
+      "meaning": "to collect (debts)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "とりあえず君は私たちのところにいてもいいよ。",
+      "reading": null,
+      "english": "You can stay with us for the time being.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とりあえずこれをやってしまおう。",
+      "reading": null,
+      "english": "Let's do this first of all.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "とりあえず、あたりさわりのない話をしておいたよ。",
+      "reading": null,
+      "english": "I steered clear of sensitive topics.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "とりあえずここで待ちましょう。",
+      "reading": null,
+      "english": "We should wait here for the moment.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "とりあえずまともな人間はいないということを明記しておきたい。",
+      "reading": null,
+      "english": "In any case I just want to make clear that the fact that these are not normal people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とりあえず君は私たちのところにいてもいいよ。",
+      "reading": null,
+      "english": "You can stay with us for the time being.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とりあえず、応急処置をしておきます。",
+      "reading": null,
+      "english": "First of all, I'll apply first aid.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とりあえずこれをやってしまおう。",
+      "reading": null,
+      "english": "Let's do this first of all.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "とりあえず、あたりさわりのない話をしておいたよ。",
+      "reading": null,
+      "english": "I steered clear of sensitive topics.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

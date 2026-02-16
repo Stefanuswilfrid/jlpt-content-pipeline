@@ -1,0 +1,187 @@
+{
+  "definition": {
+    "word": "取り扱う",
+    "reading": "とりあつかう",
+    "romaji": "toriatsukau",
+    "jlpt": "N1",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to handle",
+          "to operate (a machine, etc.)",
+          "to use"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to deal with (an issue)",
+          "to manage"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to treat (someone)",
+          "to deal with (someone)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to deal in",
+          "to carry",
+          "to sell"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "乗っ取る",
+      "reading": "のっとる",
+      "meaning": "to take possession of (forcibly)"
+    },
+    {
+      "word": "取り寄せる",
+      "reading": "とりよせる",
+      "meaning": "to order"
+    },
+    {
+      "word": "取り調べる",
+      "reading": "とりしらべる",
+      "meaning": "to investigate"
+    },
+    {
+      "word": "取り締まる",
+      "reading": "とりしまる",
+      "meaning": "to manage"
+    },
+    {
+      "word": "取り戻す",
+      "reading": "とりもどす",
+      "meaning": "to take back"
+    },
+    {
+      "word": "取引",
+      "reading": "とりひき",
+      "meaning": "transactions"
+    },
+    {
+      "word": "取材",
+      "reading": "しゅざい",
+      "meaning": "gathering material (for an article, novel, etc.)"
+    },
+    {
+      "word": "取り巻く",
+      "reading": "とりまく",
+      "meaning": "to surround"
+    },
+    {
+      "word": "取り除く",
+      "reading": "とりのぞく",
+      "meaning": "to remove"
+    },
+    {
+      "word": "書き取る",
+      "reading": "かきとる",
+      "meaning": "to write down (what someone says)"
+    },
+    {
+      "word": "取り次ぐ",
+      "reading": "とりつぐ",
+      "meaning": "to pass on (a message, thoughts, etc.)"
+    },
+    {
+      "word": "下取り",
+      "reading": "したどり",
+      "meaning": "trade-in"
+    },
+    {
+      "word": "取り立てる",
+      "reading": "とりたてる",
+      "meaning": "to collect (debts)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "科学者は主として物質の問題を取り扱う。",
+      "reading": null,
+      "english": "Scientists deal mainly with physical matters.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "統計学は事実を表す数を取り扱うものである。",
+      "reading": null,
+      "english": "Statistics deals with collected numbers representing facts.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は本章でその問題を取り扱うつもりです。",
+      "reading": null,
+      "english": "I'm going to deal with the problem in this chapter.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "算数は数を取り扱う。",
+      "reading": null,
+      "english": "Arithmetic deals with numbers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "科学者は主として物質の問題を取り扱う。",
+      "reading": null,
+      "english": "Scientists deal mainly with physical matters.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "算数は数を取り扱う。",
+      "reading": null,
+      "english": "Arithmetic deals with numbers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は本章でその問題を取り扱うつもりです。",
+      "reading": null,
+      "english": "I'm going to deal with the problem in this chapter.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "統計学は事実を表す数を取り扱うものである。",
+      "reading": null,
+      "english": "Statistics deals with collected numbers representing facts.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

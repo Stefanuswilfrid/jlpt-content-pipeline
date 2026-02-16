@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "促す",
+    "reading": "うながす",
+    "romaji": "unagasu",
+    "jlpt": "N1",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to urge",
+          "to encourage",
+          "to press",
+          "to prompt",
+          "to draw (attention to)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stimulate (e.g. growth)",
+          "to hasten (e.g. development)",
+          "to quicken",
+          "to accelerate",
+          "to promote"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "促進",
+      "reading": "そくしん",
+      "meaning": "promotion"
+    },
+    {
+      "word": "催促",
+      "reading": "さいそく",
+      "meaning": "pressing"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

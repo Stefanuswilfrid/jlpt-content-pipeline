@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "朗読",
+    "reading": "ろうどく",
+    "romaji": "roudoku",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "reading aloud",
+          "recitation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "購読",
+      "reading": "こうどく",
+      "meaning": "buying and reading (book, magazine, etc.)"
+    },
+    {
+      "word": "読み上げる",
+      "reading": "よみあげる",
+      "meaning": "to read out"
+    },
+    {
+      "word": "読み",
+      "reading": "よみ",
+      "meaning": "reading"
+    },
+    {
+      "word": "読む",
+      "reading": "よむ",
+      "meaning": "to read"
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "reading (books)"
+    },
+    {
+      "word": "明朗",
+      "reading": "めいろう",
+      "meaning": "cheerful"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼はその詩を一本調子で朗読した。",
+      "reading": null,
+      "english": "He read the poem in a monotone.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "先生は私の朗読にいくつかの誤りを指摘した。",
+      "reading": null,
+      "english": "The teacher noted several mistakes in my recitation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "先生は私の朗読にいくつかの誤りを指摘した。",
+      "reading": null,
+      "english": "The teacher noted several mistakes in my recitation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はその詩を一本調子で朗読した。",
+      "reading": null,
+      "english": "He read the poem in a monotone.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

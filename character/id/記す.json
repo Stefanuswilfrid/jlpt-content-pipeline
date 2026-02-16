@@ -1,0 +1,215 @@
+{
+  "definition": {
+    "word": "記す",
+    "reading": "しるす",
+    "romaji": "shirusu",
+    "jlpt": "N1",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mencatat",
+          "untuk menuliskan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to mention",
+          "to describe",
+          "to give an account of"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to inscribe",
+          "to mark",
+          "to brand"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to remember",
+          "to engrave (in one's mind)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "記述",
+      "reading": "きじゅつ",
+      "meaning": "menggambarkan, deskriptor"
+    },
+    {
+      "word": "記載",
+      "reading": "きさい",
+      "meaning": "sebutkan, entri"
+    },
+    {
+      "word": "記名",
+      "reading": "きめい",
+      "meaning": "tanda tangan, daftar"
+    },
+    {
+      "word": "記入",
+      "reading": "きにゅう",
+      "meaning": "entri, pengisian formulir"
+    },
+    {
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "catatan, risalah, dokumen"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "peringatan, kenangan"
+    },
+    {
+      "word": "記憶",
+      "reading": "きおく",
+      "meaning": "ingatan, kenangan, ingatan"
+    },
+    {
+      "word": "筆記",
+      "reading": "ひっき",
+      "meaning": "mencatat, menulis"
+    },
+    {
+      "word": "暗記",
+      "reading": "あんき",
+      "meaning": "menghafal, belajar dengan hati"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "数学はただ公式を暗記すればいいというものではない。",
+      "reading": null,
+      "indonesian": "Mathematics is not just the memorization of formulas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "数学はただ公式を暗記すればいいというものではない。",
+      "reading": null,
+      "indonesian": "Mathematics is not just the memorization of formulas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生たちは、憲法を暗記するようにいわれました。",
+      "reading": null,
+      "indonesian": "The students were required to learn the Constitution by heart.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "英語の単語を暗記することになると、誰も彼にはかなわない。",
+      "reading": null,
+      "indonesian": "When it comes to learning English words by heart, nobody can beat him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "できるだけ多くの英単語を暗記すべきである。",
+      "reading": null,
+      "indonesian": "You should memorize as many English words as possible.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その少年は詩を暗記するのが得意です。",
+      "reading": null,
+      "indonesian": "That child is good at learning poems by heart.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "せりふを早く暗記する何か良い方法がありますか。",
+      "reading": null,
+      "indonesian": "Is there any good way to memorise our lines quickly?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの文をすべて暗記するのは不可能だ。",
+      "reading": null,
+      "indonesian": "It is out of the question to learn all these sentences by heart.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらの表現はみな暗記すべきであると先生は私たちに言った。",
+      "reading": null,
+      "indonesian": "The teacher said we had to learn all these expressions by heart.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この文章を暗記するのに２時間かかった。",
+      "reading": null,
+      "indonesian": "It took me two hours to memorize this sentence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は１課を丸ごと暗記することで満点を取った。",
+      "reading": null,
+      "indonesian": "She got full marks by memorizing the whole lesson.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は５歳でその詩を暗記することができた。",
+      "reading": null,
+      "indonesian": "He could learn the poem by heart at the age of five.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は５歳でその詩を暗記することができた。",
+      "reading": null,
+      "indonesian": "He was able to memorize that poem when he was five years old.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日付を暗記することは容易ではない。",
+      "reading": null,
+      "indonesian": "It is not easy to commit dates to memory.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

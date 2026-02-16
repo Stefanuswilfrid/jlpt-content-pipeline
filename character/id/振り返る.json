@@ -1,0 +1,191 @@
+{
+  "definition": {
+    "word": "振り返る",
+    "reading": "ふりかえる",
+    "romaji": "furikaeru",
+    "jlpt": "N1",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menoleh",
+          "berbalik",
+          "melihat ke belakang"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to think back (on)",
+          "to reminisce",
+          "to look back (on)",
+          "to reflect (on)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "振動",
+      "reading": "しんどう",
+      "meaning": "osilasi, getaran"
+    },
+    {
+      "word": "返還",
+      "reading": "へんかん",
+      "meaning": "kembali, pemulihan"
+    },
+    {
+      "word": "返済",
+      "reading": "へんさい",
+      "meaning": "pembayaran kembali"
+    },
+    {
+      "word": "返答",
+      "reading": "へんとう",
+      "meaning": "membalas"
+    },
+    {
+      "word": "宙返り",
+      "reading": "ちゅうがえり",
+      "meaning": "salto, putaran melingkar"
+    },
+    {
+      "word": "折り返す",
+      "reading": "おりかえす",
+      "meaning": "untuk muncul, untuk dilipat kembali"
+    },
+    {
+      "word": "返事",
+      "reading": "へんじ",
+      "meaning": "balas, jawab"
+    },
+    {
+      "word": "繰り返す",
+      "reading": "くりかえす",
+      "meaning": "mengulang, melakukan sesuatu lagi"
+    },
+    {
+      "word": "揺さぶる",
+      "reading": "ゆさぶる",
+      "meaning": "mengguncang, menghentak, mengayun, berayun"
+    },
+    {
+      "word": "振興",
+      "reading": "しんこう",
+      "meaning": "promosi, dorongan"
+    },
+    {
+      "word": "振り出し",
+      "reading": "ふりだし",
+      "meaning": "awal, titik awal, menggambar atau menerbitkan (draf)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼は私に後ろを振り返るなと言った。",
+      "reading": null,
+      "indonesian": "He told me not to look behind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分の思春期を振り返ると、いつも憂うつな気分になる。",
+      "reading": null,
+      "indonesian": "I cannot look back on my adolescence without feeling depressed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はときどき子供のころを振り返る。",
+      "reading": null,
+      "indonesian": "I sometimes look back on my childhood.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はしばしば若い時を振り返る。",
+      "reading": null,
+      "indonesian": "I often look back at my younger years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "後ろを振り返るな。",
+      "reading": null,
+      "indonesian": "Don't look back.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "後ろを振り返るな。",
+      "reading": null,
+      "indonesian": "Don't look back.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "過去のことを振り返るのはやめろよ。",
+      "reading": null,
+      "indonesian": "Don't look back.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はしばしば若い時を振り返る。",
+      "reading": null,
+      "indonesian": "I often look back at my younger years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はときどき子供のころを振り返る。",
+      "reading": null,
+      "indonesian": "I sometimes look back on my childhood.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自分の思春期を振り返ると、いつも憂うつな気分になる。",
+      "reading": null,
+      "indonesian": "I cannot look back on my adolescence without feeling depressed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼が振り返ることはなかった。",
+      "reading": null,
+      "indonesian": "He never looked back.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は私に後ろを振り返るなと言った。",
+      "reading": null,
+      "indonesian": "He told me not to look behind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

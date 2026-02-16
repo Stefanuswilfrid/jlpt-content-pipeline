@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "甘口",
+    "reading": "あまくち",
+    "romaji": "amakuchi",
+    "jlpt": "N1",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rasa manis"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "flattery"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "stupidity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "閉口",
+      "reading": "へいこう",
+      "meaning": "tutup mulut"
+    },
+    {
+      "word": "口述",
+      "reading": "こうじゅつ",
+      "meaning": "pernyataan lisan"
+    },
+    {
+      "word": "口頭",
+      "reading": "こうとう",
+      "meaning": "lisan"
+    },
+    {
+      "word": "無口",
+      "reading": "むくち",
+      "meaning": "sikap diam"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そんな甘口には乗らないよ。",
+      "reading": null,
+      "indonesian": "That sort of flattery will get you nowhere.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんな甘口には乗らないよ。",
+      "reading": null,
+      "indonesian": "That sort of flattery will get you nowhere.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

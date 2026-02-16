@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "蹴飛ばす",
+    "reading": "けとばす",
+    "romaji": "ketobasu",
+    "jlpt": "N1",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to kick (hard)",
+          "to send flying with a kick",
+          "to kick away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to reject flatly",
+          "to refuse outright",
+          "to turn down"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "蹴る",
+      "reading": "ける",
+      "meaning": "to kick"
+    },
+    {
+      "word": "飛び出す",
+      "reading": "とびだす",
+      "meaning": "to jump out"
+    },
+    {
+      "word": "飛ばす",
+      "reading": "とばす",
+      "meaning": "to let fly"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ごめん！蹴飛ばすつもりじゃなかったんだ。",
+      "reading": null,
+      "english": "I'm so sorry. I didn't mean to kick you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ごめん！蹴飛ばすつもりじゃなかったんだ。",
+      "reading": null,
+      "english": "I'm so sorry. I didn't mean to kick you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

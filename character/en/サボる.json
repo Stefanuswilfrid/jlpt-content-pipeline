@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "サボる",
+    "reading": "サボる",
+    "romaji": "saboru",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be truant",
+          "to slack off",
+          "to play hooky",
+          "to skip school",
+          "to cut class",
+          "to skip out"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "トムはちょくちょく授業をサボる。",
+      "reading": null,
+      "english": "Tom often cuts classes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムはちょくちょく授業をサボる。",
+      "reading": null,
+      "english": "Tom often cuts classes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょくちょくサボるよ。",
+      "reading": null,
+      "english": "I often play truant.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ちょくちょくサボるよ。",
+      "reading": null,
+      "english": "I often play truant.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

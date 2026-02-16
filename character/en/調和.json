@@ -1,0 +1,211 @@
+{
+  "definition": {
+    "word": "調和",
+    "reading": "ちょうわ",
+    "romaji": "chouwa",
+    "jlpt": "N1",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "harmony",
+          "accord",
+          "reconciliation",
+          "agreement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "調印",
+      "reading": "ちょういん",
+      "meaning": "signature"
+    },
+    {
+      "word": "調停",
+      "reading": "ちょうてい",
+      "meaning": "arbitration"
+    },
+    {
+      "word": "調理",
+      "reading": "ちょうり",
+      "meaning": "cooking"
+    },
+    {
+      "word": "不調",
+      "reading": "ふちょう",
+      "meaning": "bad condition"
+    },
+    {
+      "word": "同調",
+      "reading": "どうちょう",
+      "meaning": "conformity"
+    },
+    {
+      "word": "調べ",
+      "reading": "しらべ",
+      "meaning": "investigation"
+    },
+    {
+      "word": "緩和",
+      "reading": "かんわ",
+      "meaning": "relief"
+    },
+    {
+      "word": "好調",
+      "reading": "こうちょう",
+      "meaning": "favourable"
+    },
+    {
+      "word": "共和",
+      "reading": "きょうわ",
+      "meaning": "republicanism"
+    },
+    {
+      "word": "単調",
+      "reading": "たんちょう",
+      "meaning": "monotony"
+    },
+    {
+      "word": "飽和",
+      "reading": "ほうわ",
+      "meaning": "saturation"
+    },
+    {
+      "word": "中和",
+      "reading": "ちゅうわ",
+      "meaning": "neutralization"
+    },
+    {
+      "word": "温和",
+      "reading": "おんわ",
+      "meaning": "mild (climate)"
+    },
+    {
+      "word": "和文",
+      "reading": "わぶん",
+      "meaning": "Japanese text"
+    },
+    {
+      "word": "下調べ",
+      "reading": "したしらべ",
+      "meaning": "preliminary investigation"
+    },
+    {
+      "word": "失調",
+      "reading": "しっちょう",
+      "meaning": "lack of harmony"
+    },
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "favourable"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君のネクタイは背広によく調和している。",
+      "reading": null,
+      "english": "Your tie blends well with your suit.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "各色間の調和に欠けているのでこの絵は目立つ。",
+      "reading": null,
+      "english": "The lack of harmony between colors makes this painting stand out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その別荘は風景と調和していた。",
+      "reading": null,
+      "english": "The villa was harmonious with the scenery.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その部屋の中の物は何１つ互いに調和していない。",
+      "reading": null,
+      "english": "Nothing in the room matches with anything else.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その建物は周りの風景と調和しない。",
+      "reading": null,
+      "english": "The building doesn't blend in with its surroundings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "じゅうたんの色は壁と調和している。",
+      "reading": null,
+      "english": "The color of the carpet is in harmony with the wall.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この建物は調和を欠いている。",
+      "reading": null,
+      "english": "The structure is deficient in harmony.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "グリーンは赤と調和されない。",
+      "reading": null,
+      "english": "Green doesn't go with red.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "緑の絨毯ではこの青いカーテンと調和しないだろう。",
+      "reading": null,
+      "english": "A green carpet will not go with this blue curtain.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "緑の絨毯ではこの青いカーテンと調和しないだろう。",
+      "reading": null,
+      "english": "A green carpet won't go well with these blue curtains.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの間に調和の精神が広がった。",
+      "reading": null,
+      "english": "A harmony prevailed among them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼の発言は感情と調和しなかった。",
+      "reading": null,
+      "english": "His speech did not accord with his feelings.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "称する",
+    "reading": "しょうする",
+    "romaji": "shousuru",
+    "jlpt": "N1",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengambil nama",
+          "menyebut diri sendiri"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to call oneself ...",
+          "to go by the name of ..."
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to purport (to be)",
+          "to profess",
+          "to claim",
+          "to pretend",
+          "to feign"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to praise",
+          "to applaud"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "名称",
+      "reading": "めいしょう",
+      "meaning": "nama"
+    },
+    {
+      "word": "褒める",
+      "reading": "ほめる",
+      "meaning": "memuji; mengatakan hal-hal yang baik"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "本物のノイローゼの奴がノイローゼだなんて自称するのかね？",
+      "reading": null,
+      "indonesian": "Do you think real neurotics really go and call themselves such?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は建築を凍結した音楽と称する。",
+      "reading": null,
+      "indonesian": "I call architecture frozen music.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は建築を凍結した音楽と称する。",
+      "reading": null,
+      "indonesian": "I call architecture frozen music.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "本物のノイローゼの奴がノイローゼだなんて自称するのかね？",
+      "reading": null,
+      "indonesian": "Do you think real neurotics really go and call themselves such?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "definition": {
+    "word": "慣れ",
+    "reading": "なれ",
+    "romaji": "nare",
+    "jlpt": "N1",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "practice",
+          "experience",
+          "habituation"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "being used to",
+          "being comfortable with",
+          "being experienced in"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "慣習",
+      "reading": "かんしゅう",
+      "meaning": "custom"
+    },
+    {
+      "word": "慣例",
+      "reading": "かんれい",
+      "meaning": "custom"
+    },
+    {
+      "word": "習慣",
+      "reading": "しゅうかん",
+      "meaning": "habit"
+    },
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "customary practice"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "習うより慣れろ",
+      "reading": "ならうよりなれろ",
+      "meaning": "experience is the best teacher",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "すぐに人前で話すことに慣れますよ。",
+      "reading": null,
+      "english": "You will soon get used to speaking in public.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はすぐに当地での生活に慣れるでしょう。",
+      "reading": null,
+      "english": "You will soon get accustomed to living here.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君はすぐに今度の学校に慣れるでしょう。",
+      "reading": null,
+      "english": "You will soon get accustomed to your new school.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君はこの寒さにすぐ慣れるだろう。",
+      "reading": null,
+      "english": "You'll soon get accustomed to this cold weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この寒さもすぐに慣れるって。",
+      "reading": null,
+      "english": "You'll soon get accustomed to this cold weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "帰国者たちは日本の生活に慣れるのに苦労している。",
+      "reading": null,
+      "english": "Returnees have trouble getting used to life in Japan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "慣れると軽視するようになる。",
+      "reading": null,
+      "english": "Familiarity breeds contempt.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "慣れすぎは侮りのもと。",
+      "reading": null,
+      "english": "Familiarity breeds contempt.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "慣れてみると、そのほうが好きになりました。",
+      "reading": null,
+      "english": "I like it better now that I'm used to it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "外人が日本食に慣れることはむずかしい。",
+      "reading": null,
+      "english": "It is difficult for foreigners to get used to Japanese food.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "外国旅行をする人はいつも新しい食べ物に慣れなければならない。",
+      "reading": null,
+      "english": "People traveling abroad always have to get used to new food.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "外国人が日本の食事に慣れる事は難しい。",
+      "reading": null,
+      "english": "It is difficult for foreigners to get used to Japanese meals.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "外国語に十分慣れることは困難だ。",
+      "reading": null,
+      "english": "It's difficult to feel at home in a foreign language.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "海部氏は人前で演説することに慣れている。",
+      "reading": null,
+      "english": "Mr Kaifu is used to making speeches in public.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

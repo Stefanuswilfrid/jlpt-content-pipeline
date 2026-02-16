@@ -1,0 +1,201 @@
+{
+  "definition": {
+    "word": "養う",
+    "reading": "やしなう",
+    "romaji": "yashinau",
+    "jlpt": "N1",
+    "frequency": 19250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to support",
+          "to maintain",
+          "to provide for"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bring up",
+          "to raise",
+          "to rear",
+          "to feed"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to adopt (a child)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cultivate (a habit, a quality, etc.)",
+          "to develop",
+          "to build up",
+          "to foster"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to recuperate (from injury, illness, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "養護",
+      "reading": "ようご",
+      "meaning": "nursing"
+    },
+    {
+      "word": "扶養",
+      "reading": "ふよう",
+      "meaning": "support (e.g. of one's dependents)"
+    },
+    {
+      "word": "保養",
+      "reading": "ほよう",
+      "meaning": "health preservation"
+    },
+    {
+      "word": "養分",
+      "reading": "ようぶん",
+      "meaning": "nutrient"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "家族を養うことは彼にとって多大な重荷であった。",
+      "reading": null,
+      "english": "Supporting his family was a great burden for him.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "家族を養うために、彼は懸命に働かなければならない。",
+      "reading": null,
+      "english": "He has to work hard to support his family.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ちょうど食べ物が身体を養うように、読者は精神を養う。",
+      "reading": null,
+      "english": "Just as food feeds the body, so reading feeds the mind.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その給料では６人家族を養うには不十分だ。",
+      "reading": null,
+      "english": "The pay is not adequate for a family of six.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジョンは自分の家族を養うことができません。",
+      "reading": null,
+      "english": "John can't keep his family.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここには全家族を養うだけの十分な食料がある。",
+      "reading": null,
+      "english": "There is enough here to feed the whole family.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの給料は家族を養うのに十分ですか。",
+      "reading": null,
+      "english": "Is your salary adequate to support your family?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの義務は家族を養うことです。",
+      "reading": null,
+      "english": "Your duty is to support your family.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "６人家族を養うのは容易なことではない。",
+      "reading": null,
+      "english": "It's no easy matter to maintain a family of six.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "良い習慣は子供時代に養うべきである。",
+      "reading": null,
+      "english": "Good habits should be cultivated in childhood.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は５人の子供を養うために働かざるをえなかった。",
+      "reading": null,
+      "english": "She was obliged to work to support five children.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼を養うのは君の責任だ。",
+      "reading": null,
+      "english": "It is up to you to support him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は老母を養うために一生懸命働いている。",
+      "reading": null,
+      "english": "He works hard to support his aged mother.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は老母を養うために一生懸命働いている。",
+      "reading": null,
+      "english": "He's working his hardest to support his aging mother.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

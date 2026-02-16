@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "侵す",
+    "reading": "おかす",
+    "romaji": "okasu",
+    "jlpt": "N1",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to invade",
+          "to raid",
+          "to violate (airspace, etc.)",
+          "to intrude",
+          "to trespass"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to infringe",
+          "to encroach"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to harm",
+          "to afflict",
+          "to affect"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "侵略",
+      "reading": "しんりゃく",
+      "meaning": "invasion (e.g. of a country)"
+    },
+    {
+      "word": "侵入",
+      "reading": "しんにゅう",
+      "meaning": "invasion"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "酸は金属を侵す。",
+      "reading": null,
+      "english": "Acids act on metals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "酸は金属を侵す。",
+      "reading": null,
+      "english": "Acids act on metals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

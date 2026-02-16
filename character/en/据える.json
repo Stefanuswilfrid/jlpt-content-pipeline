@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "据える",
+    "reading": "すえる",
+    "romaji": "sueru",
+    "jlpt": "N1",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to place (in position)",
+          "to fix",
+          "to set (e.g. table)",
+          "to lay (foundation)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to install",
+          "to seat (someone)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to settle (upon something)",
+          "to fix (e.g. one's gaze)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to apply (moxa)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "据え付ける",
+      "reading": "すえつける",
+      "meaning": "to install"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "腹を据える",
+      "reading": "はらをすえる",
+      "meaning": "to make up one's mind",
+      "type": "idiom"
+    },
+    {
+      "word": "灸を据える",
+      "reading": "きゅうをすえる",
+      "meaning": "to rake over the coals",
+      "type": "idiom"
+    },
+    {
+      "word": "みこしを据える",
+      "reading": "みこしをすえる",
+      "meaning": "to ensconce oneself (e.g. in a chair)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "彼を議長に据えることに誰も異議を唱えなかった。",
+      "reading": null,
+      "english": "Nobody argued against choosing him as chairman.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼を議長に据えることに誰も異議を唱えなかった。",
+      "reading": null,
+      "english": "Nobody argued against choosing him as chairman.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

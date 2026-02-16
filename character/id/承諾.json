@@ -1,0 +1,179 @@
+{
+  "definition": {
+    "word": "承諾",
+    "reading": "しょうだく",
+    "romaji": "shoudaku",
+    "jlpt": "N1",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "persetujuan",
+          "kesepakatan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "了承",
+      "reading": "りょうしょう",
+      "meaning": "pengakuan, pemahaman"
+    },
+    {
+      "word": "承知",
+      "reading": "しょうち",
+      "meaning": "persetujuan, penerimaan"
+    },
+    {
+      "word": "承認",
+      "reading": "しょうにん",
+      "meaning": "pengakuan, persetujuan"
+    },
+    {
+      "word": "受ける",
+      "reading": "うける",
+      "meaning": "mengikuti (ujian, wawancara, dll.); menerima"
+    },
+    {
+      "word": "承る",
+      "reading": "うけたまわる",
+      "meaning": "(rendah hati) untuk mendengar, untuk diberitahu, untuk mengetahui"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "事後承諾",
+      "reading": "じごしょうだく",
+      "meaning": "ex-post-facto approval",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "沈黙は承諾の印。",
+      "reading": null,
+      "indonesian": "Silence gives consent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジョニーはアリスに結婚を申し込み、彼女は承諾した。",
+      "reading": null,
+      "indonesian": "Johnny proposed to Alice and she accepted.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あっさり断られると思いきや、彼女は承諾してくれました。",
+      "reading": null,
+      "indonesian": "I had expected an outright refusal, but to my surprise she agreed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "黙っているのは承諾したものと解釈します。",
+      "reading": null,
+      "indonesian": "We interpret your silence as consent.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "無言は承諾。",
+      "reading": null,
+      "indonesian": "Who is silent is held to consent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼女は彼に結婚の承諾を与えた。",
+      "reading": null,
+      "indonesian": "She accepted him her suitor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は彼女に結婚してくれと言い、彼女はその申し込みを承諾した。",
+      "reading": null,
+      "indonesian": "He asked her to marry him and she accepted his proposal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は私の申し出を承諾したも同然である。",
+      "reading": null,
+      "indonesian": "He as good as accepted my offer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はそのようなばかげた提案を承諾することを拒んだ。",
+      "reading": null,
+      "indonesian": "He refused to accept such an absurd proposal.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はすでに承諾していた。",
+      "reading": null,
+      "indonesian": "He has already said yes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼が承諾するのはもちろんのことだと思った。",
+      "reading": null,
+      "indonesian": "I took it for granted that he would consent.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼がリー嬢に結婚を申し込んだところ、彼女は承諾した。",
+      "reading": null,
+      "indonesian": "He proposed to Miss Lee and she accepted.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "沈黙は承諾を意味する事が多い。",
+      "reading": null,
+      "indonesian": "Silence often implies consent.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "沈黙は承諾の印。",
+      "reading": null,
+      "indonesian": "Silence gives consent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "承諾するのが一番だ。",
+      "reading": null,
+      "indonesian": "You had best agree.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

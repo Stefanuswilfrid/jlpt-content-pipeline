@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "燃焼",
+    "reading": "ねんしょう",
+    "romaji": "nenshou",
+    "jlpt": "N1",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "pembakaran",
+          "ledakan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "exerting all strength",
+          "making an effort"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "燃料",
+      "reading": "ねんりょう",
+      "meaning": "bahan bakar"
+    },
+    {
+      "word": "日焼け",
+      "reading": "ひやけ",
+      "meaning": "terbakar sinar matahari"
+    },
+    {
+      "word": "夕焼け",
+      "reading": "ゆうやけ",
+      "meaning": "matahari terbenam"
+    },
+    {
+      "word": "焼ける",
+      "reading": "やける",
+      "meaning": "terbakar, dipanggang"
+    },
+    {
+      "word": "燃える",
+      "reading": "もえる",
+      "meaning": "untuk membakar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不完全燃焼",
+      "reading": "ふかんぜんねんしょう",
+      "meaning": "incomplete combustion",
+      "type": "idiom"
+    },
+    {
+      "word": "完全燃焼",
+      "reading": "かんぜんねんしょう",
+      "meaning": "complete combustion",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "燃焼には酸素が必要です。",
+      "reading": null,
+      "indonesian": "Oxygen is needed for combustion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この種の汚染物質は主として自動車エンジンの燃焼から生まれる。",
+      "reading": null,
+      "indonesian": "Pollutants like this derive mainly from the combustion of fuel in car engines.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一酸化炭素とは炭素化合物の不完全燃焼で発生する有害物質です。",
+      "reading": null,
+      "indonesian": "Carbon monoxide is a poisonous substance formed by the incomplete combustion of carbon compounds.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この種の汚染物質は主として自動車エンジンの燃焼から生まれる。",
+      "reading": null,
+      "indonesian": "Pollutants like this derive mainly from the combustion of fuel in car engines.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一酸化炭素とは炭素化合物の不完全燃焼で発生する有害物質です。",
+      "reading": null,
+      "indonesian": "Carbon monoxide is a poisonous substance formed by the incomplete combustion of carbon compounds.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これは燃焼試験用の建物です。",
+      "reading": null,
+      "indonesian": "This is a building used for combustion testing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "燃焼には酸素が必要です。",
+      "reading": null,
+      "indonesian": "Oxygen is needed for combustion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは燃焼試験用の建物です。",
+      "reading": null,
+      "indonesian": "This is a building used for combustion testing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

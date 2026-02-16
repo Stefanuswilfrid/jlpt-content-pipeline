@@ -1,0 +1,206 @@
+{
+  "definition": {
+    "word": "軌道",
+    "reading": "きどう",
+    "romaji": "kidou",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "orbit",
+          "trajectory"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(railroad) track"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(right) track",
+          "proper course"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "報道",
+      "reading": "ほうどう",
+      "meaning": "report (of news)"
+    },
+    {
+      "word": "街道",
+      "reading": "かいどう",
+      "meaning": "highway (esp. one existing from the Edo period)"
+    },
+    {
+      "word": "道場",
+      "reading": "どうじょう",
+      "meaning": "dojo"
+    },
+    {
+      "word": "使い道",
+      "reading": "つかいみち",
+      "meaning": "purpose"
+    },
+    {
+      "word": "道",
+      "reading": "みち",
+      "meaning": "road"
+    },
+    {
+      "word": "道路",
+      "reading": "どうろ",
+      "meaning": "road"
+    },
+    {
+      "word": "鉄道",
+      "reading": "てつどう",
+      "meaning": "railroad"
+    },
+    {
+      "word": "柔道",
+      "reading": "じゅうどう",
+      "meaning": "judo"
+    },
+    {
+      "word": "水道",
+      "reading": "すいどう",
+      "meaning": "water supply"
+    },
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "calligraphy (esp. Asian calligraphy based on Chinese characters)"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaning": "tool"
+    },
+    {
+      "word": "規範",
+      "reading": "きはん",
+      "meaning": "model"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の仕事が軌道に乗ったら、値上げの話をしましょう。",
+      "reading": null,
+      "english": "When your business gets rolling we'll talk about an increase.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々の計算によるとロケットは軌道を外れている。",
+      "reading": null,
+      "english": "Our calculations show that the rocket is off its course.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "衛星は今軌道に乗っている。",
+      "reading": null,
+      "english": "The satellite is now in orbit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "衛星は月の周りの軌道に乗っている。",
+      "reading": null,
+      "english": "The satellite is in orbit around the moon.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "宇宙船は月を回る軌道を外れている。",
+      "reading": null,
+      "english": "The spaceship is out of orbit around the moon.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "われわれの計画は彼がくるまで軌道に乗らなかった。",
+      "reading": null,
+      "english": "Our project didn't get off the ground until he joined the company.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ロケットは通信衛星を軌道に乗せた。",
+      "reading": null,
+      "english": "The rocket put a communications satellite into orbit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ロケットは月を回る軌道に乗っている。",
+      "reading": null,
+      "english": "The rocket is in orbit around the moon.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その衛星は地球の軌道を１０周した。",
+      "reading": null,
+      "english": "The satellite made 10 orbits of the earth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "シリウスを回る軌道は楕円形である。",
+      "reading": null,
+      "english": "The orbit around Sirius is elliptical.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らは人工衛星を軌道に乗せることに成功した。",
+      "reading": null,
+      "english": "They succeeded in putting an artificial satellite in orbit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼は若い頃は実に無軌道だった。",
+      "reading": null,
+      "english": "He was very wild in his youth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼はロケットが軌道にのれなかった原因を的確に指摘した。",
+      "reading": null,
+      "english": "He put his finger on the cause of the rocket's failure to orbit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

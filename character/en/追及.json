@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "追及",
+    "reading": "ついきゅう",
+    "romaji": "tsuikyuu",
+    "jlpt": "N1",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "investigation (e.g. into someone's guilt)",
+          "questioning",
+          "pressing",
+          "hounding",
+          "pinning down"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "catching up",
+          "overtaking"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "追い込む",
+      "reading": "おいこむ",
+      "meaning": "to herd"
+    },
+    {
+      "word": "追放",
+      "reading": "ついほう",
+      "meaning": "exile"
+    },
+    {
+      "word": "追跡",
+      "reading": "ついせき",
+      "meaning": "chase"
+    },
+    {
+      "word": "追い出す",
+      "reading": "おいだす",
+      "meaning": "to expel"
+    },
+    {
+      "word": "追加",
+      "reading": "ついか",
+      "meaning": "addition"
+    },
+    {
+      "word": "普及",
+      "reading": "ふきゅう",
+      "meaning": "diffusion"
+    },
+    {
+      "word": "追う",
+      "reading": "おう",
+      "meaning": "to chase"
+    },
+    {
+      "word": "及ぶ",
+      "reading": "およぶ",
+      "meaning": "to reach"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "会議で川添さんの追及を受けて、冷や汗ものだったよ。",
+      "reading": null,
+      "english": "When Kawazoe pinned me down at the meeting, I broke out in a cold sweat.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "追及されて、つい、見え透いた嘘をついてしまった。",
+      "reading": null,
+      "english": "I was pressed by their questioning and slipped into telling an obvious lie.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "会議で川添さんの追及を受けて、冷や汗ものだったよ。",
+      "reading": null,
+      "english": "When Kawazoe pinned me down at the meeting, I broke out in a cold sweat.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "追及されて、つい、見え透いた嘘をついてしまった。",
+      "reading": null,
+      "english": "I was pressed by their questioning and slipped into telling an obvious lie.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

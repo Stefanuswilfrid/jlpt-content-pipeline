@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "月並み",
+    "reading": "つきなみ",
+    "romaji": "tsukinami",
+    "jlpt": "N1",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "konvensional",
+          "klise",
+          "umum"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "trite",
+          "commonplace",
+          "conventional",
+          "hackneyed"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "月賦",
+      "reading": "げっぷ",
+      "meaning": "angsuran bulanan"
+    },
+    {
+      "word": "満月",
+      "reading": "まんげつ",
+      "meaning": "bulan purnama"
+    },
+    {
+      "word": "並列",
+      "reading": "へいれつ",
+      "meaning": "susunan, sejajar, berdampingan"
+    },
+    {
+      "word": "月謝",
+      "reading": "げっしゃ",
+      "meaning": "biaya kuliah bulanan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "彼らの判断は月並みだ。",
+      "reading": null,
+      "indonesian": "They are conventional in their judgement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は月並みな家の広告にまんまとだまされた。",
+      "reading": null,
+      "indonesian": "He fell for that old ad for a house like a ton of bricks.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "月並みのパーティーだったよ。",
+      "reading": null,
+      "indonesian": "That was just another party.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "月並みのパーティーだったよ。",
+      "reading": null,
+      "indonesian": "That was just another party.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "彼は月並みな家の広告にまんまとだまされた。",
+      "reading": null,
+      "indonesian": "He fell for that old ad for a house like a ton of bricks.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "彼らの判断は月並みだ。",
+      "reading": null,
+      "indonesian": "They are conventional in their judgement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "繕う",
+    "reading": "つくろう",
+    "romaji": "tsukurou",
+    "jlpt": "N1",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to mend",
+          "to patch up",
+          "to repair",
+          "to fix",
+          "to darn"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fix (hair, clothes, appearance, etc.)",
+          "to adjust",
+          "to tidy up",
+          "to groom"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to keep up appearances",
+          "to cover up (e.g. a mistake)",
+          "to gloss over"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "修繕",
+      "reading": "しゅうぜん",
+      "meaning": "repair"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "世間体を繕う心配をするより他にやることがある。",
+      "reading": null,
+      "english": "We have other things to do than worry about keeping up appearances.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "世間体を繕う心配をするより他にやることがある。",
+      "reading": null,
+      "english": "We have other things to do than worry about keeping up appearances.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

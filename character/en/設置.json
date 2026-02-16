@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "設置",
+    "reading": "せっち",
+    "romaji": "setchi",
+    "jlpt": "N1",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "establishment",
+          "institution"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "installation (of a machine or equipment)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "施設",
+      "reading": "しせつ",
+      "meaning": "facility"
+    },
+    {
+      "word": "措置",
+      "reading": "そち",
+      "meaning": "measure"
+    },
+    {
+      "word": "設立",
+      "reading": "せつりつ",
+      "meaning": "establishment"
+    },
+    {
+      "word": "設定",
+      "reading": "せってい",
+      "meaning": "establishment"
+    },
+    {
+      "word": "配置",
+      "reading": "はいち",
+      "meaning": "arrangement (of resources)"
+    },
+    {
+      "word": "処置",
+      "reading": "しょち",
+      "meaning": "measure"
+    },
+    {
+      "word": "放置",
+      "reading": "ほうち",
+      "meaning": "leaving as is"
+    },
+    {
+      "word": "設ける",
+      "reading": "もうける",
+      "meaning": "to prepare"
+    },
+    {
+      "word": "前置き",
+      "reading": "まえおき",
+      "meaning": "preface"
+    },
+    {
+      "word": "建設",
+      "reading": "けんせつ",
+      "meaning": "construction"
+    },
+    {
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "equipment"
+    },
+    {
+      "word": "装置",
+      "reading": "そうち",
+      "meaning": "equipment"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "plan"
+    },
+    {
+      "word": "位置",
+      "reading": "いち",
+      "meaning": "place"
+    },
+    {
+      "word": "置く",
+      "reading": "おく",
+      "meaning": "to put"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ようやく各店舗に監視カメラが設置されることになった。",
+      "reading": null,
+      "english": "Eventually it was decided that the stores be equipped with surveillance cameras.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "仕事場にコンピューターを設置した。",
+      "reading": null,
+      "english": "We have equipped our office with computers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ようやく各店舗に監視カメラが設置されることになった。",
+      "reading": null,
+      "english": "Eventually it was decided that the stores be equipped with surveillance cameras.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "仕事場にコンピューターを設置した。",
+      "reading": null,
+      "english": "We have equipped our office with computers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "家に太陽電池パネルを設置してから、電気代が半分に減った。",
+      "reading": null,
+      "english": "Since I installed solar panels on my house, my energy bill has been cut in half.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "家に太陽電池パネルを設置してから、電気代が半分に減った。",
+      "reading": null,
+      "english": "Since I installed solar panels on my house, my energy bill has been cut in half.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このビルには、スプリンクラーが設置してある。",
+      "reading": null,
+      "english": "This building has sprinklers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このビルには、スプリンクラーが設置してある。",
+      "reading": null,
+      "english": "This building has sprinklers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "モーションセンサーを設置しました。",
+      "reading": null,
+      "english": "I set up motion sensors.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "モーションセンサーを設置しました。",
+      "reading": null,
+      "english": "I set up motion sensors.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}
