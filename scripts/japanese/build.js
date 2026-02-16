@@ -8,7 +8,6 @@ import { toRomaji } from 'wanakana';
 import { detectVerbClass, conjugate } from './enrich/conjugation.js';
 import { loadPitchDict, lookupPitch } from './enrich/pitch.js';
 import { attachExpressions } from './enrich/expressions.js';
-import { buildTags } from './enrich/tags.js';
 import { filterSenses, filterRelatedByJlpt, JLPT_RANK } from './enrich/filters.js';
 import { initAudio, isAudioEnabled, generateAudio } from './enrich/audio.js';
 
@@ -24,27 +23,10 @@ const OUT_ID = join(ROOT, 'dist', 'japanese', 'id');
 const AUDIO_WORD_DIR = join(ROOT, 'dist', 'audio', 'japanese', 'word');
 const AUDIO_LESSON_DIR = join(ROOT, 'dist', 'audio', 'japanese', 'lesson');
 
-const SCHEMA_VERSION = 4;
-
 // ── helpers ──────────────────────────────────
 
 function loadJSON(p) {
   return JSON.parse(readFileSync(p, 'utf-8'));
-}
-
-// ── SRS meta helpers ─────────────────────────
-
-const DIFFICULTY_WEIGHT = { N5: 0.1, N4: 0.3, N3: 0.5, N2: 0.7, N1: 0.9 };
-
-function computeSrsMeta(jlpt, frequency) {
-  let reviewPriority = 3;
-  if (frequency != null && frequency < 5000) reviewPriority = 1;
-  else if (frequency != null && frequency < 15000) reviewPriority = 2;
-
-  return {
-    difficultyWeight: DIFFICULTY_WEIGHT[jlpt] ?? 0.5,
-    reviewPriority,
-  };
 }
 
 function isKanji(ch) {
@@ -268,7 +250,6 @@ async function main() {
     mkdirSync(AUDIO_LESSON_DIR, { recursive: true });
   }
 
-  const generatedAt = new Date().toISOString();
   let ok = 0;
   let skip = 0;
 
@@ -391,7 +372,7 @@ async function main() {
         }));
 
       related = filterRelatedByJlpt(related, jw.jlpt, jlptMap);
-      related = related.slice(0, 8);
+      related = related.slice(0, 20);
 
       idRelated = related.map((rel) => ({
         ...rel,
@@ -402,10 +383,7 @@ async function main() {
     // ── step 7: attach-expressions (V4, generic + applied examples) ──
     const expressions = attachExpressions(allPos, jw.jlpt, w, conjugation);
 
-    // ── step 8: attach-tags (V3) ──
-    const tags = buildTags(allPos, jw.jlpt, kanji, filteredSenses);
-
-    // ── step 9: lessons (upgraded from examples) ──
+    // ── step 8: lessons (upgraded from examples) ──
     const rawExamples = exIdx?.get(jw.word) ?? [];
     const examples = filterExamples(rawExamples, jw.jlpt, kanjidic2);
 
@@ -431,10 +409,7 @@ async function main() {
       },
     }));
 
-    // ── step 10: compute SRS meta (static hints) ──
-    const srsMeta = computeSrsMeta(jw.jlpt, sourceFreq);
-
-    // ── step 11: generate audio (word + lessons) ──
+    // ── step 9: generate audio (word + lessons) ──
     let wordAudioUrl = null;
 
     if (isAudioEnabled()) {
@@ -452,9 +427,8 @@ async function main() {
       }
     }
 
-    // ── step 12: write-en ──
+    // ── step 10: write-en ──
     const en = {
-      meta: { schemaVersion: SCHEMA_VERSION, generatedAt, lang: 'en' },
       definition: {
         word: w,
         reading: r,
@@ -470,14 +444,11 @@ async function main() {
       kanji,
       related,
       expressions,
-      tags,
-      srsMeta,
       lessons: enLessons,
     };
 
-    // ── step 13: translate-id + write-id ──
+    // ── step 11: translate-id + write-id ──
     const id = {
-      meta: { schemaVersion: SCHEMA_VERSION, generatedAt, lang: 'id' },
       definition: {
         word: w,
         reading: r,
@@ -493,8 +464,6 @@ async function main() {
       kanji,
       related: idRelated,
       expressions,
-      tags,
-      srsMeta,
       lessons: idLessons,
     };
 

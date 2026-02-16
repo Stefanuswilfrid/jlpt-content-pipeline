@@ -1,16 +1,11 @@
 {
-  "meta": {
-    "schemaVersion": 4,
-    "generatedAt": "2026-02-16T12:14:00.901Z",
-    "lang": "id"
-  },
   "definition": {
     "word": "食べる",
     "reading": "たべる",
     "romaji": "taberu",
     "jlpt": "N5",
     "frequency": 12250,
-    "audioUrl": "/audio/japanese/word/食べる.mp3",
+    "audioUrl": null,
     "variants": [
       "喰べる"
     ],
@@ -102,17 +97,91 @@
       "meaning_id": "ingin melakukan",
       "example": "食べたい",
       "jlpt": "N5"
+    },
+    {
+      "pattern": "Vて形 + います",
+      "meaning_en": "be doing (polite)",
+      "meaning_id": "sedang melakukan (sopan)",
+      "example": "食べています",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vて形 + もいいです",
+      "meaning_en": "may do / it's okay to do",
+      "meaning_id": "boleh melakukan",
+      "example": "食べてもいいです",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vない形 + ないでください",
+      "meaning_en": "please don't do",
+      "meaning_id": "tolong jangan melakukan",
+      "example": "食べないでください",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vて形 + はいけません",
+      "meaning_en": "must not do",
+      "meaning_id": "tidak boleh melakukan",
+      "example": "食べてはいけません",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vた形 + ことがあります",
+      "meaning_en": "have done before",
+      "meaning_id": "pernah melakukan",
+      "example": "食べたことがあります",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vます形 + ましょう",
+      "meaning_en": "let's do",
+      "meaning_id": "mari kita",
+      "example": "食べましょう",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vた形 + り、...たりします",
+      "meaning_en": "do things like...",
+      "meaning_id": "melakukan hal-hal seperti...",
+      "example": "食べたり、...たりします",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vて形 + から",
+      "meaning_en": "after doing",
+      "meaning_id": "setelah melakukan",
+      "example": "食べてから",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vない形 + ないで",
+      "meaning_en": "without doing",
+      "meaning_id": "tanpa melakukan",
+      "example": "食べないで",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vます形 + たくない",
+      "meaning_en": "don't want to do",
+      "meaning_id": "tidak ingin melakukan",
+      "example": "食べたくない",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vます形 + ながら",
+      "meaning_en": "while doing",
+      "meaning_id": "sambil melakukan",
+      "example": "食べながら",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "Vます形 + すぎる",
+      "meaning_en": "do too much",
+      "meaning_id": "terlalu banyak melakukan",
+      "example": "食べすぎる",
+      "jlpt": "N5"
     }
   ],
-  "tags": {
-    "difficultyBand": "basic",
-    "wordType": "verb",
-    "register": "neutral",
-    "isIrregular": false
-  },
-  "srsMeta": {
-    "difficultyWeight": 0.1,
-    "reviewPriority": 2
-  },
   "lessons": []
 }
