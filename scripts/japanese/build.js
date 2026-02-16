@@ -4,24 +4,19 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { toRomaji } from 'wanakana';
 
-// V3 enrichment modules
-import { detectVerbClass, conjugate } from './enrich/conjugation.js';
+// Enrichment modules
 import { loadPitchDict, lookupPitch } from './enrich/pitch.js';
-import { attachExpressions } from './enrich/expressions.js';
+import { extractIdioms } from './enrich/idioms.js';
 import { filterSenses, filterRelatedByJlpt, JLPT_RANK } from './enrich/filters.js';
-import { initAudio, isAudioEnabled, generateAudio } from './enrich/audio.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..', '..');
 
-const DATA_DIR = join(ROOT, 'data', 'japanese');
 const INDICES_DIR = join(ROOT, 'indices', 'japanese');
 const JLPT_EN_DIR = join(ROOT, 'jlpt_files', 'en');
 const JLPT_ID_DIR = join(ROOT, 'jlpt_files', 'id');
 const OUT_EN = join(ROOT, 'dist', 'japanese', 'en');
 const OUT_ID = join(ROOT, 'dist', 'japanese', 'id');
-const AUDIO_WORD_DIR = join(ROOT, 'dist', 'audio', 'japanese', 'word');
-const AUDIO_LESSON_DIR = join(ROOT, 'dist', 'audio', 'japanese', 'lesson');
 
 // ── helpers ──────────────────────────────────
 
@@ -46,14 +41,8 @@ function freqRank(priority) {
   return null;
 }
 
-function jlptLabel(old) {
-  return { 4: 'N5', 3: 'N4', 2: 'N2', 1: 'N1' }[old] ?? null;
-}
-
-
 /**
  * Analyze sentence complexity and assign proficiency level.
- * Factors: length, kanji count, kanji grade levels.
  */
 function analyzeSentenceLevel(sentence, kanjidic2) {
   const chars = [...sentence];
@@ -61,7 +50,6 @@ function analyzeSentenceLevel(sentence, kanjidic2) {
   const kanjiCount = kanjiChars.length;
   const length = chars.length;
 
-  // Count kanji by grade
   let maxGrade = 0;
   let hasAdvancedKanji = false;
   for (const ch of kanjiChars) {
@@ -74,32 +62,26 @@ function analyzeSentenceLevel(sentence, kanjidic2) {
     if (!k.grade) hasAdvancedKanji = true;
   }
 
-  // Scoring
   let score = 0;
 
-  // Length factor
   if (length <= 10) score += 0;
   else if (length <= 15) score += 1;
   else if (length <= 25) score += 2;
   else score += 3;
 
-  // Kanji count factor
   if (kanjiCount === 0) score += 0;
   else if (kanjiCount <= 2) score += 1;
   else if (kanjiCount <= 5) score += 2;
   else score += 3;
 
-  // Kanji grade factor
   if (maxGrade === 0) score += 0;
   else if (maxGrade <= 2) score += 0;
   else if (maxGrade <= 4) score += 1;
   else if (maxGrade <= 6) score += 2;
   else score += 3;
 
-  // Advanced/ungraded kanji
   if (hasAdvancedKanji) score += 2;
 
-  // Map score to level
   if (score <= 1) return 'newbie';
   if (score <= 3) return 'elementary';
   if (score <= 6) return 'intermediate';
@@ -135,7 +117,7 @@ function buildExamplesIndex(tatoeba, targetWords) {
       if (pair.japanese.includes(w)) {
         if (!index.has(w)) index.set(w, []);
         index.get(w).push({ japanese: pair.japanese, english: pair.english });
-        if (index.get(w).length >= 6) toRemove.push(w);
+        if (index.get(w).length >= 15) toRemove.push(w);
       }
     }
     for (const w of toRemove) remaining.delete(w);
@@ -218,7 +200,7 @@ function filterExamples(rawExamples, sourceJlpt, kanjidic2) {
 
       return true;
     })
-    .slice(0, 2);
+    .slice(0, 20); // Up to 10 lessons
 }
 
 // ── main ─────────────────────────────────────
@@ -227,14 +209,12 @@ async function main() {
   const args = process.argv.slice(2);
   const levelFlag = args.find((a) => a.startsWith('--level='))?.split('=')[1]?.toUpperCase();
   const wordFlag = args.find((a) => a.startsWith('--word='))?.split('=')[1];
-  const skipAudio = args.includes('--skip-audio');
 
   if (args.includes('--help')) {
     console.log('Usage:');
     console.log('  node build.js                   # all JLPT words');
     console.log('  node build.js --level=N5         # one level');
     console.log('  node build.js --word=食べる      # one word');
-    console.log('  node build.js --skip-audio       # skip TTS generation');
     process.exit(0);
   }
 
@@ -252,13 +232,7 @@ async function main() {
 
   // ── load pitch data ──
   console.log('Loading pitch data...');
-  loadPitchDict(DATA_DIR);
-
-  // ── init audio ──
-  if (!skipAudio) {
-    console.log('Initialising audio...');
-    initAudio();
-  }
+  loadPitchDict(join(ROOT, 'data', 'japanese'));
 
   // ── load JLPT word lists ──
   console.log('Loading JLPT words...');
@@ -302,16 +276,12 @@ async function main() {
   // ── generate ──
   mkdirSync(OUT_EN, { recursive: true });
   mkdirSync(OUT_ID, { recursive: true });
-  if (isAudioEnabled()) {
-    mkdirSync(AUDIO_WORD_DIR, { recursive: true });
-    mkdirSync(AUDIO_LESSON_DIR, { recursive: true });
-  }
 
   let ok = 0;
   let skip = 0;
 
   for (const jw of words) {
-    // ── step 1: generate-base (JMdict lookup) ──
+    // ── step 1: JMdict lookup ──
     let seqs = jmdict.wordLookup[jw.word];
     if (!seqs?.length) seqs = jmdict.readingLookup[jw.word];
     if (!seqs?.length) {
@@ -339,7 +309,7 @@ async function main() {
     const r = primary.readings[0] || jw.reading;
     const sourceFreq = freqRank(primary.priority);
 
-    // ── step 2: filter senses (V3: remove inappropriate content) ──
+    // ── step 2: filter senses ──
     const filteredSenses = filterSenses(primary.senses, jw.jlpt);
     if (filteredSenses.length === 0) {
       skip++;
@@ -358,15 +328,11 @@ async function main() {
       meanings: idMeaningSplit && idx === 0 ? idMeaningSplit : enEntry.meanings,
     }));
 
-    // ── step 3: build-conjugation (V3) ──
+    // ── step 3: pitch accent ──
     const allPos = filteredSenses.flatMap((s) => s.pos);
-    const verbClass = detectVerbClass(allPos);
-    const conjugation = conjugate(w, r, verbClass);
-
-    // ── step 4: build-pitch (V3) ──
     const pitch = lookupPitch(r);
 
-    // ── step 5: related (scored, noise-filtered, JLPT-filtered, POS-aware) ──
+    // ── step 4: related words ──
     const sourcePosSet = new Set(allPos);
     const isInterjection = allPos.some((p) => p.toLowerCase().includes('interjection'));
 
@@ -412,10 +378,10 @@ async function main() {
       }));
     }
 
-    // ── step 7: attach-expressions (V4, generic + applied examples) ──
-    const expressions = attachExpressions(allPos, jw.jlpt, w, conjugation);
+    // ── step 5: extract idioms ──
+    const idioms = extractIdioms(w, jmdict, sourceFreq, matched);
 
-    // ── step 8: lessons (upgraded from examples) ──
+    // ── step 6: lessons ──
     const rawExamples = exIdx?.get(jw.word) ?? [];
     const examples = filterExamples(rawExamples, jw.jlpt, kanjidic2);
 
@@ -423,7 +389,6 @@ async function main() {
       japanese: ex.japanese,
       reading: null,
       english: ex.english,
-      audioUrl: null,
       lessonInfo: {
         level: analyzeSentenceLevel(ex.japanese, kanjidic2),
       },
@@ -433,31 +398,12 @@ async function main() {
       japanese: ex.japanese,
       reading: null,
       indonesian: ex.english,
-      audioUrl: null,
       lessonInfo: {
         level: analyzeSentenceLevel(ex.japanese, kanjidic2),
       },
     }));
 
-    // ── step 9: generate audio (word + lessons) ──
-    let wordAudioUrl = null;
-
-    if (isAudioEnabled()) {
-      const wordAudioPath = join(AUDIO_WORD_DIR, `${jw.word}.mp3`);
-      const generated = await generateAudio(r, wordAudioPath);
-      if (generated) wordAudioUrl = `/audio/japanese/word/${jw.word}.mp3`;
-
-      for (let i = 0; i < examples.length; i++) {
-        const lessonPath = join(AUDIO_LESSON_DIR, `${jw.word}-${i}.mp3`);
-        const ok = await generateAudio(examples[i].japanese, lessonPath);
-        if (ok) {
-          enLessons[i].audioUrl = `/audio/japanese/lesson/${jw.word}-${i}.mp3`;
-          idLessons[i].audioUrl = `/audio/japanese/lesson/${jw.word}-${i}.mp3`;
-        }
-      }
-    }
-
-    // ── step 10: write-en ──
+    // ── step 7: write output ──
     const en = {
       definition: {
         word: w,
@@ -465,17 +411,14 @@ async function main() {
         romaji: toRomaji(r),
         jlpt: jw.jlpt,
         frequency: sourceFreq,
-        audioUrl: wordAudioUrl,
         entries: enEntries,
       },
-      ...(conjugation && { conjugation }),
       ...(pitch && { pitch }),
       related,
-      expressions,
+      idioms,
       lessons: enLessons,
     };
 
-    // ── step 11: translate-id + write-id ──
     const id = {
       definition: {
         word: w,
@@ -483,13 +426,11 @@ async function main() {
         romaji: toRomaji(r),
         jlpt: jw.jlpt,
         frequency: sourceFreq,
-        audioUrl: wordAudioUrl,
         entries: idEntries,
       },
-      ...(conjugation && { conjugation }),
       ...(pitch && { pitch }),
       related: idRelated,
-      expressions,
+      idioms,
       lessons: idLessons,
     };
 
@@ -499,8 +440,7 @@ async function main() {
     ok++;
   }
 
-  const audioStatus = isAudioEnabled() ? ' (with audio)' : ' (no audio)';
-  console.log(`\nDone. ${ok} generated, ${skip} skipped${audioStatus}.`);
+  console.log(`\nDone. ${ok} generated, ${skip} skipped.`);
 }
 
 main();
