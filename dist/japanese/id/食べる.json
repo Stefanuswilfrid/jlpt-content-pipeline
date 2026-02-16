@@ -14,8 +14,34 @@
         "meanings": [
           "untuk makan"
         ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to live on (e.g. a salary)",
+          "to live off",
+          "to subsist on"
+        ]
       }
     ]
+  },
+  "conjugation": {
+    "type": "ichidan",
+    "dictionary": "食べる",
+    "masu": "食べます",
+    "nai": "食べない",
+    "ta": "食べた",
+    "te": "食べて",
+    "potential": "食べられる",
+    "passive": "食べられる",
+    "causative": "食べさせる"
+  },
+  "pitch": {
+    "pattern": 2,
+    "type": "nakadaka"
   },
   "kanji": [
     {
@@ -43,53 +69,34 @@
     {
       "word": "食べ物",
       "reading": "たべもの",
-      "meaning": "food"
-    },
-    {
-      "word": "食堂",
-      "reading": "しょくどう",
-      "meaning": "dining room"
-    },
-    {
-      "word": "試食",
-      "reading": "ししょく",
-      "meaning": "sampling food"
-    },
-    {
-      "word": "飽食",
-      "reading": "ほうしょく",
-      "meaning": "eating until one is full"
-    },
-    {
-      "word": "食べ過ぎる",
-      "reading": "たべすぎる",
-      "meaning": "to overeat"
-    },
-    {
-      "word": "腐食",
-      "reading": "ふしょく",
-      "meaning": "rot"
-    },
-    {
-      "word": "飲み食い",
-      "reading": "のみくい",
-      "meaning": "food and drink"
-    },
-    {
-      "word": "侵食",
-      "reading": "しんしょく",
-      "meaning": "encroachment"
-    },
-    {
-      "word": "食らう",
-      "reading": "くらう",
-      "meaning": "to eat"
-    },
-    {
-      "word": "飲食",
-      "reading": "いんしょく",
-      "meaning": "food and drink"
+      "meaning": "makanan"
     }
   ],
+  "expressions": [
+    {
+      "pattern": "V(dict.) + ことができる",
+      "meaning_en": "can do V",
+      "meaning_id": "bisa melakukan V",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "V(te) + ください",
+      "meaning_en": "please do V",
+      "meaning_id": "tolong lakukan V",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "V(masu stem) + たい",
+      "meaning_en": "want to V",
+      "meaning_id": "ingin V",
+      "jlpt": "N5"
+    }
+  ],
+  "tags": {
+    "difficultyBand": "basic",
+    "wordType": "verb",
+    "register": "neutral",
+    "isIrregular": false
+  },
   "examples": []
 }

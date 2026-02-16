@@ -3,9 +3,17 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { toRomaji } from 'wanakana';
 
+// V3 enrichment modules
+import { detectVerbClass, conjugate } from './enrich/conjugation.js';
+import { loadPitchDict, lookupPitch } from './enrich/pitch.js';
+import { attachExpressions } from './enrich/expressions.js';
+import { buildTags } from './enrich/tags.js';
+import { filterSenses, filterRelatedByJlpt, JLPT_RANK } from './enrich/filters.js';
+
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..', '..');
 
+const DATA_DIR = join(ROOT, 'data', 'japanese');
 const INDICES_DIR = join(ROOT, 'indices', 'japanese');
 const JLPT_EN_DIR = join(ROOT, 'jlpt_files', 'en');
 const JLPT_ID_DIR = join(ROOT, 'jlpt_files', 'id');
@@ -14,11 +22,13 @@ const OUT_ID = join(ROOT, 'dist', 'japanese', 'id');
 
 // ── helpers ──────────────────────────────────
 
-function loadJSON(p) { return JSON.parse(readFileSync(p, 'utf-8')); }
+function loadJSON(p) {
+  return JSON.parse(readFileSync(p, 'utf-8'));
+}
 
 function isKanji(ch) {
   const c = ch.codePointAt(0);
-  return (c >= 0x4E00 && c <= 0x9FFF) || (c >= 0x3400 && c <= 0x4DBF);
+  return (c >= 0x4e00 && c <= 0x9fff) || (c >= 0x3400 && c <= 0x4dbf);
 }
 
 function freqRank(priority) {
@@ -36,8 +46,6 @@ function freqRank(priority) {
 function jlptLabel(old) {
   return { 4: 'N5', 3: 'N4', 2: 'N2', 1: 'N1' }[old] ?? null;
 }
-
-const JLPT_RANK = { N5: 5, N4: 4, N3: 3, N2: 2, N1: 1 };
 
 // ── load JLPT word lists ─────────────────────
 
@@ -76,7 +84,7 @@ function buildExamplesIndex(tatoeba, targetWords) {
   return index;
 }
 
-// ── v2: score + filter related words ─────────
+// ── score + filter related words ─────────────
 
 function scoreRelated(candidate, sourceWord, sourceJlpt, sourceFreq, sourcePosSet, jlptMap) {
   let score = 0;
@@ -85,22 +93,23 @@ function scoreRelated(candidate, sourceWord, sourceJlpt, sourceFreq, sourcePosSe
   const cJlpt = jlptMap.get(cWord) ?? null;
   const cPos = new Set(candidate.senses.flatMap((s) => s.pos));
 
-  // shared kanji count
   const sourceKanji = new Set([...sourceWord].filter(isKanji));
   for (const ch of cWord) {
     if (sourceKanji.has(ch)) score += 1;
   }
 
-  // same JLPT level
   if (cJlpt && sourceJlpt && cJlpt === sourceJlpt) score += 2;
-
-  // frequency proximity (both have freq, diff < 3000)
   if (cFreq != null && sourceFreq != null && Math.abs(cFreq - sourceFreq) < 3000) score += 1;
 
-  // shared POS
+  let posOverlap = false;
   for (const p of cPos) {
-    if (sourcePosSet.has(p)) { score += 1; break; }
+    if (sourcePosSet.has(p)) {
+      posOverlap = true;
+      score += 2;
+      break;
+    }
   }
+  if (!posOverlap) score -= 1;
 
   return score;
 }
@@ -108,21 +117,17 @@ function scoreRelated(candidate, sourceWord, sourceJlpt, sourceFreq, sourcePosSe
 function isNoise(entry, kanjidic2) {
   const w = entry.kanji[0] || entry.readings[0];
 
-  // exclude words with 4+ kanji characters
   const kanjiCount = [...w].filter(isKanji).length;
   if (kanjiCount >= 4) return true;
 
-  // exclude archaisms and proverb-style
   for (const s of entry.senses) {
     for (const m of s.misc) {
       if (m.includes('archais') || m.includes('obsolete')) return true;
     }
   }
 
-  // exclude very long compound words (likely proverb-style)
   if (w.length > 6) return true;
 
-  // exclude words containing rare kanji (not taught in school grades 1-9)
   for (const ch of w) {
     if (isKanji(ch)) {
       const k = kanjidic2[ch];
@@ -133,7 +138,7 @@ function isNoise(entry, kanjidic2) {
   return false;
 }
 
-// ── v2: filter examples ──────────────────────
+// ── filter examples ──────────────────────────
 
 function filterExamples(rawExamples, sourceJlpt, kanjidic2) {
   const maxLen = 30;
@@ -141,11 +146,8 @@ function filterExamples(rawExamples, sourceJlpt, kanjidic2) {
 
   return rawExamples
     .filter((ex) => {
-      // length gate
       if (ex.japanese.length > maxLen) return false;
 
-      // check kanji grade: all kanji should be grade <= appropriate level
-      // N5→grade 1-2, N4→grade 1-4, N3→grade 1-6, N2/N1→any
       const maxGrade = jlptNum >= 4 ? 2 : jlptNum === 3 ? 4 : jlptNum === 2 ? 6 : 99;
       for (const ch of ex.japanese) {
         if (isKanji(ch) && kanjidic2[ch]) {
@@ -156,94 +158,7 @@ function filterExamples(rawExamples, sourceJlpt, kanjidic2) {
 
       return true;
     })
-    .slice(0, 3);
-}
-
-// ── assemble word JSON ───────────────────────
-
-function buildWord(word, reading, jlpt, entries, jmdict, kanjidic2, exIdx, jlptMap) {
-  // Prefer exact kanji match; fall back to reading match.
-  let seqs = jmdict.wordLookup[word];
-  if (!seqs?.length) seqs = jmdict.readingLookup[word];
-  if (!seqs?.length) return null;
-
-  // For reading-only lookups with multiple matches, pick the entry
-  // with the highest frequency. Avoids できる→出切る (rare) over 出来る (ichi1).
-  let primarySeq = seqs[0];
-  if (!jmdict.wordLookup[word] && seqs.length > 1) {
-    primarySeq = [...seqs].sort((a, b) => {
-      const fa = freqRank(jmdict.entries[a]?.priority ?? []) ?? 99999;
-      const fb = freqRank(jmdict.entries[b]?.priority ?? []) ?? 99999;
-      return fa - fb;
-    })[0];
-  }
-
-  const matched = new Set(seqs);
-  const primary = jmdict.entries[primarySeq];
-  const w = primary.kanji[0] || primary.readings[0];
-  const r = primary.readings[0] || reading;
-  const sourceFreq = freqRank(primary.priority);
-  const sourcePosSet = new Set(primary.senses.flatMap((s) => s.pos));
-
-  // kanji
-  const kanji = [];
-  for (const ch of w) {
-    if (isKanji(ch) && kanjidic2[ch]) {
-      const k = kanjidic2[ch];
-      kanji.push({
-        character: k.character,
-        meanings: k.meanings,
-        onyomi: k.onyomi,
-        kunyomi: k.kunyomi,
-        strokeCount: k.strokeCount,
-        jlpt: jlptLabel(k.jlpt),
-        grade: k.grade,
-      });
-    }
-  }
-
-  // related — v2: scored + noise-filtered, top 10
-  const relSeqs = new Set();
-  for (const ch of w) {
-    if (isKanji(ch) && jmdict.kanjiCharIndex[ch]) {
-      for (const s of jmdict.kanjiCharIndex[ch]) {
-        if (!matched.has(s)) relSeqs.add(s);
-      }
-    }
-  }
-
-  const related = [...relSeqs]
-    .map((s) => jmdict.entries[s])
-    .filter((e) => e?.priority.length > 0 && !isNoise(e, kanjidic2))
-    .map((e) => ({
-      entry: e,
-      score: scoreRelated(e, w, jlpt, sourceFreq, sourcePosSet, jlptMap),
-    }))
-    .sort((a, b) => b.score - a.score || (freqRank(a.entry.priority) ?? 99999) - (freqRank(b.entry.priority) ?? 99999))
-    .slice(0, 10)
-    .map(({ entry: e }) => ({
-      word: e.kanji[0] || e.readings[0],
-      reading: e.readings[0],
-      meaning: e.senses[0]?.meanings[0] ?? '',
-    }));
-
-  // examples — v2: filtered by length + kanji grade, top 3
-  const rawExamples = exIdx?.get(word) ?? [];
-  const examples = filterExamples(rawExamples, jlpt, kanjidic2);
-
-  return {
-    definition: {
-      word: w,
-      reading: r,
-      romaji: toRomaji(r),
-      jlpt,
-      frequency: sourceFreq,
-      entries,
-    },
-    kanji,
-    related,
-    examples,
-  };
+    .slice(0, 2);
 }
 
 // ── main ─────────────────────────────────────
@@ -261,10 +176,10 @@ function main() {
     process.exit(0);
   }
 
-  // load indices
+  // ── load indices ──
   for (const f of ['jmdict.json', 'kanjidic2.json']) {
     if (!existsSync(join(INDICES_DIR, f))) {
-      console.error(`Missing ${f}. Run: npm run jp:download:core && npm run jp:build`);
+      console.error(`Missing ${f}. Run: npm run jp:download:core && npm run jp:build-indices`);
       process.exit(1);
     }
   }
@@ -273,7 +188,11 @@ function main() {
   const jmdict = loadJSON(join(INDICES_DIR, 'jmdict.json'));
   const kanjidic2 = loadJSON(join(INDICES_DIR, 'kanjidic2.json'));
 
-  // load JLPT
+  // ── load pitch data ──
+  console.log('Loading pitch data...');
+  loadPitchDict(DATA_DIR);
+
+  // ── load JLPT word lists ──
   console.log('Loading JLPT words...');
   const enWords = loadJlptWords(JLPT_EN_DIR);
   const idWords = loadJlptWords(JLPT_ID_DIR);
@@ -281,7 +200,6 @@ function main() {
   const idMeaningMap = new Map();
   for (const w of idWords) idMeaningMap.set(w.word, w.meaning);
 
-  // word → JLPT level map (for related scoring)
   const jlptMap = new Map();
   for (const w of enWords) {
     if (!jlptMap.has(w.word)) jlptMap.set(w.word, w.jlpt);
@@ -300,7 +218,7 @@ function main() {
 
   console.log(`${words.length} words to process.`);
 
-  // tatoeba (optional, single-pass index)
+  // ── tatoeba (optional) ──
   let exIdx = null;
   const tatPath = join(INDICES_DIR, 'tatoeba.json');
   if (existsSync(tatPath)) {
@@ -313,7 +231,7 @@ function main() {
     console.log(`  Examples found for ${exIdx.size} words.`);
   }
 
-  // generate
+  // ── generate ──
   mkdirSync(OUT_EN, { recursive: true });
   mkdirSync(OUT_ID, { recursive: true });
 
@@ -321,30 +239,184 @@ function main() {
   let skip = 0;
 
   for (const jw of words) {
-    // JMdict entries for EN (detailed English)
-    const seqs = jmdict.wordLookup[jw.word] || jmdict.readingLookup[jw.word];
-    if (!seqs?.length) { skip++; continue; }
+    // ── step 1: generate-base (JMdict lookup) ──
+    let seqs = jmdict.wordLookup[jw.word];
+    if (!seqs?.length) seqs = jmdict.readingLookup[jw.word];
+    if (!seqs?.length) {
+      skip++;
+      continue;
+    }
 
-    const enEntries = seqs
-      .map((s) => jmdict.entries[s])
-      .filter(Boolean)
-      .flatMap((e) => e.senses.map((s) => ({ pos: s.pos, meanings: s.meanings })));
+    let primarySeq = seqs[0];
+    if (!jmdict.wordLookup[jw.word] && seqs.length > 1) {
+      primarySeq = [...seqs].sort((a, b) => {
+        const fa = freqRank(jmdict.entries[a]?.priority ?? []) ?? 99999;
+        const fb = freqRank(jmdict.entries[b]?.priority ?? []) ?? 99999;
+        return fa - fb;
+      })[0];
+    }
 
-    // ID entries: JLPT ID meaning (brief), fallback to EN
+    const matched = new Set(seqs);
+    const primary = jmdict.entries[primarySeq];
+    if (!primary) {
+      skip++;
+      continue;
+    }
+
+    const w = primary.kanji[0] || primary.readings[0];
+    const r = primary.readings[0] || jw.reading;
+    const sourceFreq = freqRank(primary.priority);
+
+    // ── step 2: filter senses (V3: remove inappropriate content) ──
+    const filteredSenses = filterSenses(primary.senses, jw.jlpt);
+    if (filteredSenses.length === 0) {
+      skip++;
+      continue;
+    }
+
+    const enEntries = filteredSenses.map((s) => ({
+      pos: s.pos,
+      meanings: s.meanings,
+    }));
+
     const idMeaning = idMeaningMap.get(jw.word);
-    const idEntries = idMeaning
-      ? [{ pos: enEntries[0]?.pos ?? [], meanings: idMeaning.split(/,\s*/) }]
-      : enEntries;
+    const idMeaningSplit = idMeaning ? idMeaning.split(/,\s*/).map((m) => m.trim()) : null;
+    const idEntries = enEntries.map((enEntry, idx) => ({
+      pos: enEntry.pos,
+      meanings: idMeaningSplit && idx === 0 ? idMeaningSplit : enEntry.meanings,
+    }));
 
-    // EN file
-    const en = buildWord(jw.word, jw.reading, jw.jlpt, enEntries, jmdict, kanjidic2, exIdx, jlptMap);
-    if (!en) { skip++; continue; }
+    // ── step 3: build-conjugation (V3) ──
+    const allPos = filteredSenses.flatMap((s) => s.pos);
+    const verbClass = detectVerbClass(allPos);
+    const conjugation = conjugate(w, r, verbClass);
 
-    // ID file (same structure, different meanings)
-    const id = buildWord(jw.word, jw.reading, jw.jlpt, idEntries, jmdict, kanjidic2, exIdx, jlptMap);
+    // ── step 4: build-pitch (V3) ──
+    const pitch = lookupPitch(r);
+
+    // ── step 5: kanji ──
+    const kanji = [];
+    for (const ch of w) {
+      if (isKanji(ch) && kanjidic2[ch]) {
+        const k = kanjidic2[ch];
+        kanji.push({
+          character: k.character,
+          meanings: k.meanings,
+          onyomi: k.onyomi,
+          kunyomi: k.kunyomi,
+          strokeCount: k.strokeCount,
+          jlpt: jlptLabel(k.jlpt),
+          grade: k.grade,
+        });
+      }
+    }
+
+    // ── step 6: related (scored, noise-filtered, JLPT-filtered, POS-aware) ──
+    const sourcePosSet = new Set(allPos);
+    const isInterjection = allPos.some((p) => p.toLowerCase().includes('interjection'));
+
+    let related = [];
+    let idRelated = [];
+
+    if (!isInterjection) {
+      const relSeqs = new Set();
+      for (const ch of w) {
+        if (isKanji(ch) && jmdict.kanjiCharIndex[ch]) {
+          for (const s of jmdict.kanjiCharIndex[ch]) {
+            if (!matched.has(s)) relSeqs.add(s);
+          }
+        }
+      }
+
+      related = [...relSeqs]
+        .map((s) => jmdict.entries[s])
+        .filter((e) => e?.priority.length > 0 && !isNoise(e, kanjidic2))
+        .map((e) => ({
+          entry: e,
+          score: scoreRelated(e, w, jw.jlpt, sourceFreq, sourcePosSet, jlptMap),
+        }))
+        .filter(({ score }) => score > 0)
+        .sort(
+          (a, b) =>
+            b.score - a.score ||
+            (freqRank(a.entry.priority) ?? 99999) - (freqRank(b.entry.priority) ?? 99999)
+        )
+        .slice(0, 20)
+        .map(({ entry: e }) => ({
+          word: e.kanji[0] || e.readings[0],
+          reading: e.readings[0],
+          meaning: e.senses[0]?.meanings[0] ?? '',
+        }));
+
+      related = filterRelatedByJlpt(related, jw.jlpt, jlptMap);
+      related = related.slice(0, 8);
+
+      idRelated = related.map((rel) => ({
+        ...rel,
+        meaning: idMeaningMap.get(rel.word) ?? rel.meaning,
+      }));
+    }
+
+    // ── step 7: attach-expressions (V3) ──
+    const expressions = attachExpressions(allPos, jw.jlpt);
+
+    // ── step 8: attach-tags (V3) ──
+    const tags = buildTags(allPos, jw.jlpt, kanji, filteredSenses);
+
+    // ── step 9: examples ──
+    const rawExamples = exIdx?.get(jw.word) ?? [];
+    const examples = filterExamples(rawExamples, jw.jlpt, kanjidic2);
+
+    const enExamples = examples.map((ex) => ({
+      japanese: ex.japanese,
+      english: ex.english,
+    }));
+
+    const idExamples = examples.map((ex) => ({
+      japanese: ex.japanese,
+      indonesian: ex.english,
+    }));
+
+    // ── step 10: write-en ──
+    const en = {
+      definition: {
+        word: w,
+        reading: r,
+        romaji: toRomaji(r),
+        jlpt: jw.jlpt,
+        frequency: sourceFreq,
+        entries: enEntries,
+      },
+      ...(conjugation && { conjugation }),
+      ...(pitch && { pitch }),
+      kanji,
+      related,
+      expressions,
+      tags,
+      examples: enExamples,
+    };
+
+    // ── step 11: translate-id + write-id ──
+    const id = {
+      definition: {
+        word: w,
+        reading: r,
+        romaji: toRomaji(r),
+        jlpt: jw.jlpt,
+        frequency: sourceFreq,
+        entries: idEntries,
+      },
+      ...(conjugation && { conjugation }),
+      ...(pitch && { pitch }),
+      kanji,
+      related: idRelated,
+      expressions,
+      tags,
+      examples: idExamples,
+    };
 
     writeFileSync(join(OUT_EN, `${jw.word}.json`), JSON.stringify(en, null, 2));
-    if (id) writeFileSync(join(OUT_ID, `${jw.word}.json`), JSON.stringify(id, null, 2));
+    writeFileSync(join(OUT_ID, `${jw.word}.json`), JSON.stringify(id, null, 2));
 
     ok++;
   }

@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "嗚呼",
+    "reading": "ああ",
+    "romaji": "aa",
+    "jlpt": "N5",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "Ah!",
+          "Oh!"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "yes",
+          "indeed",
+          "that is correct"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "aah",
+          "gah",
+          "argh"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "hey!",
+          "yo!"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "uh huh",
+          "yeah yeah",
+          "right",
+          "gotcha"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "嗚",
+      "meanings": [
+        "weep",
+        "ah",
+        "alas"
+      ],
+      "onyomi": [
+        "ウ",
+        "オ"
+      ],
+      "kunyomi": [
+        "ああ"
+      ],
+      "strokeCount": 13,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "呼",
+      "meanings": [
+        "call",
+        "call out to",
+        "invite"
+      ],
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "よ.ぶ"
+      ],
+      "strokeCount": 8,
+      "jlpt": "N2",
+      "grade": 6
+    }
+  ],
+  "related": [],
+  "expressions": [],
+  "tags": {
+    "difficultyBand": "basic",
+    "wordType": "interjection",
+    "register": "neutral",
+    "isIrregular": false
+  },
+  "examples": []
+}

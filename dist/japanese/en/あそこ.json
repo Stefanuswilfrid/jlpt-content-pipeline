@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "彼処",
+    "reading": "あそこ",
+    "romaji": "asoko",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "there",
+          "over there",
+          "that place",
+          "yonder",
+          "you-know-where"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "genitals",
+          "private parts",
+          "nether regions"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "that far",
+          "that much",
+          "that point"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "彼",
+      "meanings": [
+        "he",
+        "that",
+        "the"
+      ],
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "かれ",
+        "かの",
+        "か.の"
+      ],
+      "strokeCount": 8,
+      "jlpt": "N2",
+      "grade": 8
+    },
+    {
+      "character": "処",
+      "meanings": [
+        "dispose",
+        "manage",
+        "deal with",
+        "sentence",
+        "condemn",
+        "act",
+        "behave",
+        "place"
+      ],
+      "onyomi": [
+        "ショ"
+      ],
+      "kunyomi": [
+        "ところ",
+        "-こ",
+        "お.る"
+      ],
+      "strokeCount": 5,
+      "jlpt": "N2",
+      "grade": 6
+    }
+  ],
+  "related": [
+    {
+      "word": "所",
+      "reading": "ところ",
+      "meaning": "place"
+    },
+    {
+      "word": "彼",
+      "reading": "あれ",
+      "meaning": "that"
+    },
+    {
+      "word": "彼",
+      "reading": "かれ",
+      "meaning": "he"
+    },
+    {
+      "word": "彼ら",
+      "reading": "かれら",
+      "meaning": "they"
+    },
+    {
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "she"
+    }
+  ],
+  "expressions": [
+    {
+      "pattern": "N + です",
+      "meaning_en": "is N",
+      "meaning_id": "adalah N",
+      "jlpt": "N5"
+    }
+  ],
+  "tags": {
+    "isCoreVerb": false,
+    "isIrregular": false,
+    "isHighFrequency": true,
+    "difficultyBand": "core"
+  },
+  "examples": [
+    {
+      "japanese": "わたしはあそこが一番気に入ったわ。",
+      "english": "That's the part I liked best."
+    },
+    {
+      "japanese": "あそこに何もありません。",
+      "english": "There's nothing there."
+    }
+  ]
+}
