@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "行く",
+    "reading": "いく",
+    "romaji": "iku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb - Iku/Yuku special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk pergi"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "行",
+      "meanings": [
+        "going",
+        "journey",
+        "carry out",
+        "conduct",
+        "act",
+        "line",
+        "row",
+        "bank"
+      ],
+      "onyomi": [
+        "コウ",
+        "ギョウ",
+        "アン"
+      ],
+      "kunyomi": [
+        "い.く",
+        "ゆ.く",
+        "-ゆ.き",
+        "-ゆき",
+        "-い.き",
+        "-いき",
+        "おこな.う",
+        "おこ.なう"
+      ],
+      "strokeCount": 6,
+      "jlpt": "N5",
+      "grade": 2
+    }
+  ],
+  "related": [
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "travel"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "airplane"
+    },
+    {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "bank"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "going ahead"
+    },
+    {
+      "word": "同行",
+      "reading": "どうこう",
+      "meaning": "accompanying (someone)"
+    },
+    {
+      "word": "走行",
+      "reading": "そうこう",
+      "meaning": "running (of a car, bus, etc.)"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "fashion"
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "moving forward (e.g. of a vehicle)"
+    },
+    {
+      "word": "暴行",
+      "reading": "ぼうこう",
+      "meaning": "assault"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "行くよ。",
+      "english": "I'm going to go."
+    },
+    {
+      "japanese": "あとで行くね。",
+      "english": "I'm going to go."
+    },
+    {
+      "japanese": "今夜教会に行くよ。",
+      "english": "Tonight we're going to church."
+    }
+  ]
+}

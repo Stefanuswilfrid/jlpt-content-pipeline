@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "出来る",
+    "reading": "できる",
+    "romaji": "dekiru",
+    "jlpt": "N5",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mampu (mencapai)"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "出",
+      "meanings": [
+        "exit",
+        "leave",
+        "go out",
+        "come out",
+        "put out",
+        "protrude"
+      ],
+      "onyomi": [
+        "シュツ",
+        "スイ"
+      ],
+      "kunyomi": [
+        "で.る",
+        "-で",
+        "だ.す",
+        "-だ.す",
+        "い.でる",
+        "い.だす"
+      ],
+      "strokeCount": 5,
+      "jlpt": "N5",
+      "grade": 1
+    },
+    {
+      "character": "来",
+      "meanings": [
+        "come",
+        "due",
+        "next",
+        "cause",
+        "become"
+      ],
+      "onyomi": [
+        "ライ",
+        "タイ"
+      ],
+      "kunyomi": [
+        "く.る",
+        "きた.る",
+        "きた.す",
+        "き.たす",
+        "き.たる",
+        "き",
+        "こ"
+      ],
+      "strokeCount": 7,
+      "jlpt": "N5",
+      "grade": 2
+    }
+  ],
+  "related": [
+    {
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "to leave"
+    },
+    {
+      "word": "来る",
+      "reading": "くる",
+      "meaning": "to come (spatially or temporally)"
+    },
+    {
+      "word": "出かける",
+      "reading": "でかける",
+      "meaning": "to go out (e.g. on an excursion or outing)"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "next year"
+    },
+    {
+      "word": "出す",
+      "reading": "だす",
+      "meaning": "to take out"
+    },
+    {
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "next month"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "next week"
+    },
+    {
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "exit"
+    },
+    {
+      "word": "出来",
+      "reading": "しゅったい",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "going out"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "できるよ！",
+      "english": "You can do it."
+    }
+  ]
+}

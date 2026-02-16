@@ -1,0 +1,228 @@
+{
+  "definition": {
+    "word": "嗚呼",
+    "reading": "ああ",
+    "romaji": "aa",
+    "jlpt": "N5",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "ah!",
+          "oh!",
+          "alas!"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "yes",
+          "indeed",
+          "that is correct"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "aah",
+          "gah",
+          "argh"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "hey!",
+          "yo!"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "uh huh",
+          "yeah yeah",
+          "right",
+          "gotcha"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "like that",
+          "so"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "caw (of a crow, etc.)"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "嗚",
+      "meanings": [
+        "weep",
+        "ah",
+        "alas"
+      ],
+      "onyomi": [
+        "ウ",
+        "オ"
+      ],
+      "kunyomi": [
+        "ああ"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "呼",
+      "meanings": [
+        "call",
+        "call out to",
+        "invite"
+      ],
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "よ.ぶ"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "呼ぶ",
+      "reading": "よぶ",
+      "meaning": "to call out (to)"
+    },
+    {
+      "word": "呼吸",
+      "reading": "こきゅう",
+      "meaning": "breathing"
+    },
+    {
+      "word": "呼びかけ",
+      "reading": "よびかけ",
+      "meaning": "call"
+    },
+    {
+      "word": "呼応",
+      "reading": "こおう",
+      "meaning": "hailing each other"
+    },
+    {
+      "word": "呼びかける",
+      "reading": "よびかける",
+      "meaning": "to call out to"
+    },
+    {
+      "word": "呼吸器",
+      "reading": "こきゅうき",
+      "meaning": "respiratory organs"
+    },
+    {
+      "word": "呼称",
+      "reading": "こしょう",
+      "meaning": "name"
+    },
+    {
+      "word": "呼び出し",
+      "reading": "よびだし",
+      "meaning": "call"
+    },
+    {
+      "word": "人工呼吸",
+      "reading": "じんこうこきゅう",
+      "meaning": "artificial respiration"
+    },
+    {
+      "word": "呼び水",
+      "reading": "よびみず",
+      "meaning": "pump-priming"
+    },
+    {
+      "word": "呼び名",
+      "reading": "よびな",
+      "meaning": "popular name"
+    },
+    {
+      "word": "呼び出す",
+      "reading": "よびだす",
+      "meaning": "to call (someone) to (the door, phone, etc.)"
+    },
+    {
+      "word": "呼び声",
+      "reading": "よびごえ",
+      "meaning": "call"
+    },
+    {
+      "word": "連呼",
+      "reading": "れんこ",
+      "meaning": "calling repeatedly (e.g. someone's name)"
+    },
+    {
+      "word": "呼ばわり",
+      "reading": "よばわり",
+      "meaning": "calling (someone a thief, coward, etc.)"
+    },
+    {
+      "word": "呼び捨て",
+      "reading": "よびすて",
+      "meaning": "addressing (someone) without using a suffix such as \"-san\" or \"-chan\" (considered impolite)"
+    },
+    {
+      "word": "呼び物",
+      "reading": "よびもの",
+      "meaning": "main attraction"
+    },
+    {
+      "word": "点呼",
+      "reading": "てんこ",
+      "meaning": "roll-call"
+    },
+    {
+      "word": "呼び寄せる",
+      "reading": "よびよせる",
+      "meaning": "to call"
+    },
+    {
+      "word": "呼び込む",
+      "reading": "よびこむ",
+      "meaning": "to call in"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "ああ、凄く変だなあ・・・。",
+      "english": "Uh, now it's really weird..."
+    },
+    {
+      "japanese": "「ああ！」は感嘆詞だ。",
+      "english": "\"Ah!\" is an interjection."
+    }
+  ]
+}

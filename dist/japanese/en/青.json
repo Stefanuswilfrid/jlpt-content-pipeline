@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "青",
+    "reading": "あお",
+    "romaji": "ao",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "blue",
+          "azure"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "green"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "green light (traffic)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "black (horse coat color)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "blue 5-point card"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "immature",
+          "unripe",
+          "young"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "青",
+      "meanings": [
+        "blue",
+        "green"
+      ],
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "あお",
+        "あお-",
+        "あお.い"
+      ],
+      "strokeCount": 8,
+      "jlpt": "N4",
+      "grade": 1
+    }
+  ],
+  "related": [
+    {
+      "word": "青年",
+      "reading": "せいねん",
+      "meaning": "youth"
+    },
+    {
+      "word": "青山",
+      "reading": "せいざん",
+      "meaning": "lush mountain"
+    },
+    {
+      "word": "青木",
+      "reading": "あおき",
+      "meaning": "Japanese laurel (Aucuba japonica)"
+    },
+    {
+      "word": "青春",
+      "reading": "せいしゅん",
+      "meaning": "youth"
+    },
+    {
+      "word": "青少年",
+      "reading": "せいしょうねん",
+      "meaning": "young people"
+    },
+    {
+      "word": "青い",
+      "reading": "あおい",
+      "meaning": "blue"
+    },
+    {
+      "word": "青空",
+      "reading": "あおぞら",
+      "meaning": "blue sky"
+    },
+    {
+      "word": "青葉",
+      "reading": "あおば",
+      "meaning": "fresh leaves"
+    },
+    {
+      "word": "青写真",
+      "reading": "あおじゃしん",
+      "meaning": "blueprint"
+    },
+    {
+      "word": "青果",
+      "reading": "せいか",
+      "meaning": "fruits and vegetables"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "顔が青いよ。",
+      "english": "You look pale."
+    }
+  ]
+}

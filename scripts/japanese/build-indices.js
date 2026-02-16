@@ -134,9 +134,13 @@ function buildKanjidic2() {
   xml = xml.replace(/<!DOCTYPE[\s\S]*?\]>/, '');
 
   console.log('Parsing XML...');
+  const K2_ARRAY_TAGS = [
+    'character', 'meaning', 'reading', 'rmgroup',
+    'cp_value', 'rad_value', 'variant', 'nanori', 'q_code',
+  ];
   const parser = new XMLParser({
     ignoreAttributes: false,
-    isArray: (name) => ARRAY_TAGS.includes(name),
+    isArray: (name) => K2_ARRAY_TAGS.includes(name),
   });
   const doc = parser.parse(xml);
   const chars = doc.kanjidic2.character;

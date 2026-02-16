@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "食べる",
+    "reading": "たべる",
+    "romaji": "taberu",
+    "jlpt": "N5",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk makan"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "食",
+      "meanings": [
+        "eat",
+        "food"
+      ],
+      "onyomi": [
+        "ショク",
+        "ジキ"
+      ],
+      "kunyomi": [
+        "く.う",
+        "く.らう",
+        "た.べる",
+        "は.む"
+      ],
+      "strokeCount": 9,
+      "jlpt": "N5",
+      "grade": 2
+    }
+  ],
+  "related": [
+    {
+      "word": "食べ物",
+      "reading": "たべもの",
+      "meaning": "food"
+    },
+    {
+      "word": "食堂",
+      "reading": "しょくどう",
+      "meaning": "dining room"
+    },
+    {
+      "word": "試食",
+      "reading": "ししょく",
+      "meaning": "sampling food"
+    },
+    {
+      "word": "飽食",
+      "reading": "ほうしょく",
+      "meaning": "eating until one is full"
+    },
+    {
+      "word": "食べ過ぎる",
+      "reading": "たべすぎる",
+      "meaning": "to overeat"
+    },
+    {
+      "word": "腐食",
+      "reading": "ふしょく",
+      "meaning": "rot"
+    },
+    {
+      "word": "飲み食い",
+      "reading": "のみくい",
+      "meaning": "food and drink"
+    },
+    {
+      "word": "侵食",
+      "reading": "しんしょく",
+      "meaning": "encroachment"
+    },
+    {
+      "word": "食らう",
+      "reading": "くらう",
+      "meaning": "to eat"
+    },
+    {
+      "word": "飲食",
+      "reading": "いんしょく",
+      "meaning": "food and drink"
+    }
+  ],
+  "examples": []
+}

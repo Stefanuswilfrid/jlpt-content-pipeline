@@ -6,9 +6,8 @@
   "scripts": {
     "jp:download": "node scripts/japanese/download.js",
     "jp:download:core": "node scripts/japanese/download.js --skip-tatoeba",
-    "jp:build": "node scripts/japanese/build-indices.js",
-    "jp:generate": "node scripts/japanese/generate.js",
-    "jp:pipeline": "npm run jp:download:core && npm run jp:build"
+    "jp:build-indices": "node scripts/japanese/build-indices.js",
+    "jp:words": "node scripts/japanese/build.js"
   },
   "dependencies": {
     "fast-xml-parser": "^4.5.0",
