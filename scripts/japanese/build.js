@@ -50,6 +50,63 @@ function jlptLabel(old) {
   return { 4: 'N5', 3: 'N4', 2: 'N2', 1: 'N1' }[old] ?? null;
 }
 
+
+/**
+ * Analyze sentence complexity and assign proficiency level.
+ * Factors: length, kanji count, kanji grade levels.
+ */
+function analyzeSentenceLevel(sentence, kanjidic2) {
+  const chars = [...sentence];
+  const kanjiChars = chars.filter(isKanji);
+  const kanjiCount = kanjiChars.length;
+  const length = chars.length;
+
+  // Count kanji by grade
+  let maxGrade = 0;
+  let hasAdvancedKanji = false;
+  for (const ch of kanjiChars) {
+    const k = kanjidic2[ch];
+    if (!k) {
+      hasAdvancedKanji = true;
+      continue;
+    }
+    if (k.grade && k.grade > maxGrade) maxGrade = k.grade;
+    if (!k.grade) hasAdvancedKanji = true;
+  }
+
+  // Scoring
+  let score = 0;
+
+  // Length factor
+  if (length <= 10) score += 0;
+  else if (length <= 15) score += 1;
+  else if (length <= 25) score += 2;
+  else score += 3;
+
+  // Kanji count factor
+  if (kanjiCount === 0) score += 0;
+  else if (kanjiCount <= 2) score += 1;
+  else if (kanjiCount <= 5) score += 2;
+  else score += 3;
+
+  // Kanji grade factor
+  if (maxGrade === 0) score += 0;
+  else if (maxGrade <= 2) score += 0;
+  else if (maxGrade <= 4) score += 1;
+  else if (maxGrade <= 6) score += 2;
+  else score += 3;
+
+  // Advanced/ungraded kanji
+  if (hasAdvancedKanji) score += 2;
+
+  // Map score to level
+  if (score <= 1) return 'newbie';
+  if (score <= 3) return 'elementary';
+  if (score <= 6) return 'intermediate';
+  if (score <= 9) return 'upper-intermediate';
+  return 'advanced';
+}
+
 // ── load JLPT word lists ─────────────────────
 
 function loadJlptWords(dir) {
@@ -282,14 +339,6 @@ async function main() {
     const r = primary.readings[0] || jw.reading;
     const sourceFreq = freqRank(primary.priority);
 
-    // ── step 1b: collect variants (all alt kanji/reading forms) ──
-    const variants = [
-      ...new Set([
-        ...primary.kanji.filter((k) => k !== w),
-        ...primary.readings.filter((rd) => rd !== w && rd !== r),
-      ]),
-    ];
-
     // ── step 2: filter senses (V3: remove inappropriate content) ──
     const filteredSenses = filterSenses(primary.senses, jw.jlpt);
     if (filteredSenses.length === 0) {
@@ -317,24 +366,7 @@ async function main() {
     // ── step 4: build-pitch (V3) ──
     const pitch = lookupPitch(r);
 
-    // ── step 5: kanji ──
-    const kanji = [];
-    for (const ch of w) {
-      if (isKanji(ch) && kanjidic2[ch]) {
-        const k = kanjidic2[ch];
-        kanji.push({
-          character: k.character,
-          meanings: k.meanings,
-          onyomi: k.onyomi,
-          kunyomi: k.kunyomi,
-          strokeCount: k.strokeCount,
-          jlpt: jlptLabel(k.jlpt),
-          grade: k.grade,
-        });
-      }
-    }
-
-    // ── step 6: related (scored, noise-filtered, JLPT-filtered, POS-aware) ──
+    // ── step 5: related (scored, noise-filtered, JLPT-filtered, POS-aware) ──
     const sourcePosSet = new Set(allPos);
     const isInterjection = allPos.some((p) => p.toLowerCase().includes('interjection'));
 
@@ -393,8 +425,7 @@ async function main() {
       english: ex.english,
       audioUrl: null,
       lessonInfo: {
-        source: 'tatoeba',
-        level: jw.jlpt,
+        level: analyzeSentenceLevel(ex.japanese, kanjidic2),
       },
     }));
 
@@ -404,8 +435,7 @@ async function main() {
       indonesian: ex.english,
       audioUrl: null,
       lessonInfo: {
-        source: 'tatoeba',
-        level: jw.jlpt,
+        level: analyzeSentenceLevel(ex.japanese, kanjidic2),
       },
     }));
 
@@ -436,12 +466,10 @@ async function main() {
         jlpt: jw.jlpt,
         frequency: sourceFreq,
         audioUrl: wordAudioUrl,
-        variants,
         entries: enEntries,
       },
       ...(conjugation && { conjugation }),
       ...(pitch && { pitch }),
-      kanji,
       related,
       expressions,
       lessons: enLessons,
@@ -456,12 +484,10 @@ async function main() {
         jlpt: jw.jlpt,
         frequency: sourceFreq,
         audioUrl: wordAudioUrl,
-        variants,
         entries: idEntries,
       },
       ...(conjugation && { conjugation }),
       ...(pitch && { pitch }),
-      kanji,
       related: idRelated,
       expressions,
       lessons: idLessons,

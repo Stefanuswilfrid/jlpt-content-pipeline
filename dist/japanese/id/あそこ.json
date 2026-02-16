@@ -1,0 +1,161 @@
+{
+  "definition": {
+    "word": "彼処",
+    "reading": "あそこ",
+    "romaji": "asoko",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "audioUrl": null,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "di sana",
+          "di sana",
+          "tempat itu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "genitals",
+          "private parts",
+          "nether regions"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "that far",
+          "that much",
+          "that point"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "所",
+      "reading": "ところ",
+      "meaning": "tempat"
+    },
+    {
+      "word": "彼",
+      "reading": "あれ",
+      "meaning": "dia, pacar"
+    },
+    {
+      "word": "彼",
+      "reading": "かれ",
+      "meaning": "dia, pacar"
+    },
+    {
+      "word": "彼ら",
+      "reading": "かれら",
+      "meaning": "mereka (biasanya laki-laki)"
+    },
+    {
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "pacar; dia"
+    }
+  ],
+  "expressions": [
+    {
+      "pattern": "N + です",
+      "meaning_en": "is",
+      "meaning_id": "adalah",
+      "example": "彼処です",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "N + じゃありません",
+      "meaning_en": "is not",
+      "meaning_id": "bukan",
+      "example": "彼処じゃありません",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "N + でした",
+      "meaning_en": "was",
+      "meaning_id": "adalah (lampau)",
+      "example": "彼処でした",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "N + じゃありませんでした",
+      "meaning_en": "was not",
+      "meaning_id": "bukan (lampau)",
+      "example": "彼処じゃありませんでした",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "N + の",
+      "meaning_en": "possessive / of",
+      "meaning_id": "milik / dari",
+      "example": "彼処の",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "N + も",
+      "meaning_en": "also / too",
+      "meaning_id": "juga",
+      "example": "彼処も",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "N + が好きです",
+      "meaning_en": "like",
+      "meaning_id": "suka",
+      "example": "彼処が好きです",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "N + が嫌いです",
+      "meaning_en": "dislike",
+      "meaning_id": "tidak suka",
+      "example": "彼処が嫌いです",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "N + がほしい",
+      "meaning_en": "want",
+      "meaning_id": "ingin",
+      "example": "彼処がほしい",
+      "jlpt": "N5"
+    },
+    {
+      "pattern": "N + について",
+      "meaning_en": "about / regarding",
+      "meaning_id": "tentang",
+      "example": "彼処について",
+      "jlpt": "N5"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "わたしはあそこが一番気に入ったわ。",
+      "reading": null,
+      "indonesian": "That's the part I liked best.",
+      "audioUrl": null,
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あそこに何もありません。",
+      "reading": null,
+      "indonesian": "There's nothing there.",
+      "audioUrl": null,
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}
