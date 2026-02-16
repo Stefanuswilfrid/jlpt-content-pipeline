@@ -1,0 +1,291 @@
+{
+  "definition": {
+    "word": "学生",
+    "reading": "がくせい",
+    "romaji": "gakusei",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "student (esp. a university student)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Heian-period student of government administration"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Buddhist scholar",
+          "researcher at a Buddhist temple",
+          "person studying Buddhism"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "learning",
+          "scholarship"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "学",
+      "meanings": [
+        "study",
+        "learning",
+        "science"
+      ],
+      "onyomi": [
+        "ガク"
+      ],
+      "kunyomi": [
+        "まな.ぶ"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "生",
+      "meanings": [
+        "life",
+        "genuine",
+        "birth"
+      ],
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "い.きる",
+        "い.かす",
+        "い.ける",
+        "う.まれる",
+        "うま.れる",
+        "う.まれ",
+        "うまれ",
+        "う.む",
+        "お.う",
+        "は.える",
+        "は.やす",
+        "き",
+        "なま",
+        "なま-",
+        "な.る",
+        "な.す",
+        "む.す",
+        "-う"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "school"
+    },
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "university"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "life"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "production"
+    },
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "meaning": "medicine"
+    },
+    {
+      "word": "科学",
+      "reading": "かがく",
+      "meaning": "science"
+    },
+    {
+      "word": "学部",
+      "reading": "がくぶ",
+      "meaning": "faculty (of a university)"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaning": "literature"
+    },
+    {
+      "word": "厚生省",
+      "reading": "こうせいしょう",
+      "meaning": "(former) Ministry of Health and Welfare"
+    },
+    {
+      "word": "新生",
+      "reading": "しんせい",
+      "meaning": "rebirth"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(one's) life"
+    },
+    {
+      "word": "生徒",
+      "reading": "せいと",
+      "meaning": "pupil"
+    },
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "teacher"
+    },
+    {
+      "word": "年生",
+      "reading": "ねんせい",
+      "meaning": "nth-year student"
+    },
+    {
+      "word": "学園",
+      "reading": "がくえん",
+      "meaning": "educational institution"
+    },
+    {
+      "word": "学者",
+      "reading": "がくしゃ",
+      "meaning": "scholar"
+    },
+    {
+      "word": "学習",
+      "reading": "がくしゅう",
+      "meaning": "learning"
+    },
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "primary school"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "中学生",
+      "reading": "ちゅうがくせい",
+      "meaning": "junior high school student"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaning": "very hard"
+    },
+    {
+      "word": "起死回生",
+      "reading": "きしかいせい",
+      "meaning": "revival from the brink of death"
+    },
+    {
+      "word": "生存競争",
+      "reading": "せいぞんきょうそう",
+      "meaning": "struggle for existence"
+    },
+    {
+      "word": "後生大事",
+      "reading": "ごしょうだいじ",
+      "meaning": "with religious zeal"
+    },
+    {
+      "word": "生殺与奪",
+      "reading": "せいさつよだつ",
+      "meaning": "(having) life-and-death power (over)"
+    },
+    {
+      "word": "曲学阿世",
+      "reading": "きょくがくあせい",
+      "meaning": "prostitution of learning"
+    },
+    {
+      "word": "人生哲学",
+      "reading": "じんせいてつがく",
+      "meaning": "philosophy of life"
+    },
+    {
+      "word": "博学多才",
+      "reading": "はくがくたさい",
+      "meaning": "wide knowledge and versatile talents"
+    },
+    {
+      "word": "浅学非才",
+      "reading": "せんがくひさい",
+      "meaning": "one's lack of learning or ability"
+    },
+    {
+      "word": "自学自習",
+      "reading": "じがくじしゅう",
+      "meaning": "teaching oneself"
+    },
+    {
+      "word": "苦学力行",
+      "reading": "くがくりっこう",
+      "meaning": "strenuous pursuit of learning under difficulties"
+    },
+    {
+      "word": "無学文盲",
+      "reading": "むがくもんもう",
+      "meaning": "ignorant and illiterate"
+    },
+    {
+      "word": "よく学びよく遊べ",
+      "reading": "よくまなびよくあそべ",
+      "meaning": "study hard and play hard"
+    },
+    {
+      "word": "外題学問",
+      "reading": "げだいがくもん",
+      "meaning": "putting on a knowing air when one only knows the title of the book (play, etc.)"
+    },
+    {
+      "word": "浅学寡聞",
+      "reading": "せんがくかぶん",
+      "meaning": "shallow learning and limited information"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "「以前にどこかで会ったことがありませんか」とその学生はたずねた。",
+      "reading": null,
+      "english": "\"Haven't we met somewhere before?\" asked the student."
+    },
+    {
+      "japanese": "「以前にどこかで会ったことがありませんか」とその学生はたずねた。",
+      "reading": null,
+      "english": "\"Haven't we met somewhere before?\" asked the student."
+    }
+  ]
+}

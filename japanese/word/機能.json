@@ -1,0 +1,258 @@
+{
+  "definition": {
+    "word": "機能",
+    "reading": "きのう",
+    "romaji": "kinou",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "function",
+          "facility",
+          "faculty",
+          "feature"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "機",
+      "meanings": [
+        "loom",
+        "mechanism",
+        "machine",
+        "airplane",
+        "opportunity",
+        "potency",
+        "efficacy",
+        "occasion"
+      ],
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "はた"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "能",
+      "meanings": [
+        "ability",
+        "talent",
+        "skill",
+        "capacity"
+      ],
+      "onyomi": [
+        "ノウ"
+      ],
+      "kunyomi": [
+        "よ.く",
+        "あた.う"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "危機",
+      "reading": "きき",
+      "meaning": "crisis"
+    },
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "engine"
+    },
+    {
+      "word": "機構",
+      "reading": "きこう",
+      "meaning": "mechanism"
+    },
+    {
+      "word": "可能",
+      "reading": "かのう",
+      "meaning": "possible"
+    },
+    {
+      "word": "可能性",
+      "reading": "かのうせい",
+      "meaning": "possibility"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaning": "chance"
+    },
+    {
+      "word": "能力",
+      "reading": "のうりょく",
+      "meaning": "ability"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaning": "machine"
+    },
+    {
+      "word": "機器",
+      "reading": "きき",
+      "meaning": "device"
+    },
+    {
+      "word": "金融機関",
+      "reading": "きんゆうきかん",
+      "meaning": "financial institutions"
+    },
+    {
+      "word": "航空機",
+      "reading": "こうくうき",
+      "meaning": "aircraft"
+    },
+    {
+      "word": "電機",
+      "reading": "でんき",
+      "meaning": "electrical machinery"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "airplane"
+    },
+    {
+      "word": "芸能",
+      "reading": "げいのう",
+      "meaning": "public entertainment"
+    },
+    {
+      "word": "能",
+      "reading": "のう",
+      "meaning": "talent"
+    },
+    {
+      "word": "機種",
+      "reading": "きしゅ",
+      "meaning": "model (of machine, device)"
+    },
+    {
+      "word": "契機",
+      "reading": "けいき",
+      "meaning": "opportunity"
+    },
+    {
+      "word": "動機",
+      "reading": "どうき",
+      "meaning": "motive"
+    },
+    {
+      "word": "機運",
+      "reading": "きうん",
+      "meaning": "opportunity"
+    },
+    {
+      "word": "好機",
+      "reading": "こうき",
+      "meaning": "good opportunity"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "時期尚早",
+      "reading": "じきしょうそう",
+      "meaning": "premature"
+    },
+    {
+      "word": "臨機応変",
+      "reading": "りんきおうへん",
+      "meaning": "adapting oneself to the requirements of the moment"
+    },
+    {
+      "word": "心機一転",
+      "reading": "しんきいってん",
+      "meaning": "changing one's attitude"
+    },
+    {
+      "word": "危機一髪",
+      "reading": "ききいっぱつ",
+      "meaning": "by a hair's breadth"
+    },
+    {
+      "word": "合縁奇縁",
+      "reading": "あいえんきえん",
+      "meaning": "a couple strangely but happily united"
+    },
+    {
+      "word": "機会均等",
+      "reading": "きかいきんとう",
+      "meaning": "equal opportunity"
+    },
+    {
+      "word": "機略縦横",
+      "reading": "きりゃくじゅうおう",
+      "meaning": "very resourcefully using tactics adapting oneself to the requirements of the moment"
+    },
+    {
+      "word": "好機到来",
+      "reading": "こうきとうらい",
+      "meaning": "advent of a golden opportunity"
+    },
+    {
+      "word": "悪人正機",
+      "reading": "あくにんしょうき",
+      "meaning": "The evil persons are the right object of Amida's salvation"
+    },
+    {
+      "word": "機嫌気褄",
+      "reading": "きげんきづま",
+      "meaning": "humour"
+    },
+    {
+      "word": "時機到来",
+      "reading": "じきとうらい",
+      "meaning": "a good chance coming along"
+    },
+    {
+      "word": "神機妙算",
+      "reading": "しんきみょうさん",
+      "meaning": "inscrutable stratagem"
+    },
+    {
+      "word": "屠蘇機嫌",
+      "reading": "とそきげん",
+      "meaning": "feeling a little drunk with the New Year's sake"
+    },
+    {
+      "word": "好機逸すべからず",
+      "reading": "こうきいっすべからず",
+      "meaning": "make hay while the sun shines"
+    },
+    {
+      "word": "孟母断機の教え",
+      "reading": "もうぼだんきのおしえ",
+      "meaning": "(the lesson that) one should not leave things unfinished"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "ブレーキの機能は車を止めることだ。",
+      "reading": null,
+      "english": "The function of the brake is to stop the car."
+    },
+    {
+      "japanese": "その機能は働かなくなるだろう。",
+      "reading": null,
+      "english": "Its mechanism will cease to work."
+    }
+  ]
+}

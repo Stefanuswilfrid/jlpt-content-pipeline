@@ -1,0 +1,250 @@
+{
+  "definition": {
+    "word": "期間",
+    "reading": "きかん",
+    "romaji": "kikan",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "period",
+          "term",
+          "interval"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "期",
+      "meanings": [
+        "period",
+        "time",
+        "date",
+        "term"
+      ],
+      "onyomi": [
+        "キ",
+        "ゴ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "間",
+      "meanings": [
+        "interval",
+        "space"
+      ],
+      "onyomi": [
+        "カン",
+        "ケン"
+      ],
+      "kunyomi": [
+        "あいだ",
+        "ま",
+        "あい"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaning": "expectation"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    },
+    {
+      "word": "人間",
+      "reading": "にんげん",
+      "meaning": "human being"
+    },
+    {
+      "word": "年間",
+      "reading": "ねんかん",
+      "meaning": "(period of) a year"
+    },
+    {
+      "word": "民間",
+      "reading": "みんかん",
+      "meaning": "private"
+    },
+    {
+      "word": "早期",
+      "reading": "そうき",
+      "meaning": "early stage"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "long-term"
+    },
+    {
+      "word": "中間",
+      "reading": "ちゅうかん",
+      "meaning": "middle"
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaning": "companion"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "term"
+    },
+    {
+      "word": "次期",
+      "reading": "じき",
+      "meaning": "next term"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "fixed period"
+    },
+    {
+      "word": "任期",
+      "reading": "にんき",
+      "meaning": "term of office"
+    },
+    {
+      "word": "会期",
+      "reading": "かいき",
+      "meaning": "session (of a legislature)"
+    },
+    {
+      "word": "短期",
+      "reading": "たんき",
+      "meaning": "short-term"
+    },
+    {
+      "word": "同期",
+      "reading": "どうき",
+      "meaning": "same period"
+    },
+    {
+      "word": "空間",
+      "reading": "くうかん",
+      "meaning": "space"
+    },
+    {
+      "word": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "moment"
+    },
+    {
+      "word": "前期",
+      "reading": "ぜんき",
+      "meaning": "first term"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "時期尚早",
+      "reading": "じきしょうそう",
+      "meaning": "premature"
+    },
+    {
+      "word": "一期一会",
+      "reading": "いちごいちえ",
+      "meaning": "once-in-a-lifetime encounter"
+    },
+    {
+      "word": "鱧も一期、海老も一期",
+      "reading": "はももいちご、えびもいちご",
+      "meaning": "all men are alike"
+    },
+    {
+      "word": "人間万事塞翁が馬",
+      "reading": "にんげんばんじさいおうがうま",
+      "meaning": "inscrutable are the ways of heaven"
+    },
+    {
+      "word": "無間地獄",
+      "reading": "むけんじごく",
+      "meaning": "the Avici hell (the eighth and most painful of the eight hells)"
+    },
+    {
+      "word": "反間苦肉",
+      "reading": "はんかんくにく",
+      "meaning": "stratagem for causing a rift in the enemy camp by using a seditious plot"
+    },
+    {
+      "word": "人間到る処青山あり",
+      "reading": "にんげんいたるところせいざんあり",
+      "meaning": "home is wherever one lays one's hat"
+    },
+    {
+      "word": "渡る世間に鬼はない",
+      "reading": "わたるせけんにおにはない",
+      "meaning": "all people aren't evil"
+    },
+    {
+      "word": "鬼のいぬまに洗濯",
+      "reading": "おにのいぬまにせんたく",
+      "meaning": "playing while the cat is away"
+    },
+    {
+      "word": "人間は万物の霊長",
+      "reading": "にんげんはばんぶつのれいちょう",
+      "meaning": "man is the crown of creation"
+    },
+    {
+      "word": "人間万事金の世の中",
+      "reading": "にんげんばんじかねのよのなか",
+      "meaning": "money talks"
+    },
+    {
+      "word": "世間の口に戸は立てられぬ",
+      "reading": "せけんのくちにとはたてられぬ",
+      "meaning": "people will talk"
+    },
+    {
+      "word": "世間は広いようで狭い",
+      "reading": "せけんはひろいようでせまい",
+      "meaning": "though it seems big, it's a small world"
+    },
+    {
+      "word": "合間を縫う",
+      "reading": "あいまをぬう",
+      "meaning": "to make good use of one's spare moments"
+    },
+    {
+      "word": "間に立つ",
+      "reading": "あいだにたつ",
+      "meaning": "to mediate"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "期間内乗り放題チケットを利用しよう。",
+      "reading": null,
+      "english": "Let's get an open ticket."
+    },
+    {
+      "japanese": "期間はどのくらい？",
+      "reading": null,
+      "english": "How long do you want it for?"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "definition": {
+    "word": "協定",
+    "reading": "きょうてい",
+    "romaji": "kyoutei",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "arrangement",
+          "pact",
+          "agreement"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "協",
+      "meanings": [
+        "co-",
+        "cooperation"
+      ],
+      "onyomi": [
+        "キョウ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "定",
+      "meanings": [
+        "determine",
+        "fix",
+        "establish",
+        "decide"
+      ],
+      "onyomi": [
+        "テイ",
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "さだ.める",
+        "さだ.まる",
+        "さだ.か"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "協会",
+      "reading": "きょうかい",
+      "meaning": "association"
+    },
+    {
+      "word": "協議",
+      "reading": "きょうぎ",
+      "meaning": "conference"
+    },
+    {
+      "word": "共同",
+      "reading": "きょうどう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "decision"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "plans"
+    },
+    {
+      "word": "共同体",
+      "reading": "きょうどうたい",
+      "meaning": "cooperative body"
+    },
+    {
+      "word": "安定",
+      "reading": "あんてい",
+      "meaning": "stability"
+    },
+    {
+      "word": "暫定",
+      "reading": "ざんてい",
+      "meaning": "provisional"
+    },
+    {
+      "word": "定数",
+      "reading": "ていすう",
+      "meaning": "fixed number"
+    },
+    {
+      "word": "協調",
+      "reading": "きょうちょう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "妥協",
+      "reading": "だきょう",
+      "meaning": "compromise"
+    },
+    {
+      "word": "一定",
+      "reading": "いってい",
+      "meaning": "to fix"
+    },
+    {
+      "word": "規定",
+      "reading": "きてい",
+      "meaning": "stipulation"
+    },
+    {
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "designation"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "fixed period"
+    },
+    {
+      "word": "特定",
+      "reading": "とくてい",
+      "meaning": "specific"
+    },
+    {
+      "word": "農協",
+      "reading": "のうきょう",
+      "meaning": "agricultural cooperative"
+    },
+    {
+      "word": "策定",
+      "reading": "さくてい",
+      "meaning": "formulation (of a plan, policy, etc.)"
+    },
+    {
+      "word": "制定",
+      "reading": "せいてい",
+      "meaning": "enactment"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "不協和音",
+      "reading": "ふきょうわおん",
+      "meaning": "discord"
+    },
+    {
+      "word": "鳩首協議",
+      "reading": "きゅうしゅきょうぎ",
+      "meaning": "put heads together and confer"
+    },
+    {
+      "word": "協心戮力",
+      "reading": "きょうしんりくりょく",
+      "meaning": "combined (concerted) efforts"
+    },
+    {
+      "word": "戮力協心",
+      "reading": "りくりょくきょうしん",
+      "meaning": "combined (concerted) efforts"
+    },
+    {
+      "word": "和衷協同",
+      "reading": "わちゅうきょうどう",
+      "meaning": "harmonious cooperation"
+    },
+    {
+      "word": "産学協同",
+      "reading": "さんがくきょうどう",
+      "meaning": "industry-university cooperation"
+    },
+    {
+      "word": "五族協和",
+      "reading": "ごぞくきょうわ",
+      "meaning": "five races under one union (Han, Manchurians, Mongolians, Hui, Tibetans; founding principle of the Republic of China)"
+    },
+    {
+      "word": "杓子定規",
+      "reading": "しゃくしじょうぎ",
+      "meaning": "strict"
+    },
+    {
+      "word": "安定成長",
+      "reading": "あんていせいちょう",
+      "meaning": "stable growth"
+    },
+    {
+      "word": "老少不定",
+      "reading": "ろうしょうふてい",
+      "meaning": "death comes to old and young alike"
+    },
+    {
+      "word": "会者定離",
+      "reading": "えしゃじょうり",
+      "meaning": "those who meet must part (suggesting the transient nature of this life)"
+    },
+    {
+      "word": "百舌勘定",
+      "reading": "もずかんじょう",
+      "meaning": "splitting the bill so that the others end up paying the whole amount"
+    },
+    {
+      "word": "兵隊勘定",
+      "reading": "へいたいかんじょう",
+      "meaning": "Dutch treat"
+    },
+    {
+      "word": "棺を蓋いて事定まる",
+      "reading": "かんをおおいてことさだまる",
+      "meaning": "a person's worth is assessed only when their coffin is sealed"
+    },
+    {
+      "word": "生まれぬ先の襁褓さだめ",
+      "reading": "うまれぬさきのむつきさだめ",
+      "meaning": "putting the cart before the horse"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "協定が調印されれば、輸入規制が解除できる。",
+      "reading": null,
+      "english": "We can lift the restrictions on imports once the joint agreement is signed."
+    },
+    {
+      "japanese": "協定が結ばれる可能性は極めて少ない。",
+      "reading": null,
+      "english": "There is very little probability of an agreement being reached."
+    }
+  ]
+}

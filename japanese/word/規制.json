@@ -1,0 +1,236 @@
+{
+  "definition": {
+    "word": "規制",
+    "reading": "きせい",
+    "romaji": "kisei",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "regulation",
+          "(traffic) policing",
+          "control",
+          "restriction"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "規",
+      "meanings": [
+        "standard",
+        "measure"
+      ],
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "制",
+      "meanings": [
+        "system",
+        "law",
+        "rule"
+      ],
+      "onyomi": [
+        "セイ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "規模",
+      "reading": "きぼ",
+      "meaning": "scale"
+    },
+    {
+      "word": "基準",
+      "reading": "きじゅん",
+      "meaning": "standard"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "system"
+    },
+    {
+      "word": "体制",
+      "reading": "たいせい",
+      "meaning": "order"
+    },
+    {
+      "word": "制裁",
+      "reading": "せいさい",
+      "meaning": "sanctions"
+    },
+    {
+      "word": "製造",
+      "reading": "せいぞう",
+      "meaning": "manufacture"
+    },
+    {
+      "word": "税制",
+      "reading": "ぜいせい",
+      "meaning": "tax system"
+    },
+    {
+      "word": "規定",
+      "reading": "きてい",
+      "meaning": "stipulation"
+    },
+    {
+      "word": "大規模",
+      "reading": "だいきぼ",
+      "meaning": "large-scale"
+    },
+    {
+      "word": "強制",
+      "reading": "きょうせい",
+      "meaning": "compulsion"
+    },
+    {
+      "word": "制",
+      "reading": "せい",
+      "meaning": "system"
+    },
+    {
+      "word": "制限",
+      "reading": "せいげん",
+      "meaning": "restriction"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaning": "work (film, book)"
+    },
+    {
+      "word": "制定",
+      "reading": "せいてい",
+      "meaning": "enactment"
+    },
+    {
+      "word": "抑制",
+      "reading": "よくせい",
+      "meaning": "control"
+    },
+    {
+      "word": "新規",
+      "reading": "しんき",
+      "meaning": "new"
+    },
+    {
+      "word": "規則",
+      "reading": "きそく",
+      "meaning": "rule"
+    },
+    {
+      "word": "制球",
+      "reading": "せいきゅう",
+      "meaning": "(pitcher's) control"
+    },
+    {
+      "word": "先制",
+      "reading": "せんせい",
+      "meaning": "head start"
+    },
+    {
+      "word": "法制",
+      "reading": "ほうせい",
+      "meaning": "legislation"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "女人禁制",
+      "reading": "にょにんきんせい",
+      "meaning": "prohibition on women entering (usu. for religious reasons)"
+    },
+    {
+      "word": "杓子定規",
+      "reading": "しゃくしじょうぎ",
+      "meaning": "strict"
+    },
+    {
+      "word": "規制緩和",
+      "reading": "きせいかんわ",
+      "meaning": "deregulation"
+    },
+    {
+      "word": "規矩準縄",
+      "reading": "きくじゅんじょう",
+      "meaning": "rules and standards"
+    },
+    {
+      "word": "例外のない規則はない",
+      "reading": "れいがいのないきそくはない",
+      "meaning": "there is no rule without exceptions"
+    },
+    {
+      "word": "鉄拳制裁",
+      "reading": "てっけんせいさい",
+      "meaning": "(punishment by) striking with fists"
+    },
+    {
+      "word": "先制攻撃",
+      "reading": "せんせいこうげき",
+      "meaning": "preemptive strike"
+    },
+    {
+      "word": "以毒制毒",
+      "reading": "いどくせいどく",
+      "meaning": "using poisonous medication to control poison"
+    },
+    {
+      "word": "先んずれば人を制す",
+      "reading": "さきんずればひとをせいす",
+      "meaning": "the early bird gets the worm"
+    },
+    {
+      "word": "入るを量りて出ずるを制す",
+      "reading": "いるをはかりていずるをせいす",
+      "meaning": "cut your coat according to your cloth"
+    },
+    {
+      "word": "毒を以て毒を制す",
+      "reading": "どくをもってどくをせいす",
+      "meaning": "fight fire with fire"
+    },
+    {
+      "word": "柔よく剛を制す",
+      "reading": "じゅうよくごうをせいす",
+      "meaning": "soft and fair goes far"
+    },
+    {
+      "word": "以夷制夷",
+      "reading": "いいせいい",
+      "meaning": "controlling foreigners by foreigners"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "協定が調印されれば、輸入規制が解除できる。",
+      "reading": null,
+      "english": "We can lift the restrictions on imports once the joint agreement is signed."
+    },
+    {
+      "japanese": "規制緩和が進んで、セルフサービスのガソリン給油は値段が少し安くなった。",
+      "reading": null,
+      "english": "Gas is a little cheaper with self-service, now that deregulation is kicking in."
+    }
+  ]
+}

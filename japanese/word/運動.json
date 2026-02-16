@@ -1,0 +1,287 @@
+{
+  "definition": {
+    "word": "運動",
+    "reading": "うんどう",
+    "romaji": "undou",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "exercise",
+          "physical training",
+          "workout",
+          "sports",
+          "athletics"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "appeal",
+          "campaign",
+          "drive",
+          "crusade",
+          "movement",
+          "lobbying"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "motion",
+          "movement"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "運",
+      "meanings": [
+        "carry",
+        "luck",
+        "destiny",
+        "fate",
+        "lot",
+        "transport",
+        "progress",
+        "advance"
+      ],
+      "onyomi": [
+        "ウン"
+      ],
+      "kunyomi": [
+        "はこ.ぶ"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "動",
+      "meanings": [
+        "move",
+        "motion",
+        "change",
+        "confusion",
+        "shift",
+        "shake"
+      ],
+      "onyomi": [
+        "ドウ"
+      ],
+      "kunyomi": [
+        "うご.く",
+        "うご.かす"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "活動",
+      "reading": "かつどう",
+      "meaning": "activity (of a person, organization, animal, volcano, etc.)"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "action"
+    },
+    {
+      "word": "自動車",
+      "reading": "じどうしゃ",
+      "meaning": "car"
+    },
+    {
+      "word": "動き",
+      "reading": "うごき",
+      "meaning": "movement"
+    },
+    {
+      "word": "労働",
+      "reading": "ろうどう",
+      "meaning": "labor"
+    },
+    {
+      "word": "運営",
+      "reading": "うんえい",
+      "meaning": "management"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operation (of a machine)"
+    },
+    {
+      "word": "動物",
+      "reading": "どうぶつ",
+      "meaning": "animal"
+    },
+    {
+      "word": "不動産",
+      "reading": "ふどうさん",
+      "meaning": "real estate"
+    },
+    {
+      "word": "労働者",
+      "reading": "ろうどうしゃ",
+      "meaning": "worker"
+    },
+    {
+      "word": "運輸",
+      "reading": "うんゆ",
+      "meaning": "transportation"
+    },
+    {
+      "word": "運輸省",
+      "reading": "うんゆしょう",
+      "meaning": "Ministry of Transport"
+    },
+    {
+      "word": "運用",
+      "reading": "うんよう",
+      "meaning": "making use of"
+    },
+    {
+      "word": "動向",
+      "reading": "どうこう",
+      "meaning": "trend"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "driver"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaning": "movement"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "automatic"
+    },
+    {
+      "word": "変動",
+      "reading": "へんどう",
+      "meaning": "change"
+    },
+    {
+      "word": "動",
+      "reading": "どう",
+      "meaning": "motion"
+    },
+    {
+      "word": "運ぶ",
+      "reading": "はこぶ",
+      "meaning": "to carry"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "運否天賦",
+      "reading": "うんぷてんぷ",
+      "meaning": "trusting to chance"
+    },
+    {
+      "word": "運を天に任せる",
+      "reading": "うんをてんにまかせる",
+      "meaning": "to leave to chance"
+    },
+    {
+      "word": "武運長久",
+      "reading": "ぶうんちょうきゅう",
+      "meaning": "continued luck in the fortunes of war"
+    },
+    {
+      "word": "足を運ぶ",
+      "reading": "あしをはこぶ",
+      "meaning": "to go (to)"
+    },
+    {
+      "word": "勝負は時の運",
+      "reading": "しょうぶはときのうん",
+      "meaning": "victory depends on the turn of fortune"
+    },
+    {
+      "word": "運は天にあり",
+      "reading": "うんはてんにあり",
+      "meaning": "there's no flying from fate"
+    },
+    {
+      "word": "幸運の女神は前髪しかない",
+      "reading": "こううんのめがみはまえがみしかない",
+      "meaning": "opportunity has hair in front, but behind she is bald"
+    },
+    {
+      "word": "勝つも負けるも時の運",
+      "reading": "かつもまけるもときのうん",
+      "meaning": "victory depends on the turn of fortune"
+    },
+    {
+      "word": "開運招福",
+      "reading": "かいうんしょうふく",
+      "meaning": "bringing luck and good fortune"
+    },
+    {
+      "word": "一挙一動",
+      "reading": "いっきょいちどう",
+      "meaning": "one's every action"
+    },
+    {
+      "word": "驚天動地",
+      "reading": "きょうてんどうち",
+      "meaning": "astounding"
+    },
+    {
+      "word": "軽挙妄動",
+      "reading": "けいきょもうどう",
+      "meaning": "rash and blind act"
+    },
+    {
+      "word": "直立不動",
+      "reading": "ちょくりつふどう",
+      "meaning": "standing at attention"
+    },
+    {
+      "word": "大山鳴動して鼠一匹",
+      "reading": "たいざんめいどうしてねずみいっぴき",
+      "meaning": "much ado about nothing"
+    },
+    {
+      "word": "行動半径",
+      "reading": "こうどうはんけい",
+      "meaning": "radius of action"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "君の息子さん学生運動に加わってたそうだね。",
+      "reading": null,
+      "english": "Your son took part in the student movement, I hear."
+    },
+    {
+      "japanese": "教官は私に毎日運動するように勧めた。",
+      "reading": null,
+      "english": "The instructor advised me to get exercise every day."
+    }
+  ]
+}

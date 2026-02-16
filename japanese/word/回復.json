@@ -1,0 +1,277 @@
+{
+  "definition": {
+    "word": "回復",
+    "reading": "かいふく",
+    "romaji": "kaifuku",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "restoration",
+          "recovery",
+          "rehabilitation",
+          "return",
+          "improvement"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "recovery (from an illness)",
+          "recuperation",
+          "convalescence"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "回",
+      "meanings": [
+        "-times",
+        "round",
+        "game",
+        "revolve",
+        "counter for occurrences"
+      ],
+      "onyomi": [
+        "カイ",
+        "エ"
+      ],
+      "kunyomi": [
+        "まわ.る",
+        "-まわ.る",
+        "-まわ.り",
+        "まわ.す",
+        "-まわ.す",
+        "まわ.し-",
+        "-まわ.し",
+        "もとお.る",
+        "か.える"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "復",
+      "meanings": [
+        "restore",
+        "return to",
+        "revert",
+        "resume"
+      ],
+      "onyomi": [
+        "フク"
+      ],
+      "kunyomi": [
+        "また"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "今回",
+      "reading": "こんかい",
+      "meaning": "this time"
+    },
+    {
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning": "reply"
+    },
+    {
+      "word": "前回",
+      "reading": "ぜんかい",
+      "meaning": "previous time"
+    },
+    {
+      "word": "回戦",
+      "reading": "かいせん",
+      "meaning": "event with ... rounds, innings, legs, etc."
+    },
+    {
+      "word": "一回",
+      "reading": "いっかい",
+      "meaning": "once"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "plural"
+    },
+    {
+      "word": "回収",
+      "reading": "かいしゅう",
+      "meaning": "collection"
+    },
+    {
+      "word": "復活",
+      "reading": "ふっかつ",
+      "meaning": "revival (of an old system, custom, fashion, etc.)"
+    },
+    {
+      "word": "復帰",
+      "reading": "ふっき",
+      "meaning": "return"
+    },
+    {
+      "word": "復興",
+      "reading": "ふっこう",
+      "meaning": "revival"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "number of times"
+    },
+    {
+      "word": "次回",
+      "reading": "じかい",
+      "meaning": "next time (occasion)"
+    },
+    {
+      "word": "利回り",
+      "reading": "りまわり",
+      "meaning": "interest"
+    },
+    {
+      "word": "往復",
+      "reading": "おうふく",
+      "meaning": "making a round trip"
+    },
+    {
+      "word": "回線",
+      "reading": "かいせん",
+      "meaning": "circuit"
+    },
+    {
+      "word": "回転",
+      "reading": "かいてん",
+      "meaning": "rotation"
+    },
+    {
+      "word": "回避",
+      "reading": "かいひ",
+      "meaning": "evasion"
+    },
+    {
+      "word": "撤回",
+      "reading": "てっかい",
+      "meaning": "withdrawal"
+    },
+    {
+      "word": "修復",
+      "reading": "しゅうふく",
+      "meaning": "restoration"
+    },
+    {
+      "word": "報復",
+      "reading": "ほうふく",
+      "meaning": "retaliation"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "起死回生",
+      "reading": "きしかいせい",
+      "meaning": "revival from the brink of death"
+    },
+    {
+      "word": "王政復古",
+      "reading": "おうせいふっこ",
+      "meaning": "restoration of imperial rule"
+    },
+    {
+      "word": "急がば回れ",
+      "reading": "いそがばまわれ",
+      "meaning": "more haste, less speed"
+    },
+    {
+      "word": "ヤキが回る",
+      "reading": "やきがまわる",
+      "meaning": "to become senile"
+    },
+    {
+      "word": "低徊趣味",
+      "reading": "ていかいしゅみ",
+      "meaning": "disposition toward rejecting mundane affairs and enjoying nature and art"
+    },
+    {
+      "word": "名誉挽回",
+      "reading": "めいよばんかい",
+      "meaning": "restoring one's impaired reputation"
+    },
+    {
+      "word": "流転輪廻",
+      "reading": "るてんりんね",
+      "meaning": "all things being in flux through the endless circle of birth, death, and rebirth"
+    },
+    {
+      "word": "永劫回帰",
+      "reading": "えいごうかいき",
+      "meaning": "eternal recurrence"
+    },
+    {
+      "word": "失地回復",
+      "reading": "しっちかいふく",
+      "meaning": "the recovery of lost territory"
+    },
+    {
+      "word": "金は天下の回り物",
+      "reading": "かねはてんかのまわりもの",
+      "meaning": "money comes and goes"
+    },
+    {
+      "word": "お鉢が回ってくる",
+      "reading": "おはちがまわってくる",
+      "meaning": "it's my turn"
+    },
+    {
+      "word": "ツケが回ってくる",
+      "reading": "つけがまわってくる",
+      "meaning": "you'll have to pay for it"
+    },
+    {
+      "word": "ツケが回る",
+      "reading": "つけがまわる",
+      "meaning": "you'll have to pay for it"
+    },
+    {
+      "word": "金銀は回り持ち",
+      "reading": "きんぎんはまわりもち",
+      "meaning": "money comes and goes"
+    },
+    {
+      "word": "お鉢が回る",
+      "reading": "おはちがまわる",
+      "meaning": "one's turn comes around"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "君が早く病気から回復されるよう、心から望んでおります。",
+      "reading": null,
+      "english": "I sincerely hope that you will soon recover from your illness."
+    },
+    {
+      "japanese": "君が早く回復するのを願っています。",
+      "reading": null,
+      "english": "I hope that you will get well soon."
+    }
+  ]
+}

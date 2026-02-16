@@ -1,0 +1,257 @@
+{
+  "definition": {
+    "word": "幹事",
+    "reading": "かんじ",
+    "romaji": "kanji",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "executive secretary",
+          "coordinator",
+          "organizer",
+          "person in charge of making arrangements"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "幹",
+      "meanings": [
+        "tree trunk",
+        "main part",
+        "talent",
+        "capability"
+      ],
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "みき"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "事",
+      "meanings": [
+        "matter",
+        "thing",
+        "fact",
+        "business",
+        "reason",
+        "possibly"
+      ],
+      "onyomi": [
+        "ジ",
+        "ズ"
+      ],
+      "kunyomi": [
+        "こと",
+        "つか.う",
+        "つか.える"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "幹部",
+      "reading": "かんぶ",
+      "meaning": "management"
+    },
+    {
+      "word": "記事",
+      "reading": "きじ",
+      "meaning": "article"
+    },
+    {
+      "word": "軍事",
+      "reading": "ぐんじ",
+      "meaning": "military affairs"
+    },
+    {
+      "word": "仕事",
+      "reading": "しごと",
+      "meaning": "work"
+    },
+    {
+      "word": "事業",
+      "reading": "じぎょう",
+      "meaning": "business"
+    },
+    {
+      "word": "事件",
+      "reading": "じけん",
+      "meaning": "event"
+    },
+    {
+      "word": "事故",
+      "reading": "じこ",
+      "meaning": "accident"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fact"
+    },
+    {
+      "word": "事情",
+      "reading": "じじょう",
+      "meaning": "circumstances"
+    },
+    {
+      "word": "事務",
+      "reading": "じむ",
+      "meaning": "office work"
+    },
+    {
+      "word": "事務局",
+      "reading": "じむきょく",
+      "meaning": "secretariat"
+    },
+    {
+      "word": "事務所",
+      "reading": "じむしょ",
+      "meaning": "office"
+    },
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "prefectural governor"
+    },
+    {
+      "word": "理事",
+      "reading": "りじ",
+      "meaning": "director"
+    },
+    {
+      "word": "事態",
+      "reading": "じたい",
+      "meaning": "situation"
+    },
+    {
+      "word": "時事",
+      "reading": "じじ",
+      "meaning": "events of the day"
+    },
+    {
+      "word": "工事",
+      "reading": "こうじ",
+      "meaning": "construction work"
+    },
+    {
+      "word": "事実上",
+      "reading": "じじつじょう",
+      "meaning": "as a matter of fact"
+    },
+    {
+      "word": "人事",
+      "reading": "じんじ",
+      "meaning": "personnel affairs"
+    },
+    {
+      "word": "新幹線",
+      "reading": "しんかんせん",
+      "meaning": "Shinkansen"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "事実無根",
+      "reading": "じじつむこん",
+      "meaning": "groundless"
+    },
+    {
+      "word": "既成事実",
+      "reading": "きせいじじつ",
+      "meaning": "established fact"
+    },
+    {
+      "word": "年中行事",
+      "reading": "ねんちゅうぎょうじ",
+      "meaning": "annual function"
+    },
+    {
+      "word": "後生大事",
+      "reading": "ごしょうだいじ",
+      "meaning": "with religious zeal"
+    },
+    {
+      "word": "家柄より芋茎",
+      "reading": "いえがらよりいもがら",
+      "meaning": "having food on the table is more important than having a high social standing"
+    },
+    {
+      "word": "肉幹",
+      "reading": "にくかん",
+      "meaning": "penis"
+    },
+    {
+      "word": "事後承諾",
+      "reading": "じごしょうだく",
+      "meaning": "ex-post-facto approval"
+    },
+    {
+      "word": "人間万事塞翁が馬",
+      "reading": "にんげんばんじさいおうがうま",
+      "meaning": "inscrutable are the ways of heaven"
+    },
+    {
+      "word": "人事不省",
+      "reading": "じんじふせい",
+      "meaning": "unconsciousness"
+    },
+    {
+      "word": "多事多端",
+      "reading": "たじたたん",
+      "meaning": "eventfulness"
+    },
+    {
+      "word": "地震雷火事親父",
+      "reading": "じしんかみなりかじおやじ",
+      "meaning": "things to fear: earthquakes, thunder, fires and, most of all, fathers"
+    },
+    {
+      "word": "平穏無事",
+      "reading": "へいおんぶじ",
+      "meaning": "peaceful"
+    },
+    {
+      "word": "無事息災",
+      "reading": "ぶじそくさい",
+      "meaning": "safe and healthy"
+    },
+    {
+      "word": "屁と火事はもとから騒ぐ",
+      "reading": "へとかじはもとからさわぐ",
+      "meaning": "it is often the originator of problems who kicks up a fuss or complains loudest"
+    },
+    {
+      "word": "故事来歴",
+      "reading": "こじらいれき",
+      "meaning": "origin and history"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "その女性幹事は彼の傲慢さにどうしても我慢できなかった。",
+      "reading": null,
+      "english": "The hostess couldn't possibly tolerate his arrogance."
+    },
+    {
+      "japanese": "私、幹事をやるのが初めてだから要領が悪いかもしれません。",
+      "reading": null,
+      "english": "This is the first time I've worked as a coordinator, so I may not have the hang of it yet."
+    }
+  ]
+}

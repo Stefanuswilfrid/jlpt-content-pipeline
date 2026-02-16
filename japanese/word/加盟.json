@@ -1,0 +1,217 @@
+{
+  "definition": {
+    "word": "加盟",
+    "reading": "かめい",
+    "romaji": "kamei",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "joining (an association, agreement, etc.)",
+          "participation",
+          "affiliation",
+          "accession"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "加",
+      "meanings": [
+        "add",
+        "addition",
+        "increase",
+        "join",
+        "include",
+        "Canada"
+      ],
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "くわ.える",
+        "くわ.わる"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "盟",
+      "meanings": [
+        "alliance",
+        "oath"
+      ],
+      "onyomi": [
+        "メイ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaning": "participation"
+    },
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaning": "increase"
+    },
+    {
+      "word": "連盟",
+      "reading": "れんめい",
+      "meaning": "league"
+    },
+    {
+      "word": "同盟",
+      "reading": "どうめい",
+      "meaning": "alliance"
+    },
+    {
+      "word": "参加者",
+      "reading": "さんかしゃ",
+      "meaning": "participant"
+    },
+    {
+      "word": "追加",
+      "reading": "ついか",
+      "meaning": "addition"
+    },
+    {
+      "word": "加入",
+      "reading": "かにゅう",
+      "meaning": "joining (a club, organization, etc.)"
+    },
+    {
+      "word": "加工",
+      "reading": "かこう",
+      "meaning": "manufacturing"
+    },
+    {
+      "word": "加",
+      "reading": "か",
+      "meaning": "addition"
+    },
+    {
+      "word": "加速",
+      "reading": "かそく",
+      "meaning": "acceleration"
+    },
+    {
+      "word": "亜爾加里",
+      "reading": "アルカリ",
+      "meaning": "alkali"
+    },
+    {
+      "word": "加特力",
+      "reading": "カトリック",
+      "meaning": "Catholic"
+    },
+    {
+      "word": "いい加減",
+      "reading": "いいかげん",
+      "meaning": "irresponsible"
+    },
+    {
+      "word": "歌留多",
+      "reading": "カルタ",
+      "meaning": "karuta"
+    },
+    {
+      "word": "俄",
+      "reading": "にわか",
+      "meaning": "sudden"
+    },
+    {
+      "word": "付加",
+      "reading": "ふか",
+      "meaning": "addition"
+    },
+    {
+      "word": "加点",
+      "reading": "かてん",
+      "meaning": "adding points"
+    },
+    {
+      "word": "加害者",
+      "reading": "かがいしゃ",
+      "meaning": "perpetrator"
+    },
+    {
+      "word": "加味",
+      "reading": "かみ",
+      "meaning": "seasoning"
+    },
+    {
+      "word": "加担",
+      "reading": "かたん",
+      "meaning": "support"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "年功加俸",
+      "reading": "ねんこうかほう",
+      "meaning": "long service allowance"
+    },
+    {
+      "word": "加持祈祷",
+      "reading": "かじきとう",
+      "meaning": "incantation and prayer"
+    },
+    {
+      "word": "さじ加減",
+      "reading": "さじかげん",
+      "meaning": "measured amount (esp. of medicine)"
+    },
+    {
+      "word": "靴新しと雖も首に加えず",
+      "reading": "くつあたらしといえどもくびにくわえず",
+      "meaning": "there must be a clear distinction between the upper and lower classes"
+    },
+    {
+      "word": "新しいページを加える",
+      "reading": "あたらしいページをくわえる",
+      "meaning": "to add a new page (e.g. to the annals of history)"
+    },
+    {
+      "word": "同盟罷業",
+      "reading": "どうめいひぎょう",
+      "meaning": "strike"
+    },
+    {
+      "word": "城下の盟",
+      "reading": "じょうかのちかい",
+      "meaning": "capitulation"
+    },
+    {
+      "word": "盟神探湯",
+      "reading": "めいしんたんとう",
+      "meaning": "trial by hot water"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "加盟国中数カ国は、Ｇ７の協定に従うことにあいまいな態度を見せています。",
+      "reading": null,
+      "english": "Some member countries have been lax in abiding by G-7 agreements."
+    },
+    {
+      "japanese": "加盟国中数カ国は、Ｇ７の協定に従うことにあいまいな態度を見せています。",
+      "reading": null,
+      "english": "Some member countries have been lax in abiding by G-7 agreements."
+    }
+  ]
+}

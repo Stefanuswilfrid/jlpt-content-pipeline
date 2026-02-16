@@ -1,0 +1,247 @@
+{
+  "definition": {
+    "word": "業界",
+    "reading": "ぎょうかい",
+    "romaji": "gyoukai",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "business world",
+          "business circles",
+          "(the) industry"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "業",
+      "meanings": [
+        "business",
+        "vocation",
+        "arts",
+        "performance"
+      ],
+      "onyomi": [
+        "ギョウ",
+        "ゴウ"
+      ],
+      "kunyomi": [
+        "わざ"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "界",
+      "meanings": [
+        "world",
+        "boundary"
+      ],
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "企業",
+      "reading": "きぎょう",
+      "meaning": "enterprise"
+    },
+    {
+      "word": "業者",
+      "reading": "ぎょうしゃ",
+      "meaning": "trader"
+    },
+    {
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "work"
+    },
+    {
+      "word": "産業",
+      "reading": "さんぎょう",
+      "meaning": "industry"
+    },
+    {
+      "word": "事業",
+      "reading": "じぎょう",
+      "meaning": "business"
+    },
+    {
+      "word": "農業",
+      "reading": "のうぎょう",
+      "meaning": "agriculture"
+    },
+    {
+      "word": "業",
+      "reading": "ぎょう",
+      "meaning": "work"
+    },
+    {
+      "word": "世界",
+      "reading": "せかい",
+      "meaning": "the world"
+    },
+    {
+      "word": "政界",
+      "reading": "せいかい",
+      "meaning": "(world of) politics"
+    },
+    {
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaning": "business"
+    },
+    {
+      "word": "業務",
+      "reading": "ぎょうむ",
+      "meaning": "business"
+    },
+    {
+      "word": "工業",
+      "reading": "こうぎょう",
+      "meaning": "(manufacturing) industry"
+    },
+    {
+      "word": "国境",
+      "reading": "こっきょう",
+      "meaning": "border (between countries)"
+    },
+    {
+      "word": "業績",
+      "reading": "ぎょうせき",
+      "meaning": "achievement"
+    },
+    {
+      "word": "失業",
+      "reading": "しつぎょう",
+      "meaning": "unemployment"
+    },
+    {
+      "word": "授業",
+      "reading": "じゅぎょう",
+      "meaning": "lesson"
+    },
+    {
+      "word": "従業員",
+      "reading": "じゅうぎょういん",
+      "meaning": "employee"
+    },
+    {
+      "word": "職業",
+      "reading": "しょくぎょう",
+      "meaning": "occupation"
+    },
+    {
+      "word": "卒業",
+      "reading": "そつぎょう",
+      "meaning": "graduation"
+    },
+    {
+      "word": "財界",
+      "reading": "ざいかい",
+      "meaning": "financial world"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "自業自得",
+      "reading": "じごうじとく",
+      "meaning": "paying for one's mistakes"
+    },
+    {
+      "word": "諸行無常",
+      "reading": "しょぎょうむじょう",
+      "meaning": "all things must pass"
+    },
+    {
+      "word": "同盟罷業",
+      "reading": "どうめいひぎょう",
+      "meaning": "strike"
+    },
+    {
+      "word": "浮き草稼業",
+      "reading": "うきくさかぎょう",
+      "meaning": "precarious trade"
+    },
+    {
+      "word": "業を煮やす",
+      "reading": "ごうをにやす",
+      "meaning": "to lose one's temper"
+    },
+    {
+      "word": "創業守成",
+      "reading": "そうぎょうしゅせい",
+      "meaning": "starting an enterprise and (or) carrying it to final success"
+    },
+    {
+      "word": "人気稼業",
+      "reading": "にんきかぎょう",
+      "meaning": "popular occupation"
+    },
+    {
+      "word": "創業は易く守成は難し",
+      "reading": "そうぎょうはやすくしゅせいはかたし",
+      "meaning": "it is easy to start an enterprise but hard to maintain it"
+    },
+    {
+      "word": "三千世界",
+      "reading": "さんぜんせかい",
+      "meaning": "the whole universe (of a billion worlds) that Buddha enlightened"
+    },
+    {
+      "word": "三界流転",
+      "reading": "さんがいるてん",
+      "meaning": "endless cycle of rebirth through the three worlds of past, present, and future existences"
+    },
+    {
+      "word": "法界悋気",
+      "reading": "ほうかいりんき",
+      "meaning": "being jealous of things that have nothing to do with one"
+    },
+    {
+      "word": "子は三界の首枷",
+      "reading": "こはさんがいのくびかせ",
+      "meaning": "a child is an everlasting responsibility"
+    },
+    {
+      "word": "貧は世界の福の神",
+      "reading": "ひんはせかいのふくのかみ",
+      "meaning": "poverty is the greatest motivator"
+    },
+    {
+      "word": "女は三界に家なし",
+      "reading": "おんなはさんがいにいえなし",
+      "meaning": "a woman has no home of her own in this world (because she has to obey her parents when she is young, her husband when she gets married, and her children when she is old)"
+    },
+    {
+      "word": "女三界に家なし",
+      "reading": "おんなさんがいにいえなし",
+      "meaning": "a woman has no home of her own in this world (because she has to obey her parents when she is young, her husband when she gets married, and her children when she is old)"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "この業界ではもう年をとりすぎている。",
+      "reading": null,
+      "english": "I am too old for this world."
+    },
+    {
+      "japanese": "この業界ではもう年をとりすぎている。",
+      "reading": null,
+      "english": "I am too old for this world."
+    }
+  ]
+}

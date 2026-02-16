@@ -1,0 +1,6 @@
+ignore/*
+
+# Pipeline artifacts
+data/
+indices/
+node_modules/

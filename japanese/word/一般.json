@@ -1,0 +1,273 @@
+{
+  "definition": {
+    "word": "一般",
+    "reading": "いっぱん",
+    "romaji": "ippan",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "general",
+          "universal"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ordinary",
+          "average",
+          "common",
+          "non-celebrity"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the same",
+          "no different",
+          "(just) as if"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "一",
+      "meanings": [
+        "one",
+        "one radical (no.1)"
+      ],
+      "onyomi": [
+        "イチ",
+        "イツ"
+      ],
+      "kunyomi": [
+        "ひと-",
+        "ひと.つ"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "般",
+      "meanings": [
+        "carrier",
+        "carry",
+        "all",
+        "general",
+        "sort",
+        "kind"
+      ],
+      "onyomi": [
+        "ハン"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "one"
+    },
+    {
+      "word": "１月",
+      "reading": "いちがつ",
+      "meaning": "January"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "number one"
+    },
+    {
+      "word": "一部",
+      "reading": "いちぶ",
+      "meaning": "one part"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "one (esp. of two)"
+    },
+    {
+      "word": "十一",
+      "reading": "じゅういち",
+      "meaning": "eleven"
+    },
+    {
+      "word": "１１月",
+      "reading": "じゅういちがつ",
+      "meaning": "November"
+    },
+    {
+      "word": "十九",
+      "reading": "じゅうきゅう",
+      "meaning": "nineteen"
+    },
+    {
+      "word": "１０月",
+      "reading": "じゅうがつ",
+      "meaning": "October"
+    },
+    {
+      "word": "十五",
+      "reading": "じゅうご",
+      "meaning": "fifteen"
+    },
+    {
+      "word": "十三",
+      "reading": "じゅうさん",
+      "meaning": "thirteen"
+    },
+    {
+      "word": "十二",
+      "reading": "じゅうに",
+      "meaning": "twelve"
+    },
+    {
+      "word": "１２月",
+      "reading": "じゅうにがつ",
+      "meaning": "December"
+    },
+    {
+      "word": "十八",
+      "reading": "じゅうはち",
+      "meaning": "eighteen"
+    },
+    {
+      "word": "統一",
+      "reading": "とういつ",
+      "meaning": "unity"
+    },
+    {
+      "word": "百",
+      "reading": "ひゃく",
+      "meaning": "hundred"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "ten"
+    },
+    {
+      "word": "十四",
+      "reading": "じゅうし",
+      "meaning": "fourteen"
+    },
+    {
+      "word": "十七",
+      "reading": "じゅうなな",
+      "meaning": "seventeen"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaning": "very hard"
+    },
+    {
+      "word": "満場一致",
+      "reading": "まんじょういっち",
+      "meaning": "unanimity"
+    },
+    {
+      "word": "一石二鳥",
+      "reading": "いっせきにちょう",
+      "meaning": "killing two birds with one stone"
+    },
+    {
+      "word": "一方通行",
+      "reading": "いっぽうつうこう",
+      "meaning": "one-way traffic"
+    },
+    {
+      "word": "二者択一",
+      "reading": "にしゃたくいつ",
+      "meaning": "choosing between two things"
+    },
+    {
+      "word": "一進一退",
+      "reading": "いっしんいったい",
+      "meaning": "now advancing and now retreating"
+    },
+    {
+      "word": "一喜一憂",
+      "reading": "いっきいちゆう",
+      "meaning": "alternating between happiness and anxiety"
+    },
+    {
+      "word": "三位一体",
+      "reading": "さんみいったい",
+      "meaning": "the Trinity"
+    },
+    {
+      "word": "一触即発",
+      "reading": "いっしょくそくはつ",
+      "meaning": "critical (touch and go) situation"
+    },
+    {
+      "word": "一心同体",
+      "reading": "いっしんどうたい",
+      "meaning": "being one in body and soul"
+    },
+    {
+      "word": "一朝一夕",
+      "reading": "いっちょういっせき",
+      "meaning": "in a day"
+    },
+    {
+      "word": "一念発起",
+      "reading": "いちねんほっき",
+      "meaning": "being resolved to (do something)"
+    },
+    {
+      "word": "一部始終",
+      "reading": "いちぶしじゅう",
+      "meaning": "full particulars"
+    },
+    {
+      "word": "一攫千金",
+      "reading": "いっかくせんきん",
+      "meaning": "getting rich quick"
+    },
+    {
+      "word": "千載一遇",
+      "reading": "せんざいいちぐう",
+      "meaning": "once-in-a-lifetime (opportunity)"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "教養のある、一般のアメリカ人はもはや理解しあえる素養を共有していないという事実が、彼らが効果的に意志疎通できない主な理由なのである。",
+      "reading": null,
+      "english": "The fact that educated Americans in general no longer share understandable background knowledge is a chief cause of their inability to communicate effectively."
+    },
+    {
+      "japanese": "韓国料理は一般的に辛い。",
+      "reading": null,
+      "english": "Korean food is generally very spicy."
+    }
+  ]
+}

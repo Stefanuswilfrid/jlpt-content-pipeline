@@ -1,0 +1,272 @@
+{
+  "definition": {
+    "word": "一つ",
+    "reading": "ひとつ",
+    "romaji": "hitotsu",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "one"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "for one thing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "only"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(not) even"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "just (e.g. \"just try it\")"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "some kind of",
+          "one type of"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "一",
+      "meanings": [
+        "one",
+        "one radical (no.1)"
+      ],
+      "onyomi": [
+        "イチ",
+        "イツ"
+      ],
+      "kunyomi": [
+        "ひと-",
+        "ひと.つ"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "１月",
+      "reading": "いちがつ",
+      "meaning": "January"
+    },
+    {
+      "word": "一般",
+      "reading": "いっぱん",
+      "meaning": "general"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "number one"
+    },
+    {
+      "word": "一部",
+      "reading": "いちぶ",
+      "meaning": "one part"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "one (esp. of two)"
+    },
+    {
+      "word": "十一",
+      "reading": "じゅういち",
+      "meaning": "eleven"
+    },
+    {
+      "word": "１１月",
+      "reading": "じゅういちがつ",
+      "meaning": "November"
+    },
+    {
+      "word": "十九",
+      "reading": "じゅうきゅう",
+      "meaning": "nineteen"
+    },
+    {
+      "word": "１０月",
+      "reading": "じゅうがつ",
+      "meaning": "October"
+    },
+    {
+      "word": "十五",
+      "reading": "じゅうご",
+      "meaning": "fifteen"
+    },
+    {
+      "word": "十三",
+      "reading": "じゅうさん",
+      "meaning": "thirteen"
+    },
+    {
+      "word": "十二",
+      "reading": "じゅうに",
+      "meaning": "twelve"
+    },
+    {
+      "word": "１２月",
+      "reading": "じゅうにがつ",
+      "meaning": "December"
+    },
+    {
+      "word": "十八",
+      "reading": "じゅうはち",
+      "meaning": "eighteen"
+    },
+    {
+      "word": "統一",
+      "reading": "とういつ",
+      "meaning": "unity"
+    },
+    {
+      "word": "百",
+      "reading": "ひゃく",
+      "meaning": "hundred"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "ten"
+    },
+    {
+      "word": "十四",
+      "reading": "じゅうし",
+      "meaning": "fourteen"
+    },
+    {
+      "word": "十七",
+      "reading": "じゅうなな",
+      "meaning": "seventeen"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaning": "very hard"
+    },
+    {
+      "word": "満場一致",
+      "reading": "まんじょういっち",
+      "meaning": "unanimity"
+    },
+    {
+      "word": "一石二鳥",
+      "reading": "いっせきにちょう",
+      "meaning": "killing two birds with one stone"
+    },
+    {
+      "word": "一方通行",
+      "reading": "いっぽうつうこう",
+      "meaning": "one-way traffic"
+    },
+    {
+      "word": "二者択一",
+      "reading": "にしゃたくいつ",
+      "meaning": "choosing between two things"
+    },
+    {
+      "word": "一進一退",
+      "reading": "いっしんいったい",
+      "meaning": "now advancing and now retreating"
+    },
+    {
+      "word": "一喜一憂",
+      "reading": "いっきいちゆう",
+      "meaning": "alternating between happiness and anxiety"
+    },
+    {
+      "word": "三位一体",
+      "reading": "さんみいったい",
+      "meaning": "the Trinity"
+    },
+    {
+      "word": "一触即発",
+      "reading": "いっしょくそくはつ",
+      "meaning": "critical (touch and go) situation"
+    },
+    {
+      "word": "一心同体",
+      "reading": "いっしんどうたい",
+      "meaning": "being one in body and soul"
+    },
+    {
+      "word": "一朝一夕",
+      "reading": "いっちょういっせき",
+      "meaning": "in a day"
+    },
+    {
+      "word": "一念発起",
+      "reading": "いちねんほっき",
+      "meaning": "being resolved to (do something)"
+    },
+    {
+      "word": "一部始終",
+      "reading": "いちぶしじゅう",
+      "meaning": "full particulars"
+    },
+    {
+      "word": "一攫千金",
+      "reading": "いっかくせんきん",
+      "meaning": "getting rich quick"
+    },
+    {
+      "word": "千載一遇",
+      "reading": "せんざいいちぐう",
+      "meaning": "once-in-a-lifetime (opportunity)"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "君に一つ忠告しておきたい。",
+      "reading": null,
+      "english": "Let me give you a bit of advice."
+    },
+    {
+      "japanese": "君によいニュースが一つある。",
+      "reading": null,
+      "english": "There is a piece of good news for you."
+    }
+  ]
+}

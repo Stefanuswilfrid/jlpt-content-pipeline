@@ -1,0 +1,256 @@
+{
+  "definition": {
+    "word": "外相",
+    "reading": "がいしょう",
+    "romaji": "gaishou",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Foreign Minister"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "外",
+      "meanings": [
+        "outside"
+      ],
+      "onyomi": [
+        "ガイ",
+        "ゲ"
+      ],
+      "kunyomi": [
+        "そと",
+        "ほか",
+        "はず.す",
+        "はず.れる",
+        "と-"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "相",
+      "meanings": [
+        "inter-",
+        "mutual",
+        "together",
+        "each other",
+        "minister of state",
+        "councillor",
+        "aspect",
+        "phase",
+        "physiognomy"
+      ],
+      "onyomi": [
+        "ソウ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "あい-"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaning": "foreign"
+    },
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomacy"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "foreign country"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    },
+    {
+      "word": "外務省",
+      "reading": "がいむしょう",
+      "meaning": "Ministry of Foreign Affairs"
+    },
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "prime minister"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "companion"
+    },
+    {
+      "word": "外",
+      "reading": "そと",
+      "meaning": "outside"
+    },
+    {
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "consultation"
+    },
+    {
+      "word": "蔵相",
+      "reading": "ぞうしょう",
+      "meaning": "Minister of Finance"
+    },
+    {
+      "word": "相互",
+      "reading": "そうご",
+      "meaning": "mutual"
+    },
+    {
+      "word": "外務",
+      "reading": "がいむ",
+      "meaning": "foreign affairs"
+    },
+    {
+      "word": "内外",
+      "reading": "ないがい",
+      "meaning": "inside and outside"
+    },
+    {
+      "word": "相場",
+      "reading": "そうば",
+      "meaning": "market price"
+    },
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "corresponding to (in meaning, function, etc.)"
+    },
+    {
+      "word": "相撲",
+      "reading": "すもう",
+      "meaning": "sumo (wrestling)"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "unexpected"
+    },
+    {
+      "word": "郊外",
+      "reading": "こうがい",
+      "meaning": "suburb"
+    },
+    {
+      "word": "対外",
+      "reading": "たいがい",
+      "meaning": "external"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "exception"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "相関関係",
+      "reading": "そうかんかんけい",
+      "meaning": "correlation"
+    },
+    {
+      "word": "奇想天外",
+      "reading": "きそうてんがい",
+      "meaning": "fantastic"
+    },
+    {
+      "word": "門外不出",
+      "reading": "もんがいふしゅつ",
+      "meaning": "(treasuring something by) never taking (it) off the premises"
+    },
+    {
+      "word": "内憂外患",
+      "reading": "ないゆうがいかん",
+      "meaning": "troubles both at home and abroad"
+    },
+    {
+      "word": "治外法権",
+      "reading": "ちがいほうけん",
+      "meaning": "extraterritoriality"
+    },
+    {
+      "word": "外交辞令",
+      "reading": "がいこうじれい",
+      "meaning": "diplomatic turn of phrase"
+    },
+    {
+      "word": "外柔内剛",
+      "reading": "がいじゅうないごう",
+      "meaning": "gentle but firm"
+    },
+    {
+      "word": "局外中立",
+      "reading": "きょくがいちゅうりつ",
+      "meaning": "neutrality"
+    },
+    {
+      "word": "内柔外剛",
+      "reading": "ないじゅうがいごう",
+      "meaning": "tough on the outside but soft at heart"
+    },
+    {
+      "word": "外剛内柔",
+      "reading": "がいごうないじゅう",
+      "meaning": "being tough on the outside but soft at heart"
+    },
+    {
+      "word": "内剛外柔",
+      "reading": "ないごうがいじゅう",
+      "meaning": "gentle on the outside but tough on the inside"
+    },
+    {
+      "word": "有頂天外",
+      "reading": "うちょうてんがい",
+      "meaning": "beside oneself with joy"
+    },
+    {
+      "word": "外題学問",
+      "reading": "げだいがくもん",
+      "meaning": "putting on a knowing air when one only knows the title of the book (play, etc.)"
+    },
+    {
+      "word": "心外千万",
+      "reading": "しんがいせんばん",
+      "meaning": "being totally upset (by)"
+    },
+    {
+      "word": "善隣外交",
+      "reading": "ぜんりんがいこう",
+      "meaning": "good-neighbor diplomacy"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "外相は、戦争は避けられないと言った。",
+      "reading": null,
+      "english": "The Foreign Minister said that war was inevitable."
+    },
+    {
+      "japanese": "田中前外相の更迭に続く政治混乱がその象徴である。",
+      "reading": null,
+      "english": "The dismissal of foreign minister Tanaka is symbolic of the continuing political turmoil."
+    }
+  ]
+}

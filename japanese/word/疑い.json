@@ -1,0 +1,211 @@
+{
+  "definition": {
+    "word": "疑い",
+    "reading": "うたがい",
+    "romaji": "utagai",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "doubt",
+          "question",
+          "uncertainty",
+          "skepticism",
+          "scepticism",
+          "suspicion",
+          "distrust"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "疑",
+      "meanings": [
+        "doubt",
+        "distrust",
+        "be suspicious",
+        "question"
+      ],
+      "onyomi": [
+        "ギ"
+      ],
+      "kunyomi": [
+        "うたが.う"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "容疑者",
+      "reading": "ようぎしゃ",
+      "meaning": "suspect"
+    },
+    {
+      "word": "疑問",
+      "reading": "ぎもん",
+      "meaning": "doubt"
+    },
+    {
+      "word": "疑惑",
+      "reading": "ぎわく",
+      "meaning": "doubt"
+    },
+    {
+      "word": "容疑",
+      "reading": "ようぎ",
+      "meaning": "suspicion"
+    },
+    {
+      "word": "質疑",
+      "reading": "しつぎ",
+      "meaning": "question"
+    },
+    {
+      "word": "疑念",
+      "reading": "ぎねん",
+      "meaning": "doubt"
+    },
+    {
+      "word": "疑う",
+      "reading": "うたがう",
+      "meaning": "to doubt"
+    },
+    {
+      "word": "懐疑",
+      "reading": "かいぎ",
+      "meaning": "doubt"
+    },
+    {
+      "word": "疑獄",
+      "reading": "ぎごく",
+      "meaning": "bribery scandal"
+    },
+    {
+      "word": "被疑者",
+      "reading": "ひぎしゃ",
+      "meaning": "suspect"
+    },
+    {
+      "word": "疑似",
+      "reading": "ぎじ",
+      "meaning": "pseudo"
+    },
+    {
+      "word": "疑わしい",
+      "reading": "うたがわしい",
+      "meaning": "doubtful"
+    },
+    {
+      "word": "疑義",
+      "reading": "ぎぎ",
+      "meaning": "doubt"
+    },
+    {
+      "word": "嫌疑",
+      "reading": "けんぎ",
+      "meaning": "suspicion"
+    },
+    {
+      "word": "疑心",
+      "reading": "ぎしん",
+      "meaning": "doubt"
+    },
+    {
+      "word": "疑問符",
+      "reading": "ぎもんふ",
+      "meaning": "question mark"
+    },
+    {
+      "word": "半信半疑",
+      "reading": "はんしんはんぎ",
+      "meaning": "half in doubt"
+    },
+    {
+      "word": "疑心暗鬼",
+      "reading": "ぎしんあんき",
+      "meaning": "suspicion will raise bogies"
+    },
+    {
+      "word": "疑",
+      "reading": "ぎ",
+      "meaning": "doubt"
+    },
+    {
+      "word": "猜疑",
+      "reading": "さいぎ",
+      "meaning": "suspicion"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "半信半疑",
+      "reading": "はんしんはんぎ",
+      "meaning": "half in doubt"
+    },
+    {
+      "word": "疑心暗鬼",
+      "reading": "ぎしんあんき",
+      "meaning": "suspicion will raise bogies"
+    },
+    {
+      "word": "狐疑逡巡",
+      "reading": "こぎしゅんじゅん",
+      "meaning": "being in doubt and unable to decide"
+    },
+    {
+      "word": "質疑応答",
+      "reading": "しつぎおうとう",
+      "meaning": "question and answer session"
+    },
+    {
+      "word": "遅疑逡巡",
+      "reading": "ちぎしゅんじゅん",
+      "meaning": "shilly-shally"
+    },
+    {
+      "word": "疑心暗鬼を生ず",
+      "reading": "ぎしんあんきをしょうず",
+      "meaning": "suspicion begets monsters"
+    },
+    {
+      "word": "疑わしきは罰せず",
+      "reading": "うたがわしきはばっせず",
+      "meaning": "we are innocent until proven guilty"
+    },
+    {
+      "word": "七度尋ねて人を疑え",
+      "reading": "ななたびたずねてひとをうたがえ",
+      "meaning": "search thoroughly for something lost before you suspect someone of stealing it"
+    },
+    {
+      "word": "疑惑の総合商社",
+      "reading": "ぎわくのそうごうしょうしゃ",
+      "meaning": "person suspected of multiple wrongdoings"
+    },
+    {
+      "word": "疑惑のデパート",
+      "reading": "ぎわくのデパート",
+      "meaning": "person suspected of multiple wrongdoings"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "君の正直なのを決して疑いはしない。",
+      "reading": null,
+      "english": "I don't for a moment doubt your honesty."
+    },
+    {
+      "japanese": "疑いの余地はない。",
+      "reading": null,
+      "english": "There is no room for doubt."
+    }
+  ]
+}

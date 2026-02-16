@@ -1,0 +1,255 @@
+{
+  "definition": {
+    "word": "記事",
+    "reading": "きじ",
+    "romaji": "kiji",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "article",
+          "news story",
+          "report",
+          "account"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "記",
+      "meanings": [
+        "scribe",
+        "account",
+        "narrative"
+      ],
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "しる.す"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "事",
+      "meanings": [
+        "matter",
+        "thing",
+        "fact",
+        "business",
+        "reason",
+        "possibly"
+      ],
+      "onyomi": [
+        "ジ",
+        "ズ"
+      ],
+      "kunyomi": [
+        "こと",
+        "つか.う",
+        "つか.える"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "記者",
+      "reading": "きしゃ",
+      "meaning": "reporter"
+    },
+    {
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "record"
+    },
+    {
+      "word": "書記",
+      "reading": "しょき",
+      "meaning": "clerk"
+    },
+    {
+      "word": "幹事",
+      "reading": "かんじ",
+      "meaning": "executive secretary"
+    },
+    {
+      "word": "軍事",
+      "reading": "ぐんじ",
+      "meaning": "military affairs"
+    },
+    {
+      "word": "仕事",
+      "reading": "しごと",
+      "meaning": "work"
+    },
+    {
+      "word": "事業",
+      "reading": "じぎょう",
+      "meaning": "business"
+    },
+    {
+      "word": "事件",
+      "reading": "じけん",
+      "meaning": "event"
+    },
+    {
+      "word": "事故",
+      "reading": "じこ",
+      "meaning": "accident"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fact"
+    },
+    {
+      "word": "事情",
+      "reading": "じじょう",
+      "meaning": "circumstances"
+    },
+    {
+      "word": "事務",
+      "reading": "じむ",
+      "meaning": "office work"
+    },
+    {
+      "word": "事務局",
+      "reading": "じむきょく",
+      "meaning": "secretariat"
+    },
+    {
+      "word": "事務所",
+      "reading": "じむしょ",
+      "meaning": "office"
+    },
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "prefectural governor"
+    },
+    {
+      "word": "理事",
+      "reading": "りじ",
+      "meaning": "director"
+    },
+    {
+      "word": "事態",
+      "reading": "じたい",
+      "meaning": "situation"
+    },
+    {
+      "word": "時事",
+      "reading": "じじ",
+      "meaning": "events of the day"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "commemoration"
+    },
+    {
+      "word": "工事",
+      "reading": "こうじ",
+      "meaning": "construction work"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "事実無根",
+      "reading": "じじつむこん",
+      "meaning": "groundless"
+    },
+    {
+      "word": "既成事実",
+      "reading": "きせいじじつ",
+      "meaning": "established fact"
+    },
+    {
+      "word": "年中行事",
+      "reading": "ねんちゅうぎょうじ",
+      "meaning": "annual function"
+    },
+    {
+      "word": "後生大事",
+      "reading": "ごしょうだいじ",
+      "meaning": "with religious zeal"
+    },
+    {
+      "word": "博覧強記",
+      "reading": "はくらんきょうき",
+      "meaning": "encyclopedic knowledge and strong memory"
+    },
+    {
+      "word": "博聞強記",
+      "reading": "はくぶんきょうき",
+      "meaning": "being widely read and having a highly retentive memory"
+    },
+    {
+      "word": "事後承諾",
+      "reading": "じごしょうだく",
+      "meaning": "ex-post-facto approval"
+    },
+    {
+      "word": "人間万事塞翁が馬",
+      "reading": "にんげんばんじさいおうがうま",
+      "meaning": "inscrutable are the ways of heaven"
+    },
+    {
+      "word": "人事不省",
+      "reading": "じんじふせい",
+      "meaning": "unconsciousness"
+    },
+    {
+      "word": "多事多端",
+      "reading": "たじたたん",
+      "meaning": "eventfulness"
+    },
+    {
+      "word": "地震雷火事親父",
+      "reading": "じしんかみなりかじおやじ",
+      "meaning": "things to fear: earthquakes, thunder, fires and, most of all, fathers"
+    },
+    {
+      "word": "平穏無事",
+      "reading": "へいおんぶじ",
+      "meaning": "peaceful"
+    },
+    {
+      "word": "無事息災",
+      "reading": "ぶじそくさい",
+      "meaning": "safe and healthy"
+    },
+    {
+      "word": "屁と火事はもとから騒ぐ",
+      "reading": "へとかじはもとからさわぐ",
+      "meaning": "it is often the originator of problems who kicks up a fuss or complains loudest"
+    },
+    {
+      "word": "故事来歴",
+      "reading": "こじらいれき",
+      "meaning": "origin and history"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "失礼だが、上記の記事にある３つの誤りを指摘しておきたい。",
+      "reading": null,
+      "english": "Excuse me; allow me to point out three errors in the above article."
+    },
+    {
+      "japanese": "失礼ですが、上の記事にある誤りを三つ指摘させてください。",
+      "reading": null,
+      "english": "Excuse me; allow me to point out three errors in the above article."
+    }
+  ]
+}

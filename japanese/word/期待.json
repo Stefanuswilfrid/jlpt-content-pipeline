@@ -1,0 +1,241 @@
+{
+  "definition": {
+    "word": "期待",
+    "reading": "きたい",
+    "romaji": "kitai",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "expectation",
+          "anticipation",
+          "hope"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "promising",
+          "rising",
+          "up-and-coming"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "期",
+      "meanings": [
+        "period",
+        "time",
+        "date",
+        "term"
+      ],
+      "onyomi": [
+        "キ",
+        "ゴ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "待",
+      "meanings": [
+        "wait",
+        "depend on"
+      ],
+      "onyomi": [
+        "タイ"
+      ],
+      "kunyomi": [
+        "ま.つ",
+        "-ま.ち"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "period"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "早期",
+      "reading": "そうき",
+      "meaning": "early stage"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "long-term"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "term"
+    },
+    {
+      "word": "次期",
+      "reading": "じき",
+      "meaning": "next term"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "fixed period"
+    },
+    {
+      "word": "任期",
+      "reading": "にんき",
+      "meaning": "term of office"
+    },
+    {
+      "word": "会期",
+      "reading": "かいき",
+      "meaning": "session (of a legislature)"
+    },
+    {
+      "word": "短期",
+      "reading": "たんき",
+      "meaning": "short-term"
+    },
+    {
+      "word": "同期",
+      "reading": "どうき",
+      "meaning": "same period"
+    },
+    {
+      "word": "前期",
+      "reading": "ぜんき",
+      "meaning": "first term"
+    },
+    {
+      "word": "招待",
+      "reading": "しょうたい",
+      "meaning": "invitation"
+    },
+    {
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "postponement"
+    },
+    {
+      "word": "後期",
+      "reading": "こうき",
+      "meaning": "latter period"
+    },
+    {
+      "word": "初期",
+      "reading": "しょき",
+      "meaning": "early days"
+    },
+    {
+      "word": "中期",
+      "reading": "ちゅうき",
+      "meaning": "middle period"
+    },
+    {
+      "word": "末期",
+      "reading": "まっき",
+      "meaning": "last years"
+    },
+    {
+      "word": "待遇",
+      "reading": "たいぐう",
+      "meaning": "treatment"
+    },
+    {
+      "word": "長期的",
+      "reading": "ちょうきてき",
+      "meaning": "long-term"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "時期尚早",
+      "reading": "じきしょうそう",
+      "meaning": "premature"
+    },
+    {
+      "word": "一期一会",
+      "reading": "いちごいちえ",
+      "meaning": "once-in-a-lifetime encounter"
+    },
+    {
+      "word": "鱧も一期、海老も一期",
+      "reading": "はももいちご、えびもいちご",
+      "meaning": "all men are alike"
+    },
+    {
+      "word": "果報は寝て待て",
+      "reading": "かほうはねてまて",
+      "meaning": "good things come to those who wait"
+    },
+    {
+      "word": "人事を尽くして天命を待つ",
+      "reading": "じんじをつくしててんめいをまつ",
+      "meaning": "man proposes, God disposes"
+    },
+    {
+      "word": "歳月人を待たず",
+      "reading": "さいげつひとをまたず",
+      "meaning": "time waits for no man"
+    },
+    {
+      "word": "待つ身は長い",
+      "reading": "まつみはながい",
+      "meaning": "a watched pot never boils"
+    },
+    {
+      "word": "待てば海路の日和あり",
+      "reading": "まてばかいろのひよりあり",
+      "meaning": "good things come to those who wait"
+    },
+    {
+      "word": "官官接待",
+      "reading": "かんかんせったい",
+      "meaning": "bureaucrats entertaining bureaucrats using public funds"
+    },
+    {
+      "word": "首を洗って待つ",
+      "reading": "くびをあらってまつ",
+      "meaning": "to wait for one's punishment"
+    },
+    {
+      "word": "待てば甘露の日和あり",
+      "reading": "まてばかんろのひよりあり",
+      "meaning": "good things come to those who wait"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "これを期待していたんだ！",
+      "reading": null,
+      "english": "I was expecting it!"
+    },
+    {
+      "japanese": "君は彼女に期待をかけすぎている。",
+      "reading": null,
+      "english": "You are expecting too much of her."
+    }
+  ]
+}

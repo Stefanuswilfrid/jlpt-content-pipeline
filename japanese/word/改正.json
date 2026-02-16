@@ -1,0 +1,262 @@
+{
+  "definition": {
+    "word": "改正",
+    "reading": "かいせい",
+    "romaji": "kaisei",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "revision",
+          "amendment",
+          "alteration"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "改",
+      "meanings": [
+        "reformation",
+        "change",
+        "modify",
+        "mend",
+        "renew",
+        "examine",
+        "inspect",
+        "search"
+      ],
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [
+        "あらた.める",
+        "あらた.まる"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "正",
+      "meanings": [
+        "correct",
+        "justice",
+        "righteous",
+        "10**40"
+      ],
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "ただ.しい",
+        "ただ.す",
+        "まさ",
+        "まさ.に"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "改革",
+      "reading": "かいかく",
+      "meaning": "reform"
+    },
+    {
+      "word": "改善",
+      "reading": "かいぜん",
+      "meaning": "betterment"
+    },
+    {
+      "word": "修正",
+      "reading": "しゅうせい",
+      "meaning": "amendment"
+    },
+    {
+      "word": "正式",
+      "reading": "せいしき",
+      "meaning": "formal"
+    },
+    {
+      "word": "正常",
+      "reading": "せいじょう",
+      "meaning": "normal"
+    },
+    {
+      "word": "是正",
+      "reading": "ぜせい",
+      "meaning": "correction"
+    },
+    {
+      "word": "正義",
+      "reading": "せいぎ",
+      "meaning": "justice"
+    },
+    {
+      "word": "正午",
+      "reading": "しょうご",
+      "meaning": "noon"
+    },
+    {
+      "word": "改造",
+      "reading": "かいぞう",
+      "meaning": "remodeling"
+    },
+    {
+      "word": "正",
+      "reading": "せい",
+      "meaning": "(logical) true"
+    },
+    {
+      "word": "正面",
+      "reading": "しょうめん",
+      "meaning": "front"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "injustice"
+    },
+    {
+      "word": "適正",
+      "reading": "てきせい",
+      "meaning": "reasonable"
+    },
+    {
+      "word": "補正予算",
+      "reading": "ほせいよさん",
+      "meaning": "revised budget"
+    },
+    {
+      "word": "改定",
+      "reading": "かいてい",
+      "meaning": "revision (of a rule, price, etc.)"
+    },
+    {
+      "word": "正月",
+      "reading": "しょうがつ",
+      "meaning": "New Year (esp. first three days)"
+    },
+    {
+      "word": "正当",
+      "reading": "せいとう",
+      "meaning": "just"
+    },
+    {
+      "word": "改憲",
+      "reading": "かいけん",
+      "meaning": "constitutional change"
+    },
+    {
+      "word": "公正",
+      "reading": "こうせい",
+      "meaning": "justice"
+    },
+    {
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaning": "honest"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "正当防衛",
+      "reading": "せいとうぼうえい",
+      "meaning": "legitimate self-defence"
+    },
+    {
+      "word": "綱紀粛正",
+      "reading": "こうきしゅくせい",
+      "meaning": "enforcement of official discipline"
+    },
+    {
+      "word": "朝令暮改",
+      "reading": "ちょうれいぼかい",
+      "meaning": "an unsettled course of action"
+    },
+    {
+      "word": "公明正大",
+      "reading": "こうめいせいだい",
+      "meaning": "fair"
+    },
+    {
+      "word": "体質改善",
+      "reading": "たいしつかいぜん",
+      "meaning": "improvement of one's constitution"
+    },
+    {
+      "word": "過ちては則ち改むるに憚ること勿れ",
+      "reading": "あやまちてはすなわちあらたむるにはばかることなかれ",
+      "meaning": "when you make a mistake, don't hesitate to correct it"
+    },
+    {
+      "word": "過ちて改めざるこれを過ちという",
+      "reading": "あやまちてあらためざるこれをあやまちという",
+      "meaning": "a man who has committed a mistake and doesn't correct it is committing another mistake"
+    },
+    {
+      "word": "改過自新",
+      "reading": "かいかじしん",
+      "meaning": "changing one's attitude or conduct and making a new start"
+    },
+    {
+      "word": "厳正中立",
+      "reading": "げんせいちゅうりつ",
+      "meaning": "strict neutrality"
+    },
+    {
+      "word": "正真正銘",
+      "reading": "しょうしんしょうめい",
+      "meaning": "genuine"
+    },
+    {
+      "word": "李下に冠を正さず",
+      "reading": "りかにかんむりをたださず",
+      "meaning": "leave no room for scandal"
+    },
+    {
+      "word": "正々堂々",
+      "reading": "せいせいどうどう",
+      "meaning": "fair and square"
+    },
+    {
+      "word": "破邪顕正",
+      "reading": "はじゃけんしょう",
+      "meaning": "crushing evil and spreading the truth"
+    },
+    {
+      "word": "品行方正",
+      "reading": "ひんこうほうせい",
+      "meaning": "irreproachable conduct"
+    },
+    {
+      "word": "襟を正す",
+      "reading": "えりをただす",
+      "meaning": "to straighten oneself"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "官僚は旧法規の改正に関して、成り行きを見守っています。",
+      "reading": null,
+      "english": "Bureaucrats are testing the waters over revising old regulations."
+    },
+    {
+      "japanese": "われわれの政策や方式は旧式になりかかっているから、改正する必要がある。だが、危機の去らないうちに変えるのは危険だろう。",
+      "reading": null,
+      "english": "Our policies and systems are getting outdated and need revising, but to try to swap horses while crossing a stream might be dangerous."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "definition": {
+    "word": "協議",
+    "reading": "きょうぎ",
+    "romaji": "kyougi",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "conference",
+          "consultation",
+          "discussion",
+          "negotiation"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "協",
+      "meanings": [
+        "co-",
+        "cooperation"
+      ],
+      "onyomi": [
+        "キョウ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "議",
+      "meanings": [
+        "deliberation",
+        "consultation",
+        "debate",
+        "consideration"
+      ],
+      "onyomi": [
+        "ギ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "協会",
+      "reading": "きょうかい",
+      "meaning": "association"
+    },
+    {
+      "word": "協定",
+      "reading": "きょうてい",
+      "meaning": "arrangement"
+    },
+    {
+      "word": "共同",
+      "reading": "きょうどう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "meeting"
+    },
+    {
+      "word": "議員",
+      "reading": "ぎいん",
+      "meaning": "member of an assembly"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "congress"
+    },
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "chair"
+    },
+    {
+      "word": "決議",
+      "reading": "けつぎ",
+      "meaning": "resolution"
+    },
+    {
+      "word": "審議",
+      "reading": "しんぎ",
+      "meaning": "deliberation"
+    },
+    {
+      "word": "論議",
+      "reading": "ろんぎ",
+      "meaning": "discussion"
+    },
+    {
+      "word": "共同体",
+      "reading": "きょうどうたい",
+      "meaning": "cooperative body"
+    },
+    {
+      "word": "閣議",
+      "reading": "かくぎ",
+      "meaning": "cabinet meeting"
+    },
+    {
+      "word": "議席",
+      "reading": "ぎせき",
+      "meaning": "parliamentary seat"
+    },
+    {
+      "word": "議論",
+      "reading": "ぎろん",
+      "meaning": "argument"
+    },
+    {
+      "word": "国会議員",
+      "reading": "こっかいぎいん",
+      "meaning": "member of the Diet"
+    },
+    {
+      "word": "本会議",
+      "reading": "ほんかいぎ",
+      "meaning": "plenary session"
+    },
+    {
+      "word": "協調",
+      "reading": "きょうちょう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "妥協",
+      "reading": "だきょう",
+      "meaning": "compromise"
+    },
+    {
+      "word": "評議",
+      "reading": "ひょうぎ",
+      "meaning": "conference"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "不協和音",
+      "reading": "ふきょうわおん",
+      "meaning": "discord"
+    },
+    {
+      "word": "不可思議",
+      "reading": "ふかしぎ",
+      "meaning": "mystery"
+    },
+    {
+      "word": "鳩首協議",
+      "reading": "きゅうしゅきょうぎ",
+      "meaning": "put heads together and confer"
+    },
+    {
+      "word": "協心戮力",
+      "reading": "きょうしんりくりょく",
+      "meaning": "combined (concerted) efforts"
+    },
+    {
+      "word": "戮力協心",
+      "reading": "りくりょくきょうしん",
+      "meaning": "combined (concerted) efforts"
+    },
+    {
+      "word": "和衷協同",
+      "reading": "わちゅうきょうどう",
+      "meaning": "harmonious cooperation"
+    },
+    {
+      "word": "産学協同",
+      "reading": "さんがくきょうどう",
+      "meaning": "industry-university cooperation"
+    },
+    {
+      "word": "五族協和",
+      "reading": "ごぞくきょうわ",
+      "meaning": "five races under one union (Han, Manchurians, Mongolians, Hui, Tibetans; founding principle of the Republic of China)"
+    },
+    {
+      "word": "衆議一決",
+      "reading": "しゅうぎいっけつ",
+      "meaning": "deciding unanimously or by consensus"
+    },
+    {
+      "word": "議論百出",
+      "reading": "ぎろんひゃくしゅつ",
+      "meaning": "diverse arguments arising in great numbers"
+    },
+    {
+      "word": "物議騒然",
+      "reading": "ぶつぎそうぜん",
+      "meaning": "tumultuous public discussion"
+    },
+    {
+      "word": "鳩首凝議",
+      "reading": "きゅうしゅぎょうぎ",
+      "meaning": "put heads together and confer"
+    },
+    {
+      "word": "鳩首謀議",
+      "reading": "きゅうしゅぼうぎ",
+      "meaning": "go into a huddle (over)"
+    },
+    {
+      "word": "合うも不思議、合わぬも不思議",
+      "reading": "あうもふしぎ、あわぬもふしぎ",
+      "meaning": "dreams and fortune-telling are hit-and-miss"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "サミット参加国は、自由貿易問題を協議事項のトップにおいています。",
+      "reading": null,
+      "english": "The summit nations put free trade at the top of the agenda."
+    },
+    {
+      "japanese": "役員評議会が組織されて新提案を協議した。",
+      "reading": null,
+      "english": "An executive council was formed to discuss the new proposal."
+    }
+  ]
+}

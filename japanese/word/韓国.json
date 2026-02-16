@@ -1,0 +1,261 @@
+{
+  "definition": {
+    "word": "韓国",
+    "reading": "かんこく",
+    "romaji": "kankoku",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "South Korea",
+          "Republic of Korea"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Korean Empire (1897-1910)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "China",
+          "Korea"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "韓",
+      "meanings": [
+        "Korea"
+      ],
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "から",
+        "いげた"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "国",
+      "meanings": [
+        "country"
+      ],
+      "onyomi": [
+        "コク"
+      ],
+      "kunyomi": [
+        "くに"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "foreign country"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    },
+    {
+      "word": "国家",
+      "reading": "こっか",
+      "meaning": "state"
+    },
+    {
+      "word": "国会",
+      "reading": "こっかい",
+      "meaning": "National Diet"
+    },
+    {
+      "word": "国際",
+      "reading": "こくさい",
+      "meaning": "international"
+    },
+    {
+      "word": "国内",
+      "reading": "こくない",
+      "meaning": "within the country"
+    },
+    {
+      "word": "国民",
+      "reading": "こくみん",
+      "meaning": "people (of a country)"
+    },
+    {
+      "word": "国連",
+      "reading": "こくれん",
+      "meaning": "United Nations"
+    },
+    {
+      "word": "中国",
+      "reading": "ちゅうごく",
+      "meaning": "China"
+    },
+    {
+      "word": "米国",
+      "reading": "べいこく",
+      "meaning": "(United States of) America"
+    },
+    {
+      "word": "両国",
+      "reading": "りょうこく",
+      "meaning": "both countries"
+    },
+    {
+      "word": "全国",
+      "reading": "ぜんこく",
+      "meaning": "the whole country"
+    },
+    {
+      "word": "国",
+      "reading": "くに",
+      "meaning": "country"
+    },
+    {
+      "word": "グアテマラ共和国",
+      "reading": "グアテマラきょうわこく",
+      "meaning": "Republic of Guatemala"
+    },
+    {
+      "word": "国会議員",
+      "reading": "こっかいぎいん",
+      "meaning": "member of the Diet"
+    },
+    {
+      "word": "国境",
+      "reading": "こっきょう",
+      "meaning": "border (between countries)"
+    },
+    {
+      "word": "国際的",
+      "reading": "こくさいてき",
+      "meaning": "international"
+    },
+    {
+      "word": "国籍",
+      "reading": "こくせき",
+      "meaning": "nationality"
+    },
+    {
+      "word": "国防",
+      "reading": "こくぼう",
+      "meaning": "national defence"
+    },
+    {
+      "word": "国立",
+      "reading": "こくりつ",
+      "meaning": "national"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "富国強兵",
+      "reading": "ふこくきょうへい",
+      "meaning": "enrich the country, strengthen the army"
+    },
+    {
+      "word": "一死報国",
+      "reading": "いっしほうこく",
+      "meaning": "dying for one's country"
+    },
+    {
+      "word": "挙国一致",
+      "reading": "きょこくいっち",
+      "meaning": "national unity"
+    },
+    {
+      "word": "忠君愛国",
+      "reading": "ちゅうくんあいこく",
+      "meaning": "loyalty and patriotism"
+    },
+    {
+      "word": "七生報国",
+      "reading": "しちしょうほうこく",
+      "meaning": "unfailing devotion to one's country"
+    },
+    {
+      "word": "国利民福",
+      "reading": "こくりみんぷく",
+      "meaning": "national interests and the people's welfare"
+    },
+    {
+      "word": "異国情緒",
+      "reading": "いこくじょうちょ",
+      "meaning": "exotic mood"
+    },
+    {
+      "word": "尽忠報国",
+      "reading": "じんちゅうほうこく",
+      "meaning": "loyalty and patriotism"
+    },
+    {
+      "word": "国士無双",
+      "reading": "こくしむそう",
+      "meaning": "distinguished person"
+    },
+    {
+      "word": "異国情調",
+      "reading": "いこくじょうちょう",
+      "meaning": "exoticism"
+    },
+    {
+      "word": "傾国傾城",
+      "reading": "けいこくけいせい",
+      "meaning": "woman so glamorous as to bring ruin to a country (castle) as its king (lord) is captivated by her beauty"
+    },
+    {
+      "word": "傾城傾国",
+      "reading": "けいせいけいこく",
+      "meaning": "woman so glamorous as to bring ruin to a country (castle) as its king (lord) is captivated by her beauty"
+    },
+    {
+      "word": "小国寡民",
+      "reading": "しょうこくかみん",
+      "meaning": "small country with a small population (The Chinese philosopher Lao-tze's ideal of a state)"
+    },
+    {
+      "word": "一国一城",
+      "reading": "いっこくいちじょう",
+      "meaning": "(possession of) one feudal domain and one castle"
+    },
+    {
+      "word": "救国済民",
+      "reading": "きゅうこくさいみん",
+      "meaning": "saving a nation and providing relief to the people"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "韓国料理は一般的に辛い。",
+      "reading": null,
+      "english": "Korean food is generally very spicy."
+    },
+    {
+      "japanese": "韓国料理は、香辛料のきいた味でよく知られている。",
+      "reading": null,
+      "english": "Korean food is noted for its spicy flavor."
+    }
+  ]
+}

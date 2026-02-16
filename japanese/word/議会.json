@@ -1,0 +1,254 @@
+{
+  "definition": {
+    "word": "議会",
+    "reading": "ぎかい",
+    "romaji": "gikai",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "congress",
+          "parliament",
+          "diet",
+          "legislative assembly"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "議",
+      "meanings": [
+        "deliberation",
+        "consultation",
+        "debate",
+        "consideration"
+      ],
+      "onyomi": [
+        "ギ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "会",
+      "meanings": [
+        "meeting",
+        "meet",
+        "party",
+        "association",
+        "interview",
+        "join"
+      ],
+      "onyomi": [
+        "カイ",
+        "エ"
+      ],
+      "kunyomi": [
+        "あ.う",
+        "あ.わせる",
+        "あつ.まる"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "meeting"
+    },
+    {
+      "word": "議員",
+      "reading": "ぎいん",
+      "meaning": "member of an assembly"
+    },
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "chair"
+    },
+    {
+      "word": "協議",
+      "reading": "きょうぎ",
+      "meaning": "conference"
+    },
+    {
+      "word": "決議",
+      "reading": "けつぎ",
+      "meaning": "resolution"
+    },
+    {
+      "word": "審議",
+      "reading": "しんぎ",
+      "meaning": "deliberation"
+    },
+    {
+      "word": "論議",
+      "reading": "ろんぎ",
+      "meaning": "discussion"
+    },
+    {
+      "word": "委員会",
+      "reading": "いいんかい",
+      "meaning": "committee"
+    },
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "member"
+    },
+    {
+      "word": "会見",
+      "reading": "かいけん",
+      "meaning": "interview"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "company"
+    },
+    {
+      "word": "会談",
+      "reading": "かいだん",
+      "meaning": "talks (i.e. formal discussions)"
+    },
+    {
+      "word": "会長",
+      "reading": "かいちょう",
+      "meaning": "president (of a society)"
+    },
+    {
+      "word": "協会",
+      "reading": "きょうかい",
+      "meaning": "association"
+    },
+    {
+      "word": "国会",
+      "reading": "こっかい",
+      "meaning": "National Diet"
+    },
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "society"
+    },
+    {
+      "word": "社会党",
+      "reading": "しゃかいとう",
+      "meaning": "Socialist Party"
+    },
+    {
+      "word": "総会",
+      "reading": "そうかい",
+      "meaning": "general meeting"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "mass meeting"
+    },
+    {
+      "word": "閣議",
+      "reading": "かくぎ",
+      "meaning": "cabinet meeting"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "不可思議",
+      "reading": "ふかしぎ",
+      "meaning": "mystery"
+    },
+    {
+      "word": "衆議一決",
+      "reading": "しゅうぎいっけつ",
+      "meaning": "deciding unanimously or by consensus"
+    },
+    {
+      "word": "議論百出",
+      "reading": "ぎろんひゃくしゅつ",
+      "meaning": "diverse arguments arising in great numbers"
+    },
+    {
+      "word": "物議騒然",
+      "reading": "ぶつぎそうぜん",
+      "meaning": "tumultuous public discussion"
+    },
+    {
+      "word": "鳩首協議",
+      "reading": "きゅうしゅきょうぎ",
+      "meaning": "put heads together and confer"
+    },
+    {
+      "word": "鳩首凝議",
+      "reading": "きゅうしゅぎょうぎ",
+      "meaning": "put heads together and confer"
+    },
+    {
+      "word": "鳩首謀議",
+      "reading": "きゅうしゅぼうぎ",
+      "meaning": "go into a huddle (over)"
+    },
+    {
+      "word": "合うも不思議、合わぬも不思議",
+      "reading": "あうもふしぎ、あわぬもふしぎ",
+      "meaning": "dreams and fortune-telling are hit-and-miss"
+    },
+    {
+      "word": "一期一会",
+      "reading": "いちごいちえ",
+      "meaning": "once-in-a-lifetime encounter"
+    },
+    {
+      "word": "遠慮会釈",
+      "reading": "えんりょえしゃく",
+      "meaning": "reserve and consideration (to others)"
+    },
+    {
+      "word": "牽強付会",
+      "reading": "けんきょうふかい",
+      "meaning": "strained (argument, interpretation, etc.)"
+    },
+    {
+      "word": "機会均等",
+      "reading": "きかいきんとう",
+      "meaning": "equal opportunity"
+    },
+    {
+      "word": "会者定離",
+      "reading": "えしゃじょうり",
+      "meaning": "those who meet must part (suggesting the transient nature of this life)"
+    },
+    {
+      "word": "逢うは別れの始め",
+      "reading": "あうはわかれのはじめ",
+      "meaning": "we meet only to part"
+    },
+    {
+      "word": "怨憎会苦",
+      "reading": "おんぞうえく",
+      "meaning": "the pain of meeting people one dislikes"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "議会はさいごにけんかになった。",
+      "reading": null,
+      "english": "The argument ended in a fight."
+    },
+    {
+      "japanese": "議会を通過しないうちにその法案は骨抜きにされた。",
+      "reading": null,
+      "english": "The bill was eviscerated before being passed by the legislature."
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "definition": {
+    "word": "活動",
+    "reading": "かつどう",
+    "romaji": "katsudou",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "activity (of a person, organization, animal, volcano, etc.)",
+          "action",
+          "operation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "moving picture"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "活",
+      "meanings": [
+        "lively",
+        "resuscitation",
+        "being helped",
+        "living"
+      ],
+      "onyomi": [
+        "カツ"
+      ],
+      "kunyomi": [
+        "い.きる",
+        "い.かす",
+        "い.ける"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "動",
+      "meanings": [
+        "move",
+        "motion",
+        "change",
+        "confusion",
+        "shift",
+        "shake"
+      ],
+      "onyomi": [
+        "ドウ"
+      ],
+      "kunyomi": [
+        "うご.く",
+        "うご.かす"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "life"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "exercise"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "action"
+    },
+    {
+      "word": "自動車",
+      "reading": "じどうしゃ",
+      "meaning": "car"
+    },
+    {
+      "word": "動き",
+      "reading": "うごき",
+      "meaning": "movement"
+    },
+    {
+      "word": "労働",
+      "reading": "ろうどう",
+      "meaning": "labor"
+    },
+    {
+      "word": "動物",
+      "reading": "どうぶつ",
+      "meaning": "animal"
+    },
+    {
+      "word": "不動産",
+      "reading": "ふどうさん",
+      "meaning": "real estate"
+    },
+    {
+      "word": "労働者",
+      "reading": "ろうどうしゃ",
+      "meaning": "worker"
+    },
+    {
+      "word": "活発",
+      "reading": "かっぱつ",
+      "meaning": "lively"
+    },
+    {
+      "word": "動向",
+      "reading": "どうこう",
+      "meaning": "trend"
+    },
+    {
+      "word": "活性",
+      "reading": "かっせい",
+      "meaning": "activity"
+    },
+    {
+      "word": "活躍",
+      "reading": "かつやく",
+      "meaning": "activity (esp. energetic or successful)"
+    },
+    {
+      "word": "生きる",
+      "reading": "いきる",
+      "meaning": "to live"
+    },
+    {
+      "word": "復活",
+      "reading": "ふっかつ",
+      "meaning": "revival (of an old system, custom, fashion, etc.)"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaning": "movement"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "automatic"
+    },
+    {
+      "word": "変動",
+      "reading": "へんどう",
+      "meaning": "change"
+    },
+    {
+      "word": "動",
+      "reading": "どう",
+      "meaning": "motion"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "practical use"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "耐乏生活",
+      "reading": "たいぼうせいかつ",
+      "meaning": "hard life"
+    },
+    {
+      "word": "活殺自在",
+      "reading": "かっさつじざい",
+      "meaning": "the power of life or death"
+    },
+    {
+      "word": "死中求活",
+      "reading": "しちゅうきゅうかつ",
+      "meaning": "finding a way out of a potentially fatal situation"
+    },
+    {
+      "word": "活溌溌地",
+      "reading": "かっぱつはっち",
+      "meaning": "being full of vitality (energy)"
+    },
+    {
+      "word": "明朗快活",
+      "reading": "めいろうかいかつ",
+      "meaning": "cheerful and openhearted"
+    },
+    {
+      "word": "ウドの大木",
+      "reading": "うどのたいぼく",
+      "meaning": "big but useless person"
+    },
+    {
+      "word": "一挙一動",
+      "reading": "いっきょいちどう",
+      "meaning": "one's every action"
+    },
+    {
+      "word": "驚天動地",
+      "reading": "きょうてんどうち",
+      "meaning": "astounding"
+    },
+    {
+      "word": "軽挙妄動",
+      "reading": "けいきょもうどう",
+      "meaning": "rash and blind act"
+    },
+    {
+      "word": "直立不動",
+      "reading": "ちょくりつふどう",
+      "meaning": "standing at attention"
+    },
+    {
+      "word": "大山鳴動して鼠一匹",
+      "reading": "たいざんめいどうしてねずみいっぴき",
+      "meaning": "much ado about nothing"
+    },
+    {
+      "word": "行動半径",
+      "reading": "こうどうはんけい",
+      "meaning": "radius of action"
+    },
+    {
+      "word": "確固不動",
+      "reading": "かっこふどう",
+      "meaning": "unshakeable (e.g. belief)"
+    },
+    {
+      "word": "陽動作戦",
+      "reading": "ようどうさくせん",
+      "meaning": "diversionary tactics"
+    },
+    {
+      "word": "震天動地",
+      "reading": "しんてんどうち",
+      "meaning": "earth-shaking"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "熊はまた、２４時間明るい夏は当てはまらないが、夜よりも昼に寝る傾向がある。夜活動するのはアザラシの行動と関係があるだろう。",
+      "reading": null,
+      "english": "Bears also tend to sleep more during the day than at night, although in the summer, with twenty-four hours of light, this does not apply."
+    },
+    {
+      "japanese": "金銭のためではなく、経験をとおして学ぶという気持ちでその活動に参加しなさい。",
+      "reading": null,
+      "english": "Take part in the activity not for money but for learning through experience."
+    }
+  ]
+}

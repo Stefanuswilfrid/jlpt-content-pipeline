@@ -1,0 +1,273 @@
+{
+  "definition": {
+    "word": "意見",
+    "reading": "いけん",
+    "romaji": "iken",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "opinion",
+          "view",
+          "comment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "scolding",
+          "reprimand",
+          "rebuke",
+          "admonition",
+          "cautioning",
+          "warning"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "意",
+      "meanings": [
+        "idea",
+        "mind",
+        "heart",
+        "taste",
+        "thought",
+        "desire",
+        "care",
+        "liking"
+      ],
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "見",
+      "meanings": [
+        "see",
+        "hopes",
+        "chances",
+        "idea",
+        "opinion",
+        "look at",
+        "visible"
+      ],
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "み.る",
+        "み.える",
+        "み.せる"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "意味",
+      "reading": "いみ",
+      "meaning": "meaning"
+    },
+    {
+      "word": "合意",
+      "reading": "ごうい",
+      "meaning": "(coming to an) agreement"
+    },
+    {
+      "word": "意向",
+      "reading": "いこう",
+      "meaning": "intention"
+    },
+    {
+      "word": "会見",
+      "reading": "かいけん",
+      "meaning": "interview"
+    },
+    {
+      "word": "見直し",
+      "reading": "みなおし",
+      "meaning": "review"
+    },
+    {
+      "word": "見方",
+      "reading": "みかた",
+      "meaning": "viewpoint"
+    },
+    {
+      "word": "現在",
+      "reading": "げんざい",
+      "meaning": "the present"
+    },
+    {
+      "word": "見通し",
+      "reading": "みとおし",
+      "meaning": "unobstructed view"
+    },
+    {
+      "word": "意思",
+      "reading": "いし",
+      "meaning": "intention"
+    },
+    {
+      "word": "意識",
+      "reading": "いしき",
+      "meaning": "consciousness"
+    },
+    {
+      "word": "意欲",
+      "reading": "いよく",
+      "meaning": "will"
+    },
+    {
+      "word": "思う",
+      "reading": "おもう",
+      "meaning": "to think"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "opinion"
+    },
+    {
+      "word": "決意",
+      "reading": "けつい",
+      "meaning": "decision"
+    },
+    {
+      "word": "見込み",
+      "reading": "みこみ",
+      "meaning": "hope"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "unexpected"
+    },
+    {
+      "word": "意義",
+      "reading": "いぎ",
+      "meaning": "meaning"
+    },
+    {
+      "word": "注意",
+      "reading": "ちゅうい",
+      "meaning": "attention"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "discovery"
+    },
+    {
+      "word": "意図",
+      "reading": "いと",
+      "meaning": "intention"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "意思表示",
+      "reading": "いしひょうじ",
+      "meaning": "expressing one's feelings"
+    },
+    {
+      "word": "意気投合",
+      "reading": "いきとうごう",
+      "meaning": "hit it off with (a person)"
+    },
+    {
+      "word": "意気軒昂",
+      "reading": "いきけんこう",
+      "meaning": "in high spirits"
+    },
+    {
+      "word": "意気消沈",
+      "reading": "いきしょうちん",
+      "meaning": "low spirits"
+    },
+    {
+      "word": "潜在意識",
+      "reading": "せんざいいしき",
+      "meaning": "subconsciousness"
+    },
+    {
+      "word": "意気阻喪",
+      "reading": "いきそそう",
+      "meaning": "depressed in spirits"
+    },
+    {
+      "word": "意志薄弱",
+      "reading": "いしはくじゃく",
+      "meaning": "weak-willed"
+    },
+    {
+      "word": "意馬心猿",
+      "reading": "いばしんえん",
+      "meaning": "it is hard to keep one's worldly desires and passions in check"
+    },
+    {
+      "word": "意味深長",
+      "reading": "いみしんちょう",
+      "meaning": "with profound (and often hidden) meaning"
+    },
+    {
+      "word": "一意専心",
+      "reading": "いちいせんしん",
+      "meaning": "single-mindedly"
+    },
+    {
+      "word": "誠心誠意",
+      "reading": "せいしんせいい",
+      "meaning": "in all sincerity"
+    },
+    {
+      "word": "当意即妙",
+      "reading": "とういそくみょう",
+      "meaning": "ready wit"
+    },
+    {
+      "word": "用意周到",
+      "reading": "よういしゅうとう",
+      "meaning": "very careful"
+    },
+    {
+      "word": "意気揚々",
+      "reading": "いきようよう",
+      "meaning": "triumphant"
+    },
+    {
+      "word": "上意下達",
+      "reading": "じょういかたつ",
+      "meaning": "conveying the will of the governing to the governed"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "どんな意見も真実と誤りの混合だ。",
+      "reading": null,
+      "english": "Every opinion is a mixture of truth and mistakes."
+    },
+    {
+      "japanese": "もし二人の人が常に同じ意見を持っていたら、そのうちの一人は必要ない。",
+      "reading": null,
+      "english": "If two men always have the same opinion, one of them is unnecessary."
+    }
+  ]
+}

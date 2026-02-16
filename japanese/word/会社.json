@@ -1,0 +1,259 @@
+{
+  "definition": {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "romaji": "kaisha",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "company",
+          "corporation",
+          "firm"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's workplace"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "会",
+      "meanings": [
+        "meeting",
+        "meet",
+        "party",
+        "association",
+        "interview",
+        "join"
+      ],
+      "onyomi": [
+        "カイ",
+        "エ"
+      ],
+      "kunyomi": [
+        "あ.う",
+        "あ.わせる",
+        "あつ.まる"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "社",
+      "meanings": [
+        "company",
+        "firm",
+        "office",
+        "association",
+        "shrine"
+      ],
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "やしろ"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "委員会",
+      "reading": "いいんかい",
+      "meaning": "committee"
+    },
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "member"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "meeting"
+    },
+    {
+      "word": "会見",
+      "reading": "かいけん",
+      "meaning": "interview"
+    },
+    {
+      "word": "会談",
+      "reading": "かいだん",
+      "meaning": "talks (i.e. formal discussions)"
+    },
+    {
+      "word": "会長",
+      "reading": "かいちょう",
+      "meaning": "president (of a society)"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "congress"
+    },
+    {
+      "word": "協会",
+      "reading": "きょうかい",
+      "meaning": "association"
+    },
+    {
+      "word": "国会",
+      "reading": "こっかい",
+      "meaning": "National Diet"
+    },
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "society"
+    },
+    {
+      "word": "社会党",
+      "reading": "しゃかいとう",
+      "meaning": "Socialist Party"
+    },
+    {
+      "word": "総会",
+      "reading": "そうかい",
+      "meaning": "general meeting"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "mass meeting"
+    },
+    {
+      "word": "社長",
+      "reading": "しゃちょう",
+      "meaning": "company president"
+    },
+    {
+      "word": "同社",
+      "reading": "どうしゃ",
+      "meaning": "the same company"
+    },
+    {
+      "word": "本社",
+      "reading": "ほんしゃ",
+      "meaning": "head office"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "meeting"
+    },
+    {
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaning": "assembly hall"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaning": "chance"
+    },
+    {
+      "word": "国会議員",
+      "reading": "こっかいぎいん",
+      "meaning": "member of the Diet"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "一期一会",
+      "reading": "いちごいちえ",
+      "meaning": "once-in-a-lifetime encounter"
+    },
+    {
+      "word": "遠慮会釈",
+      "reading": "えんりょえしゃく",
+      "meaning": "reserve and consideration (to others)"
+    },
+    {
+      "word": "牽強付会",
+      "reading": "けんきょうふかい",
+      "meaning": "strained (argument, interpretation, etc.)"
+    },
+    {
+      "word": "機会均等",
+      "reading": "きかいきんとう",
+      "meaning": "equal opportunity"
+    },
+    {
+      "word": "会者定離",
+      "reading": "えしゃじょうり",
+      "meaning": "those who meet must part (suggesting the transient nature of this life)"
+    },
+    {
+      "word": "逢うは別れの始め",
+      "reading": "あうはわかれのはじめ",
+      "meaning": "we meet only to part"
+    },
+    {
+      "word": "怨憎会苦",
+      "reading": "おんぞうえく",
+      "meaning": "the pain of meeting people one dislikes"
+    },
+    {
+      "word": "会稽の恥",
+      "reading": "かいけいのはじ",
+      "meaning": "humiliation of defeat in battle"
+    },
+    {
+      "word": "会稽の恥を雪ぐ",
+      "reading": "かいけいのはじをすすぐ",
+      "meaning": "to avenge a defeat"
+    },
+    {
+      "word": "地獄で仏に会ったよう",
+      "reading": "じごくでほとけにあったよう",
+      "meaning": "with great relief"
+    },
+    {
+      "word": "碁に凝ると親の死に目に逢わぬ",
+      "reading": "ごにこるとおやのしにめにあわぬ",
+      "meaning": "if you get too absorbed when playing go, you will miss your parent's deathbed"
+    },
+    {
+      "word": "会に合わぬ花",
+      "reading": "えにあわぬはな",
+      "meaning": "something that comes too late to be of any use"
+    },
+    {
+      "word": "社交辞令",
+      "reading": "しゃこうじれい",
+      "meaning": "something said for politeness' sake"
+    },
+    {
+      "word": "疑惑の総合商社",
+      "reading": "ぎわくのそうごうしょうしゃ",
+      "meaning": "person suspected of multiple wrongdoings"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "どうして会社に行かなかったの？",
+      "reading": null,
+      "english": "Why did you not go to the office?"
+    },
+    {
+      "japanese": "君はどうして私たちの会社で働く決心をしたのですか。",
+      "reading": null,
+      "english": "What has made you decide to work for our company?"
+    }
+  ]
+}

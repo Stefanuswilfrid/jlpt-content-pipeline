@@ -1,0 +1,221 @@
+{
+  "definition": {
+    "word": "課題",
+    "reading": "かだい",
+    "romaji": "kadai",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "subject",
+          "theme",
+          "issue",
+          "matter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "homework",
+          "assignment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "problem (that needs solving)",
+          "task",
+          "challenge",
+          "question"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "route (in climbing, bouldering, etc.)",
+          "problem"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "課",
+      "meanings": [
+        "chapter",
+        "lesson",
+        "section",
+        "department",
+        "division",
+        "counter for chapters (of a book)"
+      ],
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "題",
+      "meanings": [
+        "topic",
+        "subject"
+      ],
+      "onyomi": [
+        "ダイ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "question (e.g. on a test)"
+    },
+    {
+      "word": "課長",
+      "reading": "かちょう",
+      "meaning": "section manager"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaning": "topic"
+    },
+    {
+      "word": "課税",
+      "reading": "かぜい",
+      "meaning": "taxation"
+    },
+    {
+      "word": "問題点",
+      "reading": "もんだいてん",
+      "meaning": "the problem (at issue)"
+    },
+    {
+      "word": "議題",
+      "reading": "ぎだい",
+      "meaning": "topic of discussion"
+    },
+    {
+      "word": "課",
+      "reading": "か",
+      "meaning": "lesson"
+    },
+    {
+      "word": "科目",
+      "reading": "かもく",
+      "meaning": "(school) subject"
+    },
+    {
+      "word": "題材",
+      "reading": "だいざい",
+      "meaning": "subject"
+    },
+    {
+      "word": "社会問題",
+      "reading": "しゃかいもんだい",
+      "meaning": "social problem"
+    },
+    {
+      "word": "課程",
+      "reading": "かてい",
+      "meaning": "course"
+    },
+    {
+      "word": "主題",
+      "reading": "しゅだい",
+      "meaning": "subject"
+    },
+    {
+      "word": "例題",
+      "reading": "れいだい",
+      "meaning": "example"
+    },
+    {
+      "word": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "homework"
+    },
+    {
+      "word": "題名",
+      "reading": "だいめい",
+      "meaning": "title"
+    },
+    {
+      "word": "難題",
+      "reading": "なんだい",
+      "meaning": "difficult problem"
+    },
+    {
+      "word": "課する",
+      "reading": "かする",
+      "meaning": "to impose (a tax, fine, etc.)"
+    },
+    {
+      "word": "課徴金",
+      "reading": "かちょうきん",
+      "meaning": "charges (i.e. fees)"
+    },
+    {
+      "word": "題",
+      "reading": "だい",
+      "meaning": "title"
+    },
+    {
+      "word": "問題意識",
+      "reading": "もんだいいしき",
+      "meaning": "awareness of the issues"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "無理難題",
+      "reading": "むりなんだい",
+      "meaning": "unreasonable demand"
+    },
+    {
+      "word": "人事考課",
+      "reading": "じんじこうか",
+      "meaning": "merit (ability, efficiency) rating"
+    },
+    {
+      "word": "閑話休題",
+      "reading": "かんわきゅうだい",
+      "meaning": "getting back to the subject at hand, ..."
+    },
+    {
+      "word": "外題学問",
+      "reading": "げだいがくもん",
+      "meaning": "putting on a knowing air when one only knows the title of the book (play, etc.)"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "課題が多大な認識力を必要とするので、スコアは低い。",
+      "reading": null,
+      "english": "The scores are low because the task is cognitively demanding."
+    },
+    {
+      "japanese": "医療研究では病気の原因を特定することが第一の課題の一つとされる。",
+      "reading": null,
+      "english": "In medical research, one of the first problems is to isolate the cause of the disease."
+    }
+  ]
+}

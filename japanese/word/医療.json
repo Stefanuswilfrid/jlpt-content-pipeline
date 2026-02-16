@@ -1,0 +1,190 @@
+{
+  "definition": {
+    "word": "医療",
+    "reading": "いりょう",
+    "romaji": "iryou",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "medical treatment",
+          "medical care"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "医",
+      "meanings": [
+        "doctor",
+        "medicine"
+      ],
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [
+        "い.やす",
+        "い.する",
+        "くすし"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "療",
+      "meanings": [
+        "heal",
+        "cure"
+      ],
+      "onyomi": [
+        "リョウ"
+      ],
+      "kunyomi": [],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "meaning": "medicine"
+    },
+    {
+      "word": "医師",
+      "reading": "いし",
+      "meaning": "doctor"
+    },
+    {
+      "word": "治療",
+      "reading": "ちりょう",
+      "meaning": "(medical) treatment"
+    },
+    {
+      "word": "医薬品",
+      "reading": "いやくひん",
+      "meaning": "medical and pharmaceutical products"
+    },
+    {
+      "word": "診療",
+      "reading": "しんりょう",
+      "meaning": "diagnosis and treatment"
+    },
+    {
+      "word": "医者",
+      "reading": "いしゃ",
+      "meaning": "doctor"
+    },
+    {
+      "word": "医大",
+      "reading": "いだい",
+      "meaning": "medical university"
+    },
+    {
+      "word": "療法",
+      "reading": "りょうほう",
+      "meaning": "(method of) treatment"
+    },
+    {
+      "word": "医科",
+      "reading": "いか",
+      "meaning": "medical science"
+    },
+    {
+      "word": "療養",
+      "reading": "りょうよう",
+      "meaning": "recuperation"
+    },
+    {
+      "word": "お医者さん",
+      "reading": "おいしゃさん",
+      "meaning": "doctor"
+    },
+    {
+      "word": "療養所",
+      "reading": "りょうようじょ",
+      "meaning": "sanatorium"
+    },
+    {
+      "word": "診療所",
+      "reading": "しんりょうじょ",
+      "meaning": "clinic"
+    },
+    {
+      "word": "医院",
+      "reading": "いいん",
+      "meaning": "doctor's office"
+    },
+    {
+      "word": "医局",
+      "reading": "いきょく",
+      "meaning": "medical office (esp. in a hospital)"
+    },
+    {
+      "word": "医師会",
+      "reading": "いしかい",
+      "meaning": "medical association"
+    },
+    {
+      "word": "主治医",
+      "reading": "しゅじい",
+      "meaning": "doctor chiefly responsible for a patient's care"
+    },
+    {
+      "word": "獣医",
+      "reading": "じゅうい",
+      "meaning": "veterinarian"
+    },
+    {
+      "word": "医",
+      "reading": "い",
+      "meaning": "medicine"
+    },
+    {
+      "word": "歯科医師",
+      "reading": "しかいし",
+      "meaning": "dentist"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "医食同源",
+      "reading": "いしょくどうげん",
+      "meaning": "a balanced diet leads to a healthy body"
+    },
+    {
+      "word": "医者の不養生",
+      "reading": "いしゃのふようじょう",
+      "meaning": "failing to practice what one preaches"
+    },
+    {
+      "word": "腹八分目に医者いらず",
+      "reading": "はらはちぶんめにいしゃいらず",
+      "meaning": "eating moderately keeps the doctor away"
+    },
+    {
+      "word": "転地療養",
+      "reading": "てんちりょうよう",
+      "meaning": "seeking to improve one's health with a change of climate"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "改良された医療技術は、宇宙開発計画の副産物として派生したものの一つである。",
+      "reading": null,
+      "english": "Improved medical technology has been one of the spin-offs of the space program."
+    },
+    {
+      "japanese": "医療保険は使えますか。",
+      "reading": null,
+      "english": "Can I use my medical insurance?"
+    }
+  ]
+}

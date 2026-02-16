@@ -1,0 +1,263 @@
+{
+  "definition": {
+    "word": "関連",
+    "reading": "かんれん",
+    "romaji": "kanren",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "relation",
+          "connection",
+          "relevance"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "関",
+      "meanings": [
+        "connection",
+        "barrier",
+        "gateway",
+        "involve",
+        "concerning"
+      ],
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "せき",
+        "-ぜき",
+        "かか.わる",
+        "からくり",
+        "かんぬき"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "連",
+      "meanings": [
+        "take along",
+        "lead",
+        "join",
+        "connect",
+        "party",
+        "gang",
+        "clique"
+      ],
+      "onyomi": [
+        "レン"
+      ],
+      "kunyomi": [
+        "つら.なる",
+        "つら.ねる",
+        "つ.れる",
+        "-づ.れ"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "関係",
+      "reading": "かんけい",
+      "meaning": "relation"
+    },
+    {
+      "word": "関係者",
+      "reading": "かんけいしゃ",
+      "meaning": "person concerned"
+    },
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaning": "concern"
+    },
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "engine"
+    },
+    {
+      "word": "国連",
+      "reading": "こくれん",
+      "meaning": "United Nations"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "union"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "連邦",
+      "reading": "れんぽう",
+      "meaning": "federation (of states)"
+    },
+    {
+      "word": "連立",
+      "reading": "れんりつ",
+      "meaning": "coalition"
+    },
+    {
+      "word": "関",
+      "reading": "せき",
+      "meaning": "barrier"
+    },
+    {
+      "word": "関西",
+      "reading": "かんさい",
+      "meaning": "Kansai (region comprising Kyoto, Osaka, Kobe and surrounding prefectures)"
+    },
+    {
+      "word": "関税",
+      "reading": "かんぜい",
+      "meaning": "customs (duties)"
+    },
+    {
+      "word": "連盟",
+      "reading": "れんめい",
+      "meaning": "league"
+    },
+    {
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "contacting"
+    },
+    {
+      "word": "金融機関",
+      "reading": "きんゆうきかん",
+      "meaning": "financial institutions"
+    },
+    {
+      "word": "一連",
+      "reading": "いちれん",
+      "meaning": "series"
+    },
+    {
+      "word": "連合会",
+      "reading": "れんごうかい",
+      "meaning": "association"
+    },
+    {
+      "word": "連勝",
+      "reading": "れんしょう",
+      "meaning": "consecutive victories"
+    },
+    {
+      "word": "連覇",
+      "reading": "れんぱ",
+      "meaning": "successive championships"
+    },
+    {
+      "word": "連敗",
+      "reading": "れんぱい",
+      "meaning": "consecutive defeats"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "相関関係",
+      "reading": "そうかんかんけい",
+      "meaning": "correlation"
+    },
+    {
+      "word": "合従連衡",
+      "reading": "がっしょうれんこう",
+      "meaning": "alliance (of the Six Kingdoms against the Qin dynasty, and of individual Kingdoms with the Qin dynasty)"
+    },
+    {
+      "word": "連鎖反応",
+      "reading": "れんさはんのう",
+      "meaning": "chain reaction"
+    },
+    {
+      "word": "亭主関白",
+      "reading": "ていしゅかんぱく",
+      "meaning": "domineering husband"
+    },
+    {
+      "word": "関の山",
+      "reading": "せきのやま",
+      "meaning": "the most one can do"
+    },
+    {
+      "word": "一蓮托生",
+      "reading": "いちれんたくしょう",
+      "meaning": "sharing one's lot with another"
+    },
+    {
+      "word": "連れしょん",
+      "reading": "つれしょん",
+      "meaning": "going to the bathroom in a group"
+    },
+    {
+      "word": "連戦連勝",
+      "reading": "れんせんれんしょう",
+      "meaning": "succession of victories"
+    },
+    {
+      "word": "連日連夜",
+      "reading": "れんじつれんや",
+      "meaning": "every day and every night"
+    },
+    {
+      "word": "比翼連理",
+      "reading": "ひよくれんり",
+      "meaning": "marital vows"
+    },
+    {
+      "word": "流連荒亡",
+      "reading": "りゅうれんこうぼう",
+      "meaning": "spending all one's time in idle amusement away from home"
+    },
+    {
+      "word": "連帯責任",
+      "reading": "れんたいせきにん",
+      "meaning": "collective responsibility"
+    },
+    {
+      "word": "旅は道連れ世は情け",
+      "reading": "たびはみちづれよはなさけ",
+      "meaning": "in traveling, a companion; in life, sympathy"
+    },
+    {
+      "word": "連銭葦毛",
+      "reading": "れんぜんあしげ",
+      "meaning": "dapple gray (horse coat color)"
+    },
+    {
+      "word": "馬は馬連れ",
+      "reading": "うまはうまづれ",
+      "meaning": "birds of a feather flock together"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "アメリカで行われた全国的な世論調査によると、イスラム教徒がテロリズムと関連しているという考えが広く浸透している。",
+      "reading": null,
+      "english": "It is a prevalent belief, according to a nationwide poll in the United States, that Muslims are linked with terrorism."
+    },
+    {
+      "japanese": "給料は労働者の年齢との関連で異なってくる。",
+      "reading": null,
+      "english": "Wages vary in relation to the age of the worker."
+    }
+  ]
+}

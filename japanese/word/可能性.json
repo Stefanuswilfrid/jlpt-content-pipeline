@@ -1,0 +1,272 @@
+{
+  "definition": {
+    "word": "可能性",
+    "reading": "かのうせい",
+    "romaji": "kanousei",
+    "jlpt": null,
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "possibility",
+          "chance",
+          "likelihood",
+          "probability",
+          "potential"
+        ]
+      }
+    ]
+  },
+  "kanji": [
+    {
+      "character": "可",
+      "meanings": [
+        "can",
+        "passable",
+        "approval"
+      ],
+      "onyomi": [
+        "カ",
+        "コク"
+      ],
+      "kunyomi": [
+        "-べ.き",
+        "-べ.し"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "能",
+      "meanings": [
+        "ability",
+        "talent",
+        "skill",
+        "capacity"
+      ],
+      "onyomi": [
+        "ノウ"
+      ],
+      "kunyomi": [
+        "よ.く",
+        "あた.う"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    },
+    {
+      "character": "性",
+      "meanings": [
+        "sex",
+        "gender",
+        "nature"
+      ],
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "さが"
+      ],
+      "strokeCount": null,
+      "jlpt": null,
+      "grade": null
+    }
+  ],
+  "related": [
+    {
+      "word": "可能",
+      "reading": "かのう",
+      "meaning": "possible"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaning": "function"
+    },
+    {
+      "word": "女性",
+      "reading": "じょせい",
+      "meaning": "woman"
+    },
+    {
+      "word": "男性",
+      "reading": "だんせい",
+      "meaning": "man"
+    },
+    {
+      "word": "能力",
+      "reading": "のうりょく",
+      "meaning": "ability"
+    },
+    {
+      "word": "許可",
+      "reading": "きょか",
+      "meaning": "permission"
+    },
+    {
+      "word": "性格",
+      "reading": "せいかく",
+      "meaning": "character (of a person)"
+    },
+    {
+      "word": "必要性",
+      "reading": "ひつようせい",
+      "meaning": "necessity"
+    },
+    {
+      "word": "活性",
+      "reading": "かっせい",
+      "meaning": "activity"
+    },
+    {
+      "word": "個性",
+      "reading": "こせい",
+      "meaning": "individuality"
+    },
+    {
+      "word": "可笑しい",
+      "reading": "おかしい",
+      "meaning": "funny"
+    },
+    {
+      "word": "認可",
+      "reading": "にんか",
+      "meaning": "approval"
+    },
+    {
+      "word": "芸能",
+      "reading": "げいのう",
+      "meaning": "public entertainment"
+    },
+    {
+      "word": "能",
+      "reading": "のう",
+      "meaning": "talent"
+    },
+    {
+      "word": "急性",
+      "reading": "きゅうせい",
+      "meaning": "acute (illness)"
+    },
+    {
+      "word": "可",
+      "reading": "か",
+      "meaning": "acceptable"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaning": "indispensable"
+    },
+    {
+      "word": "不可能",
+      "reading": "ふかのう",
+      "meaning": "impossible"
+    },
+    {
+      "word": "放射能",
+      "reading": "ほうしゃのう",
+      "meaning": "radioactivity"
+    },
+    {
+      "word": "放射性",
+      "reading": "ほうしゃせい",
+      "meaning": "radioactive"
+    }
+  ],
+  "expressions": [
+    {
+      "word": "不可思議",
+      "reading": "ふかしぎ",
+      "meaning": "mystery"
+    },
+    {
+      "word": "不可抗力",
+      "reading": "ふかこうりょく",
+      "meaning": "act of God"
+    },
+    {
+      "word": "純情可憐",
+      "reading": "じゅんじょうかれん",
+      "meaning": "pure of heart and pretty"
+    },
+    {
+      "word": "猫可愛がり",
+      "reading": "ねこかわいがり",
+      "meaning": "(endlessly) doting (on someone)"
+    },
+    {
+      "word": "可惜身命",
+      "reading": "あたらしんみょう",
+      "meaning": "valuing one's body and life"
+    },
+    {
+      "word": "奇貨可居",
+      "reading": "きかおくべし",
+      "meaning": "you must seize every golden opportunity"
+    },
+    {
+      "word": "紅顔可憐",
+      "reading": "こうがんかれん",
+      "meaning": "youthful and endearing"
+    },
+    {
+      "word": "後生可畏",
+      "reading": "こうせいかい",
+      "meaning": "the young should be regarded with respect"
+    },
+    {
+      "word": "純真可憐",
+      "reading": "じゅんしんかれん",
+      "meaning": "pure of heart and beautiful"
+    },
+    {
+      "word": "かわいい子には旅をさせよ",
+      "reading": "かわいいこにはたびをさせよ",
+      "meaning": "spare the rod and spoil the child"
+    },
+    {
+      "word": "一寸の光陰軽んずべからず",
+      "reading": "いっすんのこういんかろんずべからず",
+      "meaning": "there isn't a moment to be wasted"
+    },
+    {
+      "word": "可愛さ余って憎さ百倍",
+      "reading": "かわいさあまってにくさひゃくばい",
+      "meaning": "the greatest hate proceeds from the greatest love"
+    },
+    {
+      "word": "好機逸すべからず",
+      "reading": "こうきいっすべからず",
+      "meaning": "make hay while the sun shines"
+    },
+    {
+      "word": "初心忘るべからず",
+      "reading": "しょしんわするべからず",
+      "meaning": "we were all beginners once"
+    },
+    {
+      "word": "井蛙は以って海を語る可からず",
+      "reading": "せいあはもってうみをかたるべからず",
+      "meaning": "a narrow-minded person cannot understand the ways of the world"
+    }
+  ],
+  "examples": [
+    {
+      "japanese": "でも可能性は低そうだね。",
+      "reading": null,
+      "english": "But the possibility seems unlikely."
+    },
+    {
+      "japanese": "でも可能性は低そうだね。",
+      "reading": null,
+      "english": "But the possibility seems unlikely."
+    }
+  ]
+}
