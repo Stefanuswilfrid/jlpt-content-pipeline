@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "ギター",
+    "reading": "ギター",
+    "romaji": "gitaa",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gitar"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どちらがあなたのギターですか。",
+      "reading": null,
+      "indonesian": "Which is your guitar?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ジェーンはギターは言うまでもなく、バイオリンもひける。",
+      "reading": null,
+      "indonesian": "Jane can play the violin, not to mention the guitar.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このギターは音色があっている。",
+      "reading": null,
+      "indonesian": "The guitar is in tune.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

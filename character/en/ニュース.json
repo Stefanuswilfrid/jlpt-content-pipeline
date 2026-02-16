@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "ニュース",
+    "reading": "ニュース",
+    "romaji": "nyuusu",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "news"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何か新しいニュースはありますか。",
+      "reading": null,
+      "english": "Is there any fresh news?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何かよいニュースはありませんか。",
+      "reading": null,
+      "english": "Do you have any good news?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ラジオで、今朝、ニュースを聞きましたか。",
+      "reading": null,
+      "english": "Did you hear the news on the radio this morning?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "駅",
+    "reading": "えき",
+    "romaji": "eki",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stasiun"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "staging post on a highway (in pre-modern Japan)"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for railway stations and bus stations"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "駅弁",
+      "reading": "えきべん",
+      "meaning": "boxed lunch bought at a station (often a local specialty)",
+      "type": "expression"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "洋杯",
+    "reading": "コップ",
+    "romaji": "koppu",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gelas minum; gelas"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cups (suit)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "洋服",
+      "reading": "ようふく",
+      "meaning": "Pakaian bergaya Barat"
+    },
+    {
+      "word": "西洋",
+      "reading": "せいよう",
+      "meaning": "Barat, negara-negara Barat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "テーブルの上にコップがある。",
+      "reading": null,
+      "indonesian": "There is a glass on the table.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "テーブルの上にガラスのコップがある。",
+      "reading": null,
+      "indonesian": "There is a glass on the table.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "テーブルにコップがいくつかありましたか。",
+      "reading": null,
+      "indonesian": "Were there any glasses on the table?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのコップにはひびが入っている。",
+      "reading": null,
+      "indonesian": "There is a crack in the glass.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

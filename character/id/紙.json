@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "紙",
+    "reading": "かみ",
+    "romaji": "kami",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kertas"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "surat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一紙半銭",
+      "reading": "いっしはんせん",
+      "meaning": "small sum",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "眼光紙背",
+      "reading": "がんこうしはい",
+      "meaning": "reading between the lines",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "白紙委任",
+      "reading": "はくしいにん",
+      "meaning": "carte blanche",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天才と狂人は紙一重",
+      "reading": "てんさいときょうじんはかみひとえ",
+      "meaning": "there's but a fine line between genius and insanity",
+      "type": "proverb"
+    },
+    {
+      "word": "洛陽の紙価を高める",
+      "reading": "らくようのしかをたかめる",
+      "meaning": "to be favorably received and sell extremely well (of a book)",
+      "type": "idiom"
+    },
+    {
+      "word": "馬鹿と天才は紙一重",
+      "reading": "ばかとてんさいはかみひとえ",
+      "meaning": "there is but a fine line between genius and insanity",
+      "type": "proverb"
+    },
+    {
+      "word": "眼光紙背に徹する",
+      "reading": "がんこうしはいにてっする",
+      "meaning": "to (be able to) read between the lines",
+      "type": "idiom"
+    },
+    {
+      "word": "眼光紙背に徹す",
+      "reading": "がんこうしはいにてっす",
+      "meaning": "to (be able to) read between the lines",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "手紙を書いていますか。",
+      "reading": null,
+      "indonesian": "Are you writing a letter?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "手紙を書いてるんですか？",
+      "reading": null,
+      "indonesian": "Are you writing a letter?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この紙にサインするだけでいいんだよ。",
+      "reading": null,
+      "indonesian": "All you have to do is sign this paper.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

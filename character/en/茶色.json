@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "茶色",
+    "reading": "ちゃいろ",
+    "romaji": "chairo",
+    "jlpt": "N5",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "brown",
+          "light brown",
+          "tawny"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "喫茶店",
+      "reading": "きっさてん",
+      "meaning": "coffee shop"
+    },
+    {
+      "word": "黄色",
+      "reading": "きいろ",
+      "meaning": "yellow"
+    },
+    {
+      "word": "紅茶",
+      "reading": "こうちゃ",
+      "meaning": "black tea"
+    },
+    {
+      "word": "色",
+      "reading": "いろ",
+      "meaning": "colour"
+    },
+    {
+      "word": "お茶",
+      "reading": "おちゃ",
+      "meaning": "tea (esp. green or barley)"
+    },
+    {
+      "word": "茶碗",
+      "reading": "ちゃわん",
+      "meaning": "rice bowl"
+    },
+    {
+      "word": "色々",
+      "reading": "いろいろ",
+      "meaning": "various"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaning": "scenery"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その犬は茶色で小さくて、やせています。",
+      "reading": null,
+      "english": "The dog is brown, small and thin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのうちのいくつかは赤く、いくつかは茶色だ。",
+      "reading": null,
+      "english": "Some of them are red; others are brown.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この茶色のネクタイをいただきたいのですが。",
+      "reading": null,
+      "english": "I would take this brown tie.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

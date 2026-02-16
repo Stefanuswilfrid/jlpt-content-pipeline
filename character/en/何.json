@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "何",
+    "reading": "なに",
+    "romaji": "nani",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "what"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you-know-what",
+          "that thing"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "whatsit",
+          "whachamacallit",
+          "what's-his-name",
+          "what's-her-name"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "penis",
+          "(one's) thing",
+          "dick"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(not) at all",
+          "(not) in the slightest"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "精神一到何事か成らざらん",
+      "reading": "せいしんいっとうなにごとかならざらん",
+      "meaning": "where there is a will, there is a way",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何かしてみましょう。",
+      "reading": null,
+      "english": "Let's try something.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "何と言ったらいいか・・・。",
+      "reading": null,
+      "english": "I just don't know what to say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何とも言いようがないなあ。",
+      "reading": null,
+      "english": "I just don't know what to say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "だから何？",
+      "reading": null,
+      "english": "So what?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "だから何なの？",
+      "reading": null,
+      "english": "So what?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "それが何か？",
+      "reading": null,
+      "english": "So what?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "親友は何人いる？",
+      "reading": null,
+      "english": "How many close friends do you have?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何が言いたいのか分からないなあ。",
+      "reading": null,
+      "english": "I don't know what you mean.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何が言いたいのか分かんないんだけど。",
+      "reading": null,
+      "english": "I don't know what you mean.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何て答えたの？",
+      "reading": null,
+      "english": "What did you answer?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

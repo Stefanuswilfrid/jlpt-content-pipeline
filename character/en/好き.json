@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "好き",
+    "reading": "すき",
+    "romaji": "suki",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "liking",
+          "being fond of",
+          "to one's liking",
+          "to one's taste",
+          "preferred",
+          "favourite"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "liking (romantically)",
+          "being in love with",
+          "beloved"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "faddism",
+          "eccentricity"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "as one likes",
+          "as it suits one"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lecherous",
+          "lustful",
+          "salacious"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大好き",
+      "reading": "だいすき",
+      "meaning": "liking very much"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "好き者",
+      "reading": "すきもの",
+      "meaning": "lecher",
+      "type": "expression"
+    },
+    {
+      "word": "下手の横好き",
+      "reading": "へたのよこずき",
+      "meaning": "loving something but being very bad at it",
+      "type": "idiom"
+    },
+    {
+      "word": "蓼食う虫も好き好き",
+      "reading": "たでくうむしもすきずき",
+      "meaning": "some prefer nettles",
+      "type": "proverb"
+    },
+    {
+      "word": "亭主の好きな赤烏帽子",
+      "reading": "ていしゅのすきなあかえぼし",
+      "meaning": "even an eccentric head of family must be obeyed",
+      "type": "proverb"
+    },
+    {
+      "word": "嫌よ嫌よも好きのうち",
+      "reading": "いやよいやよもすきのうち",
+      "meaning": "saying no is also an expression of fondness",
+      "type": "proverb"
+    },
+    {
+      "word": "好きこそものの上手なれ",
+      "reading": "すきこそもののじょうずなれ",
+      "meaning": "what one likes, one will do well",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "出す",
+    "reading": "だす",
+    "romaji": "dasu",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take out",
+          "to get out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put out",
+          "to reveal",
+          "to show"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to submit (e.g. thesis)",
+          "to turn in"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to publish",
+          "to make public"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to send (e.g. letter)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "exit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手を出す",
+      "reading": "てをだす",
+      "meaning": "to reach out one's hand",
+      "type": "idiom"
+    },
+    {
+      "word": "ひり出す",
+      "reading": "ひりだす",
+      "meaning": "to forcefully excrete",
+      "type": "expression"
+    },
+    {
+      "word": "あごを出す",
+      "reading": "あごをだす",
+      "meaning": "to be exhausted",
+      "type": "idiom"
+    },
+    {
+      "word": "膿を出す",
+      "reading": "うみをだす",
+      "meaning": "to force out corruption",
+      "type": "idiom"
+    },
+    {
+      "word": "裸足で逃げ出す",
+      "reading": "はだしでにげだす",
+      "meaning": "to be put to shame (of an expert)",
+      "type": "idiom"
+    },
+    {
+      "word": "出すことは舌を出すも嫌い",
+      "reading": "だすことはしたをだすもきらい",
+      "meaning": "being exceptionally stingy",
+      "type": "proverb"
+    },
+    {
+      "word": "暗がりから牛を引き出す",
+      "reading": "くらがりからうしをひきだす",
+      "meaning": "to drive black hogs in the dark",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "人のことに口を出すな。",
+      "reading": null,
+      "english": "Mind your own business!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

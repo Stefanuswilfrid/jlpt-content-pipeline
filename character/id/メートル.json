@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "米",
+    "reading": "メートル",
+    "romaji": "meetoru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meter",
+          "gauge"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "米",
+      "reading": "こめ",
+      "meaning": "beras mentah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "米百俵",
+      "reading": "こめひゃっぴょう",
+      "meaning": "kome hyappyō",
+      "type": "idiom"
+    },
+    {
+      "word": "足の裏の米粒",
+      "reading": "あしのうらのこめつぶ",
+      "meaning": "pointless (academic) degree",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "一立方メートルは千リットルにあたる。",
+      "reading": null,
+      "indonesian": "A cubic meter corresponds to 1000 liters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一立方メートルは千リットルにあたる。",
+      "reading": null,
+      "indonesian": "A cubic meter corresponds to 1000 liters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは長さ３０メートルです。",
+      "reading": null,
+      "indonesian": "It is thirty meters in length.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

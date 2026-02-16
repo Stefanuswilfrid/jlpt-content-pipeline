@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "一寸",
+    "reading": "ちょっと",
+    "romaji": "chotto",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "a little",
+          "a bit",
+          "slightly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "just a minute",
+          "for a moment",
+          "briefly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "somewhat",
+          "rather",
+          "fairly",
+          "pretty",
+          "quite"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(not) easily",
+          "(not) readily"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "hey!",
+          "come on",
+          "excuse me"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "一寸先は闇",
+      "reading": "いっすんさきはやみ",
+      "meaning": "no one knows what the future holds",
+      "type": "proverb"
+    },
+    {
+      "word": "一寸刻み",
+      "reading": "いっすんきざみ",
+      "meaning": "(at a) snail's pace",
+      "type": "idiom"
+    },
+    {
+      "word": "一寸の虫にも五分の魂",
+      "reading": "いっすんのむしにもごぶのたましい",
+      "meaning": "tread on a worm and it will turn",
+      "type": "proverb"
+    },
+    {
+      "word": "一寸の光陰軽んずべからず",
+      "reading": "いっすんのこういんかろんずべからず",
+      "meaning": "there isn't a moment to be wasted",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "きみにちょっとしたものをもってきたよ。",
+      "reading": null,
+      "english": "I brought you a little something.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "きみにちょっとしたものをもってきたよ。",
+      "reading": null,
+      "english": "I brought you a little something.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ちょっと話があります。",
+      "reading": null,
+      "english": "I have something to tell you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ちょっとアドバイスさせてください。",
+      "reading": null,
+      "english": "Let me give you some advice.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

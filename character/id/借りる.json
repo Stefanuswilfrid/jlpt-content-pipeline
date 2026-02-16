@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "借りる",
+    "reading": "かりる",
+    "romaji": "kariru",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "meminjam",
+          "berutang"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to rent",
+          "to hire"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make use of (another's help, wisdom, etc.)",
+          "to obtain",
+          "to receive"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to use (for another purpose)",
+          "to put to a different use"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "難しい",
+      "reading": "むずかしい",
+      "meaning": "sulit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手を借りる",
+      "reading": "てをかりる",
+      "meaning": "to get (someone's) help",
+      "type": "idiom"
+    },
+    {
+      "word": "借りる時の地蔵顔、済す時の閻魔顔",
+      "reading": "かりるときのじぞうがお、なすときのえんまがお",
+      "meaning": "people look friendly when they ask for a loan but not so much when they repay it",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

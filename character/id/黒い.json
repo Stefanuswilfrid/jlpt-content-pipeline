@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "黒い",
+    "reading": "くろい",
+    "romaji": "kuroi",
+    "jlpt": "N5",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "hitam; gelap"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "dark",
+          "blackish",
+          "sun-tanned (skin)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "suspicious",
+          "criminal",
+          "illicit"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "darkened and dirty",
+          "sooty",
+          "covered in dirt"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "evil",
+          "wicked",
+          "black-hearted"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "黒",
+      "reading": "くろ",
+      "meaning": "hitam"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "目の黒いうち",
+      "reading": "めのくろいうち",
+      "meaning": "while alive (e.g. I won't allow ... while I'm alive)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ナンシーはヘレンよりもほんのすこし色が黒い。",
+      "reading": null,
+      "indonesian": "Nancy is a shade darker than Helen.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ナンシーはヘレンよりほんの少し色が黒い。",
+      "reading": null,
+      "indonesian": "Nancy is a shade darker than Helen is.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その本には黒いカバーがかかっていた。",
+      "reading": null,
+      "indonesian": "There was a black jacket on the book.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

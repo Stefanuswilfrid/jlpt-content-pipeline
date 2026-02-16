@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "五",
+    "reading": "ご",
+    "romaji": "go",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "five",
+          "5"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "五つ",
+      "reading": "いつつ",
+      "meaning": "five"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "五分五分",
+      "reading": "ごぶごぶ",
+      "meaning": "as likely as not",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四分五裂",
+      "reading": "しぶんごれつ",
+      "meaning": "torn asunder",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三三五五",
+      "reading": "さんさんごご",
+      "meaning": "in groups of twos and threes",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "九寸五分",
+      "reading": "くすんごぶ",
+      "meaning": "dagger",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "五十歩百歩",
+      "reading": "ごじっぽひゃっぽ",
+      "meaning": "six of one, half a dozen of the other",
+      "type": "idiom"
+    },
+    {
+      "word": "五臓六腑",
+      "reading": "ごぞうろっぷ",
+      "meaning": "the five viscera and the six internal organs",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "五里霧中",
+      "reading": "ごりむちゅう",
+      "meaning": "totally at a loss",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四書五経",
+      "reading": "ししょごきょう",
+      "meaning": "the Four Books and Five Classics of Confucianism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "五風十雨",
+      "reading": "ごふうじゅうう",
+      "meaning": "seasonable rains and winds",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "陰陽五行",
+      "reading": "いんようごぎょう",
+      "meaning": "the cosmic dual forces (yin and yang) and the five elements (metal, wood, water, fire and earth) in Chinese cosmology",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

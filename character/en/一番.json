@@ -1,0 +1,164 @@
+{
+  "definition": {
+    "word": "一番",
+    "reading": "いちばん",
+    "romaji": "ichiban",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "number one",
+          "first",
+          "first place"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "best",
+          "most"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "game",
+          "round",
+          "bout"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "as a test",
+          "as an experiment",
+          "by way of experiment",
+          "by way of trial",
+          "tentatively"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "song (e.g. in noh)",
+          "piece"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "one"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "(doing) together"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "one person"
+    },
+    {
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "number"
+    },
+    {
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "ten"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "one day"
+    },
+    {
+      "word": "交番",
+      "reading": "こうばん",
+      "meaning": "police box"
+    },
+    {
+      "word": "一",
+      "reading": "いち",
+      "meaning": "one"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "day before yesterday"
+    },
+    {
+      "word": "一月",
+      "reading": "ひとつき",
+      "meaning": "one month"
+    },
+    {
+      "word": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "program (e.g. TV)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "開口一番",
+      "reading": "かいこういちばん",
+      "meaning": "at the very beginning of one's speech",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "緊褌一番",
+      "reading": "きんこんいちばん",
+      "meaning": "gird oneself up",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "大死一番",
+      "reading": "だいしいちばん",
+      "meaning": "exerting oneself to the utmost, prepared to die if necessary",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "奮起一番",
+      "reading": "ふんきいちばん",
+      "meaning": "bracing oneself up to action, being inspired by something",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "励声一番",
+      "reading": "れいせいいちばん",
+      "meaning": "giving cries of encouragement at a critical moment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一丁目一番地",
+      "reading": "いっちょうめいちばんち",
+      "meaning": "first and foremost",
+      "type": "idiom"
+    },
+    {
+      "word": "夜明け前が一番暗い",
+      "reading": "よあけまえがいちばんくらい",
+      "meaning": "it's always darkest before the dawn",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

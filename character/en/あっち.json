@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "彼方",
+    "reading": "あちら",
+    "romaji": "achira",
+    "jlpt": "N5",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that way",
+          "that direction",
+          "over there",
+          "yonder"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that (one)"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that person"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "there",
+          "over there",
+          "foreign country (esp. a Western nation)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "彼ら",
+      "reading": "かれら",
+      "meaning": "they"
+    },
+    {
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "she"
+    },
+    {
+      "word": "彼",
+      "reading": "あれ",
+      "meaning": "that"
+    },
+    {
+      "word": "彼",
+      "reading": "かれ",
+      "meaning": "he"
+    },
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "early evening (usu. from 3pm to 6pm)"
+    },
+    {
+      "word": "方",
+      "reading": "かた",
+      "meaning": "direction"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "さあ、あっちへ行ってよ。",
+      "reading": null,
+      "english": "Oh, off with you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こっちの本はあっちの本よりやさしい。",
+      "reading": null,
+      "english": "These books are easier than those books.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こっちの本とあっちのだったら、どっちが読みやすいかな？",
+      "reading": null,
+      "english": "Which is easier to read, this book or that one?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こっちの花の方が、あっちのよりきれいだね。",
+      "reading": null,
+      "english": "This flower is more beautiful than that one.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あっちへ行きな、ぼうや。",
+      "reading": null,
+      "english": "Out of my way, boy.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あっちの店も見てみよう。",
+      "reading": null,
+      "english": "Let's check that shop, too.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

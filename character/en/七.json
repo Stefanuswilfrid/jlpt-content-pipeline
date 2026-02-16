@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "七",
+    "reading": "しち",
+    "romaji": "shichi",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "seven"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "七つ",
+      "reading": "ななつ",
+      "meaning": "seven"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "七転び八起き",
+      "reading": "ななころびやおき",
+      "meaning": "not giving up",
+      "type": "idiom"
+    },
+    {
+      "word": "七堂伽藍",
+      "reading": "しちどうがらん",
+      "meaning": "complete seven-structured temple compound",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "親の七光り",
+      "reading": "おやのななひかり",
+      "meaning": "benefiting from the fame or influence of a parent",
+      "type": "idiom"
+    },
+    {
+      "word": "北斗七星",
+      "reading": "ほくとしちせい",
+      "meaning": "the Big Dipper (asterism)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "七転八倒",
+      "reading": "しちてんばっとう",
+      "meaning": "tossing oneself about in great pain",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無くて七癖",
+      "reading": "なくてななくせ",
+      "meaning": "every person has their eccentricities",
+      "type": "proverb"
+    },
+    {
+      "word": "七生報国",
+      "reading": "しちしょうほうこく",
+      "meaning": "unfailing devotion to one's country",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "七難八苦",
+      "reading": "しちなんはっく",
+      "meaning": "the Seven Misfortunes and Eight Pains",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "七珍万宝",
+      "reading": "しっちんまんぽう",
+      "meaning": "the seven treasures and many other precious things",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "竹林の七賢",
+      "reading": "ちくりんのしちけん",
+      "meaning": "Seven Sages of the Bamboo Grove",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "一週間は七日です。",
+      "reading": null,
+      "english": "There are seven days in a week.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どういっても七時までにいかないと。",
+      "reading": null,
+      "english": "However we go, we must get there by seven.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ちょうど七時半です。",
+      "reading": null,
+      "english": "It is just half past seven.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "テーブル",
+    "reading": "テーブル",
+    "romaji": "teeburu",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "table"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "角のテーブルがいいのですが。",
+      "reading": null,
+      "english": "Could we have a table in the corner?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "外のテーブルがいいのですが。",
+      "reading": null,
+      "english": "Could we have a table outside?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "絵がテーブルの上にかかっている。",
+      "reading": null,
+      "english": "The picture hangs over the table.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メアリーはテーブルの上に大きな地図を広げた。",
+      "reading": null,
+      "english": "Mary spread the big map on the table.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

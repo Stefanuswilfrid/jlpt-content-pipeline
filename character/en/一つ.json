@@ -1,0 +1,174 @@
+{
+  "definition": {
+    "word": "一つ",
+    "reading": "ひとつ",
+    "romaji": "hitotsu",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "one"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "for one thing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "only"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(not) even"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "just (e.g. \"just try it\")"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "number one"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "(doing) together"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "one person"
+    },
+    {
+      "word": "百",
+      "reading": "ひゃく",
+      "meaning": "hundred"
+    },
+    {
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "ten"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "one day"
+    },
+    {
+      "word": "一",
+      "reading": "いち",
+      "meaning": "one"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "day before yesterday"
+    },
+    {
+      "word": "一月",
+      "reading": "ひとつき",
+      "meaning": "one month"
+    },
+    {
+      "word": "一",
+      "reading": "ひと",
+      "meaning": "one"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "馬鹿の一つ覚え",
+      "reading": "ばかのひとつおぼえ",
+      "meaning": "one who knows little often repeats it",
+      "type": "proverb"
+    },
+    {
+      "word": "百日の説法屁一つ",
+      "reading": "ひゃくにちのせっぽうへひとつ",
+      "meaning": "single mistake which ruins all one's hard work",
+      "type": "idiom"
+    },
+    {
+      "word": "親の意見と茄子の花は千に一つも無駄はない",
+      "reading": "おやのいけんとなすびのはなはせんにひとつもむだはない",
+      "meaning": "always listen to your parents",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空には雲一つなかった。",
+      "reading": null,
+      "english": "There wasn't a cloud in the sky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "夜空には星一つ見えなかった。",
+      "reading": null,
+      "english": "Not a star was to be seen in the sky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空には星一つ見えなかった。",
+      "reading": null,
+      "english": "Not a star was to be seen in the sky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空には、星一つ見られなかった。",
+      "reading": null,
+      "english": "Not a star was to be seen in the sky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空には雲一つ見えなかった。",
+      "reading": null,
+      "english": "Not a single cloud could be seen in the sky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空には雲一つなかった。",
+      "reading": null,
+      "english": "There was not a cloud in the sky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

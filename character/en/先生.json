@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "先生",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "teacher",
+          "instructor",
+          "master"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "sensei",
+          "title or form of address for a teacher, master, doctor, lawyer, etc."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "intimate or teasing form of address"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 3,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "student (esp. a university student)"
+    },
+    {
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "last month"
+    },
+    {
+      "word": "生徒",
+      "reading": "せいと",
+      "meaning": "pupil"
+    },
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "last week"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "overseas student"
+    },
+    {
+      "word": "先",
+      "reading": "さっき",
+      "meaning": "a short while ago"
+    },
+    {
+      "word": "先",
+      "reading": "さき",
+      "meaning": "point"
+    },
+    {
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "birthday"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "life"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "production"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "senior high school student"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "先生のアドバイスは聞いておいた方がいいよ。",
+      "reading": null,
+      "english": "You should follow your teacher's advice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

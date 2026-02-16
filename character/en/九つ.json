@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "九つ",
+    "reading": "ここのつ",
+    "romaji": "kokonotsu",
+    "jlpt": "N5",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "nine"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nine years of age"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "twelve o'clock (old time system)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "九",
+      "reading": "きゅう",
+      "meaning": "nine"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。",
+      "reading": null,
+      "english": "One, two, three, four, five, six, seven, eight, nine, ten.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。",
+      "reading": null,
+      "english": "One, two, three, four, five, six, seven, eight, nine, ten.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "新二は九つのココナッツを食べました。",
+      "reading": null,
+      "english": "Shinji ate nine coconuts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "新二は九つのココナッツを食べました。",
+      "reading": null,
+      "english": "Shinji ate nine coconuts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

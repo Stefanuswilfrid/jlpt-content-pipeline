@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "居る",
+    "reading": "いる",
+    "romaji": "iru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "(rendah hati) untuk menjadi (hidup)",
+          "untuk ada"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stay"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Ichidan verb"
+        ],
+        "meanings": [
+          "to be ...-ing"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Ichidan verb"
+        ],
+        "meanings": [
+          "to have ...-ed",
+          "to be ...-ed"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": []
+}

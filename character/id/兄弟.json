@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "romaji": "kyoudai",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "saudara kandung (rendah hati)",
+          "saudara laki-laki dan perempuan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "brothers"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "siblings-in-law",
+          "brothers-in-law",
+          "sisters-in-law"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mate",
+          "friend"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "弟",
+      "reading": "おとうと",
+      "meaning": "adik"
+    },
+    {
+      "word": "兄",
+      "reading": "あに",
+      "meaning": "(kakak laki-laki) saya (rendah hati)"
+    },
+    {
+      "word": "お兄さん",
+      "reading": "おにいさん",
+      "meaning": "Kakak laki-laki (orang lain) (formal)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "四海兄弟",
+      "reading": "しかいけいてい",
+      "meaning": "people in the whole world being all brothers",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "穴兄弟",
+      "reading": "あなきょうだい",
+      "meaning": "men who have had sex with the same woman",
+      "type": "expression"
+    },
+    {
+      "word": "兄弟は他人の始まり",
+      "reading": "きょうだいはたにんのはじまり",
+      "meaning": "even siblings turn into strangers",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "indonesian": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "indonesian": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「兄弟はいますか？」「いいえ、一人っ子です」",
+      "reading": null,
+      "indonesian": "\"Do you have any siblings?\" \"No, I'm an only child.\"",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボブとトムは兄弟である。",
+      "reading": null,
+      "indonesian": "Bob and Tom are brothers.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その二人の兄弟はうり二つである。",
+      "reading": null,
+      "indonesian": "The two brothers are as like as two peas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

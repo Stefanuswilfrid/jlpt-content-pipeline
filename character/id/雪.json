@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "雪",
+    "reading": "ゆき",
+    "romaji": "yuki",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "salju"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "雪と墨",
+      "reading": "ゆきとすみ",
+      "meaning": "diametric opposites",
+      "type": "idiom"
+    },
+    {
+      "word": "雪隠で饅頭",
+      "reading": "せんちでまんじゅう",
+      "meaning": "if you are hungry, where you eat doesn't matter",
+      "type": "proverb"
+    },
+    {
+      "word": "下駄の雪",
+      "reading": "げたのゆき",
+      "meaning": "hanger-on",
+      "type": "idiom"
+    },
+    {
+      "word": "雪泥鴻爪",
+      "reading": "せつでいのこうそう",
+      "meaning": "ephemeral nature of human deeds and events",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "柳に雪折れなし",
+      "reading": "やなぎにゆきおれなし",
+      "meaning": "the soft may prove more durable than the hard",
+      "type": "proverb"
+    },
+    {
+      "word": "会稽の恥を雪ぐ",
+      "reading": "かいけいのはじをすすぐ",
+      "meaning": "to avenge a defeat",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "休校は大雪のためであった。",
+      "reading": null,
+      "indonesian": "The closing of school was due to the heavy snow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

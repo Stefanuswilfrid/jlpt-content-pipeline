@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "庭",
+    "reading": "にわ",
+    "romaji": "niwa",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kebun"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "field (of action)",
+          "area"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "家庭",
+      "reading": "かてい",
+      "meaning": "rumah; keluarga"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "横槌で庭を掃く",
+      "reading": "よこづちでにわをはく",
+      "meaning": "to hurriedly prepare one's home for guests",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

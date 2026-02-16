@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "手紙",
+    "reading": "てがみ",
+    "romaji": "tegami",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "surat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手",
+      "reading": "て",
+      "meaning": "tangan"
+    },
+    {
+      "word": "紙",
+      "reading": "かみ",
+      "meaning": "kertas"
+    },
+    {
+      "word": "切手",
+      "reading": "きって",
+      "meaning": "prangko pos"
+    },
+    {
+      "word": "お手洗い",
+      "reading": "おてあらい",
+      "meaning": "toilet, kamar kecil, kamar mandi (secara harfiah, tempat untuk mencuci tangan)"
+    },
+    {
+      "word": "下手",
+      "reading": "したて",
+      "meaning": "tidak terampil, miskin"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "mahir dalam hal, terampil"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "tidak terampil, miskin"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "pengemudi (berdasarkan pekerjaan)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "手紙を書いていますか。",
+      "reading": null,
+      "indonesian": "Are you writing a letter?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "手紙を書いてるんですか？",
+      "reading": null,
+      "indonesian": "Are you writing a letter?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

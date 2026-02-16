@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "食べる",
+    "reading": "たべる",
+    "romaji": "taberu",
+    "jlpt": "N5",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to eat"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to live on (e.g. a salary)",
+          "to live off",
+          "to subsist on"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 2,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "食べ物",
+      "reading": "たべもの",
+      "meaning": "food"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "教室で食べるの？",
+      "reading": null,
+      "english": "Do you eat it in the classroom?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "魚を食べることは体にいい。",
+      "reading": null,
+      "english": "Eating fish is good for your health.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

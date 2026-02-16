@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "方",
+    "reading": "かた",
+    "romaji": "kata",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "direction",
+          "way"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "person",
+          "lady",
+          "gentleman"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "method of",
+          "manner of",
+          "way of"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "care of ..."
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "person in charge of ..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "early evening (usu. from 3pm to 6pm)"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaning": "both"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一方通行",
+      "reading": "いっぽうつうこう",
+      "meaning": "one-way traffic",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四方八方",
+      "reading": "しほうはっぽう",
+      "meaning": "in all directions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "八方美人",
+      "reading": "はっぽうびじん",
+      "meaning": "everybody's friend",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "方向転換",
+      "reading": "ほうこうてんかん",
+      "meaning": "change of course",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "品行方正",
+      "reading": "ひんこうほうせい",
+      "meaning": "irreproachable conduct",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "西方浄土",
+      "reading": "さいほうじょうど",
+      "meaning": "Western Pure Land (Amitabha's Buddhist paradise)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "嘘も方便",
+      "reading": "うそもほうべん",
+      "meaning": "the end justifies the means",
+      "type": "proverb"
+    },
+    {
+      "word": "賢良方正",
+      "reading": "けんりょうほうせい",
+      "meaning": "wise and virtuous",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "円鑿方枘",
+      "reading": "えんさくほうぜい",
+      "meaning": "round peg in a square hole",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四里四方",
+      "reading": "よりよほう",
+      "meaning": "large area",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "一立方メートルは千リットルにあたる。",
+      "reading": null,
+      "english": "A cubic meter corresponds to 1000 liters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

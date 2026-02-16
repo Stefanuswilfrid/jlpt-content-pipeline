@@ -1,0 +1,166 @@
+{
+  "definition": {
+    "word": "肉",
+    "reading": "にく",
+    "romaji": "niku",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "daging"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flesh (of a fruit)",
+          "pulp"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the physical body (as opposed to the spirit)",
+          "flesh"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "thickness"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "daging sapi"
+    },
+    {
+      "word": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "babi"
+    },
+    {
+      "word": "鶏肉",
+      "reading": "とりにく",
+      "meaning": "daging ayam"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "弱肉強食",
+      "reading": "じゃくにくきょうしょく",
+      "meaning": "the law of the jungle",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "酒池肉林",
+      "reading": "しゅちにくりん",
+      "meaning": "sumptuous feast",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "中肉中背",
+      "reading": "ちゅうにくちゅうぜい",
+      "meaning": "medium build",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "羊頭狗肉",
+      "reading": "ようとうくにく",
+      "meaning": "crying wine and selling vinegar",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "霊肉一致",
+      "reading": "れいにくいっち",
+      "meaning": "unity of body and spirit",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "肉芽",
+      "reading": "にくが",
+      "meaning": "granulation",
+      "type": "expression"
+    },
+    {
+      "word": "骨肉相食",
+      "reading": "こつにくそうしょく",
+      "meaning": "blood feud",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "肉食妻帯",
+      "reading": "にくじきさいたい",
+      "meaning": "meat and matrimony (Buddhism)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "反間苦肉",
+      "reading": "はんかんくにく",
+      "meaning": "stratagem for causing a rift in the enemy camp by using a seditious plot",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "肉便器",
+      "reading": "にくべんき",
+      "meaning": "promiscuous woman",
+      "type": "expression"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "近ごろは肉がとても高い。",
+      "reading": null,
+      "indonesian": "Meat is very expensive nowadays.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "魚や肉を売っているんだよ。",
+      "reading": null,
+      "indonesian": "They sell fish and meat.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "魚だけでなく、肉も食べなさい。",
+      "reading": null,
+      "indonesian": "Eat not only fish, but also meat.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "牛肉にしてください。",
+      "reading": null,
+      "indonesian": "Beef, please.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

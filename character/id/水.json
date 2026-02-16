@@ -1,0 +1,162 @@
+{
+  "definition": {
+    "word": "水",
+    "reading": "みず",
+    "romaji": "mizu",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "air"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fluid (esp. in an animal tissue)",
+          "liquid"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flood",
+          "floodwaters"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "water offered to wrestlers just prior to a bout"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "break granted to wrestlers engaged in a prolonged bout"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "Rabu"
+    },
+    {
+      "word": "水道",
+      "reading": "すいどう",
+      "meaning": "layanan air, saluran air"
+    },
+    {
+      "word": "水泳",
+      "reading": "すいえい",
+      "meaning": "renang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一衣帯水",
+      "reading": "いちいたいすい",
+      "meaning": "(being separated only by a) narrow strip of water",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "カラスの行水",
+      "reading": "からすのぎょうずい",
+      "meaning": "quick bath",
+      "type": "idiom"
+    },
+    {
+      "word": "我田引水",
+      "reading": "がでんいんすい",
+      "meaning": "seeking one's own interests",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "山紫水明",
+      "reading": "さんしすいめい",
+      "meaning": "scenic beauty",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "水を差す",
+      "reading": "みずをさす",
+      "meaning": "to pour water (into)",
+      "type": "idiom"
+    },
+    {
+      "word": "明鏡止水",
+      "reading": "めいきょうしすい",
+      "meaning": "clear and serene (as a polished mirror and still water)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "行雲流水",
+      "reading": "こううんりゅうすい",
+      "meaning": "(metaphorically) floating with the tide",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "水天彷彿",
+      "reading": "すいてんほうふつ",
+      "meaning": "the sky and water merging into one",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "水心",
+      "reading": "みずごころ",
+      "meaning": "knowing how to swim",
+      "type": "proverb"
+    },
+    {
+      "word": "畳水練",
+      "reading": "たたみすいれん",
+      "meaning": "useless book learning",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "水道がでています。",
+      "reading": null,
+      "indonesian": "The tap is running.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "空気と水がなかったら、何も生きられないであろう。",
+      "reading": null,
+      "indonesian": "Without air and water, nothing could live.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人間にとって空気とは、魚にとっての水のようなものだ。",
+      "reading": null,
+      "indonesian": "Air is to man what water is to fish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

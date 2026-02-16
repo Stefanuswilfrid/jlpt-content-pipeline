@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "黄色",
+    "reading": "きいろ",
+    "romaji": "kiiro",
+    "jlpt": "N5",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "kuning"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "茶色",
+      "reading": "ちゃいろ",
+      "meaning": "cokelat"
+    },
+    {
+      "word": "色",
+      "reading": "いろ",
+      "meaning": "warna"
+    },
+    {
+      "word": "色々",
+      "reading": "いろいろ",
+      "meaning": "bermacam-macam"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaning": "pemandangan, lanskap"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "黄色いバラがあります。",
+      "reading": null,
+      "indonesian": "There is a yellow rose.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その黄色いのをいただきましょう。",
+      "reading": null,
+      "indonesian": "I'll take the yellow one.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この花は黄色だが、ほかの花はみな青い。",
+      "reading": null,
+      "indonesian": "This flower is yellow, but all the others are blue.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あれは黄色いチョークではありません。",
+      "reading": null,
+      "indonesian": "That is not a yellow piece of chalk.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

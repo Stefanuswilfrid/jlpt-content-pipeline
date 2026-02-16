@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "貴方",
+    "reading": "あなた",
+    "romaji": "anata",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "dear",
+          "honey"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "early evening (usu. from 3pm to 6pm)"
+    },
+    {
+      "word": "方",
+      "reading": "かた",
+      "meaning": "direction"
+    },
+    {
+      "word": "方",
+      "reading": "ほう",
+      "meaning": "direction"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaning": "both"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それはあなたが一人になりたくないからです。",
+      "reading": null,
+      "english": "It's because you don't want to be alone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたが女の子だからよ。",
+      "reading": null,
+      "english": "That's because you're a girl.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたがやれば。",
+      "reading": null,
+      "english": "You can do it.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

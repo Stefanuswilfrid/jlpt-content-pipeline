@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "黒",
+    "reading": "くろ",
+    "romaji": "kuro",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "black"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "black stone"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "guilt",
+          "guilty person"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "暗黒時代",
+      "reading": "あんこくじだい",
+      "meaning": "Dark Ages",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "黒風白雨",
+      "reading": "こくふうはくう",
+      "meaning": "sudden rain shower in a dust storm",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "目の黒いうち",
+      "reading": "めのくろいうち",
+      "meaning": "while alive (e.g. I won't allow ... while I'm alive)",
+      "type": "idiom"
+    },
+    {
+      "word": "這っても黒豆",
+      "reading": "はってもくろまめ",
+      "meaning": "insisting one is right even after one has been proven wrong",
+      "type": "idiom"
+    },
+    {
+      "word": "目を白黒させる",
+      "reading": "めをしろくろさせる",
+      "meaning": "to be surprised",
+      "type": "idiom"
+    },
+    {
+      "word": "墨に染まれば黒くなる",
+      "reading": "すみにそまればくろくなる",
+      "meaning": "people are formed by their surroundings",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "雲がだんだん黒くなっています。",
+      "reading": null,
+      "english": "The clouds are getting darker.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

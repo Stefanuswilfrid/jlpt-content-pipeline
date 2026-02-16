@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "本当",
+    "reading": "ほんとう",
+    "romaji": "hontou",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "truth",
+          "reality",
+          "actuality",
+          "fact"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "proper",
+          "right",
+          "correct",
+          "official"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "genuine",
+          "authentic",
+          "real",
+          "natural",
+          "veritable"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "本",
+      "reading": "ほん",
+      "meaning": "book"
+    },
+    {
+      "word": "本棚",
+      "reading": "ほんだな",
+      "meaning": "bookshelves"
+    },
+    {
+      "word": "お弁当",
+      "reading": "おべんとう",
+      "meaning": "bento"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "本当？",
+      "reading": null,
+      "english": "Are you sure?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "本当にありがとう。",
+      "reading": null,
+      "english": "Thank you very much!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "本当にありがとう！",
+      "reading": null,
+      "english": "Thank you very much!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "それは本当だと思った。",
+      "reading": null,
+      "english": "I thought it was true.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

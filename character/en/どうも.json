@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "どうも",
+    "reading": "どうも",
+    "romaji": "doumo",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "thank you",
+          "thanks"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "much (thanks)",
+          "very (sorry)",
+          "quite (regret)"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "quite",
+          "really",
+          "mostly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "somehow"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "in spite of oneself",
+          "try as one might",
+          "no matter how hard one may try (to, not to)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうもありがとうございます！",
+      "reading": null,
+      "english": "Thank you very much!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あなたのおっしゃることが、どうもよく分かりません。",
+      "reading": null,
+      "english": "I don't quite follow you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "気にかけていただいてどうも。",
+      "reading": null,
+      "english": "I appreciate your concern.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "会いに来ていただいてどうもありがとう。",
+      "reading": null,
+      "english": "It is nice of you to come and see me.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうもご親切に。",
+      "reading": null,
+      "english": "How kind of you!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "此方",
+    "reading": "こちら",
+    "romaji": "kochira",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "this way",
+          "this direction"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "here"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "this (one)"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "I",
+          "me",
+          "we",
+          "us"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "this person"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "early evening (usu. from 3pm to 6pm)"
+    },
+    {
+      "word": "方",
+      "reading": "かた",
+      "meaning": "direction"
+    },
+    {
+      "word": "方",
+      "reading": "ほう",
+      "meaning": "direction"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "こっちへ来なさい！",
+      "reading": null,
+      "english": "Come here.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "こっちに来て。",
+      "reading": null,
+      "english": "Come here.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "こっちに来いよ。",
+      "reading": null,
+      "english": "Come here.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "こっちへおいで。",
+      "reading": null,
+      "english": "Come here.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "こっちおいで。",
+      "reading": null,
+      "english": "Come here.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "隣",
+    "reading": "となり",
+    "romaji": "tonari",
+    "jlpt": "N5",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bersebelahan",
+          "di sebelah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "house next door",
+          "neighbouring house",
+          "next-door neighbour",
+          "next-door neighbor"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "善隣友好",
+      "reading": "ぜんりんゆうこう",
+      "meaning": "neighbourly friendship",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "善隣外交",
+      "reading": "ぜんりんがいこう",
+      "meaning": "good-neighbor diplomacy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天涯比隣",
+      "reading": "てんがいひりん",
+      "meaning": "a great distance does not detract from the feeling (relationship) of endearment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "隣の花は赤い",
+      "reading": "となりのはなはあかい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "隣の芝は青い",
+      "reading": "となりのしばはあおい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "隣の糂粏味噌",
+      "reading": "となりのじんだみそ",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "隣の芝生は青い",
+      "reading": "となりのしばふはあおい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "汝の隣人を愛せよ",
+      "reading": "なんじのりんじんをあいせよ",
+      "meaning": "love your neighbour (neighbor)",
+      "type": "proverb"
+    },
+    {
+      "word": "徳は孤ならず必ず隣あり",
+      "reading": "とくはこならずかならずとなりあり",
+      "meaning": "the virtuous man will not long remain lonely",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

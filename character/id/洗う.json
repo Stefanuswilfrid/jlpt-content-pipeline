@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "洗う",
+    "reading": "あらう",
+    "romaji": "arau",
+    "jlpt": "N5",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mencuci"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to inquire into",
+          "to investigate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to purify (one's heart)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lave (e.g. shore)",
+          "to wash over (e.g. deck)",
+          "to sweep"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "洗濯",
+      "reading": "せんたく",
+      "meaning": "mencuci, cucian"
+    },
+    {
+      "word": "お手洗い",
+      "reading": "おてあらい",
+      "meaning": "toilet, kamar kecil, kamar mandi (secara harfiah, tempat untuk mencuci tangan)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足を洗う",
+      "reading": "あしをあらう",
+      "meaning": "to quit (a shady business)",
+      "type": "idiom"
+    },
+    {
+      "word": "芋を洗うよう",
+      "reading": "いもをあらうよう",
+      "meaning": "with people jostling against one another",
+      "type": "idiom"
+    },
+    {
+      "word": "血で血を洗う",
+      "reading": "ちでちをあらう",
+      "meaning": "to engage in a bloody feud",
+      "type": "idiom"
+    },
+    {
+      "word": "猫耳を洗うと雨が降る",
+      "reading": "ねこみみをあらうとあめがふる",
+      "meaning": "if a cat washes its ears, rain is coming",
+      "type": "proverb"
+    },
+    {
+      "word": "芋の子を洗うよう",
+      "reading": "いものこをあらうよう",
+      "meaning": "with people jostling against one another",
+      "type": "idiom"
+    },
+    {
+      "word": "猫が顔を洗うと雨が降る",
+      "reading": "ねこがかおをあらうとあめがふる",
+      "meaning": "if a cat washes its face, rain is coming",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

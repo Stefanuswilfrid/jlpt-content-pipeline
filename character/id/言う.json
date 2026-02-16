@@ -1,0 +1,135 @@
+{
+  "definition": {
+    "word": "言う",
+    "reading": "いう",
+    "romaji": "iu",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mengatakan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to name",
+          "to call"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go (e.g. \"the alarm went ping\")",
+          "to make a noise"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "言葉",
+      "reading": "ことば",
+      "meaning": "bahasa; kata(kata); ungkapan(ungkapan)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "金が物を言う",
+      "reading": "かねがものをいう",
+      "meaning": "money talks",
+      "type": "proverb"
+    },
+    {
+      "word": "贅沢を言う",
+      "reading": "ぜいたくをいう",
+      "meaning": "to ask for too much",
+      "type": "idiom"
+    },
+    {
+      "word": "ああ言えばこう言う",
+      "reading": "ああいえばこういう",
+      "meaning": "to have a comeback for every remark",
+      "type": "idiom"
+    },
+    {
+      "word": "目は口ほどに物を言う",
+      "reading": "めはくちほどにものをいう",
+      "meaning": "one can say more with a look than with ten thousand words",
+      "type": "proverb"
+    },
+    {
+      "word": "言うは易く行うは難し",
+      "reading": "いうはやすくおこなうはかたし",
+      "meaning": "it's easier said than done",
+      "type": "proverb"
+    },
+    {
+      "word": "言わぬは言うにまさる",
+      "reading": "いわぬはいうにまさる",
+      "meaning": "speech is silver, silence is golden",
+      "type": "proverb"
+    },
+    {
+      "word": "針ほどのことを棒ほどに言う",
+      "reading": "はりほどのことをぼうほどにいう",
+      "meaning": "exaggeration",
+      "type": "idiom"
+    },
+    {
+      "word": "日光を見ずして結構と言うなかれ",
+      "reading": "にっこうをみずしてけっこうというなかれ",
+      "meaning": "see Nikko and die",
+      "type": "proverb"
+    },
+    {
+      "word": "来年のことを言うと鬼が笑う",
+      "reading": "らいねんのことをいうとおにがわらう",
+      "meaning": "nobody knows the morrow",
+      "type": "proverb"
+    },
+    {
+      "word": "日光を見ない中は結構と言うな",
+      "reading": "にっこうをみないうちはけっこうというな",
+      "meaning": "see Nikko and die",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "「あばたもえくぼ」って言うからね。",
+      "reading": null,
+      "indonesian": "They say love is blind.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "イタリア語では何て言うんですか。",
+      "reading": null,
+      "indonesian": "How do you say that in Italian?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "イタリア語だと、どう言うの？",
+      "reading": null,
+      "indonesian": "How do you say that in Italian?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

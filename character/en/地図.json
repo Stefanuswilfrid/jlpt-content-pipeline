@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "地図",
+    "reading": "ちず",
+    "romaji": "chizu",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "map",
+          "atlas",
+          "chart",
+          "plan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "subway"
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "library"
+    },
+    {
+      "word": "地震",
+      "reading": "じしん",
+      "meaning": "earthquake"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "メアリーはテーブルの上に大きな地図を広げた。",
+      "reading": null,
+      "english": "Mary spread the big map on the table.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どこへ行けばヨーロッパの地図が手に入りますか。",
+      "reading": null,
+      "english": "Where can I obtain a map of Europe?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ヨーロッパの地図はどこで手に入りますか？",
+      "reading": null,
+      "english": "Where can I obtain a map of Europe?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

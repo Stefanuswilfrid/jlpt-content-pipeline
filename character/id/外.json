@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "外",
+    "reading": "そと",
+    "romaji": "soto",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lainnya",
+          "sisanya"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the open (air)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "other place",
+          "somewhere else",
+          "outside one's group (family, company, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "negara asing; luar negeri"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "orang asing"
+    },
+    {
+      "word": "郊外",
+      "reading": "こうがい",
+      "meaning": "pinggiran kota, daerah terpencil"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "奇想天外",
+      "reading": "きそうてんがい",
+      "meaning": "fantastic",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "内憂外患",
+      "reading": "ないゆうがいかん",
+      "meaning": "troubles both at home and abroad",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "門外不出",
+      "reading": "もんがいふしゅつ",
+      "meaning": "(treasuring something by) never taking (it) off the premises",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "治外法権",
+      "reading": "ちがいほうけん",
+      "meaning": "extraterritoriality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "外交辞令",
+      "reading": "がいこうじれい",
+      "meaning": "diplomatic turn of phrase",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "外柔内剛",
+      "reading": "がいじゅうないごう",
+      "meaning": "gentle but firm",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "局外中立",
+      "reading": "きょくがいちゅうりつ",
+      "meaning": "neutrality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "内柔外剛",
+      "reading": "ないじゅうがいごう",
+      "meaning": "tough on the outside but soft at heart",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "外剛内柔",
+      "reading": "がいごうないじゅう",
+      "meaning": "being tough on the outside but soft at heart",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "内剛外柔",
+      "reading": "ないごうがいじゅう",
+      "meaning": "gentle on the outside but tough on the inside",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "今日は外出しないほうがいい。",
+      "reading": null,
+      "indonesian": "You'd better not go out today.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

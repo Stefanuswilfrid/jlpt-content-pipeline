@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "上る",
+    "reading": "のぼる",
+    "romaji": "noboru",
+    "jlpt": "N5",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk mendaki"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to ascend (as a natural process, e.g. the Sun)",
+          "to rise"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go to (the capital)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be promoted"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to add up to"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "上げる",
+      "reading": "あげる",
+      "meaning": "mengangkat, menaikkan"
+    },
+    {
+      "word": "上がる",
+      "reading": "あがる",
+      "meaning": "untuk bangkit, untuk naik"
+    },
+    {
+      "word": "上",
+      "reading": "うえ",
+      "meaning": "volume pertama; kualitas unggul; pemerintah"
+    },
+    {
+      "word": "上",
+      "reading": "かみ",
+      "meaning": "volume pertama; kualitas unggul; pemerintah"
+    },
+    {
+      "word": "上",
+      "reading": "じょう",
+      "meaning": "volume pertama; kualitas unggul; pemerintah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "馬鹿と煙は高い所へ上る",
+      "reading": "ばかとけむりはたかいところへのぼる",
+      "meaning": "fools fall easily for flattery",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

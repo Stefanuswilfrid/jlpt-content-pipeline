@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "並べる",
+    "reading": "ならべる",
+    "romaji": "naraberu",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to line up",
+          "to set up",
+          "to arrange in a line"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to enumerate",
+          "to itemize"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be equal (to)",
+          "to compare well (with)",
+          "to be as good (as)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "並ぶ",
+      "reading": "ならぶ",
+      "meaning": "to line up"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "机を並べる",
+      "reading": "つくえをならべる",
+      "meaning": "to work together (in the same class, workplace, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

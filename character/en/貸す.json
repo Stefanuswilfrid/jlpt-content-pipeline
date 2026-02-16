@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "貸す",
+    "reading": "かす",
+    "romaji": "kasu",
+    "jlpt": "N5",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lend",
+          "to loan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to rent out",
+          "to hire out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hand (over)",
+          "to give"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "借りる",
+      "reading": "かりる",
+      "meaning": "to borrow"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手を貸す",
+      "reading": "てをかす",
+      "meaning": "to lend a hand",
+      "type": "idiom"
+    },
+    {
+      "word": "朝マラの立たぬ男に金貸すな",
+      "reading": "あさマラのたたぬおとこにかねかすな",
+      "meaning": "do not lend money to a man who doesn't have an erection in the morning (because he is not in good health and might die before he can repay)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,164 @@
+{
+  "definition": {
+    "word": "家",
+    "reading": "いえ",
+    "romaji": "ie",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "house",
+          "residence",
+          "dwelling",
+          "home"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "family",
+          "household"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lineage",
+          "family name"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "家族",
+      "reading": "かぞく",
+      "meaning": "family"
+    },
+    {
+      "word": "家庭",
+      "reading": "かてい",
+      "meaning": "home"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "百家争鳴",
+      "reading": "ひゃっかそうめい",
+      "meaning": "let a hundred schools of thought contend",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一家団欒",
+      "reading": "いっかだんらん",
+      "meaning": "happy family get-together",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自家撞着",
+      "reading": "じかどうちゃく",
+      "meaning": "self-contradiction",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "本家本元",
+      "reading": "ほんけほんもと",
+      "meaning": "original home",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "閨秀作家",
+      "reading": "けいしゅうさっか",
+      "meaning": "woman writer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一家眷属",
+      "reading": "いっかけんぞく",
+      "meaning": "one's family, relations, and followers",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自家薬籠",
+      "reading": "じかやくろう",
+      "meaning": "(something that is) available for use at any time",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "家常茶飯",
+      "reading": "かじょうさはん",
+      "meaning": "everyday occurrence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "家族団らん",
+      "reading": "かぞくだんらん",
+      "meaning": "happy family circle",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "諸子百家",
+      "reading": "しょしひゃっか",
+      "meaning": "Hundred Schools of Thought (during China's Spring and Autumn period and Warring States period)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "家に来ませんか。",
+      "reading": null,
+      "english": "Why don't you come visit us?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "家に帰りましょうか。",
+      "reading": null,
+      "english": "Why don't we go home?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "家に来ませんか。",
+      "reading": null,
+      "english": "Why don't you come visit us?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "家に来ませんか。",
+      "reading": null,
+      "english": "Why don't you come and visit us?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "家に来ませんか。",
+      "reading": null,
+      "english": "Why don't you come and see us?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "家に来ませんか。",
+      "reading": null,
+      "english": "Would you like to come to my house?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

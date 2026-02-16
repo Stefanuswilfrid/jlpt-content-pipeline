@@ -1,0 +1,189 @@
+{
+  "definition": {
+    "word": "下",
+    "reading": "した",
+    "romaji": "shita",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "below",
+          "down",
+          "under",
+          "younger (e.g. daughter)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bottom"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "beneath",
+          "underneath"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "just after",
+          "right after"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "inferiority",
+          "one's inferior (i.e. one's junior)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "subway"
+    },
+    {
+      "word": "廊下",
+      "reading": "ろうか",
+      "meaning": "corridor"
+    },
+    {
+      "word": "下手",
+      "reading": "したて",
+      "meaning": "humble position"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "unskillful"
+    },
+    {
+      "word": "靴下",
+      "reading": "くつした",
+      "meaning": "socks"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "縁の下",
+      "reading": "えんのした",
+      "meaning": "out of sight",
+      "type": "idiom"
+    },
+    {
+      "word": "急転直下",
+      "reading": "きゅうてんちょっか",
+      "meaning": "suddenly and precipitately",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天下一品",
+      "reading": "てんかいっぴん",
+      "meaning": "beyond compare",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "下火になる",
+      "reading": "したびになる",
+      "meaning": "to die down (of a fire)",
+      "type": "idiom"
+    },
+    {
+      "word": "下手の横好き",
+      "reading": "へたのよこずき",
+      "meaning": "loving something but being very bad at it",
+      "type": "idiom"
+    },
+    {
+      "word": "下駄を預ける",
+      "reading": "げたをあずける",
+      "meaning": "to leave everything to (someone)",
+      "type": "idiom"
+    },
+    {
+      "word": "月下氷人",
+      "reading": "げっかひょうじん",
+      "meaning": "go-between",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三日天下",
+      "reading": "みっかてんか",
+      "meaning": "short-lived rule",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天下無双",
+      "reading": "てんかむそう",
+      "meaning": "peerless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "灯台下暗し",
+      "reading": "とうだいもとくらし",
+      "meaning": "it is darkest under the lamp post",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "手を下げろ。",
+      "reading": null,
+      "english": "Put your hands down!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どうぞ気楽にして下さい。",
+      "reading": null,
+      "english": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうぞ楽になって下さい。",
+      "reading": null,
+      "english": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "くつろいでいて下さい。",
+      "reading": null,
+      "english": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "おくつろぎ下さい。",
+      "reading": null,
+      "english": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

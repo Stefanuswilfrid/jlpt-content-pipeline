@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "切る",
+    "reading": "きる",
+    "romaji": "kiru",
+    "jlpt": "N5",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cut",
+          "to cut through",
+          "to perform (surgery)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sever (connections, ties)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to turn off (e.g. the light)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to terminate (e.g. a conversation)",
+          "to hang up (the phone)",
+          "to disconnect"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to punch (a ticket)",
+          "to tear off (a stub)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "切手",
+      "reading": "きって",
+      "meaning": "stamp (postage)"
+    },
+    {
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaning": "ticket"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "口火を切る",
+      "reading": "くちびをきる",
+      "meaning": "to start the debate",
+      "type": "idiom"
+    },
+    {
+      "word": "手を切る",
+      "reading": "てをきる",
+      "meaning": "to cut one's hand",
+      "type": "idiom"
+    },
+    {
+      "word": "首を切る",
+      "reading": "くびをきる",
+      "meaning": "to fire from a job",
+      "type": "idiom"
+    },
+    {
+      "word": "見得を切る",
+      "reading": "みえをきる",
+      "meaning": "to strike a pose (in kabuki)",
+      "type": "idiom"
+    },
+    {
+      "word": "肩で風を切る",
+      "reading": "かたでかぜをきる",
+      "meaning": "to swagger",
+      "type": "idiom"
+    },
+    {
+      "word": "自腹を切る",
+      "reading": "じばらをきる",
+      "meaning": "to pay with one's own money",
+      "type": "idiom"
+    },
+    {
+      "word": "舵を切る",
+      "reading": "かじをきる",
+      "meaning": "to change direction (of policy, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "口を切る",
+      "reading": "くちをきる",
+      "meaning": "to be the first to speak",
+      "type": "idiom"
+    },
+    {
+      "word": "腹を切る",
+      "reading": "はらをきる",
+      "meaning": "to commit seppuku",
+      "type": "idiom"
+    },
+    {
+      "word": "カードを切る",
+      "reading": "カードをきる",
+      "meaning": "to shuffle (a deck of) cards",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ロープを切るナイフがほしい。",
+      "reading": null,
+      "english": "I want a knife with which to cut the rope.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "不味い",
+    "reading": "まずい",
+    "romaji": "mazui",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "bad(-tasting)",
+          "unpalatable",
+          "unsavoury",
+          "unsavory",
+          "awful",
+          "terrible",
+          "unpleasant"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "poor",
+          "unskillful",
+          "unskilful",
+          "bungling",
+          "clumsy"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "ugly",
+          "unattractive",
+          "homely",
+          "plain"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "awkward",
+          "problematic",
+          "troublesome",
+          "unfavorable",
+          "unfavourable",
+          "unwise"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "美味しい",
+      "reading": "おいしい",
+      "meaning": "good(-tasting)"
+    },
+    {
+      "word": "意味",
+      "reading": "いみ",
+      "meaning": "meaning"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "hobby"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "プディングのうまいまずいは食べてみてから。",
+      "reading": null,
+      "english": "The proof of the pudding is in the eating.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ひもじい時にまずいものなし。",
+      "reading": null,
+      "english": "A good appetite is a good sauce.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "すぐに行かないとまずいよ。",
+      "reading": null,
+      "english": "You had better go at once.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あ！まずい！ガソリンが切れてきた。",
+      "reading": null,
+      "english": "Oh, no! We're running out of gas.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

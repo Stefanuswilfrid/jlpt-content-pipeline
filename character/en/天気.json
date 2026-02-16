@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "天気",
+    "reading": "てんき",
+    "romaji": "tenki",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "weather"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fair weather",
+          "fine weather"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "electricity"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "illness (usu. excluding minor ailments, e.g. common cold)"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "lively"
+    },
+    {
+      "word": "気",
+      "reading": "き",
+      "meaning": "spirit"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "feeling"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "feeling"
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "air"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "雨の降る日は天気が悪い",
+      "reading": "あめのふるひはてんきがわるい",
+      "meaning": "water is wet",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空を見ると朝にはいい天気になりそうだ。",
+      "reading": null,
+      "english": "The skies promise better weather in the morning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "気まぐれな天気だな。",
+      "reading": null,
+      "english": "The weather is fickle.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まもなく天気になるでしょう。",
+      "reading": null,
+      "english": "It's going to clear up soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何週間もよい天気だったあとで雨がふった。",
+      "reading": null,
+      "english": "It rained after it had been dry for many weeks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

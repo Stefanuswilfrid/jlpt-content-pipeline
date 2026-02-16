@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "romaji": "okaasan",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ibu (formal)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wife"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you (of an elderly person older than the speaker)",
+          "she",
+          "her"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "母",
+      "reading": "はは",
+      "meaning": "ibuku"
+    },
+    {
+      "word": "祖母",
+      "reading": "そぼ",
+      "meaning": "nenek"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "「どなたですか」「お母さんよ」",
+      "reading": null,
+      "indonesian": "\"Who is it?\" \"It's your mother.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「どなたですか」「お母さんよ」",
+      "reading": null,
+      "indonesian": "\"Who is it?\" \"It's your mother.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「どなたですか」「お母さんよ」",
+      "reading": null,
+      "indonesian": "\"Who's that? \" \"It's your mother.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メグはお母さんとそっくりです。",
+      "reading": null,
+      "indonesian": "Meg is the double of her mother.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

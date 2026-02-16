@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "開く",
+    "reading": "ひらく",
+    "romaji": "hiraku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to open",
+          "to undo",
+          "to unseal",
+          "to unpack"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bloom",
+          "to unfold",
+          "to spread out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to open (for business, e.g. in the morning)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be wide (gap, etc.)",
+          "to widen"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hold (meeting, party, etc.)",
+          "to give",
+          "to open"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "開ける",
+      "reading": "あける",
+      "meaning": "to open (a door, etc.)"
+    },
+    {
+      "word": "開ける",
+      "reading": "ひらける",
+      "meaning": "to open out (of a view, scenery, etc.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "眉を開く",
+      "reading": "まゆをひらく",
+      "meaning": "to feel relieved",
+      "type": "idiom"
+    },
+    {
+      "word": "穴の開くほど",
+      "reading": "あなのあくほど",
+      "meaning": "(staring) piercingly",
+      "type": "idiom"
+    },
+    {
+      "word": "股を開く",
+      "reading": "またをひらく",
+      "meaning": "to spread one's legs",
+      "type": "idiom"
+    },
+    {
+      "word": "心を開く",
+      "reading": "こころをひらく",
+      "meaning": "to open up to someone else",
+      "type": "idiom"
+    },
+    {
+      "word": "穴が開くほど",
+      "reading": "あながあくほど",
+      "meaning": "(staring) piercingly",
+      "type": "idiom"
+    },
+    {
+      "word": "目を開く",
+      "reading": "めをひらく",
+      "meaning": "to open one's eyes",
+      "type": "idiom"
+    },
+    {
+      "word": "地獄の釜の蓋も開く",
+      "reading": "じごくのかまのふたもあく",
+      "meaning": "even the demons of hell rest during Obon and the New Year",
+      "type": "proverb"
+    },
+    {
+      "word": "新しいページを開く",
+      "reading": "あたらしいページをひらく",
+      "meaning": "to begin a new chapter (in)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

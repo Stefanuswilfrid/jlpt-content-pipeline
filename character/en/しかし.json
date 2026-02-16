@@ -1,0 +1,38 @@
+{
+  "definition": {
+    "word": "然し",
+    "reading": "しかし",
+    "romaji": "shikashi",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "however",
+          "but"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "全然",
+      "reading": "ぜんぜん",
+      "meaning": "(not) at all"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もしかしたら夕方にならないうちに雨かもしれないよ。",
+      "reading": null,
+      "english": "It might rain before evening.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

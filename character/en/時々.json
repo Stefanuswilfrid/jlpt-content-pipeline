@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "時々",
+    "reading": "ときどき",
+    "romaji": "tokidoki",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "sometimes",
+          "occasionally",
+          "at times",
+          "from time to time",
+          "now and then",
+          "once in a while",
+          "at intervals"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "seasonal",
+          "of the season",
+          "appropriate (for the season or occasion)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "clock"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "時々刻々",
+      "reading": "じじこっこく",
+      "meaning": "hourly",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "うん。時々そういうことがあるの。",
+      "reading": null,
+      "english": "Yes, it happens from time to time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

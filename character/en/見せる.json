@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "見せる",
+    "reading": "みせる",
+    "romaji": "miseru",
+    "jlpt": "N5",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to show",
+          "to display"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make (something or someone) look ...",
+          "to present an appearance of ..."
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make (something) worth watching",
+          "to be entertaining"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have (something) looked at (by a specialist)",
+          "to have (an antique, etc.) appraised"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have (an injury, person, etc.) looked at (by a doctor)",
+          "to take (someone) to a doctor"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見る",
+      "reading": "みる",
+      "meaning": "to see"
+    },
+    {
+      "word": "拝見",
+      "reading": "はいけん",
+      "meaning": "seeing"
+    },
+    {
+      "word": "見つける",
+      "reading": "みつける",
+      "meaning": "to find"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "目に物見せる",
+      "reading": "めにものみせる",
+      "meaning": "to teach someone a lesson",
+      "type": "idiom"
+    },
+    {
+      "word": "手の内を見せる",
+      "reading": "てのうちをみせる",
+      "meaning": "to reveal one's true intentions",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

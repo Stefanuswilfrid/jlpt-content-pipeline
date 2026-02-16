@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "有る",
+    "reading": "ある",
+    "romaji": "aru",
+    "jlpt": "N5",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending (irregular verb)",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk menjadi",
+          "untuk memiliki"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending (irregular verb)",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to have"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending (irregular verb)",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be located"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending (irregular verb)",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be equipped with"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending (irregular verb)",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to happen",
+          "to come about"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaning": "terkenal"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "花も実も有る",
+      "reading": "はなもみもある",
+      "meaning": "to have both the looks and the substance",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

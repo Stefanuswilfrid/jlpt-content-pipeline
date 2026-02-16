@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "締める",
+    "reading": "しめる",
+    "romaji": "shimeru",
+    "jlpt": "N5",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tie",
+          "to fasten",
+          "to tighten"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to wear (necktie, belt)",
+          "to put on"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to total",
+          "to sum"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be strict with"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to economize",
+          "to economise",
+          "to cut down on"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "閉まる",
+      "reading": "しまる",
+      "meaning": "to be shut"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "兜の緒を締める",
+      "reading": "かぶとのおをしめる",
+      "meaning": "to brace oneself (e.g. for battle)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

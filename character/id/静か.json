@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "静か",
+    "reading": "しずか",
+    "romaji": "shizuka",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "tenang",
+          "damai"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "slow",
+          "unhurried"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "calm",
+          "peaceful"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "四海波静か",
+      "reading": "しかいなみしずか",
+      "meaning": "The world is at peace",
+      "type": "idiom"
+    },
+    {
+      "word": "深い川は静かに流れる",
+      "reading": "ふかいかわはしずかにながれる",
+      "meaning": "still waters run deep",
+      "type": "proverb"
+    },
+    {
+      "word": "静かに流れる川は深い",
+      "reading": "しずかにながれるかわはふかい",
+      "meaning": "still waters run deep",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "古い",
+    "reading": "ふるい",
+    "romaji": "furui",
+    "jlpt": "N5",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "old",
+          "aged",
+          "ancient",
+          "antiquated",
+          "antique",
+          "timeworn"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "long",
+          "since long ago",
+          "time-honored"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "of the distant past",
+          "long-ago"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "stale",
+          "threadbare",
+          "hackneyed",
+          "corny"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "old-fashioned",
+          "outmoded",
+          "out-of-date"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 2,
+    "type": "nakadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "古い革袋に新しい酒を盛る",
+      "reading": "ふるいかわぶくろにあたらしいさけをもる",
+      "meaning": "to pour new wine into old wineskins",
+      "type": "idiom"
+    },
+    {
+      "word": "新しい酒は古い革袋に入れる",
+      "reading": "あたらしいさけはふるいかわぶくろにいれる",
+      "meaning": "to put new wine into old wineskins",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

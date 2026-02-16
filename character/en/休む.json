@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "休む",
+    "reading": "やすむ",
+    "romaji": "yasumu",
+    "jlpt": "N5",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be absent",
+          "to take a day off"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to rest",
+          "to have a break"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go to bed",
+          "to (lie down to) sleep",
+          "to turn in",
+          "to retire"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stop doing some ongoing activity for a time",
+          "to suspend business"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "下手な考え休むに似たり",
+      "reading": "へたなかんがえやすむににたり",
+      "meaning": "it's hard to tell a poor thinker from a sleeping one",
+      "type": "proverb"
+    },
+    {
+      "word": "下手の考え休むに似たり",
+      "reading": "へたのかんがえやすむににたり",
+      "meaning": "it's hard to tell a poor thinker from a sleeping one",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "家で休むくらいならむしろ外出したい。",
+      "reading": null,
+      "english": "I would rather go out than stay at home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏休みにはゆっくり休むつもりです。",
+      "reading": null,
+      "english": "I'm just going to rest during the summer vacation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

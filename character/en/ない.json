@@ -1,0 +1,118 @@
+{
+  "definition": {
+    "word": "無い",
+    "reading": "ない",
+    "romaji": "nai",
+    "jlpt": "N5",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "nonexistent",
+          "not being (there)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "unowned",
+          "not had",
+          "unpossessed"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "unique"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "not",
+          "impossible",
+          "won't happen"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)",
+          "auxiliary adjective"
+        ],
+        "meanings": [
+          "not"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無くす",
+      "reading": "なくす",
+      "meaning": "to lose (something)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "後が無い",
+      "reading": "あとがない",
+      "meaning": "having one's back to the wall",
+      "type": "idiom"
+    },
+    {
+      "word": "無い袖は振れぬ",
+      "reading": "ないそではふれぬ",
+      "meaning": "you can't give (use) what you don't have",
+      "type": "proverb"
+    },
+    {
+      "word": "名の無い星は宵から出る",
+      "reading": "なのないほしはよいからでる",
+      "meaning": "the worst goes foremost",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "きりがない。",
+      "reading": null,
+      "english": "This is never going to end.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "何とも言いようがないなあ。",
+      "reading": null,
+      "english": "I just don't know what to say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはあなたが一人になりたくないからです。",
+      "reading": null,
+      "english": "It's because you don't want to be alone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "みんなもそうなのかな、と思うことくらいしかできない。",
+      "reading": null,
+      "english": "I can only wonder if this is the same for everyone else.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

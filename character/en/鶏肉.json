@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "romaji": "toriniku",
+    "jlpt": "N5",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "chicken meat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fowl",
+          "poultry",
+          "bird meat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "肉",
+      "reading": "にく",
+      "meaning": "flesh"
+    },
+    {
+      "word": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "beef"
+    },
+    {
+      "word": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "pork"
+    },
+    {
+      "word": "鳥",
+      "reading": "とり",
+      "meaning": "bird"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

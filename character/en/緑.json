@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "緑",
+    "reading": "みどり",
+    "romaji": "midori",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "green"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "greenery",
+          "verdure"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "紅灯緑酒",
+      "reading": "こうとうりょくしゅ",
+      "meaning": "(nights of) fun, food, and drink",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "万緑一紅",
+      "reading": "ばんりょくいっこう",
+      "meaning": "one red flower standing out in a sea of green vegetation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "花紅柳緑",
+      "reading": "かこうりゅうりょく",
+      "meaning": "red blossoms and green willows",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "桃紅柳緑",
+      "reading": "とうこうりゅうりょく",
+      "meaning": "beautiful scenery of spring",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "柳緑花紅",
+      "reading": "りゅうりょくかこう",
+      "meaning": "red blossoms and green willows",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "万緑叢中紅一点",
+      "reading": "ばんりょくそうちゅうこういってん",
+      "meaning": "one red flower standing out in a sea of green vegetation",
+      "type": "proverb"
+    },
+    {
+      "word": "柳は緑、花は紅",
+      "reading": "やなぎはみどり、はなはくれない",
+      "meaning": "natural state",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

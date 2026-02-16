@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "車",
+    "reading": "くるま",
+    "romaji": "kuruma",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mobil",
+          "kendaraan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wheel",
+          "castor",
+          "caster"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "自動車",
+      "reading": "じどうしゃ",
+      "meaning": "mobil"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "sepeda"
+    },
+    {
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "kereta listrik"
+    },
+    {
+      "word": "駐車場",
+      "reading": "ちゅうしゃじょう",
+      "meaning": "tempat parkir"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "火の車",
+      "reading": "ひのくるま",
+      "meaning": "fiery chariot (that carries the souls of sinners into hell)",
+      "type": "idiom"
+    },
+    {
+      "word": "拍車をかける",
+      "reading": "はくしゃをかける",
+      "meaning": "to spur (on)",
+      "type": "idiom"
+    },
+    {
+      "word": "唇歯輔車",
+      "reading": "しんしほしゃ",
+      "meaning": "mutual dependence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "車軸を流す",
+      "reading": "しゃじくをながす",
+      "meaning": "to rain heavily",
+      "type": "idiom"
+    },
+    {
+      "word": "拍車がかかる",
+      "reading": "はくしゃがかかる",
+      "meaning": "to expedite",
+      "type": "idiom"
+    },
+    {
+      "word": "車輪の再発明",
+      "reading": "しゃりんのさいはつめい",
+      "meaning": "reinventing the wheel",
+      "type": "idiom"
+    },
+    {
+      "word": "歯車が狂う",
+      "reading": "はぐるまがくるう",
+      "meaning": "to go wrong",
+      "type": "idiom"
+    },
+    {
+      "word": "前車の轍を踏む",
+      "reading": "ぜんしゃのてつをふむ",
+      "meaning": "to repeat someone's mistake",
+      "type": "idiom"
+    },
+    {
+      "word": "前車の覆るは後車の戒め",
+      "reading": "ぜんしゃのくつがえるはこうしゃのいましめ",
+      "meaning": "learn wisdom from the follies of others",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

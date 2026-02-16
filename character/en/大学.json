@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "大学",
+    "reading": "だいがく",
+    "romaji": "daigaku",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "university",
+          "college"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "former imperial university of Japan (established under the ritsuryō system for the training of government administrators)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the Great Learning (one of the Four Books)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "school"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "student (esp. a university student)"
+    },
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "very"
+    },
+    {
+      "word": "大使館",
+      "reading": "たいしかん",
+      "meaning": "embassy"
+    },
+    {
+      "word": "大人",
+      "reading": "おとな",
+      "meaning": "adult"
+    },
+    {
+      "word": "大勢",
+      "reading": "おおぜい",
+      "meaning": "crowd of people"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "overseas student"
+    },
+    {
+      "word": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "safe"
+    },
+    {
+      "word": "大勢",
+      "reading": "たいせい",
+      "meaning": "general situation"
+    },
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "meaning": "medicine"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "花子は４年間アメリカの大学に通っている。",
+      "reading": null,
+      "english": "Hanako has attended an American college for four years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わたしはオックスフォード大学の学生です。",
+      "reading": null,
+      "english": "I am a student at Oxford University.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

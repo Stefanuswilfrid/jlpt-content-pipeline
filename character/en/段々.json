@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "刻々",
+    "reading": "ギザギザ",
+    "romaji": "gizagiza",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "notches",
+          "serration",
+          "indentation",
+          "jaggies (stair-step artifacts in computer images)"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "notched",
+          "serrated",
+          "jagged",
+          "corrugated",
+          "milled"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "先",
+      "reading": "さっき",
+      "meaning": "a short while ago"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "時々刻々",
+      "reading": "じじこっこく",
+      "meaning": "hourly",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

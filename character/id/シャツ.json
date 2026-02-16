@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "シャツ",
+    "reading": "シャツ",
+    "romaji": "shatsu",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kemeja"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shirt (outerwear; usu. with collar and buttons)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ワイシャツにボタンをつけて。",
+      "reading": null,
+      "indonesian": "Would you sew a button on my shirt?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どこでＴシャツが買えますか。",
+      "reading": null,
+      "indonesian": "Where would I find T-shirts?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

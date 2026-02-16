@@ -1,0 +1,163 @@
+{
+  "definition": {
+    "word": "青",
+    "reading": "あお",
+    "romaji": "ao",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "blue",
+          "azure"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "green"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "green light (traffic)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "black (horse coat color)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "blue 5-point card"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "青信号",
+      "reading": "あおしんごう",
+      "meaning": "green light (traffic)",
+      "type": "idiom"
+    },
+    {
+      "word": "青息吐息",
+      "reading": "あおいきといき",
+      "meaning": "deep distress",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "青天の霹靂",
+      "reading": "せいてんのへきれき",
+      "meaning": "a bolt out of the blue",
+      "type": "idiom"
+    },
+    {
+      "word": "青天井",
+      "reading": "あおてんじょう",
+      "meaning": "blue sky",
+      "type": "idiom"
+    },
+    {
+      "word": "青天白日",
+      "reading": "せいてんはくじつ",
+      "meaning": "clear weather",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "白砂青松",
+      "reading": "はくしゃせいしょう",
+      "meaning": "white sands and green pines",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "青菜に塩",
+      "reading": "あおなにしお",
+      "meaning": "feeling sad or downhearted",
+      "type": "idiom"
+    },
+    {
+      "word": "ケツが青い",
+      "reading": "ケツがあおい",
+      "meaning": "wet behind the ears",
+      "type": "idiom"
+    },
+    {
+      "word": "隣の芝は青い",
+      "reading": "となりのしばはあおい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "隣の芝生は青い",
+      "reading": "となりのしばふはあおい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "顔が青いよ。",
+      "reading": null,
+      "english": "You look pale.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "空は青い。",
+      "reading": null,
+      "english": "The sky is blue.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "空が青いです。",
+      "reading": null,
+      "english": "The sky is blue.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "空はあくまでも青い。",
+      "reading": null,
+      "english": "The sky is as blue as blue can be.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "なぜ空が青く見えるか知っていますか。",
+      "reading": null,
+      "english": "Do you know the reason why the sky looks blue?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

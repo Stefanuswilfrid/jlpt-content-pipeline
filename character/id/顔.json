@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "顔",
+    "reading": "かお",
+    "romaji": "kao",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wajah (bagian tubuh)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "look",
+          "expression",
+          "countenance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "honor",
+          "honour",
+          "face"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "influence",
+          "notoriety"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "厚顔無恥",
+      "reading": "こうがんむち",
+      "meaning": "shameless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "仏の顔も三度",
+      "reading": "ほとけのかおもさんど",
+      "meaning": "even the patience of a saint eventually runs out",
+      "type": "proverb"
+    },
+    {
+      "word": "破顔一笑",
+      "reading": "はがんいっしょう",
+      "meaning": "smiling broadly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "顔に泥を塗る",
+      "reading": "かおにどろをぬる",
+      "meaning": "to bring disgrace (dishonor, dishonour) on",
+      "type": "idiom"
+    },
+    {
+      "word": "顔が利く",
+      "reading": "かおがきく",
+      "meaning": "to have a lot of influence (in)",
+      "type": "idiom"
+    },
+    {
+      "word": "破顔大笑",
+      "reading": "はがんたいしょう",
+      "meaning": "breaking into a hearty laugh",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "顔面蒼白",
+      "reading": "がんめんそうはく",
+      "meaning": "one's face turning pale (ashen)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "紅顔可憐",
+      "reading": "こうがんかれん",
+      "meaning": "youthful and endearing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "顔が広い",
+      "reading": "かおがひろい",
+      "meaning": "well connected",
+      "type": "idiom"
+    },
+    {
+      "word": "和顔愛語",
+      "reading": "わがんあいご",
+      "meaning": "with a gentle face and a nice word",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "顔色がよくありません。",
+      "reading": null,
+      "indonesian": "You look pale.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "顔が青いよ。",
+      "reading": null,
+      "indonesian": "You look pale.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

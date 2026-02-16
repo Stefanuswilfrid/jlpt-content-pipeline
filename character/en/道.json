@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "道",
+    "reading": "みち",
+    "romaji": "michi",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "road",
+          "path",
+          "street",
+          "lane",
+          "passage"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "route",
+          "way"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "distance",
+          "journey"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "road (e.g. to victory)",
+          "course"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "way (of living, proper conduct, etc.)",
+          "moral principles"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "柔道",
+      "reading": "じゅうどう",
+      "meaning": "judo"
+    },
+    {
+      "word": "水道",
+      "reading": "すいどう",
+      "meaning": "water supply"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaning": "tool"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "言語道断",
+      "reading": "ごんごどうだん",
+      "meaning": "outrageous",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "人道主義",
+      "reading": "じんどうしゅぎ",
+      "meaning": "humanism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "悪逆無道",
+      "reading": "あくぎゃくむどう",
+      "meaning": "treacherous",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "黄道吉日",
+      "reading": "おうどうきちにち",
+      "meaning": "very auspicious day for all types of occasions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "王道楽土",
+      "reading": "おうどうらくど",
+      "meaning": "Arcadia, presided over by a virtuous king",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "文武両道",
+      "reading": "ぶんぶりょうどう",
+      "meaning": "being accomplished in both the literary and military arts",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "茨の道",
+      "reading": "いばらのみち",
+      "meaning": "thorny path",
+      "type": "idiom"
+    },
+    {
+      "word": "極悪非道",
+      "reading": "ごくあくひどう",
+      "meaning": "inhuman",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "道聴塗説",
+      "reading": "どうちょうとせつ",
+      "meaning": "shallow-minded mouthing of secondhand information",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "暴虐非道",
+      "reading": "ぼうぎゃくひどう",
+      "meaning": "violent and cruel",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "千里の道も一歩から。",
+      "reading": null,
+      "english": "Rome wasn't built in a day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "水道がでています。",
+      "reading": null,
+      "english": "The tap is running.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

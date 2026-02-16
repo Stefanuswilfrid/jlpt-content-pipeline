@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "真っ直ぐ",
+    "reading": "まっすぐ",
+    "romaji": "massugu",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "straight (ahead)",
+          "direct",
+          "upright",
+          "erect"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "straightforward",
+          "honest",
+          "frank"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "絵はまっすぐですか。",
+      "reading": null,
+      "english": "Is the picture straight?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "まっすぐ前方を見なさい。",
+      "reading": null,
+      "english": "Look straight ahead.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まっすぐ前を見てください。",
+      "reading": null,
+      "english": "Look straight ahead.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まっすぐ前を見てください。",
+      "reading": null,
+      "english": "Look forward, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まっすぐ行け。",
+      "reading": null,
+      "english": "Go straight on.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "まっすぐ行きなさい。そうすれば店が見えます。",
+      "reading": null,
+      "english": "Go straight on, and you will find the store.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

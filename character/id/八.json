@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "八",
+    "reading": "はち",
+    "romaji": "hachi",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "delapan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "八つ",
+      "reading": "やっつ",
+      "meaning": "delapan hal"
+    },
+    {
+      "word": "八百屋",
+      "reading": "やおや",
+      "meaning": "penjual sayur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "四苦八苦",
+      "reading": "しくはっく",
+      "meaning": "being in dire distress",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "尺八",
+      "reading": "しゃくはち",
+      "meaning": "shakuhachi",
+      "type": "expression"
+    },
+    {
+      "word": "嘘八百",
+      "reading": "うそはっぴゃく",
+      "meaning": "pack of lies",
+      "type": "idiom"
+    },
+    {
+      "word": "四通八達",
+      "reading": "しつうはったつ",
+      "meaning": "traffic network extending in all directions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四方八方",
+      "reading": "しほうはっぽう",
+      "meaning": "in all directions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "七転び八起き",
+      "reading": "ななころびやおき",
+      "meaning": "not giving up",
+      "type": "idiom"
+    },
+    {
+      "word": "十中八九",
+      "reading": "じっちゅうはっく",
+      "meaning": "in 8 or 9 cases out of ten",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "八紘一宇",
+      "reading": "はっこういちう",
+      "meaning": "universal brotherhood",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "八方美人",
+      "reading": "はっぽうびじん",
+      "meaning": "everybody's friend",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "八面玲瓏",
+      "reading": "はちめんれいろう",
+      "meaning": "beautiful from all sides",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "花火が四方八方であげられた。",
+      "reading": null,
+      "indonesian": "The fireworks were set off on all sides.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

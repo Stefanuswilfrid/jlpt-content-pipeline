@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "文章",
+    "reading": "ぶんしょう",
+    "romaji": "bunshou",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "writing",
+          "composition",
+          "essay",
+          "article",
+          "passage",
+          "prose",
+          "(writing) style"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sentence"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "作文",
+      "reading": "さくぶん",
+      "meaning": "writing (an essay, prose, etc.)"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaning": "culture"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaning": "literature"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

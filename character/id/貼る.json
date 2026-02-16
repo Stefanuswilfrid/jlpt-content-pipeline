@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "張る",
+    "reading": "はる",
+    "romaji": "haru",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk memposting; untuk menempelkan; untuk melampirkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stretch",
+          "to spread",
+          "to strain",
+          "to tighten",
+          "to put up (e.g. a tent)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to form (e.g. ice on a pond)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fill",
+          "to swell"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stick out",
+          "to push out"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "頑張る",
+      "reading": "がんばる",
+      "meaning": "berusaha sebaik mungkin, berusaha keras, gigih."
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足を引っ張る",
+      "reading": "あしをひっぱる",
+      "meaning": "to hold back (someone) from achieving success",
+      "type": "idiom"
+    },
+    {
+      "word": "根を張る",
+      "reading": "ねをはる",
+      "meaning": "to spread its roots (of a tree, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "煙幕を張る",
+      "reading": "えんまくをはる",
+      "meaning": "to throw up a smoke screen",
+      "type": "idiom"
+    },
+    {
+      "word": "肩が張る",
+      "reading": "かたがはる",
+      "meaning": "to have stiff shoulders",
+      "type": "idiom"
+    },
+    {
+      "word": "山を張る",
+      "reading": "やまをはる",
+      "meaning": "to speculate",
+      "type": "idiom"
+    },
+    {
+      "word": "欲の皮が突っ張る",
+      "reading": "よくのかわがつっぱる",
+      "meaning": "to be greedy",
+      "type": "idiom"
+    },
+    {
+      "word": "門前雀羅を張る",
+      "reading": "もんぜんじゃくらをはる",
+      "meaning": "to be (practically) deserted",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

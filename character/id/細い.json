@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "細い",
+    "reading": "ほそい",
+    "romaji": "hosoi",
+    "jlpt": "N5",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "tipis",
+          "ramping",
+          "halus"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "unlucky"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "細かい",
+      "reading": "こまかい",
+      "meaning": "kecil; halus, sangat kecil"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その通りはとても細いんだ。",
+      "reading": null,
+      "indonesian": "The street is very narrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "心細いの。",
+      "reading": null,
+      "indonesian": "I'm lonely.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "definition": {
+    "word": "靴",
+    "reading": "くつ",
+    "romaji": "kutsu",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shoe",
+          "shoes",
+          "boots",
+          "footwear",
+          "footgear"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "靴下",
+      "reading": "くつした",
+      "meaning": "socks"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "隔靴掻痒",
+      "reading": "かっかそうよう",
+      "meaning": "being frustrated because something is not quite as hoped (just as one cannot scratch an itch from outside a shoe)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "靴新しと雖も首に加えず",
+      "reading": "くつあたらしといえどもくびにくわえず",
+      "meaning": "there must be a clear distinction between the upper and lower classes",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

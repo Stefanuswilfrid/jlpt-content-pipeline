@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "翼",
+    "reading": "つばさ",
+    "romaji": "tsubasa",
+    "jlpt": "N5",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Chinese \"Wings\" constellation (one of the 28 mansions)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "小心翼々",
+      "reading": "しょうしんよくよく",
+      "meaning": "very timid",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "比翼連理",
+      "reading": "ひよくれんり",
+      "meaning": "marital vows",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "虎に翼",
+      "reading": "とらにつばさ",
+      "meaning": "making the strong even stronger",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "気分がよくないんだ。",
+      "reading": null,
+      "english": "I don't feel well.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "くよくよしないで、楽しく行こう！",
+      "reading": null,
+      "english": "Don't worry, be happy!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "気分がよくないんだ。",
+      "reading": null,
+      "english": "I don't feel well.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "気分がよくないんだ。",
+      "reading": null,
+      "english": "I feel lousy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "顔色がよくありません。",
+      "reading": null,
+      "english": "You look pale.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "男",
+    "reading": "おとこ",
+    "romaji": "otoko",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "pria",
+          "laki-laki"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fellow",
+          "guy",
+          "chap",
+          "bloke"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "male lover",
+          "boyfriend",
+          "man"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "manliness",
+          "manly honor",
+          "manly honour",
+          "manly reputation"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 3,
+    "type": "odaka"
+  },
+  "related": [
+    {
+      "word": "男の子",
+      "reading": "おとこのこ",
+      "meaning": "anak laki-laki"
+    },
+    {
+      "word": "男性",
+      "reading": "だんせい",
+      "meaning": "pria; laki-laki"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "男尊女卑",
+      "reading": "だんそんじょひ",
+      "meaning": "male domination of women",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "老若男女",
+      "reading": "ろうにゃくなんにょ",
+      "meaning": "men and women of all ages",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "善男善女",
+      "reading": "ぜんなんぜんにょ",
+      "meaning": "pious men and women",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "女尊男卑",
+      "reading": "じょそんだんぴ",
+      "meaning": "placing women above men",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "男心と秋の空",
+      "reading": "おとこごころとあきのそら",
+      "meaning": "a man's heart is as fickle as autumn weather",
+      "type": "proverb"
+    },
+    {
+      "word": "男がすたる",
+      "reading": "おとこがすたる",
+      "meaning": "to stain one's honour (of a man)",
+      "type": "idiom"
+    },
+    {
+      "word": "男は松女は藤",
+      "reading": "おとこはまつおんなはふじ",
+      "meaning": "men are the strong base to which women cling",
+      "type": "proverb"
+    },
+    {
+      "word": "東男に京女",
+      "reading": "あずまおとこにきょうおんな",
+      "meaning": "the best men are from Edo; the best women from Kyoto",
+      "type": "proverb"
+    },
+    {
+      "word": "京男に伊勢女",
+      "reading": "きょうおとこにいせおんな",
+      "meaning": "the best men are from Kyoto; the best women from Ise",
+      "type": "proverb"
+    },
+    {
+      "word": "男は度胸女は愛敬",
+      "reading": "おとこはどきょうおんなはあいきょう",
+      "meaning": "men should be brave, women should be affable",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

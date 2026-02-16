@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "白",
+    "reading": "しろ",
+    "romaji": "shiro",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "white"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "innocence",
+          "innocent person"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "blank space"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "white stone"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "white dragon tile"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "黒風白雨",
+      "reading": "こくふうはくう",
+      "meaning": "sudden rain shower in a dust storm",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "清廉潔白",
+      "reading": "せいれんけっぱく",
+      "meaning": "spotless integrity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "青天白日",
+      "reading": "せいてんはくじつ",
+      "meaning": "clear weather",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "亭主関白",
+      "reading": "ていしゅかんぱく",
+      "meaning": "domineering husband",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "白河夜船",
+      "reading": "しらかわよふね",
+      "meaning": "being fast asleep (and totally unaware of what is going on around one)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "明々白々",
+      "reading": "めいめいはくはく",
+      "meaning": "clearly evident",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "白砂青松",
+      "reading": "はくしゃせいしょう",
+      "meaning": "white sands and green pines",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "白い目で見る",
+      "reading": "しろいめでみる",
+      "meaning": "to look coldly at",
+      "type": "idiom"
+    },
+    {
+      "word": "事理明白",
+      "reading": "じりめいはく",
+      "meaning": "facts being beyond dispute",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "顔面蒼白",
+      "reading": "がんめんそうはく",
+      "meaning": "one's face turning pale (ashen)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "「どうかしたの？」と小さな白いウサギが聞きました。",
+      "reading": null,
+      "english": "\"What's the matter?\" asked the little white rabbit.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

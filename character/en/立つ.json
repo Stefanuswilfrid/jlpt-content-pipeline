@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "立つ",
+    "reading": "たつ",
+    "romaji": "tatsu",
+    "jlpt": "N5",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stand (up)",
+          "to rise",
+          "to get to one's feet",
+          "to stand on end (e.g. of hairs)",
+          "to stick up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stand (in a position; of a person, tree, building, etc.)",
+          "to be situated (in, on)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be (in difficulties, the lead, etc.)",
+          "to put oneself (in a position or situation)",
+          "to take up (a position, post, etc.)",
+          "to position oneself"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to leave (to do something)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to depart (on a journey, trip, etc.)",
+          "to leave",
+          "to set off",
+          "to start"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "役に立つ",
+      "reading": "やくにたつ",
+      "meaning": "to be helpful"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "巣立つ",
+      "reading": "すだつ",
+      "meaning": "to leave the nest",
+      "type": "idiom"
+    },
+    {
+      "word": "矢面に立つ",
+      "reading": "やおもてにたつ",
+      "meaning": "to be in the firing line",
+      "type": "idiom"
+    },
+    {
+      "word": "波風が立つ",
+      "reading": "なみかぜがたつ",
+      "meaning": "to be discordant",
+      "type": "idiom"
+    },
+    {
+      "word": "腕が立つ",
+      "reading": "うでがたつ",
+      "meaning": "to be talented",
+      "type": "idiom"
+    },
+    {
+      "word": "角が立つ",
+      "reading": "かどがたつ",
+      "meaning": "to cause offence (offense)",
+      "type": "idiom"
+    },
+    {
+      "word": "間に立つ",
+      "reading": "あいだにたつ",
+      "meaning": "to mediate",
+      "type": "idiom"
+    },
+    {
+      "word": "目に立つ",
+      "reading": "めにたつ",
+      "meaning": "to be conspicuous",
+      "type": "idiom"
+    },
+    {
+      "word": "トップに立つ",
+      "reading": "トップにたつ",
+      "meaning": "to lead",
+      "type": "idiom"
+    },
+    {
+      "word": "苦境に立つ",
+      "reading": "くきょうにたつ",
+      "meaning": "to be in difficulties",
+      "type": "idiom"
+    },
+    {
+      "word": "立つ鳥跡を濁さず",
+      "reading": "たつとりあとをにごさず",
+      "meaning": "it is simply common courtesy to clean up after yourself",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

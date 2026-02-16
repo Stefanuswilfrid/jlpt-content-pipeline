@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "塩",
+    "reading": "しお",
+    "romaji": "shio",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "garam"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hardship",
+          "toil",
+          "trouble"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "saltiness"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "cold",
+          "unwelcoming",
+          "indifferent"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "青菜に塩",
+      "reading": "あおなにしお",
+      "meaning": "feeling sad or downhearted",
+      "type": "idiom"
+    },
+    {
+      "word": "蛞蝓に塩",
+      "reading": "なめくじにしお",
+      "meaning": "crestfallen",
+      "type": "idiom"
+    },
+    {
+      "word": "傷口に塩",
+      "reading": "きずぐちにしお",
+      "meaning": "(rubbing) salt in the wound",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

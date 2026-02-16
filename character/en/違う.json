@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "違う",
+    "reading": "ちがう",
+    "romaji": "chigau",
+    "jlpt": "N5",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to differ (from)",
+          "to be different",
+          "to be distinct",
+          "to be unlike",
+          "to vary",
+          "to disagree (with)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be wrong",
+          "to be incorrect",
+          "to be mistaken"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become abnormal",
+          "to go wrong"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "isn't it?",
+          "wasn't it?"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "間違える",
+      "reading": "まちがえる",
+      "meaning": "to make a mistake (in)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "桁が違う",
+      "reading": "けたがちがう",
+      "meaning": "to be on a (completely) different level",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

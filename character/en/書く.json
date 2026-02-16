@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "書く",
+    "reading": "かく",
+    "romaji": "kaku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to write",
+          "to compose",
+          "to pen"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to draw",
+          "to paint"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "library"
+    },
+    {
+      "word": "辞書",
+      "reading": "じしょ",
+      "meaning": "dictionary"
+    },
+    {
+      "word": "葉書",
+      "reading": "はがき",
+      "meaning": "postcard"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

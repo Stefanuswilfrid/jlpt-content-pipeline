@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "掛ける",
+    "reading": "かける",
+    "romaji": "kakeru",
+    "jlpt": "N5",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "Memakai (misalnya",
+          "kacamata); menggantung (misalnya",
+          "di dinding)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put on (e.g. a blanket)",
+          "to put on top of",
+          "to cover",
+          "to lay",
+          "to spread"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put on (glasses, etc.)",
+          "to wear (a necklace, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make (a call)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to spend (time, money)",
+          "to expend",
+          "to use"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出かける",
+      "reading": "でかける",
+      "meaning": "untuk keluar; untuk berangkat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "之繞を掛ける",
+      "reading": "しんにゅうをかける",
+      "meaning": "to exaggerate",
+      "type": "idiom"
+    },
+    {
+      "word": "ブレーキを掛ける",
+      "reading": "ブレーキをかける",
+      "meaning": "to put on the brakes",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

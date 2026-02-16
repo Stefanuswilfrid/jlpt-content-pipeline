@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "赤",
+    "reading": "あか",
+    "romaji": "aka",
+    "jlpt": "N5",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "merah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "red-containing colour (e.g. brown, pink, orange)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Red (i.e. communist)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "red light (traffic)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "red ink (i.e. in finance or proof-reading)",
+          "(in) the red"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "赤ちゃん",
+      "reading": "あかちゃん",
+      "meaning": "bayi, balita"
+    },
+    {
+      "word": "赤ん坊",
+      "reading": "あかんぼう",
+      "meaning": "Sayang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "赤信号",
+      "reading": "あかしんごう",
+      "meaning": "red light (traffic)",
+      "type": "idiom"
+    },
+    {
+      "word": "赤手空拳",
+      "reading": "せきしゅくうけん",
+      "meaning": "barehanded",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "隣の花は赤い",
+      "reading": "となりのはなはあかい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "人の花は赤い",
+      "reading": "ひとのはなはあかい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "赤きは酒の咎",
+      "reading": "あかきはさけのとが",
+      "meaning": "it's not my fault",
+      "type": "proverb"
+    },
+    {
+      "word": "赤子の手をひねる",
+      "reading": "あかごのてをひねる",
+      "meaning": "to take candy from a baby",
+      "type": "idiom"
+    },
+    {
+      "word": "赤子の腕をひねる",
+      "reading": "あかごのうでをねじる",
+      "meaning": "to take candy from a baby",
+      "type": "idiom"
+    },
+    {
+      "word": "亭主の好きな赤烏帽子",
+      "reading": "ていしゅのすきなあかえぼし",
+      "meaning": "even an eccentric head of family must be obeyed",
+      "type": "proverb"
+    },
+    {
+      "word": "朱に交われば赤くなる",
+      "reading": "しゅにまじわればあかくなる",
+      "meaning": "people will take on the characteristics of those who surround them",
+      "type": "proverb"
+    },
+    {
+      "word": "赤い糸で結ばれる",
+      "reading": "あかいいとでむすばれる",
+      "meaning": "to be meant for each other (of a man and woman)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "魚と赤ワインは合わない。",
+      "reading": null,
+      "indonesian": "Fish and red wine don't go together.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

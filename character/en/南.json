@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "南",
+    "reading": "みなみ",
+    "romaji": "minami",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "south"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "東西南北",
+      "reading": "とうざいなんぼく",
+      "meaning": "east, west, south and north",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "南征北伐",
+      "reading": "なんせいほくばつ",
+      "meaning": "attacking in all directions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "南船北馬",
+      "reading": "なんせんほくば",
+      "meaning": "constant travelling",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "南無三宝",
+      "reading": "なむさんぼう",
+      "meaning": "Homage to the Three Jewels (Buddha, Dharma and Sangha)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "まもなくツバメが南からやってくる。",
+      "reading": null,
+      "english": "Soon, swallows will come from the south.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たくさんのツバメがまもなく南からやってくる。",
+      "reading": null,
+      "english": "Many swallows will come soon from the south.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

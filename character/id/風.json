@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "振り",
+    "reading": "ふり",
+    "romaji": "furi",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "counter"
+        ],
+        "meanings": [
+          "hembusan angin"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "appearance",
+          "behaviour",
+          "behavior"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pretence",
+          "pretense",
+          "(false) show",
+          "pretending"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "(a customer) coming to restaurant, ryokan, etc. without a reservation or introduction"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "postures (of a dance)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "空振り三振",
+      "reading": "からぶりさんしん",
+      "meaning": "strikeout",
+      "type": "idiom"
+    },
+    {
+      "word": "愛嬌を振りまく",
+      "reading": "あいきょうをふりまく",
+      "meaning": "to make oneself pleasant to everybody",
+      "type": "idiom"
+    },
+    {
+      "word": "袖振り合うも他生の縁",
+      "reading": "そでふりあうもたしょうのえん",
+      "meaning": "even a chance meeting can lead to a deep bond",
+      "type": "proverb"
+    },
+    {
+      "word": "愛想を振りまく",
+      "reading": "あいそをふりまく",
+      "meaning": "to make oneself pleasant to everybody",
+      "type": "idiom"
+    },
+    {
+      "word": "袖の振り合わせも他生の縁",
+      "reading": "ふでのふりあわせもたしょうのえん",
+      "meaning": "even accidentally touching sleeves with a passing stranger is caused by fate",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "またいつか風のように走るんだ。",
+      "reading": null,
+      "indonesian": "Someday I'll run like the wind.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "風がおだやかになった。",
+      "reading": null,
+      "indonesian": "The wind calmed down.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "風がおさまった。",
+      "reading": null,
+      "indonesian": "The wind calmed down.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "またいつか風のように走るんだ。",
+      "reading": null,
+      "indonesian": "Someday I'll run like the wind.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "風がおだやかになった。",
+      "reading": null,
+      "indonesian": "The wind calmed down.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "風がおだやかになった。",
+      "reading": null,
+      "indonesian": "The wind has died down.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "風がおだやかになった。",
+      "reading": null,
+      "indonesian": "The wind had died down.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

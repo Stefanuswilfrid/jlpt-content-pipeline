@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "romaji": "yuugata",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "early evening (usu. from 3pm to 6pm)",
+          "dusk"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方",
+      "reading": "かた",
+      "meaning": "direction"
+    },
+    {
+      "word": "方",
+      "reading": "ほう",
+      "meaning": "direction"
+    },
+    {
+      "word": "夕飯",
+      "reading": "ゆうはん",
+      "meaning": "evening meal"
+    },
+    {
+      "word": "仕方",
+      "reading": "しかた",
+      "meaning": "way"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaning": "both"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もしかしたら夕方にならないうちに雨かもしれないよ。",
+      "reading": null,
+      "english": "It might rain before evening.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ひょっとすると夕方前に雨になるかもしれない。",
+      "reading": null,
+      "english": "It might rain before evening.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それを夕方６時までにやって下さい。",
+      "reading": null,
+      "english": "Let it be done by six this evening.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ある夕方、一人の男がやってきた。",
+      "reading": null,
+      "english": "One evening a man came to my house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

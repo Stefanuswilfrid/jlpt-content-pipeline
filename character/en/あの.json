@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "彼の",
+    "reading": "あの",
+    "romaji": "ano",
+    "jlpt": "N5",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "pre-noun adjectival (rentaishi)"
+        ],
+        "meanings": [
+          "that",
+          "those",
+          "the"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "各人に彼のものを",
+      "reading": "かくじんにかれのものを",
+      "meaning": "to each his own",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あの人を知りません。",
+      "reading": null,
+      "english": "I don't know him.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あの子に会ったんですか？",
+      "reading": null,
+      "english": "Did you meet her?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうやってあの子と知り合ったの？",
+      "reading": null,
+      "english": "How did you come to know her?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

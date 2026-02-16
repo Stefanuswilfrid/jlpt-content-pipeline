@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "母",
+    "reading": "はは",
+    "romaji": "haha",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mother"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "お母さん",
+      "reading": "おかあさん",
+      "meaning": "mother"
+    },
+    {
+      "word": "祖母",
+      "reading": "そぼ",
+      "meaning": "grandmother"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "良妻賢母",
+      "reading": "りょうさいけんぼ",
+      "meaning": "good wife and wise mother",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "乳母日傘",
+      "reading": "おんばひがさ",
+      "meaning": "(bringing up a child) with greatest care pampering (him, her) with material comforts of a rich family",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "孟母三遷",
+      "reading": "もうぼさんせん",
+      "meaning": "the importance of creating an environment conducive to a child's learning",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "水母の骨",
+      "reading": "くらげのほね",
+      "meaning": "something that one would not expect to exist",
+      "type": "idiom"
+    },
+    {
+      "word": "必要は発明の母",
+      "reading": "ひつようははつめいのはは",
+      "meaning": "necessity is the mother of invention",
+      "type": "proverb"
+    },
+    {
+      "word": "孟母断機の教え",
+      "reading": "もうぼだんきのおしえ",
+      "meaning": "(the lesson that) one should not leave things unfinished",
+      "type": "proverb"
+    },
+    {
+      "word": "失敗は成功の母",
+      "reading": "しっぱいはせいこうのはは",
+      "meaning": "failure is the mother of success",
+      "type": "proverb"
+    },
+    {
+      "word": "女は弱しされど母は強し",
+      "reading": "おんなはよわしされどはははつよし",
+      "meaning": "though the woman is weak, the mother is strong",
+      "type": "proverb"
+    },
+    {
+      "word": "庇を貸して母屋を取られる",
+      "reading": "ひさしをかしておもやをとられる",
+      "meaning": "to have one's kindness taken advantage of",
+      "type": "idiom"
+    },
+    {
+      "word": "身体髪膚これを父母に受くあえて毀傷せざるは孝の始めなり",
+      "reading": "しんたいはっぷこれをふぼにうくあえてきしょうせざるはこうのはじめなり",
+      "meaning": "filial piety begins with not harming one's own body (as one's entire body was given by one's parents)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "「どなたですか」「お母さんよ」",
+      "reading": null,
+      "english": "\"Who is it?\" \"It's your mother.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「どなたですか」「お母さんよ」",
+      "reading": null,
+      "english": "\"Who is it?\" \"It's your mother.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「どなたですか」「お母さんよ」",
+      "reading": null,
+      "english": "\"Who's that? \" \"It's your mother.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

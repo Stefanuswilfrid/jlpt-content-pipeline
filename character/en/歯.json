@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "歯",
+    "reading": "は",
+    "romaji": "ha",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tooth",
+          "teeth"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tooth (of a comb, saw, etc.)",
+          "cog"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "support (of a geta)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "歯医者",
+      "reading": "はいしゃ",
+      "meaning": "dentist"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "歯が浮く",
+      "reading": "はがうく",
+      "meaning": "to have one's teeth set on edge",
+      "type": "idiom"
+    },
+    {
+      "word": "歯が立たない",
+      "reading": "はがたたない",
+      "meaning": "unable to compete with",
+      "type": "idiom"
+    },
+    {
+      "word": "切歯扼腕",
+      "reading": "せっしやくわん",
+      "meaning": "being enraged (indignant, impatient)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "唇歯輔車",
+      "reading": "しんしほしゃ",
+      "meaning": "mutual dependence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "明眸皓歯",
+      "reading": "めいぼうこうし",
+      "meaning": "starry eyes and beautiful white teeth (said of beautiful women)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "朱唇皓歯",
+      "reading": "しゅしんこうし",
+      "meaning": "red lips and pearly white teeth (said of beautiful women)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "歯に衣着せぬ",
+      "reading": "はにきぬきせぬ",
+      "meaning": "outspoken",
+      "type": "idiom"
+    },
+    {
+      "word": "歯車が狂う",
+      "reading": "はぐるまがくるう",
+      "meaning": "to go wrong",
+      "type": "idiom"
+    },
+    {
+      "word": "歯を食いしばる",
+      "reading": "はをくいしばる",
+      "meaning": "to bear up in tragedy",
+      "type": "idiom"
+    },
+    {
+      "word": "歯に衣を着せない",
+      "reading": "はにきぬをきせない",
+      "meaning": "not mince matters",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

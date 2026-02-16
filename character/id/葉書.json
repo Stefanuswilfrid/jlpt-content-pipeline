@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "葉書",
+    "reading": "はがき",
+    "romaji": "hagaki",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kartu pos"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "memo",
+          "note",
+          "card"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "perpustakaan"
+    },
+    {
+      "word": "辞書",
+      "reading": "じしょ",
+      "meaning": "kamus"
+    },
+    {
+      "word": "言葉",
+      "reading": "ことば",
+      "meaning": "bahasa; kata(kata); ungkapan(ungkapan)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

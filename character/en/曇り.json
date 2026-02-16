@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "曇り",
+    "reading": "くもり",
+    "romaji": "kumori",
+    "jlpt": "N5",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cloudiness",
+          "cloudy weather"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fog (on a mirror, glasses, etc.)",
+          "cloud (e.g. in marble)",
+          "blur",
+          "mist",
+          "shadow",
+          "dimness"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gloom",
+          "dejection"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "曇る",
+      "reading": "くもる",
+      "meaning": "to get cloudy"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "沢山",
+    "reading": "たくさん",
+    "romaji": "takusan",
+    "jlpt": "N5",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "banyak",
+          "sangat banyak"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "enough",
+          "sufficient"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "enough",
+          "too many",
+          "too much"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "山",
+      "reading": "やま",
+      "meaning": "gunung"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "貧乏子沢山",
+      "reading": "びんぼうこだくさん",
+      "meaning": "poor households have many children",
+      "type": "proverb"
+    },
+    {
+      "word": "貧乏人の子沢山",
+      "reading": "びんぼうにんのこだくさん",
+      "meaning": "poor households have many children",
+      "type": "proverb"
+    },
+    {
+      "word": "律義者の子沢山",
+      "reading": "りちぎもののこだくさん",
+      "meaning": "the morally righteous are blessed with many children",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

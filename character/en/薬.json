@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "薬",
+    "reading": "くすり",
+    "romaji": "kusuri",
+    "jlpt": "N5",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "medicine",
+          "pharmaceuticals",
+          "(legal) drugs",
+          "pill",
+          "ointment",
+          "salve"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "efficacious chemical (gunpowder, pesticide, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(pottery) glaze"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(illegal) drug",
+          "narcotic"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "small bribe"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "二股膏薬",
+      "reading": "ふたまたこうやく",
+      "meaning": "double-dealer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百薬の長",
+      "reading": "ひゃくやくのちょう",
+      "meaning": "the best medicine (i.e. sake)",
+      "type": "idiom"
+    },
+    {
+      "word": "内股膏薬",
+      "reading": "うちまたこうやく",
+      "meaning": "double-dealer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自家薬籠",
+      "reading": "じかやくろう",
+      "meaning": "(something that is) available for use at any time",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "薬九層倍",
+      "reading": "くすりくそうばい",
+      "meaning": "there is a huge markup in medicines, making it a profitable field",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "薬石無効",
+      "reading": "やくせきむこう",
+      "meaning": "neither medicines nor medical care having little effect on a patient",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "二階から目薬",
+      "reading": "にかいからめぐすり",
+      "meaning": "frustratingly difficult task",
+      "type": "idiom"
+    },
+    {
+      "word": "酒は百薬の長",
+      "reading": "さけはひゃくやくのちょう",
+      "meaning": "good wine makes good blood",
+      "type": "proverb"
+    },
+    {
+      "word": "薬より養生",
+      "reading": "くすりよりようじょう",
+      "meaning": "prevention is better than cure",
+      "type": "proverb"
+    },
+    {
+      "word": "良薬口に苦し",
+      "reading": "りょうやくくちににがし",
+      "meaning": "the most helpful advice may be difficult to listen to",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

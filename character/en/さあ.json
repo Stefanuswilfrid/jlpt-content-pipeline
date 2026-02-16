@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "さあ",
+    "reading": "さあ",
+    "romaji": "saa",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "come (on)",
+          "come now",
+          "come along",
+          "here"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "all right",
+          "right",
+          "okay",
+          "now",
+          "here goes"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "well",
+          "hmm",
+          "uh",
+          "let's see",
+          "I'm not sure"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "here",
+          "now",
+          "there (we go)",
+          "ah",
+          "oh"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "about that, ...",
+          "actually, ..."
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "みんな。さあ聞きなさい。",
+      "reading": null,
+      "english": "Boys! Now listen.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "さあ話したまえ。",
+      "reading": null,
+      "english": "Now tell me.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "さあ早く答えないか！",
+      "reading": null,
+      "english": "Come on, answer quickly.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "さあ出かけましょう。",
+      "reading": null,
+      "english": "Let's be off now.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

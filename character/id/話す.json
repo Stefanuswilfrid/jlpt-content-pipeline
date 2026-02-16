@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "話す",
+    "reading": "はなす",
+    "romaji": "hanasu",
+    "jlpt": "N5",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk berbicara"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tell",
+          "to explain",
+          "to narrate",
+          "to mention",
+          "to describe",
+          "to discuss"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to speak (a language)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 2,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "telepon"
+    },
+    {
+      "word": "世話",
+      "reading": "せわ",
+      "meaning": "merawat; menjaga"
+    },
+    {
+      "word": "話",
+      "reading": "はなし",
+      "meaning": "bicara (mengobrol), cerita"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そっちへ行く前に電話するね。",
+      "reading": null,
+      "indonesian": "I'll give you a call before I visit you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

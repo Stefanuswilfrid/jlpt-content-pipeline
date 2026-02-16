@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "飲む",
+    "reading": "のむ",
+    "romaji": "nomu",
+    "jlpt": "N5",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk minum"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to smoke (tobacco)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to swallow up",
+          "to engulf"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to suppress (one's anger, bitter feelings, etc.)",
+          "to keep down",
+          "to hold back",
+          "to swallow (one's tears)",
+          "to catch (one's breath)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to accept (a demand, conditions, etc.)",
+          "to agree to"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "飲み物",
+      "reading": "のみもの",
+      "meaning": "minuman"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "爪の垢を煎じて飲む",
+      "reading": "つめのあかをせんじてのむ",
+      "meaning": "to take a lesson from (someone serving as an example)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

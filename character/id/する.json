@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "為る",
+    "reading": "する",
+    "romaji": "suru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "melakukan",
+          "mencoba; mengenakan barang-barang kecil (misalnya",
+          "dasi",
+          "jam tangan",
+          "dll.)"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "to cause to become",
+          "to make (into)",
+          "to turn (into)"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "to serve as",
+          "to act as",
+          "to work as"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "to wear (clothes, a facial expression, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "to judge as being",
+          "to view as being",
+          "to think of as",
+          "to treat as",
+          "to use as"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "為",
+      "reading": "ため",
+      "meaning": "baik, keuntungan, untuk"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ログアウトするんじゃなかったよ。",
+      "reading": null,
+      "indonesian": "I shouldn't have logged off.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "熱い",
+    "reading": "あつい",
+    "romaji": "atsui",
+    "jlpt": "N5",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "hot (to the touch)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "passionate (feelings, etc.)",
+          "ardent",
+          "hot (e.g. gaze)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "hot (e.g. temper)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "zealous",
+          "enthusiastic",
+          "fired up"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "intense",
+          "severe",
+          "extreme"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "鉄は熱いうちに打て",
+      "reading": "てつはあついうちにうて",
+      "meaning": "strike while the iron is hot",
+      "type": "proverb"
+    },
+    {
+      "word": "鉄は熱いうちに鍛えよ",
+      "reading": "てつはあついうちにきたえよ",
+      "meaning": "strike while the iron is hot",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

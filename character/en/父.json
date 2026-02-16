@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "父",
+    "reading": "ちち",
+    "romaji": "chichi",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "father"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "お父さん",
+      "reading": "おとうさん",
+      "meaning": "father"
+    },
+    {
+      "word": "祖父",
+      "reading": "そふ",
+      "meaning": "grandfather"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "父子相伝",
+      "reading": "ふしそうでん",
+      "meaning": "transmission of the secrets of an art, craft, trade or learning from father to son",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "父祖伝来",
+      "reading": "ふそでんらい",
+      "meaning": "hereditary",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "地震雷火事親父",
+      "reading": "じしんかみなりかじおやじ",
+      "meaning": "things to fear: earthquakes, thunder, fires and, most of all, fathers",
+      "type": "proverb"
+    },
+    {
+      "word": "君父の讐は倶に天を戴かず",
+      "reading": "くんぷのあだはともにてんをいただかず",
+      "meaning": "not wanting to live in the same world as one's father's or lord's enemies",
+      "type": "proverb"
+    },
+    {
+      "word": "身体髪膚これを父母に受くあえて毀傷せざるは孝の始めなり",
+      "reading": "しんたいはっぷこれをふぼにうくあえてきしょうせざるはこうのはじめなり",
+      "meaning": "filial piety begins with not harming one's own body (as one's entire body was given by one's parents)",
+      "type": "proverb"
+    },
+    {
+      "word": "父母の恩は山よりも高く海よりも深し",
+      "reading": "ふぼのおんはやまよりもたかくうみよりもふかし",
+      "meaning": "our debt to our parents is higher than the mountain and deeper than the sea",
+      "type": "proverb"
+    },
+    {
+      "word": "この父にしてこの子あり",
+      "reading": "このちちにしてこのこあり",
+      "meaning": "like father, like son",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この父にしてこの子あり。",
+      "reading": null,
+      "english": "Like father, like son.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

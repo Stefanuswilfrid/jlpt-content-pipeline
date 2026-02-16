@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "百",
+    "reading": "ひゃく",
+    "romaji": "hyaku",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "hundred",
+          "100"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "八百屋",
+      "reading": "やおや",
+      "meaning": "greengrocer"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "百家争鳴",
+      "reading": "ひゃっかそうめい",
+      "meaning": "let a hundred schools of thought contend",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百戦錬磨",
+      "reading": "ひゃくせんれんま",
+      "meaning": "veteran",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "嘘八百",
+      "reading": "うそはっぴゃく",
+      "meaning": "pack of lies",
+      "type": "idiom"
+    },
+    {
+      "word": "五十歩百歩",
+      "reading": "ごじっぽひゃっぽ",
+      "meaning": "six of one, half a dozen of the other",
+      "type": "idiom"
+    },
+    {
+      "word": "三百代言",
+      "reading": "さんびゃくだいげん",
+      "meaning": "pettifogging lawyer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "年百年中",
+      "reading": "ねんびゃくねんじゅう",
+      "meaning": "throughout the year",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百花斉放",
+      "reading": "ひゃっかせいほう",
+      "meaning": "let a hundred flowers blossom",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百花繚乱",
+      "reading": "ひゃっかりょうらん",
+      "meaning": "a gathering of many beautiful women (talented people)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百戦百勝",
+      "reading": "ひゃくせんひゃくしょう",
+      "meaning": "ever-victorious",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百発百中",
+      "reading": "ひゃっぱつひゃくちゅう",
+      "meaning": "always hitting the bull's-eye",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ホテルではくつろいだ気になれないんだ。",
+      "reading": null,
+      "english": "I can't feel at home in a hotel.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ホテルではくつろげない。",
+      "reading": null,
+      "english": "I can't feel at home in a hotel.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ベストをつくしたら後はくよくよ考えないことさ。",
+      "reading": null,
+      "english": "Do your best and don't worry.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

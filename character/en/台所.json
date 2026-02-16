@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "台所",
+    "reading": "だいどころ",
+    "romaji": "daidokoro",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kitchen"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "financial situation",
+          "finances"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "所",
+      "reading": "ところ",
+      "meaning": "place"
+    },
+    {
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "address (of a home, business, etc.)"
+    },
+    {
+      "word": "台風",
+      "reading": "たいふう",
+      "meaning": "typhoon"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "neighbourhood"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "台所事情",
+      "reading": "だいどころじじょう",
+      "meaning": "financial situation",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "見る",
+    "reading": "みる",
+    "romaji": "miru",
+    "jlpt": "N5",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk melihat",
+          "untuk memperhatikan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to examine",
+          "to look over",
+          "to assess",
+          "to check",
+          "to judge"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to look after",
+          "to attend to",
+          "to take care of",
+          "to keep an eye on"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to experience",
+          "to meet with (misfortune, success, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Ichidan verb"
+        ],
+        "meanings": [
+          "to try ...",
+          "to have a go at ...",
+          "to give ... a try"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "見せる",
+      "reading": "みせる",
+      "meaning": "untuk menunjukkan, untuk memperlihatkan"
+    },
+    {
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "tamasya"
+    },
+    {
+      "word": "見える",
+      "reading": "みえる",
+      "meaning": "untuk terlihat; -- kata kerja sopan yang berarti 来る (くる) --"
+    },
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "pendapat, pandangan, ide"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "色眼鏡で見る",
+      "reading": "いろめがねでみる",
+      "meaning": "to look at from a biased viewpoint",
+      "type": "idiom"
+    },
+    {
+      "word": "白い目で見る",
+      "reading": "しろいめでみる",
+      "meaning": "to look coldly at",
+      "type": "idiom"
+    },
+    {
+      "word": "足元を見る",
+      "reading": "あしもとをみる",
+      "meaning": "to take advantage (e.g. of a weak situation)",
+      "type": "idiom"
+    },
+    {
+      "word": "泣きを見る",
+      "reading": "なきをみる",
+      "meaning": "to experience hardship",
+      "type": "idiom"
+    },
+    {
+      "word": "長い目で見る",
+      "reading": "ながいめでみる",
+      "meaning": "to look at the long term",
+      "type": "idiom"
+    },
+    {
+      "word": "見る影もない",
+      "reading": "みるかげもない",
+      "meaning": "mere shadow of one's former self",
+      "type": "idiom"
+    },
+    {
+      "word": "見るは法楽",
+      "reading": "みるはほうらく",
+      "meaning": "seeing is enjoying",
+      "type": "proverb"
+    },
+    {
+      "word": "正直者が馬鹿を見る",
+      "reading": "しょうじきものがばかをみる",
+      "meaning": "honesty does not pay",
+      "type": "proverb"
+    },
+    {
+      "word": "見るに堪えない",
+      "reading": "みるにたえない",
+      "meaning": "so miserable that it is painful to look at",
+      "type": "idiom"
+    },
+    {
+      "word": "見るに忍びない",
+      "reading": "みるにしのびない",
+      "meaning": "(so miserable that it is) painful to look at",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

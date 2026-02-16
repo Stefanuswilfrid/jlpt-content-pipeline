@@ -1,0 +1,41 @@
+{
+  "definition": {
+    "word": "医者",
+    "reading": "いしゃ",
+    "romaji": "isha",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dokter; tabib"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "meaning": "ilmu kedokteran"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "医者の不養生",
+      "reading": "いしゃのふようじょう",
+      "meaning": "failing to practice what one preaches",
+      "type": "idiom"
+    },
+    {
+      "word": "腹八分目に医者いらず",
+      "reading": "はらはちぶんめにいしゃいらず",
+      "meaning": "eating moderately keeps the doctor away",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

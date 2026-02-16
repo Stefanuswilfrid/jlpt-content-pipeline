@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "開ける",
+    "reading": "あける",
+    "romaji": "akeru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to open (a door, etc.)",
+          "to unwrap (e.g. parcel, package)",
+          "to unlock"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to open (for business, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to empty",
+          "to remove",
+          "to make space",
+          "to make room"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to move out",
+          "to clear out"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be away from (e.g. one's house)",
+          "to leave (temporarily)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "開く",
+      "reading": "ひらく",
+      "meaning": "to open"
+    },
+    {
+      "word": "開く",
+      "reading": "あく",
+      "meaning": "to open (e.g. doors)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "蓋を開ける",
+      "reading": "ふたをあける",
+      "meaning": "to open the lid",
+      "type": "idiom"
+    },
+    {
+      "word": "道が開ける",
+      "reading": "みちがひらける",
+      "meaning": "to open a pathway (to)",
+      "type": "idiom"
+    },
+    {
+      "word": "パンドラの箱を開ける",
+      "reading": "パンドラのはこをあける",
+      "meaning": "to open (up) a Pandora's box",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

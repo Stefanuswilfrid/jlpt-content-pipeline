@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "来月",
+    "reading": "らいげつ",
+    "romaji": "raigetsu",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "bulan depan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "tahun depan"
+    },
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "bulan ini"
+    },
+    {
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "bulan lalu"
+    },
+    {
+      "word": "毎月",
+      "reading": "まいつき",
+      "meaning": "setiap bulan, bulanan"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "minggu depan"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "Senin"
+    },
+    {
+      "word": "一月",
+      "reading": "ひとつき",
+      "meaning": "satu bulan"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaning": "(di) masa depan; prospek"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "メアリーは来月赤ちゃんが生まれる。",
+      "reading": null,
+      "indonesian": "Mary is going to have a baby next month.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "出かける",
+    "reading": "でかける",
+    "romaji": "dekakeru",
+    "jlpt": "N5",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go out (e.g. on an excursion or outing)",
+          "to leave",
+          "to depart",
+          "to start",
+          "to set out"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be about to leave",
+          "to be just going out"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "to leave"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何時ごろ出かけるの？",
+      "reading": null,
+      "english": "What time will you leave?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "出かける気分じゃないんだ。",
+      "reading": null,
+      "english": "I don't feel like going out.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "出かけるよりも家にいたいんだ。",
+      "reading": null,
+      "english": "I would rather stay at home than go out.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "出かけるよりも家にいた方がよい。",
+      "reading": null,
+      "english": "It is better to stay in than go out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "出かけるよりも家にいたいんだ。",
+      "reading": null,
+      "english": "I'd rather stay home than go out.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "出かけるより家にいるほうがよい。",
+      "reading": null,
+      "english": "I would rather stay home than go out.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "出かけるよりは家にいるほうがましだ。",
+      "reading": null,
+      "english": "I would rather stay home than go out.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

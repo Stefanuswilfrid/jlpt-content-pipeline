@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "三つ",
+    "reading": "みっつ",
+    "romaji": "mittsu",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "tiga hal"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "three years of age"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "三",
+      "reading": "さん",
+      "meaning": "tiga"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "六十の三つ子",
+      "reading": "ろくじゅうのみつご",
+      "meaning": "an old man is twice a child",
+      "type": "proverb"
+    },
+    {
+      "word": "草木も眠る丑三つ時",
+      "reading": "くさきもねむるうしみつどき",
+      "meaning": "dead of night (when even the trees and plants sleep)",
+      "type": "idiom"
+    },
+    {
+      "word": "三つ子の魂百まで",
+      "reading": "みつごのたましいひゃくまで",
+      "meaning": "a leopard cannot change its spots",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "これを三つください。",
+      "reading": null,
+      "indonesian": "I'd like three of these.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "コーヒー三つおねがいします。",
+      "reading": null,
+      "indonesian": "Three coffees, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "母はケーキを三つに分けた。",
+      "reading": null,
+      "indonesian": "Mother divided the cake into three parts.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "母はケーキを三つに分けた。",
+      "reading": null,
+      "indonesian": "My mother divided the cake into three parts.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

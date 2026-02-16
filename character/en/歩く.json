@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "歩く",
+    "reading": "あるく",
+    "romaji": "aruku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to walk"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 2,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "walk"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "フクロウは、ゆっくり歩く。",
+      "reading": null,
+      "english": "The owl is slow on foot.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "バスがないので、歩くほかなかった。",
+      "reading": null,
+      "english": "Since there was no bus, I had to walk.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "トムはゆっくり歩く。",
+      "reading": null,
+      "english": "Tom walks slowly.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

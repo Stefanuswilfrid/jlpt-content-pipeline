@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "ポスト",
+    "reading": "ポスト",
+    "romaji": "posuto",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "postbox",
+          "mailbox",
+          "mail box",
+          "pillar box"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "post",
+          "position"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "post (e.g. goalpost)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "post (on a blog, social media, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "post- (e.g. post-Cold War)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もし遠回りでなければポストに入れてください。",
+      "reading": null,
+      "english": "Please drop it in the mail if it's not out of your way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ポストはどこにありますか。",
+      "reading": null,
+      "english": "Where is the mailbox?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "この近くにポストはありますか？",
+      "reading": null,
+      "english": "Is there a mailbox near here?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この店にはポストカードがたくさんあるんだ。",
+      "reading": null,
+      "english": "There are many postcards in this store.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

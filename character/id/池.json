@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "池",
+    "reading": "いけ",
+    "romaji": "ike",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kolam"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "酒池肉林",
+      "reading": "しゅちにくりん",
+      "meaning": "sumptuous feast",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "金城湯池",
+      "reading": "きんじょうとうち",
+      "meaning": "an impregnable fortress",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "池魚の殃",
+      "reading": "ちぎょのわざわい",
+      "meaning": "collateral damage",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ラジオの電池をかえなければならない。",
+      "reading": null,
+      "indonesian": "I have to change the batteries in the radio.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その池は小さな魚でいっぱいだった。",
+      "reading": null,
+      "indonesian": "The pond was alive with tiny fishes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "教える",
+    "reading": "おしえる",
+    "romaji": "oshieru",
+    "jlpt": "N5",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengajar",
+          "memberi informasi",
+          "memberi instruksi"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tell",
+          "to inform",
+          "to show"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to preach"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教育",
+      "reading": "きょういく",
+      "meaning": "pendidikan"
+    },
+    {
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaning": "kelas"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

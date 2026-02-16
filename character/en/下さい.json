@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "下さい",
+    "reading": "ください",
+    "romaji": "kudasai",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "please (give me)"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "please (do for me)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "廊下",
+      "reading": "ろうか",
+      "meaning": "corridor"
+    },
+    {
+      "word": "下",
+      "reading": "した",
+      "meaning": "below"
+    },
+    {
+      "word": "下手",
+      "reading": "したて",
+      "meaning": "humble position"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "unskillful"
+    },
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "subway"
+    },
+    {
+      "word": "下",
+      "reading": "もと",
+      "meaning": "under (guidance, supervision, rules, the law, etc.)"
+    },
+    {
+      "word": "降りる",
+      "reading": "おりる",
+      "meaning": "to descend (e.g. a mountain)"
+    },
+    {
+      "word": "靴下",
+      "reading": "くつした",
+      "meaning": "socks"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうぞ気楽にして下さい。",
+      "reading": null,
+      "english": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうぞ楽になって下さい。",
+      "reading": null,
+      "english": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "くつろいでいて下さい。",
+      "reading": null,
+      "english": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "おくつろぎ下さい。",
+      "reading": null,
+      "english": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

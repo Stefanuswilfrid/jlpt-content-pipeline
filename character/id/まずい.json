@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "不味い",
+    "reading": "まずい",
+    "romaji": "mazui",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "mengerikan (dalam konteks makanan)",
+          "tidak menggugah selera",
+          "tidak enak (rasa)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "poor",
+          "unskillful",
+          "unskilful",
+          "bungling",
+          "clumsy"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "ugly",
+          "unattractive",
+          "homely",
+          "plain"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "awkward",
+          "problematic",
+          "troublesome",
+          "unfavorable",
+          "unfavourable",
+          "unwise"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "美味しい",
+      "reading": "おいしい",
+      "meaning": "lezat, enak"
+    },
+    {
+      "word": "意味",
+      "reading": "いみ",
+      "meaning": "arti, signifikansi"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "hobi; kegiatan waktu luang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "プディングのうまいまずいは食べてみてから。",
+      "reading": null,
+      "indonesian": "The proof of the pudding is in the eating.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ひもじい時にまずいものなし。",
+      "reading": null,
+      "indonesian": "A good appetite is a good sauce.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "すぐに行かないとまずいよ。",
+      "reading": null,
+      "indonesian": "You had better go at once.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あ！まずい！ガソリンが切れてきた。",
+      "reading": null,
+      "indonesian": "Oh, no! We're running out of gas.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

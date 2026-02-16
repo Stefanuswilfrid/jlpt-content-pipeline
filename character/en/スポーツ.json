@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "スポーツ",
+    "reading": "スポーツ",
+    "romaji": "supootsu",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sport",
+          "sports"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何かスポーツをしますか。",
+      "reading": null,
+      "english": "Do you play any sports?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "やせるためには、何かスポーツをするのが一番だ。",
+      "reading": null,
+      "english": "In order to lose weight, it is best to take up some sport.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もしスポーツがなければ学校生活はなんとつまらないものだろう。",
+      "reading": null,
+      "english": "If it were not for sports, how dull school life would be!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

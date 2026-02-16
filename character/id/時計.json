@@ -1,0 +1,50 @@
+{
+  "definition": {
+    "word": "時計",
+    "reading": "とけい",
+    "romaji": "tokei",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "jam tangan; jam dinding"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "Kadang-kadang"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "waktu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたの時計では今何時ですか？",
+      "reading": null,
+      "indonesian": "What time is it by your watch?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたの時計では何時ですか。",
+      "reading": null,
+      "indonesian": "What time is it by your watch?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

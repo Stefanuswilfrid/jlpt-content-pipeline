@@ -1,0 +1,142 @@
+{
+  "definition": {
+    "word": "角",
+    "reading": "かく",
+    "romaji": "kaku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "klakson"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "square",
+          "cube"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "bishop"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "third degree (of the Japanese and Chinese pentatonic scale)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "Chinese \"horn\" constellation (one of the 28 mansions)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "兎角",
+      "reading": "とかく",
+      "meaning": "(doing) various things",
+      "type": "idiom"
+    },
+    {
+      "word": "頭角を現す",
+      "reading": "とうかくをあらわす",
+      "meaning": "to distinguish oneself",
+      "type": "idiom"
+    },
+    {
+      "word": "四角四面",
+      "reading": "しかくしめん",
+      "meaning": "square",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "蝸牛角上",
+      "reading": "かぎゅうかくじょう",
+      "meaning": "trifling (fight)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "矯角殺牛",
+      "reading": "きょうかくさつぎゅう",
+      "meaning": "trying to straighten the horns of a bull, and killing it in the process",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天涯地角",
+      "reading": "てんがいちかく",
+      "meaning": "two places being far apart",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "角が立つ",
+      "reading": "かどがたつ",
+      "meaning": "to cause offence (offense)",
+      "type": "idiom"
+    },
+    {
+      "word": "氷山の一角",
+      "reading": "ひょうざんのいっかく",
+      "meaning": "tip of the iceberg",
+      "type": "idiom"
+    },
+    {
+      "word": "亀毛兎角",
+      "reading": "きもうとかく",
+      "meaning": "things that do not exist",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "兎角亀毛",
+      "reading": "とかくきもう",
+      "meaning": "things that do not exist",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "角のテーブルがいいのですが。",
+      "reading": null,
+      "indonesian": "Could we have a table in the corner?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "角までひとっ走りして新聞を買ってきてくれよ。",
+      "reading": null,
+      "indonesian": "Will you run down to the corner and buy me a paper?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

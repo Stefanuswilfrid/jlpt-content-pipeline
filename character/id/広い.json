@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "広い",
+    "reading": "ひろい",
+    "romaji": "hiroi",
+    "jlpt": "N5",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "luas; lebar; lapang"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "背広",
+      "reading": "せびろ",
+      "meaning": "setelan pria"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "顔が広い",
+      "reading": "かおがひろい",
+      "meaning": "well connected",
+      "type": "idiom"
+    },
+    {
+      "word": "世間は広いようで狭い",
+      "reading": "せけんはひろいようでせまい",
+      "meaning": "though it seems big, it's a small world",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海はとても広い。",
+      "reading": null,
+      "indonesian": "The sea is very wide.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どのくらい広い？",
+      "reading": null,
+      "indonesian": "How big?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どこへ行っても、親切で心の広い人々に出会いますよ。",
+      "reading": null,
+      "indonesian": "Wherever you go, you will meet people who are kind and generous.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とても心が広いんですね。",
+      "reading": null,
+      "indonesian": "That's very big of you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その川は広い。",
+      "reading": null,
+      "indonesian": "The river is wide.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "その市には広い道が多い。",
+      "reading": null,
+      "indonesian": "The city has many broad streets.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

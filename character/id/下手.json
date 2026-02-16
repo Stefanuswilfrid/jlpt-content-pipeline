@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "下手",
+    "reading": "したて",
+    "romaji": "shitate",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tidak terampil",
+          "miskin"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "underarm grip on opponent's belt"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "kereta bawah tanah, kereta bawah tanah"
+    },
+    {
+      "word": "下",
+      "reading": "もと",
+      "meaning": "di bawah, di bawah, di balik"
+    },
+    {
+      "word": "切手",
+      "reading": "きって",
+      "meaning": "prangko pos"
+    },
+    {
+      "word": "廊下",
+      "reading": "ろうか",
+      "meaning": "koridor"
+    },
+    {
+      "word": "下",
+      "reading": "した",
+      "meaning": "di bawah, di bawah, di balik"
+    },
+    {
+      "word": "お手洗い",
+      "reading": "おてあらい",
+      "meaning": "toilet, kamar kecil, kamar mandi (secara harfiah, tempat untuk mencuci tangan)"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "mahir dalam hal, terampil"
+    },
+    {
+      "word": "手",
+      "reading": "て",
+      "meaning": "tangan"
+    },
+    {
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "surat"
+    },
+    {
+      "word": "靴下",
+      "reading": "くつした",
+      "meaning": "kaus kaki"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "下手の横好き",
+      "reading": "へたのよこずき",
+      "meaning": "loving something but being very bad at it",
+      "type": "idiom"
+    },
+    {
+      "word": "下手の長談義",
+      "reading": "へたのながだんぎ",
+      "meaning": "poor speakers make long speeches",
+      "type": "proverb"
+    },
+    {
+      "word": "下手な考え休むに似たり",
+      "reading": "へたなかんがえやすむににたり",
+      "meaning": "it's hard to tell a poor thinker from a sleeping one",
+      "type": "proverb"
+    },
+    {
+      "word": "下手の考え休むに似たり",
+      "reading": "へたのかんがえやすむににたり",
+      "meaning": "it's hard to tell a poor thinker from a sleeping one",
+      "type": "proverb"
+    },
+    {
+      "word": "下手な鉄砲も数撃てば当たる",
+      "reading": "へたなてっぽうもかずうてばあたる",
+      "meaning": "even the unskilled can succeed by a fluke given enough tries",
+      "type": "proverb"
+    },
+    {
+      "word": "下手な鉄砲も数撃ちゃ当たる",
+      "reading": "へたなてっぽうもかずうちゃあたる",
+      "meaning": "even the unskilled can succeed by a fluke given enough tries",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "いいわけをするのがとても下手。",
+      "reading": null,
+      "indonesian": "He is very bad at inventing excuses.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

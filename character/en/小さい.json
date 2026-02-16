@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "romaji": "chiisai",
+    "jlpt": "N5",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "small",
+          "little",
+          "tiny"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "slight",
+          "below average (in degree, amount, etc.)",
+          "minor",
+          "small"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "low (e.g. sound)",
+          "soft (e.g. voice)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "unimportant",
+          "petty",
+          "insignificant",
+          "trifling",
+          "trivial"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "young",
+          "juvenile"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 3,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "小さな",
+      "reading": "ちいさな",
+      "meaning": "small"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaning": "child"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ケツの穴が小さい",
+      "reading": "けつのあながちいさい",
+      "meaning": "small-minded",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もっと小さいサイズがありますか。",
+      "reading": null,
+      "english": "Do you have a smaller size?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もう少し小さいのはありますか。",
+      "reading": null,
+      "english": "Do you have one a little smaller?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ハチドリはチョウと同じくらい小さい鳥です。",
+      "reading": null,
+      "english": "A hummingbird is no larger than a butterfly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なるほどこの車は小さいが力強い。",
+      "reading": null,
+      "english": "Indeed this car is small, but it is powerful.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

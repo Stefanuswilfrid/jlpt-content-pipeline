@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "何時も",
+    "reading": "いつも",
+    "romaji": "itsumo",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "always",
+          "all the time",
+          "at all times"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "never"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "usual",
+          "regular",
+          "habitual",
+          "customary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "clock"
+    },
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "sometimes"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    },
+    {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "what"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "english": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "english": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

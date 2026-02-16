@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "止まる",
+    "reading": "とまる",
+    "romaji": "tomaru",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk berhenti"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stop (doing, working, being supplied)",
+          "to come to a halt",
+          "to cease",
+          "to be stopped",
+          "to be suspended"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to alight",
+          "to perch on"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "止む",
+      "reading": "やむ",
+      "meaning": "berhenti, mengakhiri"
+    },
+    {
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "mengakhiri, berhenti, mengakhiri, mengundurkan diri"
+    },
+    {
+      "word": "止める",
+      "reading": "やめる",
+      "meaning": "mengakhiri, berhenti, mengakhiri, mengundurkan diri"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心臓が止まる",
+      "reading": "しんぞうがとまる",
+      "meaning": "to have one's heart stop beating",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ここで止まるな。",
+      "reading": null,
+      "indonesian": "Don't stop here.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "立ち止まるな。",
+      "reading": null,
+      "indonesian": "Move along now.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "車が家の前に止まる音が聞こえた。",
+      "reading": null,
+      "indonesian": "I heard a car stop in front of the house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

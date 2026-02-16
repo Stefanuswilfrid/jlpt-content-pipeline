@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "石鹸",
+    "reading": "せっけん",
+    "romaji": "sekken",
+    "jlpt": "N5",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sabun"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "石",
+      "reading": "こく",
+      "meaning": "batu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "石鹸がありません。",
+      "reading": null,
+      "indonesian": "There's no soap.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "石鹸がありません。",
+      "reading": null,
+      "indonesian": "There isn't any soap.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "石鹸がありません。",
+      "reading": null,
+      "indonesian": "There's no soap.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

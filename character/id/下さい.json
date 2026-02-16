@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "下さい",
+    "reading": "ください",
+    "romaji": "kudasai",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "(dengan kata kerja bentuk te) tolong lakukan untukku"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "please (do for me)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "廊下",
+      "reading": "ろうか",
+      "meaning": "koridor"
+    },
+    {
+      "word": "下",
+      "reading": "した",
+      "meaning": "di bawah, di bawah, di balik"
+    },
+    {
+      "word": "下手",
+      "reading": "したて",
+      "meaning": "tidak terampil, miskin"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "tidak terampil, miskin"
+    },
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "kereta bawah tanah, kereta bawah tanah"
+    },
+    {
+      "word": "下",
+      "reading": "もと",
+      "meaning": "di bawah, di bawah, di balik"
+    },
+    {
+      "word": "降りる",
+      "reading": "おりる",
+      "meaning": "untuk turun"
+    },
+    {
+      "word": "靴下",
+      "reading": "くつした",
+      "meaning": "kaus kaki"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうぞ気楽にして下さい。",
+      "reading": null,
+      "indonesian": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうぞ楽になって下さい。",
+      "reading": null,
+      "indonesian": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "くつろいでいて下さい。",
+      "reading": null,
+      "indonesian": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "おくつろぎ下さい。",
+      "reading": null,
+      "indonesian": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

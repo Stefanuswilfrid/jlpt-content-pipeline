@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "天気",
+    "reading": "てんき",
+    "romaji": "tenki",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cuaca"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fair weather",
+          "fine weather"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "listrik, lampu (listrik)"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "penyakit; sakit"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "sehat, energik"
+    },
+    {
+      "word": "気",
+      "reading": "き",
+      "meaning": "semangat, suasana hati"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "perasaan, sensasi, suasana hati"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "perasaan, suasana hati"
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "udara, atmosfer"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "雨の降る日は天気が悪い",
+      "reading": "あめのふるひはてんきがわるい",
+      "meaning": "water is wet",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空を見ると朝にはいい天気になりそうだ。",
+      "reading": null,
+      "indonesian": "The skies promise better weather in the morning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "気まぐれな天気だな。",
+      "reading": null,
+      "indonesian": "The weather is fickle.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まもなく天気になるでしょう。",
+      "reading": null,
+      "indonesian": "It's going to clear up soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何週間もよい天気だったあとで雨がふった。",
+      "reading": null,
+      "indonesian": "It rained after it had been dry for many weeks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

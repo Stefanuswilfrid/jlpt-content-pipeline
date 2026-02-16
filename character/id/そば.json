@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "側",
+    "reading": "そば",
+    "romaji": "soba",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dekat",
+          "bersebelahan; mi soba tradisional Jepang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "as soon as",
+          "right after"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "輾転反側",
+      "reading": "てんてんはんそく",
+      "meaning": "tossing and turning in bed",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "教会のそばを通ろう。",
+      "reading": null,
+      "indonesian": "Let's pass by the church.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "家のそばまで来て車のガソリンが切れた。",
+      "reading": null,
+      "indonesian": "I was almost home when the car ran out of gas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれはドアのそばに立ってまった。",
+      "reading": null,
+      "indonesian": "We stood at the door and waited.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

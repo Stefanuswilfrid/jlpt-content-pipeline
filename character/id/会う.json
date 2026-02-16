@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "会う",
+    "reading": "あう",
+    "romaji": "au",
+    "jlpt": "N5",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk bertemu",
+          "untuk melihat"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to have an accident",
+          "to have a bad experience"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "rapat bisnis; konferensi"
+    },
+    {
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "percakapan"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

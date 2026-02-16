@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "大学",
+    "reading": "だいがく",
+    "romaji": "daigaku",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perguruan tinggi; universitas"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "former imperial university of Japan (established under the ritsuryō system for the training of government administrators)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the Great Learning (one of the Four Books)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "sebuah sekolah"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "murid"
+    },
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "sangat; sulit, berat"
+    },
+    {
+      "word": "大使館",
+      "reading": "たいしかん",
+      "meaning": "kedutaan"
+    },
+    {
+      "word": "大人",
+      "reading": "おとな",
+      "meaning": "dewasa"
+    },
+    {
+      "word": "大勢",
+      "reading": "おおぜい",
+      "meaning": "sejumlah besar orang"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "mahasiswa internasional"
+    },
+    {
+      "word": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "Tidak apa-apa; Tidak perlu khawatir; Semuanya terkendali."
+    },
+    {
+      "word": "大勢",
+      "reading": "たいせい",
+      "meaning": "sejumlah besar orang"
+    },
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "meaning": "ilmu kedokteran"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "花子は４年間アメリカの大学に通っている。",
+      "reading": null,
+      "indonesian": "Hanako has attended an American college for four years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わたしはオックスフォード大学の学生です。",
+      "reading": null,
+      "indonesian": "I am a student at Oxford University.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

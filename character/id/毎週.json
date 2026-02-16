@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "romaji": "maishuu",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "setiap minggu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "setiap hari"
+    },
+    {
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaning": "setiap tahun, tahunan, semusim"
+    },
+    {
+      "word": "毎月",
+      "reading": "まいつき",
+      "meaning": "setiap bulan, bulanan"
+    },
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "minggu ini"
+    },
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "minggu lalu"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "minggu depan"
+    },
+    {
+      "word": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "setiap pagi"
+    },
+    {
+      "word": "毎晩",
+      "reading": "まいばん",
+      "meaning": "setiap malam"
+    },
+    {
+      "word": "再来週",
+      "reading": "さらいしゅう",
+      "meaning": "minggu setelah minggu depan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ブルースカイスポーツ店は毎週木曜日がお休みです。",
+      "reading": null,
+      "indonesian": "Blue Sky Sport is closed every Thursday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "クライン先生は毎週金曜日にテストを行う。",
+      "reading": null,
+      "indonesian": "Miss Klein gives a test every Friday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎週日曜日の朝にします。",
+      "reading": null,
+      "indonesian": "I do it every Sunday morning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

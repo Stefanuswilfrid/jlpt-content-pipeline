@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "少ない",
+    "reading": "すくない",
+    "romaji": "sukunai",
+    "jlpt": "N5",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "few",
+          "little",
+          "small (amount)",
+          "low",
+          "scarce",
+          "insufficient",
+          "seldom",
+          "rare"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "a little"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "慌てる乞食はもらいが少ない",
+      "reading": "あわてるこじきはもらいがすくない",
+      "meaning": "slow and steady wins the race",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ヨーロッパはアジアより人口が少ない。",
+      "reading": null,
+      "english": "Europe has a smaller population than Asia.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ニューヨークの人口は東京よりも少ない。",
+      "reading": null,
+      "english": "The population of New York is smaller than that of Tokyo.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "たとえそんな人はいるとしてもごく少ない。",
+      "reading": null,
+      "english": "There are few, if any, such men.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

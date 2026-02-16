@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "使う",
+    "reading": "つかう",
+    "romaji": "tsukau",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk digunakan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to use (a person, animal, puppet, etc.)",
+          "to employ",
+          "to handle",
+          "to manage",
+          "to manipulate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to use (time, money, etc.)",
+          "to spend",
+          "to consume"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to use (language)",
+          "to speak"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大使館",
+      "reading": "たいしかん",
+      "meaning": "kedutaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "あごで使う",
+      "reading": "あごでつかう",
+      "meaning": "to set someone to work in an arrogant fashion",
+      "type": "idiom"
+    },
+    {
+      "word": "頤で人を使う",
+      "reading": "あごでひとをつかう",
+      "meaning": "to set someone to work in an arrogant fashion",
+      "type": "idiom"
+    },
+    {
+      "word": "奥の手を使う",
+      "reading": "おくのてをつかう",
+      "meaning": "to play one's trump card",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

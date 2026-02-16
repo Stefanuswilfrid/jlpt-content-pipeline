@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "生まれる",
+    "reading": "うまれる",
+    "romaji": "umareru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be born"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "life"
+    },
+    {
+      "word": "生きる",
+      "reading": "いきる",
+      "meaning": "to live"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "overseas student"
+    },
+    {
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "birthday"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "口から先に生まれる",
+      "reading": "くちからさきにうまれる",
+      "meaning": "to be of an overly talkative disposition since birth",
+      "type": "idiom"
+    },
+    {
+      "word": "口から生まれる",
+      "reading": "くちからうまれる",
+      "meaning": "to be of an overly talkative disposition since birth",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "メアリーは来月赤ちゃんが生まれる。",
+      "reading": null,
+      "english": "Mary is going to have a baby next month.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どんぐりからオークが生まれる。",
+      "reading": null,
+      "english": "From acorns come oaks.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

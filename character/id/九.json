@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "九",
+    "reading": "きゅう",
+    "romaji": "kyuu",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "sembilan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "九つ",
+      "reading": "ここのつ",
+      "meaning": "sembilan hal"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "九牛の一毛",
+      "reading": "きゅうぎゅうのいちもう",
+      "meaning": "small fraction (of)",
+      "type": "idiom"
+    },
+    {
+      "word": "九死に一生",
+      "reading": "きゅうしにいっしょう",
+      "meaning": "narrow escape from death",
+      "type": "idiom"
+    },
+    {
+      "word": "九死一生",
+      "reading": "きゅうしいっしょう",
+      "meaning": "narrow escape from the jaw of death",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "九寸五分",
+      "reading": "くすんごぶ",
+      "meaning": "dagger",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "九分九厘",
+      "reading": "くぶくりん",
+      "meaning": "almost certainly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三拝九拝",
+      "reading": "さんぱいきゅうはい",
+      "meaning": "kowtowing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "十中八九",
+      "reading": "じっちゅうはっく",
+      "meaning": "in 8 or 9 cases out of ten",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "九十九折",
+      "reading": "つづらおり",
+      "meaning": "winding",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "薬九層倍",
+      "reading": "くすりくそうばい",
+      "meaning": "there is a huge markup in medicines, making it a profitable field",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "面壁九年",
+      "reading": "めんぺきくねん",
+      "meaning": "facing a wall for nine years in meditation (by Bodhidharma at Shaolin Temple)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "九時に来ていただきたいのですが。",
+      "reading": null,
+      "indonesian": "I'd like you to come at nine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう九時です。",
+      "reading": null,
+      "indonesian": "It's already nine o'clock.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

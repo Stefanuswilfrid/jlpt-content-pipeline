@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "アパート",
+    "reading": "アパート",
+    "romaji": "apaato",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "apartment building",
+          "apartment block",
+          "apartment house"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "apartment"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうやら、そのみすぼらしいアパートは空き家のようだ。",
+      "reading": null,
+      "english": "Apparently that shabby flat is vacant.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それらは空いているアパートか空き家だった。",
+      "reading": null,
+      "english": "They were vacant apartments or homes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

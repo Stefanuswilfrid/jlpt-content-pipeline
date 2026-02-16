@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "終わる",
+    "reading": "おわる",
+    "romaji": "owaru",
+    "jlpt": "N5",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to end",
+          "to come to an end",
+          "to finish",
+          "to close",
+          "to be over"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to finish",
+          "to complete",
+          "to conclude"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'ru' ending"
+        ],
+        "meanings": [
+          "to finish doing"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be past its (one's) prime"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be awful",
+          "to be terrible",
+          "to suck",
+          "to be hopeless"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": []
+}

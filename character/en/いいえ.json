@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "いいえ",
+    "reading": "いいえ",
+    "romaji": "iie",
+    "jlpt": "N5",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "no"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "you're welcome",
+          "not at all",
+          "don't mention it"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "「兄弟はいますか？」「いいえ、一人っ子です」",
+      "reading": null,
+      "english": "\"Do you have any siblings?\" \"No, I'm an only child.\"",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いいえ、本当であるはずがない。",
+      "reading": null,
+      "english": "No, it cannot be true.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "いいえ、知りません。",
+      "reading": null,
+      "english": "No, I don't know.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

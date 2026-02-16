@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "外国",
+    "reading": "がいこく",
+    "romaji": "gaikoku",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "foreign country"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    },
+    {
+      "word": "国",
+      "reading": "くに",
+      "meaning": "country"
+    },
+    {
+      "word": "外",
+      "reading": "そと",
+      "meaning": "outside"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外国に行くつもりなの？",
+      "reading": null,
+      "english": "Do you plan to go abroad?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "きみはどれくらいよく外国へ行きますか。",
+      "reading": null,
+      "english": "How often do you go abroad?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

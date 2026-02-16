@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "上",
+    "reading": "うえ",
+    "romaji": "ue",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "volume pertama; kualitas unggul; pemerintah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "top",
+          "summit",
+          "upper part",
+          "head (e.g. of a staircase)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "surface",
+          "on (top of)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "the above (in a piece of writing)",
+          "earlier part"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "superior",
+          "better",
+          "higher (position, rank, etc.)",
+          "upper (class)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "mahir dalam hal, terampil"
+    },
+    {
+      "word": "上着",
+      "reading": "うわぎ",
+      "meaning": "mantel, jaket"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "至上命令",
+      "reading": "しじょうめいれい",
+      "meaning": "unconditional command",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "株が上がる",
+      "reading": "かぶがあがる",
+      "meaning": "to rise in esteem",
+      "type": "idiom"
+    },
+    {
+      "word": "上意下達",
+      "reading": "じょういかたつ",
+      "meaning": "conveying the will of the governing to the governed",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "下意上達",
+      "reading": "かいじょうたつ",
+      "meaning": "conveyance of the views of those below to those at the top",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "手が上がる",
+      "reading": "てがあがる",
+      "meaning": "to improve one's skill (esp. at calligraphy or drinking larger amounts of alcohol)",
+      "type": "idiom"
+    },
+    {
+      "word": "屋上屋を架す",
+      "reading": "おくじょうおくをかす",
+      "meaning": "to do something useless",
+      "type": "idiom"
+    },
+    {
+      "word": "熱を上げる",
+      "reading": "ねつをあげる",
+      "meaning": "to become enthusiastic",
+      "type": "idiom"
+    },
+    {
+      "word": "畳の上で死ぬ",
+      "reading": "たたみのうえでしぬ",
+      "meaning": "to die a natural death",
+      "type": "idiom"
+    },
+    {
+      "word": "畳の上の水練",
+      "reading": "たたみのうえのすいれん",
+      "meaning": "useless book learning",
+      "type": "idiom"
+    },
+    {
+      "word": "屋上架屋",
+      "reading": "おくじょうかおく",
+      "meaning": "gilding the lily",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

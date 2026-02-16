@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "大切",
+    "reading": "たいせつ",
+    "romaji": "taisetsu",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "important",
+          "significant",
+          "serious",
+          "crucial"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "precious",
+          "valuable",
+          "dear",
+          "cherished",
+          "beloved"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "careful"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "very"
+    },
+    {
+      "word": "大人",
+      "reading": "おとな",
+      "meaning": "adult"
+    },
+    {
+      "word": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "safe"
+    },
+    {
+      "word": "大好き",
+      "reading": "だいすき",
+      "meaning": "liking very much"
+    },
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "university"
+    },
+    {
+      "word": "大使館",
+      "reading": "たいしかん",
+      "meaning": "embassy"
+    },
+    {
+      "word": "大きな",
+      "reading": "おおきな",
+      "meaning": "big"
+    },
+    {
+      "word": "大勢",
+      "reading": "おおぜい",
+      "meaning": "crowd of people"
+    },
+    {
+      "word": "大きい",
+      "reading": "おおきい",
+      "meaning": "big"
+    },
+    {
+      "word": "大事",
+      "reading": "だいじ",
+      "meaning": "important"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もっと自分を大切にしなければだめですよ。",
+      "reading": null,
+      "english": "You should take better care of yourself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お体を大切に。",
+      "reading": null,
+      "english": "Take care.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

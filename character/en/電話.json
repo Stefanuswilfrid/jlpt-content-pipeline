@@ -1,0 +1,135 @@
+{
+  "definition": {
+    "word": "電話",
+    "reading": "でんわ",
+    "romaji": "denwa",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "telephone call",
+          "phone call"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "telephone (device)",
+          "phone"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "話",
+      "reading": "はなし",
+      "meaning": "talk"
+    },
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "electricity"
+    },
+    {
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "train"
+    },
+    {
+      "word": "話す",
+      "reading": "はなす",
+      "meaning": "to talk"
+    },
+    {
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "conversation"
+    },
+    {
+      "word": "世話",
+      "reading": "せわ",
+      "meaning": "care"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "明日帰ったら電話します。",
+      "reading": null,
+      "english": "I'll call them tomorrow when I come back.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "電話はどこでできる？",
+      "reading": null,
+      "english": "Where can one make a phone call?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "明日帰ったら電話します。",
+      "reading": null,
+      "english": "I'll call them tomorrow when I come back.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日帰ったら電話します。",
+      "reading": null,
+      "english": "I'll call them tomorrow when I return home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日帰ったら電話します。",
+      "reading": null,
+      "english": "I'll call after going home tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "電話はどこでできる？",
+      "reading": null,
+      "english": "Where can one make a phone call?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "電話はどこでできる？",
+      "reading": null,
+      "english": "Where can we make a phone call?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "電話はどこでできる？",
+      "reading": null,
+      "english": "Where can I make a phone call?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

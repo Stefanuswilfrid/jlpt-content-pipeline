@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "歌",
+    "reading": "うた",
+    "romaji": "uta",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sebuah lagu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "classical Japanese poem (esp. tanka)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "modern poetry"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "四面楚歌",
+      "reading": "しめんそか",
+      "meaning": "being surrounded by enemies on all sides",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "悲歌慷慨",
+      "reading": "ひかこうがい",
+      "meaning": "indignant lamentation over the evils of the times",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "放歌高吟",
+      "reading": "ほうかこうぎん",
+      "meaning": "loud singing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "高歌放吟",
+      "reading": "こうかほうぎん",
+      "meaning": "singing at the top of one's voice",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "詩歌管弦",
+      "reading": "しいかかんげん",
+      "meaning": "Chinese and Japanese poetry and instrumental music",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "歌舞音曲",
+      "reading": "かぶおんぎょく",
+      "meaning": "singing, dancing and music",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "歌人は居ながらにして名所を知る",
+      "reading": "かじんはいながらにしてめいしょをしる",
+      "meaning": "poets can stay in one place and still know all the famous sights",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

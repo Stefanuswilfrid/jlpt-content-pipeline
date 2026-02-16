@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "romaji": "ushiro",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "belakang",
+          "di belakang",
+          "bagian belakang"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "sore hari, PM"
+    },
+    {
+      "word": "後",
+      "reading": "あと",
+      "meaning": "setelah itu, sejak saat itu"
+    },
+    {
+      "word": "後",
+      "reading": "のち",
+      "meaning": "setelah itu, sejak saat itu"
+    },
+    {
+      "word": "明後日",
+      "reading": "あさって",
+      "meaning": "besok lusa"
+    },
+    {
+      "word": "後",
+      "reading": "ご",
+      "meaning": "setelah itu, sejak saat itu"
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "terakhir, akhir"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "後ろ髪を引かれる",
+      "reading": "うしろがみをひかれる",
+      "meaning": "to do something with painful reluctance",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ボールを後ろの人にすぐパスしなさい。",
+      "reading": null,
+      "indonesian": "Pass the ball quickly to a person behind you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "後ろに下がってください。",
+      "reading": null,
+      "indonesian": "Stand back, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "後ろに下がってください。",
+      "reading": null,
+      "indonesian": "Please step back.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "背",
+    "reading": "せい",
+    "romaji": "sei",
+    "jlpt": "N5",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tinggi badan",
+          "perawakan seseorang"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "背広",
+      "reading": "せびろ",
+      "meaning": "setelan pria"
+    },
+    {
+      "word": "背中",
+      "reading": "せなか",
+      "meaning": "punggung (tubuh)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "二律背反",
+      "reading": "にりつはいはん",
+      "meaning": "antinomy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "中肉中背",
+      "reading": "ちゅうにくちゅうぜい",
+      "meaning": "medium build",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "面従腹背",
+      "reading": "めんじゅうふくはい",
+      "meaning": "pretending to obey but secretly betraying (someone)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "面向不背",
+      "reading": "めんこうふはい",
+      "meaning": "flawless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "背水の陣",
+      "reading": "はいすいのじん",
+      "meaning": "fighting with one's back to the wall",
+      "type": "idiom"
+    },
+    {
+      "word": "眼光紙背",
+      "reading": "がんこうしはい",
+      "meaning": "reading between the lines",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "目を背ける",
+      "reading": "めをそむける",
+      "meaning": "to look away (from)",
+      "type": "idiom"
+    },
+    {
+      "word": "背中を押す",
+      "reading": "せなかをおす",
+      "meaning": "to push someone (towards)",
+      "type": "idiom"
+    },
+    {
+      "word": "背中を追う",
+      "reading": "せなかをおう",
+      "meaning": "to walk behind someone",
+      "type": "idiom"
+    },
+    {
+      "word": "背中で語る",
+      "reading": "せなかでかたる",
+      "meaning": "to let one's actions do the talking",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

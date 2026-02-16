@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "引く",
+    "reading": "ひく",
+    "romaji": "hiku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pull",
+          "to tug",
+          "to lead (e.g. a horse)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to draw (attention, sympathy, etc.)",
+          "to attract (e.g. interest)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to draw back (e.g. one's hand)",
+          "to draw in (one's chin, stomach, etc.)",
+          "to pull in"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to draw (a card, mahjong tile, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to draw (a line, plan, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "字引",
+      "reading": "じびき",
+      "meaning": "dictionary"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "弓を引く",
+      "reading": "ゆみをひく",
+      "meaning": "to draw a bow",
+      "type": "idiom"
+    },
+    {
+      "word": "手ぐすね引く",
+      "reading": "てぐすねひく",
+      "meaning": "to be ready and waiting",
+      "type": "idiom"
+    },
+    {
+      "word": "ババを引く",
+      "reading": "ばばをひく",
+      "meaning": "to get the short end of the stick",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "このポテトチップおいしくて後を引くね。",
+      "reading": null,
+      "english": "These potato chips are good enough to make you want more.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あんな本みたらフツーの女は引くもんな！",
+      "reading": null,
+      "english": "Obviously a normal woman would lose interest if she saw a book like that!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

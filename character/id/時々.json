@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "時々",
+    "reading": "ときどき",
+    "romaji": "tokidoki",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "Kadang-kadang"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "seasonal",
+          "of the season",
+          "appropriate (for the season or occasion)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "jam tangan; jam dinding"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "waktu"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "時々刻々",
+      "reading": "じじこっこく",
+      "meaning": "hourly",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "うん。時々そういうことがあるの。",
+      "reading": null,
+      "indonesian": "Yes, it happens from time to time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

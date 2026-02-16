@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "可愛い",
+    "reading": "かわいい",
+    "romaji": "kawaii",
+    "jlpt": "N5",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "cute",
+          "adorable",
+          "charming",
+          "lovely",
+          "pretty"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "dear",
+          "precious",
+          "darling",
+          "pet"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "innocent",
+          "childlike",
+          "childish",
+          "lovable"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "dainty",
+          "little",
+          "tiny"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "悲しい",
+      "reading": "かなしい",
+      "meaning": "sad"
+    },
+    {
+      "word": "美しい",
+      "reading": "うつくしい",
+      "meaning": "beautiful"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "馬鹿な子ほど可愛い",
+      "reading": "ばかなこほどかわいい",
+      "meaning": "a foolish child is more precious",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

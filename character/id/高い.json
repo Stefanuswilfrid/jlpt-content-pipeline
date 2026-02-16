@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "高い",
+    "reading": "たかい",
+    "romaji": "takai",
+    "jlpt": "N5",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "tinggi",
+          "megah; mahal"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "expensive",
+          "high-priced"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "high (level)",
+          "above average (in degree, quality, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "loud"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "high-pitched",
+          "shrill"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 2,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "siswa sekolah menengah atas"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "敷居が高い",
+      "reading": "しきいがたかい",
+      "meaning": "having a high threshold (for entry)",
+      "type": "idiom"
+    },
+    {
+      "word": "タダより高いものはない",
+      "reading": "ただよりたかいものはない",
+      "meaning": "nothing costs as much as what is given to us",
+      "type": "proverb"
+    },
+    {
+      "word": "馬鹿と煙は高い所へ上る",
+      "reading": "ばかとけむりはたかいところへのぼる",
+      "meaning": "fools fall easily for flattery",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

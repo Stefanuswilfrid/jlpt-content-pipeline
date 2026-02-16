@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "病気",
+    "reading": "びょうき",
+    "romaji": "byouki",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "penyakit; sakit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bad habit",
+          "bad behaviour",
+          "weakness",
+          "failing"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "crazy",
+          "insane",
+          "disturbed",
+          "sick in the head"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "RSUD"
+    },
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "listrik, lampu (listrik)"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "sehat, energik"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "cuaca"
+    },
+    {
+      "word": "気",
+      "reading": "き",
+      "meaning": "semangat, suasana hati"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "perasaan, sensasi, suasana hati"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "perasaan, suasana hati"
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "udara, atmosfer"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

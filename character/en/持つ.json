@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "持つ",
+    "reading": "もつ",
+    "romaji": "motsu",
+    "jlpt": "N5",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hold (in one's hand)",
+          "to take",
+          "to carry"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to possess",
+          "to have",
+          "to own"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to maintain",
+          "to keep"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to last",
+          "to be durable",
+          "to keep",
+          "to survive"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take charge of",
+          "to be in charge of"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "提灯を持つ",
+      "reading": "ちょうちんをもつ",
+      "meaning": "to sing someone's praises",
+      "type": "idiom"
+    },
+    {
+      "word": "尻を持つ",
+      "reading": "けつをもつ",
+      "meaning": "to take responsibility for",
+      "type": "idiom"
+    },
+    {
+      "word": "持つべきものは友",
+      "reading": "もつべきものはとも",
+      "meaning": "a friend is a good thing to have",
+      "type": "proverb"
+    },
+    {
+      "word": "持つべきものは友人",
+      "reading": "もつべきものはゆうじん",
+      "meaning": "a friend is a good thing to have",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

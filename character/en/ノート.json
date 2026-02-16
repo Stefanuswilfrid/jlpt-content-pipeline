@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "ノート",
+    "reading": "ノート",
+    "romaji": "nooto",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "notebook",
+          "copy-book",
+          "exercise book"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "note",
+          "noting down"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(musical) note"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "laptop (computer)",
+          "notebook (computer)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ノートを見せてくれないか。",
+      "reading": null,
+      "english": "Could you let me see your notes?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ノートを見せてもらえないかな？",
+      "reading": null,
+      "english": "Could you let me see your notes?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ノートとペンを出しなさい。",
+      "reading": null,
+      "english": "Get out your notebooks and pens.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ノートがばらばらになった。",
+      "reading": null,
+      "english": "The notebook came loose.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

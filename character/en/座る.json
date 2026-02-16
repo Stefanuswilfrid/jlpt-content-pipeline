@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "座る",
+    "reading": "すわる",
+    "romaji": "suwaru",
+    "jlpt": "N5",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to sit (down)",
+          "to have a seat",
+          "to be seated",
+          "to kneel (on the floor)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to assume (a position)",
+          "to take on (a duty)",
+          "to occupy (a post)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "後釜に座る",
+      "reading": "あとがまにすわる",
+      "meaning": "to succeed to someone's post",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

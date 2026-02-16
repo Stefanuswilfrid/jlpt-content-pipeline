@@ -1,0 +1,165 @@
+{
+  "definition": {
+    "word": "手",
+    "reading": "て",
+    "romaji": "te",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tangan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "forepaw",
+          "foreleg"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "handle"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hand",
+          "worker",
+          "help"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "trouble",
+          "care",
+          "effort"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "surat"
+    },
+    {
+      "word": "切手",
+      "reading": "きって",
+      "meaning": "prangko pos"
+    },
+    {
+      "word": "お手洗い",
+      "reading": "おてあらい",
+      "meaning": "toilet, kamar kecil, kamar mandi (secara harfiah, tempat untuk mencuci tangan)"
+    },
+    {
+      "word": "下手",
+      "reading": "したて",
+      "meaning": "tidak terampil, miskin"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "mahir dalam hal, terampil"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "tidak terampil, miskin"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "pengemudi (berdasarkan pekerjaan)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "奥の手",
+      "reading": "おくのて",
+      "meaning": "ace up one's sleeve",
+      "type": "idiom"
+    },
+    {
+      "word": "火の手",
+      "reading": "ひのて",
+      "meaning": "flame",
+      "type": "idiom"
+    },
+    {
+      "word": "自分勝手",
+      "reading": "じぶんかって",
+      "meaning": "selfishness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "手練手管",
+      "reading": "てれんてくだ",
+      "meaning": "wiles",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "常套手段",
+      "reading": "じょうとうしゅだん",
+      "meaning": "one's habitual practice",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "下手の横好き",
+      "reading": "へたのよこずき",
+      "meaning": "loving something but being very bad at it",
+      "type": "idiom"
+    },
+    {
+      "word": "手を切る",
+      "reading": "てをきる",
+      "meaning": "to cut one's hand",
+      "type": "idiom"
+    },
+    {
+      "word": "手を抜く",
+      "reading": "てをぬく",
+      "meaning": "to cut corners",
+      "type": "idiom"
+    },
+    {
+      "word": "手前味噌",
+      "reading": "てまえみそ",
+      "meaning": "self-flattery",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "徒手空拳",
+      "reading": "としゅくうけん",
+      "meaning": "being empty-handed",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "手を下げろ。",
+      "reading": null,
+      "indonesian": "Put your hands down!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

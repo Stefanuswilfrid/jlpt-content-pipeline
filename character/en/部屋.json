@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "部屋",
+    "reading": "へや",
+    "romaji": "heya",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "room",
+          "chamber"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "apartment",
+          "flat",
+          "pad"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stable"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "全部",
+      "reading": "ぜんぶ",
+      "meaning": "all"
+    },
+    {
+      "word": "八百屋",
+      "reading": "やおや",
+      "meaning": "greengrocer"
+    },
+    {
+      "word": "部長",
+      "reading": "ぶちょう",
+      "meaning": "head (chief, director) of a section or department"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

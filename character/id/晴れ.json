@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "晴れ",
+    "reading": "はれ",
+    "romaji": "hare",
+    "jlpt": "N5",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "cuaca cerah (bermatahari)"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "formal",
+          "ceremonial",
+          "public"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cleared of suspicion"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "晴れる",
+      "reading": "はれる",
+      "meaning": "cerah"
+    },
+    {
+      "word": "素晴らしい",
+      "reading": "すばらしい",
+      "meaning": "luar biasa; hebat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "夕焼けは晴れ朝焼けは雨",
+      "reading": "ゆうやけははれあさやけはあめ",
+      "meaning": "red sky at night, shepherd's delight; red sky in the morning, shepherd's warning",
+      "type": "proverb"
+    },
+    {
+      "word": "朝焼けは雨、夕焼けは晴れ",
+      "reading": "あさやけはあめ、ゆうやけははれ",
+      "meaning": "red sky at night, sailors delight; red sky in morning, sailors take warning",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空は晴れて明るかった。",
+      "reading": null,
+      "indonesian": "The sky was bright and clear.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空はほとんど毎日晴れている。",
+      "reading": null,
+      "indonesian": "The sky is clear almost every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空はすぐに晴れ上がるでしょう。",
+      "reading": null,
+      "indonesian": "The sky will soon clear up.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空が晴れた。",
+      "reading": null,
+      "indonesian": "The sky has become clear.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "間もなく、晴れてきそうだ。",
+      "reading": null,
+      "indonesian": "It's going to clear up soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

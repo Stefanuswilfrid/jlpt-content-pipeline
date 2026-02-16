@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "romaji": "daijoubu",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "Tidak apa-apa; Tidak perlu khawatir; Semuanya terkendali."
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "certainly",
+          "surely",
+          "undoubtedly"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "no thanks",
+          "I'm good",
+          "that's alright"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 3,
+    "type": "nakadaka"
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": []
+}

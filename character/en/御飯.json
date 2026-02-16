@@ -1,0 +1,41 @@
+{
+  "definition": {
+    "word": "ご飯",
+    "reading": "ごはん",
+    "romaji": "gohan",
+    "jlpt": "N5",
+    "frequency": 23250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cooked rice"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夕飯",
+      "reading": "ゆうはん",
+      "meaning": "evening meal"
+    },
+    {
+      "word": "晩御飯",
+      "reading": "ばんごはん",
+      "meaning": "dinner"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "眼鏡",
+    "reading": "メガネ",
+    "romaji": "megane",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kacamata"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "judgment",
+          "judgement",
+          "discrimination",
+          "discernment",
+          "insight"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "目",
+      "reading": "め",
+      "meaning": "mata)"
+    },
+    {
+      "word": "鏡",
+      "reading": "かがみ",
+      "meaning": "cermin"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "色眼鏡で見る",
+      "reading": "いろめがねでみる",
+      "meaning": "to look at from a biased viewpoint",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

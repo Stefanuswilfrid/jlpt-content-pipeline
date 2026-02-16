@@ -1,0 +1,35 @@
+{
+  "definition": {
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "romaji": "obentou",
+    "jlpt": "N5",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "makan siang dalam kotak"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaning": "kebenaran, kenyataan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "お弁当つけて",
+      "reading": "おべんとうつけて",
+      "meaning": "with rice stuck on one's face",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "彼方",
+    "reading": "あちら",
+    "romaji": "achira",
+    "jlpt": "N5",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that way",
+          "that direction",
+          "over there",
+          "yonder"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that (one)"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that person"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "there",
+          "over there",
+          "foreign country (esp. a Western nation)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "彼ら",
+      "reading": "かれら",
+      "meaning": "they"
+    },
+    {
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "she"
+    },
+    {
+      "word": "彼",
+      "reading": "あれ",
+      "meaning": "that"
+    },
+    {
+      "word": "彼",
+      "reading": "かれ",
+      "meaning": "he"
+    },
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "early evening (usu. from 3pm to 6pm)"
+    },
+    {
+      "word": "方",
+      "reading": "かた",
+      "meaning": "direction"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ライオンは１日中おりの中をあちらこちらに歩いていた。",
+      "reading": null,
+      "english": "The lion walked to and fro in its cage all day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トイレはあちらにあります。",
+      "reading": null,
+      "english": "The toilet is over there.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "そのような店はあちらこちらにある。",
+      "reading": null,
+      "english": "There are such shops about.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "かしこまりました。サラダバーはあちらです。",
+      "reading": null,
+      "english": "All right, sir. The salad bar is over there.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

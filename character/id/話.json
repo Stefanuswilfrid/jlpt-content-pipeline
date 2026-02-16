@@ -1,0 +1,150 @@
+{
+  "definition": {
+    "word": "話",
+    "reading": "はなし",
+    "romaji": "hanashi",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bicara (mengobrol)",
+          "cerita"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "topic",
+          "subject"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "discussions",
+          "negotiation",
+          "argument"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rumor",
+          "talk",
+          "hearsay"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tale",
+          "story",
+          "fable"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "telepon"
+    },
+    {
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "percakapan"
+    },
+    {
+      "word": "世話",
+      "reading": "せわ",
+      "meaning": "merawat; menjaga"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "閑話休題",
+      "reading": "かんわきゅうだい",
+      "meaning": "getting back to the subject at hand, ...",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "世話を焼く",
+      "reading": "せわをやく",
+      "meaning": "to take care of someone",
+      "type": "idiom"
+    },
+    {
+      "word": "天狗話",
+      "reading": "てんぐばなし",
+      "meaning": "boastful story",
+      "type": "idiom"
+    },
+    {
+      "word": "炉辺談話",
+      "reading": "ろへんだんわ",
+      "meaning": "fireside chat",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "話の腰を折る",
+      "reading": "はなしのこしをおる",
+      "meaning": "to interfere",
+      "type": "idiom"
+    },
+    {
+      "word": "俗談平話",
+      "reading": "ぞくだんへいわ",
+      "meaning": "conversation on worldly affairs",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "阿呆の話食い",
+      "reading": "あほうのはなしぐい",
+      "meaning": "an idiot will swallow anything",
+      "type": "idiom"
+    },
+    {
+      "word": "話し上手は聞き上手",
+      "reading": "はなしじょうずはききじょうず",
+      "meaning": "good talkers make good listeners",
+      "type": "proverb"
+    },
+    {
+      "word": "うまい話には裏がある",
+      "reading": "うまいはなしにはうらがある",
+      "meaning": "if it sounds too good to be true, it probably is",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "明日帰ったら電話します。",
+      "reading": null,
+      "indonesian": "I'll call them tomorrow when I come back.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "イタリア語を話せますか？",
+      "reading": null,
+      "indonesian": "Do you speak Italian?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "早い",
+    "reading": "はやい",
+    "romaji": "hayai",
+    "jlpt": "N5",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "lebih awal"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "early",
+          "soon",
+          "earlier than usual"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "premature",
+          "too soon",
+          "too early"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "easy",
+          "simple",
+          "quick",
+          "fast"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "as soon as ...",
+          "the moment ...",
+          "the instant ..."
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "早い者勝ち",
+      "reading": "はやいものがち",
+      "meaning": "first come, first served",
+      "type": "proverb"
+    },
+    {
+      "word": "手が早い",
+      "reading": "てがはやい",
+      "meaning": "being a fast worker",
+      "type": "idiom"
+    },
+    {
+      "word": "手の早い",
+      "reading": "てのはやい",
+      "meaning": "fast (worker)",
+      "type": "idiom"
+    },
+    {
+      "word": "足が早い",
+      "reading": "あしがはやい",
+      "meaning": "to be fast at walking and running",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "早ければ早いほどいい。",
+      "reading": null,
+      "indonesian": "The sooner, the better.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "タクシーより歩く方が早いよ。",
+      "reading": null,
+      "indonesian": "It'll be quicker to walk than to take a taxi.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "romaji": "oniisan",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "older brother",
+          "elder brother"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "young man",
+          "buddy",
+          "fella",
+          "laddie"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "兄",
+      "reading": "あに",
+      "meaning": "older brother"
+    },
+    {
+      "word": "兄弟",
+      "reading": "きょうだい",
+      "meaning": "siblings"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ジェーンはお兄さんとテニスをしているんじゃないかな。",
+      "reading": null,
+      "english": "Jane may be playing tennis with my brother.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたを見るとお兄さんを思い出します。",
+      "reading": null,
+      "english": "You remind me of your brother.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

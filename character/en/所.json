@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "所",
+    "reading": "ところ",
+    "romaji": "tokoro",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)",
+          "suffix"
+        ],
+        "meanings": [
+          "place",
+          "spot",
+          "scene",
+          "site"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "suffix"
+        ],
+        "meanings": [
+          "address"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "suffix"
+        ],
+        "meanings": [
+          "district",
+          "area",
+          "locality"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "suffix"
+        ],
+        "meanings": [
+          "one's house"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "suffix"
+        ],
+        "meanings": [
+          "point",
+          "aspect",
+          "side",
+          "facet"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "kitchen"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "neighbourhood"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "適材適所",
+      "reading": "てきざいてきしょ",
+      "meaning": "the right person in the right place",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一所懸命",
+      "reading": "いっしょけんめい",
+      "meaning": "very hard",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "公衆便所",
+      "reading": "こうしゅうべんじょ",
+      "meaning": "public lavatory",
+      "type": "expression"
+    },
+    {
+      "word": "不労所得",
+      "reading": "ふろうしょとく",
+      "meaning": "unearned income",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "弁慶の泣き所",
+      "reading": "べんけいのなきどころ",
+      "meaning": "Achilles heel",
+      "type": "idiom"
+    },
+    {
+      "word": "名所旧跡",
+      "reading": "めいしょきゅうせき",
+      "meaning": "places of scenic beauty and historical interest",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "近所合壁",
+      "reading": "きんじょがっぺき",
+      "meaning": "immediate neighborhood",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "大所高所",
+      "reading": "たいしょこうしょ",
+      "meaning": "broad perspective",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一所不住",
+      "reading": "いっしょふじゅう",
+      "meaning": "vagrant",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "名所古跡",
+      "reading": "めいしょこせき",
+      "meaning": "scenic sites and historic places",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

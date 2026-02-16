@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "犬",
+    "reading": "いぬ",
+    "romaji": "inu",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dog (Canis (lupus) familiaris)",
+          "canine"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "counterfeit",
+          "inferior",
+          "useless",
+          "wasteful"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "犬猿の仲",
+      "reading": "けんえんのなか",
+      "meaning": "like cats and dogs",
+      "type": "idiom"
+    },
+    {
+      "word": "犬猿",
+      "reading": "けんえん",
+      "meaning": "cats and dogs (as an example of a bad relationship)",
+      "type": "idiom"
+    },
+    {
+      "word": "犬猫",
+      "reading": "いぬねこ",
+      "meaning": "dogs and cats",
+      "type": "idiom"
+    },
+    {
+      "word": "犬と猿",
+      "reading": "いぬとさる",
+      "meaning": "cats and dogs (as an example of a bad relationship)",
+      "type": "idiom"
+    },
+    {
+      "word": "犬も食わない",
+      "reading": "いぬもくわない",
+      "meaning": "avoided by everybody",
+      "type": "idiom"
+    },
+    {
+      "word": "犬に論語",
+      "reading": "いぬにろんご",
+      "meaning": "wasting one's breath (trying to explain something)",
+      "type": "idiom"
+    },
+    {
+      "word": "犬の遠吠え",
+      "reading": "いぬのとおぼえ",
+      "meaning": "backbiting of a coward",
+      "type": "idiom"
+    },
+    {
+      "word": "犬の川端歩き",
+      "reading": "いぬのかわばたあるき",
+      "meaning": "window-shopping without any money",
+      "type": "idiom"
+    },
+    {
+      "word": "バター犬",
+      "reading": "バターけん",
+      "meaning": "man who practises cunnilingus",
+      "type": "expression"
+    },
+    {
+      "word": "飼い犬に手をかまれる",
+      "reading": "かいいぬにてをかまれる",
+      "meaning": "to be betrayed by a trusted follower",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたの犬はどうしましたか。",
+      "reading": null,
+      "english": "What's become of your dog?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

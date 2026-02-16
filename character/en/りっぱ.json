@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "立派",
+    "reading": "りっぱ",
+    "romaji": "rippa",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "splendid",
+          "fine",
+          "handsome",
+          "elegant",
+          "imposing",
+          "prominent",
+          "impressive"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "praiseworthy",
+          "creditable",
+          "worthy"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "legal",
+          "legitimate",
+          "lawful"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "undeniable (e.g. crime)",
+          "indisputable",
+          "solid"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "立つ",
+      "reading": "たつ",
+      "meaning": "to stand (up)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうもごりっぱな言いわけだよ。",
+      "reading": null,
+      "english": "That is a fine excuse.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

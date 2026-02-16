@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "何時も",
+    "reading": "いつも",
+    "romaji": "itsumo",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "selalu",
+          "biasanya",
+          "setiap kali",
+          "tidak pernah (dengan kata kerja negatif)"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "never"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "usual",
+          "regular",
+          "habitual",
+          "customary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "jam tangan; jam dinding"
+    },
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "Kadang-kadang"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "waktu"
+    },
+    {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "Apa"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "indonesian": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "indonesian": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

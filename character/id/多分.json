@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "多分",
+    "reading": "たぶん",
+    "romaji": "tabun",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "mungkin",
+          "barangkali",
+          "bisa jadi"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "a lot of",
+          "much",
+          "many",
+          "considerable",
+          "large (amount)",
+          "generous"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "半分",
+      "reading": "はんぶん",
+      "meaning": "setengah"
+    },
+    {
+      "word": "大分",
+      "reading": "だいぶ",
+      "meaning": "cukup besar, sangat besar, banyak"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは多分本当だろう。",
+      "reading": null,
+      "indonesian": "It may well be true.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのニュースは多分本当だろう。",
+      "reading": null,
+      "indonesian": "The news may well be true.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日の夜は多分雪だろう。",
+      "reading": null,
+      "indonesian": "It may well snow tomorrow night.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

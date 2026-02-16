@@ -1,0 +1,175 @@
+{
+  "definition": {
+    "word": "行く",
+    "reading": "いく",
+    "romaji": "iku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb - Iku/Yuku special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go",
+          "to move (towards)",
+          "to head (towards)",
+          "to leave (for)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb - Iku/Yuku special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to move through",
+          "to travel across",
+          "to walk along (e.g. a road)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb - Iku/Yuku special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go (well, badly, etc.)",
+          "to proceed",
+          "to turn out",
+          "to get along"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb - Iku/Yuku special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to do (in a particular way)",
+          "to go (with; a choice)",
+          "to try"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb - Iku/Yuku special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to pass (of time, seasons, etc.)",
+          "to go by"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "travel"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "airplane"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "天馬空を行く",
+      "reading": "てんばくうをゆく",
+      "meaning": "to advance unobstructed",
+      "type": "idiom"
+    },
+    {
+      "word": "上手を行く",
+      "reading": "うわてをいく",
+      "meaning": "to have the upper hand",
+      "type": "idiom"
+    },
+    {
+      "word": "悪事千里を行く",
+      "reading": "あくじせんりをいく",
+      "meaning": "bad news travels fast",
+      "type": "proverb"
+    },
+    {
+      "word": "百里を行く者は九十を半ばとす",
+      "reading": "ひゃくりをゆくものはくじゅうをなかばとす",
+      "meaning": "don't count your chickens before they're hatched",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "行くよ。",
+      "reading": null,
+      "english": "I'm going to go.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あとで行くね。",
+      "reading": null,
+      "english": "I'm going to go.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "今夜教会に行くよ。",
+      "reading": null,
+      "english": "Tonight we're going to church.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "行くよ。",
+      "reading": null,
+      "english": "I'm going to go.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "行くよ。",
+      "reading": null,
+      "english": "Let's go!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "行くよ。",
+      "reading": null,
+      "english": "I'll go.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "行くよ。",
+      "reading": null,
+      "english": "I will go.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "今夜教会に行くよ。",
+      "reading": null,
+      "english": "Tonight we're going to church.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

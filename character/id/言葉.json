@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "言葉",
+    "reading": "ことば",
+    "romaji": "kotoba",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bahasa; kata(kata); ungkapan(ungkapan)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "word",
+          "phrase",
+          "expression",
+          "term"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "speech",
+          "(manner of) speaking",
+          "(use of) language"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "words",
+          "remark",
+          "statement",
+          "comment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "learning to speak",
+          "language acquisition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "葉書",
+      "reading": "はがき",
+      "meaning": "kartu pos"
+    },
+    {
+      "word": "葉",
+      "reading": "は",
+      "meaning": "daun"
+    },
+    {
+      "word": "言う",
+      "reading": "いう",
+      "meaning": "untuk mengatakan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "言葉を濁す",
+      "reading": "ことばをにごす",
+      "meaning": "to be vague",
+      "type": "idiom"
+    },
+    {
+      "word": "言葉は身の文",
+      "reading": "ことばはみのあや",
+      "meaning": "words betray one's character",
+      "type": "proverb"
+    },
+    {
+      "word": "言葉を失う",
+      "reading": "ことばをうしなう",
+      "meaning": "to become speechless",
+      "type": "idiom"
+    },
+    {
+      "word": "言葉を呑む",
+      "reading": "ことばをのむ",
+      "meaning": "to choke up",
+      "type": "idiom"
+    },
+    {
+      "word": "言葉を挟む",
+      "reading": "ことばをはさむ",
+      "meaning": "to cut in",
+      "type": "idiom"
+    },
+    {
+      "word": "言葉の海",
+      "reading": "ことばのうみ",
+      "meaning": "large number of words",
+      "type": "idiom"
+    },
+    {
+      "word": "言葉に鞘がある",
+      "reading": "ことばにさやがある",
+      "meaning": "to be evasive",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

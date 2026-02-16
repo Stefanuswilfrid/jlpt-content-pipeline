@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "知る",
+    "reading": "しる",
+    "romaji": "shiru",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to know",
+          "to be aware (of)",
+          "to be conscious (of)",
+          "to learn (of)",
+          "to find out",
+          "to discover"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sense",
+          "to feel",
+          "to notice",
+          "to realize"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to understand",
+          "to comprehend",
+          "to grasp",
+          "to appreciate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to remember",
+          "to be familiar with",
+          "to be acquainted with"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to experience",
+          "to go through",
+          "to know (e.g. hardship)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "知らせる",
+      "reading": "しらせる",
+      "meaning": "to notify"
+    },
+    {
+      "word": "承知",
+      "reading": "しょうち",
+      "meaning": "knowledge"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足るを知る",
+      "reading": "たるをしる",
+      "meaning": "to know one has enough",
+      "type": "idiom"
+    },
+    {
+      "word": "神のみぞ知る",
+      "reading": "かみのみぞしる",
+      "meaning": "God only knows",
+      "type": "proverb"
+    },
+    {
+      "word": "衣食足りて礼節を知る",
+      "reading": "いしょくたりてれいせつをしる",
+      "meaning": "well-fed, well-bred",
+      "type": "proverb"
+    },
+    {
+      "word": "一を聞いて十を知る",
+      "reading": "いちをきいてじゅうをしる",
+      "meaning": "to understand everything from only one part",
+      "type": "idiom"
+    },
+    {
+      "word": "子を持って知る親の恩",
+      "reading": "こをもってしるおやのおん",
+      "meaning": "becoming a parent makes you appreciate your own parents",
+      "type": "proverb"
+    },
+    {
+      "word": "足るを知る者は富む",
+      "reading": "たるをしるものはとむ",
+      "meaning": "content is the philosopher's stone, that turns all it touches into gold",
+      "type": "proverb"
+    },
+    {
+      "word": "地獄にも知る人",
+      "reading": "じごくにもしるひと",
+      "meaning": "you can make friends anywhere",
+      "type": "proverb"
+    },
+    {
+      "word": "知る者は言わず言う者は知らず",
+      "reading": "しるものはいわずいうものはしらず",
+      "meaning": "he who knows, does not speak; he who speaks, does not know",
+      "type": "proverb"
+    },
+    {
+      "word": "一葉落ちて天下の秋を知る",
+      "reading": "いちようおちててんかのあきをしる",
+      "meaning": "a straw will show which way the wind blows",
+      "type": "proverb"
+    },
+    {
+      "word": "歌人は居ながらにして名所を知る",
+      "reading": "かじんはいながらにしてめいしょをしる",
+      "meaning": "poets can stay in one place and still know all the famous sights",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

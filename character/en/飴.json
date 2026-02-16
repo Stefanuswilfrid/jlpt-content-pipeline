@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "飴",
+    "reading": "あめ",
+    "romaji": "ame",
+    "jlpt": "N5",
+    "frequency": 21750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(hard) candy",
+          "toffee"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rice-sugar",
+          "sugar made from the starch of rice, potatoes, etc."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "amber",
+          "yellowish-brown"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "飴と鞭",
+      "reading": "アメとムチ",
+      "meaning": "carrot and stick",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "飴がほしい。",
+      "reading": null,
+      "english": "I want a piece of candy.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "飴がほしい。",
+      "reading": null,
+      "english": "I want a piece of candy.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "飴がほしい。",
+      "reading": null,
+      "english": "I want some candy.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

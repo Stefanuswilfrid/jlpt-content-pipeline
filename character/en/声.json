@@ -1,0 +1,148 @@
+{
+  "definition": {
+    "word": "声",
+    "reading": "こえ",
+    "romaji": "koe",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "voice"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "singing (of a bird)",
+          "chirping (of an insect)",
+          "hoot"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "voice",
+          "opinion (as expressed in words)",
+          "view",
+          "wish",
+          "attitude",
+          "will"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sound"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sense (of something's arrival)",
+          "feeling"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "大喝一声",
+      "reading": "だいかついっせい",
+      "meaning": "shouting in a thunderous voice",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "名声赫々",
+      "reading": "めいせいかっかく",
+      "meaning": "of great renown",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "大声疾呼",
+      "reading": "たいせいしっこ",
+      "meaning": "shout with a loud voice",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "風声鶴唳",
+      "reading": "ふうせいかくれい",
+      "meaning": "getting frightened even by a slight noise",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "励声一番",
+      "reading": "れいせいいちばん",
+      "meaning": "giving cries of encouragement at a critical moment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "励声叱咤",
+      "reading": "れいせいしった",
+      "meaning": "cries of encouragement",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "声を呑む",
+      "reading": "こえをのむ",
+      "meaning": "to choke up",
+      "type": "idiom"
+    },
+    {
+      "word": "鶴の一声",
+      "reading": "つるのひとこえ",
+      "meaning": "final word",
+      "type": "idiom"
+    },
+    {
+      "word": "天の声",
+      "reading": "てんのこえ",
+      "meaning": "heavenly voice",
+      "type": "idiom"
+    },
+    {
+      "word": "声なき声",
+      "reading": "こえなきこえ",
+      "meaning": "unvoiced opinion",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "声がガラガラだよ。",
+      "reading": null,
+      "english": "I've got a frog in my throat.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "そっちの声がほとんど聞こえないの。",
+      "reading": null,
+      "english": "I can hardly hear you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "声は聞こえるけど、見えないよ。",
+      "reading": null,
+      "english": "I can hear you, but I can't see you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

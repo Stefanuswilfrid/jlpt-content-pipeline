@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "半分",
+    "reading": "はんぶん",
+    "romaji": "hanbun",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "half"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "半",
+      "reading": "はん",
+      "meaning": "half"
+    },
+    {
+      "word": "多分",
+      "reading": "たぶん",
+      "meaning": "probably"
+    },
+    {
+      "word": "十分",
+      "reading": "じゅうぶん",
+      "meaning": "enough"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "feeling"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "冗談半分",
+      "reading": "じょうだんはんぶん",
+      "meaning": "half joking",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "メロンが半分食べられた。",
+      "reading": null,
+      "english": "Half of the melon was eaten.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メキシコの人口は日本の人口の半分です。",
+      "reading": null,
+      "english": "Mexico has half as many people as Japan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パン半分でもないよりはまし。",
+      "reading": null,
+      "english": "Half a loaf is better than none.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

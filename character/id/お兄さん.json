@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "romaji": "oniisan",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Kakak laki-laki (orang lain) (formal)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "young man",
+          "buddy",
+          "fella",
+          "laddie"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "兄",
+      "reading": "あに",
+      "meaning": "(kakak laki-laki) saya (rendah hati)"
+    },
+    {
+      "word": "兄弟",
+      "reading": "きょうだい",
+      "meaning": "saudara kandung (rendah hati), saudara laki-laki dan perempuan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ジェーンはお兄さんとテニスをしているんじゃないかな。",
+      "reading": null,
+      "indonesian": "Jane may be playing tennis with my brother.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたを見るとお兄さんを思い出します。",
+      "reading": null,
+      "indonesian": "You remind me of your brother.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

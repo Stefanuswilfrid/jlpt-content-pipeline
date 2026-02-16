@@ -1,0 +1,165 @@
+{
+  "definition": {
+    "word": "出る",
+    "reading": "でる",
+    "romaji": "deru",
+    "jlpt": "N5",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to leave",
+          "to exit",
+          "to go out",
+          "to come out",
+          "to get out"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to leave (on a journey)",
+          "to depart",
+          "to start out",
+          "to set out"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to move forward"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come to",
+          "to get to",
+          "to lead to",
+          "to reach"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to appear",
+          "to come out",
+          "to emerge",
+          "to surface",
+          "to come forth",
+          "to turn up",
+          "to be found",
+          "to be detected",
+          "to be discovered",
+          "to be exposed",
+          "to show",
+          "to be exhibited",
+          "to be on display"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出かける",
+      "reading": "でかける",
+      "meaning": "to go out (e.g. on an excursion or outing)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足が出る",
+      "reading": "あしがでる",
+      "meaning": "to exceed the budget",
+      "type": "idiom"
+    },
+    {
+      "word": "地が出る",
+      "reading": "じがでる",
+      "meaning": "to reveal one's true colors (colours)",
+      "type": "idiom"
+    },
+    {
+      "word": "右に出る",
+      "reading": "みぎにでる",
+      "meaning": "to be superior (to)",
+      "type": "idiom"
+    },
+    {
+      "word": "手が出る",
+      "reading": "てがでる",
+      "meaning": "to resort to violence",
+      "type": "idiom"
+    },
+    {
+      "word": "反吐が出る",
+      "reading": "へどがでる",
+      "meaning": "to be nauseating",
+      "type": "idiom"
+    },
+    {
+      "word": "下に出る",
+      "reading": "したにでる",
+      "meaning": "to behave modestly",
+      "type": "idiom"
+    },
+    {
+      "word": "顔から火が出る",
+      "reading": "かおからひがでる",
+      "meaning": "to be extremely embarrassed",
+      "type": "idiom"
+    },
+    {
+      "word": "出る釘は打たれる",
+      "reading": "でるくぎはうたれる",
+      "meaning": "the nail that sticks out gets hammered down",
+      "type": "proverb"
+    },
+    {
+      "word": "出る杭は打たれる",
+      "reading": "でるくいはうたれる",
+      "meaning": "the nail that sticks out gets hammered down",
+      "type": "proverb"
+    },
+    {
+      "word": "喉から手が出る",
+      "reading": "のどからてがでる",
+      "meaning": "(wanting something so badly that) one can almost taste it",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "いつここを出るの？",
+      "reading": null,
+      "english": "When will you leave here?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "活気が出るからいいことだと思うよ。",
+      "reading": null,
+      "english": "I think it's a good thing because it keep us on our toes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "definition": {
+    "word": "一日",
+    "reading": "いちにち",
+    "romaji": "ichinichi",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "satu hari; hari pertama bulan"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "all day (long)",
+          "the whole day",
+          "from morning till night"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "first day of the month"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "Minggu"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "besok"
+    },
+    {
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "Kemarin"
+    },
+    {
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "Jumat"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "Senin"
+    },
+    {
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "Rabu"
+    },
+    {
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "hari ulang tahun"
+    },
+    {
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "Sabtu"
+    },
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "Kamis"
+    },
+    {
+      "word": "明後日",
+      "reading": "あさって",
+      "meaning": "besok lusa"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "kemarin lusa"
+    },
+    {
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "satu hal"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "terbaik (terbanyak), pertama, nomor satu"
+    },
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "setiap hari"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "bersama"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "satu orang"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "hari ini, hari ini"
+    },
+    {
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "Selasa"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一日片時",
+      "reading": "いちにちへんじ",
+      "meaning": "short time",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "十年一日",
+      "reading": "じゅうねんいちじつ",
+      "meaning": "without intermission for ten (long) years",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一日千秋",
+      "reading": "いちじつせんしゅう",
+      "meaning": "(waiting) impatiently",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一日三秋",
+      "reading": "いちじつさんしゅう",
+      "meaning": "(waiting) impatiently",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "槿花一日",
+      "reading": "きんかいちじつ",
+      "meaning": "evanescent glory",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一日一歩",
+      "reading": "いちにちいっぽ",
+      "meaning": "one step each day",
+      "type": "idiom"
+    },
+    {
+      "word": "あの世千日この世一日",
+      "reading": "あのよせんにちこのよいちにち",
+      "meaning": "a day in life is better than a thousand days in the afterlife",
+      "type": "proverb"
+    },
+    {
+      "word": "ローマは一日にして成らず",
+      "reading": "ローマはいちにちにしてならず",
+      "meaning": "Rome was not built in a day",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ローマは一日にしてならず。",
+      "reading": null,
+      "indonesian": "Rome wasn't built in a day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そこに一日中ただ立っているつもりかい？",
+      "reading": null,
+      "indonesian": "Are you just going to stand there all day?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

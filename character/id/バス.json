@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "バス",
+    "reading": "バス",
+    "romaji": "basu",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bus; kamar mandi; bass"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bus"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "バスに乗り遅れる",
+      "reading": "バスにのりおくれる",
+      "meaning": "to fall behind the times",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "近くでバスケットが作られている。",
+      "reading": null,
+      "indonesian": "Baskets are being made nearby.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

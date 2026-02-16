@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "貴方",
+    "reading": "あなた",
+    "romaji": "anata",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "Anda"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "dear",
+          "honey"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "sore menjelang malam (biasanya tepat sebelum waktu makan malam), malam hari"
+    },
+    {
+      "word": "方",
+      "reading": "かた",
+      "meaning": "samping"
+    },
+    {
+      "word": "方",
+      "reading": "ほう",
+      "meaning": "samping"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaning": "kedua belah pihak, kedua partai"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それはあなたが一人になりたくないからです。",
+      "reading": null,
+      "indonesian": "It's because you don't want to be alone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたが女の子だからよ。",
+      "reading": null,
+      "indonesian": "That's because you're a girl.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたがやれば。",
+      "reading": null,
+      "indonesian": "You can do it.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

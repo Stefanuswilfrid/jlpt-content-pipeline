@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "入る",
+    "reading": "いる",
+    "romaji": "iru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "memasuki",
+          "menampung",
+          "memegang"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to set (of the sun or moon)",
+          "to sink",
+          "to go down"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to attain (nirvana, enlightenment, etc.)",
+          "to achieve",
+          "to reach (e.g. a climax)"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'ru' ending"
+        ],
+        "meanings": [
+          "to do fully",
+          "to do intently",
+          "to do sincerely",
+          "to do deeply",
+          "to feel keenly"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'ru' ending"
+        ],
+        "meanings": [
+          "to (reach a state) completely"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "鬼籍に入る",
+      "reading": "きせきにいる",
+      "meaning": "to pass away",
+      "type": "idiom"
+    },
+    {
+      "word": "身が入る",
+      "reading": "みがはいる",
+      "meaning": "to give one's everything",
+      "type": "idiom"
+    },
+    {
+      "word": "実が入る",
+      "reading": "みがはいる",
+      "meaning": "to ripen",
+      "type": "idiom"
+    },
+    {
+      "word": "五指に入る",
+      "reading": "ごしにはいる",
+      "meaning": "to be among the top five",
+      "type": "idiom"
+    },
+    {
+      "word": "飛んで火に入る夏の虫",
+      "reading": "とんでひにいるなつのむし",
+      "meaning": "rushing to one's doom",
+      "type": "idiom"
+    },
+    {
+      "word": "五本の指に入る",
+      "reading": "ごほんのゆびにはいる",
+      "meaning": "to be among the top five",
+      "type": "idiom"
+    },
+    {
+      "word": "スイッチが入る",
+      "reading": "スイッチがはいる",
+      "meaning": "to (suddenly) get into a specific mood",
+      "type": "idiom"
+    },
+    {
+      "word": "入るを量りて出ずるを為す",
+      "reading": "いるをはかりていずるをなす",
+      "meaning": "consider your income before spending",
+      "type": "proverb"
+    },
+    {
+      "word": "宝さかって入る時はさかって出る",
+      "reading": "たからさかっているときはさかってでる",
+      "meaning": "ill-gotten gains fade as fast as they were obtained",
+      "type": "proverb"
+    },
+    {
+      "word": "入るを量りて出ずるを制す",
+      "reading": "いるをはかりていずるをせいす",
+      "meaning": "cut your coat according to your cloth",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "学校のオーケストラに入るつもりなのだ。",
+      "reading": null,
+      "indonesian": "I'm going to join the school orchestra.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

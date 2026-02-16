@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "交番",
+    "reading": "こうばん",
+    "romaji": "kouban",
+    "jlpt": "N5",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kotak polisi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "alternation"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "alternating (current, stress, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "terbaik (terbanyak), pertama, nomor satu"
+    },
+    {
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "angka, rangkaian digit"
+    },
+    {
+      "word": "交差点",
+      "reading": "こうさてん",
+      "meaning": "persimpangan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "交番はどこにあるかわかりますか。",
+      "reading": null,
+      "indonesian": "Do you know where the police station is?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "交番が近くにある。",
+      "reading": null,
+      "indonesian": "A police station is close at hand.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "交番が近くにある。",
+      "reading": null,
+      "indonesian": "A police station is close at hand.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "交番はどこにあるかわかりますか。",
+      "reading": null,
+      "indonesian": "Do you know where the police station is?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

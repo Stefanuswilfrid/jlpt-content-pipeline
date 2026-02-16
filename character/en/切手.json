@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "切手",
+    "reading": "きって",
+    "romaji": "kitte",
+    "jlpt": "N5",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stamp (postage)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "merchandise certificate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "letter"
+    },
+    {
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaning": "ticket"
+    },
+    {
+      "word": "お手洗い",
+      "reading": "おてあらい",
+      "meaning": "toilet"
+    },
+    {
+      "word": "下手",
+      "reading": "したて",
+      "meaning": "humble position"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "skillful"
+    },
+    {
+      "word": "手",
+      "reading": "て",
+      "meaning": "hand"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "unskillful"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "driver"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どこで切手を手に入れられますか。",
+      "reading": null,
+      "english": "Where can I get stamps?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

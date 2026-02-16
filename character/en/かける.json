@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "欠ける",
+    "reading": "かける",
+    "romaji": "kakeru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to chip",
+          "to be chipped",
+          "to break (off)",
+          "to be damaged"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be missing (from a set, team, etc.)",
+          "to be absent",
+          "to become lost"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be lacking (in)",
+          "to be short (of)",
+          "to be deficient",
+          "to be wanting (in)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to wane (of the moon)",
+          "to go into eclipse"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何時ごろ出かけるの？",
+      "reading": null,
+      "english": "What time will you leave?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "外出前にドアにきちんとカギをかけるようにしなさい。",
+      "reading": null,
+      "english": "See to it that the door is locked before you leave.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "出かける気分じゃないんだ。",
+      "reading": null,
+      "english": "I don't feel like going out.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

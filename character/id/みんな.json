@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "皆",
+    "reading": "みな",
+    "romaji": "mina",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "pronoun",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "semua",
+          "setiap orang",
+          "semuanya"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "everything",
+          "all"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "皆さん",
+      "reading": "みなさん",
+      "meaning": "kalian semua, setiap orang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "免許皆伝",
+      "reading": "めんきょかいでん",
+      "meaning": "possessing full mastery of an art (e.g. Judo)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一切皆空",
+      "reading": "いっさいかいくう",
+      "meaning": "matter is void",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "悉皆成仏",
+      "reading": "しっかいじょうぶつ",
+      "meaning": "all things have the Buddha nature",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一強皆弱",
+      "reading": "いっきょうかいじゃく",
+      "meaning": "one strong, everyone else weak",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "赤信号皆で渡れば怖くない",
+      "reading": "あかしんごうみんなでわたればこわくない",
+      "meaning": "if everyone crosses against the red light together, there's nothing to be afraid of",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "みんなもそうなのかな、と思うことくらいしかできない。",
+      "reading": null,
+      "indonesian": "I can only wonder if this is the same for everyone else.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それらはみんな同じかい？",
+      "reading": null,
+      "indonesian": "Are they all the same?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "みんなもそうなのかな、と思うことくらいしかできない。",
+      "reading": null,
+      "indonesian": "I can only wonder if this is the same for everyone else.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それらはみんな同じかい？",
+      "reading": null,
+      "indonesian": "Are they all the same?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "みんなよくやった。",
+      "reading": null,
+      "indonesian": "All of you did good work.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "山",
+    "reading": "やま",
+    "romaji": "yama",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "counter"
+        ],
+        "meanings": [
+          "gunung"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "counter"
+        ],
+        "meanings": [
+          "mine"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "counter"
+        ],
+        "meanings": [
+          "(mountain) forest"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "counter"
+        ],
+        "meanings": [
+          "heap",
+          "pile",
+          "stack",
+          "mountain"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "protruding or high part of an object",
+          "crown (of a hat)",
+          "thread (of a screw)",
+          "tread (of a tire)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "沢山",
+      "reading": "たくさん",
+      "meaning": "banyak, sangat banyak"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "他山の石",
+      "reading": "たざんのいし",
+      "meaning": "lesson learned from someone's else mistake",
+      "type": "idiom"
+    },
+    {
+      "word": "海千山千",
+      "reading": "うみせんやません",
+      "meaning": "cunning and experienced in the ways of the world",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "山紫水明",
+      "reading": "さんしすいめい",
+      "meaning": "scenic beauty",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "物見遊山",
+      "reading": "ものみゆさん",
+      "meaning": "going on a pleasure jaunt",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "深山幽谷",
+      "reading": "しんざんゆうこく",
+      "meaning": "deep mountain valleys",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "関の山",
+      "reading": "せきのやま",
+      "meaning": "the most one can do",
+      "type": "idiom"
+    },
+    {
+      "word": "泰山北斗",
+      "reading": "たいざんほくと",
+      "meaning": "great authority",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "風林火山",
+      "reading": "ふうりんかざん",
+      "meaning": "as fast as the wind, as quiet as the forest, as daring as fire, and immovable as the mountain",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "山川草木",
+      "reading": "さんせんそうもく",
+      "meaning": "nature",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "大山鳴動",
+      "reading": "たいざんめいどう",
+      "meaning": "big fuss over nothing",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

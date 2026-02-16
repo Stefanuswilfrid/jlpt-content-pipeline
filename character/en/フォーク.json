@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "フォーク",
+    "reading": "フォーク",
+    "romaji": "fuooku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fork"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "forkball"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "フォークをいただけますか。",
+      "reading": null,
+      "english": "Could we have a fork?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "フォークがありません。",
+      "reading": null,
+      "english": "There is a fork missing.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

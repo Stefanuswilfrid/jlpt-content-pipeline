@@ -1,0 +1,169 @@
+{
+  "definition": {
+    "word": "物",
+    "reading": "もの",
+    "romaji": "mono",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "benda (objek konkret)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's things",
+          "possessions",
+          "property",
+          "belongings"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "things",
+          "something",
+          "anything",
+          "everything",
+          "nothing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "quality"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reason",
+          "the way of things"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaning": "belanja"
+    },
+    {
+      "word": "食べ物",
+      "reading": "たべもの",
+      "meaning": "makanan"
+    },
+    {
+      "word": "果物",
+      "reading": "くだもの",
+      "meaning": "buah"
+    },
+    {
+      "word": "荷物",
+      "reading": "にもつ",
+      "meaning": "koper; bagasi"
+    },
+    {
+      "word": "動物",
+      "reading": "どうぶつ",
+      "meaning": "hewan"
+    },
+    {
+      "word": "建物",
+      "reading": "たてもの",
+      "meaning": "bangunan"
+    },
+    {
+      "word": "飲み物",
+      "reading": "のみもの",
+      "meaning": "minuman"
+    },
+    {
+      "word": "動物園",
+      "reading": "どうぶつえん",
+      "meaning": "kebun binatang"
+    },
+    {
+      "word": "着物",
+      "reading": "きもの",
+      "meaning": "kimono; pakaian tradisional Jepang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "夢物語",
+      "reading": "ゆめものがたり",
+      "meaning": "account of a dream",
+      "type": "idiom"
+    },
+    {
+      "word": "天地万物",
+      "reading": "てんちばんぶつ",
+      "meaning": "the whole creation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "物見遊山",
+      "reading": "ものみゆさん",
+      "meaning": "going on a pleasure jaunt",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "物情騒然",
+      "reading": "ぶつじょうそうぜん",
+      "meaning": "unrest prevailing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "事々物々",
+      "reading": "じじぶつぶつ",
+      "meaning": "everything",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "物々交換",
+      "reading": "ぶつぶつこうかん",
+      "meaning": "barter",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "格物致知",
+      "reading": "かくぶつちち",
+      "meaning": "gaining a perfect knowledge of natural laws",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "物議騒然",
+      "reading": "ぶつぎそうぜん",
+      "meaning": "tumultuous public discussion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "万物流転",
+      "reading": "ばんぶつるてん",
+      "meaning": "all things are in a state of flux",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "玩物喪志",
+      "reading": "がんぶつそうし",
+      "meaning": "forgetting one's serious objectives by becoming engrossed in trivial pursuits",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

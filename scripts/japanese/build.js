@@ -15,8 +15,8 @@ const ROOT = join(__dirname, '..', '..');
 const INDICES_DIR = join(ROOT, 'indices', 'japanese');
 const JLPT_EN_DIR = join(ROOT, 'jlpt_files', 'en');
 const JLPT_ID_DIR = join(ROOT, 'jlpt_files', 'id');
-const OUT_EN = join(ROOT, 'dist', 'japanese', 'en');
-const OUT_ID = join(ROOT, 'dist', 'japanese', 'id');
+const OUT_EN = join(ROOT, 'character', 'en');
+const OUT_ID = join(ROOT, 'character', 'id');
 
 // ── helpers ──────────────────────────────────
 

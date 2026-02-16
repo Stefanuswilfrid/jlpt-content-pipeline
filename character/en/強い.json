@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "強い",
+    "reading": "つよい",
+    "romaji": "tsuyoi",
+    "jlpt": "N5",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "strong",
+          "potent",
+          "competent",
+          "domineering",
+          "tough"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "strong",
+          "brawny",
+          "powerful",
+          "healthy",
+          "rugged"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "good (at)",
+          "skilled",
+          "knowledgeable"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "being able to handle",
+          "know how to deal (with)",
+          "durable (against)",
+          "resistant (to)",
+          "resilient"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "firm",
+          "rigid",
+          "solid"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "勉強",
+      "reading": "べんきょう",
+      "meaning": "study"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "引きが強い",
+      "reading": "ひきがつよい",
+      "meaning": "having good luck (e.g. in drawing a card or tile in a game)",
+      "type": "idiom"
+    },
+    {
+      "word": "悪に強いは善にも強い",
+      "reading": "あくにつよいはぜんにもつよい",
+      "meaning": "great sinners make great saints (after repenting)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "強い風がでてきた。",
+      "reading": null,
+      "english": "A strong wind arose.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

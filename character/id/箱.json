@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "箱",
+    "reading": "はこ",
+    "romaji": "hako",
+    "jlpt": "N5",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kotak"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "car (of a train, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shamisen case",
+          "shamisen"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "public building",
+          "community building"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "counter"
+        ],
+        "meanings": [
+          "counter for boxes (or boxed objects)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "重箱の隅",
+      "reading": "じゅうばこのすみ",
+      "meaning": "unimportant things",
+      "type": "idiom"
+    },
+    {
+      "word": "重箱の隅をほじくる",
+      "reading": "じゅうばこのすみをほじくる",
+      "meaning": "to nitpick",
+      "type": "idiom"
+    },
+    {
+      "word": "重箱の隅をつつく",
+      "reading": "じゅうばこのすみをつつく",
+      "meaning": "to nitpick",
+      "type": "idiom"
+    },
+    {
+      "word": "パンドラの箱を開ける",
+      "reading": "パンドラのはこをあける",
+      "meaning": "to open (up) a Pandora's box",
+      "type": "idiom"
+    },
+    {
+      "word": "重箱の隅をようじでほじくる",
+      "reading": "じゅうばこのすみをようじでほじくる",
+      "meaning": "to nitpick",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

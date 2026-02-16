@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "romaji": "otousan",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ayah (formal)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "husband"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you (of an elderly person older than the speaker)",
+          "he",
+          "him"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "父",
+      "reading": "ちち",
+      "meaning": "ayah saya"
+    },
+    {
+      "word": "祖父",
+      "reading": "そふ",
+      "meaning": "kakek"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "木",
+    "reading": "き",
+    "romaji": "ki",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tree",
+          "shrub",
+          "bush"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wood",
+          "timber"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wooden clappers (signalling the beginning or end of a performance)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "Thursday"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "草根木皮",
+      "reading": "そうこんもくひ",
+      "meaning": "roots of herbs and barks of trees used in Chinese medicine",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "木に竹を接ぐ",
+      "reading": "きにたけをつぐ",
+      "meaning": "to sew a fox's skin to the lion's",
+      "type": "idiom"
+    },
+    {
+      "word": "山川草木",
+      "reading": "さんせんそうもく",
+      "meaning": "nature",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "金口木舌",
+      "reading": "きんこうぼくぜつ",
+      "meaning": "(public) opinion leader",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "悪木盗泉",
+      "reading": "あくぼくとうせん",
+      "meaning": "a virtuous person should not commit an act that offends their moral principles no matter how hard pressed they may be",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一木一草",
+      "reading": "いちぼくいっそう",
+      "meaning": "a single tree or blade of grass",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "ウドの大木",
+      "reading": "うどのたいぼく",
+      "meaning": "big but useless person",
+      "type": "idiom"
+    },
+    {
+      "word": "撞木反り",
+      "reading": "しゅもくぞり",
+      "meaning": "bell hammer backwards body drop",
+      "type": "expression"
+    },
+    {
+      "word": "盲亀浮木",
+      "reading": "もうきふぼく",
+      "meaning": "unlikely event",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "盲亀の浮木",
+      "reading": "もうきのふぼく",
+      "meaning": "unlikely event",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "金は木に生えない。",
+      "reading": null,
+      "english": "Money does not grow on trees.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金のなる木なんてないんだよ。",
+      "reading": null,
+      "english": "Money does not grow on trees.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金のなる木なんてないよ。",
+      "reading": null,
+      "english": "Money does not grow on trees.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金のなる木はないんだよ。",
+      "reading": null,
+      "english": "Money doesn't grow on trees, you know.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

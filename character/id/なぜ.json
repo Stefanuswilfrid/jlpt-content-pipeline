@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "何故",
+    "reading": "なぜ",
+    "romaji": "naze",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "kenapa (sama dengan どうして)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "Apa"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "なぜ聞くの？",
+      "reading": null,
+      "indonesian": "Why do you ask?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "「なぜ行かないの」「行きたくないからさ」",
+      "reading": null,
+      "indonesian": "\"Why aren't you going?\" \"Because I don't want to.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なぜ、早くないのに、「お早う」というのでしょう？",
+      "reading": null,
+      "indonesian": "Why does one say \"Good day\" when the day is not good?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "romaji": "oneesan",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kakak perempuan (formal)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "young lady"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "miss"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ma'am"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "older girl"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "姉",
+      "reading": "あね",
+      "meaning": "Kakak perempuanku (yang rendah hati)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたのお姉さんに会いたいです。",
+      "reading": null,
+      "indonesian": "I'd like to see your sister.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたのお姉さんは今何をしているの？",
+      "reading": null,
+      "indonesian": "What's your older sister doing now?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたのお姉さんは今何をしていますか？",
+      "reading": null,
+      "indonesian": "What's your older sister doing now?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

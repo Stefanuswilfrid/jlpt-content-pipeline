@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "鳴く",
+    "reading": "なく",
+    "romaji": "naku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "mengeluarkan suara (hewan)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to make a meld call (e.g. pung, kong)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "鳴る",
+      "reading": "なる",
+      "meaning": "berbunyi, berdering (v.i.)"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "jam tangan; jam dinding"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "閑古鳥が鳴く",
+      "reading": "かんこどりがなく",
+      "meaning": "to be quiet (due to lack of activity)",
+      "type": "idiom"
+    },
+    {
+      "word": "腹の虫が鳴く",
+      "reading": "はらのむしがなく",
+      "meaning": "one's stomach rumbles",
+      "type": "idiom"
+    },
+    {
+      "word": "鳴く猫は鼠を捕らぬ",
+      "reading": "なくねこはねずみをとらぬ",
+      "meaning": "empty vessels make the most sound",
+      "type": "proverb"
+    },
+    {
+      "word": "鳴く蝉よりも鳴かぬ蛍が身を焦がす",
+      "reading": "なくせみよりもなかぬほたるがみをこがす",
+      "meaning": "empty vessels make the most noise",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "鳥は鳴く。",
+      "reading": null,
+      "indonesian": "Birds sing.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "オンドリは日の出に鳴く。",
+      "reading": null,
+      "indonesian": "The rooster crows at sunrise.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "鳥は鳴く。",
+      "reading": null,
+      "indonesian": "Birds sing.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "オンドリは日の出に鳴く。",
+      "reading": null,
+      "indonesian": "The rooster crows at sunrise.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

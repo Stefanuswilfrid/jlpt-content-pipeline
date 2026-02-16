@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "晩",
+    "reading": "ばん",
+    "romaji": "ban",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "evening",
+          "night"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dinner",
+          "evening meal"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for nights"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "毎晩",
+      "reading": "まいばん",
+      "meaning": "every night"
+    },
+    {
+      "word": "今晩",
+      "reading": "こんばん",
+      "meaning": "tonight"
+    },
+    {
+      "word": "晩御飯",
+      "reading": "ばんごはん",
+      "meaning": "dinner"
+    },
+    {
+      "word": "遅い",
+      "reading": "おそい",
+      "meaning": "slow"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "大器晩成",
+      "reading": "たいきばんせい",
+      "meaning": "great talents mature late",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "月夜の晩ばかりじゃない",
+      "reading": "つきよのばんばかりじゃない",
+      "meaning": "you better watch your step!",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

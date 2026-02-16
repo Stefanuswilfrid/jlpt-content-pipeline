@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "でも",
+    "reading": "でも",
+    "romaji": "demo",
+    "jlpt": "N5",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "tetapi",
+          "bagaimanapun juga"
+        ]
+      },
+      {
+        "pos": [
+          "particle"
+        ],
+        "meanings": [
+          "even"
+        ]
+      },
+      {
+        "pos": [
+          "particle"
+        ],
+        "meanings": [
+          "however",
+          "no matter how",
+          "even if",
+          "even though"
+        ]
+      },
+      {
+        "pos": [
+          "particle"
+        ],
+        "meanings": [
+          "... or something"
+        ]
+      },
+      {
+        "pos": [
+          "particle"
+        ],
+        "meanings": [
+          "either ... or ...",
+          "neither ... nor ..."
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "屁でもない",
+      "reading": "へでもない",
+      "meaning": "of no concern",
+      "type": "idiom"
+    },
+    {
+      "word": "内裸でも外錦",
+      "reading": "うちはだかでもそとにしき",
+      "meaning": "we must keep up appearances to go through the world",
+      "type": "proverb"
+    },
+    {
+      "word": "石にかじりついてでも",
+      "reading": "いしにかじりついてでも",
+      "meaning": "come hell or high water",
+      "type": "idiom"
+    },
+    {
+      "word": "死んでも死に切れぬ",
+      "reading": "しんでもしにきれぬ",
+      "meaning": "I can't die and leave things this way",
+      "type": "idiom"
+    },
+    {
+      "word": "転んでもただは起きぬ",
+      "reading": "ころんでもただはおきぬ",
+      "meaning": "all's grist that comes to his mill",
+      "type": "proverb"
+    },
+    {
+      "word": "死んでも死に切れない",
+      "reading": "しんでもしにきれない",
+      "meaning": "I can't die and leave things this way",
+      "type": "idiom"
+    },
+    {
+      "word": "親が死んでも食休み",
+      "reading": "おやがしんでもじきやすみ",
+      "meaning": "resting after a meal is sacrosanct",
+      "type": "proverb"
+    },
+    {
+      "word": "象が踏んでも壊れない",
+      "reading": "ぞうがふんでもこわれない",
+      "meaning": "extremely robust",
+      "type": "idiom"
+    },
+    {
+      "word": "山椒は小粒でもぴりりと辛い",
+      "reading": "さんしょうはこつぶでもぴりりとからい",
+      "meaning": "size isn't everything",
+      "type": "proverb"
+    },
+    {
+      "word": "転んでもただでは起きない",
+      "reading": "ころんでもただではおきない",
+      "meaning": "all's grist that comes to his mill",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "時間はいくらでも作れる。",
+      "reading": null,
+      "indonesian": "One can always find time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

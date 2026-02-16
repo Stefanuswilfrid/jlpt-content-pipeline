@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "耳",
+    "reading": "みみ",
+    "romaji": "mimi",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ear"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hearing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ear (for music, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "edge",
+          "crust",
+          "heel (of bread or cheese)",
+          "selvedge (of woven fabric)",
+          "selvage"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ear (of a pot, jug, etc.)",
+          "handle"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "小耳に挟む",
+      "reading": "こみみにはさむ",
+      "meaning": "to happen to hear",
+      "type": "idiom"
+    },
+    {
+      "word": "兎耳",
+      "reading": "うさぎみみ",
+      "meaning": "long ears",
+      "type": "idiom"
+    },
+    {
+      "word": "馬の耳に念仏",
+      "reading": "うまのみみにねんぶつ",
+      "meaning": "preaching to the deaf",
+      "type": "idiom"
+    },
+    {
+      "word": "馬耳東風",
+      "reading": "ばじとうふう",
+      "meaning": "utter indifference",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "寝耳に水",
+      "reading": "ねみみにみず",
+      "meaning": "bolt from the blue",
+      "type": "idiom"
+    },
+    {
+      "word": "忠言逆耳",
+      "reading": "ちゅうげんぎゃくじ",
+      "meaning": "good advice is harsh to the ears",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "飛耳長目",
+      "reading": "ひじちょうもく",
+      "meaning": "sharp eyes and ears used for collecting information far and wide",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "耳を傾ける",
+      "reading": "みみをかたむける",
+      "meaning": "to lend an ear",
+      "type": "idiom"
+    },
+    {
+      "word": "壁に耳あり",
+      "reading": "かべにみみあり",
+      "meaning": "walls have ears",
+      "type": "proverb"
+    },
+    {
+      "word": "耳が痛い",
+      "reading": "みみがいたい",
+      "meaning": "being painfully true (e.g. reprimand)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空耳ですよ。",
+      "reading": null,
+      "english": "You are hearing things.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "音楽は耳を楽しませてくれる。",
+      "reading": null,
+      "english": "Music gratifies the ears.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "右耳からうみが出ます。",
+      "reading": null,
+      "english": "Pus is coming out of my right ear.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

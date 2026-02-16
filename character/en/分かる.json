@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "分かる",
+    "reading": "わかる",
+    "romaji": "wakaru",
+    "jlpt": "N5",
+    "frequency": 19250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to understand",
+          "to comprehend",
+          "to grasp",
+          "to see",
+          "to get",
+          "to follow"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become clear",
+          "to be known",
+          "to be discovered",
+          "to be realized (realised)",
+          "to be found out",
+          "to make sense"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "I know!",
+          "I think so too!"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 2,
+    "type": "nakadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "瑠璃も玻璃も照らせば分かる",
+      "reading": "るりもはりもてらせばわかる",
+      "meaning": "cream rises to the top",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "お前も、もうこれぐらい分かる年だろ。",
+      "reading": null,
+      "english": "You are old enough to know this.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "分かる、分かる。",
+      "reading": null,
+      "english": "I know what you mean.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "言いたいことは分かるよ。",
+      "reading": null,
+      "english": "I know what you mean.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

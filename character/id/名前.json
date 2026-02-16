@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "名前",
+    "reading": "なまえ",
+    "romaji": "namae",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nama"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "given name",
+          "first name"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "pagi, AM"
+    },
+    {
+      "word": "前",
+      "reading": "ぜん",
+      "meaning": "sebelumnya, di depan"
+    },
+    {
+      "word": "前",
+      "reading": "まえ",
+      "meaning": "sebelumnya, di depan"
+    },
+    {
+      "word": "片仮名",
+      "reading": "カタカナ",
+      "meaning": "katakana"
+    },
+    {
+      "word": "平仮名",
+      "reading": "ひらがな",
+      "meaning": "hiragana"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたの名前は？",
+      "reading": null,
+      "indonesian": "What is your name?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あなたの名前は？",
+      "reading": null,
+      "indonesian": "What's your name?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "名前を大文字で書いてください。",
+      "reading": null,
+      "indonesian": "Write your name in capitals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

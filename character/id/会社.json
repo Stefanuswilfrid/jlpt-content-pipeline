@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "romaji": "kaisha",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perusahaan",
+          "korporasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's workplace"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "masyarakat"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "rapat bisnis; konferensi"
+    },
+    {
+      "word": "社長",
+      "reading": "しゃちょう",
+      "meaning": "presiden sebuah perusahaan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうして会社に行かなかったの？",
+      "reading": null,
+      "indonesian": "Why did you not go to the office?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

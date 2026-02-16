@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "半",
+    "reading": "はん",
+    "romaji": "han",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun, used as a prefix",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "half",
+          "semi-",
+          "partial"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "half-past"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "odd number"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "半分",
+      "reading": "はんぶん",
+      "meaning": "half"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "中途半端",
+      "reading": "ちゅうとはんぱ",
+      "meaning": "halfway",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "半官半民",
+      "reading": "はんかんはんみん",
+      "meaning": "semi-governmental",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "半信半疑",
+      "reading": "はんしんはんぎ",
+      "meaning": "half in doubt",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "半身不随",
+      "reading": "はんしんふずい",
+      "meaning": "hemiplegia (paralysis on one side of the body)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一紙半銭",
+      "reading": "いっしはんせん",
+      "meaning": "small sum",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一知半解",
+      "reading": "いっちはんかい",
+      "meaning": "superficial knowledge",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "半死半生",
+      "reading": "はんしはんしょう",
+      "meaning": "all but dead",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一言半句",
+      "reading": "いちげんはんく",
+      "meaning": "a single word",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "行動半径",
+      "reading": "こうどうはんけい",
+      "meaning": "radius of action",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "半知半解",
+      "reading": "はんちはんかい",
+      "meaning": "superficial knowledge",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

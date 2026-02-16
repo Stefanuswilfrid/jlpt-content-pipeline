@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "歌う",
+    "reading": "うたう",
+    "romaji": "utau",
+    "jlpt": "N5",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to sing"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sing of (love, beauty, etc.) in a poem",
+          "to express in the form of a poem",
+          "to recite (a poem)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "歌",
+      "reading": "うた",
+      "meaning": "song"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "リンダは歌うために立ち上がった。",
+      "reading": null,
+      "english": "Linda stood up to sing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "リカさんはパーティーで歌うのを楽しんだ。",
+      "reading": null,
+      "english": "Rika had a good time singing at the party.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ベティはうまく歌うことができた。",
+      "reading": null,
+      "english": "Betty could sing better.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

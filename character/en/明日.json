@@ -1,0 +1,230 @@
+{
+  "definition": {
+    "word": "明日",
+    "reading": "あした",
+    "romaji": "ashita",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "tomorrow"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "near future"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "明後日",
+      "reading": "あさって",
+      "meaning": "day after tomorrow"
+    },
+    {
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "Sunday"
+    },
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "every day"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "today"
+    },
+    {
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "yesterday"
+    },
+    {
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "Friday"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "Monday"
+    },
+    {
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "Wednesday"
+    },
+    {
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "birthday"
+    },
+    {
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "Saturday"
+    },
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "Thursday"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "one day"
+    },
+    {
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "Tuesday"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "day before yesterday"
+    },
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "explanation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "明日は我が身",
+      "reading": "あすはわがみ",
+      "meaning": "what happens to one today may happen to another tomorrow",
+      "type": "proverb"
+    },
+    {
+      "word": "明日は明日の風が吹く",
+      "reading": "あしたはあしたのかぜがふく",
+      "meaning": "tomorrow will take care of itself",
+      "type": "proverb"
+    },
+    {
+      "word": "明日という日もある",
+      "reading": "あしたというひもある",
+      "meaning": "tomorrow is another day",
+      "type": "proverb"
+    },
+    {
+      "word": "今日あって明日ない身",
+      "reading": "きょうあってあすないみ",
+      "meaning": "life is transient",
+      "type": "idiom"
+    },
+    {
+      "word": "今日は人の身明日は我が身",
+      "reading": "きょうはひとのみあすはわがみ",
+      "meaning": "what chances to one man may happen to all",
+      "type": "proverb"
+    },
+    {
+      "word": "明日のことを言えば鬼が笑う",
+      "reading": "あすのことをいえばおにがわらう",
+      "meaning": "nobody knows the morrow",
+      "type": "proverb"
+    },
+    {
+      "word": "明日の百より今日の五十",
+      "reading": "あすのひゃくよりきょうのごじゅう",
+      "meaning": "a bird in the hand is worth two in the bush",
+      "type": "proverb"
+    },
+    {
+      "word": "今日の一針、明日の十針",
+      "reading": "きょうのひとはり、あすのとはり",
+      "meaning": "a stitch in time saves nine",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "明日帰ったら電話します。",
+      "reading": null,
+      "english": "I'll call them tomorrow when I come back.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日会いましょうか？",
+      "reading": null,
+      "english": "We're meeting up tomorrow?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日帰ったら電話します。",
+      "reading": null,
+      "english": "I'll call them tomorrow when I come back.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日帰ったら電話します。",
+      "reading": null,
+      "english": "I'll call them tomorrow when I return home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日帰ったら電話します。",
+      "reading": null,
+      "english": "I'll call after going home tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日会いましょうか？",
+      "reading": null,
+      "english": "We're meeting up tomorrow?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日会いましょうか？",
+      "reading": null,
+      "english": "Shall we meet tomorrow?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日会いましょうか？",
+      "reading": null,
+      "english": "Would you like to meet tomorrow?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日は来なくていいですよ。",
+      "reading": null,
+      "english": "You don't have to come tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "少し",
+    "reading": "すこし",
+    "romaji": "sukoshi",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "a little",
+          "a bit",
+          "a small amount",
+          "a few",
+          "some",
+          "slightly",
+          "somewhat"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "a little while",
+          "a short time",
+          "a moment",
+          "a minute"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "a little way",
+          "a short distance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "少ない",
+      "reading": "すくない",
+      "meaning": "few"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もう少しここにいた方がいいよ。",
+      "reading": null,
+      "english": "You had better stay here a little longer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

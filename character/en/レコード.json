@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "レコード",
+    "reading": "レコード",
+    "romaji": "rekoodo",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(phonograph) record"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "record (esp. in sports)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "record (data structure)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ダンス音楽のレコードをかけてくれないか。",
+      "reading": null,
+      "english": "Will you play some dance records?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ステレオにレコードをかけてください。",
+      "reading": null,
+      "english": "Put a record on the stereo.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

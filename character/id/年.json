@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "年",
+    "reading": "とし",
+    "romaji": "toshi",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tahun",
+          "usia"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "age",
+          "years"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "past one's prime",
+          "old age"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "tahun depan"
+    },
+    {
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "tahun ini"
+    },
+    {
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaning": "setiap tahun, tahunan, semusim"
+    },
+    {
+      "word": "去年",
+      "reading": "きょねん",
+      "meaning": "tahun lalu"
+    },
+    {
+      "word": "万年筆",
+      "reading": "まんねんひつ",
+      "meaning": "pulpen"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "年功序列",
+      "reading": "ねんこうじょれつ",
+      "meaning": "seniority by length of service",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "年中行事",
+      "reading": "ねんちゅうぎょうじ",
+      "meaning": "annual function",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "十年一日",
+      "reading": "じゅうねんいちじつ",
+      "meaning": "without intermission for ten (long) years",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "年功加俸",
+      "reading": "ねんこうかほう",
+      "meaning": "long service allowance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "年百年中",
+      "reading": "ねんびゃくねんじゅう",
+      "meaning": "throughout the year",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "年年歳歳",
+      "reading": "ねんねんさいさい",
+      "meaning": "annually",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "十年一昔",
+      "reading": "じゅうねんひとむかし",
+      "meaning": "the pace of change makes ten years back seem like ancient history",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "豊年満作",
+      "reading": "ほうねんまんさく",
+      "meaning": "bumper crops",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "歳々年々",
+      "reading": "さいさいねんねん",
+      "meaning": "annually",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百年河清",
+      "reading": "ひゃくねんかせい",
+      "meaning": "waiting for one hundred years for the waters of the Yellow River to clear",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

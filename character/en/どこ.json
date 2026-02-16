@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "何処",
+    "reading": "どこ",
+    "romaji": "doko",
+    "jlpt": "N5",
+    "frequency": 23250,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "where",
+          "what place"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "how much (long, far)",
+          "what extent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "what"
+    },
+    {
+      "word": "何",
+      "reading": "なん",
+      "meaning": "what"
+    },
+    {
+      "word": "所",
+      "reading": "ところ",
+      "meaning": "place"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それがどこから来たのか分からなかった。",
+      "reading": null,
+      "english": "I didn't know where it came from.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "シャワーはどこですか。",
+      "reading": null,
+      "english": "Where are the showers?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "電話はどこでできる？",
+      "reading": null,
+      "english": "Where can one make a phone call?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "トイレはどこにあるのでしょうか。",
+      "reading": null,
+      "english": "Where is the bathroom?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "トイレはどこですか。",
+      "reading": null,
+      "english": "Where is the bathroom?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "トイレはどこにありますか。",
+      "reading": null,
+      "english": "Where is the bathroom?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "トイレってどこにありますか。",
+      "reading": null,
+      "english": "Where is the bathroom?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "トイレはどこですか？",
+      "reading": null,
+      "english": "Where is the bathroom?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どこにいますか？",
+      "reading": null,
+      "english": "Where are you?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

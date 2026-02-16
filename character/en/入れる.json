@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "入れる",
+    "reading": "いれる",
+    "romaji": "ireru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put in",
+          "to let in",
+          "to take in",
+          "to bring in",
+          "to insert",
+          "to install (e.g. software)",
+          "to set (a jewel, etc.)",
+          "to ink in (e.g. tattoo)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to admit",
+          "to accept",
+          "to employ",
+          "to hire"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to accept",
+          "to comply",
+          "to grant",
+          "to adopt (a policy, etc.)",
+          "to take (advice, etc.)",
+          "to listen to",
+          "to pay attention to"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to include"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pay (one's rent, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "輸入",
+      "reading": "ゆにゅう",
+      "meaning": "import"
+    },
+    {
+      "word": "入る",
+      "reading": "いる",
+      "meaning": "to enter"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "メスを入れる",
+      "reading": "メスをいれる",
+      "meaning": "to put the scalpel to",
+      "type": "idiom"
+    },
+    {
+      "word": "朱を入れる",
+      "reading": "しゅをいれる",
+      "meaning": "to retouch",
+      "type": "idiom"
+    },
+    {
+      "word": "本腰を入れる",
+      "reading": "ほんごしをいれる",
+      "meaning": "to set about in earnest",
+      "type": "idiom"
+    },
+    {
+      "word": "身を入れる",
+      "reading": "みをいれる",
+      "meaning": "to put one's heart (into)",
+      "type": "idiom"
+    },
+    {
+      "word": "肩を入れる",
+      "reading": "かたをいれる",
+      "meaning": "to support",
+      "type": "idiom"
+    },
+    {
+      "word": "邪魔を入れる",
+      "reading": "じゃまをいれる",
+      "meaning": "to interfere",
+      "type": "idiom"
+    },
+    {
+      "word": "力こぶを入れる",
+      "reading": "ちからこぶをいれる",
+      "meaning": "to put a lot of effort (into)",
+      "type": "idiom"
+    },
+    {
+      "word": "念には念を入れる",
+      "reading": "ねんにはねんをいれる",
+      "meaning": "to be extremely cautious",
+      "type": "idiom"
+    },
+    {
+      "word": "くちばしを入れる",
+      "reading": "くちばしをいれる",
+      "meaning": "to meddle (e.g. in a conversation)",
+      "type": "idiom"
+    },
+    {
+      "word": "新しい酒は古い革袋に入れる",
+      "reading": "あたらしいさけはふるいかわぶくろにいれる",
+      "meaning": "to put new wine into old wineskins",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

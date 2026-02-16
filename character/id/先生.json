@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "先生",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "guru",
+          "profesor; master; doktor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "sensei",
+          "title or form of address for a teacher, master, doctor, lawyer, etc."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "intimate or teasing form of address"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 3,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "murid"
+    },
+    {
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "bulan lalu"
+    },
+    {
+      "word": "生徒",
+      "reading": "せいと",
+      "meaning": "siswa; murid"
+    },
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "minggu lalu"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "mahasiswa internasional"
+    },
+    {
+      "word": "先",
+      "reading": "さっき",
+      "meaning": "prioritas, keutamaan, sebelumnya"
+    },
+    {
+      "word": "先",
+      "reading": "さき",
+      "meaning": "prioritas, keutamaan, sebelumnya"
+    },
+    {
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "hari ulang tahun"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "hidup, kehidupan; untuk hidup"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "produksi; untuk memproduksi"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "siswa sekolah menengah atas"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "先生のアドバイスは聞いておいた方がいいよ。",
+      "reading": null,
+      "indonesian": "You should follow your teacher's advice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

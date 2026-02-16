@@ -1,0 +1,151 @@
+{
+  "definition": {
+    "word": "色",
+    "reading": "いろ",
+    "romaji": "iro",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "warna"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "complexion",
+          "skin colour",
+          "skin color"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "look (on one's face)",
+          "expression"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "appearance",
+          "air",
+          "feeling"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "personality",
+          "character"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "黄色",
+      "reading": "きいろ",
+      "meaning": "kuning"
+    },
+    {
+      "word": "茶色",
+      "reading": "ちゃいろ",
+      "meaning": "cokelat"
+    },
+    {
+      "word": "色々",
+      "reading": "いろいろ",
+      "meaning": "bermacam-macam"
+    },
+    {
+      "word": "景色",
+      "reading": "けしき",
+      "meaning": "pemandangan, lanskap"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "十人十色",
+      "reading": "じゅうにんといろ",
+      "meaning": "several men, several minds",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "喜色満面",
+      "reading": "きしょくまんめん",
+      "meaning": "being all smiles with joy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "古色蒼然",
+      "reading": "こしょくそうぜん",
+      "meaning": "antique-looking",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "巧言令色",
+      "reading": "こうげんれいしょく",
+      "meaning": "flattery",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "才色兼備",
+      "reading": "さいしょくけんび",
+      "meaning": "(a woman) being gifted with both intelligence and beauty",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "色眼鏡で見る",
+      "reading": "いろめがねでみる",
+      "meaning": "to look at from a biased viewpoint",
+      "type": "idiom"
+    },
+    {
+      "word": "色即是空",
+      "reading": "しきそくぜくう",
+      "meaning": "form is emptiness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "空即是色",
+      "reading": "くうそくぜしき",
+      "meaning": "emptiness is form",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "神色自若",
+      "reading": "しんしょくじじゃく",
+      "meaning": "perfect composure",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "暮色蒼然",
+      "reading": "ぼしょくそうぜん",
+      "meaning": "dusky",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "顔色がよくありません。",
+      "reading": null,
+      "indonesian": "You look pale.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

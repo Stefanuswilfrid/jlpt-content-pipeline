@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "お祖父さん",
+    "reading": "おじいさん",
+    "romaji": "ojiisan",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "grandfather"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "male senior-citizen",
+          "old man"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "お父さん",
+      "reading": "おとうさん",
+      "meaning": "father"
+    },
+    {
+      "word": "父",
+      "reading": "ちち",
+      "meaning": "father"
+    },
+    {
+      "word": "祖父",
+      "reading": "そふ",
+      "meaning": "grandfather"
+    },
+    {
+      "word": "祖母",
+      "reading": "そぼ",
+      "meaning": "grandmother"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "むかしむかし、この村におじいさんがいました。",
+      "reading": null,
+      "english": "Once upon a time, there was an old man in this village.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "おじいさんはとてもゆっくりと話す。",
+      "reading": null,
+      "english": "Grandfather speaks very slowly.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "おじいさんはその木の人形をピノキオと名づけました。",
+      "reading": null,
+      "english": "The old man named the wooden doll Pinocchio.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "おじいさんは少し耳が遠いんだ。",
+      "reading": null,
+      "english": "My grandfather is a bit hard of hearing.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

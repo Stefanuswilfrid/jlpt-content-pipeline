@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "四",
+    "reading": "し",
+    "romaji": "shi",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "four",
+          "4"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "四つ",
+      "reading": "よっつ",
+      "meaning": "four"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "四苦八苦",
+      "reading": "しくはっく",
+      "meaning": "being in dire distress",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四分五裂",
+      "reading": "しぶんごれつ",
+      "meaning": "torn asunder",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四六時中",
+      "reading": "しろくじちゅう",
+      "meaning": "around the clock",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一天四海",
+      "reading": "いってんしかい",
+      "meaning": "the world",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "再三再四",
+      "reading": "さいさんさいし",
+      "meaning": "repeatedly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三寒四温",
+      "reading": "さんかんしおん",
+      "meaning": "alternation of three cold and four warm days (usu. in late winter and early spring)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四通八達",
+      "reading": "しつうはったつ",
+      "meaning": "traffic network extending in all directions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四方八方",
+      "reading": "しほうはっぽう",
+      "meaning": "in all directions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四面楚歌",
+      "reading": "しめんそか",
+      "meaning": "being surrounded by enemies on all sides",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "朝三暮四",
+      "reading": "ちょうさんぼし",
+      "meaning": "being preoccupied with immediate (superficial) differences without realizing that there are no differences in substance",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "学校は四月からです。",
+      "reading": null,
+      "english": "School begins in April.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校は四月からです。",
+      "reading": null,
+      "english": "School starts in April.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "花火が四方八方であげられた。",
+      "reading": null,
+      "english": "The fireworks were set off on all sides.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火は強風にあおられて四方に広がった。",
+      "reading": null,
+      "english": "Fanned by the strong wind, the flames spread in all directions.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "初めて",
+    "reading": "はじめて",
+    "romaji": "hajimete",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "untuk pertama kalinya"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "only after ... is it ...",
+          "only when ... do you ...",
+          "not until ... do you ..."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "first time",
+          "(one's) first"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaning": "permulaan, pertama"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

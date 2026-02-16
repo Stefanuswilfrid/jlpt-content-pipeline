@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "着る",
+    "reading": "きる",
+    "romaji": "kiru",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengenakan (pakaian di atas pinggang); memakai"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take (the blame, responsibility)",
+          "to bear"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "着く",
+      "reading": "つく",
+      "meaning": "untuk sampai di, untuk mencapai"
+    },
+    {
+      "word": "上着",
+      "reading": "うわぎ",
+      "meaning": "mantel, jaket"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "服を着る",
+      "reading": "ふくをきる",
+      "meaning": "to put on clothes",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

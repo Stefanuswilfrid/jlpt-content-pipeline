@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "悪い",
+    "reading": "わるい",
+    "romaji": "warui",
+    "jlpt": "N5",
+    "frequency": 23750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "bad",
+          "poor",
+          "undesirable"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "poor (quality)",
+          "inferior",
+          "insufficient"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "evil",
+          "sinful"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "ugly",
+          "not beautiful"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "at fault",
+          "to blame",
+          "in the wrong"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 2,
+    "type": "nakadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "いい後は悪い",
+      "reading": "いいあとはわるい",
+      "meaning": "after the good comes the bad",
+      "type": "proverb"
+    },
+    {
+      "word": "手が悪い",
+      "reading": "てがわるい",
+      "meaning": "being dealt a bad hand",
+      "type": "idiom"
+    },
+    {
+      "word": "手癖が悪い",
+      "reading": "てくせがわるい",
+      "meaning": "having a habit of stealing things",
+      "type": "idiom"
+    },
+    {
+      "word": "けったくそ悪い",
+      "reading": "けったくそわるい",
+      "meaning": "extremely vexing",
+      "type": "expression"
+    },
+    {
+      "word": "悪い事は出来ぬもの",
+      "reading": "わるいことはできぬもの",
+      "meaning": "murder will out",
+      "type": "proverb"
+    },
+    {
+      "word": "雨の降る日は天気が悪い",
+      "reading": "あめのふるひはてんきがわるい",
+      "meaning": "water is wet",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

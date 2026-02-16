@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "子供",
+    "reading": "こども",
+    "romaji": "kodomo",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "child",
+          "children"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "女の子",
+      "reading": "おんなのこ",
+      "meaning": "girl"
+    },
+    {
+      "word": "卵",
+      "reading": "たまご",
+      "meaning": "eggs"
+    },
+    {
+      "word": "男の子",
+      "reading": "おとこのこ",
+      "meaning": "boy"
+    },
+    {
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "hat"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaning": "confections"
+    },
+    {
+      "word": "椅子",
+      "reading": "いす",
+      "meaning": "chair"
+    },
+    {
+      "word": "子",
+      "reading": "こ",
+      "meaning": "child"
+    },
+    {
+      "word": "息子",
+      "reading": "むすこ",
+      "meaning": "son"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "子供の使い",
+      "reading": "こどものつかい",
+      "meaning": "useless messenger",
+      "type": "idiom"
+    },
+    {
+      "word": "子供は親の鏡",
+      "reading": "こどもはおやのかがみ",
+      "meaning": "children are a reflection of their parents",
+      "type": "proverb"
+    },
+    {
+      "word": "子供は風の子",
+      "reading": "こどもはかぜのこ",
+      "meaning": "children are oblivious to the cold",
+      "type": "proverb"
+    },
+    {
+      "word": "子供騒げば雨が降る",
+      "reading": "こどもさわげばあめがふる",
+      "meaning": "if the kids make a racket outside, there will be rain",
+      "type": "proverb"
+    },
+    {
+      "word": "子供の喧嘩に親が出る",
+      "reading": "こどものけんかにおやがでる",
+      "meaning": "when kids get in a fight, their parents come to their aid",
+      "type": "proverb"
+    },
+    {
+      "word": "子供は３歳までに一生分の親孝行をする",
+      "reading": "こどもはさんさいまでにいっしょうぶんのおやこうこうをする",
+      "meaning": "children pay back their debt to their parents in full by age 3 (through their cuteness)",
+      "type": "proverb"
+    },
+    {
+      "word": "子供は親の背中を見て育つ",
+      "reading": "こどもはおやのせなかをみてそだつ",
+      "meaning": "children grow up watching their parents",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

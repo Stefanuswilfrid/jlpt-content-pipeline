@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "電気",
+    "reading": "でんき",
+    "romaji": "denki",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "electricity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(electric) light"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "telephone call"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "illness (usu. excluding minor ailments, e.g. common cold)"
+    },
+    {
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meaning": "train"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "lively"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "weather"
+    },
+    {
+      "word": "気",
+      "reading": "き",
+      "meaning": "spirit"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "feeling"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "feeling"
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "air"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ルーシーは電気のスイッチを入れました。",
+      "reading": null,
+      "english": "Lucy turned on the light switch.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

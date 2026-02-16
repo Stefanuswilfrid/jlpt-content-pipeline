@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "今日",
+    "reading": "きょう",
+    "romaji": "kyou",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "hari ini",
+          "hari ini"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "these days",
+          "recently",
+          "nowadays"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "bulan ini"
+    },
+    {
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "tahun ini"
+    },
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "setiap hari"
+    },
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "minggu ini"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "besok"
+    },
+    {
+      "word": "今",
+      "reading": "いま",
+      "meaning": "Sekarang"
+    },
+    {
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "Minggu"
+    },
+    {
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "Kemarin"
+    },
+    {
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "Jumat"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "Senin"
+    },
+    {
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "Rabu"
+    },
+    {
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "hari ulang tahun"
+    },
+    {
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "Sabtu"
+    },
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "Kamis"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "satu hari; hari pertama bulan"
+    },
+    {
+      "word": "明後日",
+      "reading": "あさって",
+      "meaning": "besok lusa"
+    },
+    {
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "Selasa"
+    },
+    {
+      "word": "今朝",
+      "reading": "けさ",
+      "meaning": "pagi ini"
+    },
+    {
+      "word": "今晩",
+      "reading": "こんばん",
+      "meaning": "malam ini, sore ini"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "kemarin lusa"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "昨日の友は今日の敵",
+      "reading": "きのうのともはきょうのてき",
+      "meaning": "a friend today may turn against you tomorrow",
+      "type": "proverb"
+    },
+    {
+      "word": "今日あって明日ない身",
+      "reading": "きょうあってあすないみ",
+      "meaning": "life is transient",
+      "type": "idiom"
+    },
+    {
+      "word": "今日は人の身明日は我が身",
+      "reading": "きょうはひとのみあすはわがみ",
+      "meaning": "what chances to one man may happen to all",
+      "type": "proverb"
+    },
+    {
+      "word": "明日の百より今日の五十",
+      "reading": "あすのひゃくよりきょうのごじゅう",
+      "meaning": "a bird in the hand is worth two in the bush",
+      "type": "proverb"
+    },
+    {
+      "word": "今日の一針、明日の十針",
+      "reading": "きょうのひとはり、あすのとはり",
+      "meaning": "a stitch in time saves nine",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "今日はもう聞かないよ。",
+      "reading": null,
+      "indonesian": "I won't ask you anything else today.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今日はきっと楽しくなると思っていたよ。",
+      "reading": null,
+      "indonesian": "I knew that today would be fun.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日はもう聞かないよ。",
+      "reading": null,
+      "indonesian": "I won't ask you anything else today.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

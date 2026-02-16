@@ -1,0 +1,159 @@
+{
+  "definition": {
+    "word": "時",
+    "reading": "とき",
+    "romaji": "toki",
+    "jlpt": "N5",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "musim gugur"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "occasion",
+          "case"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "chance",
+          "opportunity",
+          "season"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the times",
+          "the age",
+          "the day"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tense"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "waktu"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "jam tangan; jam dinding"
+    },
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "Kadang-kadang"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "zaman, periode, masa, era"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "黄金時代",
+      "reading": "おうごんじだい",
+      "meaning": "golden age",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四六時中",
+      "reading": "しろくじちゅう",
+      "meaning": "around the clock",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "時々刻々",
+      "reading": "じじこっこく",
+      "meaning": "hourly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "時期尚早",
+      "reading": "じきしょうそう",
+      "meaning": "premature",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "時代錯誤",
+      "reading": "じだいさくご",
+      "meaning": "anachronism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "時は金なり",
+      "reading": "ときはかねなり",
+      "meaning": "time is money",
+      "type": "proverb"
+    },
+    {
+      "word": "暗黒時代",
+      "reading": "あんこくじだい",
+      "meaning": "Dark Ages",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一日片時",
+      "reading": "いちにちへんじ",
+      "meaning": "short time",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "蝉時雨",
+      "reading": "せみしぐれ",
+      "meaning": "outburst of cicadas singing",
+      "type": "idiom"
+    },
+    {
+      "word": "二六時中",
+      "reading": "にろくじちゅう",
+      "meaning": "night and day",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もうすっかり秋めいてきました。",
+      "reading": null,
+      "indonesian": "It looks as if autumn is really here.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "パリは秋が一番いい。",
+      "reading": null,
+      "indonesian": "Paris is best in autumn.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

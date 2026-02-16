@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "此れ",
+    "reading": "これ",
+    "romaji": "kore",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "this",
+          "this one"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "this person"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "now",
+          "this point (in time)"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "here"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "used to stress the subject of a sentence"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "この間",
+      "reading": "このあいだ",
+      "meaning": "the other day"
+    },
+    {
+      "word": "この頃",
+      "reading": "このごろ",
+      "meaning": "these days"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "「これはとてもおもしろそうだね」とひろしが言います。",
+      "reading": null,
+      "english": "\"This looks pretty interesting,\" Hiroshi says.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

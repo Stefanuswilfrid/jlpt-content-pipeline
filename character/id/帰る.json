@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "帰る",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "jlpt": "N5",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kembali",
+          "pulang ke rumah",
+          "kembali"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to leave (of a guest, customer, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get home",
+          "to get to home plate"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "宝の山に入りながら手を空しくして帰る",
+      "reading": "たからのやまにいりながらてをむなしくしてかえる",
+      "meaning": "to have a good opportunity only to let it slip from your grasp",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "帰るつもりはありません。",
+      "reading": null,
+      "indonesian": "It is not my intention to return.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

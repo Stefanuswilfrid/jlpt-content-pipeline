@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "romaji": "okaasan",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mother",
+          "mom",
+          "mum",
+          "ma"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wife"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you (of an elderly person older than the speaker)",
+          "she",
+          "her"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "母",
+      "reading": "はは",
+      "meaning": "mother"
+    },
+    {
+      "word": "祖母",
+      "reading": "そぼ",
+      "meaning": "grandmother"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "「どなたですか」「お母さんよ」",
+      "reading": null,
+      "english": "\"Who is it?\" \"It's your mother.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「どなたですか」「お母さんよ」",
+      "reading": null,
+      "english": "\"Who is it?\" \"It's your mother.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「どなたですか」「お母さんよ」",
+      "reading": null,
+      "english": "\"Who's that? \" \"It's your mother.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メグはお母さんとそっくりです。",
+      "reading": null,
+      "english": "Meg is the double of her mother.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

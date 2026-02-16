@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "色々",
+    "reading": "いろいろ",
+    "romaji": "iroiro",
+    "jlpt": "N5",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "bermacam-macam"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "variously",
+          "in various ways",
+          "in many ways"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "various things",
+          "this and that"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "色",
+      "reading": "いろ",
+      "meaning": "warna"
+    },
+    {
+      "word": "黄色",
+      "reading": "きいろ",
+      "meaning": "kuning"
+    },
+    {
+      "word": "茶色",
+      "reading": "ちゃいろ",
+      "meaning": "cokelat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お話したいことが色々あります。",
+      "reading": null,
+      "indonesian": "I have a lot of things to tell you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "色々とありがとうございました。",
+      "reading": null,
+      "indonesian": "Thank you very much for everything.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたの学校生活についてもっと色々知りたい。",
+      "reading": null,
+      "indonesian": "I want to know more about your school life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "其れでは",
+    "reading": "それでは",
+    "romaji": "soredeha",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "well, ...",
+          "right, ...",
+          "now, ..."
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "so",
+          "then"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "that way (would mean ...)",
+          "if that is the case",
+          "in that case"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "bye then"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それでは後ほどうかがいます。",
+      "reading": null,
+      "english": "I'll see you later.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

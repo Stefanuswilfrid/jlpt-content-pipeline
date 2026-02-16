@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "パン",
+    "reading": "パン",
+    "romaji": "pan",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bread",
+          "(sweet) pastry"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "staff of life",
+          "one's bread"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "パンドラの箱を開ける",
+      "reading": "パンドラのはこをあける",
+      "meaning": "to open (up) a Pandora's box",
+      "type": "idiom"
+    },
+    {
+      "word": "人はパンのみにて生くる者に非ず",
+      "reading": "ひとはパンのみにていくるものにあらず",
+      "meaning": "man shall not live by bread alone",
+      "type": "proverb"
+    },
+    {
+      "word": "人はパンのみにて生くるにあらず",
+      "reading": "ひとはパンのみにていくるにあらず",
+      "meaning": "man shall not live by bread alone",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "帰りにパンを買ってきて下さるとありがたいんだけれど。",
+      "reading": null,
+      "english": "It'd be great if you could pick up some bread before you come home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "買う",
+    "reading": "かう",
+    "romaji": "kau",
+    "jlpt": "N5",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to buy",
+          "to purchase"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to value (highly)",
+          "to think highly of",
+          "to have a high opinion of",
+          "to appreciate",
+          "to recognize"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to incur (someone's anger, displeasure, etc.)",
+          "to elicit (e.g. sneers)",
+          "to invite (e.g. scorn)",
+          "to evoke",
+          "to arouse",
+          "to win (someone's favour)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to accept",
+          "to take on",
+          "to take up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pay for (a prostitute, geisha, etc.)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaning": "shopping"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "顰蹙を買う",
+      "reading": "ひんしゅくをかう",
+      "meaning": "to be frowned on",
+      "type": "idiom"
+    },
+    {
+      "word": "恨みを買う",
+      "reading": "うらみをかう",
+      "meaning": "to incur someone's enmity",
+      "type": "idiom"
+    },
+    {
+      "word": "反感を買う",
+      "reading": "はんかんをかう",
+      "meaning": "to antagonize",
+      "type": "idiom"
+    },
+    {
+      "word": "若い時の苦労は買うてもせよ",
+      "reading": "わかいときのくろうはこうてもせよ",
+      "meaning": "spare no effort while you are young",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたは新車を買うべきだ。",
+      "reading": null,
+      "english": "It's time for you to buy a new car.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

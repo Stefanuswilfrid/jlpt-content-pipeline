@@ -1,0 +1,159 @@
+{
+  "definition": {
+    "word": "大きい",
+    "reading": "おおきい",
+    "romaji": "ookii",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "big",
+          "large",
+          "great"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "loud"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "extensive",
+          "spacious"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "important",
+          "decisive",
+          "valuable"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "older",
+          "grown-up"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 3,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaning": "important"
+    },
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "very"
+    },
+    {
+      "word": "大使館",
+      "reading": "たいしかん",
+      "meaning": "embassy"
+    },
+    {
+      "word": "大人",
+      "reading": "おとな",
+      "meaning": "adult"
+    },
+    {
+      "word": "大きな",
+      "reading": "おおきな",
+      "meaning": "big"
+    },
+    {
+      "word": "大勢",
+      "reading": "おおぜい",
+      "meaning": "crowd of people"
+    },
+    {
+      "word": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "safe"
+    },
+    {
+      "word": "大好き",
+      "reading": "だいすき",
+      "meaning": "liking very much"
+    },
+    {
+      "word": "大勢",
+      "reading": "たいせい",
+      "meaning": "general situation"
+    },
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "university"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "逃がした魚は大きい",
+      "reading": "にがしたさかなはおおきい",
+      "meaning": "the biggest fish is always the one that got away",
+      "type": "proverb"
+    },
+    {
+      "word": "逃げた魚は大きい",
+      "reading": "にげたさかなはおおきい",
+      "meaning": "the biggest fish is always the one that got away",
+      "type": "proverb"
+    },
+    {
+      "word": "釣り落とした魚は大きい",
+      "reading": "つりおとしたさかなはおおきい",
+      "meaning": "the biggest fish is always the one that got away",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もっと大きい声で言ってください。",
+      "reading": null,
+      "english": "Louder, please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もっと大きいサイズはありますか。",
+      "reading": null,
+      "english": "Do you have a larger size?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もう少し大きいのはありませんか。",
+      "reading": null,
+      "english": "Don't you have another one that's a little larger?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

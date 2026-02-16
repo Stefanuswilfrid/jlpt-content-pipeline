@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "寝る",
+    "reading": "ねる",
+    "romaji": "neru",
+    "jlpt": "N5",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to sleep (lying down)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go to bed",
+          "to lie in bed"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to lie down"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to lie flat (e.g. of hair)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to lie idle (of funds, stock, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "寝坊",
+      "reading": "ねぼう",
+      "meaning": "sleeping in late"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "寝る子は育つ",
+      "reading": "ねるこはそだつ",
+      "meaning": "sleep brings up a child well",
+      "type": "proverb"
+    },
+    {
+      "word": "泥のように寝る",
+      "reading": "どろのようにねる",
+      "meaning": "to sleep like a log",
+      "type": "idiom"
+    },
+    {
+      "word": "枕を高くして寝る",
+      "reading": "まくらをたかくしてねる",
+      "meaning": "to sleep in peace",
+      "type": "idiom"
+    },
+    {
+      "word": "寝るほど楽はなかりけり",
+      "reading": "ねるほどらくはなかりけり",
+      "meaning": "there is nothing better than sleeping",
+      "type": "proverb"
+    },
+    {
+      "word": "食べてすぐ寝ると牛になる",
+      "reading": "たべてすぐねるとうしになる",
+      "meaning": "do not go lie down after eating (because it is considered rude)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

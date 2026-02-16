@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "近い",
+    "reading": "ちかい",
+    "romaji": "chikai",
+    "jlpt": "N5",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "dekat",
+          "di dekatnya",
+          "singkat"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "close (in time)",
+          "soon"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "close (relationship)",
+          "friendly",
+          "intimate"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "closely related"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "similar",
+          "almost the same",
+          "close to",
+          "nearly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "近く",
+      "reading": "ちかく",
+      "meaning": "di dekat; di lingkungan sekitar"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "近いうちにお会いしたいですね。",
+      "reading": null,
+      "indonesian": "I hope to see you soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "近い内にお会いするのを楽しみにしています。",
+      "reading": null,
+      "indonesian": "I'm looking forward to seeing you before long.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "近い内に、また入りますか。",
+      "reading": null,
+      "indonesian": "Do you think you'll be getting more in soon?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "近いうちにまたお会いできるかもしれませんね。",
+      "reading": null,
+      "indonesian": "We may meet again in the near future.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

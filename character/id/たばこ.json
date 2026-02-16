@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "煙草",
+    "reading": "タバコ",
+    "romaji": "tabako",
+    "jlpt": "N5",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tembakau",
+          "rokok"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tobacco plant (Nicotiana tabacum)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "草",
+      "reading": "くさ",
+      "meaning": "rumput"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "三遍回って煙草にしょ",
+      "reading": "さんべんまわってタバコにしょ",
+      "meaning": "measure twice and cut once",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

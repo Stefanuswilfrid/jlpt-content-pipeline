@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "大人",
+    "reading": "おとな",
+    "romaji": "otona",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "adult",
+          "grown-up"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "university"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    },
+    {
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "two persons"
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaning": "important"
+    },
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "very"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "one person"
+    },
+    {
+      "word": "大使館",
+      "reading": "たいしかん",
+      "meaning": "embassy"
+    },
+    {
+      "word": "大勢",
+      "reading": "おおぜい",
+      "meaning": "crowd of people"
+    },
+    {
+      "word": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "safe"
+    },
+    {
+      "word": "大好き",
+      "reading": "だいすき",
+      "meaning": "liking very much"
+    },
+    {
+      "word": "大勢",
+      "reading": "たいせい",
+      "meaning": "general situation"
+    },
+    {
+      "word": "人",
+      "reading": "ひと",
+      "meaning": "person"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "大人は赤子の心を失わず",
+      "reading": "たいじんはせきしのこころをうしなわず",
+      "meaning": "great human beings never lose the innocence of childhood",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "大人になったら何になりたい？",
+      "reading": null,
+      "english": "What do you want to be when you grow up?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

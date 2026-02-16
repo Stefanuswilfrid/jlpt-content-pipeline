@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "自分",
+    "reading": "じぶん",
+    "romaji": "jibun",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "diri saya sendiri",
+          "diri saya"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "I",
+          "me"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "自動車",
+      "reading": "じどうしゃ",
+      "meaning": "mobil"
+    },
+    {
+      "word": "半分",
+      "reading": "はんぶん",
+      "meaning": "setengah"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "sepeda"
+    },
+    {
+      "word": "多分",
+      "reading": "たぶん",
+      "meaning": "mungkin, barangkali, bisa jadi"
+    },
+    {
+      "word": "分かる",
+      "reading": "わかる",
+      "meaning": "untuk memahami"
+    },
+    {
+      "word": "自由",
+      "reading": "じゆう",
+      "meaning": "kebebasan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自分勝手",
+      "reading": "じぶんかって",
+      "meaning": "selfishness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自分の首を絞める",
+      "reading": "じぶんのくびをしめる",
+      "meaning": "to cut one's own throat",
+      "type": "idiom"
+    },
+    {
+      "word": "自分のことは棚に上げる",
+      "reading": "じぶんのことはたなにあげる",
+      "meaning": "to ignore one's own shortcomings",
+      "type": "idiom"
+    },
+    {
+      "word": "自分のことを棚に上げる",
+      "reading": "じぶんのことをたなにあげる",
+      "meaning": "to ignore one's own shortcomings",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

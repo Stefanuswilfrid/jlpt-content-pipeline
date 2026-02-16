@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "広い",
+    "reading": "ひろい",
+    "romaji": "hiroi",
+    "jlpt": "N5",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "spacious",
+          "vast",
+          "wide"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "背広",
+      "reading": "せびろ",
+      "meaning": "business suit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "顔が広い",
+      "reading": "かおがひろい",
+      "meaning": "well connected",
+      "type": "idiom"
+    },
+    {
+      "word": "世間は広いようで狭い",
+      "reading": "せけんはひろいようでせまい",
+      "meaning": "though it seems big, it's a small world",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海はとても広い。",
+      "reading": null,
+      "english": "The sea is very wide.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どのくらい広い？",
+      "reading": null,
+      "english": "How big?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どこへ行っても、親切で心の広い人々に出会いますよ。",
+      "reading": null,
+      "english": "Wherever you go, you will meet people who are kind and generous.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とても心が広いんですね。",
+      "reading": null,
+      "english": "That's very big of you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その川は広い。",
+      "reading": null,
+      "english": "The river is wide.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "その市には広い道が多い。",
+      "reading": null,
+      "english": "The city has many broad streets.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "definition": {
+    "word": "学校",
+    "reading": "がっこう",
+    "romaji": "gakkou",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "school"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "student (esp. a university student)"
+    },
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "university"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "overseas student"
+    },
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "primary school"
+    },
+    {
+      "word": "中学校",
+      "reading": "ちゅうがっこう",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "meaning": "medicine"
+    },
+    {
+      "word": "科学",
+      "reading": "かがく",
+      "meaning": "science"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaning": "literature"
+    },
+    {
+      "word": "校長",
+      "reading": "こうちょう",
+      "meaning": "principal"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "senior high school student"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学校まで１０分で歩いて行ける。",
+      "reading": null,
+      "english": "I can walk to school in 10 minutes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校には歩いて10分で行けます。",
+      "reading": null,
+      "english": "I can walk to school in 10 minutes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校へ行きたくない。",
+      "reading": null,
+      "english": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校行きたくない。",
+      "reading": null,
+      "english": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校にいきたくない。",
+      "reading": null,
+      "english": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "学校まで１０分で歩いて行ける。",
+      "reading": null,
+      "english": "I can walk to school in 10 minutes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校まで１０分で歩いて行ける。",
+      "reading": null,
+      "english": "I can walk to school in ten minutes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校へ行きたくない。",
+      "reading": null,
+      "english": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校へ行きたくない。",
+      "reading": null,
+      "english": "I don't want to go to school!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

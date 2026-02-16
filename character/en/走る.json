@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "走る",
+    "reading": "はしる",
+    "romaji": "hashiru",
+    "jlpt": "N5",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to run"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to run (of a vehicle)",
+          "to drive",
+          "to travel",
+          "to move",
+          "to sail"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to rush (to)",
+          "to dash",
+          "to race"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to retreat",
+          "to flee",
+          "to defect (to)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to run away",
+          "to abscond",
+          "to elope"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "非行に走る",
+      "reading": "ひこうにはしる",
+      "meaning": "to turn to delinquency",
+      "type": "idiom"
+    },
+    {
+      "word": "虫唾が走る",
+      "reading": "むしずがはしる",
+      "meaning": "to be disgusted",
+      "type": "idiom"
+    },
+    {
+      "word": "感情に走る",
+      "reading": "かんじょうにはしる",
+      "meaning": "to act on one's emotions",
+      "type": "idiom"
+    },
+    {
+      "word": "悪事千里を走る",
+      "reading": "あくじせんりをはしる",
+      "meaning": "bad news travels quickly",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "またいつか風のように走るんだ。",
+      "reading": null,
+      "english": "Someday I'll run like the wind.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "またいつか風のように走るんだ。",
+      "reading": null,
+      "english": "Someday I'll run like the wind.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

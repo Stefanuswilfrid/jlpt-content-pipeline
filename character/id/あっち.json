@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "彼方",
+    "reading": "あちら",
+    "romaji": "achira",
+    "jlpt": "N5",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "di sana"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that (one)"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that person"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "there",
+          "over there",
+          "foreign country (esp. a Western nation)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "彼ら",
+      "reading": "かれら",
+      "meaning": "mereka (biasanya laki-laki)"
+    },
+    {
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "pacar; dia"
+    },
+    {
+      "word": "彼",
+      "reading": "あれ",
+      "meaning": "dia, pacar"
+    },
+    {
+      "word": "彼",
+      "reading": "かれ",
+      "meaning": "dia, pacar"
+    },
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "sore menjelang malam (biasanya tepat sebelum waktu makan malam), malam hari"
+    },
+    {
+      "word": "方",
+      "reading": "かた",
+      "meaning": "samping"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "さあ、あっちへ行ってよ。",
+      "reading": null,
+      "indonesian": "Oh, off with you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こっちの本はあっちの本よりやさしい。",
+      "reading": null,
+      "indonesian": "These books are easier than those books.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こっちの本とあっちのだったら、どっちが読みやすいかな？",
+      "reading": null,
+      "indonesian": "Which is easier to read, this book or that one?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こっちの花の方が、あっちのよりきれいだね。",
+      "reading": null,
+      "indonesian": "This flower is more beautiful than that one.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あっちへ行きな、ぼうや。",
+      "reading": null,
+      "indonesian": "Out of my way, boy.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あっちの店も見てみよう。",
+      "reading": null,
+      "indonesian": "Let's check that shop, too.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

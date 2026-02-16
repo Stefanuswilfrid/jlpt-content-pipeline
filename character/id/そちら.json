@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "其方",
+    "reading": "そちら",
+    "romaji": "sochira",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "di sana"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "there"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that (one)"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you",
+          "your family",
+          "your company"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that person"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "sore menjelang malam (biasanya tepat sebelum waktu makan malam), malam hari"
+    },
+    {
+      "word": "方",
+      "reading": "かた",
+      "meaning": "samping"
+    },
+    {
+      "word": "方",
+      "reading": "ほう",
+      "meaning": "samping"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そちらの計画についてお話しください。",
+      "reading": null,
+      "indonesian": "Tell me about your plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そちらの天気はいかがですか。",
+      "reading": null,
+      "indonesian": "How's the weather there?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そちらへ電話させましょうか。",
+      "reading": null,
+      "indonesian": "Shall I have him call you?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そちらの天気はいかがですか。",
+      "reading": null,
+      "indonesian": "How is the weather there?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

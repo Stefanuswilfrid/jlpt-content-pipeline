@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "二つ",
+    "reading": "ふたつ",
+    "romaji": "futatsu",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "two"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "二",
+      "reading": "に",
+      "meaning": "two"
+    },
+    {
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "two persons"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "瓜二つ",
+      "reading": "うりふたつ",
+      "meaning": "exactly alike (in appearance)",
+      "type": "idiom"
+    },
+    {
+      "word": "人を呪わば穴二つ",
+      "reading": "ひとをのろわばあなふたつ",
+      "meaning": "curses come home to roost",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "同時に二つのことができないんだ。",
+      "reading": null,
+      "english": "I can't do two things at a time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

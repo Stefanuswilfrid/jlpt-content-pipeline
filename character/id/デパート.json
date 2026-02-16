@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "デパート",
+    "reading": "デパート",
+    "romaji": "depaato",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(singkatan) toko serba ada"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "department"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "疑惑のデパート",
+      "reading": "ぎわくのデパート",
+      "meaning": "person suspected of multiple wrongdoings",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "一番近いデパートはどこにありますか。",
+      "reading": null,
+      "indonesian": "Where's the nearest department store?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのデパートの前に書店がある。",
+      "reading": null,
+      "indonesian": "There is a bookstore in front of the department store.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

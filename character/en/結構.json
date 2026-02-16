@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "結構",
+    "reading": "けっこう",
+    "romaji": "kekkou",
+    "jlpt": "N5",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "splendid",
+          "nice",
+          "wonderful",
+          "delightful",
+          "lovely",
+          "excellent",
+          "fine"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "sufficient",
+          "satisfactory",
+          "enough",
+          "fine",
+          "all right",
+          "OK"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "not needing (any more of something)",
+          "(already) having enough",
+          "fine (as in \"I'm fine\")",
+          "no, thank you"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "rather",
+          "quite",
+          "fairly",
+          "pretty",
+          "surprisingly",
+          "quite a bit",
+          "fairly well"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "structure",
+          "construction",
+          "framework",
+          "architecture"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "結婚",
+      "reading": "けっこん",
+      "meaning": "marriage"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "日光を見ずして結構と言うなかれ",
+      "reading": "にっこうをみずしてけっこうというなかれ",
+      "meaning": "see Nikko and die",
+      "type": "proverb"
+    },
+    {
+      "word": "日光を見ない中は結構と言うな",
+      "reading": "にっこうをみないうちはけっこうというな",
+      "meaning": "see Nikko and die",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

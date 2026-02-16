@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "romaji": "maiasa",
+    "jlpt": "N5",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "every morning"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "朝",
+      "reading": "あさ",
+      "meaning": "morning"
+    },
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "every day"
+    },
+    {
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaning": "every year"
+    },
+    {
+      "word": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "every week"
+    },
+    {
+      "word": "毎月",
+      "reading": "まいつき",
+      "meaning": "every month"
+    },
+    {
+      "word": "毎晩",
+      "reading": "まいばん",
+      "meaning": "every night"
+    },
+    {
+      "word": "今朝",
+      "reading": "けさ",
+      "meaning": "this morning"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お父さんは毎朝新聞に目を通す。",
+      "reading": null,
+      "english": "My dad has a look at the newspaper every morning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "おじは毎朝ジョギングしていると言った。",
+      "reading": null,
+      "english": "My uncle said that he jogs every morning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

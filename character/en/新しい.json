@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "romaji": "atarashii",
+    "jlpt": "N5",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "new",
+          "novel",
+          "fresh",
+          "recent",
+          "latest",
+          "up-to-date",
+          "modern"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 4,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "新聞",
+      "reading": "しんぶん",
+      "meaning": "newspaper"
+    },
+    {
+      "word": "新聞社",
+      "reading": "しんぶんしゃ",
+      "meaning": "newspaper company"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "新しいページを加える",
+      "reading": "あたらしいページをくわえる",
+      "meaning": "to add a new page (e.g. to the annals of history)",
+      "type": "idiom"
+    },
+    {
+      "word": "新しいページをめくる",
+      "reading": "あたらしいページをめくる",
+      "meaning": "to turn the page",
+      "type": "idiom"
+    },
+    {
+      "word": "新しいページを開く",
+      "reading": "あたらしいページをひらく",
+      "meaning": "to begin a new chapter (in)",
+      "type": "idiom"
+    },
+    {
+      "word": "女房と畳は新しい方が良い",
+      "reading": "にょうぼうとたたみはあたらしいほうがいい",
+      "meaning": "wives and tatami mats are best when new",
+      "type": "proverb"
+    },
+    {
+      "word": "古い革袋に新しい酒を盛る",
+      "reading": "ふるいかわぶくろにあたらしいさけをもる",
+      "meaning": "to pour new wine into old wineskins",
+      "type": "idiom"
+    },
+    {
+      "word": "新しい酒は古い革袋に入れる",
+      "reading": "あたらしいさけはふるいかわぶくろにいれる",
+      "meaning": "to put new wine into old wineskins",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "新しいパソコンを買わねばなりません。",
+      "reading": null,
+      "english": "I have to get a new computer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "新しいパソコンを買わねばなりません。",
+      "reading": null,
+      "english": "I have to get a new computer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "新しいパソコンを買わねばなりません。",
+      "reading": null,
+      "english": "I have to buy a new computer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

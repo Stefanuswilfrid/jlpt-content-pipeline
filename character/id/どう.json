@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "動",
+    "reading": "どう",
+    "romaji": "dou",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bagaimana",
+          "dengan cara apa"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "自動車",
+      "reading": "じどうしゃ",
+      "meaning": "mobil"
+    },
+    {
+      "word": "動物",
+      "reading": "どうぶつ",
+      "meaning": "hewan"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "latihan"
+    },
+    {
+      "word": "動物園",
+      "reading": "どうぶつえん",
+      "meaning": "kebun binatang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一挙一動",
+      "reading": "いっきょいちどう",
+      "meaning": "one's every action",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "驚天動地",
+      "reading": "きょうてんどうち",
+      "meaning": "astounding",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "軽挙妄動",
+      "reading": "けいきょもうどう",
+      "meaning": "rash and blind act",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "直立不動",
+      "reading": "ちょくりつふどう",
+      "meaning": "standing at attention",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "行動半径",
+      "reading": "こうどうはんけい",
+      "meaning": "radius of action",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "確固不動",
+      "reading": "かっこふどう",
+      "meaning": "unshakeable (e.g. belief)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "陽動作戦",
+      "reading": "ようどうさくせん",
+      "meaning": "diversionary tactics",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "震天動地",
+      "reading": "しんてんどうち",
+      "meaning": "earth-shaking",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "教唆扇動",
+      "reading": "きょうさせんどう",
+      "meaning": "instigation and abetment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "大山鳴動",
+      "reading": "たいざんめいどう",
+      "meaning": "big fuss over nothing",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "どう答えたの？",
+      "reading": null,
+      "indonesian": "What did you answer?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "「どうかしたの？」と小さな白いウサギが聞きました。",
+      "reading": null,
+      "indonesian": "\"What's the matter?\" asked the little white rabbit.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「どうして行かないの？」「行きたくないからだよ」",
+      "reading": null,
+      "indonesian": "\"Why aren't you going?\" \"Because I don't want to.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうもありがとうございます！",
+      "reading": null,
+      "indonesian": "Thank you very much!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "知らないってどういうこと？！",
+      "reading": null,
+      "indonesian": "What do you mean you don't know?!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

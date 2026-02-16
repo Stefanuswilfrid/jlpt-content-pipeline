@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "romaji": "maishuu",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "every week"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "every day"
+    },
+    {
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaning": "every year"
+    },
+    {
+      "word": "毎月",
+      "reading": "まいつき",
+      "meaning": "every month"
+    },
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "this week"
+    },
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "last week"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "next week"
+    },
+    {
+      "word": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "every morning"
+    },
+    {
+      "word": "毎晩",
+      "reading": "まいばん",
+      "meaning": "every night"
+    },
+    {
+      "word": "再来週",
+      "reading": "さらいしゅう",
+      "meaning": "week after next"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ブルースカイスポーツ店は毎週木曜日がお休みです。",
+      "reading": null,
+      "english": "Blue Sky Sport is closed every Thursday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "クライン先生は毎週金曜日にテストを行う。",
+      "reading": null,
+      "english": "Miss Klein gives a test every Friday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎週日曜日の朝にします。",
+      "reading": null,
+      "english": "I do it every Sunday morning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

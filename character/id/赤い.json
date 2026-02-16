@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "赤い",
+    "reading": "あかい",
+    "romaji": "akai",
+    "jlpt": "N5",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "merah"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "Red",
+          "communist"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "赤",
+      "reading": "あか",
+      "meaning": "merah"
+    },
+    {
+      "word": "赤ん坊",
+      "reading": "あかんぼう",
+      "meaning": "Sayang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "隣の花は赤い",
+      "reading": "となりのはなはあかい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "人の花は赤い",
+      "reading": "ひとのはなはあかい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "赤い糸で結ばれる",
+      "reading": "あかいいとでむすばれる",
+      "meaning": "to be meant for each other (of a man and woman)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "顔が赤いよ。",
+      "reading": null,
+      "indonesian": "Your face is red.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "顔赤いよ。",
+      "reading": null,
+      "indonesian": "Your face is red.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "下の方に何か赤いものが見えますか。",
+      "reading": null,
+      "indonesian": "Can you see something red down below?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

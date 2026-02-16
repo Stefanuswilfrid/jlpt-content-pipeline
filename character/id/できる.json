@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "出来る",
+    "reading": "できる",
+    "romaji": "dekiru",
+    "jlpt": "N5",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "mampu (mencapai)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be good at",
+          "to do well",
+          "to be proficient (in)",
+          "to be capable"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come into existence",
+          "to form",
+          "to appear",
+          "to come up (of a matter)",
+          "to be born",
+          "to make (a friend)",
+          "to get (a girlfriend, free time, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be made",
+          "to be built",
+          "to be constructed",
+          "to be formed",
+          "to be established",
+          "to be set up"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be finished",
+          "to be completed",
+          "to be done",
+          "to be ready"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "muncul, pergi"
+    },
+    {
+      "word": "来る",
+      "reading": "くる",
+      "meaning": "untuk datang, untuk mendekat,"
+    },
+    {
+      "word": "出かける",
+      "reading": "でかける",
+      "meaning": "untuk keluar; untuk berangkat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "できるよ！",
+      "reading": null,
+      "indonesian": "You can do it.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "電話はどこでできる？",
+      "reading": null,
+      "indonesian": "Where can one make a phone call?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

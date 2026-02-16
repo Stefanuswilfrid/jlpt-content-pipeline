@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "七つ",
+    "reading": "ななつ",
+    "romaji": "nanatsu",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "tujuh hal"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "seven years of age"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "four o'clock (old time system)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "七",
+      "reading": "しち",
+      "meaning": "tujuh"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。",
+      "reading": null,
+      "indonesian": "One, two, three, four, five, six, seven, eight, nine, ten.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一つ、二つ、三つ、四つ、五つ、六つ、七つ、八つ、九つ、十。",
+      "reading": null,
+      "indonesian": "One, two, three, four, five, six, seven, eight, nine, ten.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

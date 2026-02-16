@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "返す",
+    "reading": "かえす",
+    "romaji": "kaesu",
+    "jlpt": "N5",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mengembalikan sesuatu"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to turn over",
+          "to turn upside down",
+          "to overturn"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pay back",
+          "to retaliate",
+          "to reciprocate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to respond (with)",
+          "to retort",
+          "to reply",
+          "to say back"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Godan verb with 'su' ending"
+        ],
+        "meanings": [
+          "to do ... back (e.g. speak back, throw back)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "恩を仇で返す",
+      "reading": "おんをあだでかえす",
+      "meaning": "to return evil for good",
+      "type": "idiom"
+    },
+    {
+      "word": "借りを返す",
+      "reading": "かりをかえす",
+      "meaning": "to pay back a debt",
+      "type": "idiom"
+    },
+    {
+      "word": "手のひらを返す",
+      "reading": "てのひらをかえす",
+      "meaning": "to flip-flop",
+      "type": "idiom"
+    },
+    {
+      "word": "歴史は繰り返す",
+      "reading": "れきしはくりかえす",
+      "meaning": "history repeats itself",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

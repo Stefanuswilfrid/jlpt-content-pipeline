@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "何方",
+    "reading": "どちら",
+    "romaji": "dochira",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "Yang mana",
+          "ke arah mana?"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "which one (esp. of two alternatives)"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "who"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何",
+      "reading": "なん",
+      "meaning": "Apa"
+    },
+    {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "Apa"
+    },
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "sore menjelang malam (biasanya tepat sebelum waktu makan malam), malam hari"
+    },
+    {
+      "word": "方",
+      "reading": "かた",
+      "meaning": "samping"
+    },
+    {
+      "word": "方",
+      "reading": "ほう",
+      "meaning": "samping"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どっちの方に行くとよいかな。",
+      "reading": null,
+      "indonesian": "Which way shall we go now?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

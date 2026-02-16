@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "仕事",
+    "reading": "しごと",
+    "romaji": "shigoto",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "pekerjaan",
+          "jabatan",
+          "profesi",
+          "penghasilan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "work"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "事故",
+      "reading": "じこ",
+      "meaning": "kecelakaan"
+    },
+    {
+      "word": "事務所",
+      "reading": "じむしょ",
+      "meaning": "kantor"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

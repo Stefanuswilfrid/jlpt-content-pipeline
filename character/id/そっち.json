@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "其方",
+    "reading": "そちら",
+    "romaji": "sochira",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "di sana"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "there"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that (one)"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you",
+          "your family",
+          "your company"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that person"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "sore menjelang malam (biasanya tepat sebelum waktu makan malam), malam hari"
+    },
+    {
+      "word": "方",
+      "reading": "かた",
+      "meaning": "samping"
+    },
+    {
+      "word": "方",
+      "reading": "ほう",
+      "meaning": "samping"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そっちの声がほとんど聞こえないの。",
+      "reading": null,
+      "indonesian": "I can hardly hear you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そっちへ行く前に電話するね。",
+      "reading": null,
+      "indonesian": "I'll give you a call before I visit you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "すぐにそっちに行くよ。",
+      "reading": null,
+      "indonesian": "I'll catch up with you soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そっちがその手でくるならこっちにも手がある。",
+      "reading": null,
+      "indonesian": "Two can play at that game.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そっちの天気は？",
+      "reading": null,
+      "indonesian": "How's the weather there?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "そっちの天気はどう？",
+      "reading": null,
+      "indonesian": "How's the weather there?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "そっちの生活はどうだい？",
+      "reading": null,
+      "indonesian": "How are things for you up there?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そっちの天気は？",
+      "reading": null,
+      "indonesian": "How is the weather there?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

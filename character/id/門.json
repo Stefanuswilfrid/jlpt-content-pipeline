@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "戸",
+    "reading": "と",
+    "romaji": "to",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gerbang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shutter",
+          "window shutter"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "門戸開放",
+      "reading": "もんこかいほう",
+      "meaning": "open door policy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "盗人上戸",
+      "reading": "ぬすびとじょうご",
+      "meaning": "person who likes alcohol and sweets equally well",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "江戸の敵を長崎で討つ",
+      "reading": "えどのかたきをながさきでうつ",
+      "meaning": "to hit someone where they least expect it",
+      "type": "idiom"
+    },
+    {
+      "word": "火事と喧嘩は江戸の華",
+      "reading": "かじとけんかはえどのはな",
+      "meaning": "fires and fistfights are the flowers of Edo",
+      "type": "proverb"
+    },
+    {
+      "word": "背戸の馬も相口",
+      "reading": "せどのうまもあいくち",
+      "meaning": "even an unruly horse can be tamed",
+      "type": "proverb"
+    },
+    {
+      "word": "下戸の建てた蔵はない",
+      "reading": "げこのたてたくらはない",
+      "meaning": "don't act all high and mighty just because you don't drink",
+      "type": "proverb"
+    },
+    {
+      "word": "下戸と化け物はない",
+      "reading": "げことばけものはない",
+      "meaning": "everyone drinks at least a little bit",
+      "type": "proverb"
+    },
+    {
+      "word": "人の口には戸が立てられない",
+      "reading": "ひとのくちにはとがたてられない",
+      "meaning": "you can't control what people say",
+      "type": "proverb"
+    },
+    {
+      "word": "人の口に戸は立てられず",
+      "reading": "ひとのくちにとはたてられず",
+      "meaning": "people will talk",
+      "type": "idiom"
+    },
+    {
+      "word": "世間の口に戸は立てられぬ",
+      "reading": "せけんのくちにとはたてられぬ",
+      "meaning": "people will talk",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "タクシーが正門のところへきて止まった。",
+      "reading": null,
+      "indonesian": "A taxi drew up at the main gate.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

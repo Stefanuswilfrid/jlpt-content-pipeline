@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "付ける",
+    "reading": "つける",
+    "romaji": "tsukeru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menyalakan (misalnya",
+          "lampu); mengambil"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to furnish (a house with)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to wear",
+          "to put on"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to keep a diary",
+          "to make an entry"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to appraise",
+          "to set (a price)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "meja resepsionis"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "メリハリを付ける",
+      "reading": "メリハリをつける",
+      "meaning": "to add balance (to one's work, life, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もっと気をつけるべきだったね。",
+      "reading": null,
+      "indonesian": "You ought to have been more careful.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もっと気をつけるべきだったね。",
+      "reading": null,
+      "indonesian": "You should have been more careful.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

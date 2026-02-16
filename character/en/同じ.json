@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "同じ",
+    "reading": "おなじ",
+    "romaji": "onaji",
+    "jlpt": "N5",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "noun or verb acting prenominally",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "same",
+          "identical",
+          "equal",
+          "alike",
+          "equivalent"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "anyway",
+          "in any case",
+          "if one must ...",
+          "if one has to ...",
+          "as long as ..."
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "同じ穴の狸",
+      "reading": "おなじあなのたぬき",
+      "meaning": "(villains) of the same stripe",
+      "type": "idiom"
+    },
+    {
+      "word": "同じ穴の狐",
+      "reading": "おなじあなのきつね",
+      "meaning": "(villains) of the same stripe",
+      "type": "idiom"
+    },
+    {
+      "word": "同じ穴のムジナ",
+      "reading": "おなじあなのむじな",
+      "meaning": "(villains) of the same stripe",
+      "type": "idiom"
+    },
+    {
+      "word": "同じ釜の飯を食う",
+      "reading": "おなじかまのめしをくう",
+      "meaning": "to live together",
+      "type": "idiom"
+    },
+    {
+      "word": "男女七歳にして席を同じゅうせず",
+      "reading": "だんじょななさいにしてせきをおなじゅうせず",
+      "meaning": "after age 7, boys and girls should be kept apart",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それらはみんな同じかい？",
+      "reading": null,
+      "english": "Are they all the same?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それらはみんな同じかい？",
+      "reading": null,
+      "english": "Are they all the same?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

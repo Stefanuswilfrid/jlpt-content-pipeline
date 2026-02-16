@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "嫌",
+    "reading": "いや",
+    "romaji": "iya",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "tidak menyenangkan",
+          "menjijikkan",
+          "tidak enak"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "unpleasant",
+          "disagreeable",
+          "nasty",
+          "horrible",
+          "disgusting",
+          "undesirable",
+          "unwelcome"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "no!",
+          "quit it!",
+          "stop!"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "自己嫌悪",
+      "reading": "じこけんお",
+      "meaning": "self-hatred",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "畏怖嫌厭",
+      "reading": "いふけんえん",
+      "meaning": "feelings of dread and aversion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "機嫌気褄",
+      "reading": "きげんきづま",
+      "meaning": "humour",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "屠蘇機嫌",
+      "reading": "とそきげん",
+      "meaning": "feeling a little drunk with the New Year's sake",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "出物腫れ物所嫌わず",
+      "reading": "でものはれものところきらわず",
+      "meaning": "when you've got to go, you've got to go",
+      "type": "proverb"
+    },
+    {
+      "word": "嫌よ嫌よも好きのうち",
+      "reading": "いやよいやよもすきのうち",
+      "meaning": "saying no is also an expression of fondness",
+      "type": "proverb"
+    },
+    {
+      "word": "出すことは舌を出すも嫌い",
+      "reading": "だすことはしたをだすもきらい",
+      "meaning": "being exceptionally stingy",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

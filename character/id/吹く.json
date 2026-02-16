@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "吹く",
+    "reading": "ふく",
+    "romaji": "fuku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "meniup (angin",
+          "dll.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to blow (one's breath)",
+          "to breathe out",
+          "to blow on (hot tea, candles, etc.)",
+          "to puff"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to play (a wind instrument)",
+          "to blow (a whistle, trumpet, etc.)",
+          "to whistle (a tune)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to emit (smoke, fire, etc.)",
+          "to spout",
+          "to spew",
+          "to puff out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to sprout",
+          "to put forth (buds)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "大ぼらを吹く",
+      "reading": "おおぼらをふく",
+      "meaning": "to talk through one's hat",
+      "type": "idiom"
+    },
+    {
+      "word": "潮を吹く",
+      "reading": "しおをふく",
+      "meaning": "to spout (of a whale)",
+      "type": "expression"
+    },
+    {
+      "word": "羹に懲りて膾を吹く",
+      "reading": "あつものにこりてなますをふく",
+      "meaning": "a burnt child dreads the fire",
+      "type": "proverb"
+    },
+    {
+      "word": "明日は明日の風が吹く",
+      "reading": "あしたはあしたのかぜがふく",
+      "meaning": "tomorrow will take care of itself",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "遣る",
+    "reading": "やる",
+    "romaji": "yaru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "melakukan; memberi (kepada hewan peliharaan",
+          "orang tua",
+          "saudara kandung",
+          "dll.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to send",
+          "to dispatch",
+          "to despatch"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put",
+          "to move",
+          "to turn (one's head, glance, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to give (esp. to someone of equal or lower status)",
+          "to let have",
+          "to present",
+          "to bestow",
+          "to confer"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make (a vehicle) go faster"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "使う",
+      "reading": "つかう",
+      "meaning": "untuk digunakan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "こらしめてやる。",
+      "reading": null,
+      "indonesian": "I'm gonna shoot him.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "考えていることを聞くな。やることを聞け。",
+      "reading": null,
+      "indonesian": "Don't ask what they think. Ask what they do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こらしめてやる。",
+      "reading": null,
+      "indonesian": "I'm gonna shoot him.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "考えていることを聞くな。やることを聞け。",
+      "reading": null,
+      "indonesian": "Don't ask what they think. Ask what they do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

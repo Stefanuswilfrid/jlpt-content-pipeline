@@ -1,0 +1,43 @@
+{
+  "definition": {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "romaji": "shukudai",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pekerjaan rumah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pending issue",
+          "unresolved problem",
+          "open question"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "sebuah masalah"
+    },
+    {
+      "word": "下宿",
+      "reading": "げしゅく",
+      "meaning": "penginapan, rumah kos"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

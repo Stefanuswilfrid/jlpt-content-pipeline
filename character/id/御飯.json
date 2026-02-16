@@ -1,0 +1,41 @@
+{
+  "definition": {
+    "word": "ご飯",
+    "reading": "ごはん",
+    "romaji": "gohan",
+    "jlpt": "N5",
+    "frequency": 23250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nasi (matang); makanan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夕飯",
+      "reading": "ゆうはん",
+      "meaning": "makan malam, makan larut malam, santapan malam"
+    },
+    {
+      "word": "晩御飯",
+      "reading": "ばんごはん",
+      "meaning": "makan malam, santapan malam"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "もしもし",
+    "reading": "もしもし",
+    "romaji": "moshimoshi",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "Halo? (digunakan di telepon)"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "excuse me! (when calling out to someone)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もしもし。小川ですが。",
+      "reading": null,
+      "indonesian": "Hello. This is Ogawa speaking.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もしもし、来ていますか。",
+      "reading": null,
+      "indonesian": "Are you there?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もしもし、こちらはマイクです。",
+      "reading": null,
+      "indonesian": "Hello, this is Mike.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "待つ",
+    "reading": "まつ",
+    "romaji": "matsu",
+    "jlpt": "N5",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menunggu"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to await",
+          "to look forward to",
+          "to anticipate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to depend on",
+          "to need"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "招待",
+      "reading": "しょうたい",
+      "meaning": "undangan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "待つ身は長い",
+      "reading": "まつみはながい",
+      "meaning": "a watched pot never boils",
+      "type": "proverb"
+    },
+    {
+      "word": "首を洗って待つ",
+      "reading": "くびをあらってまつ",
+      "meaning": "to wait for one's punishment",
+      "type": "idiom"
+    },
+    {
+      "word": "人事を尽くして天命を待つ",
+      "reading": "じんじをつくしててんめいをまつ",
+      "meaning": "man proposes, God disposes",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

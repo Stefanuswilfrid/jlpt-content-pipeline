@@ -1,0 +1,117 @@
+{
+  "definition": {
+    "word": "上手",
+    "reading": "じょうず",
+    "romaji": "jouzu",
+    "jlpt": "N5",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mahir dalam hal",
+          "terampil"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flattery"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "切手",
+      "reading": "きって",
+      "meaning": "prangko pos"
+    },
+    {
+      "word": "上",
+      "reading": "うえ",
+      "meaning": "volume pertama; kualitas unggul; pemerintah"
+    },
+    {
+      "word": "上",
+      "reading": "かみ",
+      "meaning": "volume pertama; kualitas unggul; pemerintah"
+    },
+    {
+      "word": "上",
+      "reading": "じょう",
+      "meaning": "volume pertama; kualitas unggul; pemerintah"
+    },
+    {
+      "word": "お手洗い",
+      "reading": "おてあらい",
+      "meaning": "toilet, kamar kecil, kamar mandi (secara harfiah, tempat untuk mencuci tangan)"
+    },
+    {
+      "word": "下手",
+      "reading": "したて",
+      "meaning": "tidak terampil, miskin"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "tidak terampil, miskin"
+    },
+    {
+      "word": "上着",
+      "reading": "うわぎ",
+      "meaning": "mantel, jaket"
+    },
+    {
+      "word": "手",
+      "reading": "て",
+      "meaning": "tangan"
+    },
+    {
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "surat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "上手を行く",
+      "reading": "うわてをいく",
+      "meaning": "to have the upper hand",
+      "type": "idiom"
+    },
+    {
+      "word": "話し上手は聞き上手",
+      "reading": "はなしじょうずはききじょうず",
+      "meaning": "good talkers make good listeners",
+      "type": "proverb"
+    },
+    {
+      "word": "好きこそものの上手なれ",
+      "reading": "すきこそもののじょうずなれ",
+      "meaning": "what one likes, one will do well",
+      "type": "proverb"
+    },
+    {
+      "word": "上手の手から水が漏れる",
+      "reading": "じょうずのてからみずがもれる",
+      "meaning": "even Homer nods",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "外国語を上手に話すには時間がかかる。",
+      "reading": null,
+      "indonesian": "To speak a foreign language well takes time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

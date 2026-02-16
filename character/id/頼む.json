@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "頼む",
+    "reading": "たのむ",
+    "romaji": "tanomu",
+    "jlpt": "N5",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "meminta",
+          "memohon (bantuan)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to call",
+          "to order",
+          "to reserve"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to entrust to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to rely on"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "please",
+          "please do",
+          "help me out here"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "杖とも柱とも頼む",
+      "reading": "つえともはしらともたのむ",
+      "meaning": "to count on someone as the only support",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

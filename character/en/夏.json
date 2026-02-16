@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "夏",
+    "reading": "なつ",
+    "romaji": "natsu",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "summer"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夏休み",
+      "reading": "なつやすみ",
+      "meaning": "summer vacation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "春夏秋冬",
+      "reading": "しゅんかしゅうとう",
+      "meaning": "spring, summer, autumn (fall) and winter",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "夏炉冬扇",
+      "reading": "かろとうせん",
+      "meaning": "summer fires and winter fans",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "飛んで火に入る夏の虫",
+      "reading": "とんでひにいるなつのむし",
+      "meaning": "rushing to one's doom",
+      "type": "idiom"
+    },
+    {
+      "word": "戴くものは夏も小袖",
+      "reading": "いただくものはなつもこそで",
+      "meaning": "taking whatever one can get one's hands on",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

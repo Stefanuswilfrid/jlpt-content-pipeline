@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "朝",
+    "reading": "あさ",
+    "romaji": "asa",
+    "jlpt": "N5",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "morning"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "breakfast"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "every morning"
+    },
+    {
+      "word": "今朝",
+      "reading": "けさ",
+      "meaning": "this morning"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一朝一夕",
+      "reading": "いっちょういっせき",
+      "meaning": "in a day",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "朝令暮改",
+      "reading": "ちょうれいぼかい",
+      "meaning": "an unsettled course of action",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "朝三暮四",
+      "reading": "ちょうさんぼし",
+      "meaning": "being preoccupied with immediate (superficial) differences without realizing that there are no differences in substance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "朝々暮々",
+      "reading": "ちょうちょうぼぼ",
+      "meaning": "every morning and evening",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "槿花一朝",
+      "reading": "きんかいっちょう",
+      "meaning": "evanescent glory",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "人生朝露",
+      "reading": "じんせいちょうろ",
+      "meaning": "man's life vanishes like a dew",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "朝雲暮雨",
+      "reading": "ちょううんぼう",
+      "meaning": "sexual liaison",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "電光朝露",
+      "reading": "でんこうちょうろ",
+      "meaning": "fleeting",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "朝マラ",
+      "reading": "あさマラ",
+      "meaning": "morning wood",
+      "type": "expression"
+    },
+    {
+      "word": "朝起きは三文の徳",
+      "reading": "あさおきはさんもんのとく",
+      "meaning": "the early bird catches the worm",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "一朝一夕にはできない。",
+      "reading": null,
+      "english": "Rome wasn't built in a day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今朝テレビを見ました。",
+      "reading": null,
+      "english": "I watched TV this morning.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "朝の5時だというのに明るい。",
+      "reading": null,
+      "english": "It's just five in the morning, but nevertheless it is light out.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今朝テレビを見ました。",
+      "reading": null,
+      "english": "I watched TV this morning.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

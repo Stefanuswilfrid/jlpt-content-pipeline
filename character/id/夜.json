@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "夜",
+    "reading": "よる",
+    "romaji": "yoru",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sore",
+          "malam"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dinner"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "昨夜",
+      "reading": "ゆうべ",
+      "meaning": "tadi malam"
+    },
+    {
+      "word": "今夜",
+      "reading": "こんや",
+      "meaning": "malam ini, dini hari"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "昼夜兼行",
+      "reading": "ちゅうやけんこう",
+      "meaning": "around-the-clock",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "白河夜船",
+      "reading": "しらかわよふね",
+      "meaning": "being fast asleep (and totally unaware of what is going on around one)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "夜郎自大",
+      "reading": "やろうじだい",
+      "meaning": "throwing one's weight around without knowing one's limitations",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "連日連夜",
+      "reading": "れんじつれんや",
+      "meaning": "every day and every night",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百鬼夜行",
+      "reading": "ひゃっきやぎょう",
+      "meaning": "nightly procession of monsters, spirits, etc.",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "夜の帳",
+      "reading": "よるのとばり",
+      "meaning": "veil of darkness",
+      "type": "idiom"
+    },
+    {
+      "word": "夜目遠目",
+      "reading": "よめとおめ",
+      "meaning": "seen in the dark or at a distance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "如法暗夜",
+      "reading": "にょほうあんや",
+      "meaning": "total (utter) darkness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無明長夜",
+      "reading": "むみょうじょうや",
+      "meaning": "the long night of spiritual darkness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "闇夜の烏",
+      "reading": "やみよのからす",
+      "meaning": "something indistinct",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "今夜教会に行くよ。",
+      "reading": null,
+      "indonesian": "Tonight we're going to church.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今夜教会に行くよ。",
+      "reading": null,
+      "indonesian": "Tonight we're going to church.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今夜教会に行くよ。",
+      "reading": null,
+      "indonesian": "We'll go to church this evening.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今夜教会に行くよ。",
+      "reading": null,
+      "indonesian": "I'm going to church tonight.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

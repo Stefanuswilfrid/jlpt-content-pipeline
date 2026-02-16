@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "romaji": "densha",
+    "jlpt": "N5",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kereta listrik"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "telepon"
+    },
+    {
+      "word": "自動車",
+      "reading": "じどうしゃ",
+      "meaning": "mobil"
+    },
+    {
+      "word": "車",
+      "reading": "くるま",
+      "meaning": "mobil, kendaraan"
+    },
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "listrik, lampu (listrik)"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "sepeda"
+    },
+    {
+      "word": "駐車場",
+      "reading": "ちゅうしゃじょう",
+      "meaning": "tempat parkir"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "電車に間に合わなくなるよ。",
+      "reading": null,
+      "indonesian": "You will not be able to catch the train.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

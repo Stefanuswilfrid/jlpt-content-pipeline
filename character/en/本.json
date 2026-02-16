@@ -1,0 +1,179 @@
+{
+  "definition": {
+    "word": "元",
+    "reading": "もと",
+    "romaji": "moto",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "origin",
+          "source",
+          "beginning"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "basis",
+          "base",
+          "foundation",
+          "root"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cause"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(raw) material",
+          "ingredient",
+          "base",
+          "mix (e.g. for a cake)",
+          "(soup) stock"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(one's) side"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "lively"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一新紀元",
+      "reading": "いっしんきげん",
+      "meaning": "new era",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "本家本元",
+      "reading": "ほんけほんもと",
+      "meaning": "original home",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鼻元思案",
+      "reading": "はなもとじあん",
+      "meaning": "superficial (shortsighted) way of thinking",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "足元を見る",
+      "reading": "あしもとをみる",
+      "meaning": "to take advantage (e.g. of a weak situation)",
+      "type": "idiom"
+    },
+    {
+      "word": "元気はつらつ",
+      "reading": "げんきはつらつ",
+      "meaning": "full of energy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一世一元",
+      "reading": "いっせいいちげん",
+      "meaning": "the practice of assigning one era name to one emperor",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "元も子もない",
+      "reading": "もともこもない",
+      "meaning": "losing everything",
+      "type": "idiom"
+    },
+    {
+      "word": "喉元思案",
+      "reading": "のどもとじあん",
+      "meaning": "superficial way of thinking",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "口は災いの元",
+      "reading": "くちはわざわいのもと",
+      "meaning": "words can lead to disaster",
+      "type": "proverb"
+    },
+    {
+      "word": "元が取れる",
+      "reading": "もとがとれる",
+      "meaning": "to recover (one's) costs",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "本当？",
+      "reading": null,
+      "english": "Are you sure?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "本気？",
+      "reading": null,
+      "english": "Are you sure?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "日本へ行けたらいいのに。",
+      "reading": null,
+      "english": "I wish I could go to Japan.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "日本人ならそんなことはけっしてしないでしょう。",
+      "reading": null,
+      "english": "A Japanese would never do such a thing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "本当にありがとう。",
+      "reading": null,
+      "english": "Thank you very much!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "本当にありがとう！",
+      "reading": null,
+      "english": "Thank you very much!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

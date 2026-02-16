@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "手紙",
+    "reading": "てがみ",
+    "romaji": "tegami",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "letter",
+          "note"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手",
+      "reading": "て",
+      "meaning": "hand"
+    },
+    {
+      "word": "紙",
+      "reading": "かみ",
+      "meaning": "paper"
+    },
+    {
+      "word": "切手",
+      "reading": "きって",
+      "meaning": "stamp (postage)"
+    },
+    {
+      "word": "お手洗い",
+      "reading": "おてあらい",
+      "meaning": "toilet"
+    },
+    {
+      "word": "下手",
+      "reading": "したて",
+      "meaning": "humble position"
+    },
+    {
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "skillful"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "unskillful"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "driver"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "手紙を書いていますか。",
+      "reading": null,
+      "english": "Are you writing a letter?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "手紙を書いてるんですか？",
+      "reading": null,
+      "english": "Are you writing a letter?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "北",
+    "reading": "きた",
+    "romaji": "kita",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "utara"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the North",
+          "northern territories"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "North Korea"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "東西南北",
+      "reading": "とうざいなんぼく",
+      "meaning": "east, west, south and north",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "南征北伐",
+      "reading": "なんせいほくばつ",
+      "meaning": "attacking in all directions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "南船北馬",
+      "reading": "なんせんほくば",
+      "meaning": "constant travelling",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "北斗七星",
+      "reading": "ほくとしちせい",
+      "meaning": "the Big Dipper (asterism)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "泰山北斗",
+      "reading": "たいざんほくと",
+      "meaning": "great authority",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "花子さんは父に会うために、はるばる北海道からやって来た。",
+      "reading": null,
+      "indonesian": "Hanako came all the way from Hokkaido in order to see her father.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "みどりはその時北海道でスキーをしていましたか。",
+      "reading": null,
+      "indonesian": "Was Midori skiing in Hokkaido then?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

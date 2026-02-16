@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "１月",
+    "reading": "いちがつ",
+    "romaji": "ichigatsu",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "satu bulan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "first month of the lunar calendar"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "bulan ini"
+    },
+    {
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "bulan lalu"
+    },
+    {
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "bulan depan"
+    },
+    {
+      "word": "毎月",
+      "reading": "まいつき",
+      "meaning": "setiap bulan, bulanan"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "Senin"
+    },
+    {
+      "word": "正月",
+      "reading": "しょうがつ",
+      "meaning": "Tahun Baru, Hari Tahun Baru"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一月は年の一番目の月です。",
+      "reading": null,
+      "indonesian": "January is the first month of the year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "サムは一月にスキーに行った。",
+      "reading": null,
+      "indonesian": "Sam went skiing in January.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一月は年の一番目の月です。",
+      "reading": null,
+      "indonesian": "January is the first month of the year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "サムは一月にスキーに行った。",
+      "reading": null,
+      "indonesian": "Sam went skiing in January.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "definition": {
+    "word": "後",
+    "reading": "あと",
+    "romaji": "ato",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "setelah itu",
+          "sejak saat itu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "after",
+          "later"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "remainder",
+          "the rest"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "more (e.g. five more minutes)",
+          "left"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "also",
+          "in addition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "sore hari, PM"
+    },
+    {
+      "word": "明後日",
+      "reading": "あさって",
+      "meaning": "besok lusa"
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "terakhir, akhir"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "後生大事",
+      "reading": "ごしょうだいじ",
+      "meaning": "with religious zeal",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "後の祭り",
+      "reading": "あとのまつり",
+      "meaning": "a day after the fair",
+      "type": "idiom"
+    },
+    {
+      "word": "空前絶後",
+      "reading": "くうぜんぜつご",
+      "meaning": "(so marvelous or horrible that it may be) the first and probably the last",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "事後承諾",
+      "reading": "じごしょうだく",
+      "meaning": "ex-post-facto approval",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "前後不覚",
+      "reading": "ぜんごふかく",
+      "meaning": "unconsciousness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "最後通牒",
+      "reading": "さいごつうちょう",
+      "meaning": "ultimatum",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "死して後已む",
+      "reading": "ししてのちやむ",
+      "meaning": "duty ends only in death",
+      "type": "proverb"
+    },
+    {
+      "word": "後釜に座る",
+      "reading": "あとがまにすわる",
+      "meaning": "to succeed to someone's post",
+      "type": "idiom"
+    },
+    {
+      "word": "鶏口牛後",
+      "reading": "けいこうぎゅうご",
+      "meaning": "better to be the beak of a rooster than the rump of a bull",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "先憂後楽",
+      "reading": "せんゆうこうらく",
+      "meaning": "worrying before one's people worry, enjoying oneself only after one's people have enjoyed themselves (a precept to be observed by a ruler)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "また後でかけ直していただけませんか？",
+      "reading": null,
+      "indonesian": "Could you call again later, please?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

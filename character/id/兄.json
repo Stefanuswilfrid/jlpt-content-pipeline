@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "兄",
+    "reading": "あに",
+    "romaji": "ani",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(kakak laki-laki) saya (rendah hati)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "brother-in-law (spouse's older brother or older sister's husband)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "兄弟",
+      "reading": "きょうだい",
+      "meaning": "saudara kandung (rendah hati), saudara laki-laki dan perempuan"
+    },
+    {
+      "word": "お兄さん",
+      "reading": "おにいさん",
+      "meaning": "Kakak laki-laki (orang lain) (formal)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "四海兄弟",
+      "reading": "しかいけいてい",
+      "meaning": "people in the whole world being all brothers",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "穴兄弟",
+      "reading": "あなきょうだい",
+      "meaning": "men who have had sex with the same woman",
+      "type": "expression"
+    },
+    {
+      "word": "兄たり難く弟たり難し",
+      "reading": "けいたりがたくていたりがたし",
+      "meaning": "both people are superb in skill (and thus it is hard to rank them)",
+      "type": "idiom"
+    },
+    {
+      "word": "兄弟は他人の始まり",
+      "reading": "きょうだいはたにんのはじまり",
+      "meaning": "even siblings turn into strangers",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "indonesian": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "indonesian": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「兄弟はいますか？」「いいえ、一人っ子です」",
+      "reading": null,
+      "indonesian": "\"Do you have any siblings?\" \"No, I'm an only child.\"",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お前と兄ちゃんの見分けがつかないよ。",
+      "reading": null,
+      "indonesian": "It is hard to distinguish you from your brother.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "服",
+    "reading": "ふく",
+    "romaji": "fuku",
+    "jlpt": "N5",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "clothes (esp. Western clothes)",
+          "clothing",
+          "dress",
+          "costume",
+          "suit",
+          "outfit"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for doses of medicine, gulps of tea, puffs of a cigarette, etc."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "洋服",
+      "reading": "ようふく",
+      "meaning": "Western-style clothes (cf. traditional Japanese clothes)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "拳々服膺",
+      "reading": "けんけんふくよう",
+      "meaning": "firmly bear in mind",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "服を着る",
+      "reading": "ふくをきる",
+      "meaning": "to put on clothes",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

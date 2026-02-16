@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "風邪",
+    "reading": "かぜ",
+    "romaji": "kaze",
+    "jlpt": "N5",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(common) cold",
+          "influenza",
+          "flu",
+          "ague",
+          "inflammatory respiratory system illness (in general)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "風",
+      "reading": "かぜ",
+      "meaning": "wind"
+    },
+    {
+      "word": "風",
+      "reading": "ふう",
+      "meaning": "method"
+    },
+    {
+      "word": "お風呂",
+      "reading": "おふろ",
+      "meaning": "bath"
+    },
+    {
+      "word": "台風",
+      "reading": "たいふう",
+      "meaning": "typhoon"
+    },
+    {
+      "word": "邪魔",
+      "reading": "じゃま",
+      "meaning": "hindrance"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "馬鹿は風邪を引かない",
+      "reading": "ばかはかぜをひかない",
+      "meaning": "stupid people don't catch colds",
+      "type": "proverb"
+    },
+    {
+      "word": "風邪は万病の元",
+      "reading": "かぜはまんびょうのもと",
+      "meaning": "a cold can lead to all sorts of illnesses",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

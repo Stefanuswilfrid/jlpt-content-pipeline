@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "元気",
+    "reading": "げんき",
+    "romaji": "genki",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lively",
+          "full of spirit",
+          "energetic",
+          "vigorous",
+          "vital",
+          "spirited"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "healthy",
+          "well",
+          "fit",
+          "in good health"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "electricity"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "illness (usu. excluding minor ailments, e.g. common cold)"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "weather"
+    },
+    {
+      "word": "気",
+      "reading": "き",
+      "meaning": "spirit"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "feeling"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "feeling"
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "air"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "元気はつらつ",
+      "reading": "げんきはつらつ",
+      "meaning": "full of energy",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "元気でね！",
+      "reading": null,
+      "english": "Take care.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

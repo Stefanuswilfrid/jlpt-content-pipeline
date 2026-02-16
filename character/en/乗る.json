@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "乗る",
+    "reading": "のる",
+    "romaji": "noru",
+    "jlpt": "N5",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get on (train, plane, bus, ship, etc.)",
+          "to get in",
+          "to board",
+          "to take",
+          "to embark"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get on (e.g. a footstool)",
+          "to step on",
+          "to jump on",
+          "to sit on",
+          "to mount"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to reach",
+          "to go over",
+          "to pass"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to follow",
+          "to stay (on track)",
+          "to go with (the times, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to take part",
+          "to participate",
+          "to join"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "図に乗る",
+      "reading": "ずにのる",
+      "meaning": "to get carried away",
+      "type": "idiom"
+    },
+    {
+      "word": "尻馬に乗る",
+      "reading": "しりうまにのる",
+      "meaning": "to follow suit",
+      "type": "idiom"
+    },
+    {
+      "word": "手に乗る",
+      "reading": "てにのる",
+      "meaning": "to fall for a trick",
+      "type": "idiom"
+    },
+    {
+      "word": "波に乗る",
+      "reading": "なみにのる",
+      "meaning": "to go with the flow",
+      "type": "idiom"
+    },
+    {
+      "word": "大船に乗る",
+      "reading": "おおぶねにのる",
+      "meaning": "to gain a reliable foundation and be in a safe condition",
+      "type": "idiom"
+    },
+    {
+      "word": "勝ち馬に乗る",
+      "reading": "かちうまにのる",
+      "meaning": "to side with the winner",
+      "type": "idiom"
+    },
+    {
+      "word": "馬に乗るまでは牛に乗れ",
+      "reading": "うまにのるまではうしにのれ",
+      "meaning": "learn to crawl before you learn to walk",
+      "type": "proverb"
+    },
+    {
+      "word": "女氏無くして玉の輿に乗る",
+      "reading": "おんなうじなくしてたまのこしにのる",
+      "meaning": "even a woman of low birth can gain status by marrying rich (if she has the looks)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

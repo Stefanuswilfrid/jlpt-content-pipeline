@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "咲く",
+    "reading": "さく",
+    "romaji": "saku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk mekar"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "笑う",
+      "reading": "わらう",
+      "meaning": "tertawa, tersenyum"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "桜咲く",
+      "reading": "さくらさく",
+      "meaning": "to pass an exam",
+      "type": "idiom"
+    },
+    {
+      "word": "花が咲く",
+      "reading": "はながさく",
+      "meaning": "to bloom",
+      "type": "idiom"
+    },
+    {
+      "word": "炒り豆に花が咲く",
+      "reading": "いりまめにはながさく",
+      "meaning": "to come alive (once again)",
+      "type": "idiom"
+    },
+    {
+      "word": "死んで花実が咲くものか",
+      "reading": "しんではなみがさくものか",
+      "meaning": "once you're dead, that's it",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

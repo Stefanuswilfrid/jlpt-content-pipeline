@@ -1,0 +1,152 @@
+{
+  "definition": {
+    "word": "来る",
+    "reading": "くる",
+    "romaji": "kuru",
+    "jlpt": "N5",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Kuru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk datang",
+          "untuk mendekat",
+          ""
+        ]
+      },
+      {
+        "pos": [
+          "Kuru verb - special class",
+          "intransitive verb",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to come back",
+          "to do ... and come back"
+        ]
+      },
+      {
+        "pos": [
+          "Kuru verb - special class",
+          "intransitive verb",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to come to be",
+          "to become",
+          "to get",
+          "to grow",
+          "to continue"
+        ]
+      },
+      {
+        "pos": [
+          "Kuru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come from",
+          "to be caused by",
+          "to derive from"
+        ]
+      },
+      {
+        "pos": [
+          "Kuru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come to (e.g. \"when it comes to spinach ...\")"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "来る者拒まず",
+      "reading": "くるものこばまず",
+      "meaning": "accept one who comes to you",
+      "type": "proverb"
+    },
+    {
+      "word": "トサカに来る",
+      "reading": "とさかにくる",
+      "meaning": "to get mad",
+      "type": "idiom"
+    },
+    {
+      "word": "お釣りが来る",
+      "reading": "おつりがくる",
+      "meaning": "to get change back",
+      "type": "idiom"
+    },
+    {
+      "word": "鴨が葱を背負って来る",
+      "reading": "かもがねぎをしょってくる",
+      "meaning": "along comes a sucker just begging to be parted from his money",
+      "type": "idiom"
+    },
+    {
+      "word": "笑う門には福来る",
+      "reading": "わらうかどにはふくきたる",
+      "meaning": "laugh and grow fat",
+      "type": "proverb"
+    },
+    {
+      "word": "来る者は拒まず",
+      "reading": "くるものはこばまず",
+      "meaning": "turn away no one",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "したいことが出来なければ出来ることをしなさい。",
+      "reading": null,
+      "indonesian": "When you can't do what you want, you do what you can.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ごめん。出来るとは思えないよ。",
+      "reading": null,
+      "indonesian": "Sorry, I don't think I'm gonna be able to.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "したいことが出来なければ出来ることをしなさい。",
+      "reading": null,
+      "indonesian": "When you can't do what you want, you do what you can.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ごめん。出来るとは思えないよ。",
+      "reading": null,
+      "indonesian": "Sorry, I don't think I'm gonna be able to.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ごめん。出来るとは思えないよ。",
+      "reading": null,
+      "indonesian": "I'm sorry, I don't think I can.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

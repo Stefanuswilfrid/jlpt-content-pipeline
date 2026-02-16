@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "洋袴",
+    "reading": "ズボン",
+    "romaji": "zubon",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "trousers",
+          "pants"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "洋服",
+      "reading": "ようふく",
+      "meaning": "Western-style clothes (cf. traditional Japanese clothes)"
+    },
+    {
+      "word": "西洋",
+      "reading": "せいよう",
+      "meaning": "the West"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そのズボンに合いますよ。",
+      "reading": null,
+      "english": "It looks nice with your trousers.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このズボンをあらってもらいたいんですが。",
+      "reading": null,
+      "english": "I'd like to have these pants cleaned.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このズボンはひざが出やすい。",
+      "reading": null,
+      "english": "These pants tend to go baggy at the knees.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このズボンはだぶだぶだ。",
+      "reading": null,
+      "english": "These trousers are too large.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

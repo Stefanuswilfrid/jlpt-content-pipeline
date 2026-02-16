@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "海",
+    "reading": "うみ",
+    "romaji": "umi",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "laut",
+          "pantai"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "海岸",
+      "reading": "かいがん",
+      "meaning": "pantai, tepi laut"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一天四海",
+      "reading": "いってんしかい",
+      "meaning": "the world",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "海千山千",
+      "reading": "うみせんやません",
+      "meaning": "cunning and experienced in the ways of the world",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "人海戦術",
+      "reading": "じんかいせんじゅつ",
+      "meaning": "human wave attack",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天空海濶",
+      "reading": "てんくうかいかつ",
+      "meaning": "the open sky and the serene sea",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四海同胞",
+      "reading": "しかいどうほう",
+      "meaning": "universal brotherhood",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "海の藻屑",
+      "reading": "うみのもくず",
+      "meaning": "watery grave",
+      "type": "idiom"
+    },
+    {
+      "word": "海内無双",
+      "reading": "かいだいむそう",
+      "meaning": "unparalleled in the whole country",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四海兄弟",
+      "reading": "しかいけいてい",
+      "meaning": "people in the whole world being all brothers",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "海底撈月",
+      "reading": "かいていろうげつ",
+      "meaning": "totally useless (fruitless) effort",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "滄海桑田",
+      "reading": "そうかいそうでん",
+      "meaning": "the world is a scene of constant changes",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海外に行ってみたいですか？",
+      "reading": null,
+      "indonesian": "Would you like to go abroad?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

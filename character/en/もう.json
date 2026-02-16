@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "もう",
+    "reading": "もう",
+    "romaji": "mou",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "already",
+          "yet",
+          "by now",
+          "now",
+          "(not) any more",
+          "(not) any longer"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "soon",
+          "shortly",
+          "before long",
+          "presently"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "further",
+          "more",
+          "again",
+          "another",
+          "the other"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "jeez",
+          "geez",
+          "gee",
+          "boy",
+          "come on",
+          "damn",
+          "seriously"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "今泣いた烏がもう笑う",
+      "reading": "いまないたからすがもうわらう",
+      "meaning": "a child's emotions change easily",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "今日はもう聞かないよ。",
+      "reading": null,
+      "english": "I won't ask you anything else today.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もう何をしたらいいか分からない。",
+      "reading": null,
+      "english": "I don't know what to do anymore.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もう11時だ。",
+      "reading": null,
+      "english": "It is already eleven.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "もう11時だよ。",
+      "reading": null,
+      "english": "It is already eleven.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

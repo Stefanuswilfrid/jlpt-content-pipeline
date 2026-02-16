@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "渡る",
+    "reading": "わたる",
+    "romaji": "wataru",
+    "jlpt": "N5",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menyeberang",
+          "melewati"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to extend",
+          "to cover",
+          "to range",
+          "to span"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "渡す",
+      "reading": "わたす",
+      "meaning": "menyerahkan (sesuatu) (v.t.); menyampaikan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "世を渡る",
+      "reading": "よをわたる",
+      "meaning": "to make one's way in the world",
+      "type": "idiom"
+    },
+    {
+      "word": "危ない橋を渡る",
+      "reading": "あぶないはしをわたる",
+      "meaning": "to tread on thin ice",
+      "type": "idiom"
+    },
+    {
+      "word": "石橋を叩いて渡る",
+      "reading": "いしばしをたたいてわたる",
+      "meaning": "being excessively cautious",
+      "type": "idiom"
+    },
+    {
+      "word": "渡る世間に鬼はない",
+      "reading": "わたるせけんにおにはない",
+      "meaning": "all people aren't evil",
+      "type": "proverb"
+    },
+    {
+      "word": "ルビコン川を渡る",
+      "reading": "ルビコンがわをわたる",
+      "meaning": "to cross the Rubicon",
+      "type": "idiom"
+    },
+    {
+      "word": "負うた子に教えられて浅瀬を渡る",
+      "reading": "おうたこにおしえられてあさせをわたる",
+      "meaning": "some things can be learned from the young",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

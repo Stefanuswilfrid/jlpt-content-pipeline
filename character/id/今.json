@@ -1,0 +1,163 @@
+{
+  "definition": {
+    "word": "今",
+    "reading": "いま",
+    "romaji": "ima",
+    "jlpt": "N5",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "Sekarang"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "another",
+          "more"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "hari ini, hari ini"
+    },
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "minggu ini"
+    },
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "bulan ini"
+    },
+    {
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "tahun ini"
+    },
+    {
+      "word": "今朝",
+      "reading": "けさ",
+      "meaning": "pagi ini"
+    },
+    {
+      "word": "今晩",
+      "reading": "こんばん",
+      "meaning": "malam ini, sore ini"
+    },
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "sekarang, saat ini, masa depan dekat, suatu hari nanti, lain waktu"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "古往今来",
+      "reading": "こおうこんらい",
+      "meaning": "in all ages",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "古今東西",
+      "reading": "ここんとうざい",
+      "meaning": "all times and places",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "昨非今是",
+      "reading": "さくひこんぜ",
+      "meaning": "complete reversal of values or ways of thinking",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "古今独歩",
+      "reading": "ここんどっぽ",
+      "meaning": "unmatched in history",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "古今無双",
+      "reading": "ここんむそう",
+      "meaning": "unparalleled in history",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "今是昨非",
+      "reading": "こんぜさくひ",
+      "meaning": "complete reversal of values or ways of thinking (over time)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "東西古今",
+      "reading": "とうざいここん",
+      "meaning": "all times and places",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "往古来今",
+      "reading": "おうこらいこん",
+      "meaning": "in all ages",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "昨日の友は今日の敵",
+      "reading": "きのうのともはきょうのてき",
+      "meaning": "a friend today may turn against you tomorrow",
+      "type": "proverb"
+    },
+    {
+      "word": "昔は昔、今は今",
+      "reading": "むかしはむかし、いまはいま",
+      "meaning": "let bygones be bygones",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "今日はもう聞かないよ。",
+      "reading": null,
+      "indonesian": "I won't ask you anything else today.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今夜教会に行くよ。",
+      "reading": null,
+      "indonesian": "Tonight we're going to church.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今朝テレビを見ました。",
+      "reading": null,
+      "indonesian": "I watched TV this morning.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今日はきっと楽しくなると思っていたよ。",
+      "reading": null,
+      "indonesian": "I knew that today would be fun.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

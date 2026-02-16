@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "jlpt": "N5",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "daging sapi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "肉",
+      "reading": "にく",
+      "meaning": "daging"
+    },
+    {
+      "word": "牛乳",
+      "reading": "ぎゅうにゅう",
+      "meaning": "susu"
+    },
+    {
+      "word": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "babi"
+    },
+    {
+      "word": "鶏肉",
+      "reading": "とりにく",
+      "meaning": "daging ayam"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "牛肉にしてください。",
+      "reading": null,
+      "indonesian": "Beef, please.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "この牛肉は１ポンドにつき４ドルです。",
+      "reading": null,
+      "indonesian": "This beef is four dollars per pound.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "日本人はイギリス人より牛肉を食べる。",
+      "reading": null,
+      "indonesian": "The Japanese eat more beef than the British do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

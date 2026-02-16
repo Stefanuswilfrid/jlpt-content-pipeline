@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "元気",
+    "reading": "げんき",
+    "romaji": "genki",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sehat",
+          "energik"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "healthy",
+          "well",
+          "fit",
+          "in good health"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "listrik, lampu (listrik)"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "penyakit; sakit"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "cuaca"
+    },
+    {
+      "word": "気",
+      "reading": "き",
+      "meaning": "semangat, suasana hati"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "perasaan, sensasi, suasana hati"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "perasaan, suasana hati"
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "udara, atmosfer"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "元気はつらつ",
+      "reading": "げんきはつらつ",
+      "meaning": "full of energy",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "元気でね！",
+      "reading": null,
+      "indonesian": "Take care.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

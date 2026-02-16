@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "今日",
+    "reading": "きょう",
+    "romaji": "kyou",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "today",
+          "this day"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "these days",
+          "recently",
+          "nowadays"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "this month"
+    },
+    {
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "this year"
+    },
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "every day"
+    },
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "this week"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "tomorrow"
+    },
+    {
+      "word": "今",
+      "reading": "いま",
+      "meaning": "now"
+    },
+    {
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "Sunday"
+    },
+    {
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "yesterday"
+    },
+    {
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "Friday"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "Monday"
+    },
+    {
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "Wednesday"
+    },
+    {
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "birthday"
+    },
+    {
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "Saturday"
+    },
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "Thursday"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "one day"
+    },
+    {
+      "word": "明後日",
+      "reading": "あさって",
+      "meaning": "day after tomorrow"
+    },
+    {
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "Tuesday"
+    },
+    {
+      "word": "今朝",
+      "reading": "けさ",
+      "meaning": "this morning"
+    },
+    {
+      "word": "今晩",
+      "reading": "こんばん",
+      "meaning": "tonight"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "day before yesterday"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "昨日の友は今日の敵",
+      "reading": "きのうのともはきょうのてき",
+      "meaning": "a friend today may turn against you tomorrow",
+      "type": "proverb"
+    },
+    {
+      "word": "今日あって明日ない身",
+      "reading": "きょうあってあすないみ",
+      "meaning": "life is transient",
+      "type": "idiom"
+    },
+    {
+      "word": "今日は人の身明日は我が身",
+      "reading": "きょうはひとのみあすはわがみ",
+      "meaning": "what chances to one man may happen to all",
+      "type": "proverb"
+    },
+    {
+      "word": "明日の百より今日の五十",
+      "reading": "あすのひゃくよりきょうのごじゅう",
+      "meaning": "a bird in the hand is worth two in the bush",
+      "type": "proverb"
+    },
+    {
+      "word": "今日の一針、明日の十針",
+      "reading": "きょうのひとはり、あすのとはり",
+      "meaning": "a stitch in time saves nine",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "今日はもう聞かないよ。",
+      "reading": null,
+      "english": "I won't ask you anything else today.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今日はきっと楽しくなると思っていたよ。",
+      "reading": null,
+      "english": "I knew that today would be fun.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日はもう聞かないよ。",
+      "reading": null,
+      "english": "I won't ask you anything else today.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

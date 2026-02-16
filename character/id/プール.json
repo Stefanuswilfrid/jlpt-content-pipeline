@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "プール",
+    "reading": "プール",
+    "romaji": "puuru",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kolam renang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pool (cue sport)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pooling (money, resources, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pool (price ring)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "リバプールまでいくらですか。",
+      "reading": null,
+      "indonesian": "What's the fare to Liverpool?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "それはこころをひきつけるようなプールだ。",
+      "reading": null,
+      "indonesian": "That pool really looks inviting.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "definition": {
+    "word": "撮る",
+    "reading": "とる",
+    "romaji": "toru",
+    "jlpt": "N5",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take (a photograph)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to record (audio or video)",
+          "to film",
+          "to shoot"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "写す",
+      "reading": "うつす",
+      "meaning": "to copy"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

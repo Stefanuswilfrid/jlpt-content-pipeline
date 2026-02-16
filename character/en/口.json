@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "口",
+    "reading": "くち",
+    "romaji": "kuchi",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mouth"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "opening",
+          "hole",
+          "gap",
+          "orifice"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mouth (of a bottle)",
+          "spout",
+          "nozzle",
+          "mouthpiece"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gate",
+          "door",
+          "entrance",
+          "exit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "speaking",
+          "speech",
+          "talk (i.e. gossip)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "exit"
+    },
+    {
+      "word": "人口",
+      "reading": "じんこう",
+      "meaning": "population"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "異口同音",
+      "reading": "いくどうおん",
+      "meaning": "(saying) with one voice",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "悪口雑言",
+      "reading": "あっこうぞうごん",
+      "meaning": "all kinds of malicious gossip",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "開口一番",
+      "reading": "かいこういちばん",
+      "meaning": "at the very beginning of one's speech",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "虎口",
+      "reading": "ここう",
+      "meaning": "tiger's den",
+      "type": "idiom"
+    },
+    {
+      "word": "口火を切る",
+      "reading": "くちびをきる",
+      "meaning": "to start the debate",
+      "type": "idiom"
+    },
+    {
+      "word": "口を拭う",
+      "reading": "くちをぬぐう",
+      "meaning": "to feign innocence",
+      "type": "idiom"
+    },
+    {
+      "word": "口が滑る",
+      "reading": "くちがすべる",
+      "meaning": "to make a slip of the tongue",
+      "type": "idiom"
+    },
+    {
+      "word": "鶏口牛後",
+      "reading": "けいこうぎゅうご",
+      "meaning": "better to be the beak of a rooster than the rump of a bull",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "閉口頓首",
+      "reading": "へいこうとんしゅ",
+      "meaning": "being at a complete loss as to what to do",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "金口木舌",
+      "reading": "きんこうぼくぜつ",
+      "meaning": "(public) opinion leader",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

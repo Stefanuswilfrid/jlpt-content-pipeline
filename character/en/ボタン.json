@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "釦",
+    "reading": "ボタン",
+    "romaji": "botan",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "button (clothing)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "push-button",
+          "button"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ワイシャツにボタンをつけて。",
+      "reading": null,
+      "english": "Would you sew a button on my shirt?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "レーンコートのボタンがとれた。",
+      "reading": null,
+      "english": "A button has come off my raincoat.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

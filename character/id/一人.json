@@ -1,0 +1,180 @@
+{
+  "definition": {
+    "word": "一人",
+    "reading": "ひとり",
+    "romaji": "hitori",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "satu orang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "being alone",
+          "being by oneself"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "being single",
+          "being unmarried"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "by oneself",
+          "alone"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "just",
+          "only",
+          "simply"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "satu hal"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "terbaik (terbanyak), pertama, nomor satu"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "orang asing"
+    },
+    {
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "dua orang"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "bersama"
+    },
+    {
+      "word": "大人",
+      "reading": "おとな",
+      "meaning": "dewasa"
+    },
+    {
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "sepuluh (~)"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "satu hari; hari pertama bulan"
+    },
+    {
+      "word": "人",
+      "reading": "ひと",
+      "meaning": "pria, orang"
+    },
+    {
+      "word": "一",
+      "reading": "いち",
+      "meaning": "satu"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "kemarin lusa"
+    },
+    {
+      "word": "一月",
+      "reading": "ひとつき",
+      "meaning": "satu bulan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一人当千",
+      "reading": "いちにんとうせん",
+      "meaning": "being a match for a thousand",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "娘一人に婿八人",
+      "reading": "むすめひとりにむこはちにん",
+      "meaning": "being besieged by suitors",
+      "type": "idiom"
+    },
+    {
+      "word": "鯛も一人はうまからず",
+      "reading": "たいもひとりはうまからず",
+      "meaning": "good food requires good company",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それはあなたが一人になりたくないからです。",
+      "reading": null,
+      "indonesian": "It's because you don't want to be alone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはあなたが一人になりたくないからです。",
+      "reading": null,
+      "indonesian": "It's because you don't want to be alone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはあなたが一人になりたくないからです。",
+      "reading": null,
+      "indonesian": "That's because you don't want to be alone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「兄弟はいますか？」「いいえ、一人っ子です」",
+      "reading": null,
+      "indonesian": "\"Do you have any siblings?\" \"No, I'm an only child.\"",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これを自分一人でやったの？",
+      "reading": null,
+      "indonesian": "Did you do this on your own?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

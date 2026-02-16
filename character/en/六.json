@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "六",
+    "reading": "ろく",
+    "romaji": "roku",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "six",
+          "6"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "六つ",
+      "reading": "むっつ",
+      "meaning": "six"
+    },
+    {
+      "word": "難しい",
+      "reading": "むずかしい",
+      "meaning": "difficult"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "四六時中",
+      "reading": "しろくじちゅう",
+      "meaning": "around the clock",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一六勝負",
+      "reading": "いちろくしょうぶ",
+      "meaning": "gambling on whether the throw of a die will produce a \"one\" or a \"six\"",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "五臓六腑",
+      "reading": "ごぞうろっぷ",
+      "meaning": "the five viscera and the six internal organs",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三十六計",
+      "reading": "さんじゅうろっけい",
+      "meaning": "the 36 (ancient Chinese military) strategies (of which the last resort was said to be beating a retreat)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三面六臂",
+      "reading": "さんめんろっぴ",
+      "meaning": "rush of business",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "二六時中",
+      "reading": "にろくじちゅう",
+      "meaning": "night and day",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "八面六臂",
+      "reading": "はちめんろっぴ",
+      "meaning": "competent in all fields",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "六根清浄",
+      "reading": "ろっこんしょうじょう",
+      "meaning": "purification of the six roots of perception",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "六法全書",
+      "reading": "ろっぽうぜんしょ",
+      "meaning": "compendium of laws",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "六韜三略",
+      "reading": "りくとうさんりゃく",
+      "meaning": "The Six Secret Teachings and The Three Strategies of Huang Shigong (two ancient Chinese military treatises)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もうすぐ六時になります。",
+      "reading": null,
+      "english": "It's almost six o'clock.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

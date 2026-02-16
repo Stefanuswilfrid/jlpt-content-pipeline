@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "其れ",
+    "reading": "それ",
+    "romaji": "sore",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that",
+          "it"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "then",
+          "that point (in time)",
+          "that time"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それはあなたが一人になりたくないからです。",
+      "reading": null,
+      "english": "It's because you don't want to be alone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それが何か？",
+      "reading": null,
+      "english": "So what?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "それがどこから来たのか分からなかった。",
+      "reading": null,
+      "english": "I didn't know where it came from.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

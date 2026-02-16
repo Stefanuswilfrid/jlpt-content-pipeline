@@ -1,0 +1,152 @@
+{
+  "definition": {
+    "word": "明後日",
+    "reading": "あさって",
+    "romaji": "asatte",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "besok lusa"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "wrong (e.g. direction)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "besok"
+    },
+    {
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "Minggu"
+    },
+    {
+      "word": "後ろ",
+      "reading": "うしろ",
+      "meaning": "belakang, di belakang, bagian belakang"
+    },
+    {
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "Kemarin"
+    },
+    {
+      "word": "後",
+      "reading": "のち",
+      "meaning": "setelah itu, sejak saat itu"
+    },
+    {
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "Jumat"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "Senin"
+    },
+    {
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "Rabu"
+    },
+    {
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "hari ulang tahun"
+    },
+    {
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "Sabtu"
+    },
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "Kamis"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "satu hari; hari pertama bulan"
+    },
+    {
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "sore hari, PM"
+    },
+    {
+      "word": "後",
+      "reading": "あと",
+      "meaning": "setelah itu, sejak saat itu"
+    },
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "setiap hari"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "hari ini, hari ini"
+    },
+    {
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "Selasa"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "kemarin lusa"
+    },
+    {
+      "word": "後",
+      "reading": "ご",
+      "meaning": "setelah itu, sejak saat itu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "明明後日にまた上げる。",
+      "reading": null,
+      "indonesian": "And I will raise it again in three days.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明後日いらして下さい。",
+      "reading": null,
+      "indonesian": "Come and see me the day after tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明後日いらして下さい。",
+      "reading": null,
+      "indonesian": "Please come the day after tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "消す",
+    "reading": "けす",
+    "romaji": "kesu",
+    "jlpt": "N5",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to erase",
+          "to rub out",
+          "to rub off",
+          "to cross out",
+          "to delete"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to turn off (a light, TV, heater, etc.)",
+          "to switch off"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to extinguish (a fire, candle, etc.)",
+          "to put out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to remove (a smell, pain, etc.)",
+          "to eliminate",
+          "to get rid of",
+          "to relieve (pain, anxiety, etc.)",
+          "to neutralize (poison)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drown out (a sound)",
+          "to deaden",
+          "to absorb",
+          "to muffle"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "消える",
+      "reading": "きえる",
+      "meaning": "to disappear"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "姿を消す",
+      "reading": "すがたをけす",
+      "meaning": "to disappear",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "洋杯",
+    "reading": "コップ",
+    "romaji": "koppu",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "glass (drinking vessel)",
+          "tumbler"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cups (suit)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "洋服",
+      "reading": "ようふく",
+      "meaning": "Western-style clothes (cf. traditional Japanese clothes)"
+    },
+    {
+      "word": "西洋",
+      "reading": "せいよう",
+      "meaning": "the West"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "テーブルの上にコップがある。",
+      "reading": null,
+      "english": "There is a glass on the table.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "テーブルの上にガラスのコップがある。",
+      "reading": null,
+      "english": "There is a glass on the table.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "テーブルにコップがいくつかありましたか。",
+      "reading": null,
+      "english": "Were there any glasses on the table?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのコップにはひびが入っている。",
+      "reading": null,
+      "english": "There is a crack in the glass.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

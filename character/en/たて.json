@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "縦",
+    "reading": "たて",
+    "romaji": "tate",
+    "jlpt": "N5",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the vertical",
+          "height"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "front-to-back",
+          "length"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "north-to-south"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "vertical (relationship)",
+          "hierarchy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(weaving) warp"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "縦横無尽",
+      "reading": "じゅうおうむじん",
+      "meaning": "freely",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "才気縦横",
+      "reading": "さいきじゅうおう",
+      "meaning": "great wisdom",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "奇策縦横",
+      "reading": "きさくじゅうおう",
+      "meaning": "ingenious scheme",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "機略縦横",
+      "reading": "きりゃくじゅうおう",
+      "meaning": "very resourcefully using tactics adapting oneself to the requirements of the moment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "縦横自在",
+      "reading": "じゅうおうじざい",
+      "meaning": "freely",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "縦横無礙",
+      "reading": "じゅうおうむげ",
+      "meaning": "being as free as the air",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "音をたてるな。",
+      "reading": null,
+      "english": "Don't make a noise.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "マスコミが何もかも大げさに言いたてたのです。",
+      "reading": null,
+      "english": "The media blew the whole thing out of proportion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ブラッキーは食べる時たいへん音をたてます。",
+      "reading": null,
+      "english": "Blackie makes a lot of noise while he eats.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

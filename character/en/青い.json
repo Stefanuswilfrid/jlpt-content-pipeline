@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "青い",
+    "reading": "あおい",
+    "romaji": "aoi",
+    "jlpt": "N5",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "blue",
+          "azure"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "green"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "pale (facial color)",
+          "gray",
+          "grey"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "unripe",
+          "inexperienced"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "青",
+      "reading": "あお",
+      "meaning": "blue"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ケツが青い",
+      "reading": "ケツがあおい",
+      "meaning": "wet behind the ears",
+      "type": "idiom"
+    },
+    {
+      "word": "隣の芝は青い",
+      "reading": "となりのしばはあおい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "隣の芝生は青い",
+      "reading": "となりのしばふはあおい",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "顔が青いよ。",
+      "reading": null,
+      "english": "You look pale.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "空は青い。",
+      "reading": null,
+      "english": "The sky is blue.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "空が青いです。",
+      "reading": null,
+      "english": "The sky is blue.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "空はあくまでも青い。",
+      "reading": null,
+      "english": "The sky is as blue as blue can be.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "何と空が青いのでしょう。",
+      "reading": null,
+      "english": "How blue the sky is!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なんと空が青いのだろう。",
+      "reading": null,
+      "english": "How blue the sky is!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なんて青い空だろう。",
+      "reading": null,
+      "english": "How blue the sky is!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "お前はまだ「青い」な。",
+      "reading": null,
+      "english": "You're still green.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なぜ空が青いか知っているか。",
+      "reading": null,
+      "english": "Do you know why the sky is blue?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空はなんで青いか知っているの？",
+      "reading": null,
+      "english": "Do you know why the sky is blue?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

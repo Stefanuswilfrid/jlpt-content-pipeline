@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "右",
+    "reading": "みぎ",
+    "romaji": "migi",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "right",
+          "right-hand side"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "right hand"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "the above (in a piece of vertical writing)",
+          "above-mentioned"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the right (wing)",
+          "rightist"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the better (of two)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "右往左往",
+      "reading": "うおうさおう",
+      "meaning": "moving about in confusion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "右顧左眄",
+      "reading": "うこさべん",
+      "meaning": "inability to make up one's mind due to worrying about how others will think",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "左顧右眄",
+      "reading": "さこうべん",
+      "meaning": "looking right and left or all about",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "右に出る",
+      "reading": "みぎにでる",
+      "meaning": "to be superior (to)",
+      "type": "idiom"
+    },
+    {
+      "word": "左見右見",
+      "reading": "とみこうみ",
+      "meaning": "looking from one place to another",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "右に出るものはない",
+      "reading": "みぎにでるものはない",
+      "meaning": "being second to none",
+      "type": "idiom"
+    },
+    {
+      "word": "右に出る者はいない",
+      "reading": "みぎにでるものはいない",
+      "meaning": "being second to none",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "回れ右！",
+      "reading": null,
+      "english": "About face!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

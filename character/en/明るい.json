@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "明るい",
+    "reading": "あかるい",
+    "romaji": "akarui",
+    "jlpt": "N5",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "light",
+          "bright",
+          "well-lit",
+          "well-lighted"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "bright (colour)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "cheerful",
+          "bright",
+          "spirited",
+          "sunny (e.g. disposition)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "bright (future, prospects, etc.)",
+          "rosy",
+          "encouraging",
+          "promising"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "knowledgeable (about)",
+          "familiar (with)",
+          "well versed (in)",
+          "well acquainted (with)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "tomorrow"
+    },
+    {
+      "word": "明後日",
+      "reading": "あさって",
+      "meaning": "day after tomorrow"
+    },
+    {
+      "word": "開ける",
+      "reading": "あける",
+      "meaning": "to open (a door, etc.)"
+    },
+    {
+      "word": "開く",
+      "reading": "あく",
+      "meaning": "to open (e.g. doors)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "朝の5時だというのに明るい。",
+      "reading": null,
+      "english": "It's just five in the morning, but nevertheless it is light out.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "外はまだ明るいよ。",
+      "reading": null,
+      "english": "It is still light outside.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "もっと明るい色のはないですか。",
+      "reading": null,
+      "english": "I'd like it in a brighter color.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あの小さい星が一番明るいよ。",
+      "reading": null,
+      "english": "That small star is brightest.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

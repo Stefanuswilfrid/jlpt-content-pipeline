@@ -1,0 +1,184 @@
+{
+  "definition": {
+    "word": "空",
+    "reading": "から",
+    "romaji": "kara",
+    "jlpt": "N5",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "emptiness",
+          "being empty"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "not carrying anything",
+          "unburdened",
+          "empty-handed"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "dishonoured (bill, promise, etc.)",
+          "false",
+          "no-show (reservation)",
+          "put-on (cheeriness, courage, etc.)",
+          "empty (compliments)",
+          "insincere"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "airport"
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "air"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "air",
+      "type": "idiom"
+    },
+    {
+      "word": "空前絶後",
+      "reading": "くうぜんぜつご",
+      "meaning": "(so marvelous or horrible that it may be) the first and probably the last",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "空中楼閣",
+      "reading": "くうちゅうろうかく",
+      "meaning": "castle in the air",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "色即是空",
+      "reading": "しきそくぜくう",
+      "meaning": "form is emptiness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天空海濶",
+      "reading": "てんくうかいかつ",
+      "meaning": "the open sky and the serene sea",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天馬空を行く",
+      "reading": "てんばくうをゆく",
+      "meaning": "to advance unobstructed",
+      "type": "idiom"
+    },
+    {
+      "word": "徒手空拳",
+      "reading": "としゅくうけん",
+      "meaning": "being empty-handed",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "空即是色",
+      "reading": "くうそくぜしき",
+      "meaning": "emptiness is form",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "空々漠々",
+      "reading": "くうくうばくばく",
+      "meaning": "vast",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "空理空論",
+      "reading": "くうりくうろん",
+      "meaning": "impractical theory",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "おなか空いた！",
+      "reading": null,
+      "english": "I'm starving!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "おなか空いた！",
+      "reading": null,
+      "english": "I'm starving!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "おなか空いた！",
+      "reading": null,
+      "english": "I'm starved.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "おなか空いた！",
+      "reading": null,
+      "english": "I'm hungry!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "おなか空いた！",
+      "reading": null,
+      "english": "I am hungry.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "おなか空いた！",
+      "reading": null,
+      "english": "I'm hungry.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "おなか空いた！",
+      "reading": null,
+      "english": "I am hungry!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "いつなら空いてる？",
+      "reading": null,
+      "english": "When will you be free?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

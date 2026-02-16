@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "練習",
+    "reading": "れんしゅう",
+    "romaji": "renshuu",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "practice",
+          "training",
+          "drill",
+          "(an) exercise",
+          "workout"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "習う",
+      "reading": "ならう",
+      "meaning": "to take lessons in"
+    },
+    {
+      "word": "習慣",
+      "reading": "しゅうかん",
+      "meaning": "habit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "練習あるのみ",
+      "reading": "れんしゅうあるのみ",
+      "meaning": "practice, practice, practice",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

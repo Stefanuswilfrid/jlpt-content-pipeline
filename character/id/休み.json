@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "休み",
+    "reading": "やすみ",
+    "romaji": "yasumi",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "liburan; hari libur; ketidakhadiran"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "vacation",
+          "holiday",
+          "absence",
+          "suspension"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dormancy (of a silkworm prior to moulting)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夏休み",
+      "reading": "なつやすみ",
+      "meaning": "liburan musim panas"
+    },
+    {
+      "word": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "istirahat makan siang, istirahat siang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "親が死んでも食休み",
+      "reading": "おやがしんでもじきやすみ",
+      "meaning": "resting after a meal is sacrosanct",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "休みの日が楽しみだよ。",
+      "reading": null,
+      "indonesian": "We are looking forward to the holidays.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "休みは楽しかった？",
+      "reading": null,
+      "indonesian": "Did you enjoy your holiday?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "休み中にどこへいくつもりですか。",
+      "reading": null,
+      "indonesian": "Where are you going to go on your vacation?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "休みの間はどこに行くつもりなの？",
+      "reading": null,
+      "indonesian": "Where are you going to go on your vacation?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

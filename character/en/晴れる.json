@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "晴れる",
+    "reading": "はれる",
+    "romaji": "hareru",
+    "jlpt": "N5",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to clear up",
+          "to clear away",
+          "to be sunny",
+          "to stop raining"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to refresh (e.g. spirits)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be cleared (e.g. of a suspicion)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be dispelled",
+          "to be banished"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "晴れ",
+      "reading": "はれ",
+      "meaning": "clear weather"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "すぐに晴れるといいんだけど。",
+      "reading": null,
+      "english": "I hope it will clear up soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まもなく晴れるでしょう。",
+      "reading": null,
+      "english": "It will clear up by and by.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうやら晴れるようですね。",
+      "reading": null,
+      "english": "It looks like it's going to be sunny.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "テレビによれば今日は晴れるそうだ。",
+      "reading": null,
+      "english": "According to the TV, it will be fine today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すぐ晴れるだろうか。",
+      "reading": null,
+      "english": "Will it clear up soon?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あなたはあした晴れると思いますか。",
+      "reading": null,
+      "english": "Do you think it will be fine tomorrow?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日は晴れるといいな。",
+      "reading": null,
+      "english": "I hope it'll be fine tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日は晴れるだろう。",
+      "reading": null,
+      "english": "It will be fine tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日は晴れるよ。",
+      "reading": null,
+      "english": "It will be fine tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日晴れるといいな。",
+      "reading": null,
+      "english": "I hope the weather will clear up tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「すぐに晴れるだろうか」「晴れないでしょう」",
+      "reading": null,
+      "english": "\"Will it clear up soon?\" \"I'm afraid not.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

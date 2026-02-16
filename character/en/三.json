@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "三",
+    "reading": "さん",
+    "romaji": "san",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "three",
+          "3"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "三つ",
+      "reading": "みっつ",
+      "meaning": "three"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "三位一体",
+      "reading": "さんみいったい",
+      "meaning": "the Trinity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "二人三脚",
+      "reading": "ににんさんきゃく",
+      "meaning": "three-legged race",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三三五五",
+      "reading": "さんさんごご",
+      "meaning": "in groups of twos and threes",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "再三再四",
+      "reading": "さいさんさいし",
+      "meaning": "repeatedly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三寒四温",
+      "reading": "さんかんしおん",
+      "meaning": "alternation of three cold and four warm days (usu. in late winter and early spring)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三顧の礼",
+      "reading": "さんこのれい",
+      "meaning": "showing (someone) special courtesy (to persuade them to take a post)",
+      "type": "idiom"
+    },
+    {
+      "word": "三種の神器",
+      "reading": "さんしゅのじんぎ",
+      "meaning": "the Three Sacred Treasures (Mirror, Sword and Jewels)",
+      "type": "idiom"
+    },
+    {
+      "word": "三十六計",
+      "reading": "さんじゅうろっけい",
+      "meaning": "the 36 (ancient Chinese military) strategies (of which the last resort was said to be beating a retreat)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三千世界",
+      "reading": "さんぜんせかい",
+      "meaning": "the whole universe (of a billion worlds) that Buddha enlightened",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三段論法",
+      "reading": "さんだんろんぽう",
+      "meaning": "syllogism",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "学校まで三十分で歩いて行けます。",
+      "reading": null,
+      "english": "I can walk to school in half an hour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "romaji": "tanoshii",
+    "jlpt": "N5",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "enjoyable",
+          "fun",
+          "pleasant",
+          "happy",
+          "delightful"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "music"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "楽しいクリスマスを。",
+      "reading": null,
+      "english": "Merry Christmas!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "楽しいひとときを。",
+      "reading": null,
+      "english": "Have a good time.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "楽しい夜をありがとう。",
+      "reading": null,
+      "english": "Thank you for the pleasant evening.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

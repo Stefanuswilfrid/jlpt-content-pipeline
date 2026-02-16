@@ -1,0 +1,155 @@
+{
+  "definition": {
+    "word": "聞く",
+    "reading": "きく",
+    "romaji": "kiku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mendengar",
+          "untuk mendengarkan",
+          "untuk bertanya"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to listen (e.g. to music)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to ask",
+          "to enquire",
+          "to query"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hear about",
+          "to hear of",
+          "to learn of"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to follow (advice, order, etc.)",
+          "to obey",
+          "to listen to",
+          "to comply with"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "新聞",
+      "reading": "しんぶん",
+      "meaning": "koran"
+    },
+    {
+      "word": "新聞社",
+      "reading": "しんぶんしゃ",
+      "meaning": "perusahaan surat kabar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "音に聞く",
+      "reading": "おとにきく",
+      "meaning": "to be widely known",
+      "type": "idiom"
+    },
+    {
+      "word": "見ると聞くとは大違い",
+      "reading": "みるときくとはおおちがい",
+      "meaning": "there is a great difference between being told about something and actually seeing it with your own eyes",
+      "type": "proverb"
+    },
+    {
+      "word": "聞くと見るとは大違い",
+      "reading": "きくとみるとはおおちがい",
+      "meaning": "don't believe everything you hear",
+      "type": "proverb"
+    },
+    {
+      "word": "聞くは一時の恥、聞かぬは末代の恥",
+      "reading": "きくはいっときのはじ、きかぬはまつだいのはじ",
+      "meaning": "better to ask and be embarrassed than not ask and never know",
+      "type": "proverb"
+    },
+    {
+      "word": "聞くは一時の恥、聞かぬは一生の恥",
+      "reading": "きくはいっときのはじ、きかぬはいっしょうのはじ",
+      "meaning": "better to ask and be embarrassed than not ask and never know",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "なんで聞くの？",
+      "reading": null,
+      "indonesian": "Why do you ask?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "なぜ聞くの？",
+      "reading": null,
+      "indonesian": "Why do you ask?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "考えていることを聞くな。やることを聞け。",
+      "reading": null,
+      "indonesian": "Don't ask what they think. Ask what they do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なんで聞くの？",
+      "reading": null,
+      "indonesian": "Why do you ask?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "考えていることを聞くな。やることを聞け。",
+      "reading": null,
+      "indonesian": "Don't ask what they think. Ask what they do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

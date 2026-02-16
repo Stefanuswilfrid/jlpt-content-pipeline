@@ -1,0 +1,160 @@
+{
+  "definition": {
+    "word": "春",
+    "reading": "はる",
+    "romaji": "haru",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "musim semi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "New Year"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "prime (of life)",
+          "height (of one's prosperity)",
+          "heyday"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "adolescence",
+          "puberty"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "春夏秋冬",
+      "reading": "しゅんかしゅうとう",
+      "meaning": "spring, summer, autumn (fall) and winter",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "春風駘蕩",
+      "reading": "しゅんぷうたいとう",
+      "meaning": "warm and genial spring weather",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "小春日和",
+      "reading": "こはるびより",
+      "meaning": "Indian summer (around November)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "春秋に富む",
+      "reading": "しゅんじゅうにとむ",
+      "meaning": "to be young",
+      "type": "idiom"
+    },
+    {
+      "word": "春宵一刻",
+      "reading": "しゅんしょういっこく",
+      "meaning": "a moment of time in a spring evening (is worth a thousand pieces of gold)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "春日遅々",
+      "reading": "しゅんじつちち",
+      "meaning": "long and balmy (of a spring day)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "春花秋月",
+      "reading": "しゅんかしゅうげつ",
+      "meaning": "spring flowers and the autumn moon",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "春眠暁を覚えず",
+      "reading": "しゅんみんあかつきをおぼえず",
+      "meaning": "in spring one sleeps a sleep that knows no dawn",
+      "type": "proverb"
+    },
+    {
+      "word": "春宵一刻値千金",
+      "reading": "しゅんしょういっこくあたいせんきん",
+      "meaning": "a moment of time in a spring evening is worth a thousand pieces of gold",
+      "type": "proverb"
+    },
+    {
+      "word": "冬来たりなば春遠からじ",
+      "reading": "ふゆきたりなばはるとおからじ",
+      "meaning": "when winter comes spring isn't far behind",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "春はまもなくやってくる。",
+      "reading": null,
+      "indonesian": "Spring will be here before long.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "間もなく春がやってくる。",
+      "reading": null,
+      "indonesian": "Spring will be here before long.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もうすぐ春がくる。",
+      "reading": null,
+      "indonesian": "Spring will come soon.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "まもなく、春がくる。",
+      "reading": null,
+      "indonesian": "Spring will come soon.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "もうすぐ春です。",
+      "reading": null,
+      "indonesian": "Spring will come soon.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "めっきり春らしくなったね。",
+      "reading": null,
+      "indonesian": "It's getting quite springlike.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

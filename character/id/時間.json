@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "時間",
+    "reading": "じかん",
+    "romaji": "jikan",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "waktu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hour"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "period",
+          "class",
+          "lesson"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "jam tangan; jam dinding"
+    },
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "Kadang-kadang"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "zaman, periode, masa, era"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "時間があるか分かりません。",
+      "reading": null,
+      "indonesian": "I don't know if I have the time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "時間はいくらでも作れる。",
+      "reading": null,
+      "indonesian": "One can always find time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "時間はたっぷりあった。",
+      "reading": null,
+      "indonesian": "You had plenty of time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

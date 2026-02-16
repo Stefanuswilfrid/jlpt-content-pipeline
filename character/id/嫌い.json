@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "嫌い",
+    "reading": "きらい",
+    "romaji": "kirai",
+    "jlpt": "N5",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "benci"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tendency",
+          "smack (of)",
+          "touch (of)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "distinction",
+          "discrimination"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "嫌",
+      "reading": "いや",
+      "meaning": "tidak menyenangkan, menjijikkan, tidak enak"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "出すことは舌を出すも嫌い",
+      "reading": "だすことはしたをだすもきらい",
+      "meaning": "being exceptionally stingy",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

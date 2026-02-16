@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "出口",
+    "reading": "でぐち",
+    "romaji": "deguchi",
+    "jlpt": "N5",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "exit",
+          "way out"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "outlet",
+          "vent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "口",
+      "reading": "くち",
+      "meaning": "mouth"
+    },
+    {
+      "word": "出席",
+      "reading": "しゅっせき",
+      "meaning": "attendance"
+    },
+    {
+      "word": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "departure"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "B2出口から地上に出てください。",
+      "reading": null,
+      "english": "Go up to ground level at exit B2.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "出口はどちらですか。",
+      "reading": null,
+      "english": "Where is the way out?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

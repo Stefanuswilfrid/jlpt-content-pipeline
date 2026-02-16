@@ -1,0 +1,171 @@
+{
+  "definition": {
+    "word": "一",
+    "reading": "いち",
+    "romaji": "ichi",
+    "jlpt": "N5",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "numeric",
+          "prefix"
+        ],
+        "meanings": [
+          "one",
+          "1"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "suffix"
+        ],
+        "meanings": [
+          "best"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "first",
+          "foremost"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "beginning",
+          "start"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "a (single)",
+          "one (of many)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "number one"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "(doing) together"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "one person"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "one day"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "day before yesterday"
+    },
+    {
+      "word": "一月",
+      "reading": "ひとつき",
+      "meaning": "one month"
+    },
+    {
+      "word": "百",
+      "reading": "ひゃく",
+      "meaning": "hundred"
+    },
+    {
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "ten"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一喜一憂",
+      "reading": "いっきいちゆう",
+      "meaning": "alternating between happiness and anxiety",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一触即発",
+      "reading": "いっしょくそくはつ",
+      "meaning": "critical (touch and go) situation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一心同体",
+      "reading": "いっしんどうたい",
+      "meaning": "being one in body and soul",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一心不乱",
+      "reading": "いっしんふらん",
+      "meaning": "wholeheartedly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一進一退",
+      "reading": "いっしんいったい",
+      "meaning": "now advancing and now retreating",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaning": "very hard",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一石二鳥",
+      "reading": "いっせきにちょう",
+      "meaning": "killing two birds with one stone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一朝一夕",
+      "reading": "いっちょういっせき",
+      "meaning": "in a day",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一長一短",
+      "reading": "いっちょういったん",
+      "meaning": "(something having its) merits and demerits",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一刀両断",
+      "reading": "いっとうりょうだん",
+      "meaning": "cutting in two with a single stroke",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それはあなたが一人になりたくないからです。",
+      "reading": null,
+      "english": "It's because you don't want to be alone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

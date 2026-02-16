@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "置く",
+    "reading": "おく",
+    "romaji": "oku",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put",
+          "to place"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to leave (behind)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to establish (an organization, a facility, a position, etc.)",
+          "to set up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to appoint (someone to a certain position)",
+          "to hire",
+          "to employ"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to place (one's trust, one's faith, etc.)",
+          "to bear (in mind, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "一目置く",
+      "reading": "いちもくおく",
+      "meaning": "to take off one's hat to a person",
+      "type": "idiom"
+    },
+    {
+      "word": "重きを置く",
+      "reading": "おもきをおく",
+      "meaning": "to emphasize",
+      "type": "idiom"
+    },
+    {
+      "word": "蚊帳の外に置く",
+      "reading": "かやのそとにおく",
+      "meaning": "to leave in the dark",
+      "type": "idiom"
+    },
+    {
+      "word": "一目も二目も置く",
+      "reading": "いちもくもにもくもおく",
+      "meaning": "to take off one's hat to a person",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

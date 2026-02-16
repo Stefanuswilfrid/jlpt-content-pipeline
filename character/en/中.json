@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "中",
+    "reading": "なか",
+    "romaji": "naka",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "inside",
+          "interior"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "among",
+          "within"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "middle",
+          "center",
+          "centre"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "during",
+          "while",
+          "middle",
+          "midst",
+          "amid"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "interval",
+          "gap"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "お腹",
+      "reading": "おなか",
+      "meaning": "belly"
+    },
+    {
+      "word": "背中",
+      "reading": "せなか",
+      "meaning": "back (of the body)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "四六時中",
+      "reading": "しろくじちゅう",
+      "meaning": "around the clock",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "中途半端",
+      "reading": "ちゅうとはんぱ",
+      "meaning": "halfway",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "年中行事",
+      "reading": "ねんちゅうぎょうじ",
+      "meaning": "annual function",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無我夢中",
+      "reading": "むがむちゅう",
+      "meaning": "losing oneself (in)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "暗中模索",
+      "reading": "あんちゅうもさく",
+      "meaning": "groping in the dark",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "永世中立",
+      "reading": "えいせいちゅうりつ",
+      "meaning": "permanent neutrality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "空中楼閣",
+      "reading": "くうちゅうろうかく",
+      "meaning": "castle in the air",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "厳正中立",
+      "reading": "げんせいちゅうりつ",
+      "meaning": "strict neutrality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "五里霧中",
+      "reading": "ごりむちゅう",
+      "meaning": "totally at a loss",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自己中心",
+      "reading": "じこちゅうしん",
+      "meaning": "selfishness",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そこに一日中ただ立っているつもりかい？",
+      "reading": null,
+      "english": "Are you just going to stand there all day?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

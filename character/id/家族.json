@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "家族",
+    "reading": "かぞく",
+    "romaji": "kazoku",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "keluarga",
+          "anggota keluarga"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "家庭",
+      "reading": "かてい",
+      "meaning": "rumah; keluarga"
+    },
+    {
+      "word": "家",
+      "reading": "いえ",
+      "meaning": "rumah, tempat tinggal"
+    },
+    {
+      "word": "家",
+      "reading": "うち",
+      "meaning": "rumah, tempat tinggal"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "家族団らん",
+      "reading": "かぞくだんらん",
+      "meaning": "happy family circle",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "余り",
+    "reading": "あまり",
+    "romaji": "amari",
+    "jlpt": "N5",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "remainder",
+          "remnant",
+          "rest",
+          "balance",
+          "surplus",
+          "remains (of a meal)",
+          "leftovers"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(not) very",
+          "(not) much"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "too much",
+          "excessively",
+          "overly"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "extreme",
+          "great",
+          "severe",
+          "tremendous",
+          "terrible"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "not very good",
+          "so-so",
+          "mediocre"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "余り物に福がある",
+      "reading": "あまりものにふくがある",
+      "meaning": "do not despair because you are the last to take your pick",
+      "type": "proverb"
+    },
+    {
+      "word": "余り物には福がある",
+      "reading": "あまりものにはふくがある",
+      "meaning": "don't despair because you're the last to take your pick",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,50 @@
+{
+  "definition": {
+    "word": "会う",
+    "reading": "あう",
+    "romaji": "au",
+    "jlpt": "N5",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to meet",
+          "to encounter",
+          "to see"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to have an accident",
+          "to have a bad experience"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "meeting"
+    },
+    {
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "conversation"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

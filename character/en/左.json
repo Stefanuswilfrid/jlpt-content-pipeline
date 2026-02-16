@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "左",
+    "reading": "ひだり",
+    "romaji": "hidari",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "left",
+          "left-hand side"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "left hand"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the left (wing)",
+          "leftist"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fondness for alcohol",
+          "drinker"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "右往左往",
+      "reading": "うおうさおう",
+      "meaning": "moving about in confusion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "右顧左眄",
+      "reading": "うこさべん",
+      "meaning": "inability to make up one's mind due to worrying about how others will think",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "左顧右眄",
+      "reading": "さこうべん",
+      "meaning": "looking right and left or all about",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "左見右見",
+      "reading": "とみこうみ",
+      "meaning": "looking from one place to another",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

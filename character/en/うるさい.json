@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "煩い",
+    "reading": "うるさい",
+    "romaji": "urusai",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "noisy",
+          "loud"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "annoying",
+          "troublesome",
+          "tiresome",
+          "persistent",
+          "importunate"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "fussy",
+          "finicky",
+          "picky",
+          "particular",
+          "nagging",
+          "fastidious",
+          "bossy"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "shut up",
+          "be quiet"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ラジオが少しうるさい。",
+      "reading": null,
+      "english": "The radio is a bit loud.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "エアコンの音がうるさいんです。",
+      "reading": null,
+      "english": "The air conditioner makes too much noise.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この通りはなんてうるさいのだろう！",
+      "reading": null,
+      "english": "How noisy this street is!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "うるさい！",
+      "reading": null,
+      "english": "Hey you, shut up!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

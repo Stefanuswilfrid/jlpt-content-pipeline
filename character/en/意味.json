@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "意味",
+    "reading": "いみ",
+    "romaji": "imi",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "meaning",
+          "significance",
+          "sense"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "opinion"
+    },
+    {
+      "word": "味",
+      "reading": "あじ",
+      "meaning": "flavor"
+    },
+    {
+      "word": "注意",
+      "reading": "ちゅうい",
+      "meaning": "attention"
+    },
+    {
+      "word": "興味",
+      "reading": "きょうみ",
+      "meaning": "interest (in something)"
+    },
+    {
+      "word": "用意",
+      "reading": "ようい",
+      "meaning": "preparation"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "hobby"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "意味深長",
+      "reading": "いみしんちょう",
+      "meaning": "with profound (and often hidden) meaning",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

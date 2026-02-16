@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "昼",
+    "reading": "ひる",
+    "romaji": "hiru",
+    "jlpt": "N5",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "siang hari",
+          "tengah hari"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "daytime"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lunch"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "昼間",
+      "reading": "ひるま",
+      "meaning": "siang hari, pada siang hari"
+    },
+    {
+      "word": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "istirahat makan siang, istirahat siang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "昼行灯",
+      "reading": "ひるあんどん",
+      "meaning": "dunce",
+      "type": "idiom"
+    },
+    {
+      "word": "昼夜兼行",
+      "reading": "ちゅうやけんこう",
+      "meaning": "around-the-clock",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "盗人の昼寝",
+      "reading": "ぬすびとのひるね",
+      "meaning": "there's a reason behind every action",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "きょう何を昼食に食べましたか。",
+      "reading": null,
+      "indonesian": "What did you eat for lunch today?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "きょう何を昼食に食べましたか。",
+      "reading": null,
+      "indonesian": "What did you have for lunch today?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

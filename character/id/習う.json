@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "習う",
+    "reading": "ならう",
+    "romaji": "narau",
+    "jlpt": "N5",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk belajar"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaning": "(untuk) berlatih"
+    },
+    {
+      "word": "復習",
+      "reading": "ふくしゅう",
+      "meaning": "peninjauan (pelajaran), revisi"
+    },
+    {
+      "word": "予習",
+      "reading": "よしゅう",
+      "meaning": "persiapan pelajaran (untuk kelas)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "習うより慣れろ",
+      "reading": "ならうよりなれろ",
+      "meaning": "experience is the best teacher",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "始まる",
+    "reading": "はじまる",
+    "romaji": "hajimaru",
+    "jlpt": "N5",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to begin",
+          "to start",
+          "to commence"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to happen (again)",
+          "to begin (anew)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to date (from)",
+          "to originate (in)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "初めて",
+      "reading": "はじめて",
+      "meaning": "for the first time"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "千里の行も足下に始まる",
+      "reading": "せんりのこうもそっかにはじまる",
+      "meaning": "a journey of a thousand miles begins with a single step",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

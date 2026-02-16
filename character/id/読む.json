@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "読む",
+    "reading": "よむ",
+    "romaji": "yomu",
+    "jlpt": "N5",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk membaca"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to recite (e.g. a sutra)",
+          "to chant"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to predict",
+          "to guess",
+          "to forecast",
+          "to read (someone's thoughts)",
+          "to see (e.g. into someone's heart)",
+          "to divine"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pronounce",
+          "to read (e.g. a kanji)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to decipher",
+          "to read (a meter, graph, music, etc.)",
+          "to tell (the time)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "サバを読む",
+      "reading": "さばをよむ",
+      "meaning": "to manipulate figures to one's advantage",
+      "type": "idiom"
+    },
+    {
+      "word": "心を読む",
+      "reading": "こころをよむ",
+      "meaning": "to read (someone's) thoughts",
+      "type": "idiom"
+    },
+    {
+      "word": "サバ読む",
+      "reading": "さばよむ",
+      "meaning": "to manipulate figures to one's advantage",
+      "type": "idiom"
+    },
+    {
+      "word": "門前の小僧習わぬ経を読む",
+      "reading": "もんぜんのこぞうならわぬきょうをよむ",
+      "meaning": "you learn, without realising it, from what is around you",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

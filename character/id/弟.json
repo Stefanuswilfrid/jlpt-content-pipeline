@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "弟",
+    "reading": "おとうと",
+    "romaji": "otouto",
+    "jlpt": "N5",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "adik"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "brother-in-law (spouse's younger brother or younger sister's husband)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "兄弟",
+      "reading": "きょうだい",
+      "meaning": "saudara kandung (rendah hati), saudara laki-laki dan perempuan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "四海兄弟",
+      "reading": "しかいけいてい",
+      "meaning": "people in the whole world being all brothers",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "穴兄弟",
+      "reading": "あなきょうだい",
+      "meaning": "men who have had sex with the same woman",
+      "type": "expression"
+    },
+    {
+      "word": "兄たり難く弟たり難し",
+      "reading": "けいたりがたくていたりがたし",
+      "meaning": "both people are superb in skill (and thus it is hard to rank them)",
+      "type": "idiom"
+    },
+    {
+      "word": "兄弟は他人の始まり",
+      "reading": "きょうだいはたにんのはじまり",
+      "meaning": "even siblings turn into strangers",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "indonesian": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "indonesian": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「兄弟はいますか？」「いいえ、一人っ子です」",
+      "reading": null,
+      "indonesian": "\"Do you have any siblings?\" \"No, I'm an only child.\"",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "definition": {
+    "word": "女",
+    "reading": "おんな",
+    "romaji": "onna",
+    "jlpt": "N5",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "woman",
+          "female"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "female lover",
+          "girlfriend",
+          "mistress",
+          "(someone's) woman"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 3,
+    "type": "odaka"
+  },
+  "related": [
+    {
+      "word": "女の子",
+      "reading": "おんなのこ",
+      "meaning": "girl"
+    },
+    {
+      "word": "女性",
+      "reading": "じょせい",
+      "meaning": "woman"
+    },
+    {
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "she"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "男尊女卑",
+      "reading": "だんそんじょひ",
+      "meaning": "male domination of women",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "老若男女",
+      "reading": "ろうにゃくなんにょ",
+      "meaning": "men and women of all ages",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "女人禁制",
+      "reading": "にょにんきんせい",
+      "meaning": "prohibition on women entering (usu. for religious reasons)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "善男善女",
+      "reading": "ぜんなんぜんにょ",
+      "meaning": "pious men and women",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "女尊男卑",
+      "reading": "じょそんだんぴ",
+      "meaning": "placing women above men",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "女心と秋の空",
+      "reading": "おんなごころとあきのそら",
+      "meaning": "a woman's heart is as fickle as autumn weather",
+      "type": "proverb"
+    },
+    {
+      "word": "マグロ女",
+      "reading": "まぐろおんな",
+      "meaning": "dead fish (woman who is unresponsive during sex)",
+      "type": "expression"
+    },
+    {
+      "word": "闇の女",
+      "reading": "やみのおんな",
+      "meaning": "street prostitute",
+      "type": "idiom"
+    },
+    {
+      "word": "紳士淑女",
+      "reading": "しんししゅくじょ",
+      "meaning": "ladies and gentlemen",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "男は松女は藤",
+      "reading": "おとこはまつおんなはふじ",
+      "meaning": "men are the strong base to which women cling",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたが女の子だからよ。",
+      "reading": null,
+      "english": "That's because you're a girl.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "渡す",
+    "reading": "わたす",
+    "romaji": "watasu",
+    "jlpt": "N5",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to ferry across (e.g. a river)",
+          "to carry across",
+          "to traverse"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lay across",
+          "to build across"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hand over",
+          "to hand in",
+          "to pass",
+          "to give",
+          "to transfer"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "渡る",
+      "reading": "わたる",
+      "meaning": "to cross over"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "引導を渡す",
+      "reading": "いんどうをわたす",
+      "meaning": "to perform the last rites over the deceased",
+      "type": "idiom"
+    },
+    {
+      "word": "バトンを渡す",
+      "reading": "バトンをわたす",
+      "meaning": "to pass the baton (e.g. in a relay race)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

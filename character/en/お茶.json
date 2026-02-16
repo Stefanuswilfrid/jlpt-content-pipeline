@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "お茶",
+    "reading": "おちゃ",
+    "romaji": "ocha",
+    "jlpt": "N5",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tea (esp. green or barley)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "tea break",
+          "teatime"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tea ceremony"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "喫茶店",
+      "reading": "きっさてん",
+      "meaning": "coffee shop"
+    },
+    {
+      "word": "紅茶",
+      "reading": "こうちゃ",
+      "meaning": "black tea"
+    },
+    {
+      "word": "茶色",
+      "reading": "ちゃいろ",
+      "meaning": "brown"
+    },
+    {
+      "word": "茶碗",
+      "reading": "ちゃわん",
+      "meaning": "rice bowl"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "お茶を濁す",
+      "reading": "おちゃをにごす",
+      "meaning": "to evade (questions)",
+      "type": "idiom"
+    },
+    {
+      "word": "お茶を挽く",
+      "reading": "おちゃをひく",
+      "meaning": "to have no customers (of a geisha, prostitute, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もう少しお茶をもらえますか。",
+      "reading": null,
+      "english": "Can I have some more tea?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "園",
+    "reading": "その",
+    "romaji": "sono",
+    "jlpt": "N5",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "itu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "place",
+          "world",
+          "environment"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "公園",
+      "reading": "こうえん",
+      "meaning": "sebuah taman"
+    },
+    {
+      "word": "動物園",
+      "reading": "どうぶつえん",
+      "meaning": "kebun binatang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "紅は園生に植えても隠れなし",
+      "reading": "くれないはそのうにうえてもかくれなし",
+      "meaning": "good wine needs no bush",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そのやり方を教えて。",
+      "reading": null,
+      "indonesian": "Teach me how you do it.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

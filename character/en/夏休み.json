@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "romaji": "natsuyasumi",
+    "jlpt": "N5",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "summer vacation",
+          "summer holiday"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夏",
+      "reading": "なつ",
+      "meaning": "summer"
+    },
+    {
+      "word": "休み",
+      "reading": "やすみ",
+      "meaning": "rest"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "楽しい夏休みをね。",
+      "reading": null,
+      "english": "Have a nice summer vacation.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "夏休み、楽しんできてね。",
+      "reading": null,
+      "english": "Have a nice summer vacation.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校より夏休みのほうがいいです。",
+      "reading": null,
+      "english": "I like summer holidays better than school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校は夏休みになる。",
+      "reading": null,
+      "english": "School will break for the summer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校はもうすぐ夏休みになる。",
+      "reading": null,
+      "english": "School will soon be over for summer vacation.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "夏休み中家にいませんでした。",
+      "reading": null,
+      "english": "I was away from home all through the summer vacation.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "夏休み中にアメリカへ行こうと思っています。",
+      "reading": null,
+      "english": "I'm thinking of going to the States during the summer vacation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

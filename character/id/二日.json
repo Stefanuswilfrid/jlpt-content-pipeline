@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "２日",
+    "reading": "ふつか",
+    "romaji": "futsuka",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dua hari; hari kedua bulan ini"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "two days"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "Minggu"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "besok"
+    },
+    {
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "Kemarin"
+    },
+    {
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "Jumat"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "Senin"
+    },
+    {
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "Rabu"
+    },
+    {
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "hari ulang tahun"
+    },
+    {
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "Sabtu"
+    },
+    {
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "Kamis"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "satu hari; hari pertama bulan"
+    },
+    {
+      "word": "明後日",
+      "reading": "あさって",
+      "meaning": "besok lusa"
+    },
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "setiap hari"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "hari ini, hari ini"
+    },
+    {
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "Selasa"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "meaning": "kemarin lusa"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは一日二日でできるでしょう。",
+      "reading": null,
+      "indonesian": "I'll be able to finish in a day or two.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このミルクは二日はもつ。",
+      "reading": null,
+      "indonesian": "The milk will keep for two days.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

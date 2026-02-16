@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "romaji": "shukudai",
+    "jlpt": "N5",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "homework",
+          "assignment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pending issue",
+          "unresolved problem",
+          "open question"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "question (e.g. on a test)"
+    },
+    {
+      "word": "下宿",
+      "reading": "げしゅく",
+      "meaning": "boarding"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

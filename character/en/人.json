@@ -1,0 +1,154 @@
+{
+  "definition": {
+    "word": "人",
+    "reading": "じん",
+    "romaji": "jin",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "-ian (e.g. Italian)",
+          "-ite (e.g. Tokyoite)"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "-er (e.g. performer, etc.)",
+          "person working with ..."
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "man",
+          "person",
+          "people"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    },
+    {
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "two persons"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "one person"
+    },
+    {
+      "word": "大人",
+      "reading": "おとな",
+      "meaning": "adult"
+    },
+    {
+      "word": "人形",
+      "reading": "にんぎょう",
+      "meaning": "doll"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "十人十色",
+      "reading": "じゅうにんといろ",
+      "meaning": "several men, several minds",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "人道主義",
+      "reading": "じんどうしゅぎ",
+      "meaning": "humanism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "二人三脚",
+      "reading": "ににんさんきゃく",
+      "meaning": "three-legged race",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "傍若無人",
+      "reading": "ぼうじゃくぶじん",
+      "meaning": "behaving outrageously as though there were no one around",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "前人未到",
+      "reading": "ぜんじんみとう",
+      "meaning": "untrodden (region, field of study, etc.)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "女人禁制",
+      "reading": "にょにんきんせい",
+      "meaning": "prohibition on women entering (usu. for religious reasons)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "佳人薄命",
+      "reading": "かじんはくめい",
+      "meaning": "beauties die young",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "桂冠詩人",
+      "reading": "けいかんしじん",
+      "meaning": "poet laureate",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "月下氷人",
+      "reading": "げっかひょうじん",
+      "meaning": "go-between",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "衆人環視",
+      "reading": "しゅうじんかんし",
+      "meaning": "all eyes (of the public)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それはあなたが一人になりたくないからです。",
+      "reading": null,
+      "english": "It's because you don't want to be alone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "親友は何人いる？",
+      "reading": null,
+      "english": "How many close friends do you have?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ほとんどの人が日々の生活について書いている。",
+      "reading": null,
+      "english": "Most people write about their daily life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

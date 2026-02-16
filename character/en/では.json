@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "では",
+    "reading": "では",
+    "romaji": "deha",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "then",
+          "well",
+          "so",
+          "well then"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "bye then"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "at",
+          "in",
+          "by",
+          "with",
+          "using"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "出る幕ではない",
+      "reading": "でるまくではない",
+      "meaning": "it is none of one's business",
+      "type": "idiom"
+    },
+    {
+      "word": "同日の談ではない",
+      "reading": "どうじつのだんではない",
+      "meaning": "not to be spoken of in the same breath",
+      "type": "idiom"
+    },
+    {
+      "word": "口では大坂の城も建つ",
+      "reading": "くちではおおさかのしろもたつ",
+      "meaning": "talk is cheap",
+      "type": "proverb"
+    },
+    {
+      "word": "ばかりが能ではない",
+      "reading": "ばかりがのうではない",
+      "meaning": "it is not everything to ...",
+      "type": "idiom"
+    },
+    {
+      "word": "同日の論ではない",
+      "reading": "どうじつのろんではない",
+      "meaning": "not to be spoken of in the same breath",
+      "type": "idiom"
+    },
+    {
+      "word": "だけが能ではない",
+      "reading": "だけがのうではない",
+      "meaning": "it is not everything to ...",
+      "type": "idiom"
+    },
+    {
+      "word": "悪人は畳の上では死ねない",
+      "reading": "あくにんはたたみのうえではしねない",
+      "meaning": "a bad person does not deserve to die in his own bed",
+      "type": "proverb"
+    },
+    {
+      "word": "転んでもただでは起きない",
+      "reading": "ころんでもただではおきない",
+      "meaning": "all's grist that comes to his mill",
+      "type": "proverb"
+    },
+    {
+      "word": "転んでもただでは起きぬ",
+      "reading": "ころんでもただではおきぬ",
+      "meaning": "all's grist that comes to his mill",
+      "type": "proverb"
+    },
+    {
+      "word": "馬に乗るまでは牛に乗れ",
+      "reading": "うまにのるまではうしにのれ",
+      "meaning": "learn to crawl before you learn to walk",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そんなつもりではなかったんだ。",
+      "reading": null,
+      "english": "That wasn't my intention.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

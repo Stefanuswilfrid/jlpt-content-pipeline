@@ -1,0 +1,150 @@
+{
+  "definition": {
+    "word": "学校",
+    "reading": "がっこう",
+    "romaji": "gakkou",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sebuah sekolah"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "murid"
+    },
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "perguruan tinggi; universitas"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "mahasiswa internasional"
+    },
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "sekolah dasar"
+    },
+    {
+      "word": "中学校",
+      "reading": "ちゅうがっこう",
+      "meaning": "murid sekolah menengah pertama"
+    },
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "meaning": "ilmu kedokteran"
+    },
+    {
+      "word": "科学",
+      "reading": "かがく",
+      "meaning": "sains"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaning": "literatur"
+    },
+    {
+      "word": "校長",
+      "reading": "こうちょう",
+      "meaning": "kepala sekolah, kepala madrasah"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "siswa sekolah menengah atas"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学校まで１０分で歩いて行ける。",
+      "reading": null,
+      "indonesian": "I can walk to school in 10 minutes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校には歩いて10分で行けます。",
+      "reading": null,
+      "indonesian": "I can walk to school in 10 minutes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校へ行きたくない。",
+      "reading": null,
+      "indonesian": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校行きたくない。",
+      "reading": null,
+      "indonesian": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校にいきたくない。",
+      "reading": null,
+      "indonesian": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "学校まで１０分で歩いて行ける。",
+      "reading": null,
+      "indonesian": "I can walk to school in 10 minutes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校まで１０分で歩いて行ける。",
+      "reading": null,
+      "indonesian": "I can walk to school in ten minutes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校へ行きたくない。",
+      "reading": null,
+      "indonesian": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校へ行きたくない。",
+      "reading": null,
+      "indonesian": "I don't want to go to school!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

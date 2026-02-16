@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "花",
+    "reading": "はな",
+    "romaji": "hana",
+    "jlpt": "N5",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bunga"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cherry blossom"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "beauty"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "blooming (esp. of cherry blossoms)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ikebana"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "花瓶",
+      "reading": "かびん",
+      "meaning": "vas bunga"
+    },
+    {
+      "word": "花見",
+      "reading": "はなみ",
+      "meaning": "melihat bunga sakura"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "花鳥風月",
+      "reading": "かちょうふうげつ",
+      "meaning": "beauties of nature",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "花より団子",
+      "reading": "はなよりだんご",
+      "meaning": "function over aesthetics",
+      "type": "idiom"
+    },
+    {
+      "word": "言わぬが花",
+      "reading": "いわぬがはな",
+      "meaning": "some things are better left unsaid",
+      "type": "proverb"
+    },
+    {
+      "word": "百花斉放",
+      "reading": "ひゃっかせいほう",
+      "meaning": "let a hundred flowers blossom",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百花繚乱",
+      "reading": "ひゃっかりょうらん",
+      "meaning": "a gathering of many beautiful women (talented people)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "落花狼藉",
+      "reading": "らっかろうぜき",
+      "meaning": "running amok",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "両手に花",
+      "reading": "りょうてにはな",
+      "meaning": "two blessings at once",
+      "type": "idiom"
+    },
+    {
+      "word": "桜花爛漫",
+      "reading": "おうからんまん",
+      "meaning": "riot of cherry blossoms",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "高嶺の花",
+      "reading": "たかねのはな",
+      "meaning": "prize beyond one's reach",
+      "type": "idiom"
+    },
+    {
+      "word": "花を持たせる",
+      "reading": "はなをもたせる",
+      "meaning": "to let (someone) have the credit (for)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "見ぬが花。",
+      "reading": null,
+      "indonesian": "Prospect is often better than possession.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "絵の中の少女は黄金ではなくて花のかんむりをかぶっています。",
+      "reading": null,
+      "indonesian": "The girl in the picture is wearing a crown not of gold but of flowers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

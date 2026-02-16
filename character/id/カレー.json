@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "咖哩",
+    "reading": "カレー",
+    "romaji": "karee",
+    "jlpt": "N5",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kari (singkatan dari kari dan nasi)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rice and curry"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "このレストランのカレーはうまいよ。",
+      "reading": null,
+      "indonesian": "The curry at this restaurant is good.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "カレーはまあまあでした。",
+      "reading": null,
+      "indonesian": "The curry was nothing special.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}
