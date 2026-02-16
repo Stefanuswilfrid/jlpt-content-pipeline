@@ -1,10 +1,19 @@
 {
+  "meta": {
+    "schemaVersion": 4,
+    "generatedAt": "2026-02-16T12:14:00.901Z",
+    "lang": "en"
+  },
   "definition": {
     "word": "食べる",
     "reading": "たべる",
     "romaji": "taberu",
     "jlpt": "N5",
     "frequency": 12250,
+    "audioUrl": "/audio/japanese/word/食べる.mp3",
+    "variants": [
+      "喰べる"
+    ],
     "entries": [
       {
         "pos": [
@@ -74,21 +83,24 @@
   ],
   "expressions": [
     {
-      "pattern": "V(dict.) + ことができる",
-      "meaning_en": "can do V",
-      "meaning_id": "bisa melakukan V",
+      "pattern": "V辞書形 + ことができる",
+      "meaning_en": "can do",
+      "meaning_id": "bisa melakukan",
+      "example": "食べることができる",
       "jlpt": "N5"
     },
     {
-      "pattern": "V(te) + ください",
-      "meaning_en": "please do V",
-      "meaning_id": "tolong lakukan V",
+      "pattern": "Vて形 + ください",
+      "meaning_en": "please do",
+      "meaning_id": "tolong lakukan",
+      "example": "食べてください",
       "jlpt": "N5"
     },
     {
-      "pattern": "V(masu stem) + たい",
-      "meaning_en": "want to V",
-      "meaning_id": "ingin V",
+      "pattern": "Vます形 + たい",
+      "meaning_en": "want to do",
+      "meaning_id": "ingin melakukan",
+      "example": "食べたい",
       "jlpt": "N5"
     }
   ],
@@ -98,5 +110,9 @@
     "register": "neutral",
     "isIrregular": false
   },
-  "examples": []
+  "srsMeta": {
+    "difficultyWeight": 0.1,
+    "reviewPriority": 2
+  },
+  "lessons": []
 }

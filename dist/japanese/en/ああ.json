@@ -1,10 +1,29 @@
 {
+  "meta": {
+    "schemaVersion": 4,
+    "generatedAt": "2026-02-16T11:54:25.390Z",
+    "lang": "en"
+  },
   "definition": {
     "word": "嗚呼",
     "reading": "ああ",
     "romaji": "aa",
     "jlpt": "N5",
     "frequency": null,
+    "audioUrl": null,
+    "variants": [
+      "噫",
+      "嗟",
+      "於乎",
+      "於戯",
+      "嗟乎",
+      "吁",
+      "あー",
+      "あぁ",
+      "アー",
+      "アア",
+      "アァ"
+    ],
     "entries": [
       {
         "pos": [
@@ -103,5 +122,9 @@
     "register": "neutral",
     "isIrregular": false
   },
-  "examples": []
+  "srsMeta": {
+    "difficultyWeight": 0.1,
+    "reviewPriority": 3
+  },
+  "lessons": []
 }

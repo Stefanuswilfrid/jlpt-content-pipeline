@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -9,6 +10,7 @@ import { loadPitchDict, lookupPitch } from './enrich/pitch.js';
 import { attachExpressions } from './enrich/expressions.js';
 import { buildTags } from './enrich/tags.js';
 import { filterSenses, filterRelatedByJlpt, JLPT_RANK } from './enrich/filters.js';
+import { initAudio, isAudioEnabled, generateAudio } from './enrich/audio.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..', '..');
@@ -19,11 +21,30 @@ const JLPT_EN_DIR = join(ROOT, 'jlpt_files', 'en');
 const JLPT_ID_DIR = join(ROOT, 'jlpt_files', 'id');
 const OUT_EN = join(ROOT, 'dist', 'japanese', 'en');
 const OUT_ID = join(ROOT, 'dist', 'japanese', 'id');
+const AUDIO_WORD_DIR = join(ROOT, 'dist', 'audio', 'japanese', 'word');
+const AUDIO_LESSON_DIR = join(ROOT, 'dist', 'audio', 'japanese', 'lesson');
+
+const SCHEMA_VERSION = 4;
 
 // ── helpers ──────────────────────────────────
 
 function loadJSON(p) {
   return JSON.parse(readFileSync(p, 'utf-8'));
+}
+
+// ── SRS meta helpers ─────────────────────────
+
+const DIFFICULTY_WEIGHT = { N5: 0.1, N4: 0.3, N3: 0.5, N2: 0.7, N1: 0.9 };
+
+function computeSrsMeta(jlpt, frequency) {
+  let reviewPriority = 3;
+  if (frequency != null && frequency < 5000) reviewPriority = 1;
+  else if (frequency != null && frequency < 15000) reviewPriority = 2;
+
+  return {
+    difficultyWeight: DIFFICULTY_WEIGHT[jlpt] ?? 0.5,
+    reviewPriority,
+  };
 }
 
 function isKanji(ch) {
@@ -163,16 +184,18 @@ function filterExamples(rawExamples, sourceJlpt, kanjidic2) {
 
 // ── main ─────────────────────────────────────
 
-function main() {
+async function main() {
   const args = process.argv.slice(2);
   const levelFlag = args.find((a) => a.startsWith('--level='))?.split('=')[1]?.toUpperCase();
   const wordFlag = args.find((a) => a.startsWith('--word='))?.split('=')[1];
+  const skipAudio = args.includes('--skip-audio');
 
   if (args.includes('--help')) {
     console.log('Usage:');
     console.log('  node build.js                   # all JLPT words');
     console.log('  node build.js --level=N5         # one level');
     console.log('  node build.js --word=食べる      # one word');
+    console.log('  node build.js --skip-audio       # skip TTS generation');
     process.exit(0);
   }
 
@@ -191,6 +214,12 @@ function main() {
   // ── load pitch data ──
   console.log('Loading pitch data...');
   loadPitchDict(DATA_DIR);
+
+  // ── init audio ──
+  if (!skipAudio) {
+    console.log('Initialising audio...');
+    initAudio();
+  }
 
   // ── load JLPT word lists ──
   console.log('Loading JLPT words...');
@@ -234,7 +263,12 @@ function main() {
   // ── generate ──
   mkdirSync(OUT_EN, { recursive: true });
   mkdirSync(OUT_ID, { recursive: true });
+  if (isAudioEnabled()) {
+    mkdirSync(AUDIO_WORD_DIR, { recursive: true });
+    mkdirSync(AUDIO_LESSON_DIR, { recursive: true });
+  }
 
+  const generatedAt = new Date().toISOString();
   let ok = 0;
   let skip = 0;
 
@@ -266,6 +300,14 @@ function main() {
     const w = primary.kanji[0] || primary.readings[0];
     const r = primary.readings[0] || jw.reading;
     const sourceFreq = freqRank(primary.priority);
+
+    // ── step 1b: collect variants (all alt kanji/reading forms) ──
+    const variants = [
+      ...new Set([
+        ...primary.kanji.filter((k) => k !== w),
+        ...primary.readings.filter((rd) => rd !== w && rd !== r),
+      ]),
+    ];
 
     // ── step 2: filter senses (V3: remove inappropriate content) ──
     const filteredSenses = filterSenses(primary.senses, jw.jlpt);
@@ -357,34 +399,70 @@ function main() {
       }));
     }
 
-    // ── step 7: attach-expressions (V3) ──
-    const expressions = attachExpressions(allPos, jw.jlpt);
+    // ── step 7: attach-expressions (V4, generic + applied examples) ──
+    const expressions = attachExpressions(allPos, jw.jlpt, w, conjugation);
 
     // ── step 8: attach-tags (V3) ──
     const tags = buildTags(allPos, jw.jlpt, kanji, filteredSenses);
 
-    // ── step 9: examples ──
+    // ── step 9: lessons (upgraded from examples) ──
     const rawExamples = exIdx?.get(jw.word) ?? [];
     const examples = filterExamples(rawExamples, jw.jlpt, kanjidic2);
 
-    const enExamples = examples.map((ex) => ({
+    const enLessons = examples.map((ex) => ({
       japanese: ex.japanese,
+      reading: null,
       english: ex.english,
+      audioUrl: null,
+      lessonInfo: {
+        source: 'tatoeba',
+        level: jw.jlpt,
+      },
     }));
 
-    const idExamples = examples.map((ex) => ({
+    const idLessons = examples.map((ex) => ({
       japanese: ex.japanese,
+      reading: null,
       indonesian: ex.english,
+      audioUrl: null,
+      lessonInfo: {
+        source: 'tatoeba',
+        level: jw.jlpt,
+      },
     }));
 
-    // ── step 10: write-en ──
+    // ── step 10: compute SRS meta (static hints) ──
+    const srsMeta = computeSrsMeta(jw.jlpt, sourceFreq);
+
+    // ── step 11: generate audio (word + lessons) ──
+    let wordAudioUrl = null;
+
+    if (isAudioEnabled()) {
+      const wordAudioPath = join(AUDIO_WORD_DIR, `${jw.word}.mp3`);
+      const generated = await generateAudio(r, wordAudioPath);
+      if (generated) wordAudioUrl = `/audio/japanese/word/${jw.word}.mp3`;
+
+      for (let i = 0; i < examples.length; i++) {
+        const lessonPath = join(AUDIO_LESSON_DIR, `${jw.word}-${i}.mp3`);
+        const ok = await generateAudio(examples[i].japanese, lessonPath);
+        if (ok) {
+          enLessons[i].audioUrl = `/audio/japanese/lesson/${jw.word}-${i}.mp3`;
+          idLessons[i].audioUrl = `/audio/japanese/lesson/${jw.word}-${i}.mp3`;
+        }
+      }
+    }
+
+    // ── step 12: write-en ──
     const en = {
+      meta: { schemaVersion: SCHEMA_VERSION, generatedAt, lang: 'en' },
       definition: {
         word: w,
         reading: r,
         romaji: toRomaji(r),
         jlpt: jw.jlpt,
         frequency: sourceFreq,
+        audioUrl: wordAudioUrl,
+        variants,
         entries: enEntries,
       },
       ...(conjugation && { conjugation }),
@@ -393,17 +471,21 @@ function main() {
       related,
       expressions,
       tags,
-      examples: enExamples,
+      srsMeta,
+      lessons: enLessons,
     };
 
-    // ── step 11: translate-id + write-id ──
+    // ── step 13: translate-id + write-id ──
     const id = {
+      meta: { schemaVersion: SCHEMA_VERSION, generatedAt, lang: 'id' },
       definition: {
         word: w,
         reading: r,
         romaji: toRomaji(r),
         jlpt: jw.jlpt,
         frequency: sourceFreq,
+        audioUrl: wordAudioUrl,
+        variants,
         entries: idEntries,
       },
       ...(conjugation && { conjugation }),
@@ -412,7 +494,8 @@ function main() {
       related: idRelated,
       expressions,
       tags,
-      examples: idExamples,
+      srsMeta,
+      lessons: idLessons,
     };
 
     writeFileSync(join(OUT_EN, `${jw.word}.json`), JSON.stringify(en, null, 2));
@@ -421,7 +504,8 @@ function main() {
     ok++;
   }
 
-  console.log(`\nDone. ${ok} generated, ${skip} skipped (not in JMdict).`);
+  const audioStatus = isAudioEnabled() ? ' (with audio)' : ' (no audio)';
+  console.log(`\nDone. ${ok} generated, ${skip} skipped${audioStatus}.`);
 }
 
 main();
