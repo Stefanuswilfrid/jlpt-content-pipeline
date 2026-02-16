@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "掴む",
+    "reading": "つかむ",
+    "romaji": "tsukamu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk merebut",
+          "untuk menangkap",
+          "untuk menggenggam"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to obtain",
+          "to acquire",
+          "to get",
+          "to win",
+          "to capture"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to understand",
+          "to grasp",
+          "to comprehend"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "捕まえる",
+      "reading": "つかまえる",
+      "meaning": "menangkap, menahan"
+    },
+    {
+      "word": "捕まる",
+      "reading": "つかまる",
+      "meaning": "ditangkap; tertangkap"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "尻尾を掴む",
+      "reading": "しっぽをつかむ",
+      "meaning": "to have something on someone",
+      "type": "idiom"
+    },
+    {
+      "word": "藁をも掴む",
+      "reading": "わらをもつかむ",
+      "meaning": "to grasp at straws",
+      "type": "idiom"
+    },
+    {
+      "word": "溺れる者は藁をも掴む",
+      "reading": "おぼれるものはわらをもつかむ",
+      "meaning": "a drowning man will clutch at a straw",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "雲を掴むような話だな。",
+      "reading": null,
+      "indonesian": "What you are saying does not make sense.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雲を掴むような話だな。",
+      "reading": null,
+      "indonesian": "What you are saying doesn't make sense.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雲を掴むような話だな。",
+      "reading": null,
+      "indonesian": "What you are saying does not make sense.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雲を掴むような話だな。",
+      "reading": null,
+      "indonesian": "What you are saying doesn't make sense.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雲を掴むような話だな。",
+      "reading": null,
+      "indonesian": "What you're saying doesn't make sense.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雲を掴むような話だな。",
+      "reading": null,
+      "indonesian": "What you're saying doesn't make sense.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

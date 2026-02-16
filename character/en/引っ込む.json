@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "引っ込む",
+    "reading": "ひっこむ",
+    "romaji": "hikkomu",
+    "jlpt": "N2",
+    "frequency": 21750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to draw back",
+          "to sink",
+          "to cave in"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be set back (e.g. from a road)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to withdraw (e.g. from the public eye)",
+          "to retire to (somewhere)",
+          "to stay indoors",
+          "to butt out",
+          "to stay out of it"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "飛び込む",
+      "reading": "とびこむ",
+      "meaning": "to jump in"
+    },
+    {
+      "word": "払い込む",
+      "reading": "はらいこむ",
+      "meaning": "to deposit"
+    },
+    {
+      "word": "引き返す",
+      "reading": "ひきかえす",
+      "meaning": "to turn back"
+    },
+    {
+      "word": "思い込む",
+      "reading": "おもいこむ",
+      "meaning": "to be convinced (that)"
+    },
+    {
+      "word": "溶け込む",
+      "reading": "とけこむ",
+      "meaning": "to melt into"
+    },
+    {
+      "word": "差し引き",
+      "reading": "さしひき",
+      "meaning": "deduction"
+    },
+    {
+      "word": "突っ込む",
+      "reading": "つっこむ",
+      "meaning": "to thrust (something) into (something)"
+    },
+    {
+      "word": "長引く",
+      "reading": "ながびく",
+      "meaning": "to be prolonged"
+    },
+    {
+      "word": "申し込む",
+      "reading": "もうしこむ",
+      "meaning": "to apply for"
+    },
+    {
+      "word": "飲み込む",
+      "reading": "のみこむ",
+      "meaning": "to swallow"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無理が通れば道理が引っ込む",
+      "reading": "むりがとおればどうりがひっこむ",
+      "meaning": "where might is master, justice is servant",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

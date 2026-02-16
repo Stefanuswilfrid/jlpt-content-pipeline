@@ -1,0 +1,148 @@
+{
+  "definition": {
+    "word": "首都",
+    "reading": "しゅと",
+    "romaji": "shuto",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "capital (city)",
+          "metropolis"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "prime minister"
+    },
+    {
+      "word": "都市",
+      "reading": "とし",
+      "meaning": "town"
+    },
+    {
+      "word": "都会",
+      "reading": "とかい",
+      "meaning": "city"
+    },
+    {
+      "word": "首",
+      "reading": "くび",
+      "meaning": "neck"
+    },
+    {
+      "word": "都",
+      "reading": "みやこ",
+      "meaning": "capital (esp. Kyoto, Japan's former capital)"
+    },
+    {
+      "word": "都心",
+      "reading": "としん",
+      "meaning": "city centre (esp. of Tokyo)"
+    },
+    {
+      "word": "都合",
+      "reading": "つごう",
+      "meaning": "circumstances"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "京都は以前日本の首都でした。",
+      "reading": null,
+      "english": "Kyoto was the former capital of Japan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "京都はかつて日本の首都でした。",
+      "reading": null,
+      "english": "Kyoto was an old capital of Japan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ロンドンは英国の首都である。",
+      "reading": null,
+      "english": "London is the capital of England.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ベルンはスイスの首都です。",
+      "reading": null,
+      "english": "Bern is the capital of Switzerland.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ベルギーの首都を知っていますか。",
+      "reading": null,
+      "english": "Do you know the capital of Belgium?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ブラジルの首都はブラジリアである。",
+      "reading": null,
+      "english": "The capital of Brazil is Brasilia.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "フィンランドの首都はどこですか。",
+      "reading": null,
+      "english": "What's the capital city of Finland?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パリはフランスの首都だ。",
+      "reading": null,
+      "english": "Paris is the capital of France.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ニュージーランドの首都ウエリントンからきました。",
+      "reading": null,
+      "english": "I'm from Wellington, the capital of New Zealand.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その国の首都は赤道下にある。",
+      "reading": null,
+      "english": "The capital of the state is right on the equator.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "オタワはカナダの首都です。",
+      "reading": null,
+      "english": "Ottawa is the capital of Canada.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

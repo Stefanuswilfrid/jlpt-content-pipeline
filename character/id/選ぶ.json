@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "選ぶ",
+    "reading": "えらぶ",
+    "romaji": "erabu",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk memilih; untuk menyeleksi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "選挙",
+      "reading": "せんきょ",
+      "meaning": "pemilihan"
+    },
+    {
+      "word": "選考",
+      "reading": "せんこう",
+      "meaning": "seleksi, penyaringan"
+    },
+    {
+      "word": "選択",
+      "reading": "せんたく",
+      "meaning": "seleksi, pilihan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "選ぶところがない",
+      "reading": "えらぶところがない",
+      "meaning": "being the same thing (as)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

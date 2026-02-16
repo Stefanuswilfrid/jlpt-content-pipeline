@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "観察",
+    "reading": "かんさつ",
+    "romaji": "kansatsu",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "observation",
+          "survey",
+          "watching"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaning": "spectator"
+    },
+    {
+      "word": "診察",
+      "reading": "しんさつ",
+      "meaning": "medical examination"
+    },
+    {
+      "word": "観光",
+      "reading": "かんこう",
+      "meaning": "sightseeing"
+    },
+    {
+      "word": "警察",
+      "reading": "けいさつ",
+      "meaning": "police"
+    },
+    {
+      "word": "観測",
+      "reading": "かんそく",
+      "meaning": "observation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "観察は消極的な科学であり、実験は積極的な科学である。",
+      "reading": null,
+      "english": "Observation is a passive science, experimentation an active science.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その男の子は一日中鳥を観察していた。",
+      "reading": null,
+      "english": "The boy observed the birds all day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その少年は植物の成長を観察した。",
+      "reading": null,
+      "english": "The boy observed the growth of the plant.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すべてが多数の観察者の目に見える。",
+      "reading": null,
+      "english": "All this is visible to numerous observers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

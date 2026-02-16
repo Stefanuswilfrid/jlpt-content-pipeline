@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "進める",
+    "reading": "すすめる",
+    "romaji": "susumeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to advance",
+          "to move forward",
+          "to put (a clock, watch) forward"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to carry forward (plans, work, etc.)",
+          "to proceed with",
+          "to make progress in",
+          "to further",
+          "to advance",
+          "to hasten",
+          "to speed up"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to raise",
+          "to elevate",
+          "to promote",
+          "to develop",
+          "to stimulate (e.g. one's appetite)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "moving forward (e.g. of a vehicle)"
+    },
+    {
+      "word": "進学",
+      "reading": "しんがく",
+      "meaning": "advancing to the next stage of education"
+    },
+    {
+      "word": "前進",
+      "reading": "ぜんしん",
+      "meaning": "advance"
+    },
+    {
+      "word": "進歩",
+      "reading": "しんぽ",
+      "meaning": "progress"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そのチームはすぐに計画を進めるだろう。",
+      "reading": null,
+      "english": "The team will go ahead with the plan soon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのチームはすぐに計画を進めるだろう。",
+      "reading": null,
+      "english": "The team will go ahead with the plan soon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

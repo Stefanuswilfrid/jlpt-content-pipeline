@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "行う",
+    "reading": "おこなう",
+    "romaji": "okonau",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "melaksanakan; menjalankan (biasanya digunakan dalam bahasa tulis)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "terbitan (publikasi)"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "praktik, pelaksanaan (misalnya, program), realisasi"
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "maju"
+    },
+    {
+      "word": "刊行",
+      "reading": "かんこう",
+      "meaning": "publikasi, terbitan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "言うは易く行うは難し",
+      "reading": "いうはやすくおこなうはかたし",
+      "meaning": "it's easier said than done",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

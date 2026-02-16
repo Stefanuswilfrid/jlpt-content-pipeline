@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "可笑しい",
+    "reading": "おかしい",
+    "romaji": "okashii",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "funny",
+          "amusing",
+          "comical",
+          "laughable",
+          "ridiculous"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "strange",
+          "odd",
+          "funny",
+          "peculiar",
+          "weird",
+          "wrong",
+          "unusual",
+          "eccentric"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "wrong",
+          "unsuitable",
+          "improper",
+          "inappropriate",
+          "unbecoming"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "suspicious"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "可愛らしい",
+      "reading": "かわいらしい",
+      "meaning": "lovely"
+    },
+    {
+      "word": "可愛い",
+      "reading": "かわいい",
+      "meaning": "cute"
+    },
+    {
+      "word": "笑う",
+      "reading": "わらう",
+      "meaning": "to laugh"
+    },
+    {
+      "word": "可能",
+      "reading": "かのう",
+      "meaning": "possible"
+    },
+    {
+      "word": "許可",
+      "reading": "きょか",
+      "meaning": "permission"
+    },
+    {
+      "word": "笑い",
+      "reading": "わらい",
+      "meaning": "laugh"
+    },
+    {
+      "word": "笑顔",
+      "reading": "えがお",
+      "meaning": "smiling face"
+    },
+    {
+      "word": "可",
+      "reading": "か",
+      "meaning": "acceptable"
+    },
+    {
+      "word": "微笑む",
+      "reading": "ほほえむ",
+      "meaning": "to smile"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "おかしいんじゃない？",
+      "reading": null,
+      "english": "Are you crazy?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "何がおかしいの？だって本当のことだもん。しょうがないじゃん。",
+      "reading": null,
+      "english": "What are you laughing at? It's a fact. No kidding!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何かおかしいと思います。",
+      "reading": null,
+      "english": "I feel that something is wrong.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはちょっとおかしいね。",
+      "reading": null,
+      "english": "It's sort of strange.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

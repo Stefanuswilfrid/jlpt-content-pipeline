@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "乗せる",
+    "reading": "のせる",
+    "romaji": "noseru",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk meletakkan (sesuatu)",
+          "untuk menerimanya"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to give (someone) a ride",
+          "to give a lift",
+          "to pick up",
+          "to help on board"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to load (luggage)",
+          "to carry",
+          "to take on board"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to send out (on the airwaves, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to deceive",
+          "to take for a ride"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to (sing) along with (musical accompaniment)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to let (someone) take part"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to excite (someone)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "乗り換える",
+      "reading": "のりかえる",
+      "meaning": "untuk berpindah (kereta api), untuk berganti (bus, kereta api, dll.)"
+    },
+    {
+      "word": "乗客",
+      "reading": "じょうきゃく",
+      "meaning": "penumpang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "バスは乗客を乗せるために止まった。",
+      "reading": null,
+      "indonesian": "The bus stopped to take up passengers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスは乗客を乗せるために止まった。",
+      "reading": null,
+      "indonesian": "The bus stopped to take up passengers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスは乗客を乗せるために止まった。",
+      "reading": null,
+      "indonesian": "The bus stopped to pick up passengers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスは乗客を乗せるために止まった。",
+      "reading": null,
+      "indonesian": "The bus stopped to pick up passengers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

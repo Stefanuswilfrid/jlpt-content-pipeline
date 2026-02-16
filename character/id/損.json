@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "損",
+    "reading": "そん",
+    "romaji": "son",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kerugian",
+          "kekurangan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "disadvantage",
+          "handicap",
+          "drawback",
+          "unfavorable"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "損害",
+      "reading": "そんがい",
+      "meaning": "kerusakan, kehilangan"
+    },
+    {
+      "word": "損得",
+      "reading": "そんとく",
+      "meaning": "kerugian dan keuntungan, kelebihan dan kekurangan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "損して得取る",
+      "reading": "そんしてとくとる",
+      "meaning": "you must lose a fly to catch a trout",
+      "type": "proverb"
+    },
+    {
+      "word": "短気は損気",
+      "reading": "たんきはそんき",
+      "meaning": "haste makes waste",
+      "type": "proverb"
+    },
+    {
+      "word": "損者三友",
+      "reading": "そんしゃさんゆう",
+      "meaning": "three kinds of harmful friends: hypocritical, sycophantic, and glib-talking ones",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "損して得取れ",
+      "reading": "そんしてとくとれ",
+      "meaning": "you must lose a fly to catch a trout",
+      "type": "proverb"
+    },
+    {
+      "word": "満は損を招く",
+      "reading": "まんはそんをまねく",
+      "meaning": "every flow has its ebb",
+      "type": "proverb"
+    },
+    {
+      "word": "くたばり損ない",
+      "reading": "くたばりぞこない",
+      "meaning": "worthless (of a person)",
+      "type": "expression"
+    },
+    {
+      "word": "急いては事を仕損ずる",
+      "reading": "せいてはことをしそんずる",
+      "meaning": "haste makes waste",
+      "type": "proverb"
+    },
+    {
+      "word": "急いては事を仕損じる",
+      "reading": "せいてはことをしそんじる",
+      "meaning": "haste makes waste",
+      "type": "proverb"
+    },
+    {
+      "word": "骨折り損のくたびれ儲け",
+      "reading": "ほねおりぞんのくたびれもうけ",
+      "meaning": "going through great pains in vain",
+      "type": "idiom"
+    },
+    {
+      "word": "女賢しくて牛売り損なう",
+      "reading": "おんなさかしくてうしうりそこなう",
+      "meaning": "even a clever woman is bound to mess up",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

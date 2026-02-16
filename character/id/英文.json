@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "英文",
+    "reading": "えいぶん",
+    "romaji": "eibun",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kalimat dalam bahasa Inggris"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "English literature",
+          "English lit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文芸",
+      "reading": "ぶんげい",
+      "meaning": "sastra, seni dan sastra"
+    },
+    {
+      "word": "文献",
+      "reading": "ぶんけん",
+      "meaning": "sastra, buku (referensi)"
+    },
+    {
+      "word": "英和",
+      "reading": "えいわ",
+      "meaning": "Bahasa Inggris-Jepang (misalnya, kamus)"
+    },
+    {
+      "word": "文体",
+      "reading": "ぶんたい",
+      "meaning": "gaya sastra"
+    },
+    {
+      "word": "文脈",
+      "reading": "ぶんみゃく",
+      "meaning": "konteks"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaning": "alat tulis"
+    },
+    {
+      "word": "和英",
+      "reading": "わえい",
+      "meaning": "Bahasa Jepang-Inggris"
+    },
+    {
+      "word": "文",
+      "reading": "ふみ",
+      "meaning": "kalimat"
+    },
+    {
+      "word": "英雄",
+      "reading": "えいゆう",
+      "meaning": "pahlawan, orang hebat"
+    },
+    {
+      "word": "文化財",
+      "reading": "ぶんかざい",
+      "meaning": "aset budaya, properti budaya"
+    },
+    {
+      "word": "文句",
+      "reading": "もんく",
+      "meaning": "pengaduan"
+    },
+    {
+      "word": "本文",
+      "reading": "ほんぶん",
+      "meaning": "teks (dokumen), isi (surat)"
+    },
+    {
+      "word": "作文",
+      "reading": "さくぶん",
+      "meaning": "esai; komposisi"
+    },
+    {
+      "word": "文",
+      "reading": "ぶん",
+      "meaning": "kalimat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この文を英文にしなさい。",
+      "reading": null,
+      "indonesian": "Put this sentence into English.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この内容を６０語の英文で要約しなさい。",
+      "reading": null,
+      "indonesian": "Summarize the contents in 60 English words.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "明日までにこの手紙を英文に直してもらいたい。",
+      "reading": null,
+      "indonesian": "I want to have this letter translated into English by tomorrow.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "かも知れない",
+    "reading": "かもしれない",
+    "romaji": "kamoshirenai",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "mungkin",
+          "barangkali"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "知恵",
+      "reading": "ちえ",
+      "meaning": "kebijaksanaan, kecerdasan, kepintaran"
+    },
+    {
+      "word": "知らせ",
+      "reading": "しらせ",
+      "meaning": "melihat"
+    },
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "gubernur prefektur"
+    },
+    {
+      "word": "知識",
+      "reading": "ちしき",
+      "meaning": "pengetahuan, informasi"
+    },
+    {
+      "word": "知能",
+      "reading": "ちのう",
+      "meaning": "kecerdasan, otak"
+    },
+    {
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "pemberitahuan, notifikasi"
+    },
+    {
+      "word": "知らせる",
+      "reading": "しらせる",
+      "meaning": "untuk memberi tahu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この本はもう読んだことあるかもしれないね。",
+      "reading": null,
+      "indonesian": "You may have read this book already.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君の言うことは正しいかもしれない。",
+      "reading": null,
+      "indonesian": "You may be right.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "農民",
+    "reading": "のうみん",
+    "romaji": "noumin",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "petani",
+          "buruh tani"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "農業",
+      "reading": "のうぎょう",
+      "meaning": "pertanian"
+    },
+    {
+      "word": "国民",
+      "reading": "こくみん",
+      "meaning": "nasional, rakyat, warga negara"
+    },
+    {
+      "word": "住民",
+      "reading": "じゅうみん",
+      "meaning": "penduduk, warga"
+    },
+    {
+      "word": "農家",
+      "reading": "のうか",
+      "meaning": "petani, keluarga petani"
+    },
+    {
+      "word": "市民",
+      "reading": "しみん",
+      "meaning": "warga negara"
+    },
+    {
+      "word": "民間",
+      "reading": "みんかん",
+      "meaning": "swasta, sipil"
+    },
+    {
+      "word": "農村",
+      "reading": "のうそん",
+      "meaning": "komunitas pertanian"
+    },
+    {
+      "word": "農薬",
+      "reading": "のうやく",
+      "meaning": "bahan kimia pertanian"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その農民は畑に麦の種をまいた。",
+      "reading": null,
+      "indonesian": "The farmer sowed his field with wheat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "農民は土地で大もうけをした。",
+      "reading": null,
+      "indonesian": "Farmers made a lucky strike on estates.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "農民は作物を作る。",
+      "reading": null,
+      "indonesian": "Farmers produce crops.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "農民たちはよいリンゴと不良品を選別する。",
+      "reading": null,
+      "indonesian": "Farmers separate good apples from bad ones.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "農民たちはいつも天候のなすがままになる。",
+      "reading": null,
+      "indonesian": "Farmers are always at the mercy of the weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

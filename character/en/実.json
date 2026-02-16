@@ -1,0 +1,220 @@
+{
+  "definition": {
+    "word": "実",
+    "reading": "じつ",
+    "romaji": "jitsu",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "truth",
+          "reality"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "sincerity",
+          "honesty",
+          "fidelity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "content",
+          "substance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "(good) result"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "reality"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fact"
+    },
+    {
+      "word": "実施",
+      "reading": "じっし",
+      "meaning": "enforcement"
+    },
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "certain"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaning": "experiment"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementation (e.g. of a system)"
+    },
+    {
+      "word": "実際",
+      "reading": "じっさい",
+      "meaning": "reality"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaning": "(real) ability"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "execution (e.g. of a plan)"
+    },
+    {
+      "word": "実績",
+      "reading": "じっせき",
+      "meaning": "achievements"
+    },
+    {
+      "word": "実用",
+      "reading": "じつよう",
+      "meaning": "practical use"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "既成事実",
+      "reading": "きせいじじつ",
+      "meaning": "established fact",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "虚々実々",
+      "reading": "きょきょじつじつ",
+      "meaning": "full of wiles and tricks",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "事実無根",
+      "reading": "じじつむこん",
+      "meaning": "groundless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有名無実",
+      "reading": "ゆうめいむじつ",
+      "meaning": "in name but not in reality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "質実剛健",
+      "reading": "しつじつごうけん",
+      "meaning": "unaffected and sincere, with fortitude and vigor (vigour)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "実践躬行",
+      "reading": "じっせんきゅうこう",
+      "meaning": "acting up to one's principles",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "真実一路",
+      "reading": "しんじついちろ",
+      "meaning": "path of sincerity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不言実行",
+      "reading": "ふげんじっこう",
+      "meaning": "action before words",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有職故実",
+      "reading": "ゆうそくこじつ",
+      "meaning": "studies in usages and practices of the ancient court and military households",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "謹厳実直",
+      "reading": "きんげんじっちょく",
+      "meaning": "sober and honest",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "真実のみが美しい。",
+      "reading": null,
+      "english": "Nothing is beautiful but the truth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "作り事はすべて、真実だ。",
+      "reading": null,
+      "english": "All that which is invented, is true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは全くの真実です。",
+      "reading": null,
+      "english": "That's the absolute truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パソコンを持つことは実用的です。",
+      "reading": null,
+      "english": "It's practical to have a laptop.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "真実のみが美しい。",
+      "reading": null,
+      "english": "Nothing is beautiful but the truth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "作り事はすべて、真実だ。",
+      "reading": null,
+      "english": "All that which is invented, is true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

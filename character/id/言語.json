@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "言語",
+    "reading": "げんご",
+    "romaji": "gengo",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bahasa"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "物語",
+      "reading": "ものがたり",
+      "meaning": "kisah, cerita, legenda"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "satu kata"
+    },
+    {
+      "word": "国語",
+      "reading": "こくご",
+      "meaning": "bahasa nasional"
+    },
+    {
+      "word": "語学",
+      "reading": "ごがく",
+      "meaning": "studi bahasa"
+    },
+    {
+      "word": "単語",
+      "reading": "たんご",
+      "meaning": "kata; kosakata"
+    },
+    {
+      "word": "伝言",
+      "reading": "でんごん",
+      "meaning": "pesan verbal"
+    },
+    {
+      "word": "語句",
+      "reading": "ごく",
+      "meaning": "kata-kata, frasa"
+    },
+    {
+      "word": "言葉",
+      "reading": "ことば",
+      "meaning": "bahasa; kata(kata); ungkapan(ungkapan)"
+    },
+    {
+      "word": "英語",
+      "reading": "えいご",
+      "meaning": "Bahasa Inggris"
+    },
+    {
+      "word": "用語",
+      "reading": "ようご",
+      "meaning": "istilah, terminologi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "言語道断",
+      "reading": "ごんごどうだん",
+      "meaning": "outrageous",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "英語は世界中で話される言語です。",
+      "reading": null,
+      "indonesian": "English is a language spoken all over the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語は世界の言語である。",
+      "reading": null,
+      "indonesian": "English is the world's language.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語は今日の世界ではとても重要な言語だ。",
+      "reading": null,
+      "indonesian": "English is a very important language in today's world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語は今日、世界にある２７００以上の言語の一つにすぎません。",
+      "reading": null,
+      "indonesian": "English is just one of over 2,700 languages in the world today.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "英語は一種の世界言語である。",
+      "reading": null,
+      "indonesian": "English is a kind of universal language.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語の単語は他の言語にずいぶん取り入れられている。",
+      "reading": null,
+      "indonesian": "English words are often borrowed by other languages.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一つの言語を知っているのと、それを教えるのは別だ。",
+      "reading": null,
+      "indonesian": "To know a language is one thing, and to teach it is another.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "辺り",
+    "reading": "あたり",
+    "romaji": "atari",
+    "jlpt": "N3",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(in the) neighbourhood",
+          "neighborhood",
+          "vicinity",
+          "nearby",
+          "surroundings"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix",
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "around",
+          "about",
+          "or thereabouts"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix",
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "for instance",
+          "say",
+          "such as"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "周辺",
+      "reading": "しゅうへん",
+      "meaning": "circumference"
+    },
+    {
+      "word": "辺",
+      "reading": "へん",
+      "meaning": "area"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この辺りにユースホステルはありますか？",
+      "reading": null,
+      "english": "Is there a youth hostel near here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この辺りにユースホステルはありますか？",
+      "reading": null,
+      "english": "Is there a youth hostel near here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この辺りにユースホステルはありますか？",
+      "reading": null,
+      "english": "Is there a youth hostel around here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "辺りをよく見なさい。",
+      "reading": null,
+      "english": "Look about you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "以前この辺りに小さなお宮があった。",
+      "reading": null,
+      "english": "There used to be a small shrine around here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "以前は、この辺りに大きな池があったんです。",
+      "reading": null,
+      "english": "There used to be a big pond around here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボストンのどの辺りに行くの？",
+      "reading": null,
+      "english": "Which part of Boston are you going to?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その辺りに立ち入ってはいけません。",
+      "reading": null,
+      "english": "Don't set foot in that neighborhood.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのホテルはこの辺りでは最高だとの折り紙つきです。",
+      "reading": null,
+      "english": "It is admitted that the hotel is the best in this area.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

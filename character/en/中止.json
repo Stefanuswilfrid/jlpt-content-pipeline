@@ -1,0 +1,210 @@
+{
+  "definition": {
+    "word": "中止",
+    "reading": "ちゅうし",
+    "romaji": "chuushi",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "interruption",
+          "discontinuance",
+          "suspension",
+          "stoppage"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "cancellation (of a planned event)",
+          "calling off"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "centre"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "center"
+    },
+    {
+      "word": "禁止",
+      "reading": "きんし",
+      "meaning": "prohibition"
+    },
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "concentration (on a task)"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "日中",
+      "reading": "にっちゅう",
+      "meaning": "daytime"
+    },
+    {
+      "word": "中身",
+      "reading": "なかみ",
+      "meaning": "contents"
+    },
+    {
+      "word": "世の中",
+      "reading": "よのなか",
+      "meaning": "society"
+    },
+    {
+      "word": "半ば",
+      "reading": "なかば",
+      "meaning": "middle"
+    },
+    {
+      "word": "止す",
+      "reading": "よす",
+      "meaning": "to stop (doing)"
+    },
+    {
+      "word": "中古",
+      "reading": "ちゅうこ",
+      "meaning": "used"
+    },
+    {
+      "word": "夜中",
+      "reading": "よなか",
+      "meaning": "middle of the night"
+    },
+    {
+      "word": "年中",
+      "reading": "ねんじゅう",
+      "meaning": "whole year"
+    },
+    {
+      "word": "夢中",
+      "reading": "むちゅう",
+      "meaning": "absorbed in"
+    },
+    {
+      "word": "熱中",
+      "reading": "ねっちゅう",
+      "meaning": "being enthusiastic about"
+    },
+    {
+      "word": "最中",
+      "reading": "さいちゅう",
+      "meaning": "(in) the middle of"
+    },
+    {
+      "word": "中間",
+      "reading": "ちゅうかん",
+      "meaning": "middle"
+    },
+    {
+      "word": "途中",
+      "reading": "とちゅう",
+      "meaning": "on the way"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は計画を中止したほうがよい。",
+      "reading": null,
+      "english": "You had better call off your plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会議は中止になったよ。",
+      "reading": null,
+      "english": "The meeting was canceled.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その会合は、中止になった。",
+      "reading": null,
+      "english": "The meeting was canceled.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "会は台風のため中止になった。",
+      "reading": null,
+      "english": "The meeting was canceled because of the typhoon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "会は雨のために中止になった。",
+      "reading": null,
+      "english": "The meeting was canceled because of the rain.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "遠足は雨のため中止になった。",
+      "reading": null,
+      "english": "The picnic was called off because of the rain.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ピクニックは雨のために中止になった。",
+      "reading": null,
+      "english": "The picnic was called off because of the rain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨天の場合は運動会を中止する。",
+      "reading": null,
+      "english": "In case of rain, the athletic meeting will be called off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨の場合はその試合は中止となる。",
+      "reading": null,
+      "english": "In the event of rain, the game will not be held.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨のため野球の試合を中止しなければならなかった。",
+      "reading": null,
+      "english": "We had to call off the baseball game because of the rain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

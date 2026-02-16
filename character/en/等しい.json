@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "等しい",
+    "reading": "ひとしい",
+    "romaji": "hitoshii",
+    "jlpt": "N3",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "equal",
+          "identical",
+          "the same"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "no different (from)",
+          "just like",
+          "equivalent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "上等",
+      "reading": "じょうとう",
+      "meaning": "superior"
+    },
+    {
+      "word": "平等",
+      "reading": "びょうどう",
+      "meaning": "equality"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その２人の先生には等しい数の生徒がいた。",
+      "reading": null,
+      "english": "The two teachers had an equal number of students.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "３角形のすべての角の和は１８０度に等しい。",
+      "reading": null,
+      "english": "The sum of all the angles in a triangle equals 180 degrees.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "２パイントは１クオートと等しい。",
+      "reading": null,
+      "english": "Two pints are equal to a quart.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "１ヤードは３フィートに等しい。",
+      "reading": null,
+      "english": "A yard is equal to three feet.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "１ドルは１００セントに等しい。",
+      "reading": null,
+      "english": "A dollar is equal to a hundred cents.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

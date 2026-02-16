@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "精神",
+    "reading": "せいしん",
+    "romaji": "seishin",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pikiran",
+          "jiwa",
+          "roh"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "attitude",
+          "mentality",
+          "will",
+          "intention"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "spirit (of a matter)",
+          "essence",
+          "fundamental significance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "神",
+      "reading": "かみ",
+      "meaning": "Tuhan"
+    },
+    {
+      "word": "神経",
+      "reading": "しんけい",
+      "meaning": "saraf, sensitivitas"
+    },
+    {
+      "word": "精巧",
+      "reading": "せいこう",
+      "meaning": "rumit, halus, indah"
+    },
+    {
+      "word": "精算",
+      "reading": "せいさん",
+      "meaning": "perhitungan tepat, penyesuaian"
+    },
+    {
+      "word": "神社",
+      "reading": "じんじゃ",
+      "meaning": "Kuil Shinto"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaning": "ketenangan pikiran, kelegaan"
+    },
+    {
+      "word": "神話",
+      "reading": "しんわ",
+      "meaning": "mitos, legenda"
+    },
+    {
+      "word": "神様",
+      "reading": "かみさま",
+      "meaning": "Tuhan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "精神一到",
+      "reading": "せいしんいっとう",
+      "meaning": "concentration of mind",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "精神統一",
+      "reading": "せいしんとういつ",
+      "meaning": "concentration of mind",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "精神一到何事か成らざらん",
+      "reading": "せいしんいっとうなにごとかならざらん",
+      "meaning": "where there is a will, there is a way",
+      "type": "proverb"
+    },
+    {
+      "word": "健全なる精神は健全なる身体に宿る",
+      "reading": "けんぜんなるせいしんはけんぜんなるしんたいにやどる",
+      "meaning": "a sound mind is in a sound body",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

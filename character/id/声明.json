@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "声明",
+    "reading": "せいめい",
+    "romaji": "seimei",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "deklarasi",
+          "pernyataan",
+          "proklamasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "peradaban"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "bukti, verifikasi"
+    },
+    {
+      "word": "歓声",
+      "reading": "かんせい",
+      "meaning": "sorak sorai, teriakan kegembiraan"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "penerangan"
+    },
+    {
+      "word": "夜明け",
+      "reading": "よあけ",
+      "meaning": "fajar, subuh"
+    },
+    {
+      "word": "明かり",
+      "reading": "あかり",
+      "meaning": "cahaya lampu, cahaya (secara umum)"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "penemuan"
+    },
+    {
+      "word": "声",
+      "reading": "こえ",
+      "meaning": "suara"
+    },
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "penjelasan"
+    },
+    {
+      "word": "透明",
+      "reading": "とうめい",
+      "meaning": "transparansi, kebersihan"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "besok"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その声明には真実のかけらもなかった。",
+      "reading": null,
+      "indonesian": "There wasn't a scrap of truth in the statement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "首相は本日声明を発表する予定です。",
+      "reading": null,
+      "indonesian": "The prime minister is to make a statement today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

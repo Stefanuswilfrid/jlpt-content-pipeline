@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "機械",
+    "reading": "きかい",
+    "romaji": "kikai",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mesin",
+          "permesinan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "instrument",
+          "appliance",
+          "apparatus"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "mesin; lembaga, organisasi"
+    },
+    {
+      "word": "機構",
+      "reading": "きこう",
+      "meaning": "mekanisme, organisasi"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaning": "fungsi, fakultas"
+    },
+    {
+      "word": "契機",
+      "reading": "けいき",
+      "meaning": "kesempatan, peluang"
+    },
+    {
+      "word": "有機",
+      "reading": "ゆうき",
+      "meaning": "organik"
+    },
+    {
+      "word": "ジェット機",
+      "reading": "ジェットき",
+      "meaning": "pesawat jet"
+    },
+    {
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "humor, temperamen, suasana hati"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaning": "kesempatan, peluang"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "pesawat terbang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "機械の心",
+      "reading": "きかいのこころ",
+      "meaning": "devious mind",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "機械力が肉体労働にとって代わった。",
+      "reading": null,
+      "indonesian": "Mechanical power took the place of manual labor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械を始動させた。",
+      "reading": null,
+      "indonesian": "I got the machine running.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "機械は油がきれてキイキイいった。",
+      "reading": null,
+      "indonesian": "The machine squealed for lack of oil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械は多量の電気を使用する。",
+      "reading": null,
+      "indonesian": "Machinery uses a lot of electricity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械は多くの人手を省く。",
+      "reading": null,
+      "indonesian": "Machinery dispenses with much labor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械はグリースで動きが悪くなった。",
+      "reading": null,
+      "indonesian": "The machine was clogged with grease.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械は今遊んでいる。",
+      "reading": null,
+      "indonesian": "The machines are idle now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "揃う",
+    "reading": "そろう",
+    "romaji": "sorou",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk menjadi sempurna",
+          "untuk menjadi setara"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be equal",
+          "to be uniform",
+          "to be even",
+          "to match",
+          "to agree"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to gather",
+          "to assemble",
+          "to be collected"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "揃える",
+      "reading": "そろえる",
+      "meaning": "untuk menata segala sesuatu, untuk mengatur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足並みが揃う",
+      "reading": "あしなみがそろう",
+      "meaning": "to keep step (with)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

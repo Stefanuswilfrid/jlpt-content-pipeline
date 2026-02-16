@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "北極",
+    "reading": "ほっきょく",
+    "romaji": "hokkyoku",
+    "jlpt": "N2",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Kutub Utara"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the Arctic"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "南北",
+      "reading": "なんぼく",
+      "meaning": "selatan dan utara"
+    },
+    {
+      "word": "南極",
+      "reading": "なんきょく",
+      "meaning": "Kutub Selatan, Antartika"
+    },
+    {
+      "word": "極楽",
+      "reading": "ごくらく",
+      "meaning": "surga"
+    },
+    {
+      "word": "北",
+      "reading": "きた",
+      "meaning": "utara"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "われわれは、ペアリーが北極を発見したと信じている。",
+      "reading": null,
+      "indonesian": "We credit Peary with having discovered the North Pole.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "北極を発見した人はピアリーだと私たちは思っている。",
+      "reading": null,
+      "indonesian": "We credit Peary with having discovered the North Pole.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "シロクマは北極地方に住んでいる。",
+      "reading": null,
+      "indonesian": "Polar bears live in the Arctic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

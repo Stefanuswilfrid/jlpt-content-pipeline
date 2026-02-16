@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "有利",
+    "reading": "ゆうり",
+    "romaji": "yuuri",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "menguntungkan",
+          "lebih baik"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "profitable",
+          "lucrative",
+          "gainful",
+          "paying"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "有効",
+      "reading": "ゆうこう",
+      "meaning": "sah, efektif"
+    },
+    {
+      "word": "権利",
+      "reading": "けんり",
+      "meaning": "hak, hak istimewa"
+    },
+    {
+      "word": "利益",
+      "reading": "りえき",
+      "meaning": "keuntungan, laba"
+    },
+    {
+      "word": "有機",
+      "reading": "ゆうき",
+      "meaning": "organik"
+    },
+    {
+      "word": "有無",
+      "reading": "うむ",
+      "meaning": "ya atau tidak, ada atau tidak ada"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "kekurangan, kelemahan"
+    },
+    {
+      "word": "有能",
+      "reading": "ゆうのう",
+      "meaning": "mampu, cakap, efisien"
+    },
+    {
+      "word": "利口",
+      "reading": "りこう",
+      "meaning": "cerdas, lihai, pintar"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaning": "penggunaan, pemanfaatan"
+    },
+    {
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaning": "terkenal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外国語を知っていれば有利である事が君にもわかるでしょう。",
+      "reading": null,
+      "indonesian": "You'll find it your advantage to know a foreign language.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その子たちはよい教育を受けたという有利な点を持っていた。",
+      "reading": null,
+      "indonesian": "The children had the benefit of a good upbringing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "コンピューターが使えるのは有利である。",
+      "reading": null,
+      "indonesian": "It is an advantage to be able to use a computer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これはあれより有利な点がたくさんある。",
+      "reading": null,
+      "indonesian": "This one has a lot of advantages over that one.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

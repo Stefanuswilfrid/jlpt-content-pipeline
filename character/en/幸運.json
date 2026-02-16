@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "幸運",
+    "reading": "こううん",
+    "romaji": "kouun",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "good luck",
+          "fortune"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "幸い",
+      "reading": "さいわい",
+      "meaning": "happiness"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "unhappiness"
+    },
+    {
+      "word": "幸せ",
+      "reading": "しあわせ",
+      "meaning": "happiness"
+    },
+    {
+      "word": "運",
+      "reading": "うん",
+      "meaning": "fortune"
+    },
+    {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "happiness"
+    },
+    {
+      "word": "運河",
+      "reading": "うんが",
+      "meaning": "(navigable) canal"
+    },
+    {
+      "word": "不運",
+      "reading": "ふうん",
+      "meaning": "misfortune"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "exercise"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operation (of a machine)"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "driver"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "幸運の女神は前髪しかない",
+      "reading": "こううんのめがみはまえがみしかない",
+      "meaning": "opportunity has hair in front, but behind she is bald",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はこんなによい友人を持って幸運だ。",
+      "reading": null,
+      "english": "You are fortunate for having such good friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の幸運がうらやましい。",
+      "reading": null,
+      "english": "I envy you your luck.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なんて幸運なんだ。",
+      "reading": null,
+      "english": "What a stroke of luck!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なんて幸運なのだろう。",
+      "reading": null,
+      "english": "How lucky we are!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ちょっとした幸運が予期せぬ成功につながるときもある。",
+      "reading": null,
+      "english": "A little bit of luck sometimes leads to an unexpected success.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

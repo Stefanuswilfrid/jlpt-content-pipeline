@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "頂きます",
+    "reading": "いただきます",
+    "romaji": "itadakimasu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "ungkapan rasa syukur sebelum makan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "頂上",
+      "reading": "ちょうじょう",
+      "meaning": "puncak, titik tertinggi"
+    },
+    {
+      "word": "頂点",
+      "reading": "ちょうてん",
+      "meaning": "puncak, titik tertinggi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ワインをいただきます。",
+      "reading": null,
+      "indonesian": "We'd like to have some wine.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "「パイをもう１ついかがですか？」「ええ、いただきます」",
+      "reading": null,
+      "indonesian": "\"Will you have another slice of pie?\" \"Yes, please.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ご注文はこれで終わらせていただきます。",
+      "reading": null,
+      "indonesian": "This is the last order.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "８ドル５０セントいただきます。",
+      "reading": null,
+      "indonesian": "$8.50, please.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "かも知れない",
+    "reading": "かもしれない",
+    "romaji": "kamoshirenai",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "may",
+          "might",
+          "perhaps",
+          "may be",
+          "possibly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "知恵",
+      "reading": "ちえ",
+      "meaning": "wisdom"
+    },
+    {
+      "word": "知らせ",
+      "reading": "しらせ",
+      "meaning": "news"
+    },
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "prefectural governor"
+    },
+    {
+      "word": "知識",
+      "reading": "ちしき",
+      "meaning": "knowledge"
+    },
+    {
+      "word": "知能",
+      "reading": "ちのう",
+      "meaning": "intelligence"
+    },
+    {
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "notice"
+    },
+    {
+      "word": "知らせる",
+      "reading": "しらせる",
+      "meaning": "to notify"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この本はもう読んだことあるかもしれないね。",
+      "reading": null,
+      "english": "You may have read this book already.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君の言うことは正しいかもしれない。",
+      "reading": null,
+      "english": "You may be right.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

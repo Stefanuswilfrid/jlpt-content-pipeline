@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "進む",
+    "reading": "すすむ",
+    "romaji": "susumu",
+    "jlpt": "N4",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk maju",
+          "untuk melanjutkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to precede",
+          "to go ahead (of)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to make progress",
+          "to improve"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to deepen",
+          "to heighten"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be fast (of a clock)",
+          "to be ahead"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "進学",
+      "reading": "しんがく",
+      "meaning": "melanjutkan ke universitas"
+    },
+    {
+      "word": "前進",
+      "reading": "ぜんしん",
+      "meaning": "maju, mendorong, berkembang"
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "maju"
+    },
+    {
+      "word": "進歩",
+      "reading": "しんぽ",
+      "meaning": "perbaikan, kemajuan, pengembangan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "箸が進む",
+      "reading": "はしがすすむ",
+      "meaning": "to eat a lot",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

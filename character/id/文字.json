@@ -1,0 +1,183 @@
+{
+  "definition": {
+    "word": "文字",
+    "reading": "もじ",
+    "romaji": "moji",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "huruf (alfabet)",
+          "karakter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "writing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "数字",
+      "reading": "すうじ",
+      "meaning": "angka, gambar"
+    },
+    {
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "memesan, meminta"
+    },
+    {
+      "word": "論文",
+      "reading": "ろんぶん",
+      "meaning": "tesis, makalah"
+    },
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "peradaban"
+    },
+    {
+      "word": "文",
+      "reading": "ふみ",
+      "meaning": "kalimat"
+    },
+    {
+      "word": "文句",
+      "reading": "もんく",
+      "meaning": "pengaduan"
+    },
+    {
+      "word": "文",
+      "reading": "ぶん",
+      "meaning": "kalimat"
+    },
+    {
+      "word": "字体",
+      "reading": "じたい",
+      "meaning": "font, huruf"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaning": "budaya"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaning": "literatur"
+    },
+    {
+      "word": "文章",
+      "reading": "ぶんしょう",
+      "meaning": "kalimat, teks"
+    },
+    {
+      "word": "字",
+      "reading": "あざ",
+      "meaning": "huruf; karakter"
+    },
+    {
+      "word": "文芸",
+      "reading": "ぶんげい",
+      "meaning": "sastra, seni dan sastra"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "真一文字",
+      "reading": "まいちもんじ",
+      "meaning": "straight line",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不立文字",
+      "reading": "ふりゅうもんじ",
+      "meaning": "Buddhist revelation through intuitive discernment",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "名前を大文字で書いてください。",
+      "reading": null,
+      "indonesian": "Write your name in capitals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の名前を大文字で書きなさい。",
+      "reading": null,
+      "indonesian": "Write your name in capitals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語のアルファベットには２６文字ある。",
+      "reading": null,
+      "indonesian": "The English alphabet has 26 letters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語のアルファベットは２６文字だ。",
+      "reading": null,
+      "indonesian": "The English alphabet has 26 letters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それをあまり文字どおりに受け取るな。",
+      "reading": null,
+      "indonesian": "Don't take that too literally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そういう四文字言葉は使わないほうがいい。",
+      "reading": null,
+      "indonesian": "You had better not use those four-letter words.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんなにたくさんの文字を覚えられません。",
+      "reading": null,
+      "indonesian": "I can't memorize so many of these letters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんなにたくさんの文字を暗記できません。",
+      "reading": null,
+      "indonesian": "I can't memorize so many of these letters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アルファベットを大文字で書きなさい。",
+      "reading": null,
+      "indonesian": "Write the alphabet in capitals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

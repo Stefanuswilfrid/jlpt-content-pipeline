@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "発表",
+    "reading": "はっぴょう",
+    "romaji": "happyou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "announcement",
+          "publication",
+          "presenting",
+          "statement",
+          "communique",
+          "making known",
+          "breaking (news story)",
+          "expressing (one's opinion)",
+          "releasing",
+          "unveiling"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "代表",
+      "reading": "だいひょう",
+      "meaning": "representation"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "publication (of a newspaper, magazine, book, etc.)"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "development"
+    },
+    {
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "expression"
+    },
+    {
+      "word": "表情",
+      "reading": "ひょうじょう",
+      "meaning": "facial expression"
+    },
+    {
+      "word": "爆発",
+      "reading": "ばくはつ",
+      "meaning": "explosion"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "discovery"
+    },
+    {
+      "word": "表面",
+      "reading": "ひょうめん",
+      "meaning": "surface"
+    },
+    {
+      "word": "発射",
+      "reading": "はっしゃ",
+      "meaning": "firing (esp. a rocket or missile)"
+    },
+    {
+      "word": "発達",
+      "reading": "はったつ",
+      "meaning": "development"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "発車",
+      "reading": "はっしゃ",
+      "meaning": "departure (of a train, car, etc.)"
+    },
+    {
+      "word": "表す",
+      "reading": "あらわす",
+      "meaning": "to represent"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "意外な結果が発表された。",
+      "reading": null,
+      "english": "Unexpected results were announced.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ブラウン先生に発表の前にスピーチを直してもらうべきです。",
+      "reading": null,
+      "english": "You should have Mr Brown correct your speech before the presentation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

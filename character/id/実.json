@@ -1,0 +1,220 @@
+{
+  "definition": {
+    "word": "実",
+    "reading": "じつ",
+    "romaji": "jitsu",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "buah",
+          "hasil yang baik"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "sincerity",
+          "honesty",
+          "fidelity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "content",
+          "substance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "(good) result"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "realitas"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fakta, kebenaran, realitas"
+    },
+    {
+      "word": "実施",
+      "reading": "じっし",
+      "meaning": "penegakan, melaksanakan, operasi"
+    },
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "kepastian, keandalan, kekokohan"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaning": "pekerjaan laboratorium; percobaan"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementasi, materialisasi, realisasi"
+    },
+    {
+      "word": "実際",
+      "reading": "じっさい",
+      "meaning": "sebenarnya; pada kenyataannya"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaning": "kemampuan; kekuatan"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "praktik, pelaksanaan (misalnya, program), realisasi"
+    },
+    {
+      "word": "実績",
+      "reading": "じっせき",
+      "meaning": "prestasi, hasil nyata"
+    },
+    {
+      "word": "実用",
+      "reading": "じつよう",
+      "meaning": "penggunaan praktis, kegunaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "既成事実",
+      "reading": "きせいじじつ",
+      "meaning": "established fact",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "虚々実々",
+      "reading": "きょきょじつじつ",
+      "meaning": "full of wiles and tricks",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "事実無根",
+      "reading": "じじつむこん",
+      "meaning": "groundless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有名無実",
+      "reading": "ゆうめいむじつ",
+      "meaning": "in name but not in reality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "質実剛健",
+      "reading": "しつじつごうけん",
+      "meaning": "unaffected and sincere, with fortitude and vigor (vigour)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "実践躬行",
+      "reading": "じっせんきゅうこう",
+      "meaning": "acting up to one's principles",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "真実一路",
+      "reading": "しんじついちろ",
+      "meaning": "path of sincerity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不言実行",
+      "reading": "ふげんじっこう",
+      "meaning": "action before words",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有職故実",
+      "reading": "ゆうそくこじつ",
+      "meaning": "studies in usages and practices of the ancient court and military households",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "謹厳実直",
+      "reading": "きんげんじっちょく",
+      "meaning": "sober and honest",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "真実のみが美しい。",
+      "reading": null,
+      "indonesian": "Nothing is beautiful but the truth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "作り事はすべて、真実だ。",
+      "reading": null,
+      "indonesian": "All that which is invented, is true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは全くの真実です。",
+      "reading": null,
+      "indonesian": "That's the absolute truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パソコンを持つことは実用的です。",
+      "reading": null,
+      "indonesian": "It's practical to have a laptop.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "真実のみが美しい。",
+      "reading": null,
+      "indonesian": "Nothing is beautiful but the truth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "作り事はすべて、真実だ。",
+      "reading": null,
+      "indonesian": "All that which is invented, is true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

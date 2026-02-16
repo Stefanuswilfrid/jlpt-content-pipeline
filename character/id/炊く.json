@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "炊く",
+    "reading": "たく",
+    "romaji": "taku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "merebus",
+          "memasak"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to boil",
+          "to simmer",
+          "to stew",
+          "to seethe"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get angry",
+          "to snap"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "炊事",
+      "reading": "すいじ",
+      "meaning": "memasak"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

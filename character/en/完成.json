@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "完成",
+    "reading": "かんせい",
+    "romaji": "kansei",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "completion",
+          "perfection",
+          "accomplishment"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "成長",
+      "reading": "せいちょう",
+      "meaning": "growth"
+    },
+    {
+      "word": "賛成",
+      "reading": "さんせい",
+      "meaning": "approval"
+    },
+    {
+      "word": "構成",
+      "reading": "こうせい",
+      "meaning": "composition"
+    },
+    {
+      "word": "成功",
+      "reading": "せいこう",
+      "meaning": "success"
+    },
+    {
+      "word": "成績",
+      "reading": "せいせき",
+      "meaning": "results"
+    },
+    {
+      "word": "完全",
+      "reading": "かんぜん",
+      "meaning": "perfect"
+    },
+    {
+      "word": "成人",
+      "reading": "せいじん",
+      "meaning": "adult"
+    },
+    {
+      "word": "完了",
+      "reading": "かんりょう",
+      "meaning": "completion"
+    },
+    {
+      "word": "成年",
+      "reading": "せいねん",
+      "meaning": "adult age"
+    },
+    {
+      "word": "成立",
+      "reading": "せいりつ",
+      "meaning": "formation"
+    },
+    {
+      "word": "作成",
+      "reading": "さくせい",
+      "meaning": "making (a report, plan, contract, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は自分でそれを完成しなければならない。",
+      "reading": null,
+      "english": "You yourself have to finish it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "橋は今年末までには完成されるだろう。",
+      "reading": null,
+      "english": "The bridge will be completed by the end of this year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "橋はその時までに完成していた。",
+      "reading": null,
+      "english": "The bridge had been built before that time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつ完成したのですか。",
+      "reading": null,
+      "english": "When was it finished?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "われわれの家が完成されるまでに３カ月かかるだろう。",
+      "reading": null,
+      "english": "It will be three months before our house is completed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "やっと絵が完成したよ。",
+      "reading": null,
+      "english": "Finally, I finished a painting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

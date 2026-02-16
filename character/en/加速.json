@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "加速",
+    "reading": "かそく",
+    "romaji": "kasoku",
+    "jlpt": "N2",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "acceleration",
+          "speeding up"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時速",
+      "reading": "じそく",
+      "meaning": "speed (per hour)"
+    },
+    {
+      "word": "加速度",
+      "reading": "かそくど",
+      "meaning": "acceleration"
+    },
+    {
+      "word": "追加",
+      "reading": "ついか",
+      "meaning": "addition"
+    },
+    {
+      "word": "俄",
+      "reading": "にわか",
+      "meaning": "sudden"
+    },
+    {
+      "word": "加熱",
+      "reading": "かねつ",
+      "meaning": "heating"
+    },
+    {
+      "word": "速達",
+      "reading": "そくたつ",
+      "meaning": "express"
+    },
+    {
+      "word": "速力",
+      "reading": "そくりょく",
+      "meaning": "speed"
+    },
+    {
+      "word": "加入",
+      "reading": "かにゅう",
+      "meaning": "joining (a club, organization, etc.)"
+    },
+    {
+      "word": "加工",
+      "reading": "かこう",
+      "meaning": "manufacturing"
+    },
+    {
+      "word": "高速",
+      "reading": "こうそく",
+      "meaning": "high-speed"
+    },
+    {
+      "word": "速度",
+      "reading": "そくど",
+      "meaning": "speed"
+    },
+    {
+      "word": "迅速",
+      "reading": "じんそく",
+      "meaning": "(very) quick"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ドライバーは車を加速させた。",
+      "reading": null,
+      "english": "The driver accelerated his car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その政策は、インフレを加速させるだけだ。",
+      "reading": null,
+      "english": "The policy will only accelerate inflation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "列車は加速した。",
+      "reading": null,
+      "english": "The train gathered speed.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その政策は、インフレを加速させるだけだ。",
+      "reading": null,
+      "english": "The policy will only accelerate inflation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "列車は加速した。",
+      "reading": null,
+      "english": "The train gathered speed.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ドライバーは車を加速させた。",
+      "reading": null,
+      "english": "The driver accelerated his car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

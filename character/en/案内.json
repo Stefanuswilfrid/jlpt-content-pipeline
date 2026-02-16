@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "案内",
+    "reading": "あんない",
+    "romaji": "annai",
+    "jlpt": "N4",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "guidance",
+          "leading (the way)",
+          "showing around"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "information",
+          "notice",
+          "notification"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "announcement (of a visitor's arrival)",
+          "informing (someone) of a visitor's arrival"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "invitation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "acquaintance",
+          "knowledge"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "以内",
+      "reading": "いない",
+      "meaning": "within"
+    },
+    {
+      "word": "内",
+      "reading": "うち",
+      "meaning": "inside"
+    },
+    {
+      "word": "家内",
+      "reading": "かない",
+      "meaning": "(my) wife"
+    },
+    {
+      "word": "提案",
+      "reading": "ていあん",
+      "meaning": "proposal"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

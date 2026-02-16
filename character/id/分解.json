@@ -1,0 +1,259 @@
+{
+  "definition": {
+    "word": "分解",
+    "reading": "ぶんかい",
+    "romaji": "bunkai",
+    "jlpt": "N2",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "analisis",
+          "pembongkaran"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "decomposition",
+          "resolution",
+          "disintegration",
+          "degradation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "factorization"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "分数",
+      "reading": "ぶんすう",
+      "meaning": "pecahan (dalam matematika)"
+    },
+    {
+      "word": "水分",
+      "reading": "すいぶん",
+      "meaning": "kelembapan"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "divisi, bagian, klasifikasi"
+    },
+    {
+      "word": "分布",
+      "reading": "ぶんぷ",
+      "meaning": "distribusi"
+    },
+    {
+      "word": "分類",
+      "reading": "ぶんるい",
+      "meaning": "klasifikasi"
+    },
+    {
+      "word": "解答",
+      "reading": "かいとう",
+      "meaning": "jawaban, solusi"
+    },
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "perpisahan, pembubaran"
+    },
+    {
+      "word": "解放",
+      "reading": "かいほう",
+      "meaning": "pembebasan, kemerdekaan"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "penjelasan, komentar"
+    },
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaning": "bahan, komponen, komposisi"
+    },
+    {
+      "word": "身分",
+      "reading": "みぶん",
+      "meaning": "posisi, status"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "jumlah, kuantitas"
+    },
+    {
+      "word": "幾分",
+      "reading": "いくぶん",
+      "meaning": "agak"
+    },
+    {
+      "word": "等分",
+      "reading": "とうぶん",
+      "meaning": "pembagian menjadi bagian yang sama"
+    },
+    {
+      "word": "養分",
+      "reading": "ようぶん",
+      "meaning": "makanan, nutrisi"
+    },
+    {
+      "word": "何分",
+      "reading": "なにぶん",
+      "meaning": "Tentu saja, silakan."
+    },
+    {
+      "word": "何分",
+      "reading": "なんぷん",
+      "meaning": "Tentu saja, silakan."
+    },
+    {
+      "word": "分配",
+      "reading": "ぶんぱい",
+      "meaning": "pembagian, berbagi"
+    },
+    {
+      "word": "分かれる",
+      "reading": "わかれる",
+      "meaning": "bercabang, menyimpang dari"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私はラジオを修理するために分解した。",
+      "reading": null,
+      "indonesian": "I took the radio apart to repair it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "プリズムは光を分解する。",
+      "reading": null,
+      "indonesian": "A prism decomposes light.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その男の子はラジオを分解した。",
+      "reading": null,
+      "indonesian": "The boy took the radio apart.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その子供は時計を面白がって分解した。",
+      "reading": null,
+      "indonesian": "He took the clock apart just for fun.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その機械を分解してみよう。",
+      "reading": null,
+      "indonesian": "Let's analyze the machine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この液体は３つの要素に分解できる。",
+      "reading": null,
+      "indonesian": "This liquid can be resolved into three elements.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "熱がこの化学薬品を無害な気体に分解するだろう。",
+      "reading": null,
+      "indonesian": "Heat will break this chemical down into harmless gases.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "水は酸素と水素に分解できる。",
+      "reading": null,
+      "indonesian": "Water can be decomposed into oxygen and hydrogen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "時計を分解するのは組み立てるより簡単だ。",
+      "reading": null,
+      "indonesian": "Taking a watch apart is easier than putting it together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "光線はプリズムによって七色に分解される。",
+      "reading": null,
+      "indonesian": "Light is resolved by a prism into seven colors.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はラジオを修理するために分解した。",
+      "reading": null,
+      "indonesian": "I took the radio apart to repair it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "プリズムは光を分解する。",
+      "reading": null,
+      "indonesian": "A prism decomposes light.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その男の子はラジオを分解した。",
+      "reading": null,
+      "indonesian": "The boy took the radio apart.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その子供は時計を面白がって分解した。",
+      "reading": null,
+      "indonesian": "He took the clock apart just for fun.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

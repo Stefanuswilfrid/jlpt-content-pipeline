@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "完了",
+    "reading": "かんりょう",
+    "romaji": "kanryou",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "completion",
+          "conclusion"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perfect (tense)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "完成",
+      "reading": "かんせい",
+      "meaning": "completion"
+    },
+    {
+      "word": "完全",
+      "reading": "かんぜん",
+      "meaning": "perfect"
+    },
+    {
+      "word": "終える",
+      "reading": "おえる",
+      "meaning": "to finish"
+    },
+    {
+      "word": "終了",
+      "reading": "しゅうりょう",
+      "meaning": "end"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

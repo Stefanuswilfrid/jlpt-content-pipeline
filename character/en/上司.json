@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "上司",
+    "reading": "じょうし",
+    "romaji": "joushi",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(one's) superior",
+          "(one's) boss",
+          "the higher-ups"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "頂上",
+      "reading": "ちょうじょう",
+      "meaning": "top"
+    },
+    {
+      "word": "上京",
+      "reading": "じょうきょう",
+      "meaning": "going (up) to the capital"
+    },
+    {
+      "word": "上達",
+      "reading": "じょうたつ",
+      "meaning": "improvement (e.g. in skill, ability)"
+    },
+    {
+      "word": "目上",
+      "reading": "めうえ",
+      "meaning": "superior"
+    },
+    {
+      "word": "上等",
+      "reading": "じょうとう",
+      "meaning": "superior"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "クソ上司",
+      "reading": "クソじょうし",
+      "meaning": "asshole boss",
+      "type": "expression"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "どの上司にもお気に入りの部下がいるものだ。",
+      "reading": null,
+      "english": "Every boss has his or her favorite employee.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの仕事は上司の命令でやった。",
+      "reading": null,
+      "english": "I did that work on the orders of my boss.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは上司とうまくやっていけていますか。",
+      "reading": null,
+      "english": "Do you get along with your boss?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "上司におべっかを使う必要はない。",
+      "reading": null,
+      "english": "You don't need to flatter your boss.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはしょっちゅう上司とけんかしている。",
+      "reading": null,
+      "english": "You're always disagreeing with your boss.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "失礼",
+    "reading": "しつれい",
+    "romaji": "shitsurei",
+    "jlpt": "N4",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "discourtesy",
+          "impoliteness"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "excuse me",
+          "goodbye"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to leave"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to be rude"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "failure"
+    },
+    {
+      "word": "お礼",
+      "reading": "おれい",
+      "meaning": "thanks"
+    },
+    {
+      "word": "無くなる",
+      "reading": "なくなる",
+      "meaning": "to be lost (e.g. luggage)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "失礼千万",
+      "reading": "しつれいせんばん",
+      "meaning": "extremely rude (impertinent, impolite)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "攻撃",
+    "reading": "こうげき",
+    "romaji": "kougeki",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "attack",
+          "assault",
+          "raid",
+          "onslaught",
+          "offensive"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "criticism",
+          "censure",
+          "denunciation",
+          "condemnation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "専攻",
+      "reading": "せんこう",
+      "meaning": "major subject"
+    },
+    {
+      "word": "攻める",
+      "reading": "せめる",
+      "meaning": "to attack"
+    },
+    {
+      "word": "撃つ",
+      "reading": "うつ",
+      "meaning": "to shoot (a gun, person, etc.)"
+    },
+    {
+      "word": "討つ",
+      "reading": "うつ",
+      "meaning": "to attack"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人身攻撃",
+      "reading": "じんしんこうげき",
+      "meaning": "personal attack",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "波状攻撃",
+      "reading": "はじょうこうげき",
+      "meaning": "attacking in waves",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "先制攻撃",
+      "reading": "せんせいこうげき",
+      "meaning": "preemptive strike",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

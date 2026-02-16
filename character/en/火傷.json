@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "火傷",
+    "reading": "やけど",
+    "romaji": "yakedo",
+    "jlpt": "N2",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "burn",
+          "scald"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "getting one's fingers burned (e.g. poor investment, mixing with the wrong people)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "火山",
+      "reading": "かざん",
+      "meaning": "volcano"
+    },
+    {
+      "word": "噴火",
+      "reading": "ふんか",
+      "meaning": "eruption"
+    },
+    {
+      "word": "花火",
+      "reading": "はなび",
+      "meaning": "fireworks"
+    },
+    {
+      "word": "火口",
+      "reading": "ひぐち",
+      "meaning": "burner"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "火傷して水ぶくれになった。",
+      "reading": null,
+      "english": "I got blisters from the burn.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は指先を火傷した。",
+      "reading": null,
+      "english": "I burned my fingertip.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "指先を火傷しました。",
+      "reading": null,
+      "english": "I burnt my fingertip.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "指先を火傷しました。",
+      "reading": null,
+      "english": "I burnt my fingertip.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火傷したらすぐに水で冷やしなさい。",
+      "reading": null,
+      "english": "If you burn yourself, quickly cool the burn with water.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

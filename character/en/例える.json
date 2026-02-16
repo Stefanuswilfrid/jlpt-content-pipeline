@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "例える",
+    "reading": "たとえる",
+    "romaji": "tatoeru",
+    "jlpt": "N2",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to compare (something) to",
+          "to liken",
+          "to speak figuratively",
+          "to use a simile",
+          "to use a metaphor"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "実例",
+      "reading": "じつれい",
+      "meaning": "example"
+    },
+    {
+      "word": "例え",
+      "reading": "たとえ",
+      "meaning": "example"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "読書は旅に例えることができる。",
+      "reading": null,
+      "english": "Reading a book can be compared to making a journey.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人生を一つの物語に例える人もいます。",
+      "reading": null,
+      "english": "Some people compare life to a story.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人生を一つの物語に例える人もいます。",
+      "reading": null,
+      "english": "Some people compare life to a story.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "読書は旅に例えることができる。",
+      "reading": null,
+      "english": "Reading a book can be compared to making a journey.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

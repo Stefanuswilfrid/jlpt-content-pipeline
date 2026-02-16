@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "対",
+    "reading": "たい",
+    "romaji": "tai",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pasangan",
+          "sepasang",
+          "satu set"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "to (e.g. score of 4 to 2, ratio of 3 to 1, vote of 320 to 180)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "toward ...",
+          "to ...",
+          "with ...",
+          "against ...",
+          "anti-"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "equal footing",
+          "equal terms"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "opposite"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "対照",
+      "reading": "たいしょう",
+      "meaning": "kontras, antitesis, perbandingan"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaning": "sasaran; objek (ibadah, studi, dll.); subjek (misalnya, perpajakan)"
+    },
+    {
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "pasti, tanpa gagal, mutlak"
+    },
+    {
+      "word": "応対",
+      "reading": "おうたい",
+      "meaning": "menerima, menangani"
+    },
+    {
+      "word": "対策",
+      "reading": "たいさく",
+      "meaning": "rencana tandingan, tindakan penanggulangan"
+    },
+    {
+      "word": "反対",
+      "reading": "はんたい",
+      "meaning": "menentang, oposisi, perlawanan"
+    },
+    {
+      "word": "対立",
+      "reading": "たいりつ",
+      "meaning": "konfrontasi, oposisi, antagonisme"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "対岸の火事",
+      "reading": "たいがんのかじ",
+      "meaning": "someone else's problem",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

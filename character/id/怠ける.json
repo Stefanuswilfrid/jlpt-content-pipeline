@@ -1,0 +1,41 @@
+{
+  "definition": {
+    "word": "怠ける",
+    "reading": "なまける",
+    "romaji": "namakeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "bermalas-malasan",
+          "mengabaikan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to neglect (e.g. one's work)",
+          "to be neglectful of",
+          "to skip (e.g. school)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "怠る",
+      "reading": "おこたる",
+      "meaning": "mengabaikan, gagal"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

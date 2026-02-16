@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "番組",
+    "reading": "ばんぐみ",
+    "romaji": "bangumi",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "program (e.g. TV)",
+          "programme"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "number one"
+    },
+    {
+      "word": "組織",
+      "reading": "そしき",
+      "meaning": "organization"
+    },
+    {
+      "word": "組合",
+      "reading": "くみあい",
+      "meaning": "association"
+    },
+    {
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "number"
+    },
+    {
+      "word": "組",
+      "reading": "くみ",
+      "meaning": "class (of students)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もうこの番組はたくさんだ。",
+      "reading": null,
+      "english": "I've had enough of this program.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "テレビ番組の中にはおもしろいのもあれば、そうでないのもある。",
+      "reading": null,
+      "english": "Some TV programs are interesting, and others are not.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

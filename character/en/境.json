@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "境",
+    "reading": "さかい",
+    "romaji": "sakai",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "border",
+          "boundary"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "turning point",
+          "watershed"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "area",
+          "region",
+          "spot",
+          "space",
+          "environment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "psychological state",
+          "mental state"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cognitive object",
+          "something perceptible by the sense organs or mind"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaning": "environment"
+    },
+    {
+      "word": "国境",
+      "reading": "こっきょう",
+      "meaning": "border (between countries)"
+    },
+    {
+      "word": "境界",
+      "reading": "きょうかい",
+      "meaning": "boundary"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "苦境に立つ",
+      "reading": "くきょうにたつ",
+      "meaning": "to be in difficulties",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

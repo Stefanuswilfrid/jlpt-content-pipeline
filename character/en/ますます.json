@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "益々",
+    "reading": "ますます",
+    "romaji": "masumasu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "increasingly",
+          "more and more",
+          "decreasingly (when declining)",
+          "less and less"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "利益",
+      "reading": "りえき",
+      "meaning": "profit"
+    },
+    {
+      "word": "増す",
+      "reading": "ます",
+      "meaning": "to increase"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "多々益々弁ず",
+      "reading": "たたますますべんず",
+      "meaning": "the busier you are, the better you work",
+      "type": "proverb"
+    },
+    {
+      "word": "老いては益々壮んなるべし",
+      "reading": "おいてはますますさかんなるべし",
+      "meaning": "man flourishes with age",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空はますます暗くなった。",
+      "reading": null,
+      "english": "The sky grew darker and darker.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空はますます暗くなった。",
+      "reading": null,
+      "english": "The sky became darker and darker.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "近年では、電子コンピューターがますます重要になってきた。",
+      "reading": null,
+      "english": "In recent years electronic computers have become increasingly important.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "学べば学ぶほどますます学びたくなる。",
+      "reading": null,
+      "english": "The more you learn, the more you want to.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学べば学ぶほど、ますます自分が無知であることがわかる。",
+      "reading": null,
+      "english": "The more you study, the more you discover your ignorance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "鉄砲",
+    "reading": "てっぽう",
+    "romaji": "teppou",
+    "jlpt": "N2",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gun",
+          "firearm"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wooden pole that wrestlers strike in practice"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "puffer fish"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "鉄橋",
+      "reading": "てっきょう",
+      "meaning": "railway bridge"
+    },
+    {
+      "word": "私鉄",
+      "reading": "してつ",
+      "meaning": "private railway"
+    },
+    {
+      "word": "鉄棒",
+      "reading": "てつぼう",
+      "meaning": "iron rod"
+    },
+    {
+      "word": "鉄道",
+      "reading": "てつどう",
+      "meaning": "railroad"
+    },
+    {
+      "word": "鉄",
+      "reading": "てつ",
+      "meaning": "iron (Fe)"
+    },
+    {
+      "word": "鉄鋼",
+      "reading": "てっこう",
+      "meaning": "iron and steel"
+    },
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "subway"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "闇夜の鉄砲",
+      "reading": "やみよのてっぽう",
+      "meaning": "aimless attempt",
+      "type": "idiom"
+    },
+    {
+      "word": "闇に鉄砲",
+      "reading": "やみにてっぽう",
+      "meaning": "doing something without having decided what one's goal for it is",
+      "type": "idiom"
+    },
+    {
+      "word": "下手な鉄砲も数撃てば当たる",
+      "reading": "へたなてっぽうもかずうてばあたる",
+      "meaning": "even the unskilled can succeed by a fluke given enough tries",
+      "type": "proverb"
+    },
+    {
+      "word": "下手な鉄砲も数撃ちゃ当たる",
+      "reading": "へたなてっぽうもかずうちゃあたる",
+      "meaning": "even the unskilled can succeed by a fluke given enough tries",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

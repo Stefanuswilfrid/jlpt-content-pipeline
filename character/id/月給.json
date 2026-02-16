@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "月給",
+    "reading": "げっきゅう",
+    "romaji": "gekkyuu",
+    "jlpt": "N2",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gaji bulanan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "月日",
+      "reading": "がっぴ",
+      "meaning": "waktu, tahun, hari"
+    },
+    {
+      "word": "月末",
+      "reading": "げつまつ",
+      "meaning": "akhir bulan"
+    },
+    {
+      "word": "給与",
+      "reading": "きゅうよ",
+      "meaning": "gaji"
+    },
+    {
+      "word": "月日",
+      "reading": "つきひ",
+      "meaning": "waktu, tahun, hari"
+    },
+    {
+      "word": "三日月",
+      "reading": "みかづき",
+      "meaning": "bulan Sabit"
+    },
+    {
+      "word": "配給",
+      "reading": "はいきゅう",
+      "meaning": "distribusi (misalnya, film, beras)"
+    },
+    {
+      "word": "補給",
+      "reading": "ほきゅう",
+      "meaning": "pasokan, penyediaan, pengisian kembali"
+    },
+    {
+      "word": "月",
+      "reading": "つき",
+      "meaning": "bulan"
+    },
+    {
+      "word": "月賦",
+      "reading": "げっぷ",
+      "meaning": "angsuran bulanan"
+    },
+    {
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "Senin"
+    },
+    {
+      "word": "再来月",
+      "reading": "さらいげつ",
+      "meaning": "bulan setelah bulan depan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "安月給でどうにか暮らしています。",
+      "reading": null,
+      "indonesian": "I'm managing scraping along on a small salary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本では、通常所得税は月給から天引きされる。",
+      "reading": null,
+      "indonesian": "In Japan, the payroll tax is usually withheld from the monthly salary.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本では、月給です。",
+      "reading": null,
+      "indonesian": "In Japan, we are paid by the month.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "私の月給は30万円だ。",
+      "reading": null,
+      "indonesian": "My monthly wage is 300,000 yen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

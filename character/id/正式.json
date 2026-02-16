@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "正式",
+    "reading": "せいしき",
+    "romaji": "seishiki",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "resmi",
+          "formal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "修正",
+      "reading": "しゅうせい",
+      "meaning": "amandemen, koreksi"
+    },
+    {
+      "word": "正午",
+      "reading": "しょうご",
+      "meaning": "siang, tengah hari"
+    },
+    {
+      "word": "正",
+      "reading": "せい",
+      "meaning": "(logis) benar, teratur"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "ketidakadilan, ketidaksetaraan"
+    },
+    {
+      "word": "公正",
+      "reading": "こうせい",
+      "meaning": "keadilan, kewajaran, ketidakberpihakan"
+    },
+    {
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaning": "kejujuran, integritas, keterusterangan"
+    },
+    {
+      "word": "正規",
+      "reading": "せいき",
+      "meaning": "teratur, sah"
+    },
+    {
+      "word": "正体",
+      "reading": "しょうたい",
+      "meaning": "bentuk alami, warna asli seseorang, karakter sejati"
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaning": "akurat, tepat waktu, tepat"
+    },
+    {
+      "word": "改正",
+      "reading": "かいせい",
+      "meaning": "revisi, amandemen, perubahan"
+    },
+    {
+      "word": "公式",
+      "reading": "こうしき",
+      "meaning": "rumus, formalitas, resmi"
+    },
+    {
+      "word": "正面",
+      "reading": "しょうめん",
+      "meaning": "depan"
+    },
+    {
+      "word": "形式",
+      "reading": "けいしき",
+      "meaning": "bentuk, formalitas, format"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "スポークスマンはそのレポートが本当であると正式に発表した。",
+      "reading": null,
+      "indonesian": "The spokesman confirmed that the report was true.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは正式なスピーチを用意する必要がありません。",
+      "reading": null,
+      "indonesian": "You needn't prepare a formal speech.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

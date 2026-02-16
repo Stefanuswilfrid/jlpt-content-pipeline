@@ -1,0 +1,167 @@
+{
+  "definition": {
+    "word": "単位",
+    "reading": "たんい",
+    "romaji": "tan'i",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kredit (untuk suatu mata kuliah di sekolah); satuan",
+          "denominasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unit (i.e. one comprised of many)",
+          "group",
+          "whole"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "credit (in school, university, etc.)",
+          "point"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "by the ...",
+          "in units of ...",
+          "in groups of ...",
+          "in amounts of ...",
+          "each ...",
+          "by ...",
+          "every..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "地位",
+      "reading": "ちい",
+      "meaning": "(kedudukan) sosial, status"
+    },
+    {
+      "word": "単純",
+      "reading": "たんじゅん",
+      "meaning": "kesederhanaan"
+    },
+    {
+      "word": "位置",
+      "reading": "いち",
+      "meaning": "tempat, posisi"
+    },
+    {
+      "word": "位",
+      "reading": "くらい",
+      "meaning": "nilai, peringkat, tentang"
+    },
+    {
+      "word": "単語",
+      "reading": "たんご",
+      "meaning": "kata; kosakata"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "sederhana"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "Kaos kaki Jepang (dengan jari kaki terpisah)"
+    },
+    {
+      "word": "単なる",
+      "reading": "たんなる",
+      "meaning": "semata-mata, sederhana, murni"
+    },
+    {
+      "word": "単に",
+      "reading": "たんに",
+      "meaning": "sederhana, hanya"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "りんごは１ダース単位で売られている。",
+      "reading": null,
+      "indonesian": "Apples are sold by the dozen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ポンドは重さの単位である。",
+      "reading": null,
+      "indonesian": "A pound is a unit of weight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボートを時間単位で借りられる。",
+      "reading": null,
+      "indonesian": "You can hire a boat by the hour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トマトは１ポンド単位で売られる。",
+      "reading": null,
+      "indonesian": "Tomatoes are sold by the pound.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "センチメートルは長さの単位だ。",
+      "reading": null,
+      "indonesian": "A centimeter is a unit of length.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この服地は１ヤード単位で売られている。",
+      "reading": null,
+      "indonesian": "This cloth is sold by the yard.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この教科は何単位ですか。",
+      "reading": null,
+      "indonesian": "How many credits can I get for this course?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この科目は何単位ですか。",
+      "reading": null,
+      "indonesian": "How many credits is this course?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

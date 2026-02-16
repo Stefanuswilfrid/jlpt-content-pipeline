@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "席",
+    "reading": "せき",
+    "romaji": "seki",
+    "jlpt": "N4",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "seat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "location (of a gathering, etc.)",
+          "place"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "position",
+          "post"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出席",
+      "reading": "しゅっせき",
+      "meaning": "attendance"
+    },
+    {
+      "word": "座席",
+      "reading": "ざせき",
+      "meaning": "seat (esp. in public places or places with assigned seating)"
+    },
+    {
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaning": "absence"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "末席を汚す",
+      "reading": "まっせきをけがす",
+      "meaning": "to have the honour of being present (at a meeting, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "欠席裁判",
+      "reading": "けっせきさいばん",
+      "meaning": "trial in absentia",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "男女七歳にして席を同じゅうせず",
+      "reading": "だんじょななさいにしてせきをおなじゅうせず",
+      "meaning": "after age 7, boys and girls should be kept apart",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

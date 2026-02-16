@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "足りる",
+    "reading": "たりる",
+    "romaji": "tariru",
+    "jlpt": "N4",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be sufficient",
+          "to be enough"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be worth doing",
+          "to be worthy of",
+          "to deserve"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to do (the job)",
+          "to serve",
+          "to answer"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "insufficiency"
+    },
+    {
+      "word": "足す",
+      "reading": "たす",
+      "meaning": "to add (numbers)"
+    },
+    {
+      "word": "休息",
+      "reading": "きゅうそく",
+      "meaning": "rest"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "tabi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それだけで十分足りるだろう。",
+      "reading": null,
+      "english": "That would be sufficient.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "千円で足りる？",
+      "reading": null,
+      "english": "Is one thousand yen enough?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "朝食用のパンはぎりぎり足りる。",
+      "reading": null,
+      "english": "We have barely enough bread for breakfast.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それだけで十分足りるだろう。",
+      "reading": null,
+      "english": "That would be sufficient.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

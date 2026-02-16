@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "望み",
+    "reading": "のぞみ",
+    "romaji": "nozomi",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wish",
+          "desire",
+          "hope"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "prospect",
+          "expectation",
+          "(one's) hopes"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "志望",
+      "reading": "しぼう",
+      "meaning": "wish"
+    },
+    {
+      "word": "失望",
+      "reading": "しつぼう",
+      "meaning": "disappointment"
+    },
+    {
+      "word": "希望",
+      "reading": "きぼう",
+      "meaning": "hope"
+    },
+    {
+      "word": "望遠鏡",
+      "reading": "ぼうえんきょう",
+      "meaning": "telescope"
+    },
+    {
+      "word": "望む",
+      "reading": "のぞむ",
+      "meaning": "to desire"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "望み通りになりましたか。",
+      "reading": null,
+      "english": "Did you get your wish?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "望みのものを言ってください。",
+      "reading": null,
+      "english": "Tell me what you want.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "トムには月へ行きたいという大きな望みがある。",
+      "reading": null,
+      "english": "It is Tom's ambition to go to the moon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とにかく望みのものが手に入らなかった。",
+      "reading": null,
+      "english": "Anyway, she didn't get what she hoped for.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それだけがわたしの望み。",
+      "reading": null,
+      "english": "It is all I want to do.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "スミス夫人は何でも望み通りに夫にやってもらえる。",
+      "reading": null,
+      "english": "Mrs. Smith can get her husband to do anything she likes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

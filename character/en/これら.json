@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "これ等",
+    "reading": "これら",
+    "romaji": "korera",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "these"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "彼ら",
+      "reading": "かれら",
+      "meaning": "they"
+    },
+    {
+      "word": "平等",
+      "reading": "びょうどう",
+      "meaning": "equality"
+    },
+    {
+      "word": "等しい",
+      "reading": "ひとしい",
+      "meaning": "equal"
+    },
+    {
+      "word": "上等",
+      "reading": "じょうとう",
+      "meaning": "superior"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "会計係はこれらの数字を調べるだろう。",
+      "reading": null,
+      "english": "The accountant will go into these figures.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏が始まる前にこれらの種をまきなさい。",
+      "reading": null,
+      "english": "Plant these seeds before summer sets in.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

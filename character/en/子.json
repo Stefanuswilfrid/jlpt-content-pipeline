@@ -1,0 +1,205 @@
+{
+  "definition": {
+    "word": "子",
+    "reading": "こ",
+    "romaji": "ko",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "child",
+          "kid",
+          "teenager",
+          "youngster",
+          "young (non-adult) person"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "(one's) child",
+          "offspring"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "young woman"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "young (animal)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "offshoot"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "息子",
+      "reading": "むすこ",
+      "meaning": "son"
+    },
+    {
+      "word": "砂",
+      "reading": "すな",
+      "meaning": "sand"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaning": "child"
+    },
+    {
+      "word": "女子",
+      "reading": "じょし",
+      "meaning": "woman"
+    },
+    {
+      "word": "男子",
+      "reading": "だんし",
+      "meaning": "boy"
+    },
+    {
+      "word": "様子",
+      "reading": "ようす",
+      "meaning": "state (of affairs)"
+    },
+    {
+      "word": "電子",
+      "reading": "でんし",
+      "meaning": "electron"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaning": "tune"
+    },
+    {
+      "word": "女の子",
+      "reading": "おんなのこ",
+      "meaning": "girl"
+    },
+    {
+      "word": "卵",
+      "reading": "たまご",
+      "meaning": "eggs"
+    },
+    {
+      "word": "男の子",
+      "reading": "おとこのこ",
+      "meaning": "boy"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一子相伝",
+      "reading": "いっしそうでん",
+      "meaning": "transmission of the secrets of an art, craft, trade or learning from father to only one child",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一本調子",
+      "reading": "いっぽんぢょうし",
+      "meaning": "monotone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "花より団子",
+      "reading": "はなよりだんご",
+      "meaning": "function over aesthetics",
+      "type": "idiom"
+    },
+    {
+      "word": "蛙の子は蛙",
+      "reading": "かえるのこはかえる",
+      "meaning": "like father, like son",
+      "type": "proverb"
+    },
+    {
+      "word": "君子豹変",
+      "reading": "くんしひょうへん",
+      "meaning": "the wise readily adapt themselves to changed circumstances",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "獅子奮迅",
+      "reading": "ししふんじん",
+      "meaning": "furious (energy, battle, etc.)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "杓子定規",
+      "reading": "しゃくしじょうぎ",
+      "meaning": "strict",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "親子丼",
+      "reading": "おやこどん",
+      "meaning": "oyakodon",
+      "type": "expression"
+    },
+    {
+      "word": "張子の虎",
+      "reading": "はりこのとら",
+      "meaning": "papier-mâché tiger (toy with a loose, wobbly head)",
+      "type": "idiom"
+    },
+    {
+      "word": "放蕩息子",
+      "reading": "ほうとうむすこ",
+      "meaning": "good-for-nothing son",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたが女の子だからよ。",
+      "reading": null,
+      "english": "That's because you're a girl.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "親が親なら子も子。",
+      "reading": null,
+      "english": "Like father, like son.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この親にしてこの子あり。",
+      "reading": null,
+      "english": "Like father, like son.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

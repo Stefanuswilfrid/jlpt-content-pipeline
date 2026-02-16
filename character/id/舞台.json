@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "舞台",
+    "reading": "ぶたい",
+    "romaji": "butai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "panggung (teater)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stage performance",
+          "stage production",
+          "theatrical production",
+          "play",
+          "show"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "setting (of a story)",
+          "scene"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sphere (of activity)",
+          "stage (e.g. political stage)",
+          "scene",
+          "arena",
+          "world"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見舞い",
+      "reading": "みまい",
+      "meaning": "ungkapan simpati, ungkapan keprihatinan"
+    },
+    {
+      "word": "台風",
+      "reading": "たいふう",
+      "meaning": "topan"
+    },
+    {
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "dapur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "舞台装置",
+      "reading": "ぶたいそうち",
+      "meaning": "stage setting",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "清水の舞台から飛び降りる",
+      "reading": "きよみずのぶたいからとびおりる",
+      "meaning": "to make a leap into the dark",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

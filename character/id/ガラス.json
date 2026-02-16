@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "硝子",
+    "reading": "ガラス",
+    "romaji": "garasu",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kaca",
+          "panel"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "子",
+      "reading": "こ",
+      "meaning": "anak"
+    },
+    {
+      "word": "息子",
+      "reading": "むすこ",
+      "meaning": "putra (rendah hati)"
+    },
+    {
+      "word": "砂",
+      "reading": "すな",
+      "meaning": "pasir"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaning": "kondisi, keadaan, nada, intonasi"
+    },
+    {
+      "word": "女の子",
+      "reading": "おんなのこ",
+      "meaning": "gadis"
+    },
+    {
+      "word": "男の子",
+      "reading": "おとこのこ",
+      "meaning": "anak laki-laki"
+    },
+    {
+      "word": "王子",
+      "reading": "おうじ",
+      "meaning": "pangeran"
+    },
+    {
+      "word": "菓子",
+      "reading": "かし",
+      "meaning": "permen, manisan"
+    },
+    {
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "topi; penutup kepala"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaning": "makanan manis, permen, camilan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "フロントガラスをふきますか。",
+      "reading": null,
+      "indonesian": "Should I clean your windshield?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ビールびんはガラスでできている。",
+      "reading": null,
+      "indonesian": "Beer bottles are made of glass.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

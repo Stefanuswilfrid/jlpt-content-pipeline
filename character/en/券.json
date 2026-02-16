@@ -1,0 +1,37 @@
+{
+  "definition": {
+    "word": "券",
+    "reading": "けん",
+    "romaji": "ken",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "ticket",
+          "coupon",
+          "bond",
+          "certificate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "定期券",
+      "reading": "ていきけん",
+      "meaning": "commuter pass"
+    },
+    {
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "coupon tickets"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

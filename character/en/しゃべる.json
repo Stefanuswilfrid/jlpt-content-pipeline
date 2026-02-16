@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "喋る",
+    "reading": "しゃべる",
+    "romaji": "shaberu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to talk",
+          "to chat",
+          "to chatter"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "お喋り",
+      "reading": "おしゃべり",
+      "meaning": "chattering"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "頭の空っぽな者ほど良くしゃべる。",
+      "reading": null,
+      "english": "Empty vessels make the most sound.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムはなんてしゃべるのが速いのでしょう。",
+      "reading": null,
+      "english": "How fast Tom speaks!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すぐにしゃべるのをやめなさい。",
+      "reading": null,
+      "english": "Stop speaking right now.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "しゃべるだけの日本語は出来る。",
+      "reading": null,
+      "english": "I'm able to speak, and only speak, Japanese.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

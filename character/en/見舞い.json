@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "見舞い",
+    "reading": "みまい",
+    "romaji": "mimai",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "visit (to someone affected by illness or misfortune)",
+          "call",
+          "inquiry (about someone's health)",
+          "expression of sympathy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "letter of inquiry",
+          "letter of sympathy",
+          "get-well letter",
+          "gift (in token of one's sympathy)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見送り",
+      "reading": "みおくり",
+      "meaning": "seeing (someone) off"
+    },
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaning": "stage (of a theatre, concert hall, etc.)"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "opinion"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "discovery"
+    },
+    {
+      "word": "見事",
+      "reading": "みごと",
+      "meaning": "splendid"
+    },
+    {
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "estimate"
+    },
+    {
+      "word": "現在",
+      "reading": "げんざい",
+      "meaning": "the present"
+    },
+    {
+      "word": "見学",
+      "reading": "けんがく",
+      "meaning": "inspection"
+    },
+    {
+      "word": "見出し",
+      "reading": "みだし",
+      "meaning": "heading"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "陣中見舞い",
+      "reading": "じんちゅうみまい",
+      "meaning": "visiting soldiers at the front to provide comfort",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "金時の火事見舞い",
+      "reading": "きんときのかじみまい",
+      "meaning": "going bright red (esp. after drinking)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

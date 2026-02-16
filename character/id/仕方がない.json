@@ -1,0 +1,193 @@
+{
+  "definition": {
+    "word": "仕方がない",
+    "reading": "しかたがない",
+    "romaji": "shikataganai",
+    "jlpt": "N2",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "Mau bagaimana lagi",
+          "ini tak terelakkan."
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "cannot be helped",
+          "unavoidable",
+          "inevitable",
+          "(there's) nothing one can do",
+          "having no choice"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "it's no use (doing)",
+          "pointless",
+          "useless",
+          "no good",
+          "insufficient",
+          "not enough"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "hopeless (person)",
+          "annoying",
+          "troublesome",
+          "awful"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "cannot stand it",
+          "unbearable",
+          "cannot help (doing, feeling)",
+          "dying (to do)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "仕上がる",
+      "reading": "しあがる",
+      "meaning": "akan diselesaikan"
+    },
+    {
+      "word": "方針",
+      "reading": "ほうしん",
+      "meaning": "tujuan, rencana, kebijakan"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "keberadaan seseorang"
+    },
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "arah; area"
+    },
+    {
+      "word": "方言",
+      "reading": "ほうげん",
+      "meaning": "dialek"
+    },
+    {
+      "word": "明け方",
+      "reading": "あけがた",
+      "meaning": "fajar"
+    },
+    {
+      "word": "長方形",
+      "reading": "ちょうほうけい",
+      "meaning": "persegi panjang, lonjong"
+    },
+    {
+      "word": "方程式",
+      "reading": "ほうていしき",
+      "meaning": "persamaan"
+    },
+    {
+      "word": "方角",
+      "reading": "ほうがく",
+      "meaning": "arah, jalan"
+    },
+    {
+      "word": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "persegi"
+    },
+    {
+      "word": "仕方",
+      "reading": "しかた",
+      "meaning": "cara (melakukan sesuatu)"
+    },
+    {
+      "word": "法則",
+      "reading": "ほうそく",
+      "meaning": "hukum, aturan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "仕方がないよ。",
+      "reading": null,
+      "indonesian": "It can't be helped.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そんなに健康のことを心配しても仕方がない。",
+      "reading": null,
+      "indonesian": "There is no sense in your worrying about your health so much.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "仕方がないよ。",
+      "reading": null,
+      "indonesian": "It cannot be helped.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そこへ行っても仕方がない。",
+      "reading": null,
+      "indonesian": "It is no use going there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ぜひにとあれば仕方がない。",
+      "reading": null,
+      "indonesian": "If you must, you must.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "コーヒーが飲みたくて仕方がない。",
+      "reading": null,
+      "indonesian": "I'm dying for a cup of coffee.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こうするより仕方がないのです。",
+      "reading": null,
+      "indonesian": "There is nothing for it but to do it this way.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

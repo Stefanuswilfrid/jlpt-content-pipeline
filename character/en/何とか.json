@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "何とか",
+    "reading": "なんとか",
+    "romaji": "nantoka",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "something",
+          "something or other",
+          "so-and-so"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "somehow",
+          "anyhow",
+          "one way or another"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "why?"
+    },
+    {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "what"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何とか入れた。",
+      "reading": null,
+      "english": "I managed to get in.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "急げば何とか間に合うと思います。",
+      "reading": null,
+      "english": "I think we'll make it if we hurry.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急いで何とかバスに乗れました。",
+      "reading": null,
+      "english": "I hurried and managed to catch the bus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何とか都合して来てください。",
+      "reading": null,
+      "english": "Will you try to come?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何とか都合つけて来週お目にかかりましょう。",
+      "reading": null,
+      "english": "I'll manage to fit you in next week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

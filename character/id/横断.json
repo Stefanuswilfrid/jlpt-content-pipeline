@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "横断",
+    "reading": "おうだん",
+    "romaji": "oudan",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "persimpangan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "crossing (east-west)",
+          "traversing",
+          "travelling across",
+          "flying across (e.g. the Pacific)",
+          "sailing across"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "cutting horizontally",
+          "sectioning laterally"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "断る",
+      "reading": "ことわる",
+      "meaning": "menolak, mengingkari, memecat"
+    },
+    {
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "penilaian, keputusan"
+    },
+    {
+      "word": "断つ",
+      "reading": "たつ",
+      "meaning": "untuk memutuskan, untuk memotong"
+    },
+    {
+      "word": "横切る",
+      "reading": "よこぎる",
+      "meaning": "menyeberang (misalnya, lengan), melintasi"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosa"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

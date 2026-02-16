@@ -1,0 +1,167 @@
+{
+  "definition": {
+    "word": "神",
+    "reading": "かみ",
+    "romaji": "kami",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Tuhan"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a prefix",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "god-tier",
+          "incredible",
+          "fantastic",
+          "amazing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "精神",
+      "reading": "せいしん",
+      "meaning": "pikiran, jiwa, roh"
+    },
+    {
+      "word": "神経",
+      "reading": "しんけい",
+      "meaning": "saraf, sensitivitas"
+    },
+    {
+      "word": "神社",
+      "reading": "じんじゃ",
+      "meaning": "Kuil Shinto"
+    },
+    {
+      "word": "神話",
+      "reading": "しんわ",
+      "meaning": "mitos, legenda"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaning": "ketenangan pikiran, kelegaan"
+    },
+    {
+      "word": "神様",
+      "reading": "かみさま",
+      "meaning": "Tuhan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心神耗弱",
+      "reading": "しんしんこうじゃく",
+      "meaning": "diminished capacity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "怪力乱神",
+      "reading": "かいりょくらんしん",
+      "meaning": "supernatural things",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三種の神器",
+      "reading": "さんしゅのじんぎ",
+      "meaning": "the Three Sacred Treasures (Mirror, Sword and Jewels)",
+      "type": "idiom"
+    },
+    {
+      "word": "神出鬼没",
+      "reading": "しんしゅつきぼつ",
+      "meaning": "appearing in unexpected places and at unexpected moments",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天地神明",
+      "reading": "てんちしんめい",
+      "meaning": "the gods of heaven and earth",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天佑神助",
+      "reading": "てんゆうしんじょ",
+      "meaning": "divine grace",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天神地祇",
+      "reading": "てんしんちぎ",
+      "meaning": "gods of heaven and earth",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "神色自若",
+      "reading": "しんしょくじじゃく",
+      "meaning": "perfect composure",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "精神一到",
+      "reading": "せいしんいっとう",
+      "meaning": "concentration of mind",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "精神統一",
+      "reading": "せいしんとういつ",
+      "meaning": "concentration of mind",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は神を信じますか。",
+      "reading": null,
+      "indonesian": "Do you believe in God?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたは神様を信じますか。",
+      "reading": null,
+      "indonesian": "Do you believe in God?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "神様を信じている？",
+      "reading": null,
+      "indonesian": "Do you believe in God?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君はいつから神戸に住んでいるの。",
+      "reading": null,
+      "indonesian": "How long have you been living in Kobe, then?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教会に行く人はみんな神を信じています。",
+      "reading": null,
+      "indonesian": "Whoever goes to church believes in God.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

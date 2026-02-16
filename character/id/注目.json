@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "注目",
+    "reading": "ちゅうもく",
+    "romaji": "chuumoku",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "pemberitahuan",
+          "perhatian",
+          "pengamatan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "tujuan, sasaran, cita-cita"
+    },
+    {
+      "word": "目標",
+      "reading": "もくひょう",
+      "meaning": "tanda, tujuan, sasaran"
+    },
+    {
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "memesan, meminta"
+    },
+    {
+      "word": "科目",
+      "reading": "かもく",
+      "meaning": "(mata pelajaran) sekolah, kurikulum, kursus"
+    },
+    {
+      "word": "注す",
+      "reading": "さす",
+      "meaning": "menuangkan (minuman), menyajikan (minuman)"
+    },
+    {
+      "word": "注ぐ",
+      "reading": "つぐ",
+      "meaning": "menuangkan (ke dalam)"
+    },
+    {
+      "word": "注",
+      "reading": "ちゅう",
+      "meaning": "anotasi, catatan penjelasan"
+    },
+    {
+      "word": "注ぐ",
+      "reading": "そそぐ",
+      "meaning": "menuangkan (ke dalam)"
+    },
+    {
+      "word": "目上",
+      "reading": "めうえ",
+      "meaning": "orang dengan status lebih tinggi; atasan seseorang"
+    },
+    {
+      "word": "注意",
+      "reading": "ちゅうい",
+      "meaning": "hati-hati, waspada"
+    },
+    {
+      "word": "項目",
+      "reading": "こうもく",
+      "meaning": "barang"
+    },
+    {
+      "word": "目安",
+      "reading": "めやす",
+      "meaning": "kriteria, tujuan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "みんな、黒板に注目！",
+      "reading": null,
+      "indonesian": "Look at the blackboard, everyone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その歌手は注目の的だった。",
+      "reading": null,
+      "indonesian": "Attention centered on the singer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご注目下さい。",
+      "reading": null,
+      "indonesian": "Please give me your attention.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "戻す",
+    "reading": "もどす",
+    "romaji": "modosu",
+    "jlpt": "N3",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk memulihkan",
+          "untuk mengembalikan",
+          "untuk mengembalikan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to vomit",
+          "to throw up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to recover (of a market price)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "戻る",
+      "reading": "もどる",
+      "meaning": "kembali (kata kerja); datang kembali"
+    },
+    {
+      "word": "払い戻す",
+      "reading": "はらいもどす",
+      "meaning": "untuk membayar kembali, untuk mengembalikan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "よりを戻す",
+      "reading": "よりをもどす",
+      "meaning": "to untangle",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "変える",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "jlpt": "N4",
+    "frequency": 16750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "berubah",
+          "memodifikasi",
+          "memvariasikan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to reform",
+          "to revise",
+          "to amend"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "perubahan, modifikasi, peng alterations"
+    },
+    {
+      "word": "変わる",
+      "reading": "かわる",
+      "meaning": "berubah (kata kerja intransitif), diubah, bervariasi"
+    },
+    {
+      "word": "変",
+      "reading": "へん",
+      "meaning": "aneh, ganjil"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "河岸を変える",
+      "reading": "かしをかえる",
+      "meaning": "to try a different venue (for drinking, socializing, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "目の色を変える",
+      "reading": "めのいろをかえる",
+      "meaning": "to be in a tizzy",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

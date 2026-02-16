@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "プラン",
+    "reading": "プラン",
+    "romaji": "puran",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "plan",
+          "scheme"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(payment) plan",
+          "package",
+          "deal",
+          "offer"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何かプランはあるの？",
+      "reading": null,
+      "english": "Do you have a plan?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "そのプランは失敗に終わった。",
+      "reading": null,
+      "english": "The plan has broken down.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "じゃあ君のプランで行こう。",
+      "reading": null,
+      "english": "Let's build on your plan.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ご希望のプランが決まりましたら文書でお知らせ下さい。",
+      "reading": null,
+      "english": "When you decide which plan you want, please notify us in writing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このプランはみんなに満足がいくものです。",
+      "reading": null,
+      "english": "This plan is acceptable to all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コーヒーでも飲みながら、そのプランについて話し合おうか。",
+      "reading": null,
+      "english": "Let's discuss the plan over a cup of coffee.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

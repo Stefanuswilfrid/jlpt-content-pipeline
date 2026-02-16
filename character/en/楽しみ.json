@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "楽しみ",
+    "reading": "たのしみ",
+    "romaji": "tanoshimi",
+    "jlpt": "N4",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "enjoyment",
+          "pleasure",
+          "amusement",
+          "delight",
+          "joy",
+          "fun",
+          "diversion",
+          "hobby"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "anticipation",
+          "looking forward to",
+          "something to look forward to"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "music"
+    },
+    {
+      "word": "楽器",
+      "reading": "がっき",
+      "meaning": "musical instrument"
+    },
+    {
+      "word": "楽",
+      "reading": "らく",
+      "meaning": "comfort"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お会いできることを楽しみにしています。",
+      "reading": null,
+      "english": "I am looking forward to seeing you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お会いするのを楽しみにしています。",
+      "reading": null,
+      "english": "I am looking forward to seeing you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "近々お会いできるのを楽しみにしています。",
+      "reading": null,
+      "english": "I hope to see you soon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まもなくまたお目にかかれるのを楽しみにしています。",
+      "reading": null,
+      "english": "I'm looking forward to seeing you again before long.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "近い内にお会いするのを楽しみにしています。",
+      "reading": null,
+      "english": "I'm looking forward to seeing you before long.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "近いうちにお会いできることを、楽しみにしております。",
+      "reading": null,
+      "english": "I'm looking forward to seeing you again soon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

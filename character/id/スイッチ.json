@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "スイッチ",
+    "reading": "スイッチ",
+    "romaji": "suitchi",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mengalihkan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "switch",
+          "points"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "switch (from one thing to another)",
+          "change"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "スイッチが入る",
+      "reading": "スイッチがはいる",
+      "meaning": "to (suddenly) get into a specific mood",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ルーシーは電灯のスイッチをつけた。",
+      "reading": null,
+      "indonesian": "Lucy turned on the light switch.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ルーシーは電気のスイッチを入れました。",
+      "reading": null,
+      "indonesian": "Lucy turned on the light switch.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ライトのスイッチを切ってください。",
+      "reading": null,
+      "indonesian": "Please turn off the light.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "テレビのスイッチを入れて下さい。",
+      "reading": null,
+      "indonesian": "Please turn on the TV.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "スイッチは切れている。",
+      "reading": null,
+      "indonesian": "The switch is off.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "スイッチは時間通りに働かなかった。",
+      "reading": null,
+      "indonesian": "The switch didn't work on time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "暮れ",
+    "reading": "くれ",
+    "romaji": "kure",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "akhir tahun",
+          ""
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "end",
+          "close"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "year-end",
+          "end of the year"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "暮らし",
+      "reading": "くらし",
+      "meaning": "hidup; gaya hidup"
+    },
+    {
+      "word": "暮らす",
+      "reading": "くらす",
+      "meaning": "untuk hidup, untuk bergaul"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "日暮れて道遠し",
+      "reading": "ひくれてみちとおし",
+      "meaning": "the day is short, and the work is much",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

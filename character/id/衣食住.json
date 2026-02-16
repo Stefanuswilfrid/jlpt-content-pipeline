@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "衣食住",
+    "reading": "いしょくじゅう",
+    "romaji": "ishokujuu",
+    "jlpt": "N2",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "makanan",
+          "pakaian dan tempat tinggal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "住まい",
+      "reading": "すまい",
+      "meaning": "rumah tinggal"
+    },
+    {
+      "word": "食器",
+      "reading": "しょっき",
+      "meaning": "peralatan makan"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaning": "jubah mandi, kimono musim panas kasual"
+    },
+    {
+      "word": "食塩",
+      "reading": "しょくえん",
+      "meaning": "garam meja"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaning": "makan siang harga tetap, paket makan, makan malam"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "衣食住は生活の基本です。",
+      "reading": null,
+      "indonesian": "Food, clothing and shelter are the basis of life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私達が生きていくためには衣食住が必要です。",
+      "reading": null,
+      "indonesian": "We need food, clothes and a home in order to live.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "衣食住は生活の基本です。",
+      "reading": null,
+      "indonesian": "Food, clothing and shelter are the basis of life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私達が生きていくためには衣食住が必要です。",
+      "reading": null,
+      "indonesian": "We need food, clothes and a home in order to live.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

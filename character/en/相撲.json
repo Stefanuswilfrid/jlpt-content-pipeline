@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "相撲",
+    "reading": "すもう",
+    "romaji": "sumou",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sumo (wrestling)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sumo wrestler",
+          "rikishi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "相互",
+      "reading": "そうご",
+      "meaning": "mutual"
+    },
+    {
+      "word": "相違",
+      "reading": "そうい",
+      "meaning": "difference"
+    },
+    {
+      "word": "外相",
+      "reading": "がいしょう",
+      "meaning": "Foreign Minister"
+    },
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "prime minister"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "companion"
+    },
+    {
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "consultation"
+    },
+    {
+      "word": "蔵相",
+      "reading": "ぞうしょう",
+      "meaning": "Minister of Finance"
+    },
+    {
+      "word": "相場",
+      "reading": "そうば",
+      "meaning": "market price"
+    },
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "corresponding to (in meaning, function, etc.)"
+    },
+    {
+      "word": "真相",
+      "reading": "しんそう",
+      "meaning": "truth"
+    },
+    {
+      "word": "様相",
+      "reading": "ようそう",
+      "meaning": "aspect"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人のふんどしで相撲を取る",
+      "reading": "ひとのふんどしですもうをとる",
+      "meaning": "to profit at someone else's expense",
+      "type": "idiom"
+    },
+    {
+      "word": "相撲に勝って勝負に負ける",
+      "reading": "すもうにかってしょうぶにまける",
+      "meaning": "to ultimately fail despite being in a favourable position",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

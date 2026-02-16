@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "火山",
+    "reading": "かざん",
+    "romaji": "kazan",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "gunung berapi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "噴火",
+      "reading": "ふんか",
+      "meaning": "letusan"
+    },
+    {
+      "word": "花火",
+      "reading": "はなび",
+      "meaning": "kembang api"
+    },
+    {
+      "word": "火口",
+      "reading": "ひぐち",
+      "meaning": "kawah (gunung berapi)"
+    },
+    {
+      "word": "山林",
+      "reading": "さんりん",
+      "meaning": "hutan pegunungan"
+    },
+    {
+      "word": "火傷",
+      "reading": "やけど",
+      "meaning": "terbakar, melepuh"
+    },
+    {
+      "word": "火",
+      "reading": "ひ",
+      "meaning": "api"
+    },
+    {
+      "word": "山",
+      "reading": "やま",
+      "meaning": "gunung"
+    },
+    {
+      "word": "火災",
+      "reading": "かさい",
+      "meaning": "kebakaran besar, api"
+    },
+    {
+      "word": "登山",
+      "reading": "とざん",
+      "meaning": "pendakian gunung"
+    },
+    {
+      "word": "山岳",
+      "reading": "さんがく",
+      "meaning": "pegunungan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "風林火山",
+      "reading": "ふうりんかざん",
+      "meaning": "as fast as the wind, as quiet as the forest, as daring as fire, and immovable as the mountain",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "火山活動で地面が盛り上がった。",
+      "reading": null,
+      "indonesian": "The surface of the earth rose due to the volcanic activity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火山が再び活動を始めた。",
+      "reading": null,
+      "indonesian": "The volcano has become active again.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは、いわば、火山の上に座っているようなものだった。",
+      "reading": null,
+      "indonesian": "We sat, as it were, on a volcano.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本は火山列島だ。",
+      "reading": null,
+      "indonesian": "Japan is made up of volcanic islands.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "周り",
+    "reading": "まわり",
+    "romaji": "mawari",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lingkungan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "surroundings",
+          "neighbourhood",
+          "neighborhood",
+          "vicinity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "people surrounding oneself",
+          "surrounding circumstances"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "周囲",
+      "reading": "しゅうい",
+      "meaning": "sekeliling, keliling, lingkungan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "周りの目",
+      "reading": "まわりのめ",
+      "meaning": "how others look at you",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

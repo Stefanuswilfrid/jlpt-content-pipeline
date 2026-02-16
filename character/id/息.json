@@ -1,0 +1,166 @@
+{
+  "definition": {
+    "word": "息",
+    "reading": "いき",
+    "romaji": "iki",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "napas"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "concord",
+          "harmony",
+          "rapport"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "steam (coming off hot food, tea, etc.)",
+          "(water) vapor",
+          "vapour"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "休息",
+      "reading": "きゅうそく",
+      "meaning": "istirahat, lega, relaksasi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "青息吐息",
+      "reading": "あおいきといき",
+      "meaning": "deep distress",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "息の根",
+      "reading": "いきのね",
+      "meaning": "life",
+      "type": "idiom"
+    },
+    {
+      "word": "因循姑息",
+      "reading": "いんじゅんこそく",
+      "meaning": "dilly-dallying and temporizing (temporising)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "気息奄々",
+      "reading": "きそくえんえん",
+      "meaning": "gasping for breath",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "虫の息",
+      "reading": "むしのいき",
+      "meaning": "dying breath",
+      "type": "idiom"
+    },
+    {
+      "word": "無事息災",
+      "reading": "ぶじそくさい",
+      "meaning": "safe and healthy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "放蕩息子",
+      "reading": "ほうとうむすこ",
+      "meaning": "good-for-nothing son",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一病息災",
+      "reading": "いちびょうそくさい",
+      "meaning": "one who experiences a chronic ailment takes better care of his health and lives longer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無病息災",
+      "reading": "むびょうそくさい",
+      "meaning": "sound health",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "延命息災",
+      "reading": "えんめいそくさい",
+      "meaning": "health and longevity",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "父も父なら、息子も息子。",
+      "reading": null,
+      "indonesian": "Like father, like son.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "休息をとったほうがいいよ。",
+      "reading": null,
+      "indonesian": "I think you had better take a rest.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君の息子も青年になったね。",
+      "reading": null,
+      "indonesian": "Your son has come of age.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の息子さん学生運動に加わってたそうだね。",
+      "reading": null,
+      "indonesian": "Your son took part in the student movement, I hear.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の息子さんですか、ベティー。",
+      "reading": null,
+      "indonesian": "Is this your son, Betty?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "休息をすれば必ず気分がさわやかに感じる。",
+      "reading": null,
+      "indonesian": "If we were to rest a little, we would feel surely feel much more refreshed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "休息しろ。",
+      "reading": null,
+      "indonesian": "Take a rest.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

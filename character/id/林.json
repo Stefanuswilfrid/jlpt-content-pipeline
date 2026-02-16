@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "林",
+    "reading": "はやし",
+    "romaji": "hayashi",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hutan",
+          "rimba"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bunch (of something)",
+          "cluster",
+          "line",
+          "collection"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "酒池肉林",
+      "reading": "しゅちにくりん",
+      "meaning": "sumptuous feast",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "風林火山",
+      "reading": "ふうりんかざん",
+      "meaning": "as fast as the wind, as quiet as the forest, as daring as fire, and immovable as the mountain",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "竹林の七賢",
+      "reading": "ちくりんのしちけん",
+      "meaning": "Seven Sages of the Bamboo Grove",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その国は森林でおおわれている。",
+      "reading": null,
+      "indonesian": "The land is clothed with woods.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

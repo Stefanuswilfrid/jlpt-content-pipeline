@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "トンネル",
+    "reading": "トンネル",
+    "romaji": "tonneru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "terowongan"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to tunnel (through a potential barrier)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "letting a grounder go through one's legs"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その新しいトンネルは英国とフランスをつなぐでしょう。",
+      "reading": null,
+      "indonesian": "The new tunnel will link Britain and France.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのトンネルを歩いて通りぬけるのに５分かかります。",
+      "reading": null,
+      "indonesian": "It takes us five minutes to walk through the tunnel.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このトンネルはあのトンネルの２倍の長さがある。",
+      "reading": null,
+      "indonesian": "This tunnel is twice as long as that one.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "列車がゴーっと音を立ててトンネルを通りすぎた。",
+      "reading": null,
+      "indonesian": "The train roared through the tunnel.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

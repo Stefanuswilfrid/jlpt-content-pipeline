@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "無くなる",
+    "reading": "なくなる",
+    "romaji": "nakunaru",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be lost (e.g. luggage)",
+          "to be missing"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be used up",
+          "to be run out",
+          "to be exhausted",
+          "to be consumed",
+          "to be reduced to zero",
+          "to not occur any more"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to disappear (e.g. pain)",
+          "to be lost (e.g. a dream, confidence)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無理",
+      "reading": "むり",
+      "meaning": "unreasonable"
+    },
+    {
+      "word": "有無",
+      "reading": "うむ",
+      "meaning": "existence or nonexistence"
+    },
+    {
+      "word": "無くす",
+      "reading": "なくす",
+      "meaning": "to lose (something)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

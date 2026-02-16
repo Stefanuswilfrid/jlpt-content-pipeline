@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "真っ赤",
+    "reading": "まっか",
+    "romaji": "makka",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bright red",
+          "deep red",
+          "flushed (of face)"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "downright (e.g. lie)",
+          "complete",
+          "utter"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "真理",
+      "reading": "しんり",
+      "meaning": "truth"
+    },
+    {
+      "word": "真剣",
+      "reading": "しんけん",
+      "meaning": "serious"
+    },
+    {
+      "word": "真似",
+      "reading": "まね",
+      "meaning": "imitating"
+    },
+    {
+      "word": "真っ黒",
+      "reading": "まっくろ",
+      "meaning": "pitch black"
+    },
+    {
+      "word": "真っ暗",
+      "reading": "まっくら",
+      "meaning": "pitch-dark"
+    },
+    {
+      "word": "真っ先",
+      "reading": "まっさき",
+      "meaning": "the head"
+    },
+    {
+      "word": "赤ん坊",
+      "reading": "あかんぼう",
+      "meaning": "baby"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そいつは真っ赤なうそだ。",
+      "reading": null,
+      "english": "That's a blessed lie.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この真っ赤なりんごを８つ下さい。",
+      "reading": null,
+      "english": "Give me these 8 crimson apples please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

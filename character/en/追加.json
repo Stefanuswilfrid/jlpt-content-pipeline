@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "追加",
+    "reading": "ついか",
+    "romaji": "tsuika",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "addition",
+          "supplement",
+          "appending",
+          "appendix"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "加速",
+      "reading": "かそく",
+      "meaning": "acceleration"
+    },
+    {
+      "word": "加熱",
+      "reading": "かねつ",
+      "meaning": "heating"
+    },
+    {
+      "word": "追いかける",
+      "reading": "おいかける",
+      "meaning": "to chase"
+    },
+    {
+      "word": "加速度",
+      "reading": "かそくど",
+      "meaning": "acceleration"
+    },
+    {
+      "word": "追い越す",
+      "reading": "おいこす",
+      "meaning": "to pass (e.g. car)"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaning": "participation"
+    },
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaning": "increase"
+    },
+    {
+      "word": "加入",
+      "reading": "かにゅう",
+      "meaning": "joining (a club, organization, etc.)"
+    },
+    {
+      "word": "追い込む",
+      "reading": "おいこむ",
+      "meaning": "to herd"
+    },
+    {
+      "word": "追う",
+      "reading": "おう",
+      "meaning": "to chase"
+    },
+    {
+      "word": "追及",
+      "reading": "ついきゅう",
+      "meaning": "investigation (e.g. into someone's guilt)"
+    },
+    {
+      "word": "加工",
+      "reading": "かこう",
+      "meaning": "manufacturing"
+    },
+    {
+      "word": "追放",
+      "reading": "ついほう",
+      "meaning": "exile"
+    },
+    {
+      "word": "俄",
+      "reading": "にわか",
+      "meaning": "sudden"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "追加料金はいくらだった？",
+      "reading": null,
+      "english": "How much was the additional charge?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わずかな追加料金で配達サービスが利用できます。",
+      "reading": null,
+      "english": "You can use the delivery service for a small additional charge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほかに何か追加注文がありますか。",
+      "reading": null,
+      "english": "Do you have anything else to order?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それには追加料金がかかるんでしょうか。",
+      "reading": null,
+      "english": "Will there be an extra charge for that?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "エントリーはすべて、追加後にチェックします。",
+      "reading": null,
+      "english": "All entries are subject to review once added.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

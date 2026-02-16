@@ -1,0 +1,118 @@
+{
+  "definition": {
+    "word": "系統",
+    "reading": "けいとう",
+    "romaji": "keitou",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "system"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lineage",
+          "ancestry",
+          "family line"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "group (e.g. of colors) (colours)",
+          "family (e.g. of languages)",
+          "party",
+          "school (of thought)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "close (evolutionary) relationship"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "a population sharing a common ancestor (in genetics)",
+          "strain (e.g. bacterial)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "体系",
+      "reading": "たいけい",
+      "meaning": "system"
+    },
+    {
+      "word": "統一",
+      "reading": "とういつ",
+      "meaning": "unity"
+    },
+    {
+      "word": "統計",
+      "reading": "とうけい",
+      "meaning": "statistics"
+    },
+    {
+      "word": "統制",
+      "reading": "とうせい",
+      "meaning": "regulation"
+    },
+    {
+      "word": "大統領",
+      "reading": "だいとうりょう",
+      "meaning": "president (of a country)"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaning": "tradition"
+    },
+    {
+      "word": "統合",
+      "reading": "とうごう",
+      "meaning": "integration"
+    },
+    {
+      "word": "統治",
+      "reading": "とうち",
+      "meaning": "rule"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "電気系統に欠点があります。",
+      "reading": null,
+      "english": "There is a fault in the electrical system.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電気系統に欠点があります。",
+      "reading": null,
+      "english": "There is a fault in the electrical system.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

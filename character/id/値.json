@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "値",
+    "reading": "あたい",
+    "romaji": "atai",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nilai",
+          "harga",
+          "harga"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "value",
+          "worth",
+          "merit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "value"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "価値",
+      "reading": "かち",
+      "meaning": "nilai, harga, manfaat"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaning": "harga"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "利用価値",
+      "reading": "りようかち",
+      "meaning": "utility value",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "希少価値",
+      "reading": "きしょうかち",
+      "meaning": "scarcity value",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "万死に値する",
+      "reading": "ばんしにあたいする",
+      "meaning": "to be the worst of the worst",
+      "type": "idiom"
+    },
+    {
+      "word": "春宵一刻値千金",
+      "reading": "しゅんしょういっこくあたいせんきん",
+      "meaning": "a moment of time in a spring evening is worth a thousand pieces of gold",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

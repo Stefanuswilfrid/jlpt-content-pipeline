@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "血管",
+    "reading": "けっかん",
+    "romaji": "kekkan",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "blood vessel",
+          "vein"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "血液",
+      "reading": "けつえき",
+      "meaning": "blood"
+    },
+    {
+      "word": "管",
+      "reading": "くだ",
+      "meaning": "pipe"
+    },
+    {
+      "word": "管理",
+      "reading": "かんり",
+      "meaning": "control"
+    },
+    {
+      "word": "管",
+      "reading": "かん",
+      "meaning": "pipe"
+    },
+    {
+      "word": "血圧",
+      "reading": "けつあつ",
+      "meaning": "blood pressure"
+    },
+    {
+      "word": "輸血",
+      "reading": "ゆけつ",
+      "meaning": "blood transfusion"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "切れた血管から血がどくどくと流れ出た。",
+      "reading": null,
+      "english": "Blood poured from the cut vein.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "血は血管の中を流れる。",
+      "reading": null,
+      "english": "Blood runs in the veins.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "血は血管の中を流れる。",
+      "reading": null,
+      "english": "Blood runs in the veins.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "切れた血管から血がどくどくと流れ出た。",
+      "reading": null,
+      "english": "Blood poured from the cut vein.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "目の血管が切れてしまった。",
+      "reading": null,
+      "english": "A blood vessel broke in my eye.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

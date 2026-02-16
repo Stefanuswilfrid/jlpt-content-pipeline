@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "条件",
+    "reading": "じょうけん",
+    "romaji": "jouken",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kondisi",
+          "persyaratan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "事件",
+      "reading": "じけん",
+      "meaning": "peristiwa, kejadian, insiden"
+    },
+    {
+      "word": "筋",
+      "reading": "すじ",
+      "meaning": "otot, tali, garis"
+    },
+    {
+      "word": "件",
+      "reading": "けん",
+      "meaning": "masalah, kasus, barang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "条件反射",
+      "reading": "じょうけんはんしゃ",
+      "meaning": "conditioned reflex",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

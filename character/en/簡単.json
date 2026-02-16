@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "簡単",
+    "reading": "かんたん",
+    "romaji": "kantan",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "simple",
+          "easy",
+          "uncomplicated"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "brief",
+          "quick",
+          "light"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "単位",
+      "reading": "たんい",
+      "meaning": "unit (e.g. meters, grams, etc.)"
+    },
+    {
+      "word": "単純",
+      "reading": "たんじゅん",
+      "meaning": "simple"
+    },
+    {
+      "word": "札",
+      "reading": "ふだ",
+      "meaning": "ticket"
+    },
+    {
+      "word": "単語",
+      "reading": "たんご",
+      "meaning": "word"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "簡単明瞭",
+      "reading": "かんたんめいりょう",
+      "meaning": "simple and clear",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

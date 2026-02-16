@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "その他",
+    "reading": "そのほか",
+    "romaji": "sonohoka",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "di samping itu"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "in addition (to that)",
+          "besides that",
+          "other than that",
+          "and other ..."
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "and so forth",
+          "and the like",
+          "and what have you",
+          "et cetera"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "余所",
+      "reading": "よそ",
+      "meaning": "tempat lain, di suatu tempat lain, bagian-bagian yang aneh"
+    },
+    {
+      "word": "他人",
+      "reading": "たにん",
+      "meaning": "orang yang tidak ada hubungan, orang asing"
+    },
+    {
+      "word": "他方",
+      "reading": "たほう",
+      "meaning": "sisi lain, di sisi lain"
+    },
+    {
+      "word": "他",
+      "reading": "ほか",
+      "meaning": "lainnya (terutama tempat dan benda)"
+    },
+    {
+      "word": "人事",
+      "reading": "ひとごと",
+      "meaning": "sumber daya manusia, manajemen personalia"
+    },
+    {
+      "word": "他",
+      "reading": "た",
+      "meaning": "lainnya (terutama tempat dan benda)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "牛乳はバター、チーズ、その他いろいろな物にすることができる。",
+      "reading": null,
+      "indonesian": "Milk can be made into butter, cheese, and many other things.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何本か花がある。一本は赤、もう一本は白で、その他は黄だ。",
+      "reading": null,
+      "indonesian": "There are several flowers. One is red, another is white, and the others are yellow.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは、伝達、計算、その他の活動面に広く使われている。",
+      "reading": null,
+      "indonesian": "They are now widely used for communication, calculation, and other activities.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その他の点では正しい。",
+      "reading": null,
+      "indonesian": "It is otherwise correct.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その他のことならなんでもします。",
+      "reading": null,
+      "indonesian": "I will do anything but that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その他にポケットに何を持っていますか。",
+      "reading": null,
+      "indonesian": "What else do you have in your pocket?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

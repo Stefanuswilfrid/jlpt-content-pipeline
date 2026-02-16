@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "何処か",
+    "reading": "どこか",
+    "romaji": "dokoka",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "somewhere"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "in some respects",
+          "in some way"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "why?"
+    },
+    {
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "processing"
+    },
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それがどこから来たのか分からなかった。",
+      "reading": null,
+      "english": "I didn't know where it came from.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それがどこから来たのか分からなかった。",
+      "reading": null,
+      "english": "I didn't know where it came from.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どこから来ましたか？",
+      "reading": null,
+      "english": "Where are you from?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どこから来ましたか？",
+      "reading": null,
+      "english": "Where have you come from?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "空港までいくバスは、どこからでますか。",
+      "reading": null,
+      "english": "Where does the airport bus leave from?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空港バスはどこから出ますか。",
+      "reading": null,
+      "english": "Where can I get the airport bus?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "たしかにどこかで会った人だが、だれだか思い出せない。",
+      "reading": null,
+      "english": "I am sure I met him somewhere, but I do not remember who he is.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏休みも近いけど、どこかいいところ思い当たりますか。",
+      "reading": null,
+      "english": "Summer vacation is near. Can you think of a good place for the holidays?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏休みはどこかへ行きましたか。",
+      "reading": null,
+      "english": "Did you go anywhere during the summer vacation?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "夏休みにどこかへ行きましたか。",
+      "reading": null,
+      "english": "Did you go anywhere during the summer vacation?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "夏にどこか行きましたか。",
+      "reading": null,
+      "english": "Did you go anywhere for the summer?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

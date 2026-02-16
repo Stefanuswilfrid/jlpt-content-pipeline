@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "兵隊",
+    "reading": "へいたい",
+    "romaji": "heitai",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "armed forces",
+          "military",
+          "troops"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(common) soldier",
+          "rank-and-file soldier"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "underling",
+          "ordinary employee",
+          "grunt"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "兵器",
+      "reading": "へいき",
+      "meaning": "arms"
+    },
+    {
+      "word": "兵士",
+      "reading": "へいし",
+      "meaning": "soldier"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "兵隊勘定",
+      "reading": "へいたいかんじょう",
+      "meaning": "Dutch treat",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もしあの時水がなければ、兵隊は死んでいただろう。",
+      "reading": null,
+      "english": "Without water, the soldiers would have died.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兵隊達は全員その地帯の地図を持っていた。",
+      "reading": null,
+      "english": "The soldiers were all supplied with a map of the place.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兵隊が橋を見張っていた。",
+      "reading": null,
+      "english": "The soldiers were guarding the bridge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もしあの時水がなければ、兵隊は死んでいただろう。",
+      "reading": null,
+      "english": "Without water, the soldiers would have died.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もしあの時水がなければ、兵隊は死んでいただろう。",
+      "reading": null,
+      "english": "Without water, the soldiers would've died.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兵隊が橋を見張っていた。",
+      "reading": null,
+      "english": "The soldiers were guarding the bridge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

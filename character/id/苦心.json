@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "苦心",
+    "reading": "くしん",
+    "romaji": "kushin",
+    "jlpt": "N2",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "rasa sakit",
+          "masalah"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "都心",
+      "reading": "としん",
+      "meaning": "jantung (kota)"
+    },
+    {
+      "word": "苦情",
+      "reading": "くじょう",
+      "meaning": "keluhan, keluh kesah, gerutu"
+    },
+    {
+      "word": "心身",
+      "reading": "しんしん",
+      "meaning": "pikiran dan tubuh"
+    },
+    {
+      "word": "心当たり",
+      "reading": "こころあたり",
+      "meaning": "memiliki pengetahuan tentang, kebetulan mengetahui"
+    },
+    {
+      "word": "一心",
+      "reading": "いっしん",
+      "meaning": "satu pikiran, dengan perhatian penuh"
+    },
+    {
+      "word": "心得",
+      "reading": "こころえ",
+      "meaning": "pengetahuan, informasi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "苦心惨憺",
+      "reading": "くしんさんたん",
+      "meaning": "taking great pains",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その歌手はファンの群がる中を苦心して進んだ。",
+      "reading": null,
+      "indonesian": "The singer fought his way through the crowd of fans.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その歌手はファンの群がる中を苦心して進んだ。",
+      "reading": null,
+      "indonesian": "The singer fought his way through the crowd of fans.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

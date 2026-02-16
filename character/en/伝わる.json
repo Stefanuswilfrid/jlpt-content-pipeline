@@ -1,0 +1,157 @@
+{
+  "definition": {
+    "word": "伝わる",
+    "reading": "つたわる",
+    "romaji": "tsutawaru",
+    "jlpt": "N3",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to spread (of a rumour, news, etc.)",
+          "to travel",
+          "to circulate",
+          "to go around",
+          "to be passed around",
+          "to become known"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be handed down (from generation to generation)",
+          "to be passed down"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be introduced (to a country, region, etc.)",
+          "to be brought",
+          "to come"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be conveyed (of a feeling, impression, etc.)",
+          "to be felt",
+          "to come across"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to travel (of sound, electricity, etc.)",
+          "to propagate",
+          "to be conducted",
+          "to be transmitted"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go along",
+          "to move along"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "伝言",
+      "reading": "でんごん",
+      "meaning": "(verbal) message"
+    },
+    {
+      "word": "伝染",
+      "reading": "でんせん",
+      "meaning": "contagion"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaning": "tradition"
+    },
+    {
+      "word": "宣伝",
+      "reading": "せんでん",
+      "meaning": "publicity"
+    },
+    {
+      "word": "手伝い",
+      "reading": "てつだい",
+      "meaning": "helper"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "音はとても早く伝わる。",
+      "reading": null,
+      "english": "Sound travels very quickly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "悪い知らせはすばやく伝わる。",
+      "reading": null,
+      "english": "Bad news travels fast.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "光や音は波の形で伝わる。",
+      "reading": null,
+      "english": "Light and sound travel in waves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "光は音よりはるかに早く伝わる。",
+      "reading": null,
+      "english": "Light travels much faster than sound.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "音はとても早く伝わる。",
+      "reading": null,
+      "english": "Sound travels very quickly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "悪い知らせはすばやく伝わる。",
+      "reading": null,
+      "english": "Bad news travels fast.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

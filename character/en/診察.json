@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "診察",
+    "reading": "しんさつ",
+    "romaji": "shinsatsu",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "medical examination",
+          "checkup",
+          "consultation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観察",
+      "reading": "かんさつ",
+      "meaning": "observation"
+    },
+    {
+      "word": "診る",
+      "reading": "みる",
+      "meaning": "to examine (medically)"
+    },
+    {
+      "word": "警察",
+      "reading": "けいさつ",
+      "meaning": "police"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosis"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

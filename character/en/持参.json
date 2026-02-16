@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "持参",
+    "reading": "じさん",
+    "romaji": "jisan",
+    "jlpt": "N2",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "bringing",
+          "taking",
+          "carrying"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "お参り",
+      "reading": "おまいり",
+      "meaning": "visit (to a shrine, grave, etc.)"
+    },
+    {
+      "word": "受け持つ",
+      "reading": "うけもつ",
+      "meaning": "to take (be in) charge of"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ほとんどの観光客がカメラを持参している。",
+      "reading": null,
+      "english": "Almost every tourist carries a camera with him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いっぱい入ったコップ持参しなければならない。",
+      "reading": null,
+      "english": "You must bring the full glass with you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今週は弁当を持参する。",
+      "reading": null,
+      "english": "I think I'll brown bag it this week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほとんどの観光客がカメラを持参している。",
+      "reading": null,
+      "english": "Almost every tourist carries a camera with him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いっぱい入ったコップ持参しなければならない。",
+      "reading": null,
+      "english": "You must bring the full glass with you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今週は弁当を持参する。",
+      "reading": null,
+      "english": "I think I'll brown bag it this week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

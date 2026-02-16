@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "ひと時",
+    "reading": "ひととき",
+    "romaji": "hitotoki",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "untuk sementara waktu",
+          "sementara"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "one time (in the past)",
+          "a period",
+          "former times"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時刻",
+      "reading": "じこく",
+      "meaning": "waktu, jam"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "waktu, musim, periode"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "pada saat itu, pada hari-hari itu (sama dengan そのころ)"
+    },
+    {
+      "word": "同時",
+      "reading": "どうじ",
+      "meaning": "serentak, pada waktu yang sama"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "jam tangan; jam dinding"
+    },
+    {
+      "word": "時速",
+      "reading": "じそく",
+      "meaning": "kecepatan (per jam)"
+    },
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "Kadang-kadang"
+    },
+    {
+      "word": "日時",
+      "reading": "にちじ",
+      "meaning": "tanggal dan waktu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は、一時間前にこの仕事をはじめたばかりだ。",
+      "reading": null,
+      "indonesian": "You only started this job an hour ago.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一時的なものです。",
+      "reading": null,
+      "indonesian": "It's a temporary condition.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一時期は、コーラにはまって、毎日のように飲んでたよ。",
+      "reading": null,
+      "indonesian": "For a while, I was really into cola, drinking it every day.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一時間半もずっと待っていたのです。",
+      "reading": null,
+      "indonesian": "I've been waiting for one and a half-hours.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

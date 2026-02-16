@@ -1,0 +1,249 @@
+{
+  "definition": {
+    "word": "日々",
+    "reading": "ひび",
+    "romaji": "hibi",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "daily",
+          "everyday"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "days (e.g. of one's youth)"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "every day",
+          "day after day",
+          "day by day",
+          "from day to day"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "日程",
+      "reading": "にってい",
+      "meaning": "schedule"
+    },
+    {
+      "word": "来日",
+      "reading": "らいにち",
+      "meaning": "coming to Japan"
+    },
+    {
+      "word": "当日",
+      "reading": "とうじつ",
+      "meaning": "day in question"
+    },
+    {
+      "word": "元日",
+      "reading": "がんじつ",
+      "meaning": "New Year's Day"
+    },
+    {
+      "word": "平日",
+      "reading": "へいじつ",
+      "meaning": "weekday"
+    },
+    {
+      "word": "祝日",
+      "reading": "しゅくじつ",
+      "meaning": "national holiday"
+    },
+    {
+      "word": "日時",
+      "reading": "にちじ",
+      "meaning": "date and time (of a meeting, departure, etc.)"
+    },
+    {
+      "word": "祭日",
+      "reading": "さいじつ",
+      "meaning": "national holiday"
+    },
+    {
+      "word": "日の入り",
+      "reading": "ひのいり",
+      "meaning": "sunset"
+    },
+    {
+      "word": "月日",
+      "reading": "がっぴ",
+      "meaning": "month and day (of the year)"
+    },
+    {
+      "word": "日の出",
+      "reading": "ひので",
+      "meaning": "sunrise"
+    },
+    {
+      "word": "日帰り",
+      "reading": "ひがえり",
+      "meaning": "day trip"
+    },
+    {
+      "word": "日課",
+      "reading": "にっか",
+      "meaning": "daily routine"
+    },
+    {
+      "word": "日用品",
+      "reading": "にちようひん",
+      "meaning": "daily necessities"
+    },
+    {
+      "word": "日陰",
+      "reading": "ひかげ",
+      "meaning": "shade"
+    },
+    {
+      "word": "夕日",
+      "reading": "ゆうひ",
+      "meaning": "evening sun"
+    },
+    {
+      "word": "月日",
+      "reading": "つきひ",
+      "meaning": "time"
+    },
+    {
+      "word": "日当たり",
+      "reading": "ひあたり",
+      "meaning": "exposure to the sun"
+    },
+    {
+      "word": "三日月",
+      "reading": "みかづき",
+      "meaning": "crescent moon"
+    },
+    {
+      "word": "定休日",
+      "reading": "ていきゅうび",
+      "meaning": "regular holiday"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "日々是好日",
+      "reading": "にちにちこれこうじつ",
+      "meaning": "every day is a good day",
+      "type": "proverb"
+    },
+    {
+      "word": "去る者は日々に疎し",
+      "reading": "さるものはひびにうとし",
+      "meaning": "with time we forget those who have died",
+      "type": "proverb"
+    },
+    {
+      "word": "去る者日々に疎し",
+      "reading": "さるものひびにうとし",
+      "meaning": "with time we forget those who have died",
+      "type": "proverb"
+    },
+    {
+      "word": "日々に新たなり",
+      "reading": "ひびにあらたなり",
+      "meaning": "keep improving every day",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ジュディは明日日本について話をするでしょう。",
+      "reading": null,
+      "english": "Judy will talk about Japan tomorrow.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日日、いい仕事はなかなか来ないってことを忘れるなよ。",
+      "reading": null,
+      "english": "Don't forget that good jobs are very hard to come by these days.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは昨日日光に行きましたか。",
+      "reading": null,
+      "english": "Did you go to Nikko yesterday?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけなければならない。",
+      "reading": null,
+      "english": "We must keep a diary every day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけなければならない。",
+      "reading": null,
+      "english": "I must write in my diary every day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけている。",
+      "reading": null,
+      "english": "I keep a diary every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけている。",
+      "reading": null,
+      "english": "I write in my diary every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけるのは難しいことだと分かった。",
+      "reading": null,
+      "english": "I found it difficult to keep a diary every day.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "父は毎日日記をつけている。",
+      "reading": null,
+      "english": "Father keeps a diary every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "父は毎日日記をつけている。",
+      "reading": null,
+      "english": "My father writes in his diary every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

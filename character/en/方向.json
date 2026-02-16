@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "方向",
+    "reading": "ほうこう",
+    "romaji": "houkou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "direction",
+          "orientation",
+          "bearing",
+          "way"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "course (e.g. of action)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "one (esp. of two)"
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "method"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaning": "tendency"
+    },
+    {
+      "word": "方々",
+      "reading": "かたがた",
+      "meaning": "people"
+    },
+    {
+      "word": "味方",
+      "reading": "みかた",
+      "meaning": "friend"
+    },
+    {
+      "word": "方々",
+      "reading": "ほうぼう",
+      "meaning": "here and there"
+    },
+    {
+      "word": "方針",
+      "reading": "ほうしん",
+      "meaning": "policy"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "(one's) whereabouts"
+    },
+    {
+      "word": "仕方",
+      "reading": "しかた",
+      "meaning": "way"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "方向転換",
+      "reading": "ほうこうてんかん",
+      "meaning": "change of course",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "あさっての方向を向く",
+      "reading": "あさってのほうこうをむく",
+      "meaning": "to face the wrong way",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の家はどちらの方向に面していますか。",
+      "reading": null,
+      "english": "What direction does your house face?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海岸はどちらの方向ですか。",
+      "reading": null,
+      "english": "Which way is the beach?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

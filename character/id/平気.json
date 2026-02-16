@@ -1,0 +1,170 @@
+{
+  "definition": {
+    "word": "平気",
+    "reading": "へいき",
+    "romaji": "heiki",
+    "jlpt": "N2",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ketenangan",
+          "kedamaian",
+          "ketidakpedulian"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "all right",
+          "fine",
+          "OK",
+          "okay"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "平凡",
+      "reading": "へいぼん",
+      "meaning": "umum, biasa"
+    },
+    {
+      "word": "水平線",
+      "reading": "すいへいせん",
+      "meaning": "horison"
+    },
+    {
+      "word": "湯気",
+      "reading": "ゆげ",
+      "meaning": "uap"
+    },
+    {
+      "word": "気配",
+      "reading": "けはい",
+      "meaning": "indikasi, tanda, petunjuk"
+    },
+    {
+      "word": "強気",
+      "reading": "つよき",
+      "meaning": "teguh, kuat"
+    },
+    {
+      "word": "平日",
+      "reading": "へいじつ",
+      "meaning": "hari kerja"
+    },
+    {
+      "word": "平野",
+      "reading": "へいや",
+      "meaning": "lapangan terbuka"
+    },
+    {
+      "word": "気圧",
+      "reading": "きあつ",
+      "meaning": "tekanan atmosfer"
+    },
+    {
+      "word": "蒸気",
+      "reading": "じょうき",
+      "meaning": "uap, embun"
+    },
+    {
+      "word": "水平",
+      "reading": "すいへい",
+      "meaning": "datar, horizontal"
+    },
+    {
+      "word": "吐き気",
+      "reading": "はきけ",
+      "meaning": "mual, sakit perut"
+    },
+    {
+      "word": "換気",
+      "reading": "かんき",
+      "meaning": "ventilasi"
+    },
+    {
+      "word": "水蒸気",
+      "reading": "すいじょうき",
+      "meaning": "uap air, uap"
+    },
+    {
+      "word": "生意気",
+      "reading": "なまいき",
+      "meaning": "kurang ajar, lancang"
+    },
+    {
+      "word": "地平線",
+      "reading": "ちへいせん",
+      "meaning": "horison"
+    },
+    {
+      "word": "無邪気",
+      "reading": "むじゃき",
+      "meaning": "kepolosan, kesederhanaan pikiran"
+    },
+    {
+      "word": "気品",
+      "reading": "きひん",
+      "meaning": "keanggunan, elegansi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "虚心平気",
+      "reading": "きょしんへいき",
+      "meaning": "with an open and calm mind",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "こんなに暑いのに君は平気みたいだね。",
+      "reading": null,
+      "indonesian": "This intense heat doesn't seem to bother you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "１週間タバコをすわなくても平気ですか。",
+      "reading": null,
+      "indonesian": "Can you do without smoking for a week?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "平気だよ。",
+      "reading": null,
+      "indonesian": "I'm fine.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "平気だよ。",
+      "reading": null,
+      "indonesian": "I'm cool with that.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "人が何を言おうと平気だよ。",
+      "reading": null,
+      "indonesian": "I don't care what people say.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

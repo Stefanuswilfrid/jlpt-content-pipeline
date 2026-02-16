@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "健康",
+    "reading": "けんこう",
+    "romaji": "kenkou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "health"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "healthy",
+          "sound",
+          "fit",
+          "wholesome"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "保健",
+      "reading": "ほけん",
+      "meaning": "preservation of health"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "健康には十分気をつけてください。",
+      "reading": null,
+      "english": "Take good care of yourself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は相変わらず健康そうに見える。",
+      "reading": null,
+      "english": "You look as healthy as ever.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はもっと健康に注意すればよかった。",
+      "reading": null,
+      "english": "You should have been more careful with your health.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の健康が気になっている。",
+      "reading": null,
+      "english": "I have been anxious about your health.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の健康がうらやましい。",
+      "reading": null,
+      "english": "I envy your good health.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "健康は富にまさる。",
+      "reading": null,
+      "english": "Health is better than wealth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

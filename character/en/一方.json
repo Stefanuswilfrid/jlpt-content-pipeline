@@ -1,0 +1,209 @@
+{
+  "definition": {
+    "word": "一方",
+    "reading": "いっぽう",
+    "romaji": "ippou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one (esp. of two)",
+          "the other",
+          "one way",
+          "the other way",
+          "one direction",
+          "the other direction",
+          "one side",
+          "the other side",
+          "one party",
+          "the other party"
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "on the one hand",
+          "on the other hand"
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "whereas",
+          "although",
+          "but at the same time",
+          "meanwhile",
+          "in turn"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "just keeps",
+          "being inclined to ...",
+          "tending to be ...",
+          "tending to do ...",
+          "continuously ...",
+          "just keeps on ...ing",
+          "only"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一般",
+      "reading": "いっぱん",
+      "meaning": "general"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "direction"
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "method"
+    },
+    {
+      "word": "唯一",
+      "reading": "ゆいいつ",
+      "meaning": "only"
+    },
+    {
+      "word": "一体",
+      "reading": "いったい",
+      "meaning": "(what) the heck"
+    },
+    {
+      "word": "一致",
+      "reading": "いっち",
+      "meaning": "agreement"
+    },
+    {
+      "word": "一家",
+      "reading": "いっか",
+      "meaning": "a family"
+    },
+    {
+      "word": "一種",
+      "reading": "いっしゅ",
+      "meaning": "a kind"
+    },
+    {
+      "word": "一瞬",
+      "reading": "いっしゅん",
+      "meaning": "instant"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "whole life"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "single word"
+    },
+    {
+      "word": "方々",
+      "reading": "かたがた",
+      "meaning": "people"
+    },
+    {
+      "word": "一帯",
+      "reading": "いったい",
+      "meaning": "whole area"
+    },
+    {
+      "word": "味方",
+      "reading": "みかた",
+      "meaning": "friend"
+    },
+    {
+      "word": "一度に",
+      "reading": "いちどに",
+      "meaning": "all at once"
+    },
+    {
+      "word": "方々",
+      "reading": "ほうぼう",
+      "meaning": "here and there"
+    },
+    {
+      "word": "万一",
+      "reading": "まんいち",
+      "meaning": "(unlikely event of) emergency"
+    },
+    {
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "one"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "number one"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一方通行",
+      "reading": "いっぽうつうこう",
+      "meaning": "one-way traffic",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "一方は知っているが他方は知らない。",
+      "reading": null,
+      "english": "I know one of them but not the other.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一方は赤で、また一方は白である。",
+      "reading": null,
+      "english": "One is red and the other is white.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一方に当てはまることは他方にも当てはまる。",
+      "reading": null,
+      "english": "What's sauce for the goose is sauce for the gander.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どちらか一方が出て行くしかないな。",
+      "reading": null,
+      "english": "One of us will have to go.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

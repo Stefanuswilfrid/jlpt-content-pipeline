@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "離れる",
+    "reading": "はなれる",
+    "romaji": "hanareru",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be separated",
+          "to be apart",
+          "to be distant"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to leave",
+          "to go away"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to leave (a job, etc.)",
+          "to quit",
+          "to give up"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to lose connection with",
+          "to drift away from"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "離婚",
+      "reading": "りこん",
+      "meaning": "divorce"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手が離れる",
+      "reading": "てがはなれる",
+      "meaning": "to become independent",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "予約",
+    "reading": "よやく",
+    "romaji": "yoyaku",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "reservation",
+          "appointment",
+          "booking",
+          "advance order"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "contract",
+          "subscription",
+          "pledge"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "programming (e.g. a device)",
+          "setting (e.g. a timer)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "plans"
+    },
+    {
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "promise"
+    },
+    {
+      "word": "予習",
+      "reading": "よしゅう",
+      "meaning": "preparation for a lesson"
+    },
+    {
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "estimate (of costs)"
+    },
+    {
+      "word": "契約",
+      "reading": "けいやく",
+      "meaning": "contract"
+    },
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaning": "expectation"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediction"
+    },
+    {
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "prevention"
+    },
+    {
+      "word": "予報",
+      "reading": "よほう",
+      "meaning": "forecast"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

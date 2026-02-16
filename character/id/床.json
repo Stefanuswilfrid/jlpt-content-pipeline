@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "床",
+    "reading": "とこ",
+    "romaji": "toko",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lantai"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sickbed"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "alcove"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "riverbed"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "seedbed"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "straw \"core\" of a tatami mat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "floor"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "床屋",
+      "reading": "とこや",
+      "meaning": "tukang cukur"
+    },
+    {
+      "word": "床の間",
+      "reading": "とこのま",
+      "meaning": "ceruk"
+    },
+    {
+      "word": "起床",
+      "reading": "きしょう",
+      "meaning": "bangun, beranjak dari tempat tidur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "同床異夢",
+      "reading": "どうしょういむ",
+      "meaning": "cohabiting but living in different worlds",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

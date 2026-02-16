@@ -1,0 +1,125 @@
+{
+  "definition": {
+    "word": "マスター",
+    "reading": "マスター",
+    "romaji": "masutaa",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to master (a skill)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "proprietor",
+          "manager",
+          "owner",
+          "barkeeper"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "leader",
+          "chief",
+          "head"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "master (of arts, science, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "master (recording)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "master (device)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "master (data)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外国語をマスターするには何年もかかる。",
+      "reading": null,
+      "english": "It takes years to master a foreign language.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "外国語をマスターしたければできるだけ勉強しなければならない。",
+      "reading": null,
+      "english": "If I want to master a foreign language, I must study as much as possible.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語というのは一朝一夕にマスターできるものではない。",
+      "reading": null,
+      "english": "English cannot be mastered overnight.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "英語をマスターしたいな。",
+      "reading": null,
+      "english": "I'd like to master English.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "マスタードを別に持ってきてください。",
+      "reading": null,
+      "english": "I'd like to have mustard on the side.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "マスタードは少なめにお願いします。",
+      "reading": null,
+      "english": "Easy on the mustard.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

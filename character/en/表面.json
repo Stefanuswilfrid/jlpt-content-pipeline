@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "表面",
+    "reading": "ひょうめん",
+    "romaji": "hyoumen",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "surface",
+          "face"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "outside",
+          "exterior"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "appearances",
+          "superficiality"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "代表",
+      "reading": "だいひょう",
+      "meaning": "representation"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "announcement"
+    },
+    {
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "expression"
+    },
+    {
+      "word": "表情",
+      "reading": "ひょうじょう",
+      "meaning": "facial expression"
+    },
+    {
+      "word": "面",
+      "reading": "つら",
+      "meaning": "face"
+    },
+    {
+      "word": "場面",
+      "reading": "ばめん",
+      "meaning": "scene"
+    },
+    {
+      "word": "面接",
+      "reading": "めんせつ",
+      "meaning": "interview (e.g. for a job)"
+    },
+    {
+      "word": "面倒",
+      "reading": "めんどう",
+      "meaning": "trouble"
+    },
+    {
+      "word": "面",
+      "reading": "おもて",
+      "meaning": "face"
+    },
+    {
+      "word": "面",
+      "reading": "めん",
+      "meaning": "face"
+    },
+    {
+      "word": "正面",
+      "reading": "しょうめん",
+      "meaning": "front"
+    },
+    {
+      "word": "面積",
+      "reading": "めんせき",
+      "meaning": "area (measurement)"
+    },
+    {
+      "word": "公表",
+      "reading": "こうひょう",
+      "meaning": "official announcement"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その表面は鏡のように平らだった。",
+      "reading": null,
+      "english": "Its surface was as flat as a mirror.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このテーブルは表面がツルツルなんだ。",
+      "reading": null,
+      "english": "This table has a smooth surface.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "陸地は地球の表面の約３０パーセントをおおっています。",
+      "reading": null,
+      "english": "Land covers about 30 percent of the surface of the earth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "陸と水で地球の表面は出来ている。",
+      "reading": null,
+      "english": "Land and water make up the earth's surface.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "衆",
+    "reading": "しゅう",
+    "romaji": "shuu",
+    "jlpt": "N3",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "massa",
+          "orang-orang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "people",
+          "folk",
+          "clique",
+          "bunch"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "公衆",
+      "reading": "こうしゅう",
+      "meaning": "masyarakat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一切衆生",
+      "reading": "いっさいしゅじょう",
+      "meaning": "all living creatures",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "公衆便所",
+      "reading": "こうしゅうべんじょ",
+      "meaning": "public lavatory",
+      "type": "expression"
+    },
+    {
+      "word": "衆人環視",
+      "reading": "しゅうじんかんし",
+      "meaning": "all eyes (of the public)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "衆議一決",
+      "reading": "しゅうぎいっけつ",
+      "meaning": "deciding unanimously or by consensus",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "衆生済度",
+      "reading": "しゅじょうさいど",
+      "meaning": "enlightenment of the masses",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "衆口一致",
+      "reading": "しゅうこういっち",
+      "meaning": "speaking with one voice",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "下衆の後知恵",
+      "reading": "げすのあとぢえ",
+      "meaning": "hindsight is 20-20 (even for a fool)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

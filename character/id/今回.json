@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "今回",
+    "reading": "こんかい",
+    "romaji": "konkai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sekarang",
+          "kali ini",
+          "akhir-akhir ini"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今後",
+      "reading": "こんご",
+      "meaning": "mulai sekarang, selanjutnya"
+    },
+    {
+      "word": "回復",
+      "reading": "かいふく",
+      "meaning": "pemulihan (dari penyakit), rehabilitasi, restorasi"
+    },
+    {
+      "word": "今にも",
+      "reading": "いまにも",
+      "meaning": "kapan saja, segera"
+    },
+    {
+      "word": "今に",
+      "reading": "いまに",
+      "meaning": "tidak lama lagi, segera"
+    },
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "bulan ini"
+    },
+    {
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "tahun ini"
+    },
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "sekarang, saat ini, masa depan dekat, suatu hari nanti, lain waktu"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "hari ini, hari ini"
+    },
+    {
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning": "balas, jawab"
+    },
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "minggu ini"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "jumlah kali, frekuensi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "たとえ今回はうまくいかなくてももう一度機会がある。",
+      "reading": null,
+      "indonesian": "You have another chance even if you fail this time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジャックは今回は必ず成功する。",
+      "reading": null,
+      "indonesian": "Jack is bound to succeed this time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

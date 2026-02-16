@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "突く",
+    "reading": "つく",
+    "romaji": "tsuku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menusuk",
+          "memukul",
+          "menyerang; mencuit",
+          "menyenggol",
+          "mengorek"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to poke",
+          "to prod",
+          "to push",
+          "to thrust",
+          "to nudge",
+          "to hit",
+          "to strike"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to use (a cane)",
+          "to prop oneself up with",
+          "to press against (the floor, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to attack"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to brave (the rain, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "突然",
+      "reading": "とつぜん",
+      "meaning": "tiba-tiba, mendadak, tak terduga"
+    },
+    {
+      "word": "突っ込む",
+      "reading": "つっこむ",
+      "meaning": "untuk terjun ke dalam, untuk memasukkan ke dalam"
+    },
+    {
+      "word": "衝突",
+      "reading": "しょうとつ",
+      "meaning": "tabrakan, konflik"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "痛いところを突く",
+      "reading": "いたいところをつく",
+      "meaning": "to hit a nerve",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

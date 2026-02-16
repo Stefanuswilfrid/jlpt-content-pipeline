@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "一度",
+    "reading": "いちど",
+    "romaji": "ichido",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "once",
+          "one time",
+          "on one occasion"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "temporarily",
+          "for a moment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "one degree",
+          "one tone",
+          "one musical interval"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "this time"
+    },
+    {
+      "word": "支度",
+      "reading": "したく",
+      "meaning": "preparation"
+    },
+    {
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "one"
+    },
+    {
+      "word": "一般",
+      "reading": "いっぱん",
+      "meaning": "general"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "number one"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "one (esp. of two)"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "system"
+    },
+    {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning": "degree"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "(doing) together"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "one person"
+    },
+    {
+      "word": "態度",
+      "reading": "たいど",
+      "meaning": "attitude"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人生一度きり",
+      "reading": "じんせいいちどきり",
+      "meaning": "you only live once",
+      "type": "proverb"
+    },
+    {
+      "word": "人生は一度きり",
+      "reading": "じんせいはいちどきり",
+      "meaning": "you only live once",
+      "type": "proverb"
+    },
+    {
+      "word": "問うは一度の恥、問わぬは末代の恥",
+      "reading": "とうはいちどのはじ、とわぬはまつだいのはじ",
+      "meaning": "better to ask and be embarrassed than not ask and never know",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

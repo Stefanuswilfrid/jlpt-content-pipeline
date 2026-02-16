@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "裂く",
+    "reading": "さく",
+    "romaji": "saku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tear",
+          "to rip up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cut up",
+          "to cleave",
+          "to cut open (esp. the abdomen)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to forcibly separate (e.g. two lovers)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to spare (time, money, etc.)",
+          "to use part of something"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "裂ける",
+      "reading": "さける",
+      "meaning": "to split"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "欲の熊鷹股裂く",
+      "reading": "よくのくまたかまたさく",
+      "meaning": "avarice brings doom upon oneself",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

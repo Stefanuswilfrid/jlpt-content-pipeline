@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "不満",
+    "reading": "ふまん",
+    "romaji": "fuman",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "ketidakpuasan",
+          "ketidakpuasan",
+          "keluhan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "kecemasan, kegelisahan"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "kekurangan, kelangkaan"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "ketidakadilan, ketidaksetaraan"
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaning": "kepuasan"
+    },
+    {
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "ketidaknyamanan, disabilitas, kesulitan"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "ketidakbahagiaan, kesedihan, kemalangan"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "kekurangan, kelemahan"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "misteri, rasa ingin tahu"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "salah, buruk, tidak mungkin"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "blokade, gangguan, penghentian"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "keluhan, ketidakpuasan, ketidakpuasan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不平不満",
+      "reading": "ふへいふまん",
+      "meaning": "discontent and grumbling",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたに不満があります。",
+      "reading": null,
+      "indonesian": "I have a bone to pick with you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたに不満があります。",
+      "reading": null,
+      "indonesian": "I have a bone to pick with you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君の不平不満にはうんざりだよ。",
+      "reading": null,
+      "indonesian": "I'm tired of your complaints.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君には不満が全くない。",
+      "reading": null,
+      "indonesian": "You've got nothing to complain of.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何がそんなに不満ですか。",
+      "reading": null,
+      "indonesian": "What made you so dissatisfied?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もし不満があったら知らせてください、調べます。",
+      "reading": null,
+      "indonesian": "If you have any complaints, let me know, and I'll look into them.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

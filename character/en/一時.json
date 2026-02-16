@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "ひと時",
+    "reading": "ひととき",
+    "romaji": "hitotoki",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "a (short) time",
+          "a while",
+          "moment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "one time (in the past)",
+          "a period",
+          "former times"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時刻",
+      "reading": "じこく",
+      "meaning": "time"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "同時",
+      "reading": "どうじ",
+      "meaning": "same time"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "clock"
+    },
+    {
+      "word": "時速",
+      "reading": "じそく",
+      "meaning": "speed (per hour)"
+    },
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "sometimes"
+    },
+    {
+      "word": "日時",
+      "reading": "にちじ",
+      "meaning": "date and time (of a meeting, departure, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は、一時間前にこの仕事をはじめたばかりだ。",
+      "reading": null,
+      "english": "You only started this job an hour ago.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一時的なものです。",
+      "reading": null,
+      "english": "It's a temporary condition.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一時期は、コーラにはまって、毎日のように飲んでたよ。",
+      "reading": null,
+      "english": "For a while, I was really into cola, drinking it every day.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一時間半もずっと待っていたのです。",
+      "reading": null,
+      "english": "I've been waiting for one and a half-hours.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

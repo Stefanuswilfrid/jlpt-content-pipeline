@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "そっと",
+    "reading": "そっと",
+    "romaji": "sotto",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "softly",
+          "gently",
+          "quietly",
+          "lightly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "stealthily",
+          "secretly",
+          "in secret"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to leave alone",
+          "to leave as it is"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "居候三杯目にはそっと出し",
+      "reading": "いそうろうさんばいめにはそっとだし",
+      "meaning": "the non-paying lodger asks for a third helping of rice with much hesitation",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "赤ちゃんの目を覚まさないように、そうっと歩いた。",
+      "reading": null,
+      "english": "I walked softly for fear of waking the baby.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "赤ちゃんの目を覚まさないように、そうっと歩いた。",
+      "reading": null,
+      "english": "I walked softly for fear of waking the baby.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

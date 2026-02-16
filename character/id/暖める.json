@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "温める",
+    "reading": "あたためる",
+    "romaji": "atatameru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk bersikap ramah (kepada seseorang/sesuatu)",
+          "untuk menghangatkan (seseorang/sesuatu)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sit on (an idea, plan, etc.)",
+          "to keep to oneself",
+          "to nurse",
+          "to mull over"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to renew (an old friendship)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take for oneself"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "suhu (cuaca - tidak digunakan untuk benda)"
+    },
+    {
+      "word": "温暖",
+      "reading": "おんだん",
+      "meaning": "kehangatan"
+    },
+    {
+      "word": "温度",
+      "reading": "おんど",
+      "meaning": "suhu"
+    },
+    {
+      "word": "体温",
+      "reading": "たいおん",
+      "meaning": "suhu (tubuh)"
+    },
+    {
+      "word": "大人しい",
+      "reading": "おとなしい",
+      "meaning": "patuh, jinak, tenang"
+    },
+    {
+      "word": "温まる",
+      "reading": "あたたまる",
+      "meaning": "menghangatkan diri, menjadi hangat"
+    },
+    {
+      "word": "温泉",
+      "reading": "おんせん",
+      "meaning": "spa, pemandian air panas"
+    },
+    {
+      "word": "温い",
+      "reading": "ぬるい",
+      "meaning": "suam-suam kuku"
+    },
+    {
+      "word": "温室",
+      "reading": "おんしつ",
+      "meaning": "rumah kaca"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ベンチを温める",
+      "reading": "ベンチをあたためる",
+      "meaning": "to warm the bench",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

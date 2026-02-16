@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "区別",
+    "reading": "くべつ",
+    "romaji": "kubetsu",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "perbedaan",
+          "pembedaan",
+          "klasifikasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "別れ",
+      "reading": "わかれ",
+      "meaning": "perpisahan, pemisahan, selamat tinggal"
+    },
+    {
+      "word": "地区",
+      "reading": "ちく",
+      "meaning": "distrik, bagian"
+    },
+    {
+      "word": "差別",
+      "reading": "さべつ",
+      "meaning": "diskriminasi, diferensiasi"
+    },
+    {
+      "word": "分ける",
+      "reading": "わける",
+      "meaning": "untuk membagi, untuk memisahkan"
+    },
+    {
+      "word": "区域",
+      "reading": "くいき",
+      "meaning": "zona, distrik, wilayah"
+    },
+    {
+      "word": "別荘",
+      "reading": "べっそう",
+      "meaning": "vila; rumah liburan; pondok musim panas"
+    },
+    {
+      "word": "性別",
+      "reading": "せいべつ",
+      "meaning": "jenis kelamin, gender"
+    },
+    {
+      "word": "別々",
+      "reading": "べつべつ",
+      "meaning": "secara terpisah, secara individual"
+    },
+    {
+      "word": "別",
+      "reading": "べつ",
+      "meaning": "perbedaan, berbeda"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "divisi, bagian, klasifikasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は大麦と小麦の区別ができますか。",
+      "reading": null,
+      "indonesian": "Can you tell wheat from barley?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銀とブリキの区別がつきますか。",
+      "reading": null,
+      "indonesian": "Can you distinguish silver from tin?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

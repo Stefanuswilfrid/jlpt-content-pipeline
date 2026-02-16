@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "氷",
+    "reading": "こおり",
+    "romaji": "koori",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ice"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shaved ice (usually served with flavored simple syrup)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "凍る",
+      "reading": "こおる",
+      "meaning": "to freeze"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "月下氷人",
+      "reading": "げっかひょうじん",
+      "meaning": "go-between",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "氷山の一角",
+      "reading": "ひょうざんのいっかく",
+      "meaning": "tip of the iceberg",
+      "type": "idiom"
+    },
+    {
+      "word": "氷炭相容れず",
+      "reading": "ひょうたんあいいれず",
+      "meaning": "having completely different natures and being incompatible with each other",
+      "type": "proverb"
+    },
+    {
+      "word": "薄氷の勝利",
+      "reading": "はくひょうのしょうり",
+      "meaning": "narrow victory",
+      "type": "idiom"
+    },
+    {
+      "word": "日向に氷",
+      "reading": "ひなたにこおり",
+      "meaning": "something disappearing bit by bit",
+      "type": "idiom"
+    },
+    {
+      "word": "氷は水より出でて水よりも寒し",
+      "reading": "こおりはみずよりいでてみずよりもさむし",
+      "meaning": "students surpass their masters",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この数日間、ずっと氷点下の気温が続いている。",
+      "reading": null,
+      "english": "The temperature has been below freezing for several days.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "気温が低いと水は氷になる。",
+      "reading": null,
+      "english": "Low temperatures turn water into ice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "温度計は氷点下3度を指しています。",
+      "reading": null,
+      "english": "The thermometer reads three degrees below zero.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "以前は氷を売ることなどだれも思いつかなかった。",
+      "reading": null,
+      "english": "No one had ever thought of selling ice before.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

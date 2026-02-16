@@ -1,0 +1,184 @@
+{
+  "definition": {
+    "word": "相当",
+    "reading": "そうとう",
+    "romaji": "soutou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "corresponding to (in meaning, function, etc.)",
+          "being equivalent to"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "appropriate",
+          "suitable",
+          "befitting",
+          "proportionate"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be proportionate to",
+          "to be in keeping with",
+          "to be deserving of",
+          "to be worthy of"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "considerable",
+          "substantial"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "considerably",
+          "rather",
+          "quite",
+          "fairly",
+          "pretty"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "prime minister"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "companion"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "being in charge (of an area of responsibility)"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "natural"
+    },
+    {
+      "word": "当たり前",
+      "reading": "あたりまえ",
+      "meaning": "natural"
+    },
+    {
+      "word": "相変わらず",
+      "reading": "あいかわらず",
+      "meaning": "as usual"
+    },
+    {
+      "word": "弁当",
+      "reading": "べんとう",
+      "meaning": "bento"
+    },
+    {
+      "word": "相続",
+      "reading": "そうぞく",
+      "meaning": "succession"
+    },
+    {
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "estimate"
+    },
+    {
+      "word": "当たる",
+      "reading": "あたる",
+      "meaning": "to be hit"
+    },
+    {
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "consultation"
+    },
+    {
+      "word": "相互",
+      "reading": "そうご",
+      "meaning": "mutual"
+    },
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaning": "truth"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もとは相当の身分の人だったそうです。",
+      "reading": null,
+      "english": "He is said to have been a man of respectable position.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなことを言うとは、きみも相当図々しいね。",
+      "reading": null,
+      "english": "You've got a nerve to say such a thing!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "地図上の太い線は道路に相当する。",
+      "reading": null,
+      "english": "The broad lines on the map correspond to roads.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その新しい書類システムは４０００ドル相当のものだ。",
+      "reading": null,
+      "english": "The new document system is worth $4,000.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その語に相当するようなフランス語を知っていますか。",
+      "reading": null,
+      "english": "Do you know the French equivalent of the word?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "看病",
+    "reading": "かんびょう",
+    "romaji": "kanbyou",
+    "jlpt": "N2",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "nursing (a patient)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "看板",
+      "reading": "かんばん",
+      "meaning": "signboard"
+    },
+    {
+      "word": "病む",
+      "reading": "やむ",
+      "meaning": "to fall ill"
+    },
+    {
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "hospital"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "illness (usu. excluding minor ailments, e.g. common cold)"
+    },
+    {
+      "word": "看護婦",
+      "reading": "かんごふ",
+      "meaning": "(female) nurse"
+    },
+    {
+      "word": "看護",
+      "reading": "かんご",
+      "meaning": "nursing"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "医者は病気の老人を看病して夜を明かした。",
+      "reading": null,
+      "english": "The doctor sat up all night with the sick old man.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "病人には、つきっきりの看病が必要だった。",
+      "reading": null,
+      "english": "The sick man required constant attention.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医者は病気の老人を看病して夜を明かした。",
+      "reading": null,
+      "english": "The doctor sat up all night with the sick old man.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "definition": {
+    "word": "限り",
+    "reading": "かぎり",
+    "romaji": "kagiri",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "limit",
+          "limits",
+          "bounds"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "degree",
+          "extent",
+          "scope"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "the end",
+          "the last"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "as long as ...",
+          "as far as ...",
+          "as much as ...",
+          "to the limits of ...",
+          "all of ..."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "unless ..."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(not) included in ...",
+          "(not) part of ..."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "being very much (in a certain state)",
+          "extreme amount (of a feeling, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix",
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "... only (e.g. \"one time only\", \"today only\")"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "限度",
+      "reading": "げんど",
+      "meaning": "limit"
+    },
+    {
+      "word": "無限",
+      "reading": "むげん",
+      "meaning": "infinity"
+    },
+    {
+      "word": "限定",
+      "reading": "げんてい",
+      "meaning": "limit"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "term"
+    },
+    {
+      "word": "権限",
+      "reading": "けんげん",
+      "meaning": "power"
+    },
+    {
+      "word": "制限",
+      "reading": "せいげん",
+      "meaning": "restriction"
+    },
+    {
+      "word": "限界",
+      "reading": "げんかい",
+      "meaning": "limit"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君はできる限り早く家に帰った方がいい。",
+      "reading": null,
+      "english": "You'd better go home as soon as possible.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ここにいる限り安全です。",
+      "reading": null,
+      "english": "You are safe so long as you stay here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君から来ないでくれと言ってこない限り、月曜日には行きます。",
+      "reading": null,
+      "english": "I will come on Monday unless you write to the contrary.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "給料に関する限り、それはよい仕事である。",
+      "reading": null,
+      "english": "It's a good job, as far as the pay goes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "希望がある限り、可能性はある。",
+      "reading": null,
+      "english": "As long as you have hope, a chance remains.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生に限り入場可。",
+      "reading": null,
+      "english": "Admission to students only.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

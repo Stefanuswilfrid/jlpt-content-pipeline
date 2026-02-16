@@ -1,0 +1,41 @@
+{
+  "definition": {
+    "word": "其れ其れ",
+    "reading": "それぞれ",
+    "romaji": "sorezore",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "masing-masing",
+          "setiap",
+          "secara berturut-turut"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "その他",
+      "reading": "そのほか",
+      "meaning": "di samping itu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ナプキンをたたんでそれぞれお皿のそばに置きなさい。",
+      "reading": null,
+      "indonesian": "Fold the napkins and put one by each plate.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

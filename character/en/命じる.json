@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "命じる",
+    "reading": "めいじる",
+    "romaji": "meijiru",
+    "jlpt": "N3",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to order",
+          "to command"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to appoint"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "命令",
+      "reading": "めいれい",
+      "meaning": "order"
+    },
+    {
+      "word": "命ずる",
+      "reading": "めいずる",
+      "meaning": "to order"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "life"
+    },
+    {
+      "word": "命",
+      "reading": "いのち",
+      "meaning": "life"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "回れ右を命じる。",
+      "reading": null,
+      "english": "I order you to turn right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "回れ右を命じる。",
+      "reading": null,
+      "english": "I order you to turn right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

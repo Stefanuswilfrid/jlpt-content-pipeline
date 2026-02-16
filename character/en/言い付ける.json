@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "言いつける",
+    "reading": "いいつける",
+    "romaji": "iitsukeru",
+    "jlpt": "N2",
+    "frequency": 10000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tell (to do)",
+          "to order",
+          "to direct",
+          "to instruct"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tell (on someone)",
+          "to report",
+          "to snitch"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to often say",
+          "to be used to saying"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "言付ける",
+      "reading": "ことづける",
+      "meaning": "to have someone send (a message, parcel, etc.)"
+    },
+    {
+      "word": "言い出す",
+      "reading": "いいだす",
+      "meaning": "to begin to say"
+    },
+    {
+      "word": "言い訳",
+      "reading": "いいわけ",
+      "meaning": "excuse"
+    },
+    {
+      "word": "伝言",
+      "reading": "でんごん",
+      "meaning": "(verbal) message"
+    },
+    {
+      "word": "予言",
+      "reading": "よげん",
+      "meaning": "prediction"
+    },
+    {
+      "word": "宣言",
+      "reading": "せんげん",
+      "meaning": "declaration"
+    },
+    {
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "statement"
+    },
+    {
+      "word": "言う",
+      "reading": "いう",
+      "meaning": "to say"
+    },
+    {
+      "word": "証言",
+      "reading": "しょうげん",
+      "meaning": "testimony"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "single word"
+    },
+    {
+      "word": "断言",
+      "reading": "だんげん",
+      "meaning": "assertion"
+    },
+    {
+      "word": "助言",
+      "reading": "じょげん",
+      "meaning": "advice"
+    },
+    {
+      "word": "言葉遣い",
+      "reading": "ことばづかい",
+      "meaning": "speech"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

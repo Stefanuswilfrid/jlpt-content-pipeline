@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "否",
+    "reading": "ひ",
+    "romaji": "hi",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tidak",
+          "tidak"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "否定",
+      "reading": "ひてい",
+      "meaning": "negasi, penyangkalan"
+    },
+    {
+      "word": "是非",
+      "reading": "ぜひ",
+      "meaning": "Tentu saja, dengan segala cara; tanpa gagal"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "賛否両論",
+      "reading": "さんぴりょうろん",
+      "meaning": "arguments for and against",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "運否天賦",
+      "reading": "うんぷてんぷ",
+      "meaning": "trusting to chance",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

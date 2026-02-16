@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "伝言",
+    "reading": "でんごん",
+    "romaji": "dengon",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "(verbal) message",
+          "word (from someone)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手伝い",
+      "reading": "てつだい",
+      "meaning": "helper"
+    },
+    {
+      "word": "伝統",
+      "reading": "でんとう",
+      "meaning": "tradition"
+    },
+    {
+      "word": "宣伝",
+      "reading": "せんでん",
+      "meaning": "publicity"
+    },
+    {
+      "word": "言語",
+      "reading": "げんご",
+      "meaning": "language"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "single word"
+    },
+    {
+      "word": "伝記",
+      "reading": "でんき",
+      "meaning": "biography"
+    },
+    {
+      "word": "方言",
+      "reading": "ほうげん",
+      "meaning": "dialect"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "伝言をうけましょうか。",
+      "reading": null,
+      "english": "Would you like to leave a message?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何か伝言はありますか。",
+      "reading": null,
+      "english": "Would you like to leave a message?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何かご伝言はございますか。",
+      "reading": null,
+      "english": "Will you leave a message?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "フランクは暗号による伝言を残した。",
+      "reading": null,
+      "english": "Frank left a message by means of a secret code.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何かご伝言はございますか？",
+      "reading": null,
+      "english": "May I take a message for him?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

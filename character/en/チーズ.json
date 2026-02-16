@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "チーズ",
+    "reading": "チーズ",
+    "romaji": "chiizu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cheese"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tee (piping)",
+          "T-joint"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "cheese (said when taking a photograph)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ミルクからバターやチーズが作られる。",
+      "reading": null,
+      "english": "Milk is made into butter and cheese.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ミルクからチーズが作られる。",
+      "reading": null,
+      "english": "Cheese is made from milk.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "チーズはミルクから作られる。",
+      "reading": null,
+      "english": "Cheese is made from milk.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

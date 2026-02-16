@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "承知",
+    "reading": "しょうち",
+    "romaji": "shouchi",
+    "jlpt": "N4",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "persetujuan",
+          "penerimaan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "acceptance",
+          "consent",
+          "assent",
+          "agreement",
+          "compliance",
+          "acknowledgment",
+          "acknowledgement"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "forgiving",
+          "pardoning",
+          "excusing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "知らせる",
+      "reading": "しらせる",
+      "meaning": "untuk memberi tahu"
+    },
+    {
+      "word": "受ける",
+      "reading": "うける",
+      "meaning": "mengikuti (ujian, wawancara, dll.); menerima"
+    },
+    {
+      "word": "知恵",
+      "reading": "ちえ",
+      "meaning": "kebijaksanaan, kecerdasan, kepintaran"
+    },
+    {
+      "word": "知らせ",
+      "reading": "しらせ",
+      "meaning": "melihat"
+    },
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "gubernur prefektur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "先刻承知",
+      "reading": "せんこくしょうち",
+      "meaning": "being already (well) aware",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

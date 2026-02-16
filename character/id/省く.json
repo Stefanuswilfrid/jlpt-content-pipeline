@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "省く",
+    "reading": "はぶく",
+    "romaji": "habuku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menghilangkan",
+          "untuk menyingkirkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to curtail",
+          "to save",
+          "to cut down",
+          "to economize",
+          "to economise"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "反省",
+      "reading": "はんせい",
+      "meaning": "refleksi, pertimbangan ulang, penyesalan"
+    },
+    {
+      "word": "省略",
+      "reading": "しょうりゃく",
+      "meaning": "penghilangan, singkatan, ringkasan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "機械は多くの人手を省く。",
+      "reading": null,
+      "indonesian": "Machinery dispenses with much labor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このロボットは多くの人手を省く。",
+      "reading": null,
+      "indonesian": "This robot dispenses with many hands.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この２行は省くべきだ。",
+      "reading": null,
+      "indonesian": "You should leave out these two lines.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "機械は多くの人手を省く。",
+      "reading": null,
+      "indonesian": "Machinery dispenses with much labor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このロボットは多くの人手を省く。",
+      "reading": null,
+      "indonesian": "This robot dispenses with many hands.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この２行は省くべきだ。",
+      "reading": null,
+      "indonesian": "You should leave out these two lines.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

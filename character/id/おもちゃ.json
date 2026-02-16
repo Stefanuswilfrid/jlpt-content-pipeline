@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "玩具",
+    "reading": "おもちゃ",
+    "romaji": "omocha",
+    "jlpt": "N4",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mainan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(person or thing treated as a) plaything"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaning": "alat"
+    },
+    {
+      "word": "具合",
+      "reading": "ぐあい",
+      "meaning": "kondisi, keadaan, kesehatan"
+    },
+    {
+      "word": "妻",
+      "reading": "つま",
+      "meaning": "istri (rendah hati)"
+    },
+    {
+      "word": "具体",
+      "reading": "ぐたい",
+      "meaning": "konkret, nyata, material"
+    },
+    {
+      "word": "家具",
+      "reading": "かぐ",
+      "meaning": "mebel"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "トムは母親に新しいおもちゃを買ってくれとねだった。",
+      "reading": null,
+      "indonesian": "Tom appealed to his mother to buy a new toy for him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "課題",
+    "reading": "かだい",
+    "romaji": "kadai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "subjek",
+          "tema",
+          "tugas"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "homework",
+          "assignment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "problem (that needs solving)",
+          "task",
+          "challenge",
+          "question"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "route (in climbing, bouldering, etc.)",
+          "problem"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaning": "topik, subjek"
+    },
+    {
+      "word": "課",
+      "reading": "か",
+      "meaning": "departemen, divisi"
+    },
+    {
+      "word": "課程",
+      "reading": "かてい",
+      "meaning": "kursus, kurikulum"
+    },
+    {
+      "word": "題名",
+      "reading": "だいめい",
+      "meaning": "judul"
+    },
+    {
+      "word": "題",
+      "reading": "だい",
+      "meaning": "judul, subjek, tema"
+    },
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "sebuah masalah"
+    },
+    {
+      "word": "課長",
+      "reading": "かちょう",
+      "meaning": "manajer bagian"
+    },
+    {
+      "word": "課税",
+      "reading": "かぜい",
+      "meaning": "perpajakan"
+    },
+    {
+      "word": "科目",
+      "reading": "かもく",
+      "meaning": "(mata pelajaran) sekolah, kurikulum, kursus"
+    },
+    {
+      "word": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "pekerjaan rumah"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "明日の課題は何ですか。",
+      "reading": null,
+      "indonesian": "What's the assignment for tomorrow?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "多く学生が課題を出しそこなった。",
+      "reading": null,
+      "indonesian": "Quite a few students failed to hand in their assignments.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

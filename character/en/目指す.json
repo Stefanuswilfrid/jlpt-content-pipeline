@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "目指す",
+    "reading": "めざす",
+    "romaji": "mezasu",
+    "jlpt": "N2",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to aim at (for, to do, to become)",
+          "to try for",
+          "to have an eye on"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to go toward",
+          "to head for"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "designation"
+    },
+    {
+      "word": "指す",
+      "reading": "さす",
+      "meaning": "to point"
+    },
+    {
+      "word": "指導",
+      "reading": "しどう",
+      "meaning": "guidance"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaning": "notice"
+    },
+    {
+      "word": "指揮",
+      "reading": "しき",
+      "meaning": "command"
+    },
+    {
+      "word": "指摘",
+      "reading": "してき",
+      "meaning": "pointing out"
+    },
+    {
+      "word": "指令",
+      "reading": "しれい",
+      "meaning": "order"
+    },
+    {
+      "word": "指差す",
+      "reading": "ゆびさす",
+      "meaning": "to point at"
+    },
+    {
+      "word": "指図",
+      "reading": "さしず",
+      "meaning": "directions"
+    },
+    {
+      "word": "目立つ",
+      "reading": "めだつ",
+      "meaning": "to be conspicuous"
+    },
+    {
+      "word": "薬指",
+      "reading": "くすりゆび",
+      "meaning": "ring finger"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "教育はテストに合格することを目指すべきでない。",
+      "reading": null,
+      "english": "Education shouldn't be aimed at passing a test.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "経済の安定はすべての政府の目指すところだ。",
+      "reading": null,
+      "english": "A stable economy is the aim of every government.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "教育はテストに合格することを目指すべきでない。",
+      "reading": null,
+      "english": "Education shouldn't be aimed at passing a test.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "経済の安定はすべての政府の目指すところだ。",
+      "reading": null,
+      "english": "A stable economy is the aim of every government.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

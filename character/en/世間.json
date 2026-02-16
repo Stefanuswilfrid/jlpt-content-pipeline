@@ -1,0 +1,164 @@
+{
+  "definition": {
+    "word": "世間",
+    "reading": "せけん",
+    "romaji": "seken",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "world",
+          "society",
+          "people",
+          "the public"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "period"
+    },
+    {
+      "word": "人間",
+      "reading": "にんげん",
+      "meaning": "human being"
+    },
+    {
+      "word": "年間",
+      "reading": "ねんかん",
+      "meaning": "(period of) a year"
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaning": "companion"
+    },
+    {
+      "word": "世紀",
+      "reading": "せいき",
+      "meaning": "century"
+    },
+    {
+      "word": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "moment"
+    },
+    {
+      "word": "世の中",
+      "reading": "よのなか",
+      "meaning": "society"
+    },
+    {
+      "word": "世",
+      "reading": "よ",
+      "meaning": "world"
+    },
+    {
+      "word": "間違い",
+      "reading": "まちがい",
+      "meaning": "mistake"
+    },
+    {
+      "word": "手間",
+      "reading": "てま",
+      "meaning": "time"
+    },
+    {
+      "word": "間隔",
+      "reading": "かんかく",
+      "meaning": "space"
+    },
+    {
+      "word": "居間",
+      "reading": "いま",
+      "meaning": "living room (Western style)"
+    },
+    {
+      "word": "世界",
+      "reading": "せかい",
+      "meaning": "the world"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    },
+    {
+      "word": "民間",
+      "reading": "みんかん",
+      "meaning": "private"
+    },
+    {
+      "word": "中間",
+      "reading": "ちゅうかん",
+      "meaning": "middle"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "世間は張り物",
+      "reading": "せけんははりもの",
+      "meaning": "everyone is putting on appearances",
+      "type": "proverb"
+    },
+    {
+      "word": "渡る世間に鬼はない",
+      "reading": "わたるせけんにおにはない",
+      "meaning": "all people aren't evil",
+      "type": "proverb"
+    },
+    {
+      "word": "世間は広いようで狭い",
+      "reading": "せけんはひろいようでせまい",
+      "meaning": "though it seems big, it's a small world",
+      "type": "proverb"
+    },
+    {
+      "word": "世間の口に戸は立てられぬ",
+      "reading": "せけんのくちにとはたてられぬ",
+      "meaning": "people will talk",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そのくらいは世間なみだ。",
+      "reading": null,
+      "english": "That's common sense.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その知らせは世間を、あっと言わせた。",
+      "reading": null,
+      "english": "The news was sensational.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こういうことは世間に知られていないことがよくある。",
+      "reading": null,
+      "english": "These things are often unknown to the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは世間知らずですね。",
+      "reading": null,
+      "english": "You know nothing of the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

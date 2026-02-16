@@ -1,0 +1,201 @@
+{
+  "definition": {
+    "word": "展開",
+    "reading": "てんかい",
+    "romaji": "tenkai",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berkembang",
+          "ekspansi (kebalikan dari kompresi)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "expansion",
+          "spreading out",
+          "extending",
+          "deployment",
+          "building up"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "expansion (of an algebraic expression)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "development (of a three-dimensional shape)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "extraction (of compressed data)",
+          "decompression",
+          "unpacking"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "sharing (information)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaning": "buka, buka lebar, liberalisasi"
+    },
+    {
+      "word": "開会",
+      "reading": "かいかい",
+      "meaning": "pembukaan rapat"
+    },
+    {
+      "word": "開通",
+      "reading": "かいつう",
+      "meaning": "membuka, terbuka"
+    },
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaning": "pengembangan, eksploitasi"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "pembangunan, pertumbuhan, kemajuan"
+    },
+    {
+      "word": "開催",
+      "reading": "かいさい",
+      "meaning": "mengadakan pertemuan, membuka pameran"
+    },
+    {
+      "word": "開始",
+      "reading": "かいし",
+      "meaning": "awal, permulaan, permulaan"
+    },
+    {
+      "word": "進展",
+      "reading": "しんてん",
+      "meaning": "kemajuan, pembangunan"
+    },
+    {
+      "word": "展示",
+      "reading": "てんじ",
+      "meaning": "pameran, pajangan"
+    },
+    {
+      "word": "展望",
+      "reading": "てんぼう",
+      "meaning": "pandangan, perspektif, prospek"
+    },
+    {
+      "word": "打開",
+      "reading": "だかい",
+      "meaning": "solusi, terobosan"
+    },
+    {
+      "word": "広げる",
+      "reading": "ひろげる",
+      "meaning": "menyebar, meluas, berkembang, membesar"
+    },
+    {
+      "word": "展覧会",
+      "reading": "てんらんかい",
+      "meaning": "pameran"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "予想通りの展開になりましたね。",
+      "reading": null,
+      "indonesian": "It went just as we expected.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは異常な展開を見せた出来事でした。",
+      "reading": null,
+      "indonesian": "It was an event that proved extraordinary.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その事件の展開について引き続きお知らせ下さい。",
+      "reading": null,
+      "indonesian": "Please keep me informed of the development of the case.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "コピー紙の節約運動が全社的に展開されている。",
+      "reading": null,
+      "indonesian": "A campaign is underway throughout the company to achieve economy in the use of copying paper.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人工干潟を造成する試みが全国的に展開されている。",
+      "reading": null,
+      "indonesian": "Artificial tidelands are being developed on a country-wide basis.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "省エネルギーの全国運動が展開中だ。",
+      "reading": null,
+      "indonesian": "A national campaign for energy saving is underway.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

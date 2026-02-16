@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "指揮",
+    "reading": "しき",
+    "romaji": "shiki",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "perintah",
+          "arahan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "conducting (an orchestra, choir, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "指導",
+      "reading": "しどう",
+      "meaning": "kepemimpinan, bimbingan, pelatihan"
+    },
+    {
+      "word": "指す",
+      "reading": "さす",
+      "meaning": "untuk menunjuk,"
+    },
+    {
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "penunjukan, spesifikasi, penugasan"
+    },
+    {
+      "word": "指",
+      "reading": "ゆび",
+      "meaning": "jari"
+    },
+    {
+      "word": "指輪",
+      "reading": "ゆびわ",
+      "meaning": "cincin (jari)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "陣頭指揮",
+      "reading": "じんとうしき",
+      "meaning": "taking command of a corps in a battle",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

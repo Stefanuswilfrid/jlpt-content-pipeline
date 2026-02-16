@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "旅",
+    "reading": "たび",
+    "romaji": "tabi",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "travel",
+          "trip",
+          "journey"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "travel"
+    },
+    {
+      "word": "旅館",
+      "reading": "りょかん",
+      "meaning": "ryokan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "旅は道連れ世は情け",
+      "reading": "たびはみちづれよはなさけ",
+      "meaning": "in traveling, a companion; in life, sympathy",
+      "type": "proverb"
+    },
+    {
+      "word": "旅の恥はかき捨て",
+      "reading": "たびのはじはかきすて",
+      "meaning": "once over the borders one may do anything",
+      "type": "proverb"
+    },
+    {
+      "word": "旅は心世は情け",
+      "reading": "たびはこころよはなさけ",
+      "meaning": "in traveling, companionship; in life, kindness",
+      "type": "proverb"
+    },
+    {
+      "word": "旅は情け、人は心",
+      "reading": "たびはなさけ、ひとはこころ",
+      "meaning": "in traveling, a companion; in life, sympathy",
+      "type": "proverb"
+    },
+    {
+      "word": "かわいい子には旅をさせよ",
+      "reading": "かわいいこにはたびをさせよ",
+      "meaning": "spare the rod and spoil the child",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "アメリカ旅行のよい記念になります。",
+      "reading": null,
+      "english": "This will be a good souvenir of my trip around the United States.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "元気？旅行は良かった？",
+      "reading": null,
+      "english": "How are you? Did you have a good trip?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この世界は本で、旅しない人は一ページしか読まない。",
+      "reading": null,
+      "english": "The world is a book, and those who do not travel read only a page.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "旅行が好きです。",
+      "reading": null,
+      "english": "I love trips.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "旅行が大好きなの。",
+      "reading": null,
+      "english": "I love trips.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

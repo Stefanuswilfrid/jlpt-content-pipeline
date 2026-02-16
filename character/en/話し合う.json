@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "話し合う",
+    "reading": "はなしあう",
+    "romaji": "hanashiau",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to discuss",
+          "to talk together"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "合わせる",
+      "reading": "あわせる",
+      "meaning": "to match (rhythm, speed, etc.)"
+    },
+    {
+      "word": "合図",
+      "reading": "あいず",
+      "meaning": "sign"
+    },
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "sum total"
+    },
+    {
+      "word": "似合う",
+      "reading": "にあう",
+      "meaning": "to suit"
+    },
+    {
+      "word": "都合",
+      "reading": "つごう",
+      "meaning": "circumstances"
+    },
+    {
+      "word": "合う",
+      "reading": "あう",
+      "meaning": "to come together"
+    },
+    {
+      "word": "釣り合う",
+      "reading": "つりあう",
+      "meaning": "to balance"
+    },
+    {
+      "word": "出会う",
+      "reading": "であう",
+      "meaning": "to meet (by chance)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "会議では下記を話し合うつもりです。",
+      "reading": null,
+      "english": "I'd like to discuss the following at the meeting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのやり方についてどうすべきかを話し合う必要がある。",
+      "reading": null,
+      "english": "We need to talk about how to do it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "話し合う問題のリストを作って下さい。",
+      "reading": null,
+      "english": "Will you make a list of issues to discuss?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

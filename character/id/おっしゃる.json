@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "仰る",
+    "reading": "おっしゃる",
+    "romaji": "ossharu",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb - -aru special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "-- ekspresi kehormatan untuk いう --"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb - -aru special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be called"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "信仰",
+      "reading": "しんこう",
+      "meaning": "(agama) iman, kepercayaan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたのおっしゃることが、どうもよく分かりません。",
+      "reading": null,
+      "indonesian": "I don't quite follow you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なぜそうおっしゃるのですか。",
+      "reading": null,
+      "indonesian": "Why do you say that?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どこでもおっしゃる通りでいいですよ。",
+      "reading": null,
+      "indonesian": "Wherever you say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうやらおっしゃるとおりだと思います。",
+      "reading": null,
+      "indonesian": "I almost think you're right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たぶんおっしゃる通りでしょう。",
+      "reading": null,
+      "indonesian": "I dare say you are right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "おっしゃることは本当だと思います。",
+      "reading": null,
+      "indonesian": "I think what you say is true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

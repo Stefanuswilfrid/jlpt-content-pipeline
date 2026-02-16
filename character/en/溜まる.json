@@ -1,0 +1,40 @@
+{
+  "definition": {
+    "word": "溜まる",
+    "reading": "たまる",
+    "romaji": "tamaru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to collect",
+          "to gather",
+          "to save",
+          "to accumulate",
+          "to pile up"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "溜める",
+      "reading": "ためる",
+      "meaning": "to amass"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "凹き所に水溜まる",
+      "reading": "くぼきところにみずたまる",
+      "meaning": "when the right conditions are fulfilled, things will turn out well on their own",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

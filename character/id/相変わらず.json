@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "相変わらず",
+    "reading": "あいかわらず",
+    "romaji": "aikawarazu",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "seperti biasa",
+          "seperti biasanya"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "cukup besar, lumayan; berharga ~"
+    },
+    {
+      "word": "相互",
+      "reading": "そうご",
+      "meaning": "saling, timbal balik"
+    },
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "sangat; sulit, berat"
+    },
+    {
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "perubahan, modifikasi, peng alterations"
+    },
+    {
+      "word": "相続",
+      "reading": "そうぞく",
+      "meaning": "suksesi, warisan"
+    },
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "Perdana Menteri"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "mitra; penerima; orang yang Anda ajak bicara"
+    },
+    {
+      "word": "変化",
+      "reading": "へんか",
+      "meaning": "perubahan, variasi, pergeseran"
+    },
+    {
+      "word": "相",
+      "reading": "しょう",
+      "meaning": "aspek, fase, rupa"
+    },
+    {
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "konsultasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は相変わらず同じような電話しくれない。",
+      "reading": null,
+      "indonesian": "You're giving me the same old line.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は相変わらず健康そうに見える。",
+      "reading": null,
+      "indonesian": "You look as healthy as ever.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "相変わらず元気そうだね。",
+      "reading": null,
+      "indonesian": "You look as healthy as ever.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の姉さん、相変わらず美人だね。",
+      "reading": null,
+      "indonesian": "Your sister's as beautiful as ever.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう１０年近くたつけど、相変わらず美しいわね。",
+      "reading": null,
+      "indonesian": "It's been almost ten years, but you're as beautiful as ever.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "相変わらずまだ寒い。",
+      "reading": null,
+      "indonesian": "It is still as cold as ever.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

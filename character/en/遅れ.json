@@ -1,0 +1,37 @@
+{
+  "definition": {
+    "word": "遅れ",
+    "reading": "おくれ",
+    "romaji": "okure",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "delay",
+          "lag",
+          "falling behind"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "遅刻",
+      "reading": "ちこく",
+      "meaning": "lateness"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "バスに乗り遅れる",
+      "reading": "バスにのりおくれる",
+      "meaning": "to fall behind the times",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,135 @@
+{
+  "definition": {
+    "word": "努力",
+    "reading": "どりょく",
+    "romaji": "doryoku",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "usaha keras",
+          "pengerahan tenaga",
+          "upaya"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "kerja sama, kolaborasi"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaning": "kemampuan; kekuatan"
+    },
+    {
+      "word": "能力",
+      "reading": "のうりょく",
+      "meaning": "kemampuan, fakultas"
+    },
+    {
+      "word": "魅力",
+      "reading": "みりょく",
+      "meaning": "pesona, daya pikat, daya tarik"
+    },
+    {
+      "word": "強力",
+      "reading": "きょうりょく",
+      "meaning": "kuat, perkasa"
+    },
+    {
+      "word": "全力",
+      "reading": "ぜんりょく",
+      "meaning": "seluruh kekuatan seseorang, seluruh energi"
+    },
+    {
+      "word": "電力",
+      "reading": "でんりょく",
+      "meaning": "tenaga listrik"
+    },
+    {
+      "word": "努める",
+      "reading": "つとめる",
+      "meaning": "untuk mencoba, untuk bertujuan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "奮励努力",
+      "reading": "ふんれいどりょく",
+      "meaning": "making strenuous efforts",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "努力奮励",
+      "reading": "どりょくふんれい",
+      "meaning": "making strenuous efforts",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "奮闘努力",
+      "reading": "ふんとうどりょく",
+      "meaning": "try one's best",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はあまり努力しない。",
+      "reading": null,
+      "indonesian": "You don't exert yourself much.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の努力はもうじき実るだろう。",
+      "reading": null,
+      "indonesian": "Your efforts will soon pay off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の努力はきっと成功をおさめるだろう。",
+      "reading": null,
+      "indonesian": "I'm sure your efforts will result in success.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の努力はいつの日か君のためになるでしょう。",
+      "reading": null,
+      "indonesian": "Your efforts will pay off one day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの努力はいつか実を結ぶだろう。",
+      "reading": null,
+      "indonesian": "Your efforts will pay off one day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の努力はいつかは実を結ぶだろう。",
+      "reading": null,
+      "indonesian": "Your efforts will bear fruit someday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "definition": {
+    "word": "明かり",
+    "reading": "あかり",
+    "romaji": "akari",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "light",
+          "glow",
+          "gleam"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(a) light",
+          "lights",
+          "lamp"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "proof (of innocence)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夜明け",
+      "reading": "よあけ",
+      "meaning": "dawn"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "声明",
+      "reading": "せいめい",
+      "meaning": "declaration"
+    },
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "civilization"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "proof"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "illumination"
+    },
+    {
+      "word": "空き",
+      "reading": "あき",
+      "meaning": "space"
+    },
+    {
+      "word": "明後日",
+      "reading": "あさって",
+      "meaning": "day after tomorrow"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "明かりをつけてくれませんか。",
+      "reading": null,
+      "english": "Could you turn on the light, please?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "家には明々と明かりが付いていた。",
+      "reading": null,
+      "english": "The house was blazing with lights.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠方に小さな明かりが見えた。",
+      "reading": null,
+      "english": "We saw a little light in the distance.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "遠くに明かりが見えた。",
+      "reading": null,
+      "english": "I saw a light far away.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "はるか遠くに明かりが見えた。",
+      "reading": null,
+      "english": "I saw a light far away.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "遠くにぼんやりした明かりが見えた。",
+      "reading": null,
+      "english": "We saw a dim light in the distance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠くで小さな明かりがちらちらしていた。",
+      "reading": null,
+      "english": "Little lights were blinking on and off in the distance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "暗くなってきました。明かりをつけてくれませんか。",
+      "reading": null,
+      "english": "It's getting dark. Please turn the light on for me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

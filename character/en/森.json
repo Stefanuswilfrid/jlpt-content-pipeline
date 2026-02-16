@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "森",
+    "reading": "もり",
+    "romaji": "mori",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "forest"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shrine grove"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "森羅万象",
+      "reading": "しんらばんしょう",
+      "meaning": "all things in nature",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "森のバター",
+      "reading": "もりのバター",
+      "meaning": "avocado",
+      "type": "idiom"
+    },
+    {
+      "word": "木を見て森を見ず",
+      "reading": "きをみてもりをみず",
+      "meaning": "to not see the forest for the trees",
+      "type": "idiom"
+    },
+    {
+      "word": "木を隠すなら森の中",
+      "reading": "きをかくすならもりのなか",
+      "meaning": "if you want to hide a tree, the best place is a forest",
+      "type": "proverb"
+    },
+    {
+      "word": "木の葉を隠すなら森の中",
+      "reading": "このはをかくすならもりのなか",
+      "meaning": "if you want to hide a leaf, the best place is a forest",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

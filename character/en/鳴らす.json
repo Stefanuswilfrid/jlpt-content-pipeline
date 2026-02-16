@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "鳴らす",
+    "reading": "ならす",
+    "romaji": "narasu",
+    "jlpt": "N3",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to ring",
+          "to sound",
+          "to chime",
+          "to beat",
+          "to snort (nose)",
+          "to snap (fingers)",
+          "to crack (joints)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be popular",
+          "to be esteemed",
+          "to be reputed"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to state",
+          "to insist",
+          "to complain"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "鳴る",
+      "reading": "なる",
+      "meaning": "to sound"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "鼻を鳴らす",
+      "reading": "はなをならす",
+      "meaning": "to coo at",
+      "type": "idiom"
+    },
+    {
+      "word": "警鐘を鳴らす",
+      "reading": "けいしょうをならす",
+      "meaning": "to ring an alarm bell",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "指を鳴らすのはやめろ。",
+      "reading": null,
+      "english": "Stop cracking your knuckles.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "指の関節をポキポキ鳴らすのはやめろ。",
+      "reading": null,
+      "english": "Stop cracking your knuckles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "指を鳴らすのはやめろ。",
+      "reading": null,
+      "english": "Stop cracking your knuckles.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "指の関節をポキポキ鳴らすのはやめろ。",
+      "reading": null,
+      "english": "Stop cracking your knuckles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

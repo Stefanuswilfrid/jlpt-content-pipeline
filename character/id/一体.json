@@ -1,0 +1,220 @@
+{
+  "definition": {
+    "word": "一体",
+    "reading": "いったい",
+    "romaji": "ittai",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "satu objek; tubuh; apa-apaan ini?; secara umum"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one object",
+          "one body",
+          "unity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one form",
+          "one style"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one Buddhist image (or carving, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "generally",
+          "in general"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一般",
+      "reading": "いっぱん",
+      "meaning": "umum, rata-rata"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "di sisi lain; sementara itu"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "untuk sementara waktu, sementara"
+    },
+    {
+      "word": "全体",
+      "reading": "ぜんたい",
+      "meaning": "keseluruhan, seluruh bagian, apa pun (masalahnya)"
+    },
+    {
+      "word": "団体",
+      "reading": "だんたい",
+      "meaning": "organisasi, asosiasi"
+    },
+    {
+      "word": "唯一",
+      "reading": "ゆいいつ",
+      "meaning": "hanya, tunggal, unik"
+    },
+    {
+      "word": "具体",
+      "reading": "ぐたい",
+      "meaning": "konkret, nyata, material"
+    },
+    {
+      "word": "体育",
+      "reading": "たいいく",
+      "meaning": "pendidikan jasmani, senam, atletik"
+    },
+    {
+      "word": "一致",
+      "reading": "いっち",
+      "meaning": "kesepakatan; kesesuaian"
+    },
+    {
+      "word": "一家",
+      "reading": "いっか",
+      "meaning": "keluarga, klan"
+    },
+    {
+      "word": "一種",
+      "reading": "いっしゅ",
+      "meaning": "spesies, jenis, varietas"
+    },
+    {
+      "word": "体重",
+      "reading": "たいじゅう",
+      "meaning": "berat badan"
+    },
+    {
+      "word": "一瞬",
+      "reading": "いっしゅん",
+      "meaning": "sesaat, sekejap"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "sepanjang hidup (seseorang)"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "satu kata"
+    },
+    {
+      "word": "一帯",
+      "reading": "いったい",
+      "meaning": "suatu wilayah, seluruh tempat"
+    },
+    {
+      "word": "形態",
+      "reading": "けいたい",
+      "meaning": "bentuk, rupa, figur"
+    },
+    {
+      "word": "一度に",
+      "reading": "いちどに",
+      "meaning": "sekaligus"
+    },
+    {
+      "word": "身体",
+      "reading": "しんたい",
+      "meaning": "tubuh"
+    },
+    {
+      "word": "重体",
+      "reading": "じゅうたい",
+      "meaning": "sakit parah, kondisi kritis"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "三位一体",
+      "reading": "さんみいったい",
+      "meaning": "the Trinity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "表裏一体",
+      "reading": "ひょうりいったい",
+      "meaning": "the two views (of an object) referring to the same thing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "渾然一体",
+      "reading": "こんぜんいったい",
+      "meaning": "in complete harmony",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は一体何を言おうとしているのか。",
+      "reading": null,
+      "indonesian": "What are you driving at?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は一体それを読んだのか。",
+      "reading": null,
+      "indonesian": "Did you read it at all?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一体全体問題は何か。",
+      "reading": null,
+      "indonesian": "What on earth is the problem?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一体全体君は何をしているんだ。",
+      "reading": null,
+      "indonesian": "What on earth are you doing here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一体全体ここで何をしているんだ？",
+      "reading": null,
+      "indonesian": "What on earth are you doing here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

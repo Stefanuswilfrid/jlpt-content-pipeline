@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "合図",
+    "reading": "あいず",
+    "romaji": "aizu",
+    "jlpt": "N3",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "sign",
+          "signal",
+          "cue"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "話し合う",
+      "reading": "はなしあう",
+      "meaning": "to discuss"
+    },
+    {
+      "word": "図る",
+      "reading": "はかる",
+      "meaning": "to plan"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "meeting"
+    },
+    {
+      "word": "組合",
+      "reading": "くみあい",
+      "meaning": "association"
+    },
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "sum total"
+    },
+    {
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "passing (an exam)"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "association"
+    },
+    {
+      "word": "合わせる",
+      "reading": "あわせる",
+      "meaning": "to match (rhythm, speed, etc.)"
+    },
+    {
+      "word": "図",
+      "reading": "ず",
+      "meaning": "drawing"
+    },
+    {
+      "word": "図書",
+      "reading": "としょ",
+      "meaning": "books"
+    },
+    {
+      "word": "出会う",
+      "reading": "であう",
+      "meaning": "to meet (by chance)"
+    },
+    {
+      "word": "似合う",
+      "reading": "にあう",
+      "meaning": "to suit"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "meeting"
+    },
+    {
+      "word": "幸せ",
+      "reading": "しあわせ",
+      "meaning": "happiness"
+    },
+    {
+      "word": "待合室",
+      "reading": "まちあいしつ",
+      "meaning": "waiting room"
+    },
+    {
+      "word": "釣り合う",
+      "reading": "つりあう",
+      "meaning": "to balance"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "すぐにゴーの合図をしてください。",
+      "reading": null,
+      "english": "Give us the sign to go soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こちらに来るように手で合図した。",
+      "reading": null,
+      "english": "I made motions at him to come here with my hand.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつでも合図して。",
+      "reading": null,
+      "english": "Say the word any time.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "母はついてくるようにアリスに合図した。",
+      "reading": null,
+      "english": "The mother signed to Alice to follow her.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "母はついてくるようにアリスに合図した。",
+      "reading": null,
+      "english": "My mother signaled for Alice to follow her.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

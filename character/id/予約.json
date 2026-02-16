@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "予約",
+    "reading": "よやく",
+    "romaji": "yoyaku",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "reservasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "contract",
+          "subscription",
+          "pledge"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "programming (e.g. a device)",
+          "setting (e.g. a timer)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "rencana, pengaturan, jadwal"
+    },
+    {
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "pengaturan, penunjukan, janji"
+    },
+    {
+      "word": "予習",
+      "reading": "よしゅう",
+      "meaning": "persiapan pelajaran (untuk kelas)"
+    },
+    {
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "perkiraan, anggaran"
+    },
+    {
+      "word": "契約",
+      "reading": "けいやく",
+      "meaning": "kontrak, perjanjian, kesepakatan"
+    },
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaning": "harapan, antisipasi, prediksi"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediksi, estimasi"
+    },
+    {
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "pencegahan, perlindungan terhadap"
+    },
+    {
+      "word": "予報",
+      "reading": "よほう",
+      "meaning": "ramalan, prediksi"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

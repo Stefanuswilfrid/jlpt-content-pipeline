@@ -1,0 +1,234 @@
+{
+  "definition": {
+    "word": "行方",
+    "reading": "ゆくえ",
+    "romaji": "yukue",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(one's) whereabouts"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "destination",
+          "where one is headed"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "outcome",
+          "course (of events)",
+          "development",
+          "direction",
+          "tide"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "future",
+          "journey ahead"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方針",
+      "reading": "ほうしん",
+      "meaning": "policy"
+    },
+    {
+      "word": "行事",
+      "reading": "ぎょうじ",
+      "meaning": "event"
+    },
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "direction"
+    },
+    {
+      "word": "行列",
+      "reading": "ぎょうれつ",
+      "meaning": "line"
+    },
+    {
+      "word": "孝行",
+      "reading": "こうこう",
+      "meaning": "filial piety"
+    },
+    {
+      "word": "方言",
+      "reading": "ほうげん",
+      "meaning": "dialect"
+    },
+    {
+      "word": "並行",
+      "reading": "へいこう",
+      "meaning": "going side-by-side"
+    },
+    {
+      "word": "明け方",
+      "reading": "あけがた",
+      "meaning": "dawn"
+    },
+    {
+      "word": "長方形",
+      "reading": "ちょうほうけい",
+      "meaning": "rectangle"
+    },
+    {
+      "word": "方程式",
+      "reading": "ほうていしき",
+      "meaning": "equation"
+    },
+    {
+      "word": "夜行",
+      "reading": "やこう",
+      "meaning": "night travel"
+    },
+    {
+      "word": "方角",
+      "reading": "ほうがく",
+      "meaning": "direction"
+    },
+    {
+      "word": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "square"
+    },
+    {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "bank"
+    },
+    {
+      "word": "行政",
+      "reading": "ぎょうせい",
+      "meaning": "executive"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "action"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "one (esp. of two)"
+    },
+    {
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "direction"
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "method"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "品行方正",
+      "reading": "ひんこうほうせい",
+      "meaning": "irreproachable conduct",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "水の流れと人の行方",
+      "reading": "みずのながれとひとのゆくえ",
+      "meaning": "life is unpredictable",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "我々は行方不明の子を求めて森の中を探した。",
+      "reading": null,
+      "english": "We searched the woods for the missing child.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その行方不明だった子は２日後に見つかった。",
+      "reading": null,
+      "english": "The lost child was found after two days.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その医者の行方不明事件を調べなければならない。",
+      "reading": null,
+      "english": "We have to look into the disappearance of the doctor.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "杳として行方が知れない。",
+      "reading": null,
+      "english": "Nothing whatever is known of him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "杳として行方が知れない。",
+      "reading": null,
+      "english": "We have no clue where he is.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "杳として行方が知れない。",
+      "reading": null,
+      "english": "We have no idea where he is.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "杳として行方が知れない。",
+      "reading": null,
+      "english": "We haven't a clue where he is.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "杳として行方が知れない。",
+      "reading": null,
+      "english": "We've got no idea where he is.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "旅行方法としてはどれが一番良いですか。",
+      "reading": null,
+      "english": "Which is the best way to travel?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

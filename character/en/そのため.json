@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "その為",
+    "reading": "そのため",
+    "romaji": "sonotame",
+    "jlpt": "N2",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "hence",
+          "for that reason"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "為替",
+      "reading": "かわせ",
+      "meaning": "money order"
+    },
+    {
+      "word": "為す",
+      "reading": "なす",
+      "meaning": "to do"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一行は、そのため、別のルートを取らねばならなかった。",
+      "reading": null,
+      "english": "The party, therefore, had to take another route.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まだそのためには機が熟していないと思う。",
+      "reading": null,
+      "english": "I'm afraid the time is not yet ripe for it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのため大勢の人が亡くなった。",
+      "reading": null,
+      "english": "Therefore many people passed away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのための時間は十分ある。",
+      "reading": null,
+      "english": "I have enough time for that.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのために問題はますます複雑になった。",
+      "reading": null,
+      "english": "That made the problem all the more complicated.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのために仕事を失うことになるかもしれない。",
+      "reading": null,
+      "english": "It'll cost me my job.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

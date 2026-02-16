@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "裸",
+    "reading": "はだか",
+    "romaji": "hadaka",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "nakedness",
+          "nudity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "bareness",
+          "nakedness",
+          "baldness",
+          "being uncovered"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "being penniless"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "concealing nothing",
+          "openness"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "裸の王様",
+      "reading": "はだかのおうさま",
+      "meaning": "person of high standing, with a warped view of reality",
+      "type": "idiom"
+    },
+    {
+      "word": "裸の付き合い",
+      "reading": "はだかのつきあい",
+      "meaning": "completely honest relationship",
+      "type": "idiom"
+    },
+    {
+      "word": "裸足で逃げる",
+      "reading": "はだしでにげる",
+      "meaning": "to be put to shame (of an expert)",
+      "type": "idiom"
+    },
+    {
+      "word": "内裸でも外錦",
+      "reading": "うちはだかでもそとにしき",
+      "meaning": "we must keep up appearances to go through the world",
+      "type": "proverb"
+    },
+    {
+      "word": "裸足で逃げ出す",
+      "reading": "はだしでにげだす",
+      "meaning": "to be put to shame (of an expert)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

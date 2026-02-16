@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "レベル",
+    "reading": "レベル",
+    "romaji": "reberu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tingkat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "level (amount or quantity)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "level (plane)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "level (instrument)",
+          "spirit level",
+          "surveyor's level"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは高レベルの集中力を必要とする種類の仕事だ。",
+      "reading": null,
+      "indonesian": "It's the sort of work that calls for a high level of concentration.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その学校のレベルは高い。",
+      "reading": null,
+      "indonesian": "The level of the school is high.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このレベルを守りましょう。",
+      "reading": null,
+      "indonesian": "Let's keep this level.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "物売るっていうレベルじゃねぇぞ。",
+      "reading": null,
+      "indonesian": "You're not just peddling stuff!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "連想",
+    "reading": "れんそう",
+    "romaji": "rensou",
+    "jlpt": "N3",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "association (of ideas)",
+          "being reminded (of something)",
+          "suggestion"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関連",
+      "reading": "かんれん",
+      "meaning": "relation"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaning": "expectation"
+    },
+    {
+      "word": "思想",
+      "reading": "しそう",
+      "meaning": "thought"
+    },
+    {
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "impressions"
+    },
+    {
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "ideal"
+    },
+    {
+      "word": "想像",
+      "reading": "そうぞう",
+      "meaning": "imagination"
+    },
+    {
+      "word": "連れ",
+      "reading": "つれ",
+      "meaning": "companion"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaning": "memories"
+    },
+    {
+      "word": "空想",
+      "reading": "くうそう",
+      "meaning": "daydream"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "夏といえば何を連想しますか。",
+      "reading": null,
+      "english": "What do you associate with summer?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "リンカーンと言えば自由を連想する。",
+      "reading": null,
+      "english": "We associate the name of Lincoln with freedom.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "緑は草を連想させる。",
+      "reading": null,
+      "english": "Green is associated with grass.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

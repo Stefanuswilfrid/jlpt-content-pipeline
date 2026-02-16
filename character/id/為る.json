@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "為る",
+    "reading": "する",
+    "romaji": "suru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "untuk berubah",
+          "untuk berguna",
+          "untuk mencapai"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "to cause to become",
+          "to make (into)",
+          "to turn (into)"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "to serve as",
+          "to act as",
+          "to work as"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "to wear (clothes, a facial expression, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "to judge as being",
+          "to view as being",
+          "to think of as",
+          "to treat as",
+          "to use as"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included"
+        ],
+        "meanings": [
+          "to decide on",
+          "to choose"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be sensed (of a smell, noise, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - included",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be (in a state, condition, etc.)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "所為",
+      "reading": "せい",
+      "meaning": "penyebab, alasan, kesalahan"
+    },
+    {
+      "word": "為",
+      "reading": "ため",
+      "meaning": "baik, keuntungan, untuk"
+    },
+    {
+      "word": "為す",
+      "reading": "なす",
+      "meaning": "untuk menyelesaikan, untuk melakukan"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

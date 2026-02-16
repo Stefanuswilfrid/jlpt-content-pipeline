@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "奥",
+    "reading": "おく",
+    "romaji": "oku",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "inner part",
+          "interior",
+          "back (of a drawer, one's throat, etc.)",
+          "depths (e.g. of a forest)",
+          "recesses (e.g. of a cave)",
+          "heart",
+          "end (of a road, garden, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "living quarters (at the back of a house)",
+          "inner room"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "recesses (of one's mind)",
+          "bottom (of one's heart)",
+          "behind (someone's words)",
+          "mysteries (of an art)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "奥さん",
+      "reading": "おくさん",
+      "meaning": "wife"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "奥の手",
+      "reading": "おくのて",
+      "meaning": "ace up one's sleeve",
+      "type": "idiom"
+    },
+    {
+      "word": "奥の手を使う",
+      "reading": "おくのてをつかう",
+      "meaning": "to play one's trump card",
+      "type": "idiom"
+    },
+    {
+      "word": "奥歯に物が挟まる",
+      "reading": "おくばにものがはさまる",
+      "meaning": "to beat around the bush",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

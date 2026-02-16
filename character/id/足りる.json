@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "足りる",
+    "reading": "たりる",
+    "romaji": "tariru",
+    "jlpt": "N4",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "cukup; memadai"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be worth doing",
+          "to be worthy of",
+          "to deserve"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to do (the job)",
+          "to serve",
+          "to answer"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "kekurangan, kelangkaan"
+    },
+    {
+      "word": "足す",
+      "reading": "たす",
+      "meaning": "untuk menambahkan (angka)"
+    },
+    {
+      "word": "休息",
+      "reading": "きゅうそく",
+      "meaning": "istirahat, lega, relaksasi"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "Kaos kaki Jepang (dengan jari kaki terpisah)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それだけで十分足りるだろう。",
+      "reading": null,
+      "indonesian": "That would be sufficient.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "千円で足りる？",
+      "reading": null,
+      "indonesian": "Is one thousand yen enough?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "朝食用のパンはぎりぎり足りる。",
+      "reading": null,
+      "indonesian": "We have barely enough bread for breakfast.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それだけで十分足りるだろう。",
+      "reading": null,
+      "indonesian": "That would be sufficient.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

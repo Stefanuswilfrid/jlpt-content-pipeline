@@ -1,0 +1,163 @@
+{
+  "definition": {
+    "word": "登場",
+    "reading": "とうじょう",
+    "romaji": "toujou",
+    "jlpt": "N2",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "entrance (on the stage)",
+          "appearance (in a book, film, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "appearance (on the scene)",
+          "arrival (on the market)",
+          "emergence",
+          "introduction",
+          "advent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "職場",
+      "reading": "しょくば",
+      "meaning": "one's post"
+    },
+    {
+      "word": "広場",
+      "reading": "ひろば",
+      "meaning": "public square"
+    },
+    {
+      "word": "上り",
+      "reading": "のぼり",
+      "meaning": "ascent"
+    },
+    {
+      "word": "牧場",
+      "reading": "ぼくじょう",
+      "meaning": "farm (livestock)"
+    },
+    {
+      "word": "酒場",
+      "reading": "さかば",
+      "meaning": "bar"
+    },
+    {
+      "word": "現場",
+      "reading": "げんば",
+      "meaning": "actual spot"
+    },
+    {
+      "word": "市場",
+      "reading": "いちば",
+      "meaning": "(town) market"
+    },
+    {
+      "word": "市場",
+      "reading": "しじょう",
+      "meaning": "market (financial, stock, domestic, etc.)"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaning": "place"
+    },
+    {
+      "word": "立場",
+      "reading": "たちば",
+      "meaning": "position"
+    },
+    {
+      "word": "工場",
+      "reading": "こうじょう",
+      "meaning": "factory"
+    },
+    {
+      "word": "会場",
+      "reading": "かいじょう",
+      "meaning": "assembly hall"
+    },
+    {
+      "word": "劇場",
+      "reading": "げきじょう",
+      "meaning": "theatre"
+    },
+    {
+      "word": "出場",
+      "reading": "しゅつじょう",
+      "meaning": "participation (in a tournament, match, race, etc.)"
+    },
+    {
+      "word": "登録",
+      "reading": "とうろく",
+      "meaning": "registration"
+    },
+    {
+      "word": "場面",
+      "reading": "ばめん",
+      "meaning": "scene"
+    },
+    {
+      "word": "相場",
+      "reading": "そうば",
+      "meaning": "market price"
+    },
+    {
+      "word": "入場",
+      "reading": "にゅうじょう",
+      "meaning": "entrance"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "シェークスピアは有名な登場人物をたくさんうみだした。",
+      "reading": null,
+      "english": "Shakespeare created many famous characters.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この本のすべての登場人物は想像上のものです。",
+      "reading": null,
+      "english": "All the characters in this book are imaginary.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そこでベス下手より登場！",
+      "reading": null,
+      "english": "Now Beth enters, stage right!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎年およそ４５００種のポピュラーのＬＰが登場する。",
+      "reading": null,
+      "english": "Each year some 4500 different Pop LPs appear.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

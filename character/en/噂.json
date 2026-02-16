@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "噂",
+    "reading": "うわさ",
+    "romaji": "uwasa",
+    "jlpt": "N3",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "rumour",
+          "rumor",
+          "report",
+          "hearsay",
+          "gossip",
+          "common talk"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "噂をすれば影",
+      "reading": "うわさをすればかげ",
+      "meaning": "speak of the devil",
+      "type": "proverb"
+    },
+    {
+      "word": "風の噂",
+      "reading": "かぜのうわさ",
+      "meaning": "hearsay",
+      "type": "idiom"
+    },
+    {
+      "word": "噂をすれば影が射す",
+      "reading": "うわさをすればかげがさす",
+      "meaning": "speak of the devil and he shall appear",
+      "type": "proverb"
+    },
+    {
+      "word": "人の噂も七十五日",
+      "reading": "ひとのうわさもしちじゅうごにち",
+      "meaning": "a wonder lasts but nine days",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "前もって",
+    "reading": "まえもって",
+    "romaji": "maemotte",
+    "jlpt": "N3",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "in advance",
+          "beforehand",
+          "previously",
+          "ahead of time"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "以前",
+      "reading": "いぜん",
+      "meaning": "before"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "natural"
+    },
+    {
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "morning"
+    },
+    {
+      "word": "直前",
+      "reading": "ちょくぜん",
+      "meaning": "just before"
+    },
+    {
+      "word": "前後",
+      "reading": "ぜんご",
+      "meaning": "front and rear"
+    },
+    {
+      "word": "前",
+      "reading": "ぜん",
+      "meaning": "last (i.e. immediately preceding)"
+    },
+    {
+      "word": "前",
+      "reading": "まえ",
+      "meaning": "in front (of)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "前もって言ってくれても良かったのに。",
+      "reading": null,
+      "english": "You ought to have told me that before.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご出発を前もってお知らせください。",
+      "reading": null,
+      "english": "Let me know your departure in advance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご協力に対し、前もってお礼を申し上げます。",
+      "reading": null,
+      "english": "Thank you in advance for your cooperation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "前もって電話しとくべきだったね。",
+      "reading": null,
+      "english": "You should have telephoned in advance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "前もって予約しなければならない。",
+      "reading": null,
+      "english": "You have to make reservations in advance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたには前もってお話ししますよ。",
+      "reading": null,
+      "english": "You'll be told in advance.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

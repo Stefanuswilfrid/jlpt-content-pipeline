@@ -1,0 +1,169 @@
+{
+  "definition": {
+    "word": "分ける",
+    "reading": "わける",
+    "romaji": "wakeru",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk membagi",
+          "untuk memisahkan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to share",
+          "to distribute",
+          "to deal out",
+          "to dish out"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to distinguish",
+          "to discriminate",
+          "to differentiate (between)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to break up (a fight)",
+          "to mediate"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to call a draw",
+          "to tie"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to push one's way through (a crowd)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sell"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "分析",
+      "reading": "ぶんせき",
+      "meaning": "analisa"
+    },
+    {
+      "word": "分かれる",
+      "reading": "わかれる",
+      "meaning": "bercabang, menyimpang dari"
+    },
+    {
+      "word": "十分",
+      "reading": "じゅうぶん",
+      "meaning": "cukup"
+    },
+    {
+      "word": "部分",
+      "reading": "ぶぶん",
+      "meaning": "bagian, seksi, porsi"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaning": "lapangan, bola"
+    },
+    {
+      "word": "大部分",
+      "reading": "だいぶぶん",
+      "meaning": "sebagian besar, mayoritas"
+    },
+    {
+      "word": "分",
+      "reading": "ぶん",
+      "meaning": "membagi, bagian, segmen"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "divisi, bagian, klasifikasi"
+    },
+    {
+      "word": "分類",
+      "reading": "ぶんるい",
+      "meaning": "klasifikasi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "のれんを分ける",
+      "reading": "のれんをわける",
+      "meaning": "to help a long-term employee to establish a branch of the same shop",
+      "type": "idiom"
+    },
+    {
+      "word": "馬の背を分ける",
+      "reading": "うまのせをわける",
+      "meaning": "to rain on one side only (and leave the other side dry)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海は世界を分けるのではなく、むしろ結びつけるものです。",
+      "reading": null,
+      "indonesian": "Oceans do not so much divide the world as unite it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "荷物を全部選り分けるのにかなり時間がかかった。",
+      "reading": null,
+      "indonesian": "It took quite a while to sort out all our luggage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは緑と青を見分けることができますか。",
+      "reading": null,
+      "indonesian": "Can you tell green from blue?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

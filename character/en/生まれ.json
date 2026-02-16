@@ -1,0 +1,160 @@
+{
+  "definition": {
+    "word": "生まれ",
+    "reading": "うまれ",
+    "romaji": "umare",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "birth",
+          "birthplace"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "born in (country, month, imperial era, zodiac year, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "life"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "whole life"
+    },
+    {
+      "word": "生",
+      "reading": "なま",
+      "meaning": "raw"
+    },
+    {
+      "word": "生地",
+      "reading": "きじ",
+      "meaning": "cloth"
+    },
+    {
+      "word": "生き物",
+      "reading": "いきもの",
+      "meaning": "living thing"
+    },
+    {
+      "word": "芝生",
+      "reading": "しばふ",
+      "meaning": "lawn"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(one's) life"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "life"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "birth (of a person)"
+    },
+    {
+      "word": "生物",
+      "reading": "せいぶつ",
+      "meaning": "living thing"
+    },
+    {
+      "word": "生理",
+      "reading": "せいり",
+      "meaning": "physiology"
+    },
+    {
+      "word": "生長",
+      "reading": "せいちょう",
+      "meaning": "growth (of a plant)"
+    },
+    {
+      "word": "生物",
+      "reading": "なまもの",
+      "meaning": "raw food"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "overseas student"
+    },
+    {
+      "word": "生存",
+      "reading": "せいぞん",
+      "meaning": "existence"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "口から先に生まれる",
+      "reading": "くちからさきにうまれる",
+      "meaning": "to be of an overly talkative disposition since birth",
+      "type": "idiom"
+    },
+    {
+      "word": "口から生まれる",
+      "reading": "くちからうまれる",
+      "meaning": "to be of an overly talkative disposition since birth",
+      "type": "idiom"
+    },
+    {
+      "word": "生まれぬ先の襁褓さだめ",
+      "reading": "うまれぬさきのむつきさだめ",
+      "meaning": "putting the cart before the horse",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は生まれながらの詩人だ。",
+      "reading": null,
+      "english": "You are made to be a poet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が生まれた日のことはよく覚えている。",
+      "reading": null,
+      "english": "Well do I remember the day you were born.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "議会が最初に生まれたのはいつだか知っていますか。",
+      "reading": null,
+      "english": "Do you know when the first parliament came into being?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "生まれ変わったら、ミュージシャンになりたいな。",
+      "reading": null,
+      "english": "If I were to be born again, I would be a musician.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "居る",
+    "reading": "おる",
+    "romaji": "oru",
+    "jlpt": "N4",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "-- ekspresi ekstra-sederhana untuk いる --"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to be ...-ing"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to have ...-ed",
+          "to be ...-ed"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to (have the audacity to) do"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "居る",
+      "reading": "いる",
+      "meaning": "(rendah hati) untuk menjadi (hidup), untuk ada"
+    },
+    {
+      "word": "居眠り",
+      "reading": "いねむり",
+      "meaning": "mengantuk, tertidur"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "かぜがなおるのに３週間かかった。",
+      "reading": null,
+      "indonesian": "It took three weeks for me to get over my cold.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "かぜがなおるのに３週間かかった。",
+      "reading": null,
+      "indonesian": "It took three weeks for me to get over my cold.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

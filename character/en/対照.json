@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "対照",
+    "reading": "たいしょう",
+    "romaji": "taishou",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "contrast",
+          "antithesis",
+          "comparison"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "対",
+      "reading": "たい",
+      "meaning": "versus"
+    },
+    {
+      "word": "対",
+      "reading": "つい",
+      "meaning": "pair"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaning": "target"
+    },
+    {
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "absolutely"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "illumination"
+    },
+    {
+      "word": "応対",
+      "reading": "おうたい",
+      "meaning": "dealing with (people, customers, complaints, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その絵はこの絵とは対照的にカラフルだ。",
+      "reading": null,
+      "english": "The picture is colorful in contrast with this one.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この本で筆者は日本とアメリカを対照させている。",
+      "reading": null,
+      "english": "In this book, the writer contrasts Japan with America.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "赤は青と美しい対照をなす。",
+      "reading": null,
+      "english": "Red contrasts well with blue.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "definition": {
+    "word": "頭痛",
+    "reading": "ずつう",
+    "romaji": "zutsuu",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "headache"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "苦痛",
+      "reading": "くつう",
+      "meaning": "pain"
+    },
+    {
+      "word": "痛み",
+      "reading": "いたみ",
+      "meaning": "pain"
+    },
+    {
+      "word": "頭",
+      "reading": "あたま",
+      "meaning": "head"
+    },
+    {
+      "word": "頭脳",
+      "reading": "ずのう",
+      "meaning": "head"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "頭痛の種",
+      "reading": "ずつうのたね",
+      "meaning": "cause for headaches",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

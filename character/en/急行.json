@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "急行",
+    "reading": "きゅうこう",
+    "romaji": "kyuukou",
+    "jlpt": "N4",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "hurrying (to somewhere)",
+          "rushing",
+          "hastening"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "express (train)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "急",
+      "reading": "きゅう",
+      "meaning": "sudden"
+    },
+    {
+      "word": "特急",
+      "reading": "とっきゅう",
+      "meaning": "limited express (train for which a limited-express ticket is required)"
+    },
+    {
+      "word": "飛行場",
+      "reading": "ひこうじょう",
+      "meaning": "airfield"
+    },
+    {
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "delinquency"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

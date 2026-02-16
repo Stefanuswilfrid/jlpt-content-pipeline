@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "払う",
+    "reading": "はらう",
+    "romaji": "harau",
+    "jlpt": "N4",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk membayar"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to brush off",
+          "to wipe away",
+          "to clear away",
+          "to dust off",
+          "to cut off (e.g. branches)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drive away (e.g. one's competitors)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sell off (something unneeded)",
+          "to dispose of"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pay (e.g. attention)",
+          "to show (e.g. respect, concern)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "支払う",
+      "reading": "しはらう",
+      "meaning": "untuk membayar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "御髭の塵を払う",
+      "reading": "おひげのちりをはらう",
+      "meaning": "to flatter a higher-up",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

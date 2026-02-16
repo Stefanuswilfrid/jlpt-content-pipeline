@@ -1,0 +1,195 @@
+{
+  "definition": {
+    "word": "全",
+    "reading": "ぜん",
+    "romaji": "zen",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "all",
+          "whole",
+          "entire",
+          "complete",
+          "total",
+          "pan-"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "complete (set)",
+          "in total"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "全身",
+      "reading": "ぜんしん",
+      "meaning": "whole (body)"
+    },
+    {
+      "word": "全て",
+      "reading": "すべて",
+      "meaning": "everything"
+    },
+    {
+      "word": "全体",
+      "reading": "ぜんたい",
+      "meaning": "whole"
+    },
+    {
+      "word": "全国",
+      "reading": "ぜんこく",
+      "meaning": "the whole country"
+    },
+    {
+      "word": "全員",
+      "reading": "ぜんいん",
+      "meaning": "all members"
+    },
+    {
+      "word": "完全",
+      "reading": "かんぜん",
+      "meaning": "perfect"
+    },
+    {
+      "word": "全般",
+      "reading": "ぜんぱん",
+      "meaning": "(the) whole"
+    },
+    {
+      "word": "全集",
+      "reading": "ぜんしゅう",
+      "meaning": "complete works"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "全身全霊",
+      "reading": "ぜんしんぜんれい",
+      "meaning": "complete devotion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "全知全能",
+      "reading": "ぜんちぜんのう",
+      "meaning": "omniscience and omnipotence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "六法全書",
+      "reading": "ろっぽうぜんしょ",
+      "meaning": "compendium of laws",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "完全無欠",
+      "reading": "かんぜんむけつ",
+      "meaning": "flawless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不完全燃焼",
+      "reading": "ふかんぜんねんしょう",
+      "meaning": "incomplete combustion",
+      "type": "idiom"
+    },
+    {
+      "word": "完全燃焼",
+      "reading": "かんぜんねんしょう",
+      "meaning": "complete combustion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "全力投球",
+      "reading": "ぜんりょくとうきゅう",
+      "meaning": "using all of one's strength (to)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "安全牌",
+      "reading": "あんぜんパイ",
+      "meaning": "safe tile",
+      "type": "idiom"
+    },
+    {
+      "word": "忠孝両全",
+      "reading": "ちゅうこうりょうぜん",
+      "meaning": "being a good son and a loyal subject",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天寿を全うする",
+      "reading": "てんじゅをまっとうする",
+      "meaning": "to die a natural death (at an advanced age)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "いつまでかかっても全部を説明するのは無理だ。",
+      "reading": null,
+      "english": "It would take forever for me to explain everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校に全てを求めることはできない。",
+      "reading": null,
+      "english": "One can't expect everything from schools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのことは全く予想していませんでした。",
+      "reading": null,
+      "english": "I would never have guessed that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "愛のない人生など全く無意味だ。",
+      "reading": null,
+      "english": "Life without love is just totally pointless.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは全くの真実です。",
+      "reading": null,
+      "english": "That's the absolute truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつまでかかっても全部を説明するのは無理だ。",
+      "reading": null,
+      "english": "It would take forever for me to explain everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつまでかかっても全部を説明するのは無理だ。",
+      "reading": null,
+      "english": "It would take forever to explain everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

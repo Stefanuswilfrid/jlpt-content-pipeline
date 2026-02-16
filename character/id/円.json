@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "円",
+    "reading": "えん",
+    "romaji": "en",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lingkaran"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "circle"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "円周",
+      "reading": "えんしゅう",
+      "meaning": "lingkar"
+    },
+    {
+      "word": "楕円",
+      "reading": "だえん",
+      "meaning": "elips"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "円転滑脱",
+      "reading": "えんてんかつだつ",
+      "meaning": "suave",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "円滑洒脱",
+      "reading": "えんかつしゃだつ",
+      "meaning": "being smooth, free and easy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "円満具足",
+      "reading": "えんまんぐそく",
+      "meaning": "(things) being complete, tranquil, and in harmony",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "福徳円満",
+      "reading": "ふくとくえんまん",
+      "meaning": "being perfectly happy and prosperous",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "挨拶より円札",
+      "reading": "あいさつよりえんさつ",
+      "meaning": "money speaks louder than words",
+      "type": "proverb"
+    },
+    {
+      "word": "円鑿方枘",
+      "reading": "えんさくほうぜい",
+      "meaning": "round peg in a square hole",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "老成円熟",
+      "reading": "ろうせいえんじゅく",
+      "meaning": "experience that comes with age",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "方底円蓋",
+      "reading": "ほうていえんがい",
+      "meaning": "being a (total) mismatch",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一円を笑う者は一円に泣く",
+      "reading": "いちえんをわらうものはいちえんになく",
+      "meaning": "take care of the penny",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君が見ているあの絵は１０万円するよ。",
+      "reading": null,
+      "indonesian": "The picture you are looking at costs 100,000 yen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銀行に二百万円残っている。",
+      "reading": null,
+      "indonesian": "The balance at the bank stands at two million yen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "完全な円にはもう見えないのである。",
+      "reading": null,
+      "indonesian": "It no longer seems to be a perfect circle.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "家庭は円満だ。",
+      "reading": null,
+      "indonesian": "I have peace at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "definition": {
+    "word": "取れる",
+    "reading": "とれる",
+    "romaji": "toreru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk dilepas",
+          "untuk diambil"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go away (of a fever, pain, swelling, etc.)",
+          "to disappear",
+          "to come out (of a stain)",
+          "to come off (e.g. of dust)",
+          "to be removed (e.g. of wrinkles)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be harvested",
+          "to be picked",
+          "to be produced",
+          "to be caught (of fish)",
+          "to be obtained",
+          "to be extracted"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be interpreted (as)",
+          "to be taken (as)",
+          "to be understood (as)",
+          "to be read (as)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be attained (of balance, harmony, etc.)",
+          "to be achieved"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be able to get",
+          "to be able to obtain",
+          "to be able to secure",
+          "to be able to win",
+          "to be able to catch"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "受け取る",
+      "reading": "うけとる",
+      "meaning": "menerima, mendapatkan, menyetujui"
+    },
+    {
+      "word": "取り上げる",
+      "reading": "とりあげる",
+      "meaning": "mengambil, memungut; menyita"
+    },
+    {
+      "word": "取る",
+      "reading": "とる",
+      "meaning": "mengikuti (kelas); mendapatkan (nilai)"
+    },
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaning": "untuk memanen, untuk menerima, untuk mengadopsi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "元が取れる",
+      "reading": "もとがとれる",
+      "meaning": "to recover (one's) costs",
+      "type": "idiom"
+    },
+    {
+      "word": "つかえが取れる",
+      "reading": "つかえがとれる",
+      "meaning": "to get a load off one's chest",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "よい席が取れるように早く行きなさい。",
+      "reading": null,
+      "indonesian": "Go early in order to get a good seat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "良い席が取れるように早く来た。",
+      "reading": null,
+      "indonesian": "I came early in order to get a good seat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "良い席が取れるように早く来た。",
+      "reading": null,
+      "indonesian": "I came early so I could get a good seat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "良い席が取れるように早く来た。",
+      "reading": null,
+      "indonesian": "I came early to get a good seat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "良い席が取れるように早く出た。",
+      "reading": null,
+      "indonesian": "I left early so I could get a good seat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "良い席が取れるように早くそこへ行った。",
+      "reading": null,
+      "indonesian": "I was there early so that I might get a good seat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

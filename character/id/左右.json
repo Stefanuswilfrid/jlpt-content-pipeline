@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "左右",
+    "reading": "さゆう",
+    "romaji": "sayuu",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kiri dan kanan; pengaruh"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "(asserting) control",
+          "influence",
+          "domination"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's attendants",
+          "people accompanying one"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(serving at someone's) side"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "equivocation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "左",
+      "reading": "ひだり",
+      "meaning": "sisi kiri"
+    },
+    {
+      "word": "右",
+      "reading": "みぎ",
+      "meaning": "sisi kanan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ぶどう酒の味は天候に大きく左右されるんです。",
+      "reading": null,
+      "indonesian": "The taste of wine is largely dependent upon the weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "通りを横ぎるときは左右を見なさい。",
+      "reading": null,
+      "indonesian": "Look right and left when crossing the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

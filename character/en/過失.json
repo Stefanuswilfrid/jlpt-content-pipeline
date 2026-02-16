@@ -1,0 +1,148 @@
+{
+  "definition": {
+    "word": "過失",
+    "reading": "かしつ",
+    "romaji": "kashitsu",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "accident (caused by negligence)",
+          "error",
+          "blunder"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fault",
+          "defect"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "過半数",
+      "reading": "かはんすう",
+      "meaning": "majority"
+    },
+    {
+      "word": "過剰",
+      "reading": "かじょう",
+      "meaning": "excess"
+    },
+    {
+      "word": "超過",
+      "reading": "ちょうか",
+      "meaning": "excess"
+    },
+    {
+      "word": "失恋",
+      "reading": "しつれん",
+      "meaning": "disappointed love"
+    },
+    {
+      "word": "過程",
+      "reading": "かてい",
+      "meaning": "process"
+    },
+    {
+      "word": "失業",
+      "reading": "しつぎょう",
+      "meaning": "unemployment"
+    },
+    {
+      "word": "損失",
+      "reading": "そんしつ",
+      "meaning": "loss (of assets, profit, etc.)"
+    },
+    {
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "failure"
+    },
+    {
+      "word": "経過",
+      "reading": "けいか",
+      "meaning": "passage (of time)"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "過疎",
+      "reading": "かそ",
+      "meaning": "underpopulation"
+    },
+    {
+      "word": "過労",
+      "reading": "かろう",
+      "meaning": "overwork"
+    },
+    {
+      "word": "失望",
+      "reading": "しつぼう",
+      "meaning": "disappointment"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君はいつも自分の過失を他人のせいにしている。",
+      "reading": null,
+      "english": "You always excuse your faults by blaming others.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "過失を犯してしまい、まことに申し訳ないです。",
+      "reading": null,
+      "english": "I feel terrible about my mistake.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それはすべて私たちの過失です。",
+      "reading": null,
+      "english": "It was all our fault.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その事故は単なる過失から起こった。",
+      "reading": null,
+      "english": "The accident arose from a simple mistake.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの過失を私のせいにしないでくれ。",
+      "reading": null,
+      "english": "Don't lay your fault at my door.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "他の人の過失を責めるな！",
+      "reading": null,
+      "english": "Don't blame another for his faults.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

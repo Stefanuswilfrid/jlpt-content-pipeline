@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "当たり前",
+    "reading": "あたりまえ",
+    "romaji": "atarimae",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "biasa",
+          "umum",
+          "jelas"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "usual",
+          "common",
+          "ordinary",
+          "commonplace",
+          "the norm"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "pada saat itu, pada hari-hari itu (sama dengan そのころ)"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "(bertanggung jawab)"
+    },
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "cukup besar, lumayan; berharga ~"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "Jelas; alami"
+    },
+    {
+      "word": "以前",
+      "reading": "いぜん",
+      "meaning": "di masa lalu; sebelumnya"
+    },
+    {
+      "word": "前進",
+      "reading": "ぜんしん",
+      "meaning": "maju, mendorong, berkembang"
+    },
+    {
+      "word": "弁当",
+      "reading": "べんとう",
+      "meaning": "makan siang kotak"
+    },
+    {
+      "word": "前者",
+      "reading": "ぜんしゃ",
+      "meaning": "mantan"
+    },
+    {
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "perkiraan, tebakan"
+    },
+    {
+      "word": "お前",
+      "reading": "おまえ",
+      "meaning": "kamu (bernyanyi), kehadiran (tokoh penting)"
+    },
+    {
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "pagi, AM"
+    },
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaning": "kebenaran, kenyataan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君が先生に叱られるのも当たり前だ。",
+      "reading": null,
+      "indonesian": "It is not surprising that you should be scolded by your teacher.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そんなことは当たり前のことだ。",
+      "reading": null,
+      "indonesian": "That's a matter of course.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは今では当たり前になっている。",
+      "reading": null,
+      "indonesian": "It has become quite common.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

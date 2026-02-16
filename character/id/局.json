@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "局",
+    "reading": "きょく",
+    "romaji": "kyoku",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "kantor",
+          "biro",
+          "stasiun (TV",
+          "radio)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "office (e.g. post, telephone)",
+          "broadcasting station (e.g. television, radio)",
+          "channel",
+          "exchange"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "affair",
+          "situation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix",
+          "counter"
+        ],
+        "meanings": [
+          "game (of go, shogi, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "結局",
+      "reading": "けっきょく",
+      "meaning": "pada akhirnya"
+    },
+    {
+      "word": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "kantor Pos"
+    },
+    {
+      "word": "薬局",
+      "reading": "やっきょく",
+      "meaning": "apotek, toko obat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "局外中立",
+      "reading": "きょくがいちゅうりつ",
+      "meaning": "neutrality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "着眼大局",
+      "reading": "ちゃくがんたいきょく",
+      "meaning": "having an eye to the big picture",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "局面打開",
+      "reading": "きょくめんだかい",
+      "meaning": "breakthrough in the situation",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の言っている事は結局ノーという事ですね。",
+      "reading": null,
+      "indonesian": "What you are saying is equal to \"no\", isn't it?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "局部にかゆみがあります。",
+      "reading": null,
+      "indonesian": "I have an itchy crotch.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "勘",
+    "reading": "かん",
+    "romaji": "kan",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "persepsi",
+          "intuisi",
+          "indra keenam"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "勘定",
+      "reading": "かんじょう",
+      "meaning": "perhitungan, penghitungan, pertimbangan"
+    },
+    {
+      "word": "勘違い",
+      "reading": "かんちがい",
+      "meaning": "kesalahpahaman, tebakan yang salah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "百舌勘定",
+      "reading": "もずかんじょう",
+      "meaning": "splitting the bill so that the others end up paying the whole amount",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "兵隊勘定",
+      "reading": "へいたいかんじょう",
+      "meaning": "Dutch treat",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "勘定合って銭足らず",
+      "reading": "かんじょうあってぜにたらず",
+      "meaning": "a profit on paper doesn't always mean a profit in the bank",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

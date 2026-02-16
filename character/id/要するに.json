@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "要するに",
+    "reading": "ようするに",
+    "romaji": "yousuruni",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "Singkatnya",
+          "pada akhirnya",
+          "singkatnya…"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "重要",
+      "reading": "じゅうよう",
+      "meaning": "penting, esensial"
+    },
+    {
+      "word": "要求",
+      "reading": "ようきゅう",
+      "meaning": "permintaan, tuntutan"
+    },
+    {
+      "word": "主要",
+      "reading": "しゅよう",
+      "meaning": "kepala, utama"
+    },
+    {
+      "word": "需要",
+      "reading": "じゅよう",
+      "meaning": "tuntutan"
+    },
+    {
+      "word": "要素",
+      "reading": "ようそ",
+      "meaning": "elemen"
+    },
+    {
+      "word": "要点",
+      "reading": "ようてん",
+      "meaning": "Intisari, poin utama"
+    },
+    {
+      "word": "要領",
+      "reading": "ようりょう",
+      "meaning": "intisari, pokok-pokok, garis besar"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "要するに人生は短い。",
+      "reading": null,
+      "indonesian": "In a word, life is short.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

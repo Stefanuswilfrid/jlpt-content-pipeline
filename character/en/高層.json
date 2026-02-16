@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "高層",
+    "reading": "こうそう",
+    "romaji": "kousou",
+    "jlpt": "N2",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "high-rise (building)",
+          "multistory",
+          "multistoried",
+          "tall"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "high (altitude)",
+          "upper (atmosphere, air current, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "高級",
+      "reading": "こうきゅう",
+      "meaning": "high-class"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "altitude"
+    },
+    {
+      "word": "高等",
+      "reading": "こうとう",
+      "meaning": "high class"
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "best"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "senior high school student"
+    },
+    {
+      "word": "高速",
+      "reading": "こうそく",
+      "meaning": "high-speed"
+    },
+    {
+      "word": "残高",
+      "reading": "ざんだか",
+      "meaning": "(bank) balance"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ニューヨークには高層ビルが林立している。",
+      "reading": null,
+      "english": "New York bristles with towering buildings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ニューヨークにはたくさんの高層ビルがあります。",
+      "reading": null,
+      "english": "There are a lot of tall buildings in New York.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "高層ビルがたくさんあります。",
+      "reading": null,
+      "english": "There are many tall buildings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その高層ビルの上からは町がよく見える。",
+      "reading": null,
+      "english": "The roof of the high rise building overlooks the whole town.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "都心では高層ビルが雨後のたけのこのように増えている。",
+      "reading": null,
+      "english": "High rises are mushrooming in the heart of the city.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ニューヨークには高層ビルが林立している。",
+      "reading": null,
+      "english": "New York bristles with towering buildings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ニューヨークにはたくさんの高層ビルがあります。",
+      "reading": null,
+      "english": "There are a lot of tall buildings in New York.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その高層ビルの上からは町がよく見える。",
+      "reading": null,
+      "english": "The roof of the high rise building overlooks the whole town.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

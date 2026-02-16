@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "無し",
+    "reading": "なし",
+    "romaji": "nashi",
+    "jlpt": "N3",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "without"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unacceptable",
+          "not alright",
+          "unsatisfactory"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "free (of charge)"
+    },
+    {
+      "word": "有無",
+      "reading": "うむ",
+      "meaning": "existence or nonexistence"
+    },
+    {
+      "word": "無視",
+      "reading": "むし",
+      "meaning": "disregarding"
+    },
+    {
+      "word": "無駄",
+      "reading": "むだ",
+      "meaning": "futility"
+    },
+    {
+      "word": "無",
+      "reading": "む",
+      "meaning": "nothing"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "能無し犬の高吠え",
+      "reading": "のうなしいぬのたかぼえ",
+      "meaning": "jealous complaint",
+      "type": "idiom"
+    },
+    {
+      "word": "恋に上下の差別無し",
+      "reading": "こいにじょうげのさべつなし",
+      "meaning": "love makes men equal",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の計画を台無しにしてすまなく思ってます。",
+      "reading": null,
+      "english": "I'm sorry to upset your plans.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "文無しなんだ。",
+      "reading": null,
+      "english": "I'm broke.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "悪天候が式を台無しにした。",
+      "reading": null,
+      "english": "The bad weather marred the ceremony.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは、熱帯雨林無しではやっていけない。",
+      "reading": null,
+      "english": "We cannot dispense with the rainforests.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その村人たちは長い間電気無しでやってきた。",
+      "reading": null,
+      "english": "The villagers have done without electricity for a long time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すべてを台無しにする。",
+      "reading": null,
+      "english": "Bring everything to ruin.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

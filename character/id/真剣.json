@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "真剣",
+    "reading": "しんけん",
+    "romaji": "shinken",
+    "jlpt": "N3",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "keseriusan",
+          "kesungguhan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "real sword (as opposed to a wooden practice weapon)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "真理",
+      "reading": "しんり",
+      "meaning": "kebenaran"
+    },
+    {
+      "word": "真っ赤",
+      "reading": "まっか",
+      "meaning": "merah tua, memerah (wajah)"
+    },
+    {
+      "word": "真似",
+      "reading": "まね",
+      "meaning": "peniruan, imitasi, perilaku"
+    },
+    {
+      "word": "真っ青",
+      "reading": "まっさお",
+      "meaning": "biru tua, pucat pasi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "真剣勝負",
+      "reading": "しんけんしょうぶ",
+      "meaning": "fighting with real swords",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

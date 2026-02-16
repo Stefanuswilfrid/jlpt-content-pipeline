@@ -1,0 +1,176 @@
+{
+  "definition": {
+    "word": "学ぶ",
+    "reading": "まなぶ",
+    "romaji": "manabu",
+    "jlpt": "N3",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "belajar; meneliti"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "学習",
+      "reading": "がくしゅう",
+      "meaning": "belajar, mempelajari"
+    },
+    {
+      "word": "科学",
+      "reading": "かがく",
+      "meaning": "sains"
+    },
+    {
+      "word": "学者",
+      "reading": "がくしゃ",
+      "meaning": "sarjana"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "sekolah menengah pertama, sekolah menengah atas"
+    },
+    {
+      "word": "化学",
+      "reading": "かがく",
+      "meaning": "kimia"
+    },
+    {
+      "word": "哲学",
+      "reading": "てつがく",
+      "meaning": "filsafat"
+    },
+    {
+      "word": "留学",
+      "reading": "りゅうがく",
+      "meaning": "belajar di luar negeri"
+    },
+    {
+      "word": "進学",
+      "reading": "しんがく",
+      "meaning": "melanjutkan ke universitas"
+    },
+    {
+      "word": "学歴",
+      "reading": "がくれき",
+      "meaning": "latar belakang akademis"
+    },
+    {
+      "word": "学問",
+      "reading": "がくもん",
+      "meaning": "beasiswa, studi, pembelajaran"
+    },
+    {
+      "word": "語学",
+      "reading": "ごがく",
+      "meaning": "studi bahasa"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "berangkat ke sekolah"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaning": "beasiswa"
+    },
+    {
+      "word": "学",
+      "reading": "がく",
+      "meaning": "pembelajaran, pengetahuan"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "istilah (sekolah)"
+    },
+    {
+      "word": "退学",
+      "reading": "たいがく",
+      "meaning": "putus sekolah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "教うるは学ぶの半ば",
+      "reading": "おしうるはまなぶのなかば",
+      "meaning": "we learn by teaching",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は辞書の使い方を学ぶべきだ。",
+      "reading": null,
+      "indonesian": "You should learn how to use your dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が外国語を学ぶ事は重要です。",
+      "reading": null,
+      "indonesian": "It is important for you to learn a foreign language.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教育は単に多くの事実を学ぶことにあるわけでない。",
+      "reading": null,
+      "indonesian": "Education does not consist simply in learning a lot of facts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教育は単に多くの事実を学ぶことにあるのではない。",
+      "reading": null,
+      "indonesian": "Education does not consist simply in learning a lot of facts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教える事は学ぶ事である。",
+      "reading": null,
+      "indonesian": "Teaching is learning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校で学ぶことをよくおぼえていなさい。",
+      "reading": null,
+      "indonesian": "Remember well what you learn at school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学べば学ぶほどますます学びたくなる。",
+      "reading": null,
+      "indonesian": "The more you learn, the more you want to.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学べば学ぶほど、自分が無知であることがよく分かる。",
+      "reading": null,
+      "indonesian": "The more we learn, the better we realize our ignorance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

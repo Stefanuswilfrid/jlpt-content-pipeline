@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "和英",
+    "reading": "わえい",
+    "romaji": "waei",
+    "jlpt": "N2",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Japanese-English"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Japanese-English dictionary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "英和",
+      "reading": "えいわ",
+      "meaning": "English-Japanese"
+    },
+    {
+      "word": "漢和",
+      "reading": "かんわ",
+      "meaning": "China and Japan"
+    },
+    {
+      "word": "英文",
+      "reading": "えいぶん",
+      "meaning": "English writing"
+    },
+    {
+      "word": "和服",
+      "reading": "わふく",
+      "meaning": "Japanese clothes"
+    },
+    {
+      "word": "中和",
+      "reading": "ちゅうわ",
+      "meaning": "neutralization"
+    },
+    {
+      "word": "温和",
+      "reading": "おんわ",
+      "meaning": "mild (climate)"
+    },
+    {
+      "word": "和文",
+      "reading": "わぶん",
+      "meaning": "Japanese text"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私は和英辞書が必要だ。",
+      "reading": null,
+      "english": "I need a Japanese-English dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は和英辞書が必要だ。",
+      "reading": null,
+      "english": "I need a Japanese-English dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

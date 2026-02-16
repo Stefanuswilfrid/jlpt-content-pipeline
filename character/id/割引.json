@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "割引",
+    "reading": "わりびき",
+    "romaji": "waribiki",
+    "jlpt": "N2",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "diskon"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "tenths discounted",
+          "tenths reduced"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "強引",
+      "reading": "ごういん",
+      "meaning": "tegas, asertif, memaksa"
+    },
+    {
+      "word": "差し引き",
+      "reading": "さしひき",
+      "meaning": "pengurangan, saldo"
+    },
+    {
+      "word": "索引",
+      "reading": "さくいん",
+      "meaning": "indeks, indeks"
+    },
+    {
+      "word": "時間割",
+      "reading": "じかんわり",
+      "meaning": "jadwal, rencana"
+    },
+    {
+      "word": "引力",
+      "reading": "いんりょく",
+      "meaning": "gaya berat"
+    },
+    {
+      "word": "引退",
+      "reading": "いんたい",
+      "meaning": "masa pensiun"
+    },
+    {
+      "word": "字引",
+      "reading": "じびき",
+      "meaning": "kamus"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学生割引はありますか。",
+      "reading": null,
+      "indonesian": "Do you have a student fare?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その店は夏の間特別割引をやった。",
+      "reading": null,
+      "indonesian": "The store offered special discounts during the summer.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あのお店の商品は全部１割引きになってるよ。",
+      "reading": null,
+      "indonesian": "Everything at that store is 10 percent off the regular price.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "夜間の割引はありますか。",
+      "reading": null,
+      "indonesian": "Are there special evening rates?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はその商品をやっていますから品が割引で買えます。",
+      "reading": null,
+      "indonesian": "With being in the trade, I am able to get goods at a discount.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はその車を１０％の割引で買った。",
+      "reading": null,
+      "indonesian": "I bought the car at a 10% discount.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生割引はありますか。",
+      "reading": null,
+      "indonesian": "Do you have a student fare?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

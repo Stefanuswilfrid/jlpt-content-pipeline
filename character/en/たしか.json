@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "確か",
+    "reading": "たしか",
+    "romaji": "tashika",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "sure",
+          "certain",
+          "positive",
+          "definite"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "reliable",
+          "trustworthy",
+          "safe",
+          "sound",
+          "firm",
+          "accurate",
+          "correct",
+          "exact"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "If I'm not mistaken",
+          "If I remember correctly",
+          "If I remember rightly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "certain"
+    },
+    {
+      "word": "明確",
+      "reading": "めいかく",
+      "meaning": "clear"
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaning": "accurate"
+    },
+    {
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "confirmation"
+    },
+    {
+      "word": "的確",
+      "reading": "てきかく",
+      "meaning": "accurate"
+    },
+    {
+      "word": "確かめる",
+      "reading": "たしかめる",
+      "meaning": "to make sure"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "たしかにどこかで会った人だが、だれだか思い出せない。",
+      "reading": null,
+      "english": "I am sure I met him somewhere, but I do not remember who he is.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "よく覚えていないのですがたしか先週の金曜日だったと思います。",
+      "reading": null,
+      "english": "I don't remember exactly, but I suppose it was Friday last week.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "たしか先週の金曜日だったと思います。",
+      "reading": null,
+      "english": "I think that it was probably Friday of last week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そう考える人もたしかにいる。",
+      "reading": null,
+      "english": "Some do think so.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ジャックはたしかメアリーのまたいとこだと思う。",
+      "reading": null,
+      "english": "Jack is Mary's second cousin, I believe.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "コンサートは短かったしかしそれはとても良かった。",
+      "reading": null,
+      "english": "The concert was short, but it was really good.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

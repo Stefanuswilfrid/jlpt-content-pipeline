@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "生む",
+    "reading": "うむ",
+    "romaji": "umu",
+    "jlpt": "N3",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "melahirkan (v.t.)",
+          "mengeluarkan",
+          "menghasilkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to produce",
+          "to yield",
+          "to give rise to",
+          "to deliver"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生じる",
+      "reading": "しょうじる",
+      "meaning": "terjadi, muncul, dihasilkan"
+    },
+    {
+      "word": "生やす",
+      "reading": "はやす",
+      "meaning": "menumbuhkan, membudidayakan, memelihara janggut"
+    },
+    {
+      "word": "写生",
+      "reading": "しゃせい",
+      "meaning": "membuat sketsa, menggambar dari alam"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "produksi; untuk memproduksi"
+    },
+    {
+      "word": "生ずる",
+      "reading": "しょうずる",
+      "meaning": "menyebabkan, menimbulkan, dihasilkan"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(kehidupan) manusia (misalnya, dari konsepsi hingga kematian)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "鳶が鷹を生む",
+      "reading": "とんびがたかをうむ",
+      "meaning": "to have a talented child despite being untalented",
+      "type": "idiom"
+    },
+    {
+      "word": "金が金を生む",
+      "reading": "かねがこをうむ",
+      "meaning": "money begets money",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "お前なんか産むんじゃなかった。",
+      "reading": null,
+      "indonesian": "I wish you'd never been born.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お前なんか産むんじゃなかった。",
+      "reading": null,
+      "indonesian": "I wish you'd never been born.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

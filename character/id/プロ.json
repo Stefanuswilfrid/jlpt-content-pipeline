@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "プロ",
+    "reading": "プロ",
+    "romaji": "puro",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "profesional"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "program"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "production"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "proletarian",
+          "proletariat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "propaganda"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の歌はプロ顔負けだ。",
+      "reading": null,
+      "indonesian": "Your singing puts professional singers to shame.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会社はそのプロジェクトから手をひいた。",
+      "reading": null,
+      "indonesian": "The company withdrew from the project.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ワープロを買いたい。",
+      "reading": null,
+      "indonesian": "I want to buy a word processor.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ワープロを使えば、ずいぶん手間がはぶけますよ。",
+      "reading": null,
+      "indonesian": "The word processor will save you a lot of trouble.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

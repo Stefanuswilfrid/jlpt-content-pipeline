@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "唸る",
+    "reading": "うなる",
+    "romaji": "unaru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to groan",
+          "to moan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to roar",
+          "to howl",
+          "to growl"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to hum (engine, wind, etc.)",
+          "to buzz",
+          "to whiz",
+          "to sough",
+          "to make a low, dull sound"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to ooh and aah (in admiration)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sing in a strong, low voice (esp. traditional chant or recitation)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be about to burst",
+          "to overflow"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "万一失敗したらどうなるだろうか。",
+      "reading": null,
+      "english": "What if we should fail?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "失敗したらどうなるんですか。",
+      "reading": null,
+      "english": "What if we should fail?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もしも地球の自転が止まったらどうなると思う？",
+      "reading": null,
+      "english": "Were the earth to stop revolving, what do you suppose would happen?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "よろしい、でもお金はどうなるんだい。",
+      "reading": null,
+      "english": "Well, but what about the money?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

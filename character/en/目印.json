@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "目印",
+    "reading": "めじるし",
+    "romaji": "mejirushi",
+    "jlpt": "N2",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mark (for quick identification or recognition)",
+          "sign"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "landmark",
+          "guide"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "目次",
+      "reading": "もくじ",
+      "meaning": "table of contents"
+    },
+    {
+      "word": "項目",
+      "reading": "こうもく",
+      "meaning": "item"
+    },
+    {
+      "word": "目安",
+      "reading": "めやす",
+      "meaning": "criterion"
+    },
+    {
+      "word": "役目",
+      "reading": "やくめ",
+      "meaning": "duty"
+    },
+    {
+      "word": "目下",
+      "reading": "もっか",
+      "meaning": "at present"
+    },
+    {
+      "word": "目下",
+      "reading": "めした",
+      "meaning": "subordinate"
+    },
+    {
+      "word": "矢印",
+      "reading": "やじるし",
+      "meaning": "arrow (symbol)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何か目印がありますか。",
+      "reading": null,
+      "english": "Are there any landmarks?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そこに行く道がわかるように、近くの目印を教えて下さい。",
+      "reading": null,
+      "english": "I wish to know a landmark nearby so I can find my way there.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "何か目印がありますか。",
+      "reading": null,
+      "english": "Are there any landmarks?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そこに行く道がわかるように、近くの目印を教えて下さい。",
+      "reading": null,
+      "english": "I wish to know a landmark nearby so I can find my way there.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

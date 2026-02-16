@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "男子",
+    "reading": "だんし",
+    "romaji": "danshi",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "boy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "man",
+          "male"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "女子",
+      "reading": "じょし",
+      "meaning": "woman"
+    },
+    {
+      "word": "様子",
+      "reading": "ようす",
+      "meaning": "state (of affairs)"
+    },
+    {
+      "word": "電子",
+      "reading": "でんし",
+      "meaning": "electron"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaning": "tune"
+    },
+    {
+      "word": "王子",
+      "reading": "おうじ",
+      "meaning": "prince"
+    },
+    {
+      "word": "菓子",
+      "reading": "かし",
+      "meaning": "confectionery"
+    },
+    {
+      "word": "双子",
+      "reading": "ふたご",
+      "meaning": "twins"
+    },
+    {
+      "word": "迷子",
+      "reading": "まいご",
+      "meaning": "lost child"
+    },
+    {
+      "word": "男の人",
+      "reading": "おとこのひと",
+      "meaning": "man"
+    },
+    {
+      "word": "男",
+      "reading": "おとこ",
+      "meaning": "man"
+    },
+    {
+      "word": "男性",
+      "reading": "だんせい",
+      "meaning": "man"
+    },
+    {
+      "word": "長男",
+      "reading": "ちょうなん",
+      "meaning": "eldest son (may be the only son)"
+    },
+    {
+      "word": "子",
+      "reading": "こ",
+      "meaning": "child"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaning": "child"
+    },
+    {
+      "word": "息子",
+      "reading": "むすこ",
+      "meaning": "son"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この学校は男子よりも女子が多い。",
+      "reading": null,
+      "english": "There are more girls than boys in this school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この学校の３分の２が男子生徒です。",
+      "reading": null,
+      "english": "Two-thirds of the students of this school are boys.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このクラスは女子が男子より多いです。",
+      "reading": null,
+      "english": "There are more girls than boys in this class.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このクラスに男子は何人いますか？",
+      "reading": null,
+      "english": "How many boys are there in this class?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このクラスには１５人の男子と２８人の女子がいる。",
+      "reading": null,
+      "english": "This class consists of 15 boys and 28 girls.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アメリカの学校では男子の運動選手は女子に人気がある。",
+      "reading": null,
+      "english": "Athletic boys are popular with girls in American schools.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

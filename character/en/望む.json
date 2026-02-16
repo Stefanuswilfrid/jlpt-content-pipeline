@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "望む",
+    "reading": "のぞむ",
+    "romaji": "nozomu",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to desire",
+          "to want",
+          "to wish for",
+          "to hope for"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to expect (of someone)",
+          "to hope for",
+          "to look forward to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to see",
+          "to command (a view of)",
+          "to overlook"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "志望",
+      "reading": "しぼう",
+      "meaning": "wish"
+    },
+    {
+      "word": "希望",
+      "reading": "きぼう",
+      "meaning": "hope"
+    },
+    {
+      "word": "望み",
+      "reading": "のぞみ",
+      "meaning": "wish"
+    },
+    {
+      "word": "失望",
+      "reading": "しつぼう",
+      "meaning": "disappointment"
+    },
+    {
+      "word": "望遠鏡",
+      "reading": "ぼうえんきょう",
+      "meaning": "telescope"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "隴を得て蜀を望む",
+      "reading": "ろうをえてしょくをのぞむ",
+      "meaning": "never being satisfied with what one gets, and always wanting more",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それ以上は望む方が無理ですよ。",
+      "reading": null,
+      "english": "You can't expect more than that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そうでないことを望む。",
+      "reading": null,
+      "english": "I hope not.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この晴天が週末まで続くことを望む。",
+      "reading": null,
+      "english": "I hope this fine weather lasts till the weekend.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "望むべきことは何もない。",
+      "reading": null,
+      "english": "There remains nothing to be desired.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "期待",
+    "reading": "きたい",
+    "romaji": "kitai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "expectation",
+          "anticipation",
+          "hope"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "promising",
+          "rising",
+          "up-and-coming"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "period"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "long-term"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "term"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "fixed period"
+    },
+    {
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "postponement"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "school term"
+    },
+    {
+      "word": "予期",
+      "reading": "よき",
+      "meaning": "expectation"
+    },
+    {
+      "word": "短期",
+      "reading": "たんき",
+      "meaning": "short-term"
+    },
+    {
+      "word": "招待",
+      "reading": "しょうたい",
+      "meaning": "invitation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これを期待していたんだ！",
+      "reading": null,
+      "english": "I was expecting it!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君にはもっとがんばってくれる事を期待している。",
+      "reading": null,
+      "english": "I expect you to work harder.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "期待通り晴天となった。",
+      "reading": null,
+      "english": "As had been expected, the weather turned out to be very fine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "期待しているから。",
+      "reading": null,
+      "english": "I'm sure you'll whip us up something really good.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "期待していたんだけど、あのレストランは、はずれだった。",
+      "reading": null,
+      "english": "The restaurant was a bummer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

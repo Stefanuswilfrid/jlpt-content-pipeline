@@ -1,0 +1,199 @@
+{
+  "definition": {
+    "word": "馬",
+    "reading": "うま",
+    "romaji": "uma",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "horse"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "horse racing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "promoted bishop"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "knight (court card in mekuri karuta and unsun karuta)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "馬鹿",
+      "reading": "ばか",
+      "meaning": "idiot"
+    },
+    {
+      "word": "競馬",
+      "reading": "けいば",
+      "meaning": "horse racing"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "じゃじゃ馬",
+      "reading": "じゃじゃうま",
+      "meaning": "restive horse",
+      "type": "idiom"
+    },
+    {
+      "word": "意馬心猿",
+      "reading": "いばしんえん",
+      "meaning": "it is hard to keep one's worldly desires and passions in check",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "千軍万馬",
+      "reading": "せんぐんばんば",
+      "meaning": "(having experienced) many battles",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "竹馬の友",
+      "reading": "ちくばのとも",
+      "meaning": "childhood friend",
+      "type": "idiom"
+    },
+    {
+      "word": "天馬空を行く",
+      "reading": "てんばくうをゆく",
+      "meaning": "to advance unobstructed",
+      "type": "idiom"
+    },
+    {
+      "word": "南船北馬",
+      "reading": "なんせんほくば",
+      "meaning": "constant travelling",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "馬の耳に念仏",
+      "reading": "うまのみみにねんぶつ",
+      "meaning": "preaching to the deaf",
+      "type": "idiom"
+    },
+    {
+      "word": "馬耳東風",
+      "reading": "ばじとうふう",
+      "meaning": "utter indifference",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鯨飲馬食",
+      "reading": "げいいんばしょく",
+      "meaning": "drinking like a fish and eating like a horse",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "牛飲馬食",
+      "reading": "ぎゅういんばしょく",
+      "meaning": "heavy eating and drinking",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "こんな馬鹿なことは言ったことが無い。",
+      "reading": null,
+      "english": "That's the stupidest thing I've ever said.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "馬鹿みたい！",
+      "reading": null,
+      "english": "You look stupid.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こんな馬鹿げた考えをどうやって思いついたんだ？",
+      "reading": null,
+      "english": "How did you come up with this crazy idea?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コンピューターのおかげで人間は馬鹿になる。",
+      "reading": null,
+      "english": "Computers make people stupid.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "馬鹿な！",
+      "reading": null,
+      "english": "No way!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こんな馬鹿なことは言ったことが無い。",
+      "reading": null,
+      "english": "That's the stupidest thing I've ever said.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんな馬鹿なことは言ったことが無い。",
+      "reading": null,
+      "english": "I've never said such a stupid thing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は本当は馬鹿ではない。",
+      "reading": null,
+      "english": "You are not actually an idiot.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "馬鹿みたい！",
+      "reading": null,
+      "english": "You look stupid.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "馬鹿みたい！",
+      "reading": null,
+      "english": "This is silly!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

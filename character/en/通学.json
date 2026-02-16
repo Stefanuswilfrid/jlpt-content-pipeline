@@ -1,0 +1,207 @@
+{
+  "definition": {
+    "word": "通学",
+    "reading": "つうがく",
+    "romaji": "tsuugaku",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "commuting to school",
+          "school commute"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "哲学",
+      "reading": "てつがく",
+      "meaning": "philosophy"
+    },
+    {
+      "word": "留学",
+      "reading": "りゅうがく",
+      "meaning": "studying abroad"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "commuting to work"
+    },
+    {
+      "word": "進学",
+      "reading": "しんがく",
+      "meaning": "advancing to the next stage of education"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretation (i.e. oral translation)"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    },
+    {
+      "word": "学歴",
+      "reading": "がくれき",
+      "meaning": "academic background"
+    },
+    {
+      "word": "学問",
+      "reading": "がくもん",
+      "meaning": "study"
+    },
+    {
+      "word": "語学",
+      "reading": "ごがく",
+      "meaning": "study of foreign languages"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaning": "scholarship"
+    },
+    {
+      "word": "学",
+      "reading": "がく",
+      "meaning": "learning"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "currency"
+    },
+    {
+      "word": "学者",
+      "reading": "がくしゃ",
+      "meaning": "scholar"
+    },
+    {
+      "word": "学習",
+      "reading": "がくしゅう",
+      "meaning": "learning"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "化学",
+      "reading": "かがく",
+      "meaning": "chemistry"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "school term"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学生の中には車で通学する者もいる。",
+      "reading": null,
+      "english": "Some of the students come to school by car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏の通学服は白と青のチェックです。",
+      "reading": null,
+      "english": "My summer school dress is blue and white checkered.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムは徒歩で通学している。",
+      "reading": null,
+      "english": "Tom goes to school on foot.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはどうやって通学するのですか。",
+      "reading": null,
+      "english": "How do you go to school?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たいていの学生は徒歩で通学する。",
+      "reading": null,
+      "english": "Most students come to school on foot.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジムはバス通学です。",
+      "reading": null,
+      "english": "Jim goes to school by bus.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ケンはバスで通学する。",
+      "reading": null,
+      "english": "Ken goes to school by bus.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "健はバス通学をしている。",
+      "reading": null,
+      "english": "Ken goes to school by bus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはバスで通学するのですか、それとも電車でですか。",
+      "reading": null,
+      "english": "Do you go to school by bus or by train?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはバスで通学していますか。",
+      "reading": null,
+      "english": "Do you go to school by bus?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

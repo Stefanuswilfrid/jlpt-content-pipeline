@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "彼方此方",
+    "reading": "あちこち",
+    "romaji": "achikochi",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun",
+          "adverb (fukushi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "here and there",
+          "various places",
+          "all around",
+          "all over",
+          "everywhere",
+          "throughout"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "muddled",
+          "confused",
+          "in the wrong order",
+          "back to front"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方々",
+      "reading": "かたがた",
+      "meaning": "people"
+    },
+    {
+      "word": "味方",
+      "reading": "みかた",
+      "meaning": "friend"
+    },
+    {
+      "word": "方々",
+      "reading": "ほうぼう",
+      "meaning": "here and there"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "one (esp. of two)"
+    },
+    {
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "direction"
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "method"
+    },
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "direction"
+    },
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "early evening (usu. from 3pm to 6pm)"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaning": "both"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ブラスバンドは、街のあちこちを行進した。",
+      "reading": null,
+      "english": "The brass band marched around the town.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この花は北海道のあちこちで見られる。",
+      "reading": null,
+      "english": "This flower is found in different parts of Hokkaido.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アヒル達は池のあちこちを泳いでいた。",
+      "reading": null,
+      "english": "Ducks were swimming about on the pond.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あてもなくあちこちを歩き回った。",
+      "reading": null,
+      "english": "I walked aimlessly about the street.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あちこちにヒナギクが群生している。",
+      "reading": null,
+      "english": "There are clumps of daisies here and there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

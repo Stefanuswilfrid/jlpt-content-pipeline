@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "起こる",
+    "reading": "おこる",
+    "romaji": "okoru",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "terjadi",
+          "berlangsung"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "立ち上がる",
+      "reading": "たちあがる",
+      "meaning": "untuk berdiri"
+    },
+    {
+      "word": "起源",
+      "reading": "きげん",
+      "meaning": "asal usul, permulaan, kebangkitan"
+    },
+    {
+      "word": "起床",
+      "reading": "きしょう",
+      "meaning": "bangun, beranjak dari tempat tidur"
+    },
+    {
+      "word": "起きる",
+      "reading": "おきる",
+      "meaning": "untuk bangun (misalnya, dari tidur); terjadi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "信は荘厳より起こる",
+      "reading": "しんはそうごんよりおこる",
+      "meaning": "function follows form",
+      "type": "proverb"
+    },
+    {
+      "word": "九層の台は累土より起こる",
+      "reading": "きゅうそうのうてなはるいどよりおこる",
+      "meaning": "many a little makes a mickle",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君には何が起こるか分かるんじゃないかと思うけどね。",
+      "reading": null,
+      "indonesian": "You can probably guess what happens though.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君には何が起こるか分かるんじゃないかと思うけどね。",
+      "reading": null,
+      "indonesian": "You can probably guess what happens though.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君には何が起こるか分かるんじゃないかと思うけどね。",
+      "reading": null,
+      "indonesian": "I think you know what's going to happen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は戦争が起こると思うかね。",
+      "reading": null,
+      "indonesian": "Do you believe war will start?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急いでいる時は、そんなことって起こるものです。",
+      "reading": null,
+      "indonesian": "That sort of thing can happen when you are in haste.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火事はいつなんどき起こるか分からない。",
+      "reading": null,
+      "indonesian": "A fire may happen at any moment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何か問題が起こるかもしれない。",
+      "reading": null,
+      "indonesian": "Something might go wrong.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

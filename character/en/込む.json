@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "込む",
+    "reading": "こむ",
+    "romaji": "komu",
+    "jlpt": "N4",
+    "frequency": 22750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be crowded",
+          "to be packed",
+          "to be congested",
+          "to be thronged (with)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be complex",
+          "to be intricate"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "to go into",
+          "to go in",
+          "to put into"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "to become (completely)"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "to do thoroughly",
+          "to do sufficiently"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "食い込む",
+      "reading": "くいこむ",
+      "meaning": "to bite into (e.g. rope into skin)",
+      "type": "expression"
+    },
+    {
+      "word": "手が込む",
+      "reading": "てがこむ",
+      "meaning": "to be intricate",
+      "type": "idiom"
+    },
+    {
+      "word": "洞ヶ峠を決め込む",
+      "reading": "ほらがとうげをきめこむ",
+      "meaning": "to wait for a good opportunity",
+      "type": "proverb"
+    },
+    {
+      "word": "無理が通れば道理が引っ込む",
+      "reading": "むりがとおればどうりがひっこむ",
+      "meaning": "where might is master, justice is servant",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

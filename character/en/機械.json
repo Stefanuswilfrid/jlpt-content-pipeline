@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "機械",
+    "reading": "きかい",
+    "romaji": "kikai",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "machine",
+          "mechanism"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "instrument",
+          "appliance",
+          "apparatus"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "engine"
+    },
+    {
+      "word": "機構",
+      "reading": "きこう",
+      "meaning": "mechanism"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaning": "function"
+    },
+    {
+      "word": "契機",
+      "reading": "けいき",
+      "meaning": "opportunity"
+    },
+    {
+      "word": "有機",
+      "reading": "ゆうき",
+      "meaning": "organic"
+    },
+    {
+      "word": "ジェット機",
+      "reading": "ジェットき",
+      "meaning": "jet aeroplane"
+    },
+    {
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "humour"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaning": "chance"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "airplane"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "機械の心",
+      "reading": "きかいのこころ",
+      "meaning": "devious mind",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "機械力が肉体労働にとって代わった。",
+      "reading": null,
+      "english": "Mechanical power took the place of manual labor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械を始動させた。",
+      "reading": null,
+      "english": "I got the machine running.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "機械は油がきれてキイキイいった。",
+      "reading": null,
+      "english": "The machine squealed for lack of oil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械は多量の電気を使用する。",
+      "reading": null,
+      "english": "Machinery uses a lot of electricity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械は多くの人手を省く。",
+      "reading": null,
+      "english": "Machinery dispenses with much labor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械はグリースで動きが悪くなった。",
+      "reading": null,
+      "english": "The machine was clogged with grease.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械は今遊んでいる。",
+      "reading": null,
+      "english": "The machines are idle now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

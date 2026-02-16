@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "問い",
+    "reading": "とい",
+    "romaji": "toi",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pertanyaan",
+          "permintaan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "疑問",
+      "reading": "ぎもん",
+      "meaning": "pertanyaan, masalah, keraguan"
+    },
+    {
+      "word": "学問",
+      "reading": "がくもん",
+      "meaning": "beasiswa, studi, pembelajaran"
+    },
+    {
+      "word": "訪問",
+      "reading": "ほうもん",
+      "meaning": "telepon, kunjungi"
+    },
+    {
+      "word": "質問",
+      "reading": "しつもん",
+      "meaning": "pertanyaan, penyelidikan"
+    },
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "sebuah masalah"
+    },
+    {
+      "word": "問い合わせ",
+      "reading": "といあわせ",
+      "meaning": "pertanyaan"
+    },
+    {
+      "word": "専門",
+      "reading": "せんもん",
+      "meaning": "jurusan; spesialisasi"
+    },
+    {
+      "word": "問う",
+      "reading": "とう",
+      "meaning": "untuk bertanya, untuk mempertanyakan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "観光案内所に問い合わせてください。",
+      "reading": null,
+      "indonesian": "Please refer to the tourist information office.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "観光案内所にお問い合わせください。",
+      "reading": null,
+      "indonesian": "Please refer to the tourist information office.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会社は心配の問い合わせでてんやわんやだった。",
+      "reading": null,
+      "indonesian": "The office was besieged by anxious inquiries.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "花子は本当かどうかを問いただした。",
+      "reading": null,
+      "indonesian": "Hanako called his bluff.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "花子は不信に思って本当かどうか問いただした。",
+      "reading": null,
+      "indonesian": "Hanako called his bluff.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なぜ、どうして、と問いかけるときから科学は始まる。",
+      "reading": null,
+      "indonesian": "Science begins when you ask why and how.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その学校に問い合わせたら、山田という生徒はいなかった。",
+      "reading": null,
+      "indonesian": "I inquired at the school only to find there was no student by the name of Yamada.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ご兄弟のことはカンザス州から問い合わせを受けたばかりです。",
+      "reading": null,
+      "indonesian": "We have just received an inquiry from Kansas concerning your brother.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

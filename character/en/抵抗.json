@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "抵抗",
+    "reading": "ていこう",
+    "romaji": "teikou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "resistance",
+          "opposition",
+          "standing up to"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reluctance",
+          "repulsion",
+          "repugnance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "resistance",
+          "drag",
+          "friction"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "electrical resistance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "resistor"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "反抗",
+      "reading": "はんこう",
+      "meaning": "opposition"
+    },
+    {
+      "word": "大抵",
+      "reading": "たいてい",
+      "meaning": "mostly"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

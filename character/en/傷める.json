@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "痛める",
+    "reading": "いためる",
+    "romaji": "itameru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hurt",
+          "to injure",
+          "to cause pain"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to harm",
+          "to damage",
+          "to spoil"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to worry",
+          "to bother",
+          "to be grieved over",
+          "to afflict"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cause financial loss",
+          "to hurt one's pocket"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "痛み",
+      "reading": "いたみ",
+      "meaning": "pain"
+    },
+    {
+      "word": "苦痛",
+      "reading": "くつう",
+      "meaning": "pain"
+    },
+    {
+      "word": "頭痛",
+      "reading": "ずつう",
+      "meaning": "headache"
+    },
+    {
+      "word": "痛い",
+      "reading": "いたい",
+      "meaning": "painful"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心を痛める",
+      "reading": "こころをいためる",
+      "meaning": "to worry (about)",
+      "type": "idiom"
+    },
+    {
+      "word": "腹を痛める",
+      "reading": "はらをいためる",
+      "meaning": "to give birth to",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "記録",
+    "reading": "きろく",
+    "romaji": "kiroku",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "catatan",
+          "risalah",
+          "dokumen"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "record (e.g. in sports)",
+          "setting (a record)",
+          "recording (a record high, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "記事",
+      "reading": "きじ",
+      "meaning": "artikel, berita"
+    },
+    {
+      "word": "記者",
+      "reading": "きしゃ",
+      "meaning": "reporter"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "peringatan, kenangan"
+    },
+    {
+      "word": "記憶",
+      "reading": "きおく",
+      "meaning": "ingatan, kenangan, ingatan"
+    },
+    {
+      "word": "記入",
+      "reading": "きにゅう",
+      "meaning": "entri, pengisian formulir"
+    },
+    {
+      "word": "暗記",
+      "reading": "あんき",
+      "meaning": "menghafal, belajar dengan hati"
+    },
+    {
+      "word": "日記",
+      "reading": "にっき",
+      "meaning": "buku harian, jurnal"
+    },
+    {
+      "word": "録音",
+      "reading": "ろくおん",
+      "meaning": "rekaman (audio)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その文書にはその戦いが１７００年に起こったと記録されている。",
+      "reading": null,
+      "indonesian": "The document records that the war broke out in 1700.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その火事は記録に残っている。",
+      "reading": null,
+      "indonesian": "The fire is remembered in history.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

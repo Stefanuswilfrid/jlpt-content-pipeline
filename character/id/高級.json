@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "高級",
+    "reading": "こうきゅう",
+    "romaji": "koukyuu",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kelas atas; terbaik"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "high-ranking",
+          "high-level",
+          "senior"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "高層",
+      "reading": "こうそう",
+      "meaning": "tinggi, gedung pencakar langit"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "ketinggian, tinggi; tingkat lanjut"
+    },
+    {
+      "word": "高等",
+      "reading": "こうとう",
+      "meaning": "kelas atas, kualitas tinggi"
+    },
+    {
+      "word": "学級",
+      "reading": "がっきゅう",
+      "meaning": "kelas"
+    },
+    {
+      "word": "上級",
+      "reading": "じょうきゅう",
+      "meaning": "tingkat lanjut, nilai tinggi, senior"
+    },
+    {
+      "word": "初級",
+      "reading": "しょきゅう",
+      "meaning": "tingkat dasar"
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "tertinggi, terunggul, paling"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "siswa sekolah menengah atas"
+    },
+    {
+      "word": "級",
+      "reading": "きゅう",
+      "meaning": "kelas, tingkatan, peringkat"
+    },
+    {
+      "word": "高速",
+      "reading": "こうそく",
+      "meaning": "kecepatan tinggi, gigi tinggi"
+    },
+    {
+      "word": "残高",
+      "reading": "ざんだか",
+      "meaning": "saldo (bank), sisa"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "海外の子会社は最高級品を生産しています。",
+      "reading": null,
+      "indonesian": "Overseas subsidiaries are putting out top-of the-line products.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あおいは、苦学生だから、そんな高級なもの、持てないです。",
+      "reading": null,
+      "indonesian": "I'm a self-supporting student so I can't have that sort of high class thing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あおいは、苦学生だから、そんな高級なもの、持てないです。",
+      "reading": null,
+      "indonesian": "I'm putting myself through school, so I can't have things that are that expensive.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

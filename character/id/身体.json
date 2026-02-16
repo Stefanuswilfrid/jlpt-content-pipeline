@@ -1,0 +1,203 @@
+{
+  "definition": {
+    "word": "体",
+    "reading": "からだ",
+    "romaji": "karada",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tubuh"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "torso",
+          "trunk"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "build",
+          "physique",
+          "frame",
+          "figure"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "health",
+          "constitution"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "全体",
+      "reading": "ぜんたい",
+      "meaning": "keseluruhan, seluruh bagian, apa pun (masalahnya)"
+    },
+    {
+      "word": "団体",
+      "reading": "だんたい",
+      "meaning": "organisasi, asosiasi"
+    },
+    {
+      "word": "具体",
+      "reading": "ぐたい",
+      "meaning": "konkret, nyata, material"
+    },
+    {
+      "word": "体育",
+      "reading": "たいいく",
+      "meaning": "pendidikan jasmani, senam, atletik"
+    },
+    {
+      "word": "一体",
+      "reading": "いったい",
+      "meaning": "satu objek; tubuh; apa-apaan ini?; secara umum"
+    },
+    {
+      "word": "体重",
+      "reading": "たいじゅう",
+      "meaning": "berat badan"
+    },
+    {
+      "word": "形態",
+      "reading": "けいたい",
+      "meaning": "bentuk, rupa, figur"
+    },
+    {
+      "word": "重体",
+      "reading": "じゅうたい",
+      "meaning": "sakit parah, kondisi kritis"
+    },
+    {
+      "word": "体温",
+      "reading": "たいおん",
+      "meaning": "suhu (tubuh)"
+    },
+    {
+      "word": "正体",
+      "reading": "しょうたい",
+      "meaning": "bentuk alami, warna asli seseorang, karakter sejati"
+    },
+    {
+      "word": "気体",
+      "reading": "きたい",
+      "meaning": "uap, gas"
+    },
+    {
+      "word": "字体",
+      "reading": "じたい",
+      "meaning": "font, huruf"
+    },
+    {
+      "word": "体制",
+      "reading": "たいせい",
+      "meaning": "tatanan, sistem, struktur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一心同体",
+      "reading": "いっしんどうたい",
+      "meaning": "being one in body and soul",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三位一体",
+      "reading": "さんみいったい",
+      "meaning": "the Trinity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "絶体絶命",
+      "reading": "ぜったいぜつめい",
+      "meaning": "desperate situation with no escape",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "体を惜しむ",
+      "reading": "からだをおしむ",
+      "meaning": "to be lazy",
+      "type": "idiom"
+    },
+    {
+      "word": "体を粉にする",
+      "reading": "からだをこにする",
+      "meaning": "to work assiduously",
+      "type": "idiom"
+    },
+    {
+      "word": "表裏一体",
+      "reading": "ひょうりいったい",
+      "meaning": "the two views (of an object) referring to the same thing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "渾然一体",
+      "reading": "こんぜんいったい",
+      "meaning": "in complete harmony",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無理無体",
+      "reading": "むりむたい",
+      "meaning": "by force",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "体質改善",
+      "reading": "たいしつかいぜん",
+      "meaning": "improvement of one's constitution",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異体同心",
+      "reading": "いたいどうしん",
+      "meaning": "being of one mind",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "休日をとるのが、あなたの身体によいでしょう。",
+      "reading": null,
+      "indonesian": "It will do you good to have a holiday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "運動すると身体にいいですよ。",
+      "reading": null,
+      "indonesian": "It is good for you to take exercise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなの、身体にとっていいはずがないじゃありませんか。",
+      "reading": null,
+      "indonesian": "That can't be good for your health, can it?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

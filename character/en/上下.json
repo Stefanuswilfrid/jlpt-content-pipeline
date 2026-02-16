@@ -1,0 +1,186 @@
+{
+  "definition": {
+    "word": "上下",
+    "reading": "うえした",
+    "romaji": "ueshita",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "top and bottom",
+          "up and down",
+          "high and low",
+          "above and below",
+          "upper and lower ends"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "upside-down"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "下旬",
+      "reading": "げじゅん",
+      "meaning": "last third of a month"
+    },
+    {
+      "word": "上旬",
+      "reading": "じょうじゅん",
+      "meaning": "first third of a month"
+    },
+    {
+      "word": "上り",
+      "reading": "のぼり",
+      "meaning": "ascent"
+    },
+    {
+      "word": "上級",
+      "reading": "じょうきゅう",
+      "meaning": "upper level"
+    },
+    {
+      "word": "下町",
+      "reading": "したまち",
+      "meaning": "low-lying part of a city (usu. containing shops, factories, etc.)"
+    },
+    {
+      "word": "目下",
+      "reading": "もっか",
+      "meaning": "at present"
+    },
+    {
+      "word": "目下",
+      "reading": "めした",
+      "meaning": "subordinate"
+    },
+    {
+      "word": "下降",
+      "reading": "かこう",
+      "meaning": "descent"
+    },
+    {
+      "word": "地下水",
+      "reading": "ちかすい",
+      "meaning": "groundwater"
+    },
+    {
+      "word": "下車",
+      "reading": "げしゃ",
+      "meaning": "alighting (from a train, bus, etc.)"
+    },
+    {
+      "word": "低下",
+      "reading": "ていか",
+      "meaning": "fall"
+    },
+    {
+      "word": "足元",
+      "reading": "あしもと",
+      "meaning": "at one's feet"
+    },
+    {
+      "word": "下水",
+      "reading": "げすい",
+      "meaning": "drainage"
+    },
+    {
+      "word": "出来上がり",
+      "reading": "できあがり",
+      "meaning": "completion"
+    },
+    {
+      "word": "下駄",
+      "reading": "げた",
+      "meaning": "geta"
+    },
+    {
+      "word": "下品",
+      "reading": "げひん",
+      "meaning": "vulgar"
+    },
+    {
+      "word": "下書き",
+      "reading": "したがき",
+      "meaning": "draft"
+    },
+    {
+      "word": "上品",
+      "reading": "じょうひん",
+      "meaning": "elegant"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "貴賤上下",
+      "reading": "きせんしょうか",
+      "meaning": "high and low",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "恋に上下の差別無し",
+      "reading": "こいにじょうげのさべつなし",
+      "meaning": "love makes men equal",
+      "type": "proverb"
+    },
+    {
+      "word": "恋に上下の隔てなし",
+      "reading": "こいにじょうげのへだてなし",
+      "meaning": "love makes people equal",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ぶらんこが上下に動いている。",
+      "reading": null,
+      "english": "The swing is moving up and down.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は体重７０キロ、数キロの上下はあるが。",
+      "reading": null,
+      "english": "I weigh 70 kilos, give or take a few kilos.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は修理するためにテーブルを上下にひっくり返した。",
+      "reading": null,
+      "english": "I turned the table upside down to fix it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人間の体温は37度付近で上下している。",
+      "reading": null,
+      "english": "The temperature of the human body hovers around 37°C.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ぶらんこが上下に動いている。",
+      "reading": null,
+      "english": "The swing is moving up and down.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

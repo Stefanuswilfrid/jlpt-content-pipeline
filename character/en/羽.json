@@ -1,0 +1,166 @@
+{
+  "definition": {
+    "word": "羽",
+    "reading": "はね",
+    "romaji": "hane",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "feather",
+          "plume",
+          "down"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "blade (of a fan, propeller, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shuttlecock (in badminton)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shuttlecock (in hanetsuki)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "arrow feathers"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "葉書",
+      "reading": "はがき",
+      "meaning": "postcard"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "羽化登仙",
+      "reading": "うかとうせん",
+      "meaning": "a sense of release (as if one had wings and were riding on air)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "羽目を外す",
+      "reading": "はめをはずす",
+      "meaning": "to go over the top",
+      "type": "idiom"
+    },
+    {
+      "word": "積羽沈舟",
+      "reading": "せきうちんしゅう",
+      "meaning": "small things in sufficient quantity can have a large influence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "白羽の矢が立つ",
+      "reading": "しらはのやがたつ",
+      "meaning": "to be selected (from among many people)",
+      "type": "idiom"
+    },
+    {
+      "word": "白羽の矢を立てる",
+      "reading": "しらはのやをたてる",
+      "meaning": "to select someone (out of many people)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何羽かの鳥は飛ばなかった。",
+      "reading": null,
+      "english": "Some of the birds didn't fly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "屋根の上には鳥が一羽みえる。",
+      "reading": null,
+      "english": "I see a bird on the roof.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "屋根の上に鳥が一羽見えます。",
+      "reading": null,
+      "english": "I see a bird on the roof.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "羽は鳥に固有のものだ。",
+      "reading": null,
+      "english": "Feathers are peculiar to birds.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ツバメ一羽で夏にはならぬ。",
+      "reading": null,
+      "english": "One swallow does not make a summer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ツバメ１羽来ただけで夏にはならない。",
+      "reading": null,
+      "english": "One swallow does not make a summer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "つばめが二羽頭上を飛んでいる。",
+      "reading": null,
+      "english": "A couple of swallows are flying overhead.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ダチョウは羽があるが飛べない。",
+      "reading": null,
+      "english": "The ostrich has wings, but it cannot fly.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

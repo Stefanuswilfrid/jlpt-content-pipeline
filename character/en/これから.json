@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "此れから",
+    "reading": "これから",
+    "romaji": "korekara",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "from now on",
+          "after this",
+          "in the future",
+          "in future"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "from here",
+          "from this point"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "この間",
+      "reading": "このあいだ",
+      "meaning": "the other day"
+    },
+    {
+      "word": "この頃",
+      "reading": "このごろ",
+      "meaning": "these days"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "夜はまだこれからだ。",
+      "reading": null,
+      "english": "The night is still young.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "でもこれから帰るところさ。",
+      "reading": null,
+      "english": "But we're just on our way home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはこれから１週間後、つまり５月３日に行われるだろう。",
+      "reading": null,
+      "english": "It will be done a week from today, that is, on May 3.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すごい！じゃこれから時々あえるわね。",
+      "reading": null,
+      "english": "Great! Let's get together sometime.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "さあ、これからわたしの言うことをよくおききなさい。",
+      "reading": null,
+      "english": "Now give attention to what I am going to say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "近づける",
+    "reading": "ちかづける",
+    "romaji": "chikazukeru",
+    "jlpt": "N2",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bring near",
+          "to bring close",
+          "to let go near"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to associate with",
+          "to bring (people) together",
+          "to let come near (of a person)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "近寄る",
+      "reading": "ちかよる",
+      "meaning": "to approach"
+    },
+    {
+      "word": "付近",
+      "reading": "ふきん",
+      "meaning": "neighborhood"
+    },
+    {
+      "word": "接近",
+      "reading": "せっきん",
+      "meaning": "getting closer"
+    },
+    {
+      "word": "近々",
+      "reading": "ちかぢか",
+      "meaning": "soon"
+    },
+    {
+      "word": "近視",
+      "reading": "きんし",
+      "meaning": "myopia"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "子供たちを薬に近付けるな。",
+      "reading": null,
+      "english": "Keep children away from medicine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "子供たちを薬に近付けるな。",
+      "reading": null,
+      "english": "Keep children away from medicine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

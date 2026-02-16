@@ -1,0 +1,112 @@
+{
+  "definition": {
+    "word": "印",
+    "reading": "いん",
+    "romaji": "in",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stamp",
+          "seal",
+          "chop"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "seal impression",
+          "seal",
+          "sealing",
+          "stamp",
+          "mark",
+          "print"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mudra (symbolic hand gesture)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ninja hand sign"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "India"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "印象",
+      "reading": "いんしょう",
+      "meaning": "impression"
+    },
+    {
+      "word": "印刷",
+      "reading": "いんさつ",
+      "meaning": "printing"
+    },
+    {
+      "word": "目印",
+      "reading": "めじるし",
+      "meaning": "mark (for quick identification or recognition)"
+    },
+    {
+      "word": "矢印",
+      "reading": "やじるし",
+      "meaning": "arrow (symbol)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "印象批評",
+      "reading": "いんしょうひひょう",
+      "meaning": "impressionistic criticism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "烙印を押される",
+      "reading": "らくいんをおされる",
+      "meaning": "to be branded a ...",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何か目印がありますか。",
+      "reading": null,
+      "english": "Are there any landmarks?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "印刷インキが不足している。",
+      "reading": null,
+      "english": "Printing ink is in short supply.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

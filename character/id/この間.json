@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "この間",
+    "reading": "このあいだ",
+    "romaji": "konoaida",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "beberapa hari yang lalu",
+          "baru-baru ini"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "meanwhile",
+          "in the meantime"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "間",
+      "reading": "あいだ",
+      "meaning": "ruang, tempat, jeda"
+    },
+    {
+      "word": "昼間",
+      "reading": "ひるま",
+      "meaning": "siang hari, pada siang hari"
+    },
+    {
+      "word": "間",
+      "reading": "ま",
+      "meaning": "ruang, tempat, jeda"
+    },
+    {
+      "word": "間",
+      "reading": "かん",
+      "meaning": "ruang, tempat, jeda"
+    },
+    {
+      "word": "世間",
+      "reading": "せけん",
+      "meaning": "dunia, masyarakat"
+    },
+    {
+      "word": "間違い",
+      "reading": "まちがい",
+      "meaning": "kesalahan"
+    },
+    {
+      "word": "手間",
+      "reading": "てま",
+      "meaning": "waktu, tenaga kerja"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この間きみはそう言ったよね。",
+      "reading": null,
+      "indonesian": "You said so the other day, didn't you?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

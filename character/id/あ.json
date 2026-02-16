@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "我",
+    "reading": "われ",
+    "romaji": "ware",
+    "jlpt": "N4",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "Ah"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "oneself"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "我々",
+      "reading": "われわれ",
+      "meaning": "Kami"
+    },
+    {
+      "word": "我慢",
+      "reading": "がまん",
+      "meaning": "kesabaran, daya tahan, ketekunan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無我夢中",
+      "reading": "むがむちゅう",
+      "meaning": "losing oneself (in)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "我田引水",
+      "reading": "がでんいんすい",
+      "meaning": "seeking one's own interests",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "我武者羅",
+      "reading": "がむしゃら",
+      "meaning": "reckless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "唯我独尊",
+      "reading": "ゆいがどくそん",
+      "meaning": "throughout heaven and earth, I alone am the honored one",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "如是我聞",
+      "reading": "にょぜがもん",
+      "meaning": "thus I hear (quote from the sutras)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "怪我の功名",
+      "reading": "けがのこうみょう",
+      "meaning": "fortunate error",
+      "type": "idiom"
+    },
+    {
+      "word": "強情我慢",
+      "reading": "ごうじょうがまん",
+      "meaning": "obstinate and self-assertive",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "諸法無我",
+      "reading": "しょほうむが",
+      "meaning": "idea that all things in the universe lack their own unchangeable substances",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "明日は我が身",
+      "reading": "あすはわがみ",
+      "meaning": "what happens to one today may happen to another tomorrow",
+      "type": "proverb"
+    },
+    {
+      "word": "我が仏",
+      "reading": "わがほとけ",
+      "meaning": "my dear",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何とも言いようがないなあ。",
+      "reading": null,
+      "indonesian": "I just don't know what to say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "時間があるか分かりません。",
+      "reading": null,
+      "indonesian": "I don't know if I have the time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはあなたが一人になりたくないからです。",
+      "reading": null,
+      "indonesian": "It's because you don't want to be alone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あとで行くね。",
+      "reading": null,
+      "indonesian": "I'm going to go.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あっ、ちょうちょだ！",
+      "reading": null,
+      "indonesian": "Oh, there's a butterfly!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

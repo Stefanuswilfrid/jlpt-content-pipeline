@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "逆",
+    "reading": "ぎゃく",
+    "romaji": "gyaku",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sebaliknya",
+          "berlawanan"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "converse (of a hypothesis, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "inverse (function)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "逆さ",
+      "reading": "さかさ",
+      "meaning": "terbalik, terputar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "悪逆無道",
+      "reading": "あくぎゃくむどう",
+      "meaning": "treacherous",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "逆鱗",
+      "reading": "げきりん",
+      "meaning": "one's superior's anger",
+      "type": "idiom"
+    },
+    {
+      "word": "忠言逆耳",
+      "reading": "ちゅうげんぎゃくじ",
+      "meaning": "good advice is harsh to the ears",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "悪逆非道",
+      "reading": "あくぎゃくひどう",
+      "meaning": "heinous",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "大逆無道",
+      "reading": "たいぎゃくむどう",
+      "meaning": "heinous",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "逆鱗に触れる",
+      "reading": "げきりんにふれる",
+      "meaning": "to infuriate one's superior",
+      "type": "idiom"
+    },
+    {
+      "word": "忠言耳に逆らう",
+      "reading": "ちゅうげんみみにさからう",
+      "meaning": "good advice is harsh to the ear",
+      "type": "proverb"
+    },
+    {
+      "word": "金言耳に逆らう",
+      "reading": "きんげんみみにさからう",
+      "meaning": "good advice is harsh to the ear",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

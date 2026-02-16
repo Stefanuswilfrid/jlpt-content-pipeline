@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "引き出し",
+    "reading": "ひきだし",
+    "romaji": "hikidashi",
+    "jlpt": "N4",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "drawer"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "withdrawal (of money from an account)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "variety of knowledge and experience useful for handling things impromptu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "輸出",
+      "reading": "ゆしゅつ",
+      "meaning": "export"
+    },
+    {
+      "word": "出席",
+      "reading": "しゅっせき",
+      "meaning": "attendance"
+    },
+    {
+      "word": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "departure"
+    },
+    {
+      "word": "出来事",
+      "reading": "できごと",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaning": "memories"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは引き出しに入れておきました。",
+      "reading": null,
+      "english": "I put it in the drawer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "きれいなタオルは引き出しにありますよ。",
+      "reading": null,
+      "english": "The clean towels are in the drawer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

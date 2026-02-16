@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "主要",
+    "reading": "しゅよう",
+    "romaji": "shuyou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "chief",
+          "main",
+          "principal",
+          "major"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "重要",
+      "reading": "じゅうよう",
+      "meaning": "important"
+    },
+    {
+      "word": "要求",
+      "reading": "ようきゅう",
+      "meaning": "demand"
+    },
+    {
+      "word": "主義",
+      "reading": "しゅぎ",
+      "meaning": "doctrine"
+    },
+    {
+      "word": "主張",
+      "reading": "しゅちょう",
+      "meaning": "claim"
+    },
+    {
+      "word": "主婦",
+      "reading": "しゅふ",
+      "meaning": "housewife"
+    },
+    {
+      "word": "需要",
+      "reading": "じゅよう",
+      "meaning": "demand"
+    },
+    {
+      "word": "要素",
+      "reading": "ようそ",
+      "meaning": "component"
+    },
+    {
+      "word": "要点",
+      "reading": "ようてん",
+      "meaning": "gist"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaning": "necessary"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君が英語を勉強する主要な目的は何ですか。",
+      "reading": null,
+      "english": "What is the main purpose of your studying English?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "シカゴは、米国中西部の主要な都市である。",
+      "reading": null,
+      "english": "Chicago is the principal city of the Midwest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この国の主要な産物は何ですか。",
+      "reading": null,
+      "english": "What are the main products of this country?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コーヒーはブラジルの主要産物の一つである。",
+      "reading": null,
+      "english": "Coffee is one of the staples of Brazil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コーヒーはブラジルの主要産物である。",
+      "reading": null,
+      "english": "Coffee is Brazil's main product.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "主要な目的を見失ってはならない。",
+      "reading": null,
+      "english": "You must not lose sight of your main object.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "１９９０年の主要な出来事といえば何でしょう？",
+      "reading": null,
+      "english": "What were the chief events of 1990?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

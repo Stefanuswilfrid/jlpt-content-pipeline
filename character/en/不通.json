@@ -1,0 +1,203 @@
+{
+  "definition": {
+    "word": "不通",
+    "reading": "ふつう",
+    "romaji": "futsuu",
+    "jlpt": "N3",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "suspension",
+          "interruption",
+          "stoppage",
+          "tie-up",
+          "cessation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "wrong"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "anxiety"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "insufficiency"
+    },
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "dissatisfaction"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "currency"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "injustice"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "commuting to work"
+    },
+    {
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "discomfort"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretation (i.e. oral translation)"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "unhappiness"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "disadvantage"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "commuting to school"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "wonderful"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "discontent"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "音信不通",
+      "reading": "おんしんふつう",
+      "meaning": "break in contact",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一文不通",
+      "reading": "いちもんふつう",
+      "meaning": "total illiteracy",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "４年以上も音信不通だったんだよ。",
+      "reading": null,
+      "english": "I haven't heard a word from them in over four years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電話は不通なの。",
+      "reading": null,
+      "english": "The phones aren't working.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "大雪のために鉄道は不通になっている。",
+      "reading": null,
+      "english": "Because of the heavy snow, the railroad traffic has been interrupted.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大雪のために鉄道が不通になることが良くある。",
+      "reading": null,
+      "english": "It often happens that railway traffic is suspended by a heavy snowfall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "交通が全く不通になっている。",
+      "reading": null,
+      "english": "Traffic is all tied up.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "４年以上も音信不通だったんだよ。",
+      "reading": null,
+      "english": "I haven't heard a word from them in over four years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "交通が全く不通になっている。",
+      "reading": null,
+      "english": "Traffic is all tied up.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大雪のために鉄道が不通になることが良くある。",
+      "reading": null,
+      "english": "It often happens that railway traffic is suspended by a heavy snowfall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大雪のために鉄道は不通になっている。",
+      "reading": null,
+      "english": "Because of the heavy snow, the railroad traffic has been interrupted.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "対",
+    "reading": "たい",
+    "romaji": "tai",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "versus",
+          "against",
+          "vs.",
+          "v."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "to (e.g. score of 4 to 2, ratio of 3 to 1, vote of 320 to 180)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "toward ...",
+          "to ...",
+          "with ...",
+          "against ...",
+          "anti-"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "equal footing",
+          "equal terms"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "opposite"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "対照",
+      "reading": "たいしょう",
+      "meaning": "contrast"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaning": "target"
+    },
+    {
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "absolutely"
+    },
+    {
+      "word": "応対",
+      "reading": "おうたい",
+      "meaning": "dealing with (people, customers, complaints, etc.)"
+    },
+    {
+      "word": "対策",
+      "reading": "たいさく",
+      "meaning": "measure"
+    },
+    {
+      "word": "反対",
+      "reading": "はんたい",
+      "meaning": "opposition"
+    },
+    {
+      "word": "対立",
+      "reading": "たいりつ",
+      "meaning": "confrontation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "対岸の火事",
+      "reading": "たいがんのかじ",
+      "meaning": "someone else's problem",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

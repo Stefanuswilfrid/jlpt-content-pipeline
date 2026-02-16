@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "灰",
+    "reading": "はい",
+    "romaji": "hai",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ash",
+          "ashes"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "灰色",
+      "reading": "はいいろ",
+      "meaning": "grey"
+    },
+    {
+      "word": "灰皿",
+      "reading": "はいざら",
+      "meaning": "ashtray"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "乱離骨灰",
+      "reading": "らりこっぱい",
+      "meaning": "being scattered in all directions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "枯木死灰",
+      "reading": "こぼくしかい",
+      "meaning": "withered trees and cold ash",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

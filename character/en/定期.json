@@ -1,0 +1,142 @@
+{
+  "definition": {
+    "word": "定期",
+    "reading": "ていき",
+    "romaji": "teiki",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fixed period",
+          "fixed term"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "regular",
+          "periodic",
+          "periodical"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fixed-term commuter pass"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fixed-term deposit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "futures contracts"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "decision"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "period"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaning": "expectation"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "安定",
+      "reading": "あんてい",
+      "meaning": "stability"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "long-term"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "term"
+    },
+    {
+      "word": "否定",
+      "reading": "ひてい",
+      "meaning": "denial"
+    },
+    {
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "postponement"
+    },
+    {
+      "word": "勘定",
+      "reading": "かんじょう",
+      "meaning": "calculation"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "school term"
+    },
+    {
+      "word": "予期",
+      "reading": "よき",
+      "meaning": "expectation"
+    },
+    {
+      "word": "仮定",
+      "reading": "かてい",
+      "meaning": "assumption"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "plans"
+    },
+    {
+      "word": "一定",
+      "reading": "いってい",
+      "meaning": "to fix"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その島には定期便はない。",
+      "reading": null,
+      "english": "There is no regular boat service to the island.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

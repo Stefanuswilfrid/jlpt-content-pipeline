@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "収穫",
+    "reading": "しゅうかく",
+    "romaji": "shuukaku",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "harvest",
+          "crop",
+          "ingathering"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fruits (of one's labors)",
+          "gain",
+          "result",
+          "returns"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "catch (fishing)",
+          "bag (hunting)",
+          "haul"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "収入",
+      "reading": "しゅうにゅう",
+      "meaning": "income"
+    },
+    {
+      "word": "吸収",
+      "reading": "きゅうしゅう",
+      "meaning": "absorption"
+    },
+    {
+      "word": "収める",
+      "reading": "おさめる",
+      "meaning": "to put (into)"
+    },
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaning": "to take in"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

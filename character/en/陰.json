@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "陰",
+    "reading": "いん",
+    "romaji": "in",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "(the) negative (e.g. pole)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "yin (in Chinese divination)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hidden place",
+          "unseen part",
+          "private location"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "日陰",
+      "reading": "ひかげ",
+      "meaning": "shade"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "陰々滅々",
+      "reading": "いんいんめつめつ",
+      "meaning": "gloomy and depressing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "陰陽五行",
+      "reading": "いんようごぎょう",
+      "meaning": "the cosmic dual forces (yin and yang) and the five elements (metal, wood, water, fire and earth) in Chinese cosmology",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "五陰盛苦",
+      "reading": "ごおんじょうく",
+      "meaning": "pain caused by the five skandhas",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "光陰矢のごとし",
+      "reading": "こういんやのごとし",
+      "meaning": "time flies like an arrow",
+      "type": "proverb"
+    },
+    {
+      "word": "陰になり日向になり",
+      "reading": "かげになりひなたになり",
+      "meaning": "openly and secretly",
+      "type": "proverb"
+    },
+    {
+      "word": "陰陽師身の上知らず",
+      "reading": "おんようじみのうえしらず",
+      "meaning": "people don't know themselves as well as they know others",
+      "type": "proverb"
+    },
+    {
+      "word": "陰裏の豆もはじけ時",
+      "reading": "かげうらのまめもはじけどき",
+      "meaning": "all girls eventually awaken to sex",
+      "type": "proverb"
+    },
+    {
+      "word": "一寸の光陰軽んずべからず",
+      "reading": "いっすんのこういんかろんずべからず",
+      "meaning": "there isn't a moment to be wasted",
+      "type": "proverb"
+    },
+    {
+      "word": "一樹の陰一河の流れも他生の縁",
+      "reading": "いちじゅのかげいちがのながれもたしょうのえん",
+      "meaning": "everything is preordained",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

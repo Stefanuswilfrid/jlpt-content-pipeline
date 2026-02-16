@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "縮める",
+    "reading": "ちぢめる",
+    "romaji": "chijimeru",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to shorten",
+          "to reduce",
+          "to condense",
+          "to shrink"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to crumple (fabric)",
+          "to wrinkle"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make (one's body) smaller",
+          "to draw in (one's legs)",
+          "to duck (one's head)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "縮小",
+      "reading": "しゅくしょう",
+      "meaning": "reduction"
+    },
+    {
+      "word": "縮れる",
+      "reading": "ちぢれる",
+      "meaning": "to be wavy"
+    },
+    {
+      "word": "圧縮",
+      "reading": "あっしゅく",
+      "meaning": "compression"
+    },
+    {
+      "word": "短縮",
+      "reading": "たんしゅく",
+      "meaning": "shortening"
+    },
+    {
+      "word": "恐縮",
+      "reading": "きょうしゅく",
+      "meaning": "feeling (much) obliged"
+    },
+    {
+      "word": "縮む",
+      "reading": "ちぢむ",
+      "meaning": "to shrink"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "すさんだ生活を送るのは、命を縮めるようなものだ。",
+      "reading": null,
+      "english": "Living life in the fast lane is like burning the candle at both ends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すさんだ生活を送るのは、命を縮めるようなものだ。",
+      "reading": null,
+      "english": "Living life in the fast lane is like burning the candle at both ends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "教育",
+    "reading": "きょういく",
+    "romaji": "kyouiku",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "education",
+          "schooling",
+          "training",
+          "instruction",
+          "teaching",
+          "upbringing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "culture",
+          "cultivation",
+          "education"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教会",
+      "reading": "きょうかい",
+      "meaning": "church"
+    },
+    {
+      "word": "育てる",
+      "reading": "そだてる",
+      "meaning": "to raise"
+    },
+    {
+      "word": "教授",
+      "reading": "きょうじゅ",
+      "meaning": "professor"
+    },
+    {
+      "word": "宗教",
+      "reading": "しゅうきょう",
+      "meaning": "religion"
+    },
+    {
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaning": "classroom"
+    },
+    {
+      "word": "体育",
+      "reading": "たいいく",
+      "meaning": "physical education"
+    },
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "textbook"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,151 @@
+{
+  "definition": {
+    "word": "以後",
+    "reading": "いご",
+    "romaji": "igo",
+    "jlpt": "N2",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "after this",
+          "from now on",
+          "hereafter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "thereafter",
+          "since (then)",
+          "after"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "直後",
+      "reading": "ちょくご",
+      "meaning": "immediately following"
+    },
+    {
+      "word": "前後",
+      "reading": "ぜんご",
+      "meaning": "front and rear"
+    },
+    {
+      "word": "以降",
+      "reading": "いこう",
+      "meaning": "on and after"
+    },
+    {
+      "word": "以来",
+      "reading": "いらい",
+      "meaning": "since"
+    },
+    {
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "afternoon"
+    },
+    {
+      "word": "後",
+      "reading": "あと",
+      "meaning": "behind"
+    },
+    {
+      "word": "今後",
+      "reading": "こんご",
+      "meaning": "from now on"
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "end"
+    },
+    {
+      "word": "以内",
+      "reading": "いない",
+      "meaning": "within"
+    },
+    {
+      "word": "以前",
+      "reading": "いぜん",
+      "meaning": "before"
+    },
+    {
+      "word": "以下",
+      "reading": "いか",
+      "meaning": "not exceeding ..."
+    },
+    {
+      "word": "後退",
+      "reading": "こうたい",
+      "meaning": "retreat"
+    },
+    {
+      "word": "後ろ",
+      "reading": "うしろ",
+      "meaning": "back"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "以後こんなことはいたしません。",
+      "reading": null,
+      "english": "I'll never do this again.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あれ以後は災難続きです。",
+      "reading": null,
+      "english": "I have had a series of misfortunes since then.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "以後こんなことはいたしません。",
+      "reading": null,
+      "english": "I'll never do this again.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "以後こんなことはいたしません。",
+      "reading": null,
+      "english": "I won't do this again.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あれ以後は災難続きです。",
+      "reading": null,
+      "english": "I have had a series of misfortunes since then.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "以後こんなことはいたしません。",
+      "reading": null,
+      "english": "I won't do this again.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

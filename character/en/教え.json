@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "教え",
+    "reading": "おしえ",
+    "romaji": "oshie",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "teaching",
+          "instruction",
+          "teachings",
+          "precept",
+          "lesson",
+          "doctrine"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教授",
+      "reading": "きょうじゅ",
+      "meaning": "professor"
+    },
+    {
+      "word": "宗教",
+      "reading": "しゅうきょう",
+      "meaning": "religion"
+    },
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "textbook"
+    },
+    {
+      "word": "教養",
+      "reading": "きょうよう",
+      "meaning": "(understanding or appreciation of) culture"
+    },
+    {
+      "word": "教育",
+      "reading": "きょういく",
+      "meaning": "education"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "孟母断機の教え",
+      "reading": "もうぼだんきのおしえ",
+      "meaning": "(the lesson that) one should not leave things unfinished",
+      "type": "proverb"
+    },
+    {
+      "word": "負うた子に教えられて浅瀬を渡る",
+      "reading": "おうたこにおしえられてあさせをわたる",
+      "meaning": "some things can be learned from the young",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そのやり方を教えて。",
+      "reading": null,
+      "english": "Teach me how you do it.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どうやればいいか教えて。",
+      "reading": null,
+      "english": "Teach me how you do it.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "教えてよ！",
+      "reading": null,
+      "english": "Tell me about it!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "お前の計画を教えてもらわないと決められないな。",
+      "reading": null,
+      "english": "I can't decide unless you tell me your plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の英語の教え方はばかげている。",
+      "reading": null,
+      "english": "Your method of teaching English is absurd.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君に自動車の運転法を教えてあげよう。",
+      "reading": null,
+      "english": "I'll teach you how to drive a car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君に車の運転の仕方を教えてあげるよ。",
+      "reading": null,
+      "english": "I'll teach you how to drive a car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君に泳ぎ方を教えよう。",
+      "reading": null,
+      "english": "I'll tell you how to swim.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空港へどう行けばよいのか教えて下さい。",
+      "reading": null,
+      "english": "Please tell me how to get to the airport.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

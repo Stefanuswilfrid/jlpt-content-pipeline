@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "単語",
+    "reading": "たんご",
+    "romaji": "tango",
+    "jlpt": "N3",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "word",
+          "vocabulary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "語学",
+      "reading": "ごがく",
+      "meaning": "study of foreign languages"
+    },
+    {
+      "word": "単位",
+      "reading": "たんい",
+      "meaning": "unit (e.g. meters, grams, etc.)"
+    },
+    {
+      "word": "物語",
+      "reading": "ものがたり",
+      "meaning": "story"
+    },
+    {
+      "word": "単純",
+      "reading": "たんじゅん",
+      "meaning": "simple"
+    },
+    {
+      "word": "言語",
+      "reading": "げんご",
+      "meaning": "language"
+    },
+    {
+      "word": "国語",
+      "reading": "こくご",
+      "meaning": "national language"
+    },
+    {
+      "word": "語句",
+      "reading": "ごく",
+      "meaning": "words and phrases"
+    },
+    {
+      "word": "単数",
+      "reading": "たんすう",
+      "meaning": "single"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これは代わりになるものをみつけたい単語だ。",
+      "reading": null,
+      "english": "It's a word I'd like to find a substitute for.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは代わりになるものをみつけたい単語だ。",
+      "reading": null,
+      "english": "It's a word I'd like to find a substitute for.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の辞書でその単語を調べてみなさい。",
+      "reading": null,
+      "english": "Look up the words in your dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英単語のいくつかは日本語に由来しています。",
+      "reading": null,
+      "english": "Some English words derive from Japanese.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語の単語を何語知っていますか。",
+      "reading": null,
+      "english": "How many English words do you know?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語の単語をどれくらい知っていますか。",
+      "reading": null,
+      "english": "How many English words do you know?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語の単語は他の言語にずいぶん取り入れられている。",
+      "reading": null,
+      "english": "English words are often borrowed by other languages.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "多くの英単語はラテン語に由来する。",
+      "reading": null,
+      "english": "Many English words are derived from Latin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

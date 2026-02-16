@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "図る",
+    "reading": "はかる",
+    "romaji": "hakaru",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to plan",
+          "to attempt",
+          "to devise"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to plot",
+          "to conspire",
+          "to scheme"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to aim for",
+          "to strive for",
+          "to work towards",
+          "to seek"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to deceive",
+          "to trick",
+          "to take in"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "合図",
+      "reading": "あいず",
+      "meaning": "sign"
+    },
+    {
+      "word": "図",
+      "reading": "ず",
+      "meaning": "drawing"
+    },
+    {
+      "word": "図書",
+      "reading": "としょ",
+      "meaning": "books"
+    },
+    {
+      "word": "図々しい",
+      "reading": "ずうずうしい",
+      "meaning": "impudent"
+    },
+    {
+      "word": "図鑑",
+      "reading": "ずかん",
+      "meaning": "pictorial book"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

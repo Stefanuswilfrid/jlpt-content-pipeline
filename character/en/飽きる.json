@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "飽きる",
+    "reading": "あきる",
+    "romaji": "akiru",
+    "jlpt": "N3",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "suffix",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get tired of",
+          "to tire of",
+          "to lose interest in",
+          "to grow weary of",
+          "to get fed up with",
+          "to get sick of",
+          "to become bored with"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become sated",
+          "to become satiated",
+          "to have one's fill"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "飽くまで",
+      "reading": "あくまで",
+      "meaning": "to the end"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "美人は三日で飽きる",
+      "reading": "びじんはみっかであきる",
+      "meaning": "beauty is only skin-deep",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

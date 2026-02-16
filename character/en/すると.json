@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "すると",
+    "reading": "すると",
+    "romaji": "suruto",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "(and) then",
+          "and",
+          "thereupon",
+          "whereupon"
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "in that case",
+          "then",
+          "so"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたの電話が鳴ったときまさに出かけようとするところだった。",
+      "reading": null,
+      "english": "I was about to leave when you telephoned.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

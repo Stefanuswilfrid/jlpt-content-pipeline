@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "是非",
+    "reading": "ぜひ",
+    "romaji": "zehi",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "Tentu saja",
+          "dengan segala cara; tanpa gagal"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "right and wrong",
+          "pros and cons"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "非常に",
+      "reading": "ひじょうに",
+      "meaning": "sangat; amat"
+    },
+    {
+      "word": "非常",
+      "reading": "ひじょう",
+      "meaning": "darurat, luar biasa, tidak biasa"
+    },
+    {
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "kenakalan, pelanggaran"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "是非曲直",
+      "reading": "ぜひきょくちょく",
+      "meaning": "rights and wrongs (of a case)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "是非善悪",
+      "reading": "ぜひぜんあく",
+      "meaning": "rights and wrongs",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

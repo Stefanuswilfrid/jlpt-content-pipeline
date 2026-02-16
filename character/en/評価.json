@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "評価",
+    "reading": "ひょうか",
+    "romaji": "hyouka",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "valuation",
+          "appraisal",
+          "evaluation",
+          "assessment",
+          "estimation",
+          "rating",
+          "judging"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "appreciation",
+          "recognition",
+          "acknowledgement",
+          "rating highly",
+          "praising"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "価格",
+      "reading": "かかく",
+      "meaning": "price"
+    },
+    {
+      "word": "価値",
+      "reading": "かち",
+      "meaning": "value"
+    },
+    {
+      "word": "物価",
+      "reading": "ぶっか",
+      "meaning": "prices of commodities"
+    },
+    {
+      "word": "評判",
+      "reading": "ひょうばん",
+      "meaning": "reputation"
+    },
+    {
+      "word": "値",
+      "reading": "あたい",
+      "meaning": "price"
+    },
+    {
+      "word": "批評",
+      "reading": "ひひょう",
+      "meaning": "criticism"
+    },
+    {
+      "word": "高価",
+      "reading": "こうか",
+      "meaning": "highly priced"
+    },
+    {
+      "word": "評論",
+      "reading": "ひょうろん",
+      "meaning": "criticism"
+    },
+    {
+      "word": "定価",
+      "reading": "ていか",
+      "meaning": "list price"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "過小評価",
+      "reading": "かしょうひょうか",
+      "meaning": "underestimation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "過大評価",
+      "reading": "かだいひょうか",
+      "meaning": "overestimation",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

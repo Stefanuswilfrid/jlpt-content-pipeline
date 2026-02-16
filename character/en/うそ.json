@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "嘘",
+    "reading": "うそ",
+    "romaji": "uso",
+    "jlpt": "N4",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "lie",
+          "fib",
+          "falsehood",
+          "untruth"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "mistake",
+          "error"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unwise move",
+          "bad decision"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "no way!",
+          "unbelievable!",
+          "really?!"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "嘘八百",
+      "reading": "うそはっぴゃく",
+      "meaning": "pack of lies",
+      "type": "idiom"
+    },
+    {
+      "word": "嘘も方便",
+      "reading": "うそもほうべん",
+      "meaning": "the end justifies the means",
+      "type": "proverb"
+    },
+    {
+      "word": "嘘から出たまこと",
+      "reading": "うそからでたまこと",
+      "meaning": "something intended as a lie or joke which (by chance) ends up being true",
+      "type": "idiom"
+    },
+    {
+      "word": "嘘つきは泥棒の始まり",
+      "reading": "うそつきはどろぼうのはじまり",
+      "meaning": "show me a liar, and I will show you a thief",
+      "type": "proverb"
+    },
+    {
+      "word": "指切りげんまん、嘘ついたら針千本飲ます",
+      "reading": "ゆびきりげんまん、うそついたらはりせんぼんのます",
+      "meaning": "cross my heart and hope to die, stick a needle in my eye",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もうそれはいらない。",
+      "reading": null,
+      "english": "I don't want it anymore.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "うそを言ってはいけないよ。",
+      "reading": null,
+      "english": "Never tell a lie!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

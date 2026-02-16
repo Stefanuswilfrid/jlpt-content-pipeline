@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "船",
+    "reading": "ふね",
+    "romaji": "fune",
+    "jlpt": "N4",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ship",
+          "boat",
+          "watercraft",
+          "vessel",
+          "seaplane"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tank",
+          "tub",
+          "vat",
+          "trough"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix",
+          "counter"
+        ],
+        "meanings": [
+          "counter for boat-shaped containers (e.g. of sashimi)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "船出",
+      "reading": "ふなで",
+      "meaning": "setting sail",
+      "type": "idiom"
+    },
+    {
+      "word": "南船北馬",
+      "reading": "なんせんほくば",
+      "meaning": "constant travelling",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "白河夜船",
+      "reading": "しらかわよふね",
+      "meaning": "being fast asleep (and totally unaware of what is going on around one)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "渡りに船",
+      "reading": "わたりにふね",
+      "meaning": "godsend",
+      "type": "idiom"
+    },
+    {
+      "word": "大船に乗る",
+      "reading": "おおぶねにのる",
+      "meaning": "to gain a reliable foundation and be in a safe condition",
+      "type": "idiom"
+    },
+    {
+      "word": "船を漕ぐ",
+      "reading": "ふねをこぐ",
+      "meaning": "to nod off (while sitting)",
+      "type": "idiom"
+    },
+    {
+      "word": "乗りかかった船",
+      "reading": "のりかかったふね",
+      "meaning": "having gone too far to turn back",
+      "type": "idiom"
+    },
+    {
+      "word": "船頭多くして船山に登る",
+      "reading": "せんどうおおくしてふねやまにのぼる",
+      "meaning": "too many cooks spoil the broth",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

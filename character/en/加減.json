@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "加減",
+    "reading": "かげん",
+    "romaji": "kagen",
+    "jlpt": "N3",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "degree",
+          "extent",
+          "amount",
+          "balance",
+          "state",
+          "condition"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(health) condition",
+          "state of health"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "adjustment",
+          "moderation",
+          "regulation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "addition and subtraction"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "slight sign of ...",
+          "slight state of ..."
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "just right for ..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "加味",
+      "reading": "かみ",
+      "meaning": "seasoning"
+    },
+    {
+      "word": "減らす",
+      "reading": "へらす",
+      "meaning": "to abate"
+    },
+    {
+      "word": "加える",
+      "reading": "くわえる",
+      "meaning": "to add"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaning": "participation"
+    },
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaning": "increase"
+    },
+    {
+      "word": "減少",
+      "reading": "げんしょう",
+      "meaning": "decrease"
+    },
+    {
+      "word": "加熱",
+      "reading": "かねつ",
+      "meaning": "heating"
+    },
+    {
+      "word": "増減",
+      "reading": "ぞうげん",
+      "meaning": "increase and decrease"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "さじ加減",
+      "reading": "さじかげん",
+      "meaning": "measured amount (esp. of medicine)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

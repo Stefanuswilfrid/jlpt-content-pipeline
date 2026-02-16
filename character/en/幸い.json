@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "幸い",
+    "reading": "さいわい",
+    "romaji": "saiwai",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "happiness",
+          "blessedness",
+          "luck",
+          "fortune",
+          "felicity"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "luckily",
+          "fortunately"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "happiness"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "good luck"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "unhappiness"
+    },
+    {
+      "word": "幸せ",
+      "reading": "しあわせ",
+      "meaning": "happiness"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不幸中の幸い",
+      "reading": "ふこうちゅうのさいわい",
+      "meaning": "small mercy (from some misfortune)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "なるべく早くご返事いただければ幸いです。",
+      "reading": null,
+      "english": "I would appreciate a reply as soon as possible.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すぐにお返事いただければ幸いです。",
+      "reading": null,
+      "english": "I would appreciate hearing from you soon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご返事いただければ幸いです。",
+      "reading": null,
+      "english": "The favor of a reply is requested.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お目にかかれて幸いです。",
+      "reading": null,
+      "english": "I'm very happy to know you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "いくらかでもあなたのお役に立てれば幸いです。",
+      "reading": null,
+      "english": "I would be happy to be of any service to you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

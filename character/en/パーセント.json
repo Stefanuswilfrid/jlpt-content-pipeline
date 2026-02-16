@@ -1,0 +1,41 @@
+{
+  "definition": {
+    "word": "パーセント",
+    "reading": "パーセント",
+    "romaji": "paasento",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "percent",
+          "per cent",
+          "percentage"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その会社は売上が１５パーセント低下した。",
+      "reading": null,
+      "english": "The company suffered a 15% drop in sales.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "陸地は地球の表面の約３０パーセントをおおっています。",
+      "reading": null,
+      "english": "Land covers about 30 percent of the surface of the earth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

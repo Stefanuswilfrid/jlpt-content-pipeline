@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "就く",
+    "reading": "つく",
+    "romaji": "tsuku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menetap di (suatu tempat)",
+          "mengambil (posisi tempat duduk)",
+          "belajar (di bawah bimbingan guru)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to ascend (the throne)",
+          "to accede"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to start (on a journey)",
+          "to commence",
+          "to depart"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to study (under teacher)",
+          "to be an apprentice"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "就職",
+      "reading": "しゅうしょく",
+      "meaning": "mencari pekerjaan"
+    },
+    {
+      "word": "就任",
+      "reading": "しゅうにん",
+      "meaning": "pelantikan, pengangkatan jabatan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "華を去り実に就く",
+      "reading": "かをさりじつにつく",
+      "meaning": "to seek results, not show",
+      "type": "idiom"
+    },
+    {
+      "word": "水の低きに就くが如し",
+      "reading": "みずのひくきにつくがごとし",
+      "meaning": "nature takes its course",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

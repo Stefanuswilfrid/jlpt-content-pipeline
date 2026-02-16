@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "何も",
+    "reading": "なにも",
+    "romaji": "nanimo",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "Tidak ada apa-apa"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "and everything else",
+          "and all"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "(not) at all",
+          "(not) in the least",
+          "(not) especially",
+          "(not) to that extent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "entah bagaimana, dengan cara apa pun, dengan satu atau lain cara"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "dengan segala cara, semuanya"
+    },
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "sesuatu"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "Mengapa, untuk apa?"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の父さんは君のためにあんなにも苦労したのだ。",
+      "reading": null,
+      "indonesian": "Your father went through all that trouble for your sake.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もし空気と水がなければなにものも生きていけない。",
+      "reading": null,
+      "indonesian": "If it were not for air and water, nothing could live.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なにもすることがないから、テレビを見たっていいだろう。",
+      "reading": null,
+      "indonesian": "There's nothing to do, so I may as well watch television.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうしてなにも言わなかったのですか。",
+      "reading": null,
+      "indonesian": "Why didn't you say anything?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そういうわけで、それはそんなにも大変な仕事だ。",
+      "reading": null,
+      "indonesian": "It is such a hard job for that reason.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

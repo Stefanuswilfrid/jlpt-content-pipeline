@@ -1,0 +1,112 @@
+{
+  "definition": {
+    "word": "首",
+    "reading": "くび",
+    "romaji": "kubi",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "leher"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "head"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dismissal (from a job)",
+          "firing",
+          "sacking"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "Perdana Menteri"
+    },
+    {
+      "word": "首都",
+      "reading": "しゅと",
+      "meaning": "ibu kota"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "思案投首",
+      "reading": "しあんなげくび",
+      "meaning": "being at one's wit's end",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "首を切る",
+      "reading": "くびをきる",
+      "meaning": "to fire from a job",
+      "type": "idiom"
+    },
+    {
+      "word": "首を長くする",
+      "reading": "くびをながくする",
+      "meaning": "to eagerly look forward to",
+      "type": "idiom"
+    },
+    {
+      "word": "首尾一貫",
+      "reading": "しゅびいっかん",
+      "meaning": "consistent",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "閉口頓首",
+      "reading": "へいこうとんしゅ",
+      "meaning": "being at a complete loss as to what to do",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鳩首協議",
+      "reading": "きゅうしゅきょうぎ",
+      "meaning": "put heads together and confer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鳩首凝議",
+      "reading": "きゅうしゅぎょうぎ",
+      "meaning": "put heads together and confer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鳩首謀議",
+      "reading": "きゅうしゅぼうぎ",
+      "meaning": "go into a huddle (over)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "首鼠両端",
+      "reading": "しゅそりょうたん",
+      "meaning": "being unable to make up one's mind",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "首尾貫徹",
+      "reading": "しゅびかんてつ",
+      "meaning": "(logical) consistency",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

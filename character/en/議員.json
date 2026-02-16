@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "議員",
+    "reading": "ぎいん",
+    "romaji": "giin",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "member of an assembly",
+          "member of the Diet",
+          "member of parliament",
+          "member of Congress"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "congress"
+    },
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "chair"
+    },
+    {
+      "word": "協議",
+      "reading": "きょうぎ",
+      "meaning": "conference"
+    },
+    {
+      "word": "委員",
+      "reading": "いいん",
+      "meaning": "committee member"
+    },
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "member"
+    },
+    {
+      "word": "議論",
+      "reading": "ぎろん",
+      "meaning": "argument"
+    },
+    {
+      "word": "全員",
+      "reading": "ぜんいん",
+      "meaning": "all members"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "wonderful"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "meeting"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その問題で上院議員の意見が分かれた。",
+      "reading": null,
+      "english": "The issue divided the senators.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

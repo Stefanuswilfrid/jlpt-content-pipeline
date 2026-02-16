@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "即ち",
+    "reading": "すなわち",
+    "romaji": "sunawachi",
+    "jlpt": "N3",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "yaitu",
+          "misalnya",
+          ""
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "precisely",
+          "exactly",
+          "just",
+          "nothing but",
+          "neither more nor less"
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "(and) then"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "就く",
+      "reading": "つく",
+      "meaning": "menetap di (suatu tempat), mengambil (posisi tempat duduk), belajar (di bawah bimbingan guru)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "パーティーが来週の土曜日すなわち８月２５日に行われる。",
+      "reading": null,
+      "indonesian": "A party will be held next Saturday, that is to say, on August 25th.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは３年後、すなわち１９６５年に起こった。",
+      "reading": null,
+      "indonesian": "It happened three years later, that is in 1965.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは１週間前、すなわち４月２日に行われた。",
+      "reading": null,
+      "indonesian": "It was due a week ago, namely on April second.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この次の火曜日、すなわち９月１０日に君に会いたい。",
+      "reading": null,
+      "indonesian": "I will see you on next Tuesday, that is to say, the 10th of September.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

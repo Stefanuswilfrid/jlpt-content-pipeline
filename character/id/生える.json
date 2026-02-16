@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "生える",
+    "reading": "はえる",
+    "romaji": "haeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "tumbuh",
+          "muncul; tumbuh (gigi)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to cut (teeth)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生る",
+      "reading": "なる",
+      "meaning": "berbuah"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "kelahiran"
+    },
+    {
+      "word": "生長",
+      "reading": "せいちょう",
+      "meaning": "pertumbuhan"
+    },
+    {
+      "word": "生じる",
+      "reading": "しょうじる",
+      "meaning": "terjadi, muncul, dihasilkan"
+    },
+    {
+      "word": "生存",
+      "reading": "せいぞん",
+      "meaning": "eksistensi, keberadaan, kelangsungan hidup"
+    },
+    {
+      "word": "生ずる",
+      "reading": "しょうずる",
+      "meaning": "menyebabkan, menimbulkan, dihasilkan"
+    },
+    {
+      "word": "生まれる",
+      "reading": "うまれる",
+      "meaning": "dilahirkan"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "hidup, kehidupan; untuk hidup"
+    },
+    {
+      "word": "生きる",
+      "reading": "いきる",
+      "meaning": "untuk hidup"
+    },
+    {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "seumur hidup seseorang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "カビが生える",
+      "reading": "カビがはえる",
+      "meaning": "to get moldy",
+      "type": "idiom"
+    },
+    {
+      "word": "根が生える",
+      "reading": "ねがはえる",
+      "meaning": "to be unmovable",
+      "type": "idiom"
+    },
+    {
+      "word": "ぺんぺん草が生える",
+      "reading": "ぺんぺんぐさがはえる",
+      "meaning": "to be in ruins",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "植物が生える。",
+      "reading": null,
+      "indonesian": "Plants grow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "植物が生える。",
+      "reading": null,
+      "indonesian": "Plants grow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

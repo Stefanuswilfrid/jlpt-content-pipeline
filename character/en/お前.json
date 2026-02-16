@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "お前",
+    "reading": "おまえ",
+    "romaji": "omae",
+    "jlpt": "N3",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "before (a god, nobleman, etc.)",
+          "in front of"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "以前",
+      "reading": "いぜん",
+      "meaning": "before"
+    },
+    {
+      "word": "前進",
+      "reading": "ぜんしん",
+      "meaning": "advance"
+    },
+    {
+      "word": "当たり前",
+      "reading": "あたりまえ",
+      "meaning": "natural"
+    },
+    {
+      "word": "前者",
+      "reading": "ぜんしゃ",
+      "meaning": "the former"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "世界はお前中心に回ってるわけじゃないんだよ。",
+      "reading": null,
+      "english": "The world doesn't revolve around you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お前が行くべきなんだよ。",
+      "reading": null,
+      "english": "You have to go.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お前、顔色悪いぞ。",
+      "reading": null,
+      "english": "You look pale.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お前、泳げないんだよな？",
+      "reading": null,
+      "english": "You can't swim, can you?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お前は馬鹿なことするような子じゃないよな。",
+      "reading": null,
+      "english": "You should know better.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お前も、もうこれぐらい分かる年だろ。",
+      "reading": null,
+      "english": "You are old enough to know this.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お前何してるんだ？",
+      "reading": null,
+      "english": "What are you doing?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

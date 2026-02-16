@@ -1,0 +1,203 @@
+{
+  "definition": {
+    "word": "出入り",
+    "reading": "でいり",
+    "romaji": "deiri",
+    "jlpt": "N2",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "masuk dan keluar",
+          "datang dan pergi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "visiting regularly",
+          "frequenting",
+          "having regular dealings with"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "income and expenditure",
+          "incomings and outgoings"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "increase and decrease",
+          "surplus and deficit",
+          "fluctuation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fight",
+          "trouble",
+          "quarrel",
+          "dispute"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "indentations (e.g. of a coastline)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見出し",
+      "reading": "みだし",
+      "meaning": "judul, indeks"
+    },
+    {
+      "word": "日の入り",
+      "reading": "ひのいり",
+      "meaning": "matahari terbenam"
+    },
+    {
+      "word": "出勤",
+      "reading": "しゅっきん",
+      "meaning": "pergi bekerja, di tempat kerja"
+    },
+    {
+      "word": "侵入",
+      "reading": "しんにゅう",
+      "meaning": "invasi, penyerbuan, pelanggaran batas"
+    },
+    {
+      "word": "手入れ",
+      "reading": "ていれ",
+      "meaning": "perbaikan, pemeliharaan"
+    },
+    {
+      "word": "日の出",
+      "reading": "ひので",
+      "meaning": "matahari terbit"
+    },
+    {
+      "word": "入社",
+      "reading": "にゅうしゃ",
+      "meaning": "masuk ke perusahaan"
+    },
+    {
+      "word": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "kunjungan resmi, perjalanan bisnis"
+    },
+    {
+      "word": "出迎え",
+      "reading": "でむかえ",
+      "meaning": "pertemuan, resepsi"
+    },
+    {
+      "word": "出来上がり",
+      "reading": "できあがり",
+      "meaning": "selesai, siap"
+    },
+    {
+      "word": "出来上がる",
+      "reading": "できあがる",
+      "meaning": "untuk diselesaikan, untuk siap"
+    },
+    {
+      "word": "入れ物",
+      "reading": "いれもの",
+      "meaning": "wadah, kotak"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "pertemuan, kencan, perjumpaan"
+    },
+    {
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "jalan keluar"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そのドアから台所へ出入りできる。",
+      "reading": null,
+      "indonesian": "The door gives access to the kitchen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "乗務員がただいま出入り口を開けております。",
+      "reading": null,
+      "indonesian": "The crew is now opening the hatch.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "出入り口は開けたままになっていた。",
+      "reading": null,
+      "indonesian": "The gate was left open.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのドアから台所へ出入りできる。",
+      "reading": null,
+      "indonesian": "The door gives access to the kitchen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "出入り口は開けたままになっていた。",
+      "reading": null,
+      "indonesian": "The gate was left open.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "乗務員がただいま出入り口を開けております。",
+      "reading": null,
+      "indonesian": "The crew is now opening the hatch.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "大学都市には、絶え間ない人の出入りがある。",
+      "reading": null,
+      "indonesian": "People are forever going in and out of university towns.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

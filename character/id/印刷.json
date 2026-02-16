@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "印刷",
+    "reading": "いんさつ",
+    "romaji": "insatsu",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pencetakan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "印象",
+      "reading": "いんしょう",
+      "meaning": "kesan"
+    },
+    {
+      "word": "印",
+      "reading": "しるし",
+      "meaning": "tanda; simbol; bukti"
+    },
+    {
+      "word": "刷る",
+      "reading": "する",
+      "meaning": "untuk mencetak"
+    },
+    {
+      "word": "印",
+      "reading": "いん",
+      "meaning": "tanda; simbol; bukti"
+    },
+    {
+      "word": "目印",
+      "reading": "めじるし",
+      "meaning": "tanda, lambang, penanda"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "印刷インキが不足している。",
+      "reading": null,
+      "indonesian": "Printing ink is in short supply.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その通知はひどい印刷だった。",
+      "reading": null,
+      "indonesian": "The notice was badly printed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その記者は新聞が印刷される直前に記事を送った。",
+      "reading": null,
+      "indonesian": "The reporter filed his story just before the paper went to press.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのニュースは急いで印刷された。",
+      "reading": null,
+      "indonesian": "The news was rushed into print.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この本は来年印刷されるでしょう。",
+      "reading": null,
+      "indonesian": "This book will be printed next year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この本は英国で印刷された。",
+      "reading": null,
+      "indonesian": "This book was printed in England.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

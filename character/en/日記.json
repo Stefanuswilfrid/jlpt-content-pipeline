@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "日記",
+    "reading": "にっき",
+    "romaji": "nikki",
+    "jlpt": "N4",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "diary",
+          "journal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "日",
+      "reading": "ひ",
+      "meaning": "day"
+    },
+    {
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "Sunday"
+    },
+    {
+      "word": "日",
+      "reading": "にち",
+      "meaning": "Sunday"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "today"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "commemoration"
+    },
+    {
+      "word": "日常",
+      "reading": "にちじょう",
+      "meaning": "everyday"
+    },
+    {
+      "word": "日中",
+      "reading": "にっちゅう",
+      "meaning": "daytime"
+    },
+    {
+      "word": "曜日",
+      "reading": "ようび",
+      "meaning": "day of the week"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "日記をつけていますか。",
+      "reading": null,
+      "english": "Do you keep a diary?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ところであなたがたの中で何人日記をつけていますか。",
+      "reading": null,
+      "english": "By the way, how many of you are keeping a diary?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけなければならない。",
+      "reading": null,
+      "english": "We must keep a diary every day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけなければならない。",
+      "reading": null,
+      "english": "I must write in my diary every day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけている。",
+      "reading": null,
+      "english": "I keep a diary every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけている。",
+      "reading": null,
+      "english": "I write in my diary every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "父は毎日日記をつけている。",
+      "reading": null,
+      "english": "Father keeps a diary every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

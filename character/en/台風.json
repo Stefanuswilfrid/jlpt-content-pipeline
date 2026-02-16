@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "台風",
+    "reading": "たいふう",
+    "romaji": "taifuu",
+    "jlpt": "N4",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "typhoon",
+          "hurricane"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "舞台",
+      "reading": "ぶたい",
+      "meaning": "stage (of a theatre, concert hall, etc.)"
+    },
+    {
+      "word": "風景",
+      "reading": "ふうけい",
+      "meaning": "scenery"
+    },
+    {
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "kitchen"
+    },
+    {
+      "word": "風邪",
+      "reading": "かぜ",
+      "meaning": "(common) cold"
+    },
+    {
+      "word": "風",
+      "reading": "かぜ",
+      "meaning": "wind"
+    },
+    {
+      "word": "風",
+      "reading": "ふう",
+      "meaning": "method"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "台風一過",
+      "reading": "たいふういっか",
+      "meaning": "clear weather after a typhoon has passed",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "会は台風のため中止になった。",
+      "reading": null,
+      "english": "The meeting was canceled because of the typhoon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その台風はその地方に多くの雨をもたらした。",
+      "reading": null,
+      "english": "The typhoon brought lots of rain to that area.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "さしあたり大きな台風はこないだろう。",
+      "reading": null,
+      "english": "There will be no big typhoon for the moment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

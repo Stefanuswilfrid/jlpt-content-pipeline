@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "説く",
+    "reading": "とく",
+    "romaji": "toku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to explain",
+          "to preach",
+          "to advocate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to persuade",
+          "to prevail upon",
+          "to reason with",
+          "to urge (someone to do)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "explanation"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "explanation"
+    },
+    {
+      "word": "説",
+      "reading": "せつ",
+      "meaning": "theory"
+    },
+    {
+      "word": "演説",
+      "reading": "えんぜつ",
+      "meaning": "speech"
+    },
+    {
+      "word": "社説",
+      "reading": "しゃせつ",
+      "meaning": "editorial"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

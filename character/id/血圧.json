@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "血圧",
+    "reading": "けつあつ",
+    "romaji": "ketsuatsu",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tekanan darah"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "気圧",
+      "reading": "きあつ",
+      "meaning": "tekanan atmosfer"
+    },
+    {
+      "word": "圧縮",
+      "reading": "あっしゅく",
+      "meaning": "kompresi, kondensasi, tekanan"
+    },
+    {
+      "word": "輸血",
+      "reading": "ゆけつ",
+      "meaning": "transfusi darah"
+    },
+    {
+      "word": "血液",
+      "reading": "けつえき",
+      "meaning": "darah"
+    },
+    {
+      "word": "出血",
+      "reading": "しゅっけつ",
+      "meaning": "perdarahan"
+    },
+    {
+      "word": "血管",
+      "reading": "けっかん",
+      "meaning": "pembuluh darah"
+    },
+    {
+      "word": "圧倒",
+      "reading": "あっとう",
+      "meaning": "mengalahkan, menaklukkan"
+    },
+    {
+      "word": "抑圧",
+      "reading": "よくあつ",
+      "meaning": "pengekangan, penindasan, represi"
+    },
+    {
+      "word": "圧迫",
+      "reading": "あっぱく",
+      "meaning": "tekanan, paksaan, penindasan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "塩分の高い食事をとると、高血圧の原因になるかもしれない。",
+      "reading": null,
+      "indonesian": "Maintaining a high salt diet may contribute to high blood pressure.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "血圧計が大切な検査器械です。",
+      "reading": null,
+      "indonesian": "The sphygmomanometer is an important diagnostic instrument.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "低血圧なんです。",
+      "reading": null,
+      "indonesian": "I have low blood pressure.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は血圧が低いです。",
+      "reading": null,
+      "indonesian": "I have low blood pressure.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は血圧が低いです。",
+      "reading": null,
+      "indonesian": "My blood pressure is low.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "高血圧です。",
+      "reading": null,
+      "indonesian": "I have high blood pressure.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "血圧計の数値は？",
+      "reading": null,
+      "indonesian": "What's the reading on the blood pressure monitor?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "血圧を計りましょう。",
+      "reading": null,
+      "indonesian": "Let me take your blood pressure.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "血圧を計りましょう。",
+      "reading": null,
+      "indonesian": "Let me check your blood pressure.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

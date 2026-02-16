@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "休息",
+    "reading": "きゅうそく",
+    "romaji": "kyuusoku",
+    "jlpt": "N3",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "istirahat",
+          "lega",
+          "relaksasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "休暇",
+      "reading": "きゅうか",
+      "meaning": "liburan, hari libur, cuti"
+    },
+    {
+      "word": "息",
+      "reading": "いき",
+      "meaning": "napas"
+    },
+    {
+      "word": "休憩",
+      "reading": "きゅうけい",
+      "meaning": "istirahat, jeda, istirahat sejenak"
+    },
+    {
+      "word": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "istirahat makan siang, istirahat siang"
+    },
+    {
+      "word": "休む",
+      "reading": "やすむ",
+      "meaning": "untuk beristirahat, untuk mengambil cuti, untuk libur"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "休息をとったほうがいいよ。",
+      "reading": null,
+      "indonesian": "I think you had better take a rest.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "休息をすれば必ず気分がさわやかに感じる。",
+      "reading": null,
+      "indonesian": "If we were to rest a little, we would feel surely feel much more refreshed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "休息しろ。",
+      "reading": null,
+      "indonesian": "Take a rest.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "十分に休息を取るようにしなさい。",
+      "reading": null,
+      "indonesian": "Make sure you get plenty of rest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

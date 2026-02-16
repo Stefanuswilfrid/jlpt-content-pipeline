@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "不足",
+    "reading": "ふそく",
+    "romaji": "fusoku",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "insufficiency",
+          "deficiency",
+          "shortage",
+          "lack",
+          "scarcity",
+          "deficit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "dissatisfaction",
+          "discontent",
+          "complaint"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "anxiety"
+    },
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "dissatisfaction"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "injustice"
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaning": "satisfaction"
+    },
+    {
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "discomfort"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "unhappiness"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "disadvantage"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "wonderful"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "wrong"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "suspension"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "discontent"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "tabi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "金不足になった。",
+      "reading": null,
+      "english": "We ran short of money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お金が不足している。",
+      "reading": null,
+      "english": "I am short of money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

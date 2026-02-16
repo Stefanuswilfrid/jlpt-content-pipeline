@@ -1,0 +1,219 @@
+{
+  "definition": {
+    "word": "身",
+    "reading": "み",
+    "romaji": "mi",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's body",
+          "one's person"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "oneself",
+          "one's appearance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's place (in society, etc.)",
+          "one's position"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "main part",
+          "meat (as opposed to bone, skin, etc.)",
+          "wood (as opposed to bark)",
+          "blade (as opposed to its handle)",
+          "container (as opposed to its lid)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "自身",
+      "reading": "じしん",
+      "meaning": "(one's) self"
+    },
+    {
+      "word": "出身",
+      "reading": "しゅっしん",
+      "meaning": "one's origin (e.g. city, country, parentage, school)"
+    },
+    {
+      "word": "中身",
+      "reading": "なかみ",
+      "meaning": "contents"
+    },
+    {
+      "word": "身長",
+      "reading": "しんちょう",
+      "meaning": "height (of a person)"
+    },
+    {
+      "word": "全身",
+      "reading": "ぜんしん",
+      "meaning": "whole (body)"
+    },
+    {
+      "word": "独身",
+      "reading": "どくしん",
+      "meaning": "unmarried"
+    },
+    {
+      "word": "身体",
+      "reading": "しんたい",
+      "meaning": "body"
+    },
+    {
+      "word": "味方",
+      "reading": "みかた",
+      "meaning": "friend"
+    },
+    {
+      "word": "体",
+      "reading": "からだ",
+      "meaning": "body"
+    },
+    {
+      "word": "身分",
+      "reading": "みぶん",
+      "meaning": "(social) standing"
+    },
+    {
+      "word": "心身",
+      "reading": "しんしん",
+      "meaning": "mind and body"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "半身不随",
+      "reading": "はんしんふずい",
+      "meaning": "hemiplegia (paralysis on one side of the body)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "全身全霊",
+      "reading": "ぜんしんぜんれい",
+      "meaning": "complete devotion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "立身出世",
+      "reading": "りっしんしゅっせ",
+      "meaning": "success in life",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "身から出た錆",
+      "reading": "みからでたさび",
+      "meaning": "paying for one's mistakes",
+      "type": "idiom"
+    },
+    {
+      "word": "人身攻撃",
+      "reading": "じんしんこうげき",
+      "meaning": "personal attack",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "低頭平身",
+      "reading": "ていとうへいしん",
+      "meaning": "prostrating oneself",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "粉骨砕身",
+      "reading": "ふんこつさいしん",
+      "meaning": "making one's best exertions",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "平身低頭",
+      "reading": "へいしんていとう",
+      "meaning": "prostrating oneself",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "満身創痍",
+      "reading": "まんしんそうい",
+      "meaning": "having wounds all over one's body",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "即身成仏",
+      "reading": "そくしんじょうぶつ",
+      "meaning": "attainment of Buddhahood during life",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "物事は、ありのまま見るのではなく、自分自身をそこに見る。",
+      "reading": null,
+      "english": "We don't see things as they are, but as we are.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "物事は、ありのまま見るのではなく、自分自身をそこに見る。",
+      "reading": null,
+      "english": "We don't see things as they are, but as we are.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ご出身はどちらですか。",
+      "reading": null,
+      "english": "Where do you come from?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ご出身はどちらですか。",
+      "reading": null,
+      "english": "Where are you from?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は君自身の運命の主でもあります。",
+      "reading": null,
+      "english": "You are the master of your own destiny.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "身長はどれくらいですか。",
+      "reading": null,
+      "english": "How tall are you?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

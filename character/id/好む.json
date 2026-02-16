@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "好む",
+    "reading": "このむ",
+    "romaji": "konomu",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menyukai",
+          "lebih menyukai"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "友好",
+      "reading": "ゆうこう",
+      "meaning": "persahabatan"
+    },
+    {
+      "word": "好み",
+      "reading": "このみ",
+      "meaning": "kesukaan, selera, pilihan"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "semoga beruntung, nasib baik"
+    },
+    {
+      "word": "良い",
+      "reading": "よい",
+      "meaning": "bagus, menyenangkan"
+    },
+    {
+      "word": "好き好き",
+      "reading": "すきずき",
+      "meaning": "masalah selera"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "英雄色を好む",
+      "reading": "えいゆういろをこのむ",
+      "meaning": "great men have great fondness for the sensual pleasures",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "なべて言うと、アメリカ人はコーヒーを好む。",
+      "reading": null,
+      "indonesian": "Generally speaking, Americans like coffee.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "好もうと好むまいと、君はそれをしなくてはならない。",
+      "reading": null,
+      "indonesian": "You'll have to do it, whether you like it or not.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アメリカ人が野球を好むように、イギリス人はクリケットを好む。",
+      "reading": null,
+      "indonesian": "Just as the Americans like baseball, the British like cricket.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは好むと好まざるとに関わらず、行かなければならない。",
+      "reading": null,
+      "indonesian": "You have to go whether you like it or not.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

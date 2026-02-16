@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "徹底",
+    "reading": "てってい",
+    "romaji": "tettei",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "ketelitian",
+          "kelengkapan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "thorough enforcement",
+          "seeing to it that a policy, etc. is carried out without exception"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "底",
+      "reading": "そこ",
+      "meaning": "bagian bawah, telapak kaki"
+    },
+    {
+      "word": "徹夜",
+      "reading": "てつや",
+      "meaning": "Begadang sepanjang malam, tidak bisa tidur"
+    },
+    {
+      "word": "通す",
+      "reading": "とおす",
+      "meaning": "membiarkan berlalu, mengabaikan, melanjutkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "周知徹底",
+      "reading": "しゅうちてってい",
+      "meaning": "making (something) known to everyone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "大悟徹底",
+      "reading": "たいごてってい",
+      "meaning": "attain divine enlightenment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "凡事徹底",
+      "reading": "ぼんじてってい",
+      "meaning": "doing mundane things properly and thoroughly",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

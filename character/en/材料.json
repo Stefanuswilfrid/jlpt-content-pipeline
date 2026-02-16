@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "材料",
+    "reading": "ざいりょう",
+    "romaji": "zairyou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "materials",
+          "ingredients"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "material (for a novel, experiment, etc.)",
+          "subject matter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "grounds (for a decision, judgement, etc.)",
+          "basis",
+          "evidence",
+          "data"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(market) factor"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "free (of charge)"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "fee"
+    },
+    {
+      "word": "食料",
+      "reading": "しょくりょう",
+      "meaning": "food"
+    },
+    {
+      "word": "給料",
+      "reading": "きゅうりょう",
+      "meaning": "salary"
+    },
+    {
+      "word": "衣料",
+      "reading": "いりょう",
+      "meaning": "clothing"
+    },
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "textbook"
+    },
+    {
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "material"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "cooking"
+    },
+    {
+      "word": "木材",
+      "reading": "もくざい",
+      "meaning": "lumber"
+    },
+    {
+      "word": "原料",
+      "reading": "げんりょう",
+      "meaning": "raw materials"
+    },
+    {
+      "word": "有料",
+      "reading": "ゆうりょう",
+      "meaning": "fee-charging"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "材料は何ですか？",
+      "reading": null,
+      "english": "What are they made of?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その小説家は本を書くために材料を集めた。",
+      "reading": null,
+      "english": "The novelist gathered materials for his work.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すぐれた材料で作られた家具は、売れ行きがよい。",
+      "reading": null,
+      "english": "Furniture made of good materials sells well.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すき焼きはどんな材料を使うのですか。",
+      "reading": null,
+      "english": "What is sukiyaki made of?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このケーキは最高の材料で作られている。",
+      "reading": null,
+      "english": "This cake is made of the finest ingredients.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このＢＬＴという料理は、どんな材料なのですか。",
+      "reading": null,
+      "english": "This food called BLT; what's in it?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

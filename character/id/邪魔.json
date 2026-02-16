@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "邪魔",
+    "reading": "じゃま",
+    "romaji": "jama",
+    "jlpt": "N4",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "halangan",
+          "gangguan"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to visit (someone's home)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "demon who hinders Buddhist training",
+          "demon who obstructs sentient beings from maintaining moral behaviour"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "風邪",
+      "reading": "かぜ",
+      "meaning": "pilek, flu"
+    },
+    {
+      "word": "悪魔",
+      "reading": "あくま",
+      "meaning": "setan, iblis, roh jahat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "邪魔を入れる",
+      "reading": "じゃまをいれる",
+      "meaning": "to interfere",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

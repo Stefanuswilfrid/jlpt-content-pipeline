@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "痛める",
+    "reading": "いためる",
+    "romaji": "itameru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "merusak",
+          "mengurangi kualitas",
+          "menghancurkan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to harm",
+          "to damage",
+          "to spoil"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to worry",
+          "to bother",
+          "to be grieved over",
+          "to afflict"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cause financial loss",
+          "to hurt one's pocket"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "痛み",
+      "reading": "いたみ",
+      "meaning": "nyeri, sakit, pegal"
+    },
+    {
+      "word": "苦痛",
+      "reading": "くつう",
+      "meaning": "rasa sakit, penderitaan"
+    },
+    {
+      "word": "頭痛",
+      "reading": "ずつう",
+      "meaning": "sakit kepala"
+    },
+    {
+      "word": "痛い",
+      "reading": "いたい",
+      "meaning": "sakit; nyeri; pegal"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心を痛める",
+      "reading": "こころをいためる",
+      "meaning": "to worry (about)",
+      "type": "idiom"
+    },
+    {
+      "word": "腹を痛める",
+      "reading": "はらをいためる",
+      "meaning": "to give birth to",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

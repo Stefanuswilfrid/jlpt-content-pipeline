@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "拾う",
+    "reading": "ひろう",
+    "romaji": "hirou",
+    "jlpt": "N4",
+    "frequency": 19250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pick up",
+          "to gather"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to find (and pick up; something someone has dropped)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to select",
+          "to choose",
+          "to pick out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to get (unexpectedly)",
+          "to hit upon (luck, an opportunity, etc.)",
+          "to snatch (an unexpected victory)",
+          "to pull off"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pick up (someone; in a car, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "火中の栗を拾う",
+      "reading": "かちゅうのくりをひろう",
+      "meaning": "to take a risk for someone",
+      "type": "idiom"
+    },
+    {
+      "word": "捨てる神あれば拾う神あり",
+      "reading": "すてるかみあればひろうかみあり",
+      "meaning": "when one door is shut, another is open",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

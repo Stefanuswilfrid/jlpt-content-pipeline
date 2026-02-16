@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "略す",
+    "reading": "りゃくす",
+    "romaji": "ryakusu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to abbreviate",
+          "to abridge",
+          "to shorten"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to omit",
+          "to leave out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take",
+          "to capture",
+          "to steal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "侵略",
+      "reading": "しんりゃく",
+      "meaning": "invasion (e.g. of a country)"
+    },
+    {
+      "word": "略奪",
+      "reading": "りゃくだつ",
+      "meaning": "pillage"
+    },
+    {
+      "word": "省略",
+      "reading": "しょうりゃく",
+      "meaning": "omission"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その文からこの言葉を省略すべきです。",
+      "reading": null,
+      "english": "You should omit this word from the sentence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その文からこの言葉を省略すべきです。",
+      "reading": null,
+      "english": "You should omit this word from the sentence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

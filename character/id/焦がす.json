@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "焦がす",
+    "reading": "こがす",
+    "romaji": "kogasu",
+    "jlpt": "N2",
+    "frequency": 22750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membakar",
+          "menghanguskan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "焦点",
+      "reading": "しょうてん",
+      "meaning": "fokus, titik"
+    },
+    {
+      "word": "焦げる",
+      "reading": "こげる",
+      "meaning": "terbakar, dibakar"
+    },
+    {
+      "word": "焦る",
+      "reading": "あせる",
+      "meaning": "terburu-buru, tidak sabar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "鳴く蝉よりも鳴かぬ蛍が身を焦がす",
+      "reading": "なくせみよりもなかぬほたるがみをこがす",
+      "meaning": "empty vessels make the most noise",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

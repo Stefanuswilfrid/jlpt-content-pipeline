@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "略す",
+    "reading": "りゃくす",
+    "romaji": "ryakusu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menyingkat"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to omit",
+          "to leave out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take",
+          "to capture",
+          "to steal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "侵略",
+      "reading": "しんりゃく",
+      "meaning": "agresi, invasi, penyerbuan"
+    },
+    {
+      "word": "略奪",
+      "reading": "りゃくだつ",
+      "meaning": "penjarahan, perampokan"
+    },
+    {
+      "word": "省略",
+      "reading": "しょうりゃく",
+      "meaning": "penghilangan, singkatan, ringkasan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その文からこの言葉を省略すべきです。",
+      "reading": null,
+      "indonesian": "You should omit this word from the sentence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その文からこの言葉を省略すべきです。",
+      "reading": null,
+      "indonesian": "You should omit this word from the sentence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

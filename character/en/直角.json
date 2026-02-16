@@ -1,0 +1,202 @@
+{
+  "definition": {
+    "word": "直角",
+    "reading": "ちょっかく",
+    "romaji": "chokkaku",
+    "jlpt": "N2",
+    "frequency": 16750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "right angle"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "直後",
+      "reading": "ちょくご",
+      "meaning": "immediately following"
+    },
+    {
+      "word": "直前",
+      "reading": "ちょくぜん",
+      "meaning": "just before"
+    },
+    {
+      "word": "素直",
+      "reading": "すなお",
+      "meaning": "obedient"
+    },
+    {
+      "word": "角度",
+      "reading": "かくど",
+      "meaning": "angle"
+    },
+    {
+      "word": "仲直り",
+      "reading": "なかなおり",
+      "meaning": "reconciliation"
+    },
+    {
+      "word": "四つ角",
+      "reading": "よつかど",
+      "meaning": "four corners"
+    },
+    {
+      "word": "折角",
+      "reading": "せっかく",
+      "meaning": "with trouble"
+    },
+    {
+      "word": "直径",
+      "reading": "ちょっけい",
+      "meaning": "diameter"
+    },
+    {
+      "word": "直線",
+      "reading": "ちょくせん",
+      "meaning": "straight line"
+    },
+    {
+      "word": "三角",
+      "reading": "さんかく",
+      "meaning": "triangle"
+    },
+    {
+      "word": "街角",
+      "reading": "まちかど",
+      "meaning": "street corner"
+    },
+    {
+      "word": "垂直",
+      "reading": "すいちょく",
+      "meaning": "vertical"
+    },
+    {
+      "word": "直通",
+      "reading": "ちょくつう",
+      "meaning": "direct line"
+    },
+    {
+      "word": "方角",
+      "reading": "ほうがく",
+      "meaning": "direction"
+    },
+    {
+      "word": "直流",
+      "reading": "ちょくりゅう",
+      "meaning": "direct current"
+    },
+    {
+      "word": "相撲",
+      "reading": "すもう",
+      "meaning": "sumo (wrestling)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その直線は直角に交わっている。",
+      "reading": null,
+      "english": "The two lines cross each other at right angles.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その２つの線は直角に交わっている。",
+      "reading": null,
+      "english": "The two lines cross each other at right angles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの線は直角に交わる。",
+      "reading": null,
+      "english": "These lines meet at right angles.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これら２本の線は直角に交差している。",
+      "reading": null,
+      "english": "These two lines cut across each other at right angles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この２つの直線は直角に交わっている。",
+      "reading": null,
+      "english": "These two lines are at right angles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "９０度の角度は直角と呼ばれている。",
+      "reading": null,
+      "english": "An angle of 90 degrees is called a right angle.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "２本の通りは直角に交差している。",
+      "reading": null,
+      "english": "The two streets intersect at right angles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "直角は９０度である。",
+      "reading": null,
+      "english": "A right angle has ninety degrees.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その直線は直角に交わっている。",
+      "reading": null,
+      "english": "The two lines cross each other at right angles.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その２つの線は直角に交わっている。",
+      "reading": null,
+      "english": "The two lines cross each other at right angles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの線は直角に交わる。",
+      "reading": null,
+      "english": "These lines meet at right angles.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これら２本の線は直角に交差している。",
+      "reading": null,
+      "english": "These two lines cut across each other at right angles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

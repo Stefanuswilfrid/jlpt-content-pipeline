@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "畳む",
+    "reading": "たたむ",
+    "romaji": "tatamu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fold (clothes, umbrella)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to close (a shop, business)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to vacate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "畳",
+      "reading": "じょう",
+      "meaning": "tatami mat (esp. as a measure of room size, either 1.82 sqm or 1.54 sqm)"
+    },
+    {
+      "word": "畳",
+      "reading": "たたみ",
+      "meaning": "tatami mat"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

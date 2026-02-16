@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "サービス",
+    "reading": "サービス",
+    "romaji": "saabisu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "layanan",
+          "sistem pendukung; barang atau jasa tanpa biaya"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "discount",
+          "discounted item"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "free service",
+          "freebie",
+          "gift"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "service",
+          "utility",
+          "amenity",
+          "resource"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "(after-sales) service",
+          "servicing",
+          "(product) maintenance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "service (e.g. in tennis)",
+          "serve"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "機内では食事のサービスがつきます。",
+      "reading": null,
+      "indonesian": "Dinner will be served on board the plane.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わずかな追加料金で配達サービスが利用できます。",
+      "reading": null,
+      "indonesian": "You can use the delivery service for a small additional charge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ルームサービスはまだやっていますか。",
+      "reading": null,
+      "indonesian": "Is room service still available?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "むこうの銀行ならそのサービスを行っているでしょう。",
+      "reading": null,
+      "indonesian": "That bank over there would do the service.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

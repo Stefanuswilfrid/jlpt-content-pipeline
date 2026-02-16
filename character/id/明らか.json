@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "明らか",
+    "reading": "あきらか",
+    "romaji": "akiraka",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "jelas",
+          "terang"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "bright",
+          "light"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "明確",
+      "reading": "めいかく",
+      "meaning": "jelas, pasti"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "penemuan"
+    },
+    {
+      "word": "透明",
+      "reading": "とうめい",
+      "meaning": "transparansi, kebersihan"
+    },
+    {
+      "word": "声明",
+      "reading": "せいめい",
+      "meaning": "deklarasi, pernyataan, proklamasi"
+    },
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "peradaban"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "bukti, verifikasi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "火を見るより明らか",
+      "reading": "ひをみるよりあきらか",
+      "meaning": "clear as day",
+      "type": "idiom"
+    },
+    {
+      "word": "火を見るよりも明らか",
+      "reading": "ひをみるよりもあきらか",
+      "meaning": "clear as day",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "火元は明らかでない。",
+      "reading": null,
+      "indonesian": "The origin of the fire is unknown.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何をしなければならないかは明らかです。",
+      "reading": null,
+      "indonesian": "It is clear what must be done.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "運転者が十分に注意していなかったことは明らかだった。",
+      "reading": null,
+      "indonesian": "It was obvious that the driver had not been careful enough.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "市",
+    "reading": "いち",
+    "romaji": "ichi",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pasar",
+          "adil"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "市民",
+      "reading": "しみん",
+      "meaning": "warga negara"
+    },
+    {
+      "word": "市場",
+      "reading": "いちば",
+      "meaning": "(pasar) (sebagai sebuah konsep)"
+    },
+    {
+      "word": "市場",
+      "reading": "しじょう",
+      "meaning": "(pasar) (sebagai sebuah konsep)"
+    },
+    {
+      "word": "都市",
+      "reading": "とし",
+      "meaning": "kota, perkotaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "門前成市",
+      "reading": "もんぜんせいし",
+      "meaning": "having a constant stream of visitors",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "市井無頼",
+      "reading": "しせいぶらい",
+      "meaning": "urban villain",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "市に虎あり",
+      "reading": "いちにとらあり",
+      "meaning": "people will believe something false if many agree that it is true (an example of argumentum ad populum)",
+      "type": "proverb"
+    },
+    {
+      "word": "市に虎を放つ",
+      "reading": "いちにとらをはなつ",
+      "meaning": "to let a fox into the henhouse",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

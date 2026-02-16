@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "梅雨",
+    "reading": "つゆ",
+    "romaji": "tsuyu",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(East Asian) rainy season (in Japan, usu. from early June to mid-July)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rain during the rainy season"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "梅",
+      "reading": "うめ",
+      "meaning": "Japanese apricot (Prunus mume)"
+    },
+    {
+      "word": "雨",
+      "reading": "あめ",
+      "meaning": "rain"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "梅雨に入りましたね。",
+      "reading": null,
+      "english": "The rainy season has set in.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "梅雨に入ってしまったね。",
+      "reading": null,
+      "english": "The rainy season has set in.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "梅雨に入った。",
+      "reading": null,
+      "english": "The rainy season has set in.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "梅雨が始まった。",
+      "reading": null,
+      "english": "The rainy season has set in.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もうすぐ梅雨入りだ。",
+      "reading": null,
+      "english": "The rainy season is near at hand.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もう２週間かそこらで梅雨も終わるでしょう。",
+      "reading": null,
+      "english": "The rainy season will be over in another two weeks or so.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とうとう梅雨が終わったようだ。",
+      "reading": null,
+      "english": "It seems that the rainy season is over at last.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "明日から梅雨前線が活発になります。",
+      "reading": null,
+      "english": "The seasonal rain front is moving in tomorrow.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "万一明日梅雨に入ったらどうしよう。",
+      "reading": null,
+      "english": "What if the rainy season should set in tomorrow?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "梅雨らしく空はどんよりしている。",
+      "reading": null,
+      "english": "The sky is gloomy and gray - a typical rainy-season sky.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

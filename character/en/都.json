@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "都",
+    "reading": "みやこ",
+    "romaji": "miyako",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "capital (esp. Kyoto, Japan's former capital)",
+          "seat of government"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "capital (of music, fashion, etc.)",
+          "city (e.g. of light)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "location of the Imperial Palace"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "都合",
+      "reading": "つごう",
+      "meaning": "circumstances"
+    },
+    {
+      "word": "都市",
+      "reading": "とし",
+      "meaning": "town"
+    },
+    {
+      "word": "首都",
+      "reading": "しゅと",
+      "meaning": "capital (city)"
+    },
+    {
+      "word": "都会",
+      "reading": "とかい",
+      "meaning": "city"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "住めば都",
+      "reading": "すめばみやこ",
+      "meaning": "you can get used to living anywhere",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "止める",
+    "reading": "とめる",
+    "romaji": "tomeru",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stop",
+          "to turn off"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to park"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to prevent",
+          "to suppress (a cough)",
+          "to hold back (tears)",
+          "to hold (one's breath)",
+          "to relieve (pain)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stop (someone from doing something)",
+          "to dissuade",
+          "to forbid",
+          "to prohibit"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to notice",
+          "to be aware of",
+          "to concentrate on",
+          "to pay attention to",
+          "to remember",
+          "to bear in mind"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "止す",
+      "reading": "よす",
+      "meaning": "to stop (doing)"
+    },
+    {
+      "word": "禁止",
+      "reading": "きんし",
+      "meaning": "prohibition"
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "interruption"
+    },
+    {
+      "word": "止む",
+      "reading": "やむ",
+      "meaning": "to cease"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

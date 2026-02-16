@@ -1,0 +1,198 @@
+{
+  "definition": {
+    "word": "切れる",
+    "reading": "きれる",
+    "romaji": "kireru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to break",
+          "to snap",
+          "to be cut",
+          "to split",
+          "to crack"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be injured"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to wear out",
+          "to be worn out"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to break",
+          "to burst",
+          "to collapse"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to wear off",
+          "to stop working",
+          "to go dead"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to expire (time limit, etc.)",
+          "to run out",
+          "to become due"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to run out (of stock, etc.)",
+          "to be exhausted",
+          "to be used up",
+          "to be sold out",
+          "to be out of"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be broken off (e.g. of a relationship)",
+          "to break up",
+          "to have severed ties",
+          "to be cut off",
+          "to be disconnected"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaning": "to be sold out"
+    },
+    {
+      "word": "切り",
+      "reading": "きり",
+      "meaning": "end"
+    },
+    {
+      "word": "切れ",
+      "reading": "きれ",
+      "meaning": "piece"
+    },
+    {
+      "word": "裏切る",
+      "reading": "うらぎる",
+      "meaning": "to betray"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "頭が切れる",
+      "reading": "あたまがきれる",
+      "meaning": "to be sharp",
+      "type": "idiom"
+    },
+    {
+      "word": "手が切れる",
+      "reading": "てがきれる",
+      "meaning": "to break off with (e.g. one's lover)",
+      "type": "idiom"
+    },
+    {
+      "word": "油が切れる",
+      "reading": "あぶらがきれる",
+      "meaning": "to run out of oil",
+      "type": "idiom"
+    },
+    {
+      "word": "堪忍袋の緒が切れる",
+      "reading": "かんにんぶくろのおがきれる",
+      "meaning": "to be out of patience",
+      "type": "idiom"
+    },
+    {
+      "word": "金の鎖も引けば切れる",
+      "reading": "かねのくさりもひけばきれる",
+      "meaning": "even the strong-willed fall into temptation",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "チーズはナイフでたやすく切れる。",
+      "reading": null,
+      "english": "Cheese cuts easily with a knife.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのナイフはよく切れる。",
+      "reading": null,
+      "english": "The knife has a keen blade.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのケーキはすぐに売り切れるでしょう。",
+      "reading": null,
+      "english": "The cakes may be sold out soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このはさみは、よく切れる。",
+      "reading": null,
+      "english": "These scissors cut well.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このナイフはとてもよく切れる。",
+      "reading": null,
+      "english": "This knife is very sharp.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

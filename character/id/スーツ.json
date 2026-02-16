@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "スーツ",
+    "reading": "スーツ",
+    "romaji": "suutsu",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "setelan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "suit"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どこでスーツを作ったの？",
+      "reading": null,
+      "indonesian": "Where did you have your suit made?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのスーツケースの一つは空っぽだ。",
+      "reading": null,
+      "indonesian": "One of the suitcases is completely empty.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

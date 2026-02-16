@@ -1,0 +1,164 @@
+{
+  "definition": {
+    "word": "用",
+    "reading": "よう",
+    "romaji": "you",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tugas",
+          "pekerjaan",
+          "urusan (yang harus diurus)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "use",
+          "purpose"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "for the use of ...",
+          "used for ...",
+          "made for ..."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "call of nature",
+          "excretion"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "用意",
+      "reading": "ようい",
+      "meaning": "persiapan"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaning": "penggunaan, pemanfaatan"
+    },
+    {
+      "word": "用事",
+      "reading": "ようじ",
+      "meaning": "urusan yang harus diurus; tugas; pekerjaan kecil"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaning": "diperlukan"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "konjugasi; penggunaan praktis"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "利用価値",
+      "reading": "りようかち",
+      "meaning": "utility value",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "器用貧乏",
+      "reading": "きようびんぼう",
+      "meaning": "jack of all trades, master of none",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天地無用",
+      "reading": "てんちむよう",
+      "meaning": "do not turn upside down",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "同化作用",
+      "reading": "どうかさよう",
+      "meaning": "assimilation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "問答無用",
+      "reading": "もんどうむよう",
+      "meaning": "there being no use in arguing (about it)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "用意周到",
+      "reading": "よういしゅうとう",
+      "meaning": "very careful",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自浄作用",
+      "reading": "じじょうさよう",
+      "meaning": "autopurificatory activity (in the natural world)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自壊作用",
+      "reading": "じかいさよう",
+      "meaning": "(the act of) disintegration",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "職権乱用",
+      "reading": "しょっけんらんよう",
+      "meaning": "abuse of authority",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "他言無用",
+      "reading": "たごんむよう",
+      "meaning": "not a word to anyone",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何の用だ。",
+      "reading": null,
+      "indonesian": "What do you want?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "何のご用ですか。",
+      "reading": null,
+      "indonesian": "What do you want?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "何の用でここまできたのですか。",
+      "reading": null,
+      "indonesian": "What has brought you here?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "割り算",
+    "reading": "わりざん",
+    "romaji": "warizan",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "division"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "割引",
+      "reading": "わりびき",
+      "meaning": "discount"
+    },
+    {
+      "word": "掛け算",
+      "reading": "かけざん",
+      "meaning": "multiplication"
+    },
+    {
+      "word": "算盤",
+      "reading": "そろばん",
+      "meaning": "abacus"
+    },
+    {
+      "word": "算数",
+      "reading": "さんすう",
+      "meaning": "arithmetic"
+    },
+    {
+      "word": "時間割",
+      "reading": "じかんわり",
+      "meaning": "timetable (esp. a weekly school timetable)"
+    },
+    {
+      "word": "採算",
+      "reading": "さいさん",
+      "meaning": "profit"
+    },
+    {
+      "word": "換算",
+      "reading": "かんさん",
+      "meaning": "conversion (e.g. yen to dollars)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,45 @@
+{
+  "definition": {
+    "word": "糸",
+    "reading": "いと",
+    "romaji": "ito",
+    "jlpt": "N4",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "benang"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "糸目",
+      "reading": "いとめ",
+      "meaning": "fine line",
+      "type": "expression"
+    },
+    {
+      "word": "赤い糸で結ばれる",
+      "reading": "あかいいとでむすばれる",
+      "meaning": "to be meant for each other (of a man and woman)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この糸はすぐもつれる。",
+      "reading": null,
+      "indonesian": "This thread tangles easily.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

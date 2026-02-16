@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "何時でも",
+    "reading": "いつでも",
+    "romaji": "itsudemo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "always",
+          "all the time",
+          "at all times"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(at) any time",
+          "whenever (you like)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "why?"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    },
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "sometimes"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の都合がいい時にいつでも来てくれていいよ。",
+      "reading": null,
+      "english": "You can come and see me whenever it's convenient for you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わたしはいつでもあなたに助けられている。",
+      "reading": null,
+      "english": "I am always helped by you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もし予約があれば、いつでもチェックインできます。",
+      "reading": null,
+      "english": "Provided you have a reservation, you can check in anytime.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "またいつでもどうぞ。",
+      "reading": null,
+      "english": "Any time.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "マイクはいつでも冷静だ。",
+      "reading": null,
+      "english": "Mike always stays cool.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どんな本でも、いつでも買って読めます。",
+      "reading": null,
+      "english": "You can buy and read any kind of book at any time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

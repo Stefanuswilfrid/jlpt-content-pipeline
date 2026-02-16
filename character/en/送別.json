@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "送別",
+    "reading": "そうべつ",
+    "romaji": "soubetsu",
+    "jlpt": "N2",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "farewell",
+          "send-off"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "輸送",
+      "reading": "ゆそう",
+      "meaning": "transport"
+    },
+    {
+      "word": "見送る",
+      "reading": "みおくる",
+      "meaning": "to see (someone) off"
+    },
+    {
+      "word": "別荘",
+      "reading": "べっそう",
+      "meaning": "holiday house"
+    },
+    {
+      "word": "性別",
+      "reading": "せいべつ",
+      "meaning": "(distinction of) sex"
+    },
+    {
+      "word": "別々",
+      "reading": "べつべつ",
+      "meaning": "separate"
+    },
+    {
+      "word": "送り仮名",
+      "reading": "おくりがな",
+      "meaning": "kana written after a kanji to complete the full (usually kun) reading of the word"
+    },
+    {
+      "word": "郵送",
+      "reading": "ゆうそう",
+      "meaning": "mailing"
+    },
+    {
+      "word": "送料",
+      "reading": "そうりょう",
+      "meaning": "postage"
+    },
+    {
+      "word": "格別",
+      "reading": "かくべつ",
+      "meaning": "particular"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "スミスさんのために送別会が開かれた。",
+      "reading": null,
+      "english": "A farewell party was held in honor of Mr Smith.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジョーンズ氏のために送別会が開かれた。",
+      "reading": null,
+      "english": "A farewell meeting was held in honor of Mr Jones.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "退職する重役に敬意を表して送別会が開かれた。",
+      "reading": null,
+      "english": "A farewell party was held in honor of the retiring executive.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "退職する重役に敬意を表して送別会が開かれた。",
+      "reading": null,
+      "english": "A farewell party was held for the executive who was retiring.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "送別会は来週行われるでしょう。",
+      "reading": null,
+      "english": "The farewell party will take place next week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは川村博士を祝して送別会を開いた。",
+      "reading": null,
+      "english": "We held a farewell party in honor of Dr. Kawamura.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "昨日ジョーンズ氏のために送別会が開かれた。",
+      "reading": null,
+      "english": "A farewell party was held in honor of Mr Jones yesterday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "昨日ジョーンズ氏のために送別会が開かれた。",
+      "reading": null,
+      "english": "Yesterday, a farewell party was held for Mr. Jones.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

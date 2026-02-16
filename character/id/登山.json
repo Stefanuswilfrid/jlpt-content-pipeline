@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "登山",
+    "reading": "とざん",
+    "romaji": "tozan",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "pendakian gunung"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "山",
+      "reading": "やま",
+      "meaning": "gunung"
+    },
+    {
+      "word": "火山",
+      "reading": "かざん",
+      "meaning": "gunung berapi"
+    },
+    {
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaning": "masuk (di atas panggung)"
+    },
+    {
+      "word": "上る",
+      "reading": "のぼる",
+      "meaning": "mendaki, naik ke atas, memanjat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学生時代、ジョンはよく登山に行ったものだ。",
+      "reading": null,
+      "indonesian": "John would often go mountain climbing when he was a student.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一行はその山の登山に失敗した。",
+      "reading": null,
+      "indonesian": "The party did not succeed in climbing the mountain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんなに悪い天候の中で登山するべきではない。",
+      "reading": null,
+      "indonesian": "You should not climb the mountain in such bad weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

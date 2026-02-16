@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "響く",
+    "reading": "ひびく",
+    "romaji": "hibiku",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to resound",
+          "to be heard far away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to reverberate",
+          "to shake",
+          "to vibrate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come (home)",
+          "to remain (with someone)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to have an effect",
+          "to make an impression"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "反響",
+      "reading": "はんきょう",
+      "meaning": "echo"
+    },
+    {
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaning": "influence"
+    },
+    {
+      "word": "響き",
+      "reading": "ひびき",
+      "meaning": "echo"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心に響く",
+      "reading": "こころにひびく",
+      "meaning": "to resonate emotionally (with one)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

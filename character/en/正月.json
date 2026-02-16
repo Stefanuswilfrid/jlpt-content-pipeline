@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "正月",
+    "reading": "しょうがつ",
+    "romaji": "shougatsu",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "New Year (esp. first three days)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "first month of the year",
+          "January"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "月",
+      "reading": "つき",
+      "meaning": "Moon"
+    },
+    {
+      "word": "再来月",
+      "reading": "さらいげつ",
+      "meaning": "month after next"
+    },
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "this month"
+    },
+    {
+      "word": "修正",
+      "reading": "しゅうせい",
+      "meaning": "amendment"
+    },
+    {
+      "word": "正式",
+      "reading": "せいしき",
+      "meaning": "formal"
+    },
+    {
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "last month"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "目の正月",
+      "reading": "めのしょうがつ",
+      "meaning": "feast for one's eyes",
+      "type": "idiom"
+    },
+    {
+      "word": "盆と正月",
+      "reading": "ぼんとしょうがつ",
+      "meaning": "the Bon Festival and New Year",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もうすぐお正月です。",
+      "reading": null,
+      "english": "It will soon be New Year.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "みなさん、楽しいクリスマス、そしていいお正月を。",
+      "reading": null,
+      "english": "I wish you all a merry Christmas and a happy new year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まもなく楽しい正月だ。",
+      "reading": null,
+      "english": "I'm looking forward to the New Year holidays.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お正月休みはどうするの？",
+      "reading": null,
+      "english": "What are you planning to do for the New Year vacation?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "正月はすぐそこまで来ている。",
+      "reading": null,
+      "english": "New Year's Day is close at hand.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今年はお正月は日曜日にあたる。",
+      "reading": null,
+      "english": "This year New Year's Day falls on Sunday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もうすぐお正月です。",
+      "reading": null,
+      "english": "It will soon be New Year.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

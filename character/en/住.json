@@ -1,0 +1,144 @@
+{
+  "definition": {
+    "word": "住",
+    "reading": "じゅう",
+    "romaji": "juu",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dwelling",
+          "living"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "住宅",
+      "reading": "じゅうたく",
+      "meaning": "residence"
+    },
+    {
+      "word": "住民",
+      "reading": "じゅうみん",
+      "meaning": "inhabitant"
+    },
+    {
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "address (of a home, business, etc.)"
+    },
+    {
+      "word": "住まい",
+      "reading": "すまい",
+      "meaning": "dwelling"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "住めば都",
+      "reading": "すめばみやこ",
+      "meaning": "you can get used to living anywhere",
+      "type": "proverb"
+    },
+    {
+      "word": "行住坐臥",
+      "reading": "ぎょうじゅうざが",
+      "meaning": "daily life",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一所不住",
+      "reading": "いっしょふじゅう",
+      "meaning": "vagrant",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "常住坐臥",
+      "reading": "じょうじゅうざが",
+      "meaning": "at all times",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "常住不断",
+      "reading": "じょうじゅうふだん",
+      "meaning": "ceaseless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "常住不滅",
+      "reading": "じょうじゅうふめつ",
+      "meaning": "everlasting",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "地獄も住み処",
+      "reading": "じごくもすみか",
+      "meaning": "even hell can be home",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ガラスの家に住む人は石を投げるべきではない。",
+      "reading": null,
+      "english": "Those who live in glass houses should not throw stones.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "３年前に東京へ来て以来ここに住んでいる。",
+      "reading": null,
+      "english": "I came to Tokyo three years ago and have been living here ever since.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は当地に住んでいるのか。",
+      "reading": null,
+      "english": "Do you live here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここに住んでるの？",
+      "reading": null,
+      "english": "Do you live here?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こちらにお住いなんですか？",
+      "reading": null,
+      "english": "Do you live here?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君はその少女がどこに住んでいるのか知っていますか。",
+      "reading": null,
+      "english": "Do you know where the girl lives?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はいつから神戸に住んでいるの。",
+      "reading": null,
+      "english": "How long have you been living in Kobe, then?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "所で",
+    "reading": "ところで",
+    "romaji": "tokorode",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "by the way",
+          "incidentally",
+          "well",
+          "now"
+        ]
+      },
+      {
+        "pos": [
+          "particle",
+          "conjunction"
+        ],
+        "meanings": [
+          "even if",
+          "no matter (what, where, how, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "所為",
+      "reading": "せい",
+      "meaning": "consequence"
+    },
+    {
+      "word": "停留所",
+      "reading": "ていりゅうじょ",
+      "meaning": "stop (bus, tram, etc.)"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "neighbourhood"
+    },
+    {
+      "word": "役所",
+      "reading": "やくしょ",
+      "meaning": "government office"
+    },
+    {
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "kitchen"
+    },
+    {
+      "word": "所",
+      "reading": "ところ",
+      "meaning": "place"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "銀行へ行ってきたところです。",
+      "reading": null,
+      "english": "I've been to the bank.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校へ行くところでした。",
+      "reading": null,
+      "english": "He was going to school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "遠いところで犬が吠えているのが聞こえた。",
+      "reading": null,
+      "english": "I heard a dog barking in the distance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "駅に着いたとき、汽車はちょうど出発しようとするところでした。",
+      "reading": null,
+      "english": "The train was just on the point of starting when I got to the station.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

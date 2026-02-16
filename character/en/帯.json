@@ -1,0 +1,169 @@
+{
+  "definition": {
+    "word": "帯",
+    "reading": "おび",
+    "romaji": "obi",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "obi (kimono sash)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "obi (strip of paper looped around a book, CD, etc. containing information about the product)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "band",
+          "belt",
+          "strip"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cingulum"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "radio or television program broadcast in the same time slot on all or most days"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "携帯",
+      "reading": "けいたい",
+      "meaning": "carrying (on one's person or in the hand)"
+    },
+    {
+      "word": "熱帯",
+      "reading": "ねったい",
+      "meaning": "tropics"
+    },
+    {
+      "word": "一帯",
+      "reading": "いったい",
+      "meaning": "whole area"
+    },
+    {
+      "word": "地帯",
+      "reading": "ちたい",
+      "meaning": "zone"
+    },
+    {
+      "word": "温帯",
+      "reading": "おんたい",
+      "meaning": "temperate zone"
+    },
+    {
+      "word": "包帯",
+      "reading": "ほうたい",
+      "meaning": "bandage"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "緩衝地帯",
+      "reading": "かんしょうちたい",
+      "meaning": "buffer zone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一衣帯水",
+      "reading": "いちいたいすい",
+      "meaning": "(being separated only by a) narrow strip of water",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "衣冠束帯",
+      "reading": "いかんそくたい",
+      "meaning": "full Japanese court dress of traditional fashion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "肉食妻帯",
+      "reading": "にくじきさいたい",
+      "meaning": "meat and matrimony (Buddhism)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "帯刀御免",
+      "reading": "たいとうごめん",
+      "meaning": "a non-samurai being granted the privilege of wearing a sword (during the Edo period)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "苗字帯刀",
+      "reading": "みょうじたいとう",
+      "meaning": "right to bear a surname and to wear a sword (during the Edo period)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "連帯責任",
+      "reading": "れんたいせきにん",
+      "meaning": "collective responsibility",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "帯に短し襷に長し",
+      "reading": "おびにみじかしたすきにながし",
+      "meaning": "neither one thing nor the other",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "火事で４世帯が焼死した。",
+      "reading": null,
+      "english": "Four families were killed in the fire.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "医者は少年のけがをした足に包帯をした。",
+      "reading": null,
+      "english": "The doctor bandaged the boy's injured leg.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは、熱帯雨林無しではやっていけない。",
+      "reading": null,
+      "english": "We cannot dispense with the rainforests.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もうすぐラッシュアワーの時間帯に入る。",
+      "reading": null,
+      "english": "It's almost rush hour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

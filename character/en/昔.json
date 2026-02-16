@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "昔",
+    "reading": "むかし",
+    "romaji": "mukashi",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "the old days",
+          "the past",
+          "former times",
+          "a long time ago"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the past ten years",
+          "the past decade"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "十年一昔",
+      "reading": "じゅうねんひとむかし",
+      "meaning": "the pace of change makes ten years back seem like ancient history",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "昔取った杵柄",
+      "reading": "むかしとったきねづか",
+      "meaning": "skill learned in one's former days",
+      "type": "idiom"
+    },
+    {
+      "word": "昔は昔、今は今",
+      "reading": "むかしはむかし、いまはいま",
+      "meaning": "let bygones be bygones",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

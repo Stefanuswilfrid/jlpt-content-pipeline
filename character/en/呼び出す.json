@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "呼び出す",
+    "reading": "よびだす",
+    "romaji": "yobidasu",
+    "jlpt": "N2",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to call (someone) to (the door, phone, etc.)",
+          "to tell (someone) to come",
+          "to call up (on the phone)",
+          "to summon",
+          "to page",
+          "to invoke (e.g. a spirit)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to invoke (e.g. a subroutine)",
+          "to call",
+          "to open (e.g. a file)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "引き出す",
+      "reading": "ひきだす",
+      "meaning": "to pull out"
+    },
+    {
+      "word": "取り出す",
+      "reading": "とりだす",
+      "meaning": "to take out"
+    },
+    {
+      "word": "言い出す",
+      "reading": "いいだす",
+      "meaning": "to begin to say"
+    },
+    {
+      "word": "出題",
+      "reading": "しゅつだい",
+      "meaning": "setting a question (for an exam, quiz, etc.)"
+    },
+    {
+      "word": "抜け出す",
+      "reading": "ぬけだす",
+      "meaning": "to slip out"
+    },
+    {
+      "word": "追い出す",
+      "reading": "おいだす",
+      "meaning": "to expel"
+    },
+    {
+      "word": "投げ出す",
+      "reading": "なげだす",
+      "meaning": "to throw down"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ことあるごとに呼び出すのはやめてちょうだい。",
+      "reading": null,
+      "english": "Could you please stop calling me at every opportunity you can get?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ことあるごとに呼び出すのはやめてちょうだい。",
+      "reading": null,
+      "english": "Could you please stop calling me at every opportunity you can get?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

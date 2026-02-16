@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "癖",
+    "reading": "くせ",
+    "romaji": "kuse",
+    "jlpt": "N3",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "habit (usu. a bad one)",
+          "tendency"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "peculiarity",
+          "idiosyncrasy",
+          "mannerism",
+          "quirk"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "crease",
+          "wrinkle",
+          "curl",
+          "kink"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "無くて七癖",
+      "reading": "なくてななくせ",
+      "meaning": "every person has their eccentricities",
+      "type": "proverb"
+    },
+    {
+      "word": "名馬に癖あり",
+      "reading": "めいばにくせあり",
+      "meaning": "great men have eccentricities",
+      "type": "proverb"
+    },
+    {
+      "word": "手癖が悪い",
+      "reading": "てくせがわるい",
+      "meaning": "having a habit of stealing things",
+      "type": "idiom"
+    },
+    {
+      "word": "無くて七癖有って四十八癖",
+      "reading": "なくてななくせあってしじゅうはっくせ",
+      "meaning": "every person has their eccentricities",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

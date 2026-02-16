@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "追いつく",
+    "reading": "おいつく",
+    "romaji": "oitsuku",
+    "jlpt": "N3",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to catch up (with)",
+          "to draw level",
+          "to pull even",
+          "to reach"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be compensated",
+          "to make up for one's losses"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "追う",
+      "reading": "おう",
+      "meaning": "to chase"
+    },
+    {
+      "word": "追いかける",
+      "reading": "おいかける",
+      "meaning": "to chase"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "稼ぐに追いつく貧乏なし",
+      "reading": "かせぐにおいつくびんぼうなし",
+      "meaning": "poverty is a stranger to industry",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "すぐにそっちに追い付くよ。",
+      "reading": null,
+      "english": "I'll catch up with you soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "すぐにそっちに追い付くよ。",
+      "reading": null,
+      "english": "I'll catch up with you soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

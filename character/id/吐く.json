@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "吐く",
+    "reading": "つく",
+    "romaji": "tsuku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "muntah",
+          "mengeluarkan isi perut"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tell (a lie)",
+          "to use (foul language)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to vomit",
+          "to throw up",
+          "to spit up"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "毒を吐く",
+      "reading": "どくをはく",
+      "meaning": "to spew venom",
+      "type": "idiom"
+    },
+    {
+      "word": "火を吐く",
+      "reading": "ひをはく",
+      "meaning": "to breathe fire",
+      "type": "idiom"
+    },
+    {
+      "word": "天に向かって唾を吐く",
+      "reading": "てんにむかってつばきをはく",
+      "meaning": "to harm oneself as a result of trying to harm someone else",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

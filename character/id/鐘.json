@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "鐘",
+    "reading": "かね",
+    "romaji": "kane",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lonceng",
+          "denting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "jam tangan; jam dinding"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "提灯に釣鐘",
+      "reading": "ちょうちんにつりがね",
+      "meaning": "two ill-matched things",
+      "type": "idiom"
+    },
+    {
+      "word": "警鐘を鳴らす",
+      "reading": "けいしょうをならす",
+      "meaning": "to ring an alarm bell",
+      "type": "idiom"
+    },
+    {
+      "word": "暁鐘",
+      "reading": "ぎょうしょう",
+      "meaning": "bell rung to announce daybreak",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

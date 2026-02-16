@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "不運",
+    "reading": "ふうん",
+    "romaji": "fuun",
+    "jlpt": "N2",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "sial",
+          "kemalangan",
+          "nasib buruk"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "運河",
+      "reading": "うんが",
+      "meaning": "kanal, jalur air"
+    },
+    {
+      "word": "不規則",
+      "reading": "ふきそく",
+      "meaning": "ketidakberaturan, ketidakstabilan"
+    },
+    {
+      "word": "不潔",
+      "reading": "ふけつ",
+      "meaning": "tidak bersih, kotor"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "salah, buruk, tidak mungkin"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "semoga beruntung, nasib baik"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "blokade, gangguan, penghentian"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は失敗を不運のせいにしてはいけない。",
+      "reading": null,
+      "indonesian": "Don't set your failure down to bad luck.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "不運にも案内者が道をまちがえた。",
+      "reading": null,
+      "indonesian": "Unfortunately the guide went wrong.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人は自分で思っているほど不運ではない。",
+      "reading": null,
+      "indonesian": "You don't know when you're alive.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

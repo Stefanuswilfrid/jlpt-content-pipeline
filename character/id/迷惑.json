@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "迷惑",
+    "reading": "めいわく",
+    "romaji": "meiwaku",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "masalah",
+          "gangguan",
+          "ketidaknyamanan"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to be troubled (by)",
+          "to be bothered (by)",
+          "to be inconvenienced (by)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "迷子",
+      "reading": "まいご",
+      "meaning": "anak yang hilang (tersesat)"
+    },
+    {
+      "word": "迷信",
+      "reading": "めいしん",
+      "meaning": "takhyul"
+    },
+    {
+      "word": "迷う",
+      "reading": "まよう",
+      "meaning": "merasa bingung, merasa kalut, tersesat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "迷惑千万",
+      "reading": "めいわくせんばん",
+      "meaning": "great nuisance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "迷惑至極",
+      "reading": "めいわくしごく",
+      "meaning": "great nuisance",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "訓",
+    "reading": "くん",
+    "romaji": "kun",
+    "jlpt": "N3",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Cara membaca aksara Tionghoa oleh penutur asli bahasa Jepang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "suffix"
+        ],
+        "meanings": [
+          "precept",
+          "lesson",
+          "one's teachings"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "訓練",
+      "reading": "くんれん",
+      "meaning": "praktik, pelatihan"
+    },
+    {
+      "word": "教え",
+      "reading": "おしえ",
+      "meaning": "ajaran, doktrin"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "教訓よりも実行が大切。",
+      "reading": null,
+      "indonesian": "An ounce of practice is worth a pound of precept.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わたしはその学校で訓練された。",
+      "reading": null,
+      "indonesian": "I was given training in that school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの学校で訓練を受けたんです。",
+      "reading": null,
+      "indonesian": "I was given training in that school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それには訓練が必要である。",
+      "reading": null,
+      "indonesian": "It needs exercise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

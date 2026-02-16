@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "家内",
+    "reading": "かない",
+    "romaji": "kanai",
+    "jlpt": "N4",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(my) wife"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "inside the home",
+          "one's family"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "以内",
+      "reading": "いない",
+      "meaning": "within"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "guidance"
+    },
+    {
+      "word": "内",
+      "reading": "うち",
+      "meaning": "inside"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "家内もお目にかかることを楽しみにしておりますから。",
+      "reading": null,
+      "english": "My wife will be glad to see you, too.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "家内もお目にかかることを楽しみにしておりますから。",
+      "reading": null,
+      "english": "My wife will be glad to see you, too.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

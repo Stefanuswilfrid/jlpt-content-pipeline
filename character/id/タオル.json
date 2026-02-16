@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "タオル",
+    "reading": "タオル",
+    "romaji": "taoru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "handuk (tangan)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "タオルを投げる",
+      "reading": "タオルをなげる",
+      "meaning": "to throw in the towel",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "バスタオルがぬれていて、役に立たなかった。",
+      "reading": null,
+      "indonesian": "My bath towel was wet, so it was of no use.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ぬれたタオルをちょうだい。",
+      "reading": null,
+      "indonesian": "Bring me a moist towel.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "タオルは全く役に立たなかった。",
+      "reading": null,
+      "indonesian": "The towel counted for nothing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのぬれたタオルをかばんに入れてはいけない。",
+      "reading": null,
+      "indonesian": "Don't put that damp towel into the bag.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このタオルは手ざわりが悪い。",
+      "reading": null,
+      "indonesian": "This towel is harsh to the touch.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "きれいなタオルは引き出しにありますよ。",
+      "reading": null,
+      "indonesian": "The clean towels are in the drawer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "関係",
+    "reading": "かんけい",
+    "romaji": "kankei",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "relation",
+          "relationship",
+          "connection"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "participation",
+          "involvement",
+          "concern"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "influence",
+          "effect"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "related to",
+          "connected to"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaning": "concern"
+    },
+    {
+      "word": "関連",
+      "reading": "かんれん",
+      "meaning": "relation"
+    },
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "engine"
+    },
+    {
+      "word": "玄関",
+      "reading": "げんかん",
+      "meaning": "entrance"
+    },
+    {
+      "word": "係",
+      "reading": "かかり",
+      "meaning": "charge"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "相関関係",
+      "reading": "そうかんかんけい",
+      "meaning": "correlation",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

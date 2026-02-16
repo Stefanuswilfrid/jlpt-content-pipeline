@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "言わば",
+    "reading": "いわば",
+    "romaji": "iwaba",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "so to speak",
+          "so to call it",
+          "as it were"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "言語",
+      "reading": "げんご",
+      "meaning": "language"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "single word"
+    },
+    {
+      "word": "伝言",
+      "reading": "でんごん",
+      "meaning": "(verbal) message"
+    },
+    {
+      "word": "言葉",
+      "reading": "ことば",
+      "meaning": "language"
+    },
+    {
+      "word": "言う",
+      "reading": "いう",
+      "meaning": "to say"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その老人は言わば生き字引だ。",
+      "reading": null,
+      "english": "That old man is, so to speak, a walking dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この犬は言わばうちの家族の一員だ。",
+      "reading": null,
+      "english": "This dog is, so to speak, a member of our family.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その老人は言わば生き字引だ。",
+      "reading": null,
+      "english": "That old man is, so to speak, a walking dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この犬は言わばうちの家族の一員だ。",
+      "reading": null,
+      "english": "This dog is, so to speak, a member of our family.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

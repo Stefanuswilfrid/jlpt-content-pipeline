@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "儲かる",
+    "reading": "もうかる",
+    "romaji": "moukaru",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menguntungkan",
+          "menghasilkan keuntungan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "貯蓄",
+      "reading": "ちょちく",
+      "meaning": "tabungan"
+    },
+    {
+      "word": "儲ける",
+      "reading": "もうける",
+      "meaning": "untuk mendapatkan, memiliki (melahirkan, memperanakkan) seorang anak"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "風が吹けば桶屋が儲かる",
+      "reading": "かぜがふけばおけやがもうかる",
+      "meaning": "any event can bring about an effect in an unexpected way",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "失業",
+    "reading": "しつぎょう",
+    "romaji": "shitsugyou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pengangguran"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "losing one's job",
+          "becoming unemployed"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "企業",
+      "reading": "きぎょう",
+      "meaning": "industri, bisnis, usaha"
+    },
+    {
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "pekerjaan, operasi, manufaktur"
+    },
+    {
+      "word": "農業",
+      "reading": "のうぎょう",
+      "meaning": "pertanian"
+    },
+    {
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaning": "bisnis, perdagangan, manajemen"
+    },
+    {
+      "word": "職業",
+      "reading": "しょくぎょう",
+      "meaning": "pekerjaan, bisnis"
+    },
+    {
+      "word": "失望",
+      "reading": "しつぼう",
+      "meaning": "kekecewaan, keputusasaan"
+    },
+    {
+      "word": "産業",
+      "reading": "さんぎょう",
+      "meaning": "industri"
+    },
+    {
+      "word": "工業",
+      "reading": "こうぎょう",
+      "meaning": "industri (manufaktur)"
+    },
+    {
+      "word": "授業",
+      "reading": "じゅぎょう",
+      "meaning": "kelas (sekolah)"
+    },
+    {
+      "word": "卒業",
+      "reading": "そつぎょう",
+      "meaning": "kelulusan"
+    },
+    {
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "kegagalan, kesalahan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "マイクはここ一年間失業中である。",
+      "reading": null,
+      "indonesian": "Mike has been out of work for a year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父が失業して一年になる。",
+      "reading": null,
+      "indonesian": "My father has been out of work for a year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父が失業し、さらに悪いことには、母が病気になってしまった。",
+      "reading": null,
+      "indonesian": "Father has lost his job, and what's worse, Mother has fallen ill.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

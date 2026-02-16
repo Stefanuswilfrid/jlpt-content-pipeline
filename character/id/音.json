@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "音",
+    "reading": "おと",
+    "romaji": "oto",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "suara",
+          "nada"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(musical) note"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fame"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発音",
+      "reading": "はつおん",
+      "meaning": "pengucapan"
+    },
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "Musik"
+    },
+    {
+      "word": "騒音",
+      "reading": "そうおん",
+      "meaning": "kebisingan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "異口同音",
+      "reading": "いくどうおん",
+      "meaning": "(saying) with one voice",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不協和音",
+      "reading": "ふきょうわおん",
+      "meaning": "discord",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "音信不通",
+      "reading": "おんしんふつう",
+      "meaning": "break in contact",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "音吐朗朗",
+      "reading": "おんとろうろう",
+      "meaning": "in a clear voice",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "音に聞く",
+      "reading": "おとにきく",
+      "meaning": "to be widely known",
+      "type": "idiom"
+    },
+    {
+      "word": "歌舞音曲",
+      "reading": "かぶおんぎょく",
+      "meaning": "singing, dancing and music",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "音を上げる",
+      "reading": "ねをあげる",
+      "meaning": "to give up",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,50 @@
+{
+  "definition": {
+    "word": "占う",
+    "reading": "うらなう",
+    "romaji": "uranau",
+    "jlpt": "N2",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tell someone's fortune",
+          "to divine (the future)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to predict",
+          "to forecast"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "占領",
+      "reading": "せんりょう",
+      "meaning": "occupying"
+    },
+    {
+      "word": "独占",
+      "reading": "どくせん",
+      "meaning": "monopoly"
+    },
+    {
+      "word": "占める",
+      "reading": "しめる",
+      "meaning": "to occupy"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

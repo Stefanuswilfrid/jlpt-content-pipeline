@@ -1,0 +1,197 @@
+{
+  "definition": {
+    "word": "停止",
+    "reading": "ていし",
+    "romaji": "teishi",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "penangguhan",
+          "gangguan",
+          "penghentian"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "ceasing (movement, activity, etc.)",
+          "suspension (of operations)",
+          "interruption (e.g. of electricity supply)",
+          "cutting off"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "suspension (of payment, a licence, etc.)",
+          "(temporary) prohibition",
+          "ban"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "防止",
+      "reading": "ぼうし",
+      "meaning": "pencegahan, periksa"
+    },
+    {
+      "word": "引き止める",
+      "reading": "ひきとめる",
+      "meaning": "untuk menahan, untuk mencegah, untuk mengekang"
+    },
+    {
+      "word": "停車",
+      "reading": "ていしゃ",
+      "meaning": "berhenti (misalnya, kereta api)"
+    },
+    {
+      "word": "立ち止まる",
+      "reading": "たちどまる",
+      "meaning": "berhenti, berdiam diri"
+    },
+    {
+      "word": "禁止",
+      "reading": "きんし",
+      "meaning": "larangan, pembatasan"
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "penangguhan, penghentian, pemutusan"
+    },
+    {
+      "word": "廃止",
+      "reading": "はいし",
+      "meaning": "penghapusan, pencabutan"
+    },
+    {
+      "word": "調停",
+      "reading": "ちょうてい",
+      "meaning": "arbitrase, konsiliasi, mediasi"
+    },
+    {
+      "word": "受け止める",
+      "reading": "うけとめる",
+      "meaning": "menangkap, bereaksi terhadap, mengambil"
+    },
+    {
+      "word": "阻止",
+      "reading": "そし",
+      "meaning": "halangan, pemeriksaan, rintangan"
+    },
+    {
+      "word": "定年",
+      "reading": "ていねん",
+      "meaning": "usia pensiun"
+    },
+    {
+      "word": "停滞",
+      "reading": "ていたい",
+      "meaning": "stagnasi, kemacetan, kepadatan, retensi"
+    },
+    {
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "mengakhiri, berhenti, mengakhiri, mengundurkan diri"
+    },
+    {
+      "word": "止まる",
+      "reading": "とどまる",
+      "meaning": "untuk berhenti"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私たちの乗った電車が急停止した。",
+      "reading": null,
+      "indonesian": "Our train stopped suddenly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "運転者は停止信号を無視した。",
+      "reading": null,
+      "indonesian": "The driver ignored the stoplight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ポーランドは１２０年間国家として存在を停止した。",
+      "reading": null,
+      "indonesian": "Poland ceased to exist as a nation for 120 years.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "コンピューター・システムは午後８時に自動的に停止する。",
+      "reading": null,
+      "indonesian": "The computer system shuts down automatically at 8pm.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "大型と小型の２台の飛行機が、ハンガー内で停止していました。",
+      "reading": null,
+      "indonesian": "Two airplanes, one large and one small, were at rest in the hangar.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "列車が停止したので、乗客はみんなどうしたのかと思った。",
+      "reading": null,
+      "indonesian": "As the train came to a halt, all of the passengers wondered what was happening.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "停止標識を無視しませんでしたか。",
+      "reading": null,
+      "indonesian": "Didn't you disregard a stop sign?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "戦争は停止されるべきだと全員合意した。",
+      "reading": null,
+      "indonesian": "They were unanimous that the war should be brought to a halt.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "運転者は停止信号を無視した。",
+      "reading": null,
+      "indonesian": "The driver ignored the stoplight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

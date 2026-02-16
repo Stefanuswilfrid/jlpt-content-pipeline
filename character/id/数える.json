@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "数える",
+    "reading": "かぞえる",
+    "romaji": "kazoeru",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menghitung"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "数字",
+      "reading": "すうじ",
+      "meaning": "angka, gambar"
+    },
+    {
+      "word": "数",
+      "reading": "かず",
+      "meaning": "angka, bilangan, jumlah"
+    },
+    {
+      "word": "数",
+      "reading": "すう",
+      "meaning": "angka, bilangan, jumlah"
+    },
+    {
+      "word": "無数",
+      "reading": "むすう",
+      "meaning": "jumlah yang tak terhitung, jumlah yang tak terhingga"
+    },
+    {
+      "word": "枚数",
+      "reading": "まいすう",
+      "meaning": "jumlah benda datar"
+    },
+    {
+      "word": "算数",
+      "reading": "さんすう",
+      "meaning": "hitung"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "死んだ子の年を数える",
+      "reading": "しんだこのとしをかぞえる",
+      "meaning": "crying over spilt milk",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ひなを数えるな。",
+      "reading": null,
+      "indonesian": "Don't count your chickens.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "６までの数を数えることができる。",
+      "reading": null,
+      "indonesian": "He counts up to six.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "周辺",
+    "reading": "しゅうへん",
+    "romaji": "shuuhen",
+    "jlpt": "N2",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "circumference",
+          "outskirts",
+          "environs",
+          "around",
+          "in the area of",
+          "in the vicinity of"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(computer) peripheral"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "円周",
+      "reading": "えんしゅう",
+      "meaning": "circumference"
+    },
+    {
+      "word": "周囲",
+      "reading": "しゅうい",
+      "meaning": "surroundings"
+    },
+    {
+      "word": "周り",
+      "reading": "まわり",
+      "meaning": "circumference"
+    },
+    {
+      "word": "心当たり",
+      "reading": "こころあたり",
+      "meaning": "having in mind"
+    },
+    {
+      "word": "辺",
+      "reading": "へん",
+      "meaning": "area"
+    },
+    {
+      "word": "周期",
+      "reading": "しゅうき",
+      "meaning": "cycle"
+    },
+    {
+      "word": "辺り",
+      "reading": "あたり",
+      "meaning": "(in the) neighbourhood"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その州は周辺にさまざまな原料を供給している。",
+      "reading": null,
+      "english": "The province supplies its neighbors with various raw materials.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ケイトのお父さんは家の周辺にいる。",
+      "reading": null,
+      "english": "Kate's father is about the house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私たちはパリ周辺地方の道路地図を調べた。",
+      "reading": null,
+      "english": "We studied the road map of the country around Paris.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "現在では我々が作った人工衛星が地球の周辺を回転している。",
+      "reading": null,
+      "english": "Today our artificial satellites are revolving around the earth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

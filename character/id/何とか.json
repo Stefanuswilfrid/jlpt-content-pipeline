@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "何とか",
+    "reading": "なんとか",
+    "romaji": "nantoka",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "entah bagaimana",
+          "dengan cara apa pun",
+          "dengan satu atau lain cara"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "somehow",
+          "anyhow",
+          "one way or another"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "sesuatu"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "dengan segala cara, semuanya"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "Mengapa, untuk apa?"
+    },
+    {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "Apa"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何とか入れた。",
+      "reading": null,
+      "indonesian": "I managed to get in.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "急げば何とか間に合うと思います。",
+      "reading": null,
+      "indonesian": "I think we'll make it if we hurry.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急いで何とかバスに乗れました。",
+      "reading": null,
+      "indonesian": "I hurried and managed to catch the bus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何とか都合して来てください。",
+      "reading": null,
+      "indonesian": "Will you try to come?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何とか都合つけて来週お目にかかりましょう。",
+      "reading": null,
+      "indonesian": "I'll manage to fit you in next week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

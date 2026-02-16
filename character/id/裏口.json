@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "裏口",
+    "reading": "うらぐち",
+    "romaji": "uraguchi",
+    "jlpt": "N2",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pintu belakang",
+          "pintu masuk belakang"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unauthorized",
+          "illicit",
+          "illegal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "早口",
+      "reading": "はやくち",
+      "meaning": "berbicara cepat"
+    },
+    {
+      "word": "蛇口",
+      "reading": "じゃぐち",
+      "meaning": "keran, kran"
+    },
+    {
+      "word": "窓口",
+      "reading": "まどぐち",
+      "meaning": "loket (tiket)"
+    },
+    {
+      "word": "火口",
+      "reading": "ひぐち",
+      "meaning": "kawah (gunung berapi)"
+    },
+    {
+      "word": "口実",
+      "reading": "こうじつ",
+      "meaning": "mengizinkan"
+    },
+    {
+      "word": "口紅",
+      "reading": "くちべに",
+      "meaning": "lipstik"
+    },
+    {
+      "word": "裏返し",
+      "reading": "うらがえし",
+      "meaning": "terbalik, dari dalam ke luar"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々は裏口から部屋に入った。",
+      "reading": null,
+      "indonesian": "We entered the room by the back door.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "少年は裏口から入った。",
+      "reading": null,
+      "indonesian": "The boy entered by the back door.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々は裏口から部屋に入った。",
+      "reading": null,
+      "indonesian": "We entered the room by the back door.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "少年は裏口から入った。",
+      "reading": null,
+      "indonesian": "The boy entered by the back door.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

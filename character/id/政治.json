@@ -1,0 +1,40 @@
+{
+  "definition": {
+    "word": "政治",
+    "reading": "せいじ",
+    "romaji": "seiji",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "politik"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "政府",
+      "reading": "せいふ",
+      "meaning": "pemerintah, administrasi"
+    },
+    {
+      "word": "治療",
+      "reading": "ちりょう",
+      "meaning": "perawatan medis"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "寡頭政治",
+      "reading": "かとうせいじ",
+      "meaning": "oligarchy",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

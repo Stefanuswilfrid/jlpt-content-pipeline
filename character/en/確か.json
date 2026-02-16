@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "確か",
+    "reading": "たしか",
+    "romaji": "tashika",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "sure",
+          "certain",
+          "positive",
+          "definite"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "reliable",
+          "trustworthy",
+          "safe",
+          "sound",
+          "firm",
+          "accurate",
+          "correct",
+          "exact"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "If I'm not mistaken",
+          "If I remember correctly",
+          "If I remember rightly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "certain"
+    },
+    {
+      "word": "明確",
+      "reading": "めいかく",
+      "meaning": "clear"
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaning": "accurate"
+    },
+    {
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "confirmation"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

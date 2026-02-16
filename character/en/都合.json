@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "都合",
+    "reading": "つごう",
+    "romaji": "tsugou",
+    "jlpt": "N4",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "circumstances",
+          "condition",
+          "convenience"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "arranging",
+          "managing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "lending money",
+          "raising money"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "in all",
+          "in total",
+          "all told"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "都",
+      "reading": "みやこ",
+      "meaning": "capital (esp. Kyoto, Japan's former capital)"
+    },
+    {
+      "word": "割合",
+      "reading": "わりあい",
+      "meaning": "rate"
+    },
+    {
+      "word": "具合",
+      "reading": "ぐあい",
+      "meaning": "condition"
+    },
+    {
+      "word": "場合",
+      "reading": "ばあい",
+      "meaning": "case"
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "match"
+    },
+    {
+      "word": "首都",
+      "reading": "しゅと",
+      "meaning": "capital (city)"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "meeting"
+    },
+    {
+      "word": "組合",
+      "reading": "くみあい",
+      "meaning": "association"
+    },
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "sum total"
+    },
+    {
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "passing (an exam)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

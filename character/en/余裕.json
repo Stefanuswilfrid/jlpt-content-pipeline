@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "余裕",
+    "reading": "よゆう",
+    "romaji": "yoyuu",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "surplus",
+          "margin",
+          "leeway",
+          "room",
+          "space",
+          "time",
+          "allowance",
+          "flexibility",
+          "scope"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "composure",
+          "placidity",
+          "complacency",
+          "calm"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "余分",
+      "reading": "よぶん",
+      "meaning": "extra"
+    },
+    {
+      "word": "余所",
+      "reading": "よそ",
+      "meaning": "another place"
+    },
+    {
+      "word": "余り",
+      "reading": "あまり",
+      "meaning": "remainder"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "余裕綽々",
+      "reading": "よゆうしゃくしゃく",
+      "meaning": "calm and collected",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "装置",
+    "reading": "そうち",
+    "romaji": "souchi",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "peralatan",
+          "instalasi",
+          "perlengkapan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stage setting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "位置",
+      "reading": "いち",
+      "meaning": "tempat, posisi"
+    },
+    {
+      "word": "服装",
+      "reading": "ふくそう",
+      "meaning": "pakaian, busana"
+    },
+    {
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaning": "pengemasan, pembungkusan"
+    },
+    {
+      "word": "置く",
+      "reading": "おく",
+      "meaning": "meletakkan; menaruh; menempatkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "舞台装置",
+      "reading": "ぶたいそうち",
+      "meaning": "stage setting",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

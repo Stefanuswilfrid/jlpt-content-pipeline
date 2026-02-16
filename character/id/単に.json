@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "単に",
+    "reading": "たんに",
+    "romaji": "tanni",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sederhana",
+          "hanya"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "単位",
+      "reading": "たんい",
+      "meaning": "kredit (untuk suatu mata kuliah di sekolah); satuan, denominasi"
+    },
+    {
+      "word": "単純",
+      "reading": "たんじゅん",
+      "meaning": "kesederhanaan"
+    },
+    {
+      "word": "単なる",
+      "reading": "たんなる",
+      "meaning": "semata-mata, sederhana, murni"
+    },
+    {
+      "word": "単語",
+      "reading": "たんご",
+      "meaning": "kata; kosakata"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "sederhana"
+    },
+    {
+      "word": "単数",
+      "reading": "たんすう",
+      "meaning": "tunggal (angka)"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "Kaos kaki Jepang (dengan jari kaki terpisah)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この世界には単に言葉では説明できないようなことがあるんだよ。",
+      "reading": null,
+      "indonesian": "There are things in this world which simply cannot be expressed in the form of words.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "教育は単に多くの事実を学ぶことにあるわけでない。",
+      "reading": null,
+      "indonesian": "Education does not consist simply in learning a lot of facts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教育は単に多くの事実を学ぶことにあるのではない。",
+      "reading": null,
+      "indonesian": "Education does not consist simply in learning a lot of facts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "状況",
+    "reading": "じょうきょう",
+    "romaji": "joukyou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "keadaan",
+          "situasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "状態",
+      "reading": "じょうたい",
+      "meaning": "kondisi, situasi"
+    },
+    {
+      "word": "現状",
+      "reading": "げんじょう",
+      "meaning": "kondisi saat ini, status quo"
+    },
+    {
+      "word": "症状",
+      "reading": "しょうじょう",
+      "meaning": "gejala, kondisi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "状況証拠",
+      "reading": "じょうきょうしょうこ",
+      "meaning": "circumstantial evidence",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

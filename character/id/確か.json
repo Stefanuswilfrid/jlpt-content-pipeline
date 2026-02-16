@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "確か",
+    "reading": "たしか",
+    "romaji": "tashika",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "jika saya ingat dengan benar; pasti",
+          "jelas"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "reliable",
+          "trustworthy",
+          "safe",
+          "sound",
+          "firm",
+          "accurate",
+          "correct",
+          "exact"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "If I'm not mistaken",
+          "If I remember correctly",
+          "If I remember rightly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "kepastian, keandalan, kekokohan"
+    },
+    {
+      "word": "明確",
+      "reading": "めいかく",
+      "meaning": "jelas, pasti"
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaning": "akurat, tepat waktu, tepat"
+    },
+    {
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "penegasan, konfirmasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

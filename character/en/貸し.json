@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "貸し",
+    "reading": "かし",
+    "romaji": "kashi",
+    "jlpt": "N3",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "loan",
+          "lending",
+          "hire",
+          "rental",
+          "lease"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "favor",
+          "favour",
+          "debt",
+          "obligation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "creditor",
+          "method of lending",
+          "credit side"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "貸家",
+      "reading": "かしや",
+      "meaning": "house for rent"
+    },
+    {
+      "word": "貸間",
+      "reading": "かしま",
+      "meaning": "room to let"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "庇を貸して母屋を取られる",
+      "reading": "ひさしをかしておもやをとられる",
+      "meaning": "to have one's kindness taken advantage of",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

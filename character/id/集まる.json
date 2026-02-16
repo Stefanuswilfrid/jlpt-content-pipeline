@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "集まる",
+    "reading": "あつまる",
+    "romaji": "atsumaru",
+    "jlpt": "N4",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "mengumpulkan (kata kerja intransitif)",
+          "mengoleksi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "konsentrasi, memfokuskan pikiran"
+    },
+    {
+      "word": "集める",
+      "reading": "あつめる",
+      "meaning": "mengumpulkan, menghimpun (v.t.), menyusun"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "類をもって集まる",
+      "reading": "るいをもってあつまる",
+      "meaning": "birds of a feather flock together",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,112 @@
+{
+  "definition": {
+    "word": "利害",
+    "reading": "りがい",
+    "romaji": "rigai",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "advantages and disadvantages",
+          "interests (of parties)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "公害",
+      "reading": "こうがい",
+      "meaning": "pollution"
+    },
+    {
+      "word": "災害",
+      "reading": "さいがい",
+      "meaning": "calamity"
+    },
+    {
+      "word": "損害",
+      "reading": "そんがい",
+      "meaning": "damage"
+    },
+    {
+      "word": "有利",
+      "reading": "ゆうり",
+      "meaning": "advantageous"
+    },
+    {
+      "word": "妨害",
+      "reading": "ぼうがい",
+      "meaning": "obstruction"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "disadvantage"
+    },
+    {
+      "word": "利子",
+      "reading": "りし",
+      "meaning": "interest (on a deposit, loan, etc.)"
+    },
+    {
+      "word": "利息",
+      "reading": "りそく",
+      "meaning": "interest (on a loan, deposit etc.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "利害得失",
+      "reading": "りがいとくしつ",
+      "meaning": "advantages and disadvantages",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "我々の利害は相反するようだ。",
+      "reading": null,
+      "english": "Our interests seem to conflict with each other.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この件は君の利害にも関わることだ。",
+      "reading": null,
+      "english": "The matter touches your interest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここでは多様な民族的・経済的利害関係がみられる。",
+      "reading": null,
+      "english": "We find diverse ethnic and economic interests here.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ＥＣ諸国はこの会談に非常に大きな利害関係をもっています。",
+      "reading": null,
+      "english": "The EC countries have a huge stake in the talks.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "従業員の利害は会社の利害と密接な関係を持つ。",
+      "reading": null,
+      "english": "The employees' interests are bound up with those of the corporation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

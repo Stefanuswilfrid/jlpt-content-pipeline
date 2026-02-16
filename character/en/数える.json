@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "数える",
+    "reading": "かぞえる",
+    "romaji": "kazoeru",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to count",
+          "to enumerate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "数字",
+      "reading": "すうじ",
+      "meaning": "numeral"
+    },
+    {
+      "word": "数",
+      "reading": "かず",
+      "meaning": "number"
+    },
+    {
+      "word": "数",
+      "reading": "すう",
+      "meaning": "several"
+    },
+    {
+      "word": "無数",
+      "reading": "むすう",
+      "meaning": "innumerable"
+    },
+    {
+      "word": "枚数",
+      "reading": "まいすう",
+      "meaning": "the number of flat things"
+    },
+    {
+      "word": "算数",
+      "reading": "さんすう",
+      "meaning": "arithmetic"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "死んだ子の年を数える",
+      "reading": "しんだこのとしをかぞえる",
+      "meaning": "crying over spilt milk",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ひなを数えるな。",
+      "reading": null,
+      "english": "Don't count your chickens.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "６までの数を数えることができる。",
+      "reading": null,
+      "english": "He counts up to six.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

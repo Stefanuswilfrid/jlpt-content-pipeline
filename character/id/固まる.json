@@ -1,0 +1,180 @@
+{
+  "definition": {
+    "word": "固まる",
+    "reading": "かたまる",
+    "romaji": "katamaru",
+    "jlpt": "N2",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "mengeras",
+          "memadat",
+          "menjadi kokoh"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become firm",
+          "to become certain"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to gather (together)",
+          "to assemble",
+          "to huddle together"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to freeze",
+          "to hang",
+          "to stop responding"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "固定",
+      "reading": "こてい",
+      "meaning": "penetapan, penganggaran (misalnya, gaji, modal)"
+    },
+    {
+      "word": "塊",
+      "reading": "かたまり",
+      "meaning": "benjolan, massa, gugusan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "雨降って地固まる",
+      "reading": "あめふってじかたまる",
+      "meaning": "adversity strengthens the foundations",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "雨降って地固まる。",
+      "reading": null,
+      "indonesian": "After rain comes fair weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "セメントは２、３時間で固まる。",
+      "reading": null,
+      "indonesian": "The cement will set in a couple of hours.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ゼラチンは、冷えると固まる性質があります。",
+      "reading": null,
+      "indonesian": "Gelatine has the property of setting as it cools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "牛乳の流れを素早く止め、牛乳が固まるまで約３０分間静置する。",
+      "reading": null,
+      "indonesian": "Quickly stop the flow of milk, leave to stand for approximately 30 minutes for the milk to solidify.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "固まるまでそのままにしておくか冷蔵庫で冷やしてください。",
+      "reading": null,
+      "indonesian": "Leave it in the refrigerator until it sets.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "雨降って地固まる。",
+      "reading": null,
+      "indonesian": "After rain comes fair weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨降って地固まる。",
+      "reading": null,
+      "indonesian": "Adversity strengthens the foundations.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨降って地固まる。",
+      "reading": null,
+      "indonesian": "What doesn't kill you makes you stronger.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨降って地固まる。",
+      "reading": null,
+      "indonesian": "After rain comes nice weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "セメントは２、３時間で固まる。",
+      "reading": null,
+      "indonesian": "The cement will set in a couple of hours.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "固まるまでそのままにしておくか冷蔵庫で冷やしてください。",
+      "reading": null,
+      "indonesian": "Leave it in the refrigerator until it sets.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "牛乳の流れを素早く止め、牛乳が固まるまで約３０分間静置する。",
+      "reading": null,
+      "indonesian": "Quickly stop the flow of milk, leave to stand for approximately 30 minutes for the milk to solidify.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ゼラチンは、冷えると固まる性質があります。",
+      "reading": null,
+      "indonesian": "Gelatine has the property of setting as it cools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "解放",
+    "reading": "かいほう",
+    "romaji": "kaihou",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pembebasan",
+          "kemerdekaan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "deallocation (of computer memory)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "perpisahan, pembubaran"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaning": "buka, buka lebar, liberalisasi"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "penjelasan, komentar"
+    },
+    {
+      "word": "放る",
+      "reading": "ほうる",
+      "meaning": "untuk melepaskan"
+    },
+    {
+      "word": "分解",
+      "reading": "ぶんかい",
+      "meaning": "analisis, pembongkaran"
+    },
+    {
+      "word": "解答",
+      "reading": "かいとう",
+      "meaning": "jawaban, solusi"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "penyelesaian, solusi, resolusi"
+    },
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaning": "penyiaran"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "pendapat, sudut pandang"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "pemahaman, pengertian"
+    },
+    {
+      "word": "解除",
+      "reading": "かいじょ",
+      "meaning": "pembatalan, rilis, batalkan"
+    },
+    {
+      "word": "解釈",
+      "reading": "かいしゃく",
+      "meaning": "penjelasan, interpretasi"
+    },
+    {
+      "word": "追放",
+      "reading": "ついほう",
+      "meaning": "pengasingan, pembuangan"
+    },
+    {
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "salah paham"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "犯人は人質を解放しなかった。",
+      "reading": null,
+      "indonesian": "The criminal didn't let the hostages go.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

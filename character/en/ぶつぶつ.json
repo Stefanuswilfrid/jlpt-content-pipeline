@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "ぶつぶつ",
+    "reading": "ぶつぶつ",
+    "romaji": "butsubutsu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "grunt",
+          "grumble",
+          "complaint",
+          "mutter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "pimples",
+          "spots",
+          "eruption",
+          "rash"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "cutting into small pieces"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "simmering"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "顔中にぶつぶつができた。",
+      "reading": null,
+      "english": "I have spots coming out all over my face.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ぶつぶつと礼を言った。",
+      "reading": null,
+      "english": "He grunted his thanks.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "祖父はいつも何やかやぶつぶつ不平を言っていた。",
+      "reading": null,
+      "english": "My grandfather was always grumbling about something or other.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "アルコール",
+    "reading": "アルコール",
+    "romaji": "arukooru",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "alcohol"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "alcoholic drink",
+          "alcohol"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(alcohol-based) hand sanitizer"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "このビールはアルコール分が５％だ。",
+      "reading": null,
+      "english": "This beer contains 5% alcohol.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こちらのビールはアルコール分5%です。",
+      "reading": null,
+      "english": "This beer contains 5% alcohol.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

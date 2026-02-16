@@ -1,0 +1,134 @@
+{
+  "definition": {
+    "word": "表す",
+    "reading": "あらわす",
+    "romaji": "arawasu",
+    "jlpt": "N3",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mengungkapkan",
+          "untuk menunjukkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to reveal",
+          "to show",
+          "to display"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to express"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make widely known"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "代表",
+      "reading": "だいひょう",
+      "meaning": "perwakilan, delegasi"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "pengumuman; publikasi; presentasi"
+    },
+    {
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "ekspresi, presentasi"
+    },
+    {
+      "word": "公表",
+      "reading": "こうひょう",
+      "meaning": "pengumuman resmi, proklamasi"
+    },
+    {
+      "word": "表情",
+      "reading": "ひょうじょう",
+      "meaning": "raut wajah"
+    },
+    {
+      "word": "表面",
+      "reading": "ひょうめん",
+      "meaning": "permukaan, luar, muka"
+    },
+    {
+      "word": "現れ",
+      "reading": "あらわれ",
+      "meaning": "ekspresi, indikasi, tanda"
+    },
+    {
+      "word": "現れる",
+      "reading": "あらわれる",
+      "meaning": "muncul (v.i.), menjadi terlihat; mengungkapkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "名は体を表す",
+      "reading": "なはたいをあらわす",
+      "meaning": "names and natures do often agree",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "機会とは神意を表す一つのあだ名である。",
+      "reading": null,
+      "indonesian": "Chance is a nickname for Providence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その物体がどんな物か言い表す事が出来ますか。",
+      "reading": null,
+      "indonesian": "Can you describe the object?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その時のうれしさは書き表すことができない。",
+      "reading": null,
+      "indonesian": "I can't express how happy I was at that time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その作家は来月新作を発表する。",
+      "reading": null,
+      "indonesian": "The writer is bringing out a new book next month.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "definition": {
+    "word": "発",
+    "reading": "はつ",
+    "romaji": "hatsu",
+    "jlpt": "N2",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "departure",
+          "departing from ...",
+          "leaving at (e.g. 8:30)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "sent from ...",
+          "(a letter, etc.) dated ...",
+          "datelined ..."
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for engines (on an aircraft)"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for gunshots, bursts of gas, etc.",
+          "counter for bullets, bombs, etc.",
+          "counter for blows (punches)",
+          "counter for jokes, puns, etc.",
+          "counter for ideas, thoughts or guesses"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発売",
+      "reading": "はつばい",
+      "meaning": "sale"
+    },
+    {
+      "word": "発想",
+      "reading": "はっそう",
+      "meaning": "idea"
+    },
+    {
+      "word": "発揮",
+      "reading": "はっき",
+      "meaning": "show (of power, ability, etc.)"
+    },
+    {
+      "word": "蒸発",
+      "reading": "じょうはつ",
+      "meaning": "evaporation"
+    },
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaning": "development"
+    },
+    {
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "statement"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "publication (of a newspaper, magazine, book, etc.)"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "development"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "announcement"
+    },
+    {
+      "word": "反発",
+      "reading": "はんぱつ",
+      "meaning": "opposition"
+    },
+    {
+      "word": "活発",
+      "reading": "かっぱつ",
+      "meaning": "lively"
+    },
+    {
+      "word": "発生",
+      "reading": "はっせい",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "発足",
+      "reading": "ほっそく",
+      "meaning": "starting"
+    },
+    {
+      "word": "爆発",
+      "reading": "ばくはつ",
+      "meaning": "explosion"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "discovery"
+    },
+    {
+      "word": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "departure"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一触即発",
+      "reading": "いっしょくそくはつ",
+      "meaning": "critical (touch and go) situation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一念発起",
+      "reading": "いちねんほっき",
+      "meaning": "being resolved to (do something)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一発かます",
+      "reading": "いっぱつかます",
+      "meaning": "to hit (someone) once",
+      "type": "idiom"
+    },
+    {
+      "word": "才気煥発",
+      "reading": "さいきかんぱつ",
+      "meaning": "quick-witted",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百発百中",
+      "reading": "ひゃっぱつひゃくちゅう",
+      "meaning": "always hitting the bull's-eye",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "談論風発",
+      "reading": "だんろんふうはつ",
+      "meaning": "spirited discussion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "丁々発止",
+      "reading": "ちょうちょうはっし",
+      "meaning": "with (the sound of) clashing swords",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一発必中",
+      "reading": "いっぱつひっちゅう",
+      "meaning": "success on the first try (attempt)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "国威発揚",
+      "reading": "こくいはつよう",
+      "meaning": "enhancing national prestige",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "発菩提心",
+      "reading": "ほつぼだいしん",
+      "meaning": "deciding to embrace Buddhism",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ほとんどの科学的進歩は当然のことについての発見に過ぎない。",
+      "reading": null,
+      "english": "Most scientific breakthroughs are nothing else than the discovery of the obvious.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "\"pronounce\"ってどうやって発音するの？",
+      "reading": null,
+      "english": "How do you pronounce \"pronounce\"?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なぜ今日出発したいのですか。",
+      "reading": null,
+      "english": "Why do you want to leave today?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電車で出発しました。",
+      "reading": null,
+      "english": "We left by train.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "私達は電車で出発しました。",
+      "reading": null,
+      "english": "We left by train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほとんどの科学的進歩は当然のことについての発見に過ぎない。",
+      "reading": null,
+      "english": "Most scientific breakthroughs are nothing else than the discovery of the obvious.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は直に出発する方がいい。",
+      "reading": null,
+      "english": "You may as well leave at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は今出発をすれば、当然間に合うはずだ。",
+      "reading": null,
+      "english": "You ought to be on time if you start now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は今出発する必要がある。",
+      "reading": null,
+      "english": "It is necessary for you to start now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は今すぐ出発せねばならない。",
+      "reading": null,
+      "english": "It is necessary that you start at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は月曜日にそこを出発した方がいい。",
+      "reading": null,
+      "english": "You had better leave there on Monday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もっと早く出発すれば良かったのに。",
+      "reading": null,
+      "english": "It is regrettable that you did not start earlier.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "核",
+    "reading": "かく",
+    "romaji": "kaku",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stone (of a fruit)",
+          "pit",
+          "pip"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "core (of an organization, team, etc.)",
+          "nucleus",
+          "heart"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "nuclear weapons"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nucleus (of an atom)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nucleus (of a cell)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "condensation nucleus"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(planetary) core"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ring (in a cyclic compound)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "梅は食うとも核食うな、中に天神寝てござる",
+      "reading": "うめはくうともさねくうな、なかにてんじんねてござる",
+      "meaning": "don't eat plum pits (because they are poisonous)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

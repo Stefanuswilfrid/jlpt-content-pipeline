@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "細かい",
+    "reading": "こまかい",
+    "romaji": "komakai",
+    "jlpt": "N4",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "small"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "fine",
+          "minute"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "minor",
+          "trivial"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "sensitive",
+          "attentive"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "careful",
+          "frugal",
+          "stingy"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "細い",
+      "reading": "ほそい",
+      "meaning": "thin"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "細かいことにこだわるな。",
+      "reading": null,
+      "english": "Don't split hairs.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "細かいことでとやかく言うのはよそう。",
+      "reading": null,
+      "english": "Let's not quibble over trivial matters.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "細かいことでとやかく言うのはよそう。",
+      "reading": null,
+      "english": "Let's not quibble over trivial matters.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "必要",
+    "reading": "ひつよう",
+    "romaji": "hitsuyou",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "diperlukan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "necessity",
+          "need",
+          "requirement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "重要",
+      "reading": "じゅうよう",
+      "meaning": "penting, esensial"
+    },
+    {
+      "word": "要求",
+      "reading": "ようきゅう",
+      "meaning": "permintaan, tuntutan"
+    },
+    {
+      "word": "主要",
+      "reading": "しゅよう",
+      "meaning": "kepala, utama"
+    },
+    {
+      "word": "需要",
+      "reading": "じゅよう",
+      "meaning": "tuntutan"
+    },
+    {
+      "word": "要素",
+      "reading": "ようそ",
+      "meaning": "elemen"
+    },
+    {
+      "word": "必死",
+      "reading": "ひっし",
+      "meaning": "keputusasaan, panik, hasil yang tak terhindarkan"
+    },
+    {
+      "word": "必ず",
+      "reading": "かならず",
+      "meaning": "Tentu saja, pastinya"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "必要は発明の母",
+      "reading": "ひつようははつめいのはは",
+      "meaning": "necessity is the mother of invention",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

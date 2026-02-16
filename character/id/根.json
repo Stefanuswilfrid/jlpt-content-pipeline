@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "根",
+    "reading": "ね",
+    "romaji": "ne",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "akar"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "root (of a tooth, hair, etc.)",
+          "center (of a pimple, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "root (of all evil, etc.)",
+          "source",
+          "origin",
+          "cause",
+          "basis"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's true nature"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(fishing) reef"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "屋根",
+      "reading": "やね",
+      "meaning": "atap"
+    },
+    {
+      "word": "羽",
+      "reading": "はね",
+      "meaning": "sayap"
+    },
+    {
+      "word": "垣根",
+      "reading": "かきね",
+      "meaning": "pagar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "事実無根",
+      "reading": "じじつむこん",
+      "meaning": "groundless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "息の根",
+      "reading": "いきのね",
+      "meaning": "life",
+      "type": "idiom"
+    },
+    {
+      "word": "六根清浄",
+      "reading": "ろっこんしょうじょう",
+      "meaning": "purification of the six roots of perception",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "盤根錯節",
+      "reading": "ばんこんさくせつ",
+      "meaning": "hard-to-penetrate event",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "草根木皮",
+      "reading": "そうこんもくひ",
+      "meaning": "roots of herbs and barks of trees used in Chinese medicine",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "盗人根性",
+      "reading": "ぬすっとこんじょう",
+      "meaning": "thievish nature (character)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "根を張る",
+      "reading": "ねをはる",
+      "meaning": "to spread its roots (of a tree, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "根が生える",
+      "reading": "ねがはえる",
+      "meaning": "to be unmovable",
+      "type": "idiom"
+    },
+    {
+      "word": "舌の根の乾かぬうち",
+      "reading": "したのねのかわかぬうち",
+      "meaning": "in the same breath",
+      "type": "idiom"
+    },
+    {
+      "word": "舌の根も乾かぬうち",
+      "reading": "したのねもかわかぬうち",
+      "meaning": "in the same breath",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空気は食べ物と同様、人間が根本的に必要とするものだ。",
+      "reading": null,
+      "indonesian": "Air, like food, is a basic human need.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

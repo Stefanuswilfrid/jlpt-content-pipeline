@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "共に",
+    "reading": "ともに",
+    "romaji": "tomoni",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "together",
+          "jointly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "at the same time",
+          "with",
+          "as ...",
+          "including",
+          "along with"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "both"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "共同",
+      "reading": "きょうどう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "公共",
+      "reading": "こうきょう",
+      "meaning": "public (facilities, service, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君と運命を共にしよう。",
+      "reading": null,
+      "english": "I'll take my chances with you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ハトもダチョウも共に鳥だが、前者は飛べるし、後者は飛べない。",
+      "reading": null,
+      "english": "The pigeon and the ostrich are both birds; one can fly and the other cannot.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

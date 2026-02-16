@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "散らす",
+    "reading": "ちらす",
+    "romaji": "chirasu",
+    "jlpt": "N3",
+    "frequency": 23250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to scatter",
+          "to cause a shower of"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to disperse",
+          "to distribute",
+          "to spread"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to resolve (a symptom, condition, etc.)",
+          "to relieve",
+          "to get rid of",
+          "to cure"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to distract",
+          "to divert"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'su' ending"
+        ],
+        "meanings": [
+          "to do ... wildly (i.e. disorderly or frequently)",
+          "to do ... all over the place"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "breaking up (a meeting, gathering, etc.)"
+    },
+    {
+      "word": "散らかす",
+      "reading": "ちらかす",
+      "meaning": "to scatter around"
+    },
+    {
+      "word": "散る",
+      "reading": "ちる",
+      "meaning": "to fall (e.g. blossoms, leaves)"
+    },
+    {
+      "word": "散らかる",
+      "reading": "ちらかる",
+      "meaning": "to be in disorder"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "火花を散らす",
+      "reading": "ひばなをちらす",
+      "meaning": "to give off sparks",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

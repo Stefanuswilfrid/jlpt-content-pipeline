@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "レジ",
+    "reading": "レジ",
+    "romaji": "reji",
+    "jlpt": "N4",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "daftar"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "checkout (counter)",
+          "cashier"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "会計はお帰りのレジでおねがいします。",
+      "reading": null,
+      "indonesian": "Pay the cashier on the way out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "レジはどこですか。",
+      "reading": null,
+      "indonesian": "Where's the checkout counter?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

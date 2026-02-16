@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "先ず",
+    "reading": "まず",
+    "romaji": "mazu",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "first (of all)",
+          "firstly",
+          "to begin with",
+          "before anything else"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "probably",
+          "most likely",
+          "almost certainly",
+          "virtually"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "more or less (satisfactory)",
+          "on the whole",
+          "reasonably"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "anyway",
+          "at any rate",
+          "for now (at least)",
+          "for the time being"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "last week"
+    },
+    {
+      "word": "先日",
+      "reading": "せんじつ",
+      "meaning": "the other day"
+    },
+    {
+      "word": "先",
+      "reading": "さっき",
+      "meaning": "a short while ago"
+    },
+    {
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "last month"
+    },
+    {
+      "word": "先輩",
+      "reading": "せんぱい",
+      "meaning": "senior (at work or school)"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "going ahead"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "甘井先ず竭く",
+      "reading": "かんせいまずつく",
+      "meaning": "the flame that burns twice as bright burns half as long",
+      "type": "proverb"
+    },
+    {
+      "word": "先ず隗より始めよ",
+      "reading": "まずかいよりはじめよ",
+      "meaning": "start with the first step",
+      "type": "proverb"
+    },
+    {
+      "word": "将を射んと欲すれば先ず馬を射よ",
+      "reading": "しょうをいんとほっすればまずうまをいよ",
+      "meaning": "do not shoot straight for the top",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

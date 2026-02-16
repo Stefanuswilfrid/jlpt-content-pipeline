@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "願う",
+    "reading": "ねがう",
+    "romaji": "negau",
+    "jlpt": "N3",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menginginkan",
+          "mendoakan",
+          "meminta"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to beg",
+          "to request",
+          "to implore",
+          "to pray"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to have something done for oneself"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "願い",
+      "reading": "ねがい",
+      "meaning": "keinginan, harapan, permintaan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "息子が何とか勉強する気になってくれることを願うよ。",
+      "reading": null,
+      "indonesian": "I hope my son will bring himself to study hard.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今回は何事もないことを願うばかりだよ。",
+      "reading": null,
+      "indonesian": "I just hope nothing goes wrong this time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

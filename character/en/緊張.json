@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "緊張",
+    "reading": "きんちょう",
+    "romaji": "kinchou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "tension",
+          "strain",
+          "nervousness",
+          "stress"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "tensions (between countries, groups, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tonus",
+          "muscle tone"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "主張",
+      "reading": "しゅちょう",
+      "meaning": "claim"
+    },
+    {
+      "word": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "business trip"
+    },
+    {
+      "word": "拡張",
+      "reading": "かくちょう",
+      "meaning": "expansion"
+    },
+    {
+      "word": "頑張る",
+      "reading": "がんばる",
+      "meaning": "to persevere"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "緊張緩和",
+      "reading": "きんちょうかんわ",
+      "meaning": "easing of tensions",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

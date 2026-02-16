@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "そんな",
+    "reading": "そんな",
+    "romaji": "sonna",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pre-noun adjectival (rentaishi)"
+        ],
+        "meanings": [
+          "seperti itu",
+          "semacam itu"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "no way!",
+          "never!"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そんなつもりではなかったんだ。",
+      "reading": null,
+      "indonesian": "That wasn't my intention.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "そんなのありえないよ。",
+      "reading": null,
+      "indonesian": "It can't be!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "日本人ならそんなことはけっしてしないでしょう。",
+      "reading": null,
+      "indonesian": "A Japanese would never do such a thing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなバカな！",
+      "reading": null,
+      "indonesian": "No way!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

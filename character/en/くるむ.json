@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "包む",
+    "reading": "くるむ",
+    "romaji": "kurumu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to wrap up (in)",
+          "to roll up (in)",
+          "to tuck (up)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "包帯",
+      "reading": "ほうたい",
+      "meaning": "bandage"
+    },
+    {
+      "word": "包む",
+      "reading": "つつむ",
+      "meaning": "to wrap up"
+    },
+    {
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaning": "packing"
+    },
+    {
+      "word": "包丁",
+      "reading": "ほうちょう",
+      "meaning": "kitchen knife"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "オブラートに包む",
+      "reading": "オブラートにつつむ",
+      "meaning": "to say in a round-about way (not to upset)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

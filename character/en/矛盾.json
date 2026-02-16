@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "矛盾",
+    "reading": "むじゅん",
+    "romaji": "mujun",
+    "jlpt": "N2",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "contradiction",
+          "inconsistency"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "盾",
+      "reading": "たて",
+      "meaning": "shield"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自己矛盾",
+      "reading": "じこむじゅん",
+      "meaning": "self-contradiction",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "矛盾撞着",
+      "reading": "むじゅんどうちゃく",
+      "meaning": "self-contradiction",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "前後矛盾",
+      "reading": "ぜんごむじゅん",
+      "meaning": "self-contradiction",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "撞着矛盾",
+      "reading": "どうちゃくむじゅん",
+      "meaning": "self-contradiction",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

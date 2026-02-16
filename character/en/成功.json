@@ -1,0 +1,182 @@
+{
+  "definition": {
+    "word": "成功",
+    "reading": "せいこう",
+    "romaji": "seikou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "success",
+          "achievement"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "succeeding (in life)",
+          "(worldly) success",
+          "prosperity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "成長",
+      "reading": "せいちょう",
+      "meaning": "growth"
+    },
+    {
+      "word": "賛成",
+      "reading": "さんせい",
+      "meaning": "approval"
+    },
+    {
+      "word": "構成",
+      "reading": "こうせい",
+      "meaning": "composition"
+    },
+    {
+      "word": "成績",
+      "reading": "せいせき",
+      "meaning": "results"
+    },
+    {
+      "word": "完成",
+      "reading": "かんせい",
+      "meaning": "completion"
+    },
+    {
+      "word": "成人",
+      "reading": "せいじん",
+      "meaning": "adult"
+    },
+    {
+      "word": "成年",
+      "reading": "せいねん",
+      "meaning": "adult age"
+    },
+    {
+      "word": "成立",
+      "reading": "せいりつ",
+      "meaning": "formation"
+    },
+    {
+      "word": "作成",
+      "reading": "さくせい",
+      "meaning": "making (a report, plan, contract, etc.)"
+    },
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaning": "ingredient"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "失敗は成功のもと",
+      "reading": "しっぱいはせいこうのもと",
+      "meaning": "failure teaches success",
+      "type": "proverb"
+    },
+    {
+      "word": "失敗は成功の母",
+      "reading": "しっぱいはせいこうのはは",
+      "meaning": "failure is the mother of success",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "成功だ！",
+      "reading": null,
+      "english": "We succeeded!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "成功だ！",
+      "reading": null,
+      "english": "We did it!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "成功だ！",
+      "reading": null,
+      "english": "We succeeded.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "成功だ！",
+      "reading": null,
+      "english": "I succeeded!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "成功だ！",
+      "reading": null,
+      "english": "You succeeded!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "成功だ！",
+      "reading": null,
+      "english": "He succeeded!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "成功だ！",
+      "reading": null,
+      "english": "She succeeded!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "成功だ！",
+      "reading": null,
+      "english": "They succeeded!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "成功だ！",
+      "reading": null,
+      "english": "It succeeded!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は成功するよ。",
+      "reading": null,
+      "english": "You can get ahead in the world.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

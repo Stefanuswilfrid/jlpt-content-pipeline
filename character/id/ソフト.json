@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "ソフト",
+    "reading": "ソフト",
+    "romaji": "sofuto",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "lembut; topi lembut; perangkat lunak"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "software"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "soft hat",
+          "felt hat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "soft serve ice cream"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "softball"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もう一つソフトクリームを食べようかな。",
+      "reading": null,
+      "indonesian": "I think I will have one more ice cream cone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ソフトドリンクはありますか。",
+      "reading": null,
+      "indonesian": "Do you have any soft drinks?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

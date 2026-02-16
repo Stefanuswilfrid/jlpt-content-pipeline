@@ -1,0 +1,242 @@
+{
+  "definition": {
+    "word": "人間",
+    "reading": "にんげん",
+    "romaji": "ningen",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "manusia",
+          "orang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "character (of a person)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "individu, orang pribadi"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "tanda kehidupan"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "periode, jangka waktu"
+    },
+    {
+      "word": "年間",
+      "reading": "ねんかん",
+      "meaning": "tahun"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(kehidupan) manusia (misalnya, dari konsepsi hingga kematian)"
+    },
+    {
+      "word": "人物",
+      "reading": "じんぶつ",
+      "meaning": "karakter, kepribadian, pria berbakat"
+    },
+    {
+      "word": "夫人",
+      "reading": "ふじん",
+      "meaning": "istri, Nyonya, perempuan"
+    },
+    {
+      "word": "本人",
+      "reading": "ほんにん",
+      "meaning": "orang itu sendiri"
+    },
+    {
+      "word": "友人",
+      "reading": "ゆうじん",
+      "meaning": "teman (formal)"
+    },
+    {
+      "word": "老人",
+      "reading": "ろうじん",
+      "meaning": "orang tua, lansia"
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaning": "perusahaan, rekan, kolega, sahabat"
+    },
+    {
+      "word": "人類",
+      "reading": "じんるい",
+      "meaning": "umat manusia, kemanusiaan"
+    },
+    {
+      "word": "婦人",
+      "reading": "ふじん",
+      "meaning": "wanita (sama seperti 女性 (じょせい)、女の人 (おんなのひと))"
+    },
+    {
+      "word": "名人",
+      "reading": "めいじん",
+      "meaning": "master, ahli"
+    },
+    {
+      "word": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "saat itu, detik"
+    },
+    {
+      "word": "人工",
+      "reading": "じんこう",
+      "meaning": "buatan, hasil karya manusia, pekerjaan manusia"
+    },
+    {
+      "word": "人種",
+      "reading": "じんしゅ",
+      "meaning": "ras (manusia)"
+    },
+    {
+      "word": "犯人",
+      "reading": "はんにん",
+      "meaning": "pelaku kejahatan, kriminal"
+    },
+    {
+      "word": "他人",
+      "reading": "たにん",
+      "meaning": "orang yang tidak ada hubungan, orang asing"
+    },
+    {
+      "word": "詩人",
+      "reading": "しじん",
+      "meaning": "penyair"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人間万事塞翁が馬",
+      "reading": "にんげんばんじさいおうがうま",
+      "meaning": "inscrutable are the ways of heaven",
+      "type": "proverb"
+    },
+    {
+      "word": "人間到る処青山あり",
+      "reading": "にんげんいたるところせいざんあり",
+      "meaning": "home is wherever one lays one's hat",
+      "type": "proverb"
+    },
+    {
+      "word": "人間は万物の霊長",
+      "reading": "にんげんはばんぶつのれいちょう",
+      "meaning": "man is the crown of creation",
+      "type": "proverb"
+    },
+    {
+      "word": "人間万事金の世の中",
+      "reading": "にんげんばんじかねのよのなか",
+      "meaning": "money talks",
+      "type": "proverb"
+    },
+    {
+      "word": "人間ができている",
+      "reading": "にんげんができている",
+      "meaning": "to be mature and kind",
+      "type": "idiom"
+    },
+    {
+      "word": "人間は万物の尺度である",
+      "reading": "にんげんはばんぶつのしゃくどである",
+      "meaning": "man is the measure of all things",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "コンピューターのおかげで人間は馬鹿になる。",
+      "reading": null,
+      "indonesian": "Computers make people stupid.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コンピューターのおかげで人間は馬鹿になる。",
+      "reading": null,
+      "indonesian": "Computers make people stupid.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君たちは次の世代の人間だ。",
+      "reading": null,
+      "indonesian": "You belong to the next generation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気は食べ物と同様、人間が根本的に必要とするものだ。",
+      "reading": null,
+      "indonesian": "Air, like food, is a basic human need.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気と人間との関係は水と魚との関係と同じだ。",
+      "reading": null,
+      "indonesian": "Air is to man what water is to fish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人間にとって空気とは、魚にとっての水のようなものだ。",
+      "reading": null,
+      "indonesian": "Air is to man what water is to fish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気がなかったら人間は１０分と生きていられない。",
+      "reading": null,
+      "indonesian": "If there were no air, man could not live even ten minutes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気がなかったら、人間は生きられないだろう。",
+      "reading": null,
+      "indonesian": "If it were not for air, we could not live.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "苦しむことは人間の定めである。",
+      "reading": null,
+      "indonesian": "It is man's lot to suffer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

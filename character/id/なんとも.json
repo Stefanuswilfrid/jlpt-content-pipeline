@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "何とも",
+    "reading": "なんとも",
+    "romaji": "nantomo",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "tidak ada (dengan kata kerja negatif)",
+          "sama sekali",
+          "tidak sedikit pun"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(not) anything",
+          "(not) at all",
+          "(not) a bit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何分",
+      "reading": "なにぶん",
+      "meaning": "Tentu saja, silakan."
+    },
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "entah bagaimana, dengan cara apa pun, dengan satu atau lain cara"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "dengan segala cara, semuanya"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "なんとも面目ありません。",
+      "reading": null,
+      "indonesian": "I have no excuse.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その知らせなんかなんともない。",
+      "reading": null,
+      "indonesian": "I care nothing for the news.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その雑誌はおもしろくもなんともない。",
+      "reading": null,
+      "indonesian": "The magazine does nothing for me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "エンジンはなんともないが車が動かない。",
+      "reading": null,
+      "indonesian": "Nothing's wrong with the engine, but my car won't move.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "選挙の結果はなんとも言えない。",
+      "reading": null,
+      "indonesian": "The outcome of the election is doubtful.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はなんともありません。",
+      "reading": null,
+      "indonesian": "Nothing is the matter with me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "昨日はなんともひどい天気だった。",
+      "reading": null,
+      "indonesian": "The weather was miserable yesterday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今のところなんともいえない。",
+      "reading": null,
+      "indonesian": "I can not say anything for the moment.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今のところなんともいえない。",
+      "reading": null,
+      "indonesian": "I can't say anything now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今のところなんともいえない。",
+      "reading": null,
+      "indonesian": "I can't say anything at this point.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

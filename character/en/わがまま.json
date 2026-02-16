@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "我儘",
+    "reading": "わがまま",
+    "romaji": "wagamama",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "selfish",
+          "egoist"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "我慢",
+      "reading": "がまん",
+      "meaning": "endurance"
+    },
+    {
+      "word": "我々",
+      "reading": "われわれ",
+      "meaning": "we"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君のようにわがままでは友達がいなくなるよ。",
+      "reading": null,
+      "english": "Your selfishness will lose you your friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何でもわがままを通せると思ってはいけない。",
+      "reading": null,
+      "english": "You can't hope to have your own way in everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その子はどうしても自分のわがままを通そうとしている。",
+      "reading": null,
+      "english": "The boy will have his own way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ケイトはいつもわがままを通そうとするので級友に人気がない。",
+      "reading": null,
+      "english": "Kate isn't popular among her classmates because she always tries to have her own way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

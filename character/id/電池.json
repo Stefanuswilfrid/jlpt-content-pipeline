@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "電池",
+    "reading": "でんち",
+    "romaji": "denchi",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "baterai"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "電流",
+      "reading": "でんりゅう",
+      "meaning": "arus listrik"
+    },
+    {
+      "word": "乾電池",
+      "reading": "かんでんち",
+      "meaning": "sel kering, baterai"
+    },
+    {
+      "word": "電力",
+      "reading": "でんりょく",
+      "meaning": "tenaga listrik"
+    },
+    {
+      "word": "電波",
+      "reading": "でんぱ",
+      "meaning": "gelombang elektromagnetik"
+    },
+    {
+      "word": "電柱",
+      "reading": "でんちゅう",
+      "meaning": "tiang telepon, tiang telegraf, tiang lampu"
+    },
+    {
+      "word": "電球",
+      "reading": "でんきゅう",
+      "meaning": "bola lampu"
+    },
+    {
+      "word": "電源",
+      "reading": "でんげん",
+      "meaning": "sumber listrik, daya (misalnya, tombol pada TV)"
+    },
+    {
+      "word": "停電",
+      "reading": "ていでん",
+      "meaning": "pemadaman listrik"
+    },
+    {
+      "word": "電報",
+      "reading": "でんぽう",
+      "meaning": "telegram"
+    },
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "telepon"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ラジオの電池をかえなければならない。",
+      "reading": null,
+      "indonesian": "I have to change the batteries in the radio.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ところで、予備の電池はあるの？",
+      "reading": null,
+      "indonesian": "By the way, do you have any spare batteries?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この電池はどれくらいもちますか。",
+      "reading": null,
+      "indonesian": "How long will this battery last?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このコンピューターは電池で作動する。",
+      "reading": null,
+      "indonesian": "This computer runs on batteries.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このおもちゃの自動車は電池で動く。",
+      "reading": null,
+      "indonesian": "This toy car runs on batteries.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このおもちゃの車は電池で動きます。",
+      "reading": null,
+      "indonesian": "This toy car runs on batteries.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "カメラ用の電池を下さい。",
+      "reading": null,
+      "indonesian": "May I have some camera batteries, please?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "PC内部のタイマー用ボタン電池が切れた。",
+      "reading": null,
+      "indonesian": "The button battery in the PC's internal timer has gone flat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "PC内部のタイマー用ボタン電池が切れた。",
+      "reading": null,
+      "indonesian": "The button battery for my computer's timer died.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

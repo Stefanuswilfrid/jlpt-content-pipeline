@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "委員",
+    "reading": "いいん",
+    "romaji": "iin",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "anggota komite"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "anggota, keanggotaan"
+    },
+    {
+      "word": "議員",
+      "reading": "ぎいん",
+      "meaning": "anggota parlemen, kongres, atau dewan"
+    },
+    {
+      "word": "全員",
+      "reading": "ぜんいん",
+      "meaning": "semua anggota"
+    },
+    {
+      "word": "定員",
+      "reading": "ていいん",
+      "meaning": "jumlah personel tetap, kapasitas (misalnya, kapal)"
+    },
+    {
+      "word": "公務員",
+      "reading": "こうむいん",
+      "meaning": "pegawai pemerintah, pegawai negeri"
+    },
+    {
+      "word": "店員",
+      "reading": "てんいん",
+      "meaning": "pegawai toko; karyawan toko"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君はあの委員会のメンバーですか。",
+      "reading": null,
+      "indonesian": "Are you on the committee?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教育委員会が学校を管理している。",
+      "reading": null,
+      "indonesian": "The Board of Education governs the schools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校では新聞委員会に入っています。",
+      "reading": null,
+      "indonesian": "At school I am on the Newspaper Committee.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

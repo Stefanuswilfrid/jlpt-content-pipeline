@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "完成",
+    "reading": "かんせい",
+    "romaji": "kansei",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "lengkap",
+          "penyelesaian; kesempurnaan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "成長",
+      "reading": "せいちょう",
+      "meaning": "pertumbuhan"
+    },
+    {
+      "word": "賛成",
+      "reading": "さんせい",
+      "meaning": "persetujuan, kesepakatan"
+    },
+    {
+      "word": "構成",
+      "reading": "こうせい",
+      "meaning": "organisasi, komposisi"
+    },
+    {
+      "word": "成功",
+      "reading": "せいこう",
+      "meaning": "sukses, berhasil"
+    },
+    {
+      "word": "成績",
+      "reading": "せいせき",
+      "meaning": "nilai (misalnya, pada ujian), catatan akademik"
+    },
+    {
+      "word": "完全",
+      "reading": "かんぜん",
+      "meaning": "kesempurnaan, kelengkapan"
+    },
+    {
+      "word": "成人",
+      "reading": "せいじん",
+      "meaning": "dewasa"
+    },
+    {
+      "word": "完了",
+      "reading": "かんりょう",
+      "meaning": "penyelesaian, kesimpulan"
+    },
+    {
+      "word": "成年",
+      "reading": "せいねん",
+      "meaning": "mayoritas, usia dewasa"
+    },
+    {
+      "word": "成立",
+      "reading": "せいりつ",
+      "meaning": "pembentukan, pendirian, penyelesaian"
+    },
+    {
+      "word": "作成",
+      "reading": "さくせい",
+      "meaning": "penciptaan, persiapan, membuat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は自分でそれを完成しなければならない。",
+      "reading": null,
+      "indonesian": "You yourself have to finish it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "橋は今年末までには完成されるだろう。",
+      "reading": null,
+      "indonesian": "The bridge will be completed by the end of this year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "橋はその時までに完成していた。",
+      "reading": null,
+      "indonesian": "The bridge had been built before that time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつ完成したのですか。",
+      "reading": null,
+      "indonesian": "When was it finished?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "われわれの家が完成されるまでに３カ月かかるだろう。",
+      "reading": null,
+      "indonesian": "It will be three months before our house is completed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "やっと絵が完成したよ。",
+      "reading": null,
+      "indonesian": "Finally, I finished a painting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

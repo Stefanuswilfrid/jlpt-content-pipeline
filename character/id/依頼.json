@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "依頼",
+    "reading": "いらい",
+    "romaji": "irai",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "permintaan; ketergantungan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "dependence",
+          "reliance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "ketergantungan, kepercayaan, keyakinan"
+    },
+    {
+      "word": "頼る",
+      "reading": "たよる",
+      "meaning": "untuk mengandalkan, untuk menggunakan, untuk bergantung pada"
+    },
+    {
+      "word": "頼む",
+      "reading": "たのむ",
+      "meaning": "meminta, memohon (bantuan)"
+    },
+    {
+      "word": "依然",
+      "reading": "いぜん",
+      "meaning": "masih, sampai saat ini"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "明らか",
+    "reading": "あきらか",
+    "romaji": "akiraka",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "clear",
+          "obvious",
+          "evident",
+          "plain",
+          "definite"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "bright",
+          "light"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "明確",
+      "reading": "めいかく",
+      "meaning": "clear"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "透明",
+      "reading": "とうめい",
+      "meaning": "transparent"
+    },
+    {
+      "word": "声明",
+      "reading": "せいめい",
+      "meaning": "declaration"
+    },
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "civilization"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "proof"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "火を見るより明らか",
+      "reading": "ひをみるよりあきらか",
+      "meaning": "clear as day",
+      "type": "idiom"
+    },
+    {
+      "word": "火を見るよりも明らか",
+      "reading": "ひをみるよりもあきらか",
+      "meaning": "clear as day",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "火元は明らかでない。",
+      "reading": null,
+      "english": "The origin of the fire is unknown.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何をしなければならないかは明らかです。",
+      "reading": null,
+      "english": "It is clear what must be done.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "運転者が十分に注意していなかったことは明らかだった。",
+      "reading": null,
+      "english": "It was obvious that the driver had not been careful enough.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

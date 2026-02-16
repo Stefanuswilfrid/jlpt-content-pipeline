@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "別に",
+    "reading": "べつに",
+    "romaji": "betsuni",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(tidak) terlalu",
+          "tidak ada apa-apa"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "separately",
+          "apart",
+          "additionally",
+          "extra"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaning": "spesial"
+    },
+    {
+      "word": "差別",
+      "reading": "さべつ",
+      "meaning": "diskriminasi, diferensiasi"
+    },
+    {
+      "word": "別れ",
+      "reading": "わかれ",
+      "meaning": "perpisahan, pemisahan, selamat tinggal"
+    },
+    {
+      "word": "格別",
+      "reading": "かくべつ",
+      "meaning": "luar biasa"
+    },
+    {
+      "word": "分ける",
+      "reading": "わける",
+      "meaning": "untuk membagi, untuk memisahkan"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "perbedaan, pembedaan, klasifikasi"
+    },
+    {
+      "word": "別荘",
+      "reading": "べっそう",
+      "meaning": "vila; rumah liburan; pondok musim panas"
+    },
+    {
+      "word": "性別",
+      "reading": "せいべつ",
+      "meaning": "jenis kelamin, gender"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "マスタードを別に持ってきてください。",
+      "reading": null,
+      "indonesian": "I'd like to have mustard on the side.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "たまにまる一日ぼけっとしていても別に悪い事じゃない。",
+      "reading": null,
+      "indonesian": "It's no crime to just idle the whole day once in a while.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ソースを別にください。",
+      "reading": null,
+      "indonesian": "I'd like the sauce on the side.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これらの本を主題別に分類してください。",
+      "reading": null,
+      "indonesian": "Please classify these books by subject.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

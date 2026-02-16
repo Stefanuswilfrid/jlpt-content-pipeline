@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "初めに",
+    "reading": "はじめに",
+    "romaji": "hajimeni",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "Sebagai permulaan",
+          "pertama-tama"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "Introduction",
+          "Preface"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "初旬",
+      "reading": "しょじゅん",
+      "meaning": "10 hari pertama bulan ini"
+    },
+    {
+      "word": "初歩",
+      "reading": "しょほ",
+      "meaning": "unsur-unsur, dasar-dasar"
+    },
+    {
+      "word": "初級",
+      "reading": "しょきゅう",
+      "meaning": "tingkat dasar"
+    },
+    {
+      "word": "初めて",
+      "reading": "はじめて",
+      "meaning": "untuk pertama kalinya"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "先生は授業の始めに出席をとった。",
+      "reading": null,
+      "indonesian": "Our teacher called the roll at the beginning of the class.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私の始めに終わりがある。",
+      "reading": null,
+      "indonesian": "In my beginning is my end.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私の始めに終わりがある。",
+      "reading": null,
+      "indonesian": "In my beginning is my end.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "先生は授業の始めに出席をとった。",
+      "reading": null,
+      "indonesian": "Our teacher called the roll at the beginning of the class.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "手始めに参考書をありったけ用意する。",
+      "reading": null,
+      "indonesian": "For starters, prepare all the reference books you can find.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "手始めに参考書をありったけ用意する。",
+      "reading": null,
+      "indonesian": "For starters, prepare all the reference books you can find.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

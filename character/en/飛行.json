@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "飛行",
+    "reading": "ひこう",
+    "romaji": "hikou",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "flight",
+          "flying",
+          "aviation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "action"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "publication (of a newspaper, magazine, book, etc.)"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "execution (e.g. of a plan)"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "going ahead"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "fashion"
+    },
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "customary practice"
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "moving forward (e.g. of a vehicle)"
+    },
+    {
+      "word": "刊行",
+      "reading": "かんこう",
+      "meaning": "publication"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "airplane"
+    },
+    {
+      "word": "流行る",
+      "reading": "はやる",
+      "meaning": "to be popular"
+    },
+    {
+      "word": "飛び出す",
+      "reading": "とびだす",
+      "meaning": "to jump out"
+    },
+    {
+      "word": "行き",
+      "reading": "いき",
+      "meaning": "the way there"
+    },
+    {
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "delinquency"
+    },
+    {
+      "word": "行儀",
+      "reading": "ぎょうぎ",
+      "meaning": "manners"
+    },
+    {
+      "word": "決行",
+      "reading": "けっこう",
+      "meaning": "doing (with resolve)"
+    },
+    {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "bank"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は飛行機で旅行したことがありますか。",
+      "reading": null,
+      "english": "Have you ever traveled in a plane?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空港に着くと、その飛行機が飛び立つのが見えた。",
+      "reading": null,
+      "english": "Arriving at the airport, I saw the plane taking off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "楽しい飛行機の旅を！",
+      "reading": null,
+      "english": "Have a nice flight.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

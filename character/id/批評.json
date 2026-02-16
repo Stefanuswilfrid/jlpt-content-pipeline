@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "批評",
+    "reading": "ひひょう",
+    "romaji": "hihyou",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "kritik",
+          "ulasan",
+          "komentar"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "評判",
+      "reading": "ひょうばん",
+      "meaning": "ketenaran, reputasi"
+    },
+    {
+      "word": "批判",
+      "reading": "ひはん",
+      "meaning": "kritik"
+    },
+    {
+      "word": "評価",
+      "reading": "ひょうか",
+      "meaning": "penilaian, evaluasi"
+    },
+    {
+      "word": "評論",
+      "reading": "ひょうろん",
+      "meaning": "kritik, ulasan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "印象批評",
+      "reading": "いんしょうひひょう",
+      "meaning": "impressionistic criticism",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "片付く",
+    "reading": "かたづく",
+    "romaji": "katazuku",
+    "jlpt": "N3",
+    "frequency": 21750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be put in order",
+          "to be put to rights"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be disposed of",
+          "to be solved"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be finished"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be married (off)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "付く",
+      "reading": "つく",
+      "meaning": "to be attached"
+    },
+    {
+      "word": "突く",
+      "reading": "つつく",
+      "meaning": "to poke (repeatedly, lightly)"
+    },
+    {
+      "word": "基づく",
+      "reading": "もとづく",
+      "meaning": "to be based (on)"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "reception (desk)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

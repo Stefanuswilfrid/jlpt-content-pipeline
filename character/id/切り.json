@@ -1,0 +1,157 @@
+{
+  "definition": {
+    "word": "切り",
+    "reading": "きり",
+    "romaji": "kiri",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "batas",
+          "tempat untuk berhenti"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bound",
+          "limit",
+          "end"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "delivery date (of a futures contract)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "finale (of a noh song)",
+          "end of an act (in jōruri or kabuki)",
+          "final performance of the day (in vaudeville)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "trump card"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "king (court card; in mekuri karuta and unsun karuta)"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for slices (esp. thick slices)",
+          "counter for cuts (of fish, meat, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "particle"
+        ],
+        "meanings": [
+          "only",
+          "just"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "切れ",
+      "reading": "きれ",
+      "meaning": "kain, potongan, terpotong"
+    },
+    {
+      "word": "適切",
+      "reading": "てきせつ",
+      "meaning": "sesuai, memadai, relevan"
+    },
+    {
+      "word": "切手",
+      "reading": "きって",
+      "meaning": "prangko pos"
+    },
+    {
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaning": "tiket"
+    },
+    {
+      "word": "売り切れ",
+      "reading": "うりきれ",
+      "meaning": "terjual habis"
+    },
+    {
+      "word": "踏切",
+      "reading": "ふみきり",
+      "meaning": "perlintasan kereta api, perlintasan sebidang, garis awal, goresan, persimpangan"
+    },
+    {
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaning": "kebaikan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "トカゲの尻尾切り",
+      "reading": "とかげのしっぽぎり",
+      "meaning": "evading blame by pinning it on a subordinate and abandoning them",
+      "type": "idiom"
+    },
+    {
+      "word": "指切りげんまん、嘘ついたら針千本飲ます",
+      "reading": "ゆびきりげんまん、うそついたらはりせんぼんのます",
+      "meaning": "cross my heart and hope to die, stick a needle in my eye",
+      "type": "idiom"
+    },
+    {
+      "word": "丸い卵も切りようで四角",
+      "reading": "まるいたまごもきりようでしかく",
+      "meaning": "harsh words make the going rough",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は自分の道を切り開こうとすべきだ。",
+      "reading": null,
+      "indonesian": "You should try to cut your way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその紙を切りましたか。",
+      "reading": null,
+      "indonesian": "Did you cut the paper?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

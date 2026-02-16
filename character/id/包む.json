@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "包む",
+    "reading": "つつむ",
+    "romaji": "tsutsumu",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membungkus",
+          "menutupi"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cover",
+          "to envelop",
+          "to shroud",
+          "to engulf"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to conceal (a feeling)",
+          "to hide"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to give (money in an envelope; as a wedding gift, funeral offering, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaning": "pengemasan, pembungkusan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "オブラートに包む",
+      "reading": "オブラートにつつむ",
+      "meaning": "to say in a round-about way (not to upset)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

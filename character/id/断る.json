@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "断る",
+    "reading": "ことわる",
+    "romaji": "kotowaru",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menolak",
+          "mengingkari",
+          "memecat"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to inform",
+          "to give notice",
+          "to ask in advance (and get approval)",
+          "to get permission"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to ask leave",
+          "to excuse oneself (from)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "横断",
+      "reading": "おうだん",
+      "meaning": "persimpangan"
+    },
+    {
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "penilaian, keputusan"
+    },
+    {
+      "word": "断つ",
+      "reading": "たつ",
+      "meaning": "untuk memutuskan, untuk memotong"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosa"
+    },
+    {
+      "word": "断水",
+      "reading": "だんすい",
+      "meaning": "pemadaman air"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

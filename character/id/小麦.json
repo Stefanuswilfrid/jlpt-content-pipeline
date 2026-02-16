@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "小麦",
+    "reading": "こむぎ",
+    "romaji": "komugi",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gandum"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "小屋",
+      "reading": "こや",
+      "meaning": "gubuk, kabin, gudang"
+    },
+    {
+      "word": "少々",
+      "reading": "しょうしょう",
+      "meaning": "sedikit; pendek (waktu) (formal untuk 少し (すこし))"
+    },
+    {
+      "word": "小包",
+      "reading": "こづつみ",
+      "meaning": "paket, bungkusan"
+    },
+    {
+      "word": "小銭",
+      "reading": "こぜに",
+      "meaning": "koin, uang receh"
+    },
+    {
+      "word": "蕎麦",
+      "reading": "そば",
+      "meaning": "soba (mi gandum)"
+    },
+    {
+      "word": "小",
+      "reading": "しょう",
+      "meaning": "kecil"
+    },
+    {
+      "word": "少女",
+      "reading": "しょうじょ",
+      "meaning": "gadis muda"
+    },
+    {
+      "word": "小数",
+      "reading": "しょうすう",
+      "meaning": "pecahan (bagian dari), desimal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は大麦と小麦の区別ができますか。",
+      "reading": null,
+      "indonesian": "Can you tell wheat from barley?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "小麦と大麦の見分けってつく？",
+      "reading": null,
+      "indonesian": "Can you tell wheat from barley?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それぞれの畑はどのくらいの小麦を産出しますか。",
+      "reading": null,
+      "indonesian": "How much wheat does each field yield?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつ小麦の取り入れをするのですか。",
+      "reading": null,
+      "indonesian": "When will you harvest your wheat?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

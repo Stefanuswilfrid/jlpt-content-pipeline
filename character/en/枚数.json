@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "枚数",
+    "reading": "まいすう",
+    "romaji": "maisuu",
+    "jlpt": "N2",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the number of flat things"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "win-loss difference which influences the ranking of wrestlers"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "点数",
+      "reading": "てんすう",
+      "meaning": "marks"
+    },
+    {
+      "word": "小数",
+      "reading": "しょうすう",
+      "meaning": "fraction (part of)"
+    },
+    {
+      "word": "整数",
+      "reading": "せいすう",
+      "meaning": "integer"
+    },
+    {
+      "word": "単数",
+      "reading": "たんすう",
+      "meaning": "single"
+    },
+    {
+      "word": "分数",
+      "reading": "ぶんすう",
+      "meaning": "fraction"
+    },
+    {
+      "word": "無数",
+      "reading": "むすう",
+      "meaning": "innumerable"
+    },
+    {
+      "word": "算数",
+      "reading": "さんすう",
+      "meaning": "arithmetic"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "plural"
+    },
+    {
+      "word": "過半数",
+      "reading": "かはんすう",
+      "meaning": "majority"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "number of times"
+    },
+    {
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "coupon tickets"
+    },
+    {
+      "word": "偶数",
+      "reading": "ぐうすう",
+      "meaning": "even number"
+    },
+    {
+      "word": "数学",
+      "reading": "すうがく",
+      "meaning": "mathematics"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "コピーの枚数を数えてください。",
+      "reading": null,
+      "english": "Please count the number of copies.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コピーの枚数を数えてください。",
+      "reading": null,
+      "english": "Please count the number of copies.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

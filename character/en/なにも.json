@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "何も",
+    "reading": "なにも",
+    "romaji": "nanimo",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "(not) anything",
+          "(nothing) at all",
+          "(not) any",
+          "nothing"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "and everything else",
+          "and all"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "(not) at all",
+          "(not) in the least",
+          "(not) especially",
+          "(not) to that extent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    },
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "why?"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の父さんは君のためにあんなにも苦労したのだ。",
+      "reading": null,
+      "english": "Your father went through all that trouble for your sake.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もし空気と水がなければなにものも生きていけない。",
+      "reading": null,
+      "english": "If it were not for air and water, nothing could live.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なにもすることがないから、テレビを見たっていいだろう。",
+      "reading": null,
+      "english": "There's nothing to do, so I may as well watch television.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうしてなにも言わなかったのですか。",
+      "reading": null,
+      "english": "Why didn't you say anything?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そういうわけで、それはそんなにも大変な仕事だ。",
+      "reading": null,
+      "english": "It is such a hard job for that reason.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

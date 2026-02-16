@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "昼寝",
+    "reading": "ひるね",
+    "romaji": "hirune",
+    "jlpt": "N2",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "(afternoon) nap",
+          "sleeping during the day",
+          "siesta"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "寝台",
+      "reading": "しんだい",
+      "meaning": "bed"
+    },
+    {
+      "word": "朝寝坊",
+      "reading": "あさねぼう",
+      "meaning": "sleeping late in the morning"
+    },
+    {
+      "word": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "lunch break"
+    },
+    {
+      "word": "昼",
+      "reading": "ひる",
+      "meaning": "noon"
+    },
+    {
+      "word": "昼食",
+      "reading": "ちゅうしょく",
+      "meaning": "lunch"
+    },
+    {
+      "word": "昼間",
+      "reading": "ひるま",
+      "meaning": "daytime"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "盗人の昼寝",
+      "reading": "ぬすびとのひるね",
+      "meaning": "there's a reason behind every action",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

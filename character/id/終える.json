@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "終える",
+    "reading": "おえる",
+    "romaji": "oeru",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "untuk menyelesaikan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to graduate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "終了",
+      "reading": "しゅうりょう",
+      "meaning": "akhir, penutupan, penghentian"
+    },
+    {
+      "word": "最終",
+      "reading": "さいしゅう",
+      "meaning": "terakhir, penutup"
+    },
+    {
+      "word": "遂に",
+      "reading": "ついに",
+      "meaning": "akhirnya, pada akhirnya"
+    },
+    {
+      "word": "終わり",
+      "reading": "おわり",
+      "meaning": "akhir"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "花に水をやる必要はなかったのに。終えるとすぐ雨がふりだした。",
+      "reading": null,
+      "indonesian": "I needn't have watered the flowers. Just after I finished, it started raining.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "火曜日までにこの仕事を終えるのはたやすいことさ。",
+      "reading": null,
+      "indonesian": "Finishing the job by Tuesday will be a piece of cake.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一週間以内にその仕事を終えるでしょう。",
+      "reading": null,
+      "indonesian": "I'll finish the work in a week or less.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その仕事を終えるのに五時間かかった。",
+      "reading": null,
+      "indonesian": "It took me five hours to finish the work.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その仕事を終えるのにはそれほど時間がかからないでしょう。",
+      "reading": null,
+      "indonesian": "It won't take long to finish the job.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その仕事を終えるのにどの位時間がかかりますか。",
+      "reading": null,
+      "indonesian": "How long will it take to finish the work?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

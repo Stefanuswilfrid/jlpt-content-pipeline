@@ -1,0 +1,164 @@
+{
+  "definition": {
+    "word": "採点",
+    "reading": "さいてん",
+    "romaji": "saiten",
+    "jlpt": "N2",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "memberi nilai",
+          "memberi peringkat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "頂点",
+      "reading": "ちょうてん",
+      "meaning": "puncak, titik tertinggi"
+    },
+    {
+      "word": "点数",
+      "reading": "てんすう",
+      "meaning": "nilai, poin, skor"
+    },
+    {
+      "word": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "titik lemah, kelemahan"
+    },
+    {
+      "word": "満点",
+      "reading": "まんてん",
+      "meaning": "nilai sempurna"
+    },
+    {
+      "word": "焦点",
+      "reading": "しょうてん",
+      "meaning": "fokus, titik"
+    },
+    {
+      "word": "重点",
+      "reading": "じゅうてん",
+      "meaning": "poin penting, menekankan, penekanan"
+    },
+    {
+      "word": "地点",
+      "reading": "ちてん",
+      "meaning": "lokasi, titik pada peta"
+    },
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaning": "untuk memanen, untuk menerima, untuk mengadopsi"
+    },
+    {
+      "word": "終点",
+      "reading": "しゅうてん",
+      "meaning": "terminal, pemberhentian terakhir (misalnya kereta api)"
+    },
+    {
+      "word": "採る",
+      "reading": "とる",
+      "meaning": "mengadopsi (tindakan, usulan); memetik (buah)"
+    },
+    {
+      "word": "句読点",
+      "reading": "くとうてん",
+      "meaning": "tanda baca"
+    },
+    {
+      "word": "零点",
+      "reading": "れいてん",
+      "meaning": "nol, tidak ada nilai"
+    },
+    {
+      "word": "採算",
+      "reading": "さいさん",
+      "meaning": "laba"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "先生は我々の試験を採点する時とても公正だった。",
+      "reading": null,
+      "indonesian": "The teacher was very fair when she marked our exams.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "先生はすぐにその日の試験の採点をしていた。",
+      "reading": null,
+      "indonesian": "The teacher was immediately at work correcting that day's test.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私達の先生は試験の採点をしている。",
+      "reading": null,
+      "indonesian": "Our teacher is grading tests.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私達の先生は試験の採点をしている。",
+      "reading": null,
+      "indonesian": "Our teacher is marking exam papers.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "採点しましたか。",
+      "reading": null,
+      "indonesian": "Did you mark the papers?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "採点しましたか。",
+      "reading": null,
+      "indonesian": "Did you grade the tests?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "採点しましたか。",
+      "reading": null,
+      "indonesian": "Did you mark the papers?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "先生はすぐにその日の試験の採点をしていた。",
+      "reading": null,
+      "indonesian": "The teacher was immediately at work correcting that day's test.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "先生は我々の試験を採点する時とても公正だった。",
+      "reading": null,
+      "indonesian": "The teacher was very fair when she marked our exams.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

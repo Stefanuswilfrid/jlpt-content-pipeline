@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "期待",
+    "reading": "きたい",
+    "romaji": "kitai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "harapan",
+          "antisipasi",
+          "cita-cita"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "promising",
+          "rising",
+          "up-and-coming"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "periode, jangka waktu"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "waktu, musim, periode"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "jangka waktu yang lama"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "batas waktu, istilah"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "jangka waktu tetap"
+    },
+    {
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "penundaan, pengunduran"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "istilah (sekolah)"
+    },
+    {
+      "word": "予期",
+      "reading": "よき",
+      "meaning": "harapan, perkiraan"
+    },
+    {
+      "word": "短期",
+      "reading": "たんき",
+      "meaning": "jangka pendek"
+    },
+    {
+      "word": "招待",
+      "reading": "しょうたい",
+      "meaning": "undangan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これを期待していたんだ！",
+      "reading": null,
+      "indonesian": "I was expecting it!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君にはもっとがんばってくれる事を期待している。",
+      "reading": null,
+      "indonesian": "I expect you to work harder.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "期待通り晴天となった。",
+      "reading": null,
+      "indonesian": "As had been expected, the weather turned out to be very fine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "期待しているから。",
+      "reading": null,
+      "indonesian": "I'm sure you'll whip us up something really good.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "期待していたんだけど、あのレストランは、はずれだった。",
+      "reading": null,
+      "indonesian": "The restaurant was a bummer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

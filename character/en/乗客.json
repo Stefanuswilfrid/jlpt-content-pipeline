@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "乗客",
+    "reading": "じょうきゃく",
+    "romaji": "joukyaku",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "passenger"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaning": "spectator"
+    },
+    {
+      "word": "桜",
+      "reading": "さくら",
+      "meaning": "cherry tree"
+    },
+    {
+      "word": "客",
+      "reading": "きゃく",
+      "meaning": "guest"
+    },
+    {
+      "word": "客席",
+      "reading": "きゃくせき",
+      "meaning": "guest seating (e.g. theater, stadium)"
+    },
+    {
+      "word": "乗り越し",
+      "reading": "のりこし",
+      "meaning": "riding past (one's station)"
+    },
+    {
+      "word": "客間",
+      "reading": "きゃくま",
+      "meaning": "drawing room"
+    },
+    {
+      "word": "乗車",
+      "reading": "じょうしゃ",
+      "meaning": "boarding (a train, bus, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "フェリーにはせいぜい１００人の乗客しかいなかった。",
+      "reading": null,
+      "english": "There were not more than one hundred passengers on board the ferry.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスは乗客を乗せるために止まった。",
+      "reading": null,
+      "english": "The bus stopped to take up passengers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスがついたとき乗客は乗っていなかった。",
+      "reading": null,
+      "english": "The bus arrived empty.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

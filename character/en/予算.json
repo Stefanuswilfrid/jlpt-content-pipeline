@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "予算",
+    "reading": "よさん",
+    "romaji": "yosan",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "estimate (of costs)",
+          "budget"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaning": "expectation"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediction"
+    },
+    {
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "prevention"
+    },
+    {
+      "word": "計算",
+      "reading": "けいさん",
+      "meaning": "calculation"
+    },
+    {
+      "word": "予報",
+      "reading": "よほう",
+      "meaning": "forecast"
+    },
+    {
+      "word": "予期",
+      "reading": "よき",
+      "meaning": "expectation"
+    },
+    {
+      "word": "精算",
+      "reading": "せいさん",
+      "meaning": "exact calculation"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "plans"
+    },
+    {
+      "word": "予備",
+      "reading": "よび",
+      "meaning": "reserve"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "reservation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "うちの予算ではそういうぜいたくはできません。",
+      "reading": null,
+      "english": "Our budget won't allow that luxury.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "予算はどのくらいでしょうか。",
+      "reading": null,
+      "english": "How much would you want to pay for the tour?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

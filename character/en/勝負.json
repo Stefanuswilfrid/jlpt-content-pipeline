@@ -1,0 +1,152 @@
+{
+  "definition": {
+    "word": "勝負",
+    "reading": "しょうぶ",
+    "romaji": "shoubu",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "victory or defeat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "match",
+          "contest",
+          "game",
+          "bout"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "勝敗",
+      "reading": "しょうはい",
+      "meaning": "victory or defeat"
+    },
+    {
+      "word": "背負う",
+      "reading": "せおう",
+      "meaning": "to carry on one's back"
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaning": "overall victory"
+    },
+    {
+      "word": "決勝",
+      "reading": "けっしょう",
+      "meaning": "decision of a contest"
+    },
+    {
+      "word": "勝利",
+      "reading": "しょうり",
+      "meaning": "victory"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "burden"
+    },
+    {
+      "word": "勝る",
+      "reading": "まさる",
+      "meaning": "to excel"
+    },
+    {
+      "word": "勝ち",
+      "reading": "かち",
+      "meaning": "win"
+    },
+    {
+      "word": "負け",
+      "reading": "まけ",
+      "meaning": "defeat"
+    },
+    {
+      "word": "負債",
+      "reading": "ふさい",
+      "meaning": "debt"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一六勝負",
+      "reading": "いちろくしょうぶ",
+      "meaning": "gambling on whether the throw of a die will produce a \"one\" or a \"six\"",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "真剣勝負",
+      "reading": "しんけんしょうぶ",
+      "meaning": "fighting with real swords",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "勝負は時の運",
+      "reading": "しょうぶはときのうん",
+      "meaning": "victory depends on the turn of fortune",
+      "type": "proverb"
+    },
+    {
+      "word": "相撲に勝って勝負に負ける",
+      "reading": "すもうにかってしょうぶにまける",
+      "meaning": "to ultimately fail despite being in a favourable position",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ゆっくりでも着実にやってゆけば勝負には勝つ。",
+      "reading": null,
+      "english": "Slow and steady wins the race.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボブはスケートではきみといい勝負だ。",
+      "reading": null,
+      "english": "Bob is a good match for you in skating.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パッシングではなくロブで勝負だ。",
+      "reading": null,
+      "english": "Rather than passing, lobbing is the way to win.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "勝負は預かりとなった。",
+      "reading": null,
+      "english": "The match ended in a draw.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "勝負は問題ではない。",
+      "reading": null,
+      "english": "It doesn't matter whether you win or not.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

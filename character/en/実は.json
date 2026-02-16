@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "実は",
+    "reading": "じつは",
+    "romaji": "jitsuha",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "as a matter of fact",
+          "by the way",
+          "to tell you the truth",
+          "to be honest",
+          "frankly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fact"
+    },
+    {
+      "word": "実際",
+      "reading": "じっさい",
+      "meaning": "reality"
+    },
+    {
+      "word": "実に",
+      "reading": "じつに",
+      "meaning": "really"
+    },
+    {
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "reality"
+    },
+    {
+      "word": "実施",
+      "reading": "じっし",
+      "meaning": "enforcement"
+    },
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "certain"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaning": "experiment"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementation (e.g. of a system)"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaning": "(real) ability"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "execution (e.g. of a plan)"
+    },
+    {
+      "word": "実",
+      "reading": "じつ",
+      "meaning": "truth"
+    },
+    {
+      "word": "実",
+      "reading": "み",
+      "meaning": "fruit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "事実は小説より奇なり",
+      "reading": "じじつはしょうせつよりきなり",
+      "meaning": "truth is stranger than fiction",
+      "type": "proverb"
+    },
+    {
+      "word": "木の実は本へ落つ",
+      "reading": "きのみはもとへおつ",
+      "meaning": "all returns to dust",
+      "type": "proverb"
+    },
+    {
+      "word": "事実は小説よりも奇なり",
+      "reading": "じじつはしょうせつよりもきなり",
+      "meaning": "truth is stranger than fiction",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "トップ２社は実はぐるになっているのです。",
+      "reading": null,
+      "english": "The two leading firms are actually in cahoots with each other.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ところが実はどうすることもできないのです。",
+      "reading": null,
+      "english": "As it is, I can do nothing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "だれもその真実は知らなかったらしい。",
+      "reading": null,
+      "english": "It seems that no one knew the truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その男の子は病気には見えないが、実は病気だ。",
+      "reading": null,
+      "english": "The boy is sick, though he doesn't appear so.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

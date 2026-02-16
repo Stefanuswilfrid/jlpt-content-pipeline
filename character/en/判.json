@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "判",
+    "reading": "はん",
+    "romaji": "han",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "seal",
+          "stamp",
+          "monogram signature"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "judgment",
+          "judgement"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "size (of paper or books)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "審判",
+      "reading": "しんぱん",
+      "meaning": "judgement"
+    },
+    {
+      "word": "評判",
+      "reading": "ひょうばん",
+      "meaning": "reputation"
+    },
+    {
+      "word": "裁判",
+      "reading": "さいばん",
+      "meaning": "trial"
+    },
+    {
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "judgment"
+    },
+    {
+      "word": "批判",
+      "reading": "ひはん",
+      "meaning": "criticism"
+    },
+    {
+      "word": "判事",
+      "reading": "はんじ",
+      "meaning": "judge"
+    },
+    {
+      "word": "判子",
+      "reading": "はんこ",
+      "meaning": "seal (used in lieu of a signature)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "猫に小判",
+      "reading": "ねこにこばん",
+      "meaning": "casting pearls before swine",
+      "type": "idiom"
+    },
+    {
+      "word": "判官びいき",
+      "reading": "ほうがんびいき",
+      "meaning": "sympathy for a tragic hero",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "欠席裁判",
+      "reading": "けっせきさいばん",
+      "meaning": "trial in absentia",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "海の物とも山の物とも判らない",
+      "reading": "うみのものともやまのものともわからない",
+      "meaning": "neither fish nor fowl",
+      "type": "idiom"
+    },
+    {
+      "word": "猫にまたたびお女郎に小判",
+      "reading": "ねこにまたたびおじょろうにこばん",
+      "meaning": "everyone has their favorite",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

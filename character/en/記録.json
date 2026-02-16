@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "記録",
+    "reading": "きろく",
+    "romaji": "kiroku",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "record",
+          "document",
+          "minutes",
+          "log",
+          "recording",
+          "putting on record",
+          "keeping a record (of)",
+          "writing down"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "record (e.g. in sports)",
+          "setting (a record)",
+          "recording (a record high, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "記事",
+      "reading": "きじ",
+      "meaning": "article"
+    },
+    {
+      "word": "記者",
+      "reading": "きしゃ",
+      "meaning": "reporter"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "commemoration"
+    },
+    {
+      "word": "記憶",
+      "reading": "きおく",
+      "meaning": "memory"
+    },
+    {
+      "word": "記入",
+      "reading": "きにゅう",
+      "meaning": "entry (in a form, register, diary, etc.)"
+    },
+    {
+      "word": "暗記",
+      "reading": "あんき",
+      "meaning": "memorization"
+    },
+    {
+      "word": "日記",
+      "reading": "にっき",
+      "meaning": "diary"
+    },
+    {
+      "word": "録音",
+      "reading": "ろくおん",
+      "meaning": "(audio) recording"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その文書にはその戦いが１７００年に起こったと記録されている。",
+      "reading": null,
+      "english": "The document records that the war broke out in 1700.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その火事は記録に残っている。",
+      "reading": null,
+      "english": "The fire is remembered in history.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

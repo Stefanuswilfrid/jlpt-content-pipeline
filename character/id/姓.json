@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "姓",
+    "reading": "せい",
+    "romaji": "sei",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nama keluarga",
+          "nama marga"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hereditary title (used in ancient Japan to denote rank and political standing)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "姓名",
+      "reading": "せいめい",
+      "meaning": "nama lengkap"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "易姓革命",
+      "reading": "えきせいかくめい",
+      "meaning": "revolution (change of dynasty) decreed by Heaven when the incumbent emperor is found lacking in moral virtue (old Chinese political thought)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

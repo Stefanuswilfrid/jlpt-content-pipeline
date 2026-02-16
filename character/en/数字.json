@@ -1,0 +1,155 @@
+{
+  "definition": {
+    "word": "数字",
+    "reading": "すうじ",
+    "romaji": "suuji",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "numeral",
+          "digit",
+          "numeric character"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "figure",
+          "number"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "a few characters"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "数",
+      "reading": "かず",
+      "meaning": "number"
+    },
+    {
+      "word": "文字",
+      "reading": "もじ",
+      "meaning": "letter (of an alphabet)"
+    },
+    {
+      "word": "数",
+      "reading": "すう",
+      "meaning": "several"
+    },
+    {
+      "word": "字体",
+      "reading": "じたい",
+      "meaning": "form of a character (e.g. simplified, traditional)"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "plural"
+    },
+    {
+      "word": "過半数",
+      "reading": "かはんすう",
+      "meaning": "majority"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "number of times"
+    },
+    {
+      "word": "字",
+      "reading": "あざ",
+      "meaning": "section of village"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "会計係はこれらの数字を調べるだろう。",
+      "reading": null,
+      "english": "The accountant will go into these figures.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メーターの数字を読んでください。",
+      "reading": null,
+      "english": "Read the meter.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょっと数字に弱いのです。",
+      "reading": null,
+      "english": "I am bit weak at figures.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その機械はデータを分類するだけでなく、数字もチェックする。",
+      "reading": null,
+      "english": "In addition to classifying the data, the machine also checks the figures.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その学生は急いで数字を写したのかもしれない。",
+      "reading": null,
+      "english": "The student may have copied the figures in a hurry.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この数字を合計しなさい。",
+      "reading": null,
+      "english": "Add up these figures.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これらの数字が合っているか調べて下さい。",
+      "reading": null,
+      "english": "Will you please check these figures?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この数字があっているか調べてください。",
+      "reading": null,
+      "english": "Will you please check these figures?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この数字の列を合計しなさい。",
+      "reading": null,
+      "english": "Add up this column of figures.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "サイン",
+    "reading": "サイン",
+    "romaji": "sain",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "tanda tangan; tanda; sinus"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "sign",
+          "signal",
+          "indication"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この紙にサインするだけでいいんだよ。",
+      "reading": null,
+      "indonesian": "All you have to do is sign this paper.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "スターの野球選手はよくサインを求められる。",
+      "reading": null,
+      "indonesian": "Star baseball players are often asked for autographs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "サインしてもらえるかしら。",
+      "reading": null,
+      "indonesian": "Will you sign it for me?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "この本にサインしてもらえませんか。",
+      "reading": null,
+      "indonesian": "Could I have your autograph on this book?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この線より上にサインしてください。",
+      "reading": null,
+      "indonesian": "Sign above this line.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

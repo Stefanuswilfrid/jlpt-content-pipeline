@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "通信",
+    "reading": "つうしん",
+    "romaji": "tsuushin",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "correspondence",
+          "communication",
+          "transmission",
+          "news",
+          "signal",
+          "telecommunications"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "currency"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "confidence"
+    },
+    {
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "trust (in)"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "commuting to work"
+    },
+    {
+      "word": "信号",
+      "reading": "しんごう",
+      "meaning": "signal"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretation (i.e. oral translation)"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    },
+    {
+      "word": "信仰",
+      "reading": "しんこう",
+      "meaning": "(religious) faith"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "commuting to school"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "suspension"
+    },
+    {
+      "word": "通す",
+      "reading": "とおす",
+      "meaning": "to stick through"
+    },
+    {
+      "word": "通り過ぎる",
+      "reading": "とおりすぎる",
+      "meaning": "to go past"
+    },
+    {
+      "word": "信じる",
+      "reading": "しんじる",
+      "meaning": "to believe"
+    },
+    {
+      "word": "通じる",
+      "reading": "つうじる",
+      "meaning": "to be open (to traffic)"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "traffic"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この道を交通信号まで行き、左に曲がりなさい。",
+      "reading": null,
+      "english": "Go down this road until you get to a traffic light and then turn left.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この会社は通信部門でよく知られている。",
+      "reading": null,
+      "english": "This corporation is well known for its communication equipment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたが次のものを読めたら、日本語でも通信できますよね。",
+      "reading": null,
+      "english": "If you can read the following, we can communicate in Japanese, too.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

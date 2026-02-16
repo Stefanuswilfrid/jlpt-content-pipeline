@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "差別",
+    "reading": "さべつ",
+    "romaji": "sabetsu",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "distinction",
+          "differentiation",
+          "discrimination"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "discrimination (against people)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "差",
+      "reading": "さ",
+      "meaning": "difference"
+    },
+    {
+      "word": "別れ",
+      "reading": "わかれ",
+      "meaning": "parting"
+    },
+    {
+      "word": "分ける",
+      "reading": "わける",
+      "meaning": "to divide (into)"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaning": "special"
+    },
+    {
+      "word": "別荘",
+      "reading": "べっそう",
+      "meaning": "holiday house"
+    },
+    {
+      "word": "別に",
+      "reading": "べつに",
+      "meaning": "(not) particularly"
+    },
+    {
+      "word": "性別",
+      "reading": "せいべつ",
+      "meaning": "(distinction of) sex"
+    },
+    {
+      "word": "別々",
+      "reading": "べつべつ",
+      "meaning": "separate"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "恋に上下の差別無し",
+      "reading": "こいにじょうげのさべつなし",
+      "meaning": "love makes men equal",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その週間は差別とは関係がなかった。",
+      "reading": null,
+      "english": "That week had nothing to do with discrimination.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

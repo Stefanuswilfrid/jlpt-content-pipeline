@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "草",
+    "reading": "くさ",
+    "romaji": "kusa",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "grass",
+          "weed",
+          "herb",
+          "thatch"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "marijuana",
+          "cannabis"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "not genuine",
+          "substandard"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "LOL",
+          "haha"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "浮き草稼業",
+      "reading": "うきくさかぎょう",
+      "meaning": "precarious trade",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "草根木皮",
+      "reading": "そうこんもくひ",
+      "meaning": "roots of herbs and barks of trees used in Chinese medicine",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "山川草木",
+      "reading": "さんせんそうもく",
+      "meaning": "nature",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一木一草",
+      "reading": "いちぼくいっそう",
+      "meaning": "a single tree or blade of grass",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "魯魚章草",
+      "reading": "ろぎょしょうそう",
+      "meaning": "miswriting a word",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "草木もなびく",
+      "reading": "くさきもなびく",
+      "meaning": "to bow (in great numbers) to a greater authority",
+      "type": "idiom"
+    },
+    {
+      "word": "打草驚蛇",
+      "reading": "だそうきょうだ",
+      "meaning": "prodding the unknown may bring about unnecessary trouble",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "草木も眠る丑三つ時",
+      "reading": "くさきもねむるうしみつどき",
+      "meaning": "dead of night (when even the trees and plants sleep)",
+      "type": "idiom"
+    },
+    {
+      "word": "ぺんぺん草が生える",
+      "reading": "ぺんぺんぐさがはえる",
+      "meaning": "to be in ruins",
+      "type": "idiom"
+    },
+    {
+      "word": "草の根を分けて探す",
+      "reading": "くさのねをわけてさがす",
+      "meaning": "to search every square inch",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "牛は草を食べて生きている。",
+      "reading": null,
+      "english": "Cows live on grass.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "牛が野原で草をはんでいた。",
+      "reading": null,
+      "english": "Cattle were grazing in the field.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "牛が草を食べている。",
+      "reading": null,
+      "english": "The cows are eating grass.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "帰り道で道草を食うんじゃないよ。",
+      "reading": null,
+      "english": "Don't fool around on your way home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

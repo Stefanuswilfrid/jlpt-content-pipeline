@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "砂",
+    "reading": "すな",
+    "romaji": "suna",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pasir"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "砂漠",
+      "reading": "さばく",
+      "meaning": "gurun"
+    },
+    {
+      "word": "砂糖",
+      "reading": "さとう",
+      "meaning": "gula"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "白砂青松",
+      "reading": "はくしゃせいしょう",
+      "meaning": "white sands and green pines",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "砂上の楼閣",
+      "reading": "さじょうのろうかく",
+      "meaning": "house built on sand",
+      "type": "idiom"
+    },
+    {
+      "word": "後足で砂をかける",
+      "reading": "あとあしですなをかける",
+      "meaning": "to do something spiteful as one leaves",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

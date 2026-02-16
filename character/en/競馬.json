@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "競馬",
+    "reading": "けいば",
+    "romaji": "keiba",
+    "jlpt": "N2",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "horse racing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "ローマ字",
+      "reading": "ローマじ",
+      "meaning": "Latin alphabet"
+    },
+    {
+      "word": "競技",
+      "reading": "きょうぎ",
+      "meaning": "game"
+    },
+    {
+      "word": "競争",
+      "reading": "きょうそう",
+      "meaning": "competition"
+    },
+    {
+      "word": "馬",
+      "reading": "うま",
+      "meaning": "horse"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "競馬で万馬券を当ててウハウハなんだ。",
+      "reading": null,
+      "english": "I'm tickled pink about winning 10,000 yen at the horse races.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "競馬で負けて、スッテンテンだよ。",
+      "reading": null,
+      "english": "I just lost at the races so I'm flat broke.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ダービー競馬の日は２週間後の水曜日だ。",
+      "reading": null,
+      "english": "Derby Day is Wednesday fortnight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "仮に競馬でたまたま大穴を当てたとしましょう。",
+      "reading": null,
+      "english": "Let's suppose you happen to strike it rich at the races.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

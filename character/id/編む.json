@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "編む",
+    "reading": "あむ",
+    "romaji": "amu",
+    "jlpt": "N2",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "merajut"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to compile (anthology, dictionary, etc.)",
+          "to edit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "編集",
+      "reading": "へんしゅう",
+      "meaning": "penyuntingan, kompilasi, editorial (misalnya, komite)"
+    },
+    {
+      "word": "短編",
+      "reading": "たんぺん",
+      "meaning": "singkat (misalnya, cerita, film)"
+    },
+    {
+      "word": "編み物",
+      "reading": "あみもの",
+      "meaning": "rajutan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "虎鬚を編む",
+      "reading": "こしゅをあむ",
+      "meaning": "to do something foolhardy",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

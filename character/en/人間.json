@@ -1,0 +1,246 @@
+{
+  "definition": {
+    "word": "人間",
+    "reading": "にんげん",
+    "romaji": "ningen",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "human being",
+          "human",
+          "person",
+          "man",
+          "mankind",
+          "humankind"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "character (of a person)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "individual"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "popularity"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "period"
+    },
+    {
+      "word": "年間",
+      "reading": "ねんかん",
+      "meaning": "(period of) a year"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(one's) life"
+    },
+    {
+      "word": "人物",
+      "reading": "じんぶつ",
+      "meaning": "person"
+    },
+    {
+      "word": "夫人",
+      "reading": "ふじん",
+      "meaning": "wife"
+    },
+    {
+      "word": "本人",
+      "reading": "ほんにん",
+      "meaning": "the person in question"
+    },
+    {
+      "word": "友人",
+      "reading": "ゆうじん",
+      "meaning": "friend"
+    },
+    {
+      "word": "老人",
+      "reading": "ろうじん",
+      "meaning": "old person"
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaning": "companion"
+    },
+    {
+      "word": "人類",
+      "reading": "じんるい",
+      "meaning": "mankind"
+    },
+    {
+      "word": "婦人",
+      "reading": "ふじん",
+      "meaning": "woman"
+    },
+    {
+      "word": "名人",
+      "reading": "めいじん",
+      "meaning": "master"
+    },
+    {
+      "word": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "moment"
+    },
+    {
+      "word": "人工",
+      "reading": "じんこう",
+      "meaning": "artificial"
+    },
+    {
+      "word": "人種",
+      "reading": "じんしゅ",
+      "meaning": "race (of people)"
+    },
+    {
+      "word": "犯人",
+      "reading": "はんにん",
+      "meaning": "offender"
+    },
+    {
+      "word": "他人",
+      "reading": "たにん",
+      "meaning": "another person"
+    },
+    {
+      "word": "詩人",
+      "reading": "しじん",
+      "meaning": "poet"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人間万事塞翁が馬",
+      "reading": "にんげんばんじさいおうがうま",
+      "meaning": "inscrutable are the ways of heaven",
+      "type": "proverb"
+    },
+    {
+      "word": "人間到る処青山あり",
+      "reading": "にんげんいたるところせいざんあり",
+      "meaning": "home is wherever one lays one's hat",
+      "type": "proverb"
+    },
+    {
+      "word": "人間は万物の霊長",
+      "reading": "にんげんはばんぶつのれいちょう",
+      "meaning": "man is the crown of creation",
+      "type": "proverb"
+    },
+    {
+      "word": "人間万事金の世の中",
+      "reading": "にんげんばんじかねのよのなか",
+      "meaning": "money talks",
+      "type": "proverb"
+    },
+    {
+      "word": "人間ができている",
+      "reading": "にんげんができている",
+      "meaning": "to be mature and kind",
+      "type": "idiom"
+    },
+    {
+      "word": "人間は万物の尺度である",
+      "reading": "にんげんはばんぶつのしゃくどである",
+      "meaning": "man is the measure of all things",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "コンピューターのおかげで人間は馬鹿になる。",
+      "reading": null,
+      "english": "Computers make people stupid.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コンピューターのおかげで人間は馬鹿になる。",
+      "reading": null,
+      "english": "Computers make people stupid.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君たちは次の世代の人間だ。",
+      "reading": null,
+      "english": "You belong to the next generation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気は食べ物と同様、人間が根本的に必要とするものだ。",
+      "reading": null,
+      "english": "Air, like food, is a basic human need.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気と人間との関係は水と魚との関係と同じだ。",
+      "reading": null,
+      "english": "Air is to man what water is to fish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人間にとって空気とは、魚にとっての水のようなものだ。",
+      "reading": null,
+      "english": "Air is to man what water is to fish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気がなかったら人間は１０分と生きていられない。",
+      "reading": null,
+      "english": "If there were no air, man could not live even ten minutes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気がなかったら、人間は生きられないだろう。",
+      "reading": null,
+      "english": "If it were not for air, we could not live.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "苦しむことは人間の定めである。",
+      "reading": null,
+      "english": "It is man's lot to suffer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

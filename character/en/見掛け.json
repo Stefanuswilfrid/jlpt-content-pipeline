@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "見かけ",
+    "reading": "みかけ",
+    "romaji": "mikake",
+    "jlpt": "N2",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "outward appearance"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "apparent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見本",
+      "reading": "みほん",
+      "meaning": "sample"
+    },
+    {
+      "word": "見学",
+      "reading": "けんがく",
+      "meaning": "inspection"
+    },
+    {
+      "word": "見出し",
+      "reading": "みだし",
+      "meaning": "heading"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人は見かけによらぬもの",
+      "reading": "ひとはみかけによらぬもの",
+      "meaning": "appearances can be deceiving",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

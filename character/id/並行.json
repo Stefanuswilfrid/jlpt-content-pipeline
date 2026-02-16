@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "並行",
+    "reading": "へいこう",
+    "romaji": "heikou",
+    "jlpt": "N2",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "(berjalan) berdampingan",
+          "bersamaan",
+          "pada waktu yang sama"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "running concurrently",
+          "occurring at the same time",
+          "keeping pace with"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夜行",
+      "reading": "やこう",
+      "meaning": "kereta malam, perjalanan malam"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "keberadaan seseorang"
+    },
+    {
+      "word": "行事",
+      "reading": "ぎょうじ",
+      "meaning": "acara, fungsi"
+    },
+    {
+      "word": "行列",
+      "reading": "ぎょうれつ",
+      "meaning": "barisan, prosesi; matriks (matematika)"
+    },
+    {
+      "word": "孝行",
+      "reading": "こうこう",
+      "meaning": "bakti kepada orang tua"
+    },
+    {
+      "word": "並木",
+      "reading": "なみき",
+      "meaning": "pohon di tepi jalan, deretan pohon"
+    },
+    {
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "kenakalan, pelanggaran"
+    },
+    {
+      "word": "急行",
+      "reading": "きゅうこう",
+      "meaning": "kereta ekspres atau bus"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その道路は川と並行している。",
+      "reading": null,
+      "indonesian": "The road is parallel to the river.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "船は岸と並行に進んだ。",
+      "reading": null,
+      "indonesian": "The ship was abreast of the shore.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その道路は川と並行している。",
+      "reading": null,
+      "indonesian": "The road is parallel to the river.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "船は岸と並行に進んだ。",
+      "reading": null,
+      "indonesian": "The ship was abreast of the shore.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

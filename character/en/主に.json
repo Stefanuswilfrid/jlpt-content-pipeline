@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "主に",
+    "reading": "おもに",
+    "romaji": "omoni",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "mainly",
+          "primarily",
+          "mostly",
+          "largely",
+          "chiefly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "主義",
+      "reading": "しゅぎ",
+      "meaning": "doctrine"
+    },
+    {
+      "word": "主張",
+      "reading": "しゅちょう",
+      "meaning": "claim"
+    },
+    {
+      "word": "主婦",
+      "reading": "しゅふ",
+      "meaning": "housewife"
+    },
+    {
+      "word": "主要",
+      "reading": "しゅよう",
+      "meaning": "chief"
+    },
+    {
+      "word": "主役",
+      "reading": "しゅやく",
+      "meaning": "leading part"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "のろいはのろい主に返る。",
+      "reading": null,
+      "english": "Curses, like chickens, come home to roost.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その本を持ち主に返しなさい。",
+      "reading": null,
+      "english": "Give the book back to the owner.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

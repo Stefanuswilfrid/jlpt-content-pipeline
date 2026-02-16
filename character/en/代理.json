@@ -1,0 +1,165 @@
+{
+  "definition": {
+    "word": "代理",
+    "reading": "だいり",
+    "romaji": "dairi",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "representation",
+          "agency",
+          "proxy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "proxy",
+          "agent",
+          "representative",
+          "deputy",
+          "substitute",
+          "surrogate",
+          "stand-in"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "代表",
+      "reading": "だいひょう",
+      "meaning": "representation"
+    },
+    {
+      "word": "管理",
+      "reading": "かんり",
+      "meaning": "control"
+    },
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaning": "present age"
+    },
+    {
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "processing"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "understanding"
+    },
+    {
+      "word": "近代",
+      "reading": "きんだい",
+      "meaning": "present day"
+    },
+    {
+      "word": "心理",
+      "reading": "しんり",
+      "meaning": "state of mind"
+    },
+    {
+      "word": "代金",
+      "reading": "だいきん",
+      "meaning": "price"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "sorting"
+    },
+    {
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "ideal"
+    },
+    {
+      "word": "年代",
+      "reading": "ねんだい",
+      "meaning": "age"
+    },
+    {
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaning": "repair"
+    },
+    {
+      "word": "世",
+      "reading": "よ",
+      "meaning": "world"
+    },
+    {
+      "word": "物理",
+      "reading": "ぶつり",
+      "meaning": "laws of nature"
+    },
+    {
+      "word": "真理",
+      "reading": "しんり",
+      "meaning": "truth"
+    },
+    {
+      "word": "生理",
+      "reading": "せいり",
+      "meaning": "physiology"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "period"
+    },
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "reason"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一番近い旅行代理店はどこにありますか。",
+      "reading": null,
+      "english": "Where's the nearest travel agency?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もしあなたが来られなければだれか代理をよこしてください。",
+      "reading": null,
+      "english": "If you can't come, send someone in your stead.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "旅行代理店が全部手配してくれたよ。",
+      "reading": null,
+      "english": "A travel agent arranged everything for our trip.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "旅行代理店に問い合わせてみよう。",
+      "reading": null,
+      "english": "Let's ask a travel agent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

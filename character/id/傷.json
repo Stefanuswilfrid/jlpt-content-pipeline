@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "傷",
+    "reading": "きず",
+    "romaji": "kizu",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "luka",
+          "cedera",
+          "sakit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "chip",
+          "crack",
+          "scratch",
+          "nick"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flaw",
+          "defect",
+          "weakness",
+          "weak point"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stain (on one's reputation)",
+          "disgrace",
+          "dishonor",
+          "dishonour"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(emotional) hurt",
+          "hurt feelings"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "痛み",
+      "reading": "いたみ",
+      "meaning": "nyeri, sakit, pegal"
+    },
+    {
+      "word": "火傷",
+      "reading": "やけど",
+      "meaning": "terbakar, melepuh"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "傷弓の鳥",
+      "reading": "しょうきゅうのとり",
+      "meaning": "(person who is) once bitten twice shy",
+      "type": "idiom"
+    },
+    {
+      "word": "傷口に塩",
+      "reading": "きずぐちにしお",
+      "meaning": "(rubbing) salt in the wound",
+      "type": "idiom"
+    },
+    {
+      "word": "身体髪膚これを父母に受くあえて毀傷せざるは孝の始めなり",
+      "reading": "しんたいはっぷこれをふぼにうくあえてきしょうせざるはこうのはじめなり",
+      "meaning": "filial piety begins with not harming one's own body (as one's entire body was given by one's parents)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

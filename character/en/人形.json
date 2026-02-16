@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "人形",
+    "reading": "にんぎょう",
+    "romaji": "ningyou",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "doll",
+          "puppet",
+          "marionette"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "puppet (person under the control of another)",
+          "straw man",
+          "yes-man"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "人口",
+      "reading": "じんこう",
+      "meaning": "population"
+    },
+    {
+      "word": "形",
+      "reading": "かたち",
+      "meaning": "(physical) form"
+    },
+    {
+      "word": "ご主人",
+      "reading": "ごしゅじん",
+      "meaning": "your husband"
+    },
+    {
+      "word": "夫",
+      "reading": "おっと",
+      "meaning": "husband"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    },
+    {
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "individual"
+    },
+    {
+      "word": "人間",
+      "reading": "にんげん",
+      "meaning": "human being"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "popularity"
+    },
+    {
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "two persons"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(one's) life"
+    },
+    {
+      "word": "人物",
+      "reading": "じんぶつ",
+      "meaning": "person"
+    },
+    {
+      "word": "夫人",
+      "reading": "ふじん",
+      "meaning": "wife"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "肉人形",
+      "reading": "にくにんぎょう",
+      "meaning": "sex slave",
+      "type": "expression"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何とかわいらしい人形だ！",
+      "reading": null,
+      "english": "What a lovely doll!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なんてかわいい人形だろう。",
+      "reading": null,
+      "english": "What a lovely doll!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どこでその人形を見つけたんですか。",
+      "reading": null,
+      "english": "Where did you find that doll?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "だれがこの人形を作ったか。",
+      "reading": null,
+      "english": "Who made the doll?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは人形です。",
+      "reading": null,
+      "english": "That's a doll.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

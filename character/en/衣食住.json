@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "衣食住",
+    "reading": "いしょくじゅう",
+    "romaji": "ishokujuu",
+    "jlpt": "N2",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "food, clothing and shelter",
+          "necessities of life"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "住まい",
+      "reading": "すまい",
+      "meaning": "dwelling"
+    },
+    {
+      "word": "食器",
+      "reading": "しょっき",
+      "meaning": "tableware"
+    },
+    {
+      "word": "浴衣",
+      "reading": "ゆかた",
+      "meaning": "yukata"
+    },
+    {
+      "word": "食塩",
+      "reading": "しょくえん",
+      "meaning": "table salt"
+    },
+    {
+      "word": "定食",
+      "reading": "ていしょく",
+      "meaning": "set meal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "衣食住は生活の基本です。",
+      "reading": null,
+      "english": "Food, clothing and shelter are the basis of life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私達が生きていくためには衣食住が必要です。",
+      "reading": null,
+      "english": "We need food, clothes and a home in order to live.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "衣食住は生活の基本です。",
+      "reading": null,
+      "english": "Food, clothing and shelter are the basis of life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私達が生きていくためには衣食住が必要です。",
+      "reading": null,
+      "english": "We need food, clothes and a home in order to live.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

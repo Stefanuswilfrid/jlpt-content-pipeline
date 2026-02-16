@@ -1,0 +1,142 @@
+{
+  "definition": {
+    "word": "垂直",
+    "reading": "すいちょく",
+    "romaji": "suichoku",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "vertikal",
+          "tegak lurus"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "perpendicular"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "直通",
+      "reading": "ちょくつう",
+      "meaning": "koneksi langsung"
+    },
+    {
+      "word": "直後",
+      "reading": "ちょくご",
+      "meaning": "segera setelahnya"
+    },
+    {
+      "word": "直前",
+      "reading": "ちょくぜん",
+      "meaning": "tepat sebelum"
+    },
+    {
+      "word": "素直",
+      "reading": "すなお",
+      "meaning": "patuh, lemah lembut, penurut"
+    },
+    {
+      "word": "仲直り",
+      "reading": "なかなおり",
+      "meaning": "rekonsiliasi, berdamai dengan"
+    },
+    {
+      "word": "直径",
+      "reading": "ちょっけい",
+      "meaning": "diameter"
+    },
+    {
+      "word": "直線",
+      "reading": "ちょくせん",
+      "meaning": "garis lurus"
+    },
+    {
+      "word": "直角",
+      "reading": "ちょっかく",
+      "meaning": "sudut siku-siku"
+    },
+    {
+      "word": "直流",
+      "reading": "ちょくりゅう",
+      "meaning": "arus searah"
+    },
+    {
+      "word": "出直し",
+      "reading": "でなおし",
+      "meaning": "penyesuaian, perbaikan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "垂直思考",
+      "reading": "すいちょくしこう",
+      "meaning": "rigid (stereotypical) thinking that adheres to preconceived notions",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その柱は垂直になっていない。",
+      "reading": null,
+      "indonesian": "That pole is not quite vertical.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "厳密に言えば、それは垂直線ではなかった。",
+      "reading": null,
+      "indonesian": "Strictly speaking, it was not a vertical line.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その柱は垂直になっていない。",
+      "reading": null,
+      "indonesian": "That pole is not quite vertical.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その柱は垂直になっていない。",
+      "reading": null,
+      "indonesian": "That pole is off vertical.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "厳密に言えば、それは垂直線ではなかった。",
+      "reading": null,
+      "indonesian": "Strictly speaking, it was not a vertical line.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その柱は垂直になっていない。",
+      "reading": null,
+      "indonesian": "That pole is off vertical.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

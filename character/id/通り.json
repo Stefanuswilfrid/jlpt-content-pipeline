@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "通り",
+    "reading": "とおり",
+    "romaji": "toori",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Jalan ~",
+          "Jalan Raya ~"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "traffic",
+          "coming and going"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flow (of water, air, etc.)",
+          "passage",
+          "running"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "transmission (of sound)",
+          "reach (of voice)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reputation",
+          "favor",
+          "favour",
+          "popularity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "lalu lintas, transportasi"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "umum; lazim"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "jalan yang dilewati, melintasi"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "perjalanan pulang pergi ke tempat kerja"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretasi; penerjemah"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "jalan, melewati"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "berangkat ke sekolah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "信心過ぎて極楽を通り越す",
+      "reading": "しんじんすぎてごくらくをとおりこす",
+      "meaning": "faith is best in moderation",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "どうしても自分の思い通りにしたがるね。",
+      "reading": null,
+      "indonesian": "You will have your own way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その通りだと思うよ。",
+      "reading": null,
+      "indonesian": "I think you're right.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あなたの言う通りかもしれません。",
+      "reading": null,
+      "indonesian": "You may be right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

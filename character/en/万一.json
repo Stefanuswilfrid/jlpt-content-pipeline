@@ -1,0 +1,133 @@
+{
+  "definition": {
+    "word": "万一",
+    "reading": "まんいち",
+    "romaji": "man'ichi",
+    "jlpt": "N3",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(unlikely event of) emergency",
+          "the worst(-case scenario)",
+          "10000 to 1"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "(if) by some chance",
+          "by some possibility",
+          "in the unlikely event that"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一度に",
+      "reading": "いちどに",
+      "meaning": "all at once"
+    },
+    {
+      "word": "一般",
+      "reading": "いっぱん",
+      "meaning": "general"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "one (esp. of two)"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "唯一",
+      "reading": "ゆいいつ",
+      "meaning": "only"
+    },
+    {
+      "word": "一体",
+      "reading": "いったい",
+      "meaning": "(what) the heck"
+    },
+    {
+      "word": "一致",
+      "reading": "いっち",
+      "meaning": "agreement"
+    },
+    {
+      "word": "同一",
+      "reading": "どういつ",
+      "meaning": "identical"
+    },
+    {
+      "word": "一家",
+      "reading": "いっか",
+      "meaning": "a family"
+    },
+    {
+      "word": "一種",
+      "reading": "いっしゅ",
+      "meaning": "a kind"
+    },
+    {
+      "word": "一瞬",
+      "reading": "いっしゅん",
+      "meaning": "instant"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "whole life"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "single word"
+    },
+    {
+      "word": "一帯",
+      "reading": "いったい",
+      "meaning": "whole area"
+    },
+    {
+      "word": "万",
+      "reading": "まん",
+      "meaning": "10,000"
+    },
+    {
+      "word": "一休み",
+      "reading": "ひとやすみ",
+      "meaning": "(short) rest"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "万一失敗したらどうなるだろうか。",
+      "reading": null,
+      "english": "What if we should fail?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もし万一手伝いが必要なら、ぜひお知らせください。",
+      "reading": null,
+      "english": "If you should need any help, just let me know.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

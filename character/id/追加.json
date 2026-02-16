@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "追加",
+    "reading": "ついか",
+    "romaji": "tsuika",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "tambahan",
+          "suplemen",
+          "lampiran"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "加速",
+      "reading": "かそく",
+      "meaning": "percepatan"
+    },
+    {
+      "word": "加熱",
+      "reading": "かねつ",
+      "meaning": "pemanas"
+    },
+    {
+      "word": "追いかける",
+      "reading": "おいかける",
+      "meaning": "mengejar atau berlari mengejar seseorang"
+    },
+    {
+      "word": "加速度",
+      "reading": "かそくど",
+      "meaning": "percepatan"
+    },
+    {
+      "word": "追い越す",
+      "reading": "おいこす",
+      "meaning": "untuk melewati (misalnya, mobil), untuk melampaui, untuk mengungguli"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaning": "partisipasi"
+    },
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaning": "peningkatan, penambahan"
+    },
+    {
+      "word": "加入",
+      "reading": "かにゅう",
+      "meaning": "menjadi anggota, biaya masuk"
+    },
+    {
+      "word": "追い込む",
+      "reading": "おいこむ",
+      "meaning": "menggiring, mengurung, mengusir"
+    },
+    {
+      "word": "追う",
+      "reading": "おう",
+      "meaning": "mengejar, berlari setelah"
+    },
+    {
+      "word": "追及",
+      "reading": "ついきゅう",
+      "meaning": "penyelidikan, pemeriksaan"
+    },
+    {
+      "word": "加工",
+      "reading": "かこう",
+      "meaning": "manufaktur, pengolahan, perawatan"
+    },
+    {
+      "word": "追放",
+      "reading": "ついほう",
+      "meaning": "pengasingan, pembuangan"
+    },
+    {
+      "word": "俄",
+      "reading": "にわか",
+      "meaning": "tiba-tiba, mendadak, tak terduga"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "追加料金はいくらだった？",
+      "reading": null,
+      "indonesian": "How much was the additional charge?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わずかな追加料金で配達サービスが利用できます。",
+      "reading": null,
+      "indonesian": "You can use the delivery service for a small additional charge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほかに何か追加注文がありますか。",
+      "reading": null,
+      "indonesian": "Do you have anything else to order?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それには追加料金がかかるんでしょうか。",
+      "reading": null,
+      "indonesian": "Will there be an extra charge for that?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "エントリーはすべて、追加後にチェックします。",
+      "reading": null,
+      "indonesian": "All entries are subject to review once added.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

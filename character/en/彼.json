@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "彼",
+    "reading": "あれ",
+    "romaji": "are",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that",
+          "that thing"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that person"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "then",
+          "that time"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "that place (over there)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "down there (i.e. one's genitals)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "彼ら",
+      "reading": "かれら",
+      "meaning": "they"
+    },
+    {
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "she"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "暑さ寒さも彼岸まで",
+      "reading": "あつささむさもひがんまで",
+      "meaning": "no heat or cold lasts over the equinox",
+      "type": "proverb"
+    },
+    {
+      "word": "各人に彼のものを",
+      "reading": "かくじんにかれのものを",
+      "meaning": "to each his own",
+      "type": "proverb"
+    },
+    {
+      "word": "彼を知り己を知れば、百戦殆からず",
+      "reading": "かれをしりおのれをしれば、ひゃくせんあやうからず",
+      "meaning": "if you know your enemy and know yourself, in a hundred battles you will never be defeated",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

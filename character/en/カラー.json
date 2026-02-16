@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "カラー",
+    "reading": "カラー",
+    "romaji": "karaa",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "color",
+          "colour"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "color",
+          "character",
+          "characteristics",
+          "atmosphere"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "coloring (one's hair)",
+          "dyeing"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君のカラーにはしみがついている。",
+      "reading": null,
+      "english": "Your collar has a stain on it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "カラーフィルムを一本ください。",
+      "reading": null,
+      "english": "I want a roll of color film for prints.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あまり太ったのでカラーの前が合わなかった。",
+      "reading": null,
+      "english": "He got so stout that his collar did not meet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君のカラーにはしみがついている。",
+      "reading": null,
+      "english": "Your collar has a stain on it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "カラーフィルムを一本ください。",
+      "reading": null,
+      "english": "I want a roll of color film for prints.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

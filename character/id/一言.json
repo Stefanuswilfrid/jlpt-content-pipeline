@@ -1,0 +1,169 @@
+{
+  "definition": {
+    "word": "一言",
+    "reading": "ひとこと",
+    "romaji": "hitokoto",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "satu kata"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "唯一",
+      "reading": "ゆいいつ",
+      "meaning": "hanya, tunggal, unik"
+    },
+    {
+      "word": "一体",
+      "reading": "いったい",
+      "meaning": "satu objek; tubuh; apa-apaan ini?; secara umum"
+    },
+    {
+      "word": "一致",
+      "reading": "いっち",
+      "meaning": "kesepakatan; kesesuaian"
+    },
+    {
+      "word": "一家",
+      "reading": "いっか",
+      "meaning": "keluarga, klan"
+    },
+    {
+      "word": "一種",
+      "reading": "いっしゅ",
+      "meaning": "spesies, jenis, varietas"
+    },
+    {
+      "word": "一瞬",
+      "reading": "いっしゅん",
+      "meaning": "sesaat, sekejap"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "sepanjang hidup (seseorang)"
+    },
+    {
+      "word": "言語",
+      "reading": "げんご",
+      "meaning": "bahasa"
+    },
+    {
+      "word": "一帯",
+      "reading": "いったい",
+      "meaning": "suatu wilayah, seluruh tempat"
+    },
+    {
+      "word": "一般",
+      "reading": "いっぱん",
+      "meaning": "umum, rata-rata"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "di sisi lain; sementara itu"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "untuk sementara waktu, sementara"
+    },
+    {
+      "word": "万一",
+      "reading": "まんいち",
+      "meaning": "mungkin saja, jika memang ada kemungkinan"
+    },
+    {
+      "word": "伝言",
+      "reading": "でんごん",
+      "meaning": "pesan verbal"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "bersama"
+    },
+    {
+      "word": "一昨年",
+      "reading": "おととし",
+      "meaning": "tahun sebelum tahun lalu"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "satu orang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一言一行",
+      "reading": "いちげんいっこう",
+      "meaning": "every word and act",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一言居士",
+      "reading": "いちげんこじ",
+      "meaning": "person who is ready to comment on every subject",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一言半句",
+      "reading": "いちげんはんく",
+      "meaning": "a single word",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一言一句",
+      "reading": "いちごんいっく",
+      "meaning": "every single word and phrase",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の一言一言が気になる。",
+      "reading": null,
+      "indonesian": "Every little thing you say gets on my nerves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一言よろしいでしょうか。",
+      "reading": null,
+      "indonesian": "May I say something?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一言言いたい。",
+      "reading": null,
+      "indonesian": "Let me say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は何事につけ一言言いたくなる、そうだろ？",
+      "reading": null,
+      "indonesian": "You have something to say about everything, don't you?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "失敗",
+    "reading": "しっぱい",
+    "romaji": "shippai",
+    "jlpt": "N4",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "failure",
+          "mistake",
+          "blunder"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "失礼",
+      "reading": "しつれい",
+      "meaning": "discourtesy"
+    },
+    {
+      "word": "失業",
+      "reading": "しつぎょう",
+      "meaning": "unemployment"
+    },
+    {
+      "word": "失う",
+      "reading": "うしなう",
+      "meaning": "to lose"
+    },
+    {
+      "word": "無くなる",
+      "reading": "なくなる",
+      "meaning": "to be lost (e.g. luggage)"
+    },
+    {
+      "word": "負ける",
+      "reading": "まける",
+      "meaning": "to lose"
+    },
+    {
+      "word": "失望",
+      "reading": "しつぼう",
+      "meaning": "disappointment"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "失敗は成功のもと",
+      "reading": "しっぱいはせいこうのもと",
+      "meaning": "failure teaches success",
+      "type": "proverb"
+    },
+    {
+      "word": "失敗は成功の母",
+      "reading": "しっぱいはせいこうのはは",
+      "meaning": "failure is the mother of success",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "育つ",
+    "reading": "そだつ",
+    "romaji": "sodatsu",
+    "jlpt": "N3",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be raised (e.g. child)",
+          "to be brought up",
+          "to grow (up)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "育児",
+      "reading": "いくじ",
+      "meaning": "childcare"
+    },
+    {
+      "word": "体育",
+      "reading": "たいいく",
+      "meaning": "physical education"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "寝る子は育つ",
+      "reading": "ねるこはそだつ",
+      "meaning": "sleep brings up a child well",
+      "type": "proverb"
+    },
+    {
+      "word": "親はなくても子は育つ",
+      "reading": "おやはなくてもこはそだつ",
+      "meaning": "nature itself is a good mother",
+      "type": "proverb"
+    },
+    {
+      "word": "親はなくとも子は育つ",
+      "reading": "おやはなくともこはそだつ",
+      "meaning": "nature itself is a good mother",
+      "type": "proverb"
+    },
+    {
+      "word": "子供は親の背中を見て育つ",
+      "reading": "こどもはおやのせなかをみてそだつ",
+      "meaning": "children grow up watching their parents",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海の植物は海底に付着して育つ。",
+      "reading": null,
+      "english": "Marine plants grow on the sea bed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この土地は作物がよく育つ。",
+      "reading": null,
+      "english": "This land gives good crops.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "親は無くとも子は育つ。",
+      "reading": null,
+      "english": "Nature is a good mother.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "子どもはのびのび育つべきだ。",
+      "reading": null,
+      "english": "Children should grow up carefree.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

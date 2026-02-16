@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "危うい",
+    "reading": "あやうい",
+    "romaji": "ayaui",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "berbahaya",
+          "kritis"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "precarious (situation)",
+          "perilous (state, balance, etc.)",
+          "in doubt",
+          "in jeopardy",
+          "uncertain",
+          "insecure",
+          "concerning",
+          "worrying"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "危ない",
+      "reading": "あぶない",
+      "meaning": "berbahaya, kritis"
+    },
+    {
+      "word": "危ぶむ",
+      "reading": "あやぶむ",
+      "meaning": "takut, ragu-ragu, bimbang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "危うい所を助かった。",
+      "reading": null,
+      "indonesian": "I had a narrow escape.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "危ういところで少女は湖でおぼれそうになった。",
+      "reading": null,
+      "indonesian": "It was a close call when the little girl almost drowned in the lake.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "危うい所を助かった。",
+      "reading": null,
+      "indonesian": "I had a narrow escape.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "危ういところで少女は湖でおぼれそうになった。",
+      "reading": null,
+      "indonesian": "It was a close call when the little girl almost drowned in the lake.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

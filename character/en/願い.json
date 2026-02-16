@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "願い",
+    "reading": "ねがい",
+    "romaji": "negai",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "desire",
+          "wish",
+          "hope"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "request",
+          "entreaty",
+          "plea",
+          "appeal"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "prayer"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "(written) application"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "願う",
+      "reading": "ねがう",
+      "meaning": "to desire"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お願いだから泣かないで。",
+      "reading": null,
+      "english": "Please don't cry.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お願い、泣かないで。",
+      "reading": null,
+      "english": "Please don't cry.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ブラウンさんをお願いします。",
+      "reading": null,
+      "english": "May I talk to Ms. Brown?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「ええ、オレンジジュースをお願いします」マイクは言った。",
+      "reading": null,
+      "english": "\"Yes, orange juice please,\" says Mike.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お愛想お願いします。",
+      "reading": null,
+      "english": "The check, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お願いだから泣かないで。",
+      "reading": null,
+      "english": "Please don't cry.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ブラウンさんをお願いします。",
+      "reading": null,
+      "english": "May I talk to Ms. Brown?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ブラウンさんをお願いします。",
+      "reading": null,
+      "english": "May I talk to Mr. Brown?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「ええ、オレンジジュースをお願いします」マイクは言った。",
+      "reading": null,
+      "english": "\"Yes, orange juice please,\" says Mike.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「ええ、オレンジジュースをお願いします」マイクは言った。",
+      "reading": null,
+      "english": "\"Yes, orange juice please,\" Mike said.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

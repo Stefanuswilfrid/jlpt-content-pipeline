@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "順番",
+    "reading": "じゅんばん",
+    "romaji": "junban",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "order",
+          "turn"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "順",
+      "reading": "じゅん",
+      "meaning": "order"
+    },
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "favourable"
+    },
+    {
+      "word": "留守番",
+      "reading": "るすばん",
+      "meaning": "care-taking"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "number one"
+    },
+    {
+      "word": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "program (e.g. TV)"
+    },
+    {
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "number"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "やっと順番がきた。",
+      "reading": null,
+      "english": "At last, my turn came.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ケンの順番が来た。",
+      "reading": null,
+      "english": "Ken's turn came.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "早朝の受付でクジを引いて順番を決めた。",
+      "reading": null,
+      "english": "We drew lots to decide who would go first at the early morning reception desk.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

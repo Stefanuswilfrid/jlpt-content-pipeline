@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "強調",
+    "reading": "きょうちょう",
+    "romaji": "kyouchou",
+    "jlpt": "N3",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "penekanan",
+          "tekanan",
+          "poin yang ditekankan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "accentuating (a feature or certain part)",
+          "accenting"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "strong tone (of the market)",
+          "firm tone"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "調査",
+      "reading": "ちょうさ",
+      "meaning": "survei; investigasi"
+    },
+    {
+      "word": "協調",
+      "reading": "きょうちょう",
+      "meaning": "kerja sama, rekonsiliasi, harmoni"
+    },
+    {
+      "word": "強力",
+      "reading": "きょうりょく",
+      "meaning": "kuat, perkasa"
+    },
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "baik-baik saja"
+    },
+    {
+      "word": "強盗",
+      "reading": "ごうとう",
+      "meaning": "perampokan, pencurian"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaning": "kondisi, keadaan, nada, intonasi"
+    },
+    {
+      "word": "強める",
+      "reading": "つよめる",
+      "meaning": "untuk memperkuat, untuk menekankan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ぼくはこの点を特に強調したい。",
+      "reading": null,
+      "indonesian": "I want to emphasize this point in particular.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "当たり前",
+    "reading": "あたりまえ",
+    "romaji": "atarimae",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "natural",
+          "reasonable",
+          "obvious"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "usual",
+          "common",
+          "ordinary",
+          "commonplace",
+          "the norm"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "being in charge (of an area of responsibility)"
+    },
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "corresponding to (in meaning, function, etc.)"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "natural"
+    },
+    {
+      "word": "以前",
+      "reading": "いぜん",
+      "meaning": "before"
+    },
+    {
+      "word": "前進",
+      "reading": "ぜんしん",
+      "meaning": "advance"
+    },
+    {
+      "word": "弁当",
+      "reading": "べんとう",
+      "meaning": "bento"
+    },
+    {
+      "word": "前者",
+      "reading": "ぜんしゃ",
+      "meaning": "the former"
+    },
+    {
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "estimate"
+    },
+    {
+      "word": "お前",
+      "reading": "おまえ",
+      "meaning": "you"
+    },
+    {
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "morning"
+    },
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaning": "truth"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君が先生に叱られるのも当たり前だ。",
+      "reading": null,
+      "english": "It is not surprising that you should be scolded by your teacher.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そんなことは当たり前のことだ。",
+      "reading": null,
+      "english": "That's a matter of course.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは今では当たり前になっている。",
+      "reading": null,
+      "english": "It has become quite common.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

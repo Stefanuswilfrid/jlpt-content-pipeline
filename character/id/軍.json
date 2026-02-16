@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "軍",
+    "reading": "ぐん",
+    "romaji": "gun",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tentara",
+          "pasukan",
+          "tentara"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "military authorities"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "team",
+          "group",
+          "troupe"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "軍隊",
+      "reading": "ぐんたい",
+      "meaning": "tentara, pasukan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "孤軍奮闘",
+      "reading": "こぐんふんとう",
+      "meaning": "fighting alone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "千軍万馬",
+      "reading": "せんぐんばんば",
+      "meaning": "(having experienced) many battles",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "軍配が上がる",
+      "reading": "ぐんばいがあがる",
+      "meaning": "to be indicated as the winner of a bout by the raising of the referee's fan",
+      "type": "idiom"
+    },
+    {
+      "word": "懸軍万里",
+      "reading": "けんぐんばんり",
+      "meaning": "military expedition deep into enemy territory",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "勝てば官軍",
+      "reading": "かてばかんぐん",
+      "meaning": "might is right",
+      "type": "proverb"
+    },
+    {
+      "word": "敗軍の将は兵を語らず",
+      "reading": "はいぐんのしょうはへいをかたらず",
+      "meaning": "don't be a sore loser",
+      "type": "proverb"
+    },
+    {
+      "word": "勝てば官軍、負ければ賊軍",
+      "reading": "かてばかんぐん、まければぞくぐん",
+      "meaning": "might is right",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "街は大軍によって守られた。",
+      "reading": null,
+      "indonesian": "The town was defended by a large army.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

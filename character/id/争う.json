@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "争う",
+    "reading": "あらそう",
+    "romaji": "arasou",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk membantah",
+          "untuk berdebat",
+          "untuk berkelahi"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to quarrel",
+          "to argue",
+          "to dispute",
+          "to be at variance",
+          "to oppose"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to deny (e.g. evidence)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "論争",
+      "reading": "ろんそう",
+      "meaning": "kontroversi, perselisihan"
+    },
+    {
+      "word": "戦争",
+      "reading": "せんそう",
+      "meaning": "perang"
+    },
+    {
+      "word": "競争",
+      "reading": "きょうそう",
+      "meaning": "kompetisi, kontes"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "分秒を争う",
+      "reading": "ふんびょうをあらそう",
+      "meaning": "to have no time to lose",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "お金のことで言い争うのはやめなさい。",
+      "reading": null,
+      "indonesian": "Stop arguing about money.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "試合は終始一点を争うシーソーゲームだった。",
+      "reading": null,
+      "indonesian": "The game was one point back and forth the whole game.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "試合は終始一点を争うシーソーゲームだった。",
+      "reading": null,
+      "indonesian": "The game was one point back and forth the whole game.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムにメアリーと言い争う気はなかった。",
+      "reading": null,
+      "indonesian": "Tom had no desire to argue with Mary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムにメアリーと言い争う気はなかった。",
+      "reading": null,
+      "indonesian": "Tom had no desire to argue with Mary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お金のことで言い争うのはやめなさい。",
+      "reading": null,
+      "indonesian": "Stop arguing about money.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "definition": {
+    "word": "代表",
+    "reading": "だいひょう",
+    "romaji": "daihyou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "perwakilan",
+          "delegasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "exemplification",
+          "typification",
+          "being representative of",
+          "being typical of",
+          "representative example",
+          "exemplar",
+          "model"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "leader"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "switchboard number",
+          "main number"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaning": "hari ini, masa kini"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "pengumuman; publikasi; presentasi"
+    },
+    {
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "ekspresi, presentasi"
+    },
+    {
+      "word": "表情",
+      "reading": "ひょうじょう",
+      "meaning": "raut wajah"
+    },
+    {
+      "word": "近代",
+      "reading": "きんだい",
+      "meaning": "zaman modern"
+    },
+    {
+      "word": "代理",
+      "reading": "だいり",
+      "meaning": "perwakilan, wakil, deputi"
+    },
+    {
+      "word": "表面",
+      "reading": "ひょうめん",
+      "meaning": "permukaan, luar, muka"
+    },
+    {
+      "word": "代金",
+      "reading": "だいきん",
+      "meaning": "harga, biaya"
+    },
+    {
+      "word": "世",
+      "reading": "よ",
+      "meaning": "dunia, masyarakat, generasi"
+    },
+    {
+      "word": "年代",
+      "reading": "ねんだい",
+      "meaning": "zaman, era, periode"
+    },
+    {
+      "word": "表す",
+      "reading": "あらわす",
+      "meaning": "untuk mengungkapkan, untuk menunjukkan"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "zaman, periode, masa, era"
+    },
+    {
+      "word": "代わり",
+      "reading": "かわり",
+      "meaning": "pengganti, alternatif"
+    },
+    {
+      "word": "公表",
+      "reading": "こうひょう",
+      "meaning": "pengumuman resmi, proklamasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の意見が他の生徒の意見を代表しているのかね。",
+      "reading": null,
+      "indonesian": "Are your opinions representative of those of the other students?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その代表者は年次会議を欠席した。",
+      "reading": null,
+      "indonesian": "The representative was absent from the annual conference.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジョンは水泳の試合でクラスを代表した。",
+      "reading": null,
+      "indonesian": "John represented his class in the swimming match.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

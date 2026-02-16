@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "周辺",
+    "reading": "しゅうへん",
+    "romaji": "shuuhen",
+    "jlpt": "N2",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "keliling",
+          "perifer"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(computer) peripheral"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "円周",
+      "reading": "えんしゅう",
+      "meaning": "lingkar"
+    },
+    {
+      "word": "周囲",
+      "reading": "しゅうい",
+      "meaning": "sekeliling, keliling, lingkungan"
+    },
+    {
+      "word": "周り",
+      "reading": "まわり",
+      "meaning": "lingkungan"
+    },
+    {
+      "word": "心当たり",
+      "reading": "こころあたり",
+      "meaning": "memiliki pengetahuan tentang, kebetulan mengetahui"
+    },
+    {
+      "word": "辺",
+      "reading": "へん",
+      "meaning": "daerah, sekitar"
+    },
+    {
+      "word": "周期",
+      "reading": "しゅうき",
+      "meaning": "siklus, periode"
+    },
+    {
+      "word": "辺り",
+      "reading": "あたり",
+      "meaning": "sekitar, dekat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その州は周辺にさまざまな原料を供給している。",
+      "reading": null,
+      "indonesian": "The province supplies its neighbors with various raw materials.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ケイトのお父さんは家の周辺にいる。",
+      "reading": null,
+      "indonesian": "Kate's father is about the house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私たちはパリ周辺地方の道路地図を調べた。",
+      "reading": null,
+      "indonesian": "We studied the road map of the country around Paris.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "現在では我々が作った人工衛星が地球の周辺を回転している。",
+      "reading": null,
+      "indonesian": "Today our artificial satellites are revolving around the earth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "虫歯",
+    "reading": "むしば",
+    "romaji": "mushiba",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gigi berlubang",
+          "kerusakan gigi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "歯車",
+      "reading": "はぐるま",
+      "meaning": "roda gigi, roda bergerigi"
+    },
+    {
+      "word": "歯",
+      "reading": "は",
+      "meaning": "gigi"
+    },
+    {
+      "word": "虫",
+      "reading": "むし",
+      "meaning": "serangga"
+    },
+    {
+      "word": "歯磨き",
+      "reading": "はみがき",
+      "meaning": "menyikat gigi, pasta gigi"
+    },
+    {
+      "word": "歯医者",
+      "reading": "はいしゃ",
+      "meaning": "dokter gigi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうも虫歯のようです。",
+      "reading": null,
+      "indonesian": "I think I have a decayed tooth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この歯が虫歯になっています。",
+      "reading": null,
+      "indonesian": "This tooth is decayed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "母親は子どもの歯を虫歯から守ってやらなければならない。",
+      "reading": null,
+      "indonesian": "A mother must protect her child's teeth from decay.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "虫歯はひとりでにぬけてしまった。",
+      "reading": null,
+      "indonesian": "The decayed tooth came out on its own.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "虫歯は１本もありません。",
+      "reading": null,
+      "indonesian": "I don't have any cavities.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "虫歯ができちゃって、冷たい物を食べるとしみるんだ。",
+      "reading": null,
+      "indonesian": "Since I developed this cavity, my tooth has been really sensitive to heat and cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "助ける",
+    "reading": "たすける",
+    "romaji": "tasukeru",
+    "jlpt": "N3",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to save",
+          "to rescue",
+          "to spare"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to help",
+          "to assist"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to support (financially)",
+          "to contribute (to)",
+          "to provide aid"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to facilitate",
+          "to stimulate",
+          "to promote",
+          "to contribute to"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "援助",
+      "reading": "えんじょ",
+      "meaning": "assistance"
+    },
+    {
+      "word": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "relief"
+    },
+    {
+      "word": "助手",
+      "reading": "じょしゅ",
+      "meaning": "assistant"
+    },
+    {
+      "word": "助かる",
+      "reading": "たすかる",
+      "meaning": "to be saved"
+    },
+    {
+      "word": "助詞",
+      "reading": "じょし",
+      "meaning": "particle"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "芸は身を助ける",
+      "reading": "げいはみをたすける",
+      "meaning": "art brings bread",
+      "type": "proverb"
+    },
+    {
+      "word": "小の虫を殺して大の虫を助ける",
+      "reading": "しょうのむしをころしてだいのむしをたすける",
+      "meaning": "to sacrifice something small in order to save something great",
+      "type": "proverb"
+    },
+    {
+      "word": "芸が身を助けるほどの不幸せ",
+      "reading": "げいがみをたすけるほどのふしあわせ",
+      "meaning": "being able to live as an artist is no blessing",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "医者は病人やけが人を助けるべきです。",
+      "reading": null,
+      "english": "Doctors should help sick or injured persons.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ワインは消化を助ける。",
+      "reading": null,
+      "english": "Wine helps digest food.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

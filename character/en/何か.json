@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "何か",
+    "reading": "なにか",
+    "romaji": "nanika",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "something",
+          "some",
+          "any"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "somehow",
+          "for some reason"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "(so) what (are you trying to say)?",
+          "what (do you mean)?"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何かしてみましょう。",
+      "reading": null,
+      "english": "Let's try something.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "それが何か？",
+      "reading": null,
+      "english": "So what?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "何か他の言い方はある？",
+      "reading": null,
+      "english": "Can it be phrased in another way?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何かお飲みになりますか？",
+      "reading": null,
+      "english": "Would you like something to drink?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何か飲み物はいかがですか。",
+      "reading": null,
+      "english": "Would you like something to drink?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何か飲みますか。",
+      "reading": null,
+      "english": "Would you like something to drink?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何かお飲み物はいかがですか？",
+      "reading": null,
+      "english": "Would you like something to drink?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何かしてみましょう。",
+      "reading": null,
+      "english": "Let's try something.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

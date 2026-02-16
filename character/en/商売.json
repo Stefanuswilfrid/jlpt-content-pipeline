@@ -1,0 +1,152 @@
+{
+  "definition": {
+    "word": "商売",
+    "reading": "しょうばい",
+    "romaji": "shoubai",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "trade",
+          "business",
+          "commerce"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "occupation",
+          "calling",
+          "profession",
+          "job"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaning": "commodity"
+    },
+    {
+      "word": "販売",
+      "reading": "はんばい",
+      "meaning": "sale"
+    },
+    {
+      "word": "売れる",
+      "reading": "うれる",
+      "meaning": "to sell (well)"
+    },
+    {
+      "word": "商人",
+      "reading": "しょうにん",
+      "meaning": "merchant"
+    },
+    {
+      "word": "売買",
+      "reading": "ばいばい",
+      "meaning": "trade"
+    },
+    {
+      "word": "発売",
+      "reading": "はつばい",
+      "meaning": "sale"
+    },
+    {
+      "word": "商業",
+      "reading": "しょうぎょう",
+      "meaning": "commerce"
+    },
+    {
+      "word": "商社",
+      "reading": "しょうしゃ",
+      "meaning": "trading company"
+    },
+    {
+      "word": "商店",
+      "reading": "しょうてん",
+      "meaning": "shop"
+    },
+    {
+      "word": "売り場",
+      "reading": "うりば",
+      "meaning": "selling area"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "商売繁盛",
+      "reading": "しょうばいはんじょう",
+      "meaning": "thriving (prosperous) business",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は商売熱心だね。",
+      "reading": null,
+      "english": "You work hard.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "地元の店は観光客相手に順調な商売をしている。",
+      "reading": null,
+      "english": "Local shops do good business with tourists.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "商売は商売。",
+      "reading": null,
+      "english": "Business is business.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ボブが自分で商売を始めてから３年になります。",
+      "reading": null,
+      "english": "It has been three years since Bob started his own business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんな場所で本屋をやっても商売が成り立たないだろう。",
+      "reading": null,
+      "english": "A bookstore in that location wouldn't make enough money to survive.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ジョンは自分で商売を始めた。",
+      "reading": null,
+      "english": "John began trade personally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご商売は何ですか。",
+      "reading": null,
+      "english": "What line of work are you in?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

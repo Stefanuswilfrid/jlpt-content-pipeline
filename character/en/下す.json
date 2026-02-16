@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "下す",
+    "reading": "くだす",
+    "romaji": "kudasu",
+    "jlpt": "N3",
+    "frequency": 19250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make a decision",
+          "to draw a conclusion"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to give a judgement",
+          "to hand down a verdict",
+          "to pass a sentence",
+          "to give an order"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to let go down",
+          "to lower"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to do oneself",
+          "to do by oneself"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to beat",
+          "to defeat"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have loose bowels",
+          "to have diarrhea"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pass (in stool)",
+          "to discharge from the body"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'su' ending"
+        ],
+        "meanings": [
+          "to do in one go",
+          "to do to the end without stopping"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見下ろす",
+      "reading": "みおろす",
+      "meaning": "to overlook"
+    },
+    {
+      "word": "下げる",
+      "reading": "さげる",
+      "meaning": "to hang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "決定を下す前に事実をよく知らなければだめです。",
+      "reading": null,
+      "english": "You should acquaint yourself with the facts before you make a decision.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

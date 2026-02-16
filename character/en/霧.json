@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "霧",
+    "reading": "きり",
+    "romaji": "kiri",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fog",
+          "mist"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "spray"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "雲散霧消",
+      "reading": "うんさんむしょう",
+      "meaning": "vanishing like mist",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "五里霧中",
+      "reading": "ごりむちゅう",
+      "meaning": "totally at a loss",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "雲集霧散",
+      "reading": "うんしゅうむさん",
+      "meaning": "(many things) gathering like clouds and vanishing like mist",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "雲消霧散",
+      "reading": "うんしょうむさん",
+      "meaning": "vanishing like mist",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

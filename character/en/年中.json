@@ -1,0 +1,248 @@
+{
+  "definition": {
+    "word": "年中",
+    "reading": "ねんじゅう",
+    "romaji": "nenjuu",
+    "jlpt": "N3",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "whole year",
+          "all year round",
+          "throughout the year"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "always",
+          "all the time",
+          "perpetually"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "during an era"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "second-year kindergarten student"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "中古",
+      "reading": "ちゅうこ",
+      "meaning": "used"
+    },
+    {
+      "word": "夜中",
+      "reading": "よなか",
+      "meaning": "middle of the night"
+    },
+    {
+      "word": "年月",
+      "reading": "としつき",
+      "meaning": "months and years"
+    },
+    {
+      "word": "成年",
+      "reading": "せいねん",
+      "meaning": "adult age"
+    },
+    {
+      "word": "年間",
+      "reading": "ねんかん",
+      "meaning": "(period of) a year"
+    },
+    {
+      "word": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "centre"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "center"
+    },
+    {
+      "word": "少年",
+      "reading": "しょうねん",
+      "meaning": "boy"
+    },
+    {
+      "word": "年齢",
+      "reading": "ねんれい",
+      "meaning": "age"
+    },
+    {
+      "word": "青年",
+      "reading": "せいねん",
+      "meaning": "youth"
+    },
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "concentration (on a task)"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "interruption"
+    },
+    {
+      "word": "日中",
+      "reading": "にっちゅう",
+      "meaning": "daytime"
+    },
+    {
+      "word": "中身",
+      "reading": "なかみ",
+      "meaning": "contents"
+    },
+    {
+      "word": "世の中",
+      "reading": "よのなか",
+      "meaning": "society"
+    },
+    {
+      "word": "年代",
+      "reading": "ねんだい",
+      "meaning": "age"
+    },
+    {
+      "word": "年鑑",
+      "reading": "ねんかん",
+      "meaning": "yearbook"
+    },
+    {
+      "word": "夢中",
+      "reading": "むちゅう",
+      "meaning": "absorbed in"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "年中行事",
+      "reading": "ねんちゅうぎょうじ",
+      "meaning": "annual function",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "年百年中",
+      "reading": "ねんびゃくねんじゅう",
+      "meaning": "throughout the year",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "沖縄は１年中よい気候だ。",
+      "reading": null,
+      "english": "Okinawa has a fine climate all year round.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一年中雨が多い。",
+      "reading": null,
+      "english": "They have much rain all year round.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一年中で一番いい季節ですね。",
+      "reading": null,
+      "english": "It's the best season of the year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一年中いつも同じでした。",
+      "reading": null,
+      "english": "It was the same all year round.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ハワイは一年中気候がよい。",
+      "reading": null,
+      "english": "Hawaii enjoys good weather the year round.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ハワイでは１年中海水浴が楽しめる。",
+      "reading": null,
+      "english": "In Hawaii, one can swim in the ocean all year round.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その木は１年中青々としている。",
+      "reading": null,
+      "english": "The tree is green all year round.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その島は一年中あたたかい。",
+      "reading": null,
+      "english": "The island is warm all year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その店は年中無休です。",
+      "reading": null,
+      "english": "The store is open all the year round.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その店は一年中ずっと開いている。",
+      "reading": null,
+      "english": "The store is open all the year round.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その山は一年中雪をいただいている。",
+      "reading": null,
+      "english": "We have snow on the mountain all the year round.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

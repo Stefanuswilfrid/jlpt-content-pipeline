@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "些とも",
+    "reading": "ちっとも",
+    "romaji": "chittomo",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(not) at all",
+          "(not) a bit",
+          "(not) in the least",
+          "(not) in the slightest"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "a little"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ちっとも気にしていない。",
+      "reading": null,
+      "english": "I am not the least bit worried.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その子は、話すのがちっともうまくならなかった。",
+      "reading": null,
+      "english": "He made no progress in his speaking ability.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのパーティーはちっとも楽しくなかった。",
+      "reading": null,
+      "english": "I didn't enjoy the party at all.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

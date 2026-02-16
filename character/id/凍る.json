@@ -1,0 +1,43 @@
+{
+  "definition": {
+    "word": "凍る",
+    "reading": "こおる",
+    "romaji": "kooru",
+    "jlpt": "N3",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "membeku",
+          "membeku sepenuhnya",
+          "mengental"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "凍える",
+      "reading": "こごえる",
+      "meaning": "membeku, menjadi dingin, membeku"
+    },
+    {
+      "word": "氷",
+      "reading": "こおり",
+      "meaning": "es, hujan es"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "背筋が凍る",
+      "reading": "せすじがこおる",
+      "meaning": "to have a chill run down one's spine",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "栄養",
+    "reading": "えいよう",
+    "romaji": "eiyou",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nutrition",
+          "nourishment"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教養",
+      "reading": "きょうよう",
+      "meaning": "(understanding or appreciation of) culture"
+    },
+    {
+      "word": "休養",
+      "reading": "きゅうよう",
+      "meaning": "rest"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "栄養のある朝食をとった。",
+      "reading": null,
+      "english": "I had a nutritious breakfast.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "栄養があるからといって食べられるものではない。",
+      "reading": null,
+      "english": "You can't eat it just because it is nutritious.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この魚は安くてしかも栄養がある。",
+      "reading": null,
+      "english": "This fish is inexpensive but nourishing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

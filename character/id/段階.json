@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "段階",
+    "reading": "だんかい",
+    "romaji": "dankai",
+    "jlpt": "N2",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gradasi",
+          "tingkatan",
+          "tahapan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "level",
+          "rank",
+          "grade",
+          "gradation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "order"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stairs"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手段",
+      "reading": "しゅだん",
+      "meaning": "berarti, cara, ukuran"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaning": "harga"
+    },
+    {
+      "word": "階段",
+      "reading": "かいだん",
+      "meaning": "tangga"
+    },
+    {
+      "word": "梯子",
+      "reading": "はしご",
+      "meaning": "tangga, anak tangga"
+    },
+    {
+      "word": "普段",
+      "reading": "ふだん",
+      "meaning": "dalam situasi sehari-hari, biasanya, pada umumnya"
+    },
+    {
+      "word": "階級",
+      "reading": "かいきゅう",
+      "meaning": "kelas, peringkat, nilai"
+    },
+    {
+      "word": "段",
+      "reading": "だん",
+      "meaning": "langkah, anak tangga, tingkatan"
+    },
+    {
+      "word": "階層",
+      "reading": "かいそう",
+      "meaning": "kelas, tingkat, strata, hierarki"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学校をさぼるのは非行の第一段階である。",
+      "reading": null,
+      "indonesian": "Cutting school is the first stage of delinquency.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それはまだ実験段階にあります。",
+      "reading": null,
+      "indonesian": "It is still in the testing stage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "現段階ではその問題についてコメントできません。",
+      "reading": null,
+      "indonesian": "At this point, I'm unable to comment on that problem.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "病気はまだ初期の段階です。",
+      "reading": null,
+      "indonesian": "The disease is still in the primary stage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "戦争は最終段階にはいっていった。",
+      "reading": null,
+      "indonesian": "The war had entered its final stage.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "次の段階は、いい芸術学校に入ることだった。",
+      "reading": null,
+      "indonesian": "The next stage was to enter a good arts school.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "出来るだけ",
+    "reading": "できるだけ",
+    "romaji": "dekirudake",
+    "jlpt": "N4",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "jika memungkinkan",
+          "sebisa mungkin"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaning": "(di) masa depan; prospek"
+    },
+    {
+      "word": "再来月",
+      "reading": "さらいげつ",
+      "meaning": "bulan setelah bulan depan"
+    },
+    {
+      "word": "再来週",
+      "reading": "さらいしゅう",
+      "meaning": "minggu setelah minggu depan"
+    },
+    {
+      "word": "以来",
+      "reading": "いらい",
+      "meaning": "karena, mulai sekarang"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "tahun depan"
+    },
+    {
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "bulan depan"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "minggu depan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "よしわかった。できるだけ早く行くよ。",
+      "reading": null,
+      "indonesian": "All right. I'll come as soon as possible.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうかできるだけ早く来てください。",
+      "reading": null,
+      "indonesian": "Please come as soon as possible.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

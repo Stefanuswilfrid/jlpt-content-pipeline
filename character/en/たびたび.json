@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "度々",
+    "reading": "たびたび",
+    "romaji": "tabitabi",
+    "jlpt": "N3",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "often",
+          "again and again",
+          "over and over again",
+          "repeatedly",
+          "frequently"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning": "degree"
+    },
+    {
+      "word": "一度に",
+      "reading": "いちどに",
+      "meaning": "all at once"
+    },
+    {
+      "word": "再び",
+      "reading": "ふたたび",
+      "meaning": "again"
+    },
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "this time"
+    },
+    {
+      "word": "一度",
+      "reading": "いちど",
+      "meaning": "once"
+    },
+    {
+      "word": "丁度",
+      "reading": "ちょうど",
+      "meaning": "exactly"
+    },
+    {
+      "word": "適度",
+      "reading": "てきど",
+      "meaning": "moderate (degree)"
+    },
+    {
+      "word": "毎度",
+      "reading": "まいど",
+      "meaning": "each time"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "system"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ボブはたびたびタバコを止めようとしている。",
+      "reading": null,
+      "english": "Bob often tries to give up smoking.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たびたびそこに行った事がある。",
+      "reading": null,
+      "english": "I have been there scores of times.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そして、木はたびたび一人ぼっちになりました。",
+      "reading": null,
+      "english": "And the tree was often alone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こうしたことはそれほどたびたび起こるものではない。",
+      "reading": null,
+      "english": "This kind of thing doesn't occur very often.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "うがい薬でたびたびうがいをしてください。",
+      "reading": null,
+      "english": "Please rinse often with mouthwash.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "百合は当時たびたびロンドンに行った。",
+      "reading": null,
+      "english": "Yuri often went to London in those days.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

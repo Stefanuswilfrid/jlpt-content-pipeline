@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "割る",
+    "reading": "わる",
+    "romaji": "waru",
+    "jlpt": "N3",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "merobek; melanggar; mengalahkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cut",
+          "to halve",
+          "to separate",
+          "to split",
+          "to rip"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to break",
+          "to crack",
+          "to smash"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to dilute"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fall below"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to discount"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to step over (a line, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "裂く",
+      "reading": "さく",
+      "meaning": "merobek, membelah"
+    },
+    {
+      "word": "役割",
+      "reading": "やくわり",
+      "meaning": "penetapan (pembagian) bagian, peran, tugas"
+    },
+    {
+      "word": "裂ける",
+      "reading": "さける",
+      "meaning": "membelah, merobek, meletus"
+    },
+    {
+      "word": "時間割",
+      "reading": "じかんわり",
+      "meaning": "jadwal, rencana"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "腹を割る",
+      "reading": "はらをわる",
+      "meaning": "to be frank",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "気に入る",
+    "reading": "きにいる",
+    "romaji": "kiniiru",
+    "jlpt": "N3",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "Godan verb with 'ru' ending"
+        ],
+        "meanings": [
+          "to like",
+          "to be pleased with",
+          "to be delighted with",
+          "to take a liking to",
+          "to suit one's fancy"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "入る",
+      "reading": "いる",
+      "meaning": "to enter"
+    },
+    {
+      "word": "入る",
+      "reading": "はいる",
+      "meaning": "to enter"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どれを取っても、君は気に入るだろう。",
+      "reading": null,
+      "english": "Whichever you take, you will like it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どちらをとっても君は気に入るだろう。",
+      "reading": null,
+      "english": "Whichever you take, you will like it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたも気に入ると思うわ。",
+      "reading": null,
+      "english": "I think that you'll like it, too.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どれを取っても、君は気に入るだろう。",
+      "reading": null,
+      "english": "Whichever you take, you will like it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どちらをとっても君は気に入るだろう。",
+      "reading": null,
+      "english": "Whichever you take, you will like it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

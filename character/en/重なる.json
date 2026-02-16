@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "重なる",
+    "reading": "かさなる",
+    "romaji": "kasanaru",
+    "jlpt": "N3",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be piled up",
+          "to lie on top of one another"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come one after another",
+          "to happen over and over",
+          "to pile up (e.g. stress)",
+          "to accumulate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to overlap (each other)",
+          "to occur at the same time",
+          "to happen simultaneously"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "重要",
+      "reading": "じゅうよう",
+      "meaning": "important"
+    },
+    {
+      "word": "重大",
+      "reading": "じゅうだい",
+      "meaning": "serious"
+    },
+    {
+      "word": "貴重",
+      "reading": "きちょう",
+      "meaning": "precious"
+    },
+    {
+      "word": "重視",
+      "reading": "じゅうし",
+      "meaning": "regarding as important"
+    },
+    {
+      "word": "慎重",
+      "reading": "しんちょう",
+      "meaning": "careful"
+    },
+    {
+      "word": "体重",
+      "reading": "たいじゅう",
+      "meaning": "(body) weight"
+    },
+    {
+      "word": "尊重",
+      "reading": "そんちょう",
+      "meaning": "respect"
+    },
+    {
+      "word": "重ねる",
+      "reading": "かさねる",
+      "meaning": "to pile up"
+    },
+    {
+      "word": "重体",
+      "reading": "じゅうたい",
+      "meaning": "serious condition"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "不幸は重なるものだ。",
+      "reading": null,
+      "english": "Misfortunes always come in threes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "先生はトムのたび重なる欠席を心配した。",
+      "reading": null,
+      "english": "The teacher was worried by Tom's frequent absences from class.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "先生はトムのたび重なる欠席を心配した。",
+      "reading": null,
+      "english": "The teacher was worried by Tom's frequent absences from class.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "不幸は重なるものだ。",
+      "reading": null,
+      "english": "Misfortunes always come in threes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

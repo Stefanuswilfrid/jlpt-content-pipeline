@@ -1,0 +1,167 @@
+{
+  "definition": {
+    "word": "感心",
+    "reading": "かんしん",
+    "romaji": "kanshin",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "admiration",
+          "being impressed"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "admirable",
+          "praiseworthy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "astonishment",
+          "being appalled"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "being deeply moved emotionally"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "thanks"
+    },
+    {
+      "word": "感じる",
+      "reading": "かんじる",
+      "meaning": "to feel"
+    },
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaning": "concern"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "center"
+    },
+    {
+      "word": "感じ",
+      "reading": "かんじ",
+      "meaning": "feeling"
+    },
+    {
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "sense"
+    },
+    {
+      "word": "感情",
+      "reading": "かんじょう",
+      "meaning": "emotion"
+    },
+    {
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "impressions"
+    },
+    {
+      "word": "心臓",
+      "reading": "しんぞう",
+      "meaning": "heart"
+    },
+    {
+      "word": "心理",
+      "reading": "しんり",
+      "meaning": "state of mind"
+    },
+    {
+      "word": "決心",
+      "reading": "けっしん",
+      "meaning": "determination"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "care"
+    },
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaning": "peace of mind"
+    },
+    {
+      "word": "都心",
+      "reading": "としん",
+      "meaning": "city centre (esp. of Tokyo)"
+    },
+    {
+      "word": "熱心",
+      "reading": "ねっしん",
+      "meaning": "zealous"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その勇気には感心するよ。",
+      "reading": null,
+      "english": "I admire you for your courage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の勇気には感心する。",
+      "reading": null,
+      "english": "I admire your courage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の無知には感心するよ。",
+      "reading": null,
+      "english": "I admire your ignorance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の色に対する好みは感心しない。",
+      "reading": null,
+      "english": "I don't like your taste in color.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの新車に感心しないではいられない。",
+      "reading": null,
+      "english": "I cannot help admiring your new car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

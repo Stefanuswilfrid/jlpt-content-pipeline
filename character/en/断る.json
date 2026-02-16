@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "断る",
+    "reading": "ことわる",
+    "romaji": "kotowaru",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to refuse",
+          "to reject",
+          "to dismiss",
+          "to turn down",
+          "to decline"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to inform",
+          "to give notice",
+          "to ask in advance (and get approval)",
+          "to get permission"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to ask leave",
+          "to excuse oneself (from)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "横断",
+      "reading": "おうだん",
+      "meaning": "crossing (a road, river, etc.)"
+    },
+    {
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "judgment"
+    },
+    {
+      "word": "断つ",
+      "reading": "たつ",
+      "meaning": "to sever"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosis"
+    },
+    {
+      "word": "断水",
+      "reading": "だんすい",
+      "meaning": "suspension of water supply"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

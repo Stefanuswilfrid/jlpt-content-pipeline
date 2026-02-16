@@ -1,0 +1,179 @@
+{
+  "definition": {
+    "word": "発電",
+    "reading": "はつでん",
+    "romaji": "hatsuden",
+    "jlpt": "N2",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "pembangkitan (misalnya",
+          "tenaga)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発売",
+      "reading": "はつばい",
+      "meaning": "penjualan"
+    },
+    {
+      "word": "電力",
+      "reading": "でんりょく",
+      "meaning": "tenaga listrik"
+    },
+    {
+      "word": "発想",
+      "reading": "はっそう",
+      "meaning": "ide; cara berpikir (sama seperti 考え方 (かんがえかた))"
+    },
+    {
+      "word": "電波",
+      "reading": "でんぱ",
+      "meaning": "gelombang elektromagnetik"
+    },
+    {
+      "word": "電池",
+      "reading": "でんち",
+      "meaning": "baterai"
+    },
+    {
+      "word": "電流",
+      "reading": "でんりゅう",
+      "meaning": "arus listrik"
+    },
+    {
+      "word": "発揮",
+      "reading": "はっき",
+      "meaning": "pameran, demonstrasi, tampilan"
+    },
+    {
+      "word": "乾電池",
+      "reading": "かんでんち",
+      "meaning": "sel kering, baterai"
+    },
+    {
+      "word": "電柱",
+      "reading": "でんちゅう",
+      "meaning": "tiang telepon, tiang telegraf, tiang lampu"
+    },
+    {
+      "word": "電球",
+      "reading": "でんきゅう",
+      "meaning": "bola lampu"
+    },
+    {
+      "word": "蒸発",
+      "reading": "じょうはつ",
+      "meaning": "penguapan; hilangnya secara tidak dapat dijelaskan"
+    },
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaning": "pengembangan, eksploitasi"
+    },
+    {
+      "word": "発言",
+      "reading": "はつげん",
+      "meaning": "ucapan, pidato, usulan"
+    },
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "telepon"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "terbitan (publikasi)"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "pembangunan, pertumbuhan, kemajuan"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "pengumuman; publikasi; presentasi"
+    },
+    {
+      "word": "反発",
+      "reading": "はんぱつ",
+      "meaning": "menolak, memantul, menentang"
+    },
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "listrik, lampu (listrik)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々は始発電車に乗るために早く出た。",
+      "reading": null,
+      "indonesian": "We left early so that we can catch the first train.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は始発電車に乗るために早起きした。",
+      "reading": null,
+      "indonesian": "I got up early in order to catch the first train.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どこの病院にも全て停電に備えて予備の発電機を備えている。",
+      "reading": null,
+      "indonesian": "Every hospital has a back-up electric generator in case of blackout.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この発電所だけで数個の市に電力を供給している。",
+      "reading": null,
+      "indonesian": "This power station alone provides several cities with electricity.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ここに原子力発電所があります。",
+      "reading": null,
+      "indonesian": "Here is an atomic power plant.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは始発電車に間にあいましたか。",
+      "reading": null,
+      "indonesian": "Did you catch the first train?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "太陽熱は日本では発電より太陽熱温水器として利用されています。",
+      "reading": null,
+      "indonesian": "In Japan solar heat is used more for solar water heaters than for electricity generation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

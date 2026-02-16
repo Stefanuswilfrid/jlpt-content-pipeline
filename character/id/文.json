@@ -1,0 +1,196 @@
+{
+  "definition": {
+    "word": "文",
+    "reading": "ふみ",
+    "romaji": "fumi",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kalimat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "book",
+          "writings"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "literary arts",
+          "learning",
+          "scholarship"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文字",
+      "reading": "もじ",
+      "meaning": "huruf (alfabet), karakter"
+    },
+    {
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "memesan, meminta"
+    },
+    {
+      "word": "論文",
+      "reading": "ろんぶん",
+      "meaning": "tesis, makalah"
+    },
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "peradaban"
+    },
+    {
+      "word": "文句",
+      "reading": "もんく",
+      "meaning": "pengaduan"
+    },
+    {
+      "word": "碑",
+      "reading": "いしぶみ",
+      "meaning": "monumen batu yang bertuliskan prasasti"
+    },
+    {
+      "word": "学問",
+      "reading": "がくもん",
+      "meaning": "beasiswa, studi, pembelajaran"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaning": "budaya"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaning": "literatur"
+    },
+    {
+      "word": "文章",
+      "reading": "ぶんしょう",
+      "meaning": "kalimat, teks"
+    },
+    {
+      "word": "文芸",
+      "reading": "ぶんげい",
+      "meaning": "sastra, seni dan sastra"
+    },
+    {
+      "word": "作文",
+      "reading": "さくぶん",
+      "meaning": "esai; komposisi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "真一文字",
+      "reading": "まいちもんじ",
+      "meaning": "straight line",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "文明開化",
+      "reading": "ぶんめいかいか",
+      "meaning": "civilization and enlightenment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "同文同種",
+      "reading": "どうぶんどうしゅ",
+      "meaning": "same race and same script",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "繁文縟礼",
+      "reading": "はんぶんじょくれい",
+      "meaning": "red-tapism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "文芸復興",
+      "reading": "ぶんげいふっこう",
+      "meaning": "Renaissance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "二束三文",
+      "reading": "にそくさんもん",
+      "meaning": "dirt cheap",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "文質彬彬",
+      "reading": "ぶんしつひんぴん",
+      "meaning": "harmony of beauty and substance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "文武両道",
+      "reading": "ぶんぶりょうどう",
+      "meaning": "being accomplished in both the literary and military arts",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "言文一致",
+      "reading": "げんぶんいっち",
+      "meaning": "unification of the written and spoken forms of a language",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "允文允武",
+      "reading": "いんぶんいんぶ",
+      "meaning": "being versed in the literary and military arts",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "朝起きは三文の徳。",
+      "reading": null,
+      "indonesian": "The early bird catches the worm.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "早起きは三文の徳。",
+      "reading": null,
+      "indonesian": "The early bird catches the worm.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は文法の練習をしなければならない。",
+      "reading": null,
+      "indonesian": "You must practice grammar.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はこの作文を明日の正午までには書いてしまっているだろう。",
+      "reading": null,
+      "indonesian": "You'll have this composition written by noon tomorrow, won't you?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "血",
+    "reading": "ち",
+    "romaji": "chi",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "darah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "blood",
+          "ancestry",
+          "lineage",
+          "stock"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(the) blood",
+          "feelings",
+          "passions"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "血液",
+      "reading": "けつえき",
+      "meaning": "darah"
+    },
+    {
+      "word": "血管",
+      "reading": "けっかん",
+      "meaning": "pembuluh darah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "血も涙もない",
+      "reading": "ちもなみだもない",
+      "meaning": "cold-blooded",
+      "type": "idiom"
+    },
+    {
+      "word": "血の通った",
+      "reading": "ちのかよった",
+      "meaning": "flesh-and-blood",
+      "type": "idiom"
+    },
+    {
+      "word": "鮮血淋漓",
+      "reading": "せんけつりんり",
+      "meaning": "dripping with fresh blood",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "屍山血河",
+      "reading": "しざんけつが",
+      "meaning": "heaps of bodies and streams of blood",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "血肉の争い",
+      "reading": "けつにくのあらそい",
+      "meaning": "family quarrel",
+      "type": "idiom"
+    },
+    {
+      "word": "血は争えない",
+      "reading": "ちはあらそえない",
+      "meaning": "like father, like son",
+      "type": "proverb"
+    },
+    {
+      "word": "血で血を洗う",
+      "reading": "ちでちをあらう",
+      "meaning": "to engage in a bloody feud",
+      "type": "idiom"
+    },
+    {
+      "word": "血が騒ぐ",
+      "reading": "ちがさわぐ",
+      "meaning": "to get excited",
+      "type": "idiom"
+    },
+    {
+      "word": "血が流れる",
+      "reading": "ちがながれる",
+      "meaning": "blood flows",
+      "type": "idiom"
+    },
+    {
+      "word": "心血を注ぐ",
+      "reading": "しんけつをそそぐ",
+      "meaning": "to put one's heart and soul (into)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

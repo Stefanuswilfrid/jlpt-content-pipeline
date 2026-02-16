@@ -1,0 +1,50 @@
+{
+  "definition": {
+    "word": "検査",
+    "reading": "けんさ",
+    "romaji": "kensa",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "inspection (e.g. customs, factory)",
+          "examination",
+          "test",
+          "check",
+          "scan (e.g. MRI, PET)",
+          "audit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "捜査",
+      "reading": "そうさ",
+      "meaning": "search (esp. in criminal investigations)"
+    },
+    {
+      "word": "調査",
+      "reading": "ちょうさ",
+      "meaning": "investigation"
+    },
+    {
+      "word": "検討",
+      "reading": "けんとう",
+      "meaning": "consideration"
+    },
+    {
+      "word": "巡査",
+      "reading": "じゅんさ",
+      "meaning": "police officer"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

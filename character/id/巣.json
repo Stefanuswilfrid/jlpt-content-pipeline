@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "巣",
+    "reading": "す",
+    "romaji": "su",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sarang",
+          "tempat berkembang biak"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "den"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "haunt"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(spider's) web"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "巣立つ",
+      "reading": "すだつ",
+      "meaning": "to leave the nest",
+      "type": "idiom"
+    },
+    {
+      "word": "蜂の巣",
+      "reading": "はちのす",
+      "meaning": "beehive",
+      "type": "idiom"
+    },
+    {
+      "word": "帰巣本能",
+      "reading": "きそうほんのう",
+      "meaning": "homing instinct",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空巣にやられた。",
+      "reading": null,
+      "indonesian": "Our house was robbed while we were away.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空き巣に入られたんだ。",
+      "reading": null,
+      "indonesian": "Our house was robbed while we were away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "巣に返してあげて。",
+      "reading": null,
+      "indonesian": "Put it back in the nest.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その鳥は巣の中にいる。",
+      "reading": null,
+      "indonesian": "The bird is in its nest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すぐに鳥達は巣を飛び去った。",
+      "reading": null,
+      "indonesian": "At once the birds left their nests.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

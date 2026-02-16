@@ -1,0 +1,161 @@
+{
+  "definition": {
+    "word": "星",
+    "reading": "ほし",
+    "romaji": "hoshi",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "star (usu. excluding the Sun)",
+          "planet (usu. excluding Earth)",
+          "heavenly body"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "star (glyph, symbol, shape)",
+          "asterisk"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "star (actor, player, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dot",
+          "spot",
+          "fleck"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bullseye"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "衛星",
+      "reading": "えいせい",
+      "meaning": "(natural) satellite"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "北斗七星",
+      "reading": "ほくとしちせい",
+      "meaning": "the Big Dipper (asterism)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "日月星辰",
+      "reading": "じつげつせいしん",
+      "meaning": "the Sun, the Moon and the stars",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "希望の星",
+      "reading": "きぼうのほし",
+      "meaning": "ray of light",
+      "type": "idiom"
+    },
+    {
+      "word": "星になる",
+      "reading": "ほしになる",
+      "meaning": "to pass away",
+      "type": "idiom"
+    },
+    {
+      "word": "名の無い星は宵から出る",
+      "reading": "なのないほしはよいからでる",
+      "meaning": "the worst goes foremost",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空は星でいっぱいだ。",
+      "reading": null,
+      "english": "The sky is full of stars.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "空に星は出ていた？",
+      "reading": null,
+      "english": "Were there any stars in the sky?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空に数千の星を見ることができる。",
+      "reading": null,
+      "english": "We can see thousands of stars in the sky.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空には多数の星が見えた。",
+      "reading": null,
+      "english": "Numerous stars were visible in the sky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空には星がたくさんでていてとても数え切れない。",
+      "reading": null,
+      "english": "There are so many stars in the sky, I can't count them all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空には星がいっぱい見えた。",
+      "reading": null,
+      "english": "The sky was full of stars.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空は星でいっぱいだった。",
+      "reading": null,
+      "english": "The sky was full of stars.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "夜空には星一つ見えなかった。",
+      "reading": null,
+      "english": "Not a star was to be seen in the sky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

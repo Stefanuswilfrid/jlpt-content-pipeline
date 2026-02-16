@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "態と",
+    "reading": "わざと",
+    "romaji": "wazato",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "dengan sengaja"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "形態",
+      "reading": "けいたい",
+      "meaning": "bentuk, rupa, figur"
+    },
+    {
+      "word": "状態",
+      "reading": "じょうたい",
+      "meaning": "kondisi, situasi"
+    },
+    {
+      "word": "態度",
+      "reading": "たいど",
+      "meaning": "sikap, tingkah laku"
+    },
+    {
+      "word": "重体",
+      "reading": "じゅうたい",
+      "meaning": "sakit parah, kondisi kritis"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "わざとやったのね！",
+      "reading": null,
+      "indonesian": "You did this intentionally!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "わざとやったのね！",
+      "reading": null,
+      "indonesian": "You did this intentionally!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "わざとやったのね！",
+      "reading": null,
+      "indonesian": "You did it on purpose, didn't you?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "トムは試合にわざと負けた。",
+      "reading": null,
+      "indonesian": "Tom threw his game.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

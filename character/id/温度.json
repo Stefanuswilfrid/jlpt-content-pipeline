@@ -1,0 +1,152 @@
+{
+  "definition": {
+    "word": "温度",
+    "reading": "おんど",
+    "romaji": "ondo",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "suhu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "sistem, institusi"
+    },
+    {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning": "derajat, jumlah, tingkat"
+    },
+    {
+      "word": "態度",
+      "reading": "たいど",
+      "meaning": "sikap, tingkah laku"
+    },
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "suhu (cuaca - tidak digunakan untuk benda)"
+    },
+    {
+      "word": "温暖",
+      "reading": "おんだん",
+      "meaning": "kehangatan"
+    },
+    {
+      "word": "速度",
+      "reading": "そくど",
+      "meaning": "kecepatan, kelajuan, laju"
+    },
+    {
+      "word": "度",
+      "reading": "たび",
+      "meaning": "penghitung kejadian"
+    },
+    {
+      "word": "度",
+      "reading": "ど",
+      "meaning": "penghitung kejadian"
+    },
+    {
+      "word": "体温",
+      "reading": "たいおん",
+      "meaning": "suhu (tubuh)"
+    },
+    {
+      "word": "湿度",
+      "reading": "しつど",
+      "meaning": "kelembaban"
+    },
+    {
+      "word": "適度",
+      "reading": "てきど",
+      "meaning": "sedang"
+    },
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "sekarang, saat ini, masa depan dekat, suatu hari nanti, lain waktu"
+    },
+    {
+      "word": "年度",
+      "reading": "ねんど",
+      "meaning": "tahun, tahun fiskal"
+    },
+    {
+      "word": "一度",
+      "reading": "いちど",
+      "meaning": "sekali, satu kali"
+    },
+    {
+      "word": "温泉",
+      "reading": "おんせん",
+      "meaning": "spa, pemandian air panas"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "ketinggian, tinggi; tingkat lanjut"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "温度計は氷点下3度を指しています。",
+      "reading": null,
+      "indonesian": "The thermometer reads three degrees below zero.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "温度計は１５度だった。",
+      "reading": null,
+      "indonesian": "The thermometer stood at 15 degrees.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "温度計は１０度を指している。",
+      "reading": null,
+      "indonesian": "The thermometer reads 10C.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "温度は七十度です。",
+      "reading": null,
+      "indonesian": "The thermometer stands at 70.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "温度はいくらですか。",
+      "reading": null,
+      "indonesian": "What is the temperature?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "温度が下がる。",
+      "reading": null,
+      "indonesian": "The temperature falls.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

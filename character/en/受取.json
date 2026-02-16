@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "受け取り",
+    "reading": "うけとり",
+    "romaji": "uketori",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "receiving",
+          "receipt"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "受話器",
+      "reading": "じゅわき",
+      "meaning": "(telephone) receiver"
+    },
+    {
+      "word": "受験",
+      "reading": "じゅけん",
+      "meaning": "taking an examination (esp. for entrance to a school or university)"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "reception (desk)"
+    },
+    {
+      "word": "日取り",
+      "reading": "ひどり",
+      "meaning": "fixed date"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ここに受取人の名前を書いてください。",
+      "reading": null,
+      "english": "Write the recipient's name here, please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "手荷物受取所で待っています。",
+      "reading": null,
+      "english": "I will be waiting for you at baggage claim.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここに受取人の名前を書いてください。",
+      "reading": null,
+      "english": "Write the recipient's name here, please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "手荷物受取所で待っています。",
+      "reading": null,
+      "english": "I will be waiting for you at baggage claim.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

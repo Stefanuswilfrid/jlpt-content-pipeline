@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "正味",
+    "reading": "しょうみ",
+    "romaji": "shoumi",
+    "jlpt": "N2",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "bersih (berat)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "net weight"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "net price",
+          "cost price"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "actual content",
+          "useful part"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "persegi"
+    },
+    {
+      "word": "改正",
+      "reading": "かいせい",
+      "meaning": "revisi, amandemen, perubahan"
+    },
+    {
+      "word": "正面",
+      "reading": "しょうめん",
+      "meaning": "depan"
+    },
+    {
+      "word": "調味料",
+      "reading": "ちょうみりょう",
+      "meaning": "bumbu, penyedap"
+    },
+    {
+      "word": "正門",
+      "reading": "せいもん",
+      "meaning": "gerbang utama, pintu masuk utama"
+    },
+    {
+      "word": "正面",
+      "reading": "まとも",
+      "meaning": "depan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "このジャムの正味重量は２００グラムです。",
+      "reading": null,
+      "indonesian": "The net weight of this jam is 200 grams.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このジャムの正味重量は２００グラムです。",
+      "reading": null,
+      "indonesian": "The net weight of this jam is 200 grams.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

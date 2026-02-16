@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "標本",
+    "reading": "ひょうほん",
+    "romaji": "hyouhon",
+    "jlpt": "N2",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "specimen",
+          "sample"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(classic) example",
+          "type"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sample"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "標識",
+      "reading": "ひょうしき",
+      "meaning": "sign"
+    },
+    {
+      "word": "見本",
+      "reading": "みほん",
+      "meaning": "sample"
+    },
+    {
+      "word": "本部",
+      "reading": "ほんぶ",
+      "meaning": "headquarters"
+    },
+    {
+      "word": "本来",
+      "reading": "ほんらい",
+      "meaning": "originally"
+    },
+    {
+      "word": "標準",
+      "reading": "ひょうじゅん",
+      "meaning": "standard"
+    },
+    {
+      "word": "本館",
+      "reading": "ほんかん",
+      "meaning": "main building (as opposed to an annex, outbuilding, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "たとえば、標本はいくつですか。",
+      "reading": null,
+      "english": "How many samples, for example?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これらの標本はいくつかの種類に分類される。",
+      "reading": null,
+      "english": "These specimens are divided into several categories.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "標本はいくつですか。",
+      "reading": null,
+      "english": "How many samples?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たとえば、標本はいくつですか。",
+      "reading": null,
+      "english": "How many samples, for example?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これらの標本はいくつかの種類に分類される。",
+      "reading": null,
+      "english": "These specimens are divided into several categories.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "標本はいくつですか。",
+      "reading": null,
+      "english": "How many samples?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

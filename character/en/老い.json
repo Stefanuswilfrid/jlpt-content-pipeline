@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "老い",
+    "reading": "おい",
+    "romaji": "oi",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "old age",
+          "old person",
+          "the old",
+          "the aged"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "老人",
+      "reading": "ろうじん",
+      "meaning": "old person"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "老いては子に従え",
+      "reading": "おいてはこにしたがえ",
+      "meaning": "be guided by your children when you are old",
+      "type": "proverb"
+    },
+    {
+      "word": "少年老い易く学成り難し",
+      "reading": "しょうねんおいやすくがくなりがたし",
+      "meaning": "study hard while you are young",
+      "type": "proverb"
+    },
+    {
+      "word": "麒麟も老いぬれば駑馬に劣る",
+      "reading": "きりんもおいぬればどばにおとる",
+      "meaning": "even an outstanding person becomes inferior when getting old",
+      "type": "proverb"
+    },
+    {
+      "word": "老いては益々壮んなるべし",
+      "reading": "おいてはますますさかんなるべし",
+      "meaning": "man flourishes with age",
+      "type": "proverb"
+    },
+    {
+      "word": "老いたる馬は道を忘れず",
+      "reading": "おいたるうまはみちをわすれず",
+      "meaning": "trust the judgement of the experienced",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "りんごの木が年老いて新しい木が植えられました。",
+      "reading": null,
+      "english": "The apple trees grew old and new ones were planted.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その年老いた先生は昔のよき時代について話しはじめた。",
+      "reading": null,
+      "english": "The old teacher began to talk about the good old days.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

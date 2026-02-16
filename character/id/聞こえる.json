@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "聞こえる",
+    "reading": "きこえる",
+    "romaji": "kikoeru",
+    "jlpt": "N4",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk didengar",
+          "agar terdengar"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to sound (like)",
+          "to come across (as)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be well known",
+          "to be famous"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to accept (someone's words)",
+          "to agree",
+          "to understand"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "新聞社",
+      "reading": "しんぶんしゃ",
+      "meaning": "perusahaan surat kabar"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "声は聞こえるけど、見えないよ。",
+      "reading": null,
+      "indonesian": "I can hear you, but I can't see you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "魚は音が聞こえると思いますか。",
+      "reading": null,
+      "indonesian": "Do you think fish can hear?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "外で足音が聞こえる。",
+      "reading": null,
+      "indonesian": "I hear footsteps outside.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何か音が聞こえるかね？",
+      "reading": null,
+      "indonesian": "Do you hear any sound?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何か聞こえる？",
+      "reading": null,
+      "indonesian": "Do you hear any sound?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "音楽が聞こえる。",
+      "reading": null,
+      "indonesian": "I hear music.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "みんなに聞こえるように声を出して読んで下さい。",
+      "reading": null,
+      "indonesian": "Please read it aloud so that everyone can hear.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "みんなに聞こえるようにもっと大きな声で話しなさい。",
+      "reading": null,
+      "indonesian": "Speak louder so everyone can hear you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

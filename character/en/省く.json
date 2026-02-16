@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "省く",
+    "reading": "はぶく",
+    "romaji": "habuku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to omit",
+          "to leave out",
+          "to exclude",
+          "to eliminate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to curtail",
+          "to save",
+          "to cut down",
+          "to economize",
+          "to economise"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "反省",
+      "reading": "はんせい",
+      "meaning": "reflection"
+    },
+    {
+      "word": "省略",
+      "reading": "しょうりゃく",
+      "meaning": "omission"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "機械は多くの人手を省く。",
+      "reading": null,
+      "english": "Machinery dispenses with much labor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このロボットは多くの人手を省く。",
+      "reading": null,
+      "english": "This robot dispenses with many hands.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この２行は省くべきだ。",
+      "reading": null,
+      "english": "You should leave out these two lines.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "機械は多くの人手を省く。",
+      "reading": null,
+      "english": "Machinery dispenses with much labor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このロボットは多くの人手を省く。",
+      "reading": null,
+      "english": "This robot dispenses with many hands.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この２行は省くべきだ。",
+      "reading": null,
+      "english": "You should leave out these two lines.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

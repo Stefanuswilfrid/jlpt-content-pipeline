@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "信号",
+    "reading": "しんごう",
+    "romaji": "shingou",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "lampu lalu lintas",
+          "sinyal",
+          "semafor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "traffic light",
+          "traffic signal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "surat-menyurat, komunikasi"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "kepercayaan, ketergantungan"
+    },
+    {
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "ketergantungan, kepercayaan, keyakinan"
+    },
+    {
+      "word": "信仰",
+      "reading": "しんこう",
+      "meaning": "(agama) iman, kepercayaan"
+    },
+    {
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "angka, rangkaian digit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "青信号",
+      "reading": "あおしんごう",
+      "meaning": "green light (traffic)",
+      "type": "idiom"
+    },
+    {
+      "word": "赤信号",
+      "reading": "あかしんごう",
+      "meaning": "red light (traffic)",
+      "type": "idiom"
+    },
+    {
+      "word": "黄信号",
+      "reading": "きしんごう",
+      "meaning": "yellow light (traffic)",
+      "type": "idiom"
+    },
+    {
+      "word": "赤信号皆で渡れば怖くない",
+      "reading": "あかしんごうみんなでわたればこわくない",
+      "meaning": "if everyone crosses against the red light together, there's nothing to be afraid of",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "運転者は信号に注意しなければならない。",
+      "reading": null,
+      "indonesian": "Drivers have to pay attention to the traffic signal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは実業人にとって一つの赤信号になる。",
+      "reading": null,
+      "indonesian": "It raises a red flag for businessmen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その運転手は信号で止まったはずがない。",
+      "reading": null,
+      "indonesian": "The driver couldn't have stopped at the signal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

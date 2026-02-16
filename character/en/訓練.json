@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "訓練",
+    "reading": "くんれん",
+    "romaji": "kunren",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "training",
+          "drill",
+          "practice",
+          "discipline"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "訓",
+      "reading": "くん",
+      "meaning": "native Japanese reading of a Chinese character"
+    },
+    {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaning": "practice"
+    },
+    {
+      "word": "教え",
+      "reading": "おしえ",
+      "meaning": "teaching"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "わたしはその学校で訓練された。",
+      "reading": null,
+      "english": "I was given training in that school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの学校で訓練を受けたんです。",
+      "reading": null,
+      "english": "I was given training in that school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それには訓練が必要である。",
+      "reading": null,
+      "english": "It needs exercise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その会社では、男も女もみなよく訓練されている。",
+      "reading": null,
+      "english": "Every man and woman in the company is well trained.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

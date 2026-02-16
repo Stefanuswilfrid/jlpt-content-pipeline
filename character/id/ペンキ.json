@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "番瀝青",
+    "reading": "ペンキ",
+    "romaji": "penki",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "順番",
+      "reading": "じゅんばん",
+      "meaning": "giliran (dalam antrean), urutan hal-hal"
+    },
+    {
+      "word": "青年",
+      "reading": "せいねん",
+      "meaning": "pemuda, pria muda"
+    },
+    {
+      "word": "青少年",
+      "reading": "せいしょうねん",
+      "meaning": "pemuda, orang muda"
+    },
+    {
+      "word": "留守番",
+      "reading": "るすばん",
+      "meaning": "pengasuhan, penjaga rumah, menjaga rumah"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "terbaik (terbanyak), pertama, nomor satu"
+    },
+    {
+      "word": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "program siaran"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "雨に当たってペンキがはげている。",
+      "reading": null,
+      "indonesian": "The paint is peeling off the weather-beaten wall.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ペンキはまだかわいてない。",
+      "reading": null,
+      "indonesian": "The paint hasn't dried yet.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ペンキが剥げてるよ。",
+      "reading": null,
+      "indonesian": "The paint is off.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ペンキがすぐはげてしまう。",
+      "reading": null,
+      "indonesian": "This paint comes off easily.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

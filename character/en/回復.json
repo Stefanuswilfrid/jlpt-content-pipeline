@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "回復",
+    "reading": "かいふく",
+    "romaji": "kaifuku",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "restoration",
+          "recovery",
+          "rehabilitation",
+          "return",
+          "improvement"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "recovery (from an illness)",
+          "recuperation",
+          "convalescence"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今回",
+      "reading": "こんかい",
+      "meaning": "this time"
+    },
+    {
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning": "reply"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "number of times"
+    },
+    {
+      "word": "往復",
+      "reading": "おうふく",
+      "meaning": "making a round trip"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "plural"
+    },
+    {
+      "word": "回転",
+      "reading": "かいてん",
+      "meaning": "rotation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "失地回復",
+      "reading": "しっちかいふく",
+      "meaning": "the recovery of lost territory",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "求める",
+    "reading": "もとめる",
+    "romaji": "motomeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "meminta",
+          "memohon; mencari",
+          "meneliti"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to request",
+          "to demand",
+          "to require",
+          "to ask for"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to seek",
+          "to search for",
+          "to look for",
+          "to pursue (pleasure)",
+          "to hunt (a job)",
+          "to find (a solution)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to purchase",
+          "to buy"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "要求",
+      "reading": "ようきゅう",
+      "meaning": "permintaan, tuntutan"
+    },
+    {
+      "word": "請求",
+      "reading": "せいきゅう",
+      "meaning": "klaim, tuntutan, permintaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "同気相求める",
+      "reading": "どうきあいもとめる",
+      "meaning": "like minds gather",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "学校に全てを求めることはできない。",
+      "reading": null,
+      "indonesian": "One can't expect everything from schools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校に全てを求めることはできない。",
+      "reading": null,
+      "indonesian": "One can't expect everything from schools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "完全を求めるとかえって失敗する。",
+      "reading": null,
+      "indonesian": "The best is often the enemy of the good.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

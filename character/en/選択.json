@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "選択",
+    "reading": "せんたく",
+    "romaji": "sentaku",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "choice",
+          "selection",
+          "option"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "選挙",
+      "reading": "せんきょ",
+      "meaning": "election"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaning": "player (of a sport)"
+    },
+    {
+      "word": "選考",
+      "reading": "せんこう",
+      "meaning": "selection"
+    },
+    {
+      "word": "選ぶ",
+      "reading": "えらぶ",
+      "meaning": "to choose"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "取捨選択",
+      "reading": "しゅしゃせんたく",
+      "meaning": "selection",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

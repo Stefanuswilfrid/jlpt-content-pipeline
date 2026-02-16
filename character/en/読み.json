@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "読み",
+    "reading": "よみ",
+    "romaji": "yomi",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reading"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reading (of a kanji, esp. kun reading)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reading (e.g. of a situation)",
+          "insight",
+          "judgment",
+          "interpretation",
+          "prediction",
+          "calculation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "reading (books)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "論語読みの論語知らず",
+      "reading": "ろんごよみのろんごしらず",
+      "meaning": "knowing a theory without being able to apply it",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "本を取ってそれを読みなさい。",
+      "reading": null,
+      "english": "Take a book and read it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "本を取ってそれを読みなさい。",
+      "reading": null,
+      "english": "Take a book and read it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はもうその本を読み終えましたか。",
+      "reading": null,
+      "english": "Have you finished reading that book yet?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその本をそんなに早く読み終わってしまうことはできない。",
+      "reading": null,
+      "english": "You will not be able to go through the book so quickly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その小説は読み終えましたか。",
+      "reading": null,
+      "english": "Have you finished reading the novel?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その小説は読み終わったの？",
+      "reading": null,
+      "english": "Have you finished reading the novel?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この本はもう読みましたか。",
+      "reading": null,
+      "english": "Have you read this book already?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この本はもう読みましたか。",
+      "reading": null,
+      "english": "Have you read this book yet?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君はこの本の数ページは読みさえすればよい。",
+      "reading": null,
+      "english": "You have only to read a few pages of this book.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の読みたいどんな本でも読んでよい。",
+      "reading": null,
+      "english": "You may read whichever book you like.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教科書を正しく読みなさい。",
+      "reading": null,
+      "english": "You must read the textbook closely.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

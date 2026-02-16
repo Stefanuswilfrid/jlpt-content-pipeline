@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "大体",
+    "reading": "だいたい",
+    "romaji": "daitai",
+    "jlpt": "N4",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sekitar; dalam banyak kasus; umumnya; untuk memulai (sama seperti もともと)"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "general",
+          "rough"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "outline",
+          "main points",
+          "gist",
+          "substance",
+          "essence"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "in the first place",
+          "first and foremost",
+          "from the start",
+          "to begin with"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大事",
+      "reading": "だいじ",
+      "meaning": "hal penting, berharga, serius"
+    },
+    {
+      "word": "大学生",
+      "reading": "だいがくせい",
+      "meaning": "mahasiswa, pelajar universitas"
+    },
+    {
+      "word": "大分",
+      "reading": "だいぶ",
+      "meaning": "cukup besar, sangat besar, banyak"
+    },
+    {
+      "word": "大抵",
+      "reading": "たいてい",
+      "meaning": "umumnya, biasanya"
+    },
+    {
+      "word": "大部分",
+      "reading": "だいぶぶん",
+      "meaning": "sebagian besar, mayoritas"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "ダウン",
+    "reading": "ダウン",
+    "romaji": "daun",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "turun"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "knocking down",
+          "flooring",
+          "being knocked down",
+          "being floored"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "being out of action (due to illness, exhaustion, etc.)",
+          "being down (e.g. with a cold)",
+          "being knocked out (from alcohol)",
+          "being out of it",
+          "collapsing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "going down (of a computer system, server, etc.)",
+          "crashing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(number of) outs"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "being down (in points, games, etc.)",
+          "being behind",
+          "trailing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "down (in American football)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "down (feathers)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ダウンタウン行きは何番線ですか。",
+      "reading": null,
+      "indonesian": "What number is the downtown train?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ダウンタウンにたくさんのホテルがあります。",
+      "reading": null,
+      "indonesian": "There are many hotels downtown.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ダウンタウンで会おう。君の都合はいいかい。",
+      "reading": null,
+      "indonesian": "We could meet downtown. Would that be convenient for you?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "サーバーがダウンしていました。",
+      "reading": null,
+      "indonesian": "The server was down.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "サーバーがダウンしてて、メールチェックできない。",
+      "reading": null,
+      "indonesian": "I can't check my mail. The server is down.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "アメフトでタッチダウンは６点になる。",
+      "reading": null,
+      "indonesian": "In American football, a touchdown scores six points.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

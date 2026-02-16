@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "相談",
+    "reading": "そうだん",
+    "romaji": "soudan",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "konsultasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "Perdana Menteri"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "mitra; penerima; orang yang Anda ajak bicara"
+    },
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "cukup besar, lumayan; berharga ~"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ものは相談",
+      "reading": "ものはそうだん",
+      "meaning": "a wise man is he who listens to counsel",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

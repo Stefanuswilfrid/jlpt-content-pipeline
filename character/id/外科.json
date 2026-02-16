@@ -1,0 +1,134 @@
+{
+  "definition": {
+    "word": "外科",
+    "reading": "げか",
+    "romaji": "geka",
+    "jlpt": "N2",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "departemen bedah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "department of surgery"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外部",
+      "reading": "がいぶ",
+      "meaning": "bagian luar, eksternal"
+    },
+    {
+      "word": "学科",
+      "reading": "がっか",
+      "meaning": "mata pelajaran, program studi"
+    },
+    {
+      "word": "理科",
+      "reading": "りか",
+      "meaning": "sains"
+    },
+    {
+      "word": "内科",
+      "reading": "ないか",
+      "meaning": "klinik internis, penyakit dalam"
+    },
+    {
+      "word": "屋外",
+      "reading": "おくがい",
+      "meaning": "di luar rumah"
+    },
+    {
+      "word": "その他",
+      "reading": "そのほか",
+      "meaning": "di samping itu"
+    },
+    {
+      "word": "余所",
+      "reading": "よそ",
+      "meaning": "tempat lain, di suatu tempat lain, bagian-bagian yang aneh"
+    },
+    {
+      "word": "外",
+      "reading": "そと",
+      "meaning": "lainnya, sisanya"
+    },
+    {
+      "word": "科学",
+      "reading": "かがく",
+      "meaning": "sains"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "tak terduga, mengejutkan"
+    },
+    {
+      "word": "郊外",
+      "reading": "こうがい",
+      "meaning": "pinggiran kota, daerah terpencil"
+    },
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "buku pelajaran"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "pengecualian"
+    },
+    {
+      "word": "外貨",
+      "reading": "がいか",
+      "meaning": "uang asing"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外科医は私に手術を受けるよう説得した。",
+      "reading": null,
+      "indonesian": "The surgeon persuaded me to undergo an operation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "外科へ行ってください。",
+      "reading": null,
+      "indonesian": "Please go to the Surgery Department.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "フレッドは成長して外科医になった。",
+      "reading": null,
+      "indonesian": "Fred grew up to be a surgeon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父は熟練した外科医です。",
+      "reading": null,
+      "indonesian": "My father is an expert surgeon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

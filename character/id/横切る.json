@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "横切る",
+    "reading": "よこぎる",
+    "romaji": "yokogiru",
+    "jlpt": "N3",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menyeberang (misalnya",
+          "lengan)",
+          "melintasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "横断",
+      "reading": "おうだん",
+      "meaning": "persimpangan"
+    },
+    {
+      "word": "裏切る",
+      "reading": "うらぎる",
+      "meaning": "mengkhianati, menjadi pengkhianat"
+    },
+    {
+      "word": "張り切る",
+      "reading": "はりきる",
+      "meaning": "bersemangat tinggi, penuh vitalitas"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どこであれ道路を横切る時に右左を見るというのはいいことだ。",
+      "reading": null,
+      "indonesian": "It's a good rule to look both ways before you cross the street anywhere.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "道路を横切る時は交通に注意しなければならない。",
+      "reading": null,
+      "indonesian": "You must be careful of the traffic when you cross the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "道路を横切るときは車に注意しなさい。",
+      "reading": null,
+      "indonesian": "When you cross the street, watch out for cars.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "通りを走って横切るな。",
+      "reading": null,
+      "indonesian": "Don't run across the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "通りを横切る時には車にいくら注意しても十分とはいえない。",
+      "reading": null,
+      "indonesian": "You cannot be too careful of traffic when you cross the road.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "通りを横切るときには車にいくら注意しても十分ではない。",
+      "reading": null,
+      "indonesian": "You can't be too careful of traffic when you cross the road.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "先生が通りを横切るのが見えた。",
+      "reading": null,
+      "indonesian": "I saw the teacher walk across the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

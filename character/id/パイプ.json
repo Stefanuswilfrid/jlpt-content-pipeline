@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "パイプ",
+    "reading": "パイプ",
+    "romaji": "paipu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pipa; saluran resmi atau tidak resmi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(tobacco) pipe"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cigarette holder"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "go-between",
+          "intermediary",
+          "mediator",
+          "connections (with)",
+          "channel (of communication)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "雨水はこのパイプを道ってはける。",
+      "reading": null,
+      "indonesian": "The rainwater runs off through this pipe.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パイプ屋は通りの向こう側です。",
+      "reading": null,
+      "indonesian": "The pipe shop is across the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パイプが見つからないよ。",
+      "reading": null,
+      "indonesian": "I can't find my pipe.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "パイプから水がぽたぽた落ちているのが聞こえるでしょ。",
+      "reading": null,
+      "indonesian": "You can hear the water dripping from the pipe.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのパイプは湖から工場まで水を運んでいる。",
+      "reading": null,
+      "indonesian": "The pipe conveys water from the lake to the factory.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

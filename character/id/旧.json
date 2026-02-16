@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "旧",
+    "reading": "きゅう",
+    "romaji": "kyuu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "mantan-"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the old",
+          "old things",
+          "old customs"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "old times",
+          "bygone days"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "prefix"
+        ],
+        "meanings": [
+          "Japan's old (lunisolar) calendar"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "旧態依然",
+      "reading": "きゅうたいいぜん",
+      "meaning": "remaining unchanged (from the old state of things)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "名所旧跡",
+      "reading": "めいしょきゅうせき",
+      "meaning": "places of scenic beauty and historical interest",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "旧套墨守",
+      "reading": "きゅうとうぼくしゅ",
+      "meaning": "clinging to old customs",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

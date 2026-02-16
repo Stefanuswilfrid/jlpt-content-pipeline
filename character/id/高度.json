@@ -1,0 +1,203 @@
+{
+  "definition": {
+    "word": "高度",
+    "reading": "こうど",
+    "romaji": "koudo",
+    "jlpt": "N2",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ketinggian",
+          "tinggi; tingkat lanjut"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "high-degree",
+          "high-grade",
+          "advanced",
+          "sophisticated",
+          "strong"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "年度",
+      "reading": "ねんど",
+      "meaning": "tahun, tahun fiskal"
+    },
+    {
+      "word": "高級",
+      "reading": "こうきゅう",
+      "meaning": "kelas atas; terbaik"
+    },
+    {
+      "word": "高層",
+      "reading": "こうそう",
+      "meaning": "tinggi, gedung pencakar langit"
+    },
+    {
+      "word": "高等",
+      "reading": "こうとう",
+      "meaning": "kelas atas, kualitas tinggi"
+    },
+    {
+      "word": "限度",
+      "reading": "げんど",
+      "meaning": "batas, batasan"
+    },
+    {
+      "word": "濃度",
+      "reading": "のうど",
+      "meaning": "konsentrasi, kepadatan"
+    },
+    {
+      "word": "角度",
+      "reading": "かくど",
+      "meaning": "sudut"
+    },
+    {
+      "word": "加速度",
+      "reading": "かそくど",
+      "meaning": "percepatan"
+    },
+    {
+      "word": "緯度",
+      "reading": "いど",
+      "meaning": "garis lintang (navigasi)"
+    },
+    {
+      "word": "毎度",
+      "reading": "まいど",
+      "meaning": "setiap kali, salam umum di sektor jasa"
+    },
+    {
+      "word": "経度",
+      "reading": "けいど",
+      "meaning": "garis bujur"
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "tertinggi, terunggul, paling"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "sistem, institusi"
+    },
+    {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning": "derajat, jumlah, tingkat"
+    },
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "sekarang, saat ini, masa depan dekat, suatu hari nanti, lain waktu"
+    },
+    {
+      "word": "態度",
+      "reading": "たいど",
+      "meaning": "sikap, tingkah laku"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "siswa sekolah menengah atas"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "わが社の社員はかなり高度な教育を受けている。",
+      "reading": null,
+      "indonesian": "Our personnel are very highly educated.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは高度の集中を要する類の仕事だ。",
+      "reading": null,
+      "indonesian": "It's the sort of work that calls for a high level of concentration.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その飛行機は高度一万メートルに達した。",
+      "reading": null,
+      "indonesian": "The plane climbed to an altitude of 10,000 meters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのような高度経済成長が続くはずがない。",
+      "reading": null,
+      "indonesian": "Such drastic economic growth cannot be sustained.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これより次第に高度を下げてまいります。",
+      "reading": null,
+      "indonesian": "We are beginning our descent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この仕事は高度の熟練を必要とする。",
+      "reading": null,
+      "indonesian": "This work calls for a high degree of skill.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "飛行機は3000mの高度を飛んだ。",
+      "reading": null,
+      "indonesian": "The plane flew at an altitude of 3,000 meters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "太陽の高度は２０度である。",
+      "reading": null,
+      "indonesian": "The solar altitude is 20 degrees.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この学校は生徒達に高度な道徳水準を課する。",
+      "reading": null,
+      "indonesian": "This school sets high moral standards for pupils.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "わが社の社員はかなり高度な教育を受けている。",
+      "reading": null,
+      "indonesian": "Our personnel are very highly educated.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

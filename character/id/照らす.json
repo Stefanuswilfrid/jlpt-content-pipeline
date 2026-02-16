@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "照らす",
+    "reading": "てらす",
+    "romaji": "terasu",
+    "jlpt": "N2",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk bersinar",
+          "untuk menerangi"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to compare (with)",
+          "to refer to"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "照合",
+      "reading": "しょうごう",
+      "meaning": "pemeriksaan, verifikasi"
+    },
+    {
+      "word": "参照",
+      "reading": "さんしょう",
+      "meaning": "referensi, konsultasi, konsultasi"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "penerangan"
+    },
+    {
+      "word": "照る",
+      "reading": "てる",
+      "meaning": "untuk bersinar"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "すべての人を照らすまことの光が世に来ようとしていた。",
+      "reading": null,
+      "indonesian": "The true light that gives light to every man was coming into the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すべての人を照らすまことの光が世に来ようとしていた。",
+      "reading": null,
+      "indonesian": "The true light that gives light to every man was coming into the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

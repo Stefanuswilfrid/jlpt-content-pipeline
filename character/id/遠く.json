@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "遠く",
+    "reading": "とおく",
+    "romaji": "tooku",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "jauh",
+          "terpencil"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "long ago",
+          "far back",
+          "far (into the future)"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "by far"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "遠慮",
+      "reading": "えんりょ",
+      "meaning": "menahan diri, bersikap hati-hati, ragu-ragu"
+    },
+    {
+      "word": "永遠",
+      "reading": "えいえん",
+      "meaning": "keabadian, kekekalan, kekekalan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "遠くの親類より近くの他人",
+      "reading": "とおくのしんるいよりちかくのたにん",
+      "meaning": "a neighbour is better than a relative living far",
+      "type": "proverb"
+    },
+    {
+      "word": "遠くの親戚より近くの他人",
+      "reading": "とおくのしんせきよりちかくのたにん",
+      "meaning": "a neighbour is better than a relative living far",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "家からあまり遠くへ行ってはいけない。",
+      "reading": null,
+      "indonesian": "Don't go too far afield.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あまり遠くへ行ってはいけないよ。",
+      "reading": null,
+      "indonesian": "Don't go too far afield.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

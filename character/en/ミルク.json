@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "ミルク",
+    "reading": "ミルク",
+    "romaji": "miruku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "milk"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "infant formula",
+          "formula",
+          "baby milk"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "condensed milk"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ミルクからバターやチーズが作られる。",
+      "reading": null,
+      "english": "Milk is made into butter and cheese.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ミルクはバターに加工される。",
+      "reading": null,
+      "english": "Milk is made into butter.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もう少しミルクをいただけますか？",
+      "reading": null,
+      "english": "Can I have some more milk?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メアリーはミルクが大好きです。",
+      "reading": null,
+      "english": "Mary likes milk very much.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ミルクを温めてくれませんか。",
+      "reading": null,
+      "english": "Will you warm the milk, please?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "個々",
+    "reading": "ここ",
+    "romaji": "koko",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "individu",
+          "satu per satu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "individu, orang pribadi"
+    },
+    {
+      "word": "個体",
+      "reading": "こたい",
+      "meaning": "seorang individu"
+    },
+    {
+      "word": "箇所",
+      "reading": "かしょ",
+      "meaning": "tempat, titik, bagian"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "個々別々",
+      "reading": "ここべつべつ",
+      "meaning": "each one separately",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

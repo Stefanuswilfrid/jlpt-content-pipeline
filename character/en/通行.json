@@ -1,0 +1,194 @@
+{
+  "definition": {
+    "word": "通行",
+    "reading": "つうこう",
+    "romaji": "tsuukou",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "passage (of people or vehicles)",
+          "passing (through)",
+          "traffic"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "common usage",
+          "widespread use"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "execution (e.g. of a plan)"
+    },
+    {
+      "word": "飛行",
+      "reading": "ひこう",
+      "meaning": "flight"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "going ahead"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "commuting to work"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "fashion"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretation (i.e. oral translation)"
+    },
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "customary practice"
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "moving forward (e.g. of a vehicle)"
+    },
+    {
+      "word": "刊行",
+      "reading": "かんこう",
+      "meaning": "publication"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "commuting to school"
+    },
+    {
+      "word": "流行る",
+      "reading": "はやる",
+      "meaning": "to be popular"
+    },
+    {
+      "word": "行き",
+      "reading": "いき",
+      "meaning": "the way there"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "action"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "currency"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "publication (of a newspaper, magazine, book, etc.)"
+    },
+    {
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "delinquency"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "suspension"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一方通行",
+      "reading": "いっぽうつうこう",
+      "meaning": "one-way traffic",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ヨーロッパの大ていの国では、車は右側通行しなければならない。",
+      "reading": null,
+      "english": "In most of the countries in Europe, cars have to keep to the right.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この道路は、車は通行止めになっている。",
+      "reading": null,
+      "english": "This road is closed to cars.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この道路は工事中のため通行止めだ。",
+      "reading": null,
+      "english": "This road is closed to traffic for construction work.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "イギリスでは人々は左側通行をすることになっています。",
+      "reading": null,
+      "english": "In England they are supposed to keep to the left.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "イギリスでは車は左側通行だ。",
+      "reading": null,
+      "english": "They drive on the left in England.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本では自転車は左側通行である。",
+      "reading": null,
+      "english": "Bicycles keep to the left in Japan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

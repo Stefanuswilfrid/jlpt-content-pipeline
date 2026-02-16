@@ -1,0 +1,133 @@
+{
+  "definition": {
+    "word": "カバー",
+    "reading": "カバー",
+    "romaji": "kabaa",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cover",
+          "covering",
+          "dust jacket",
+          "wrapper"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "covering (a song)",
+          "cover",
+          "cover version"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "coverage"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cover (a loss)",
+          "to offset",
+          "to compensate for (e.g. a weakness)",
+          "to make up for",
+          "to cover for (someone)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その本のカバーにはインクのしみがいくつかあった。",
+      "reading": null,
+      "english": "There were some ink spots on the book jacket.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その本には黒いカバーがかかっていた。",
+      "reading": null,
+      "english": "There was a black jacket on the book.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "損害は保険でカバーされた。",
+      "reading": null,
+      "english": "The damage was covered by insurance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この保険は何もかもカバーする。",
+      "reading": null,
+      "english": "This insurance covers everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "事故の場合、全て保険でカバーされていますか。",
+      "reading": null,
+      "english": "Am I fully covered in case of an accident?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その本のカバーにはインクのしみがいくつかあった。",
+      "reading": null,
+      "english": "There were some ink spots on the book jacket.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その本のカバーにはインクのしみがいくつかあった。",
+      "reading": null,
+      "english": "There were some ink stains on the cover of that book.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その本には黒いカバーがかかっていた。",
+      "reading": null,
+      "english": "There was a black jacket on the book.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この保険は何もかもカバーする。",
+      "reading": null,
+      "english": "This insurance covers everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "桜",
+    "reading": "さくら",
+    "romaji": "sakura",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cherry tree",
+          "cherry blossom",
+          "sakura"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "light pink"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fake buyer",
+          "paid audience",
+          "shill",
+          "seat filler"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hired applauder"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "horse meat"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "桜花爛漫",
+      "reading": "おうからんまん",
+      "meaning": "riot of cherry blossoms",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "桜咲く",
+      "reading": "さくらさく",
+      "meaning": "to pass an exam",
+      "type": "idiom"
+    },
+    {
+      "word": "桜散る",
+      "reading": "さくらちる",
+      "meaning": "to fail an exam",
+      "type": "idiom"
+    },
+    {
+      "word": "花は桜木、人は武士",
+      "reading": "はなはさくらぎ、ひとはぶし",
+      "meaning": "the best flowers are the cherry blossoms, the best individuals are the samurai",
+      "type": "proverb"
+    },
+    {
+      "word": "桜切る馬鹿、梅切らぬ馬鹿",
+      "reading": "さくらきるばか、うめきらぬばか",
+      "meaning": "only an idiot prunes cherry trees and only an idiot does not prune plum trees",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,171 @@
+{
+  "definition": {
+    "word": "発行",
+    "reading": "はっこう",
+    "romaji": "hakkou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "publication (of a newspaper, magazine, book, etc.)",
+          "issue"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "issue (of banknotes, bonds, passport, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "raising (an event)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "action"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "development"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "announcement"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "execution (e.g. of a plan)"
+    },
+    {
+      "word": "爆発",
+      "reading": "ばくはつ",
+      "meaning": "explosion"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "discovery"
+    },
+    {
+      "word": "飛行",
+      "reading": "ひこう",
+      "meaning": "flight"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "going ahead"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "fashion"
+    },
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "customary practice"
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "moving forward (e.g. of a vehicle)"
+    },
+    {
+      "word": "発射",
+      "reading": "はっしゃ",
+      "meaning": "firing (esp. a rocket or missile)"
+    },
+    {
+      "word": "刊行",
+      "reading": "かんこう",
+      "meaning": "publication"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    },
+    {
+      "word": "発達",
+      "reading": "はったつ",
+      "meaning": "development"
+    },
+    {
+      "word": "行き",
+      "reading": "いき",
+      "meaning": "the way there"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "delinquency"
+    },
+    {
+      "word": "発車",
+      "reading": "はっしゃ",
+      "meaning": "departure (of a train, car, etc.)"
+    },
+    {
+      "word": "行儀",
+      "reading": "ぎょうぎ",
+      "meaning": "manners"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その新聞は発行部数が多い。",
+      "reading": null,
+      "english": "The newspaper has a large circulation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この地方新聞は週に１回発行される。",
+      "reading": null,
+      "english": "This local newspaper is published once a week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この新聞は発行部数が多い。",
+      "reading": null,
+      "english": "This paper has a large circulation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

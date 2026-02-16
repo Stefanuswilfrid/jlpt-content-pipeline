@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "意見",
+    "reading": "いけん",
+    "romaji": "iken",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "opinion",
+          "view",
+          "comment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "scolding",
+          "reprimand",
+          "rebuke",
+          "admonition",
+          "cautioning",
+          "warning"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "注意",
+      "reading": "ちゅうい",
+      "meaning": "attention"
+    },
+    {
+      "word": "用意",
+      "reading": "ようい",
+      "meaning": "preparation"
+    },
+    {
+      "word": "思う",
+      "reading": "おもう",
+      "meaning": "to think"
+    },
+    {
+      "word": "見つかる",
+      "reading": "みつかる",
+      "meaning": "to be found"
+    },
+    {
+      "word": "花見",
+      "reading": "はなみ",
+      "meaning": "cherry blossom viewing"
+    },
+    {
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "sightseeing"
+    },
+    {
+      "word": "見える",
+      "reading": "みえる",
+      "meaning": "to be seen"
+    },
+    {
+      "word": "拝見",
+      "reading": "はいけん",
+      "meaning": "seeing"
+    },
+    {
+      "word": "見つける",
+      "reading": "みつける",
+      "meaning": "to find"
+    },
+    {
+      "word": "意味",
+      "reading": "いみ",
+      "meaning": "meaning"
+    },
+    {
+      "word": "意思",
+      "reading": "いし",
+      "meaning": "intention"
+    },
+    {
+      "word": "意識",
+      "reading": "いしき",
+      "meaning": "consciousness"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "opinion"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "冷や酒と親の意見は後できく",
+      "reading": "ひやざけとおやのいけんはあとできく",
+      "meaning": "you will appreciate your parents' advice as you grow older, just as it takes time to feel the effects of unwarmed sake",
+      "type": "proverb"
+    },
+    {
+      "word": "親の意見と茄子の花は千に一つも無駄はない",
+      "reading": "おやのいけんとなすびのはなはせんにひとつもむだはない",
+      "meaning": "always listen to your parents",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

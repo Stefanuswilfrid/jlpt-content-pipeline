@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "最後",
+    "reading": "さいご",
+    "romaji": "saigo",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "end",
+          "conclusion"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "last",
+          "final",
+          "latest",
+          "most recent"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "no sooner than",
+          "once",
+          "right after (often having negative consequences)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "recently"
+    },
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaning": "beginning"
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "best"
+    },
+    {
+      "word": "最終",
+      "reading": "さいしゅう",
+      "meaning": "last"
+    },
+    {
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "afternoon"
+    },
+    {
+      "word": "後",
+      "reading": "あと",
+      "meaning": "behind"
+    },
+    {
+      "word": "今後",
+      "reading": "こんご",
+      "meaning": "from now on"
+    },
+    {
+      "word": "最低",
+      "reading": "さいてい",
+      "meaning": "least"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "最後通牒",
+      "reading": "さいごつうちょう",
+      "meaning": "ultimatum",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "最後っ屁",
+      "reading": "さいごっぺ",
+      "meaning": "stink bomb",
+      "type": "idiom"
+    },
+    {
+      "word": "最後屁",
+      "reading": "さいごべ",
+      "meaning": "stink bomb",
+      "type": "idiom"
+    },
+    {
+      "word": "イタチの最後っ屁",
+      "reading": "いたちのさいごっぺ",
+      "meaning": "final emergency measure",
+      "type": "idiom"
+    },
+    {
+      "word": "最後に笑う者が最もよく笑う",
+      "reading": "さいごにわらうものがもっともよくわらう",
+      "meaning": "he who laughs last, laughs best",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

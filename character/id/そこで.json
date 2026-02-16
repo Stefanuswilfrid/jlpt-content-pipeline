@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "其処で",
+    "reading": "そこで",
+    "romaji": "sokode",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "jadi (konjungsi)",
+          "sesuai dengan itu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "pengolahan, perawatan, pembuangan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "近所に行きつけの店があるから、今日はそこでランチを食べよう。",
+      "reading": null,
+      "indonesian": "I'm a regular at a restaurant in this neighborhood. Let's have lunch there today.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "駅はすぐそこです。",
+      "reading": null,
+      "indonesian": "The station is nearby.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "暗すぎてそこで本を読むことはできない。",
+      "reading": null,
+      "indonesian": "It is too dark to read a book there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーに一人でそこで生活してもらいたくないのだ。",
+      "reading": null,
+      "indonesian": "I do not like Mary's living there alone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほら、あなたのバッグはそこですよ。",
+      "reading": null,
+      "indonesian": "There is your bag.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

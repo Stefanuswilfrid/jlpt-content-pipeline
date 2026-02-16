@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "刺す",
+    "reading": "さす",
+    "romaji": "sasu",
+    "jlpt": "N3",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pierce",
+          "to stab",
+          "to prick",
+          "to stick",
+          "to thrust"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sting",
+          "to bite"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sew",
+          "to stitch",
+          "to embroider"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pole (a boat)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to catch (with a limed pole)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put (a runner) out",
+          "to pick off"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "刺激",
+      "reading": "しげき",
+      "meaning": "stimulus"
+    },
+    {
+      "word": "刺さる",
+      "reading": "ささる",
+      "meaning": "to stick into (of something with a sharp point)"
+    },
+    {
+      "word": "名刺",
+      "reading": "めいし",
+      "meaning": "business card"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "釘を刺す",
+      "reading": "くぎをさす",
+      "meaning": "to give a warning",
+      "type": "idiom"
+    },
+    {
+      "word": "寸鉄人を刺す",
+      "reading": "すんてつひとをさす",
+      "meaning": "to make a cutting remark",
+      "type": "idiom"
+    },
+    {
+      "word": "楔を刺す",
+      "reading": "くさびをさす",
+      "meaning": "to make sure (of)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

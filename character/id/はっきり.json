@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "はっきり",
+    "reading": "はっきり",
+    "romaji": "hakkiri",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "jelas",
+          "nyata"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to be clear",
+          "to be definite",
+          "to be certain",
+          "to be exact",
+          "to become clear",
+          "to clear up"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "自分の考えをはっきり言いなさい。",
+      "reading": null,
+      "indonesian": "Express your idea clearly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海がはっきりしない。",
+      "reading": null,
+      "indonesian": "The sea is not clear.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "回りくどい言い方はやめてはっきり言ってよ！",
+      "reading": null,
+      "indonesian": "Stop beating around the bush and give it to me straight!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

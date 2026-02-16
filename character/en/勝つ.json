@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "勝つ",
+    "reading": "かつ",
+    "romaji": "katsu",
+    "jlpt": "N4",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to win",
+          "to gain victory"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaning": "overall victory"
+    },
+    {
+      "word": "優れる",
+      "reading": "すぐれる",
+      "meaning": "to be better (than)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "勝つも負けるも時の運",
+      "reading": "かつもまけるもときのうん",
+      "meaning": "victory depends on the turn of fortune",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

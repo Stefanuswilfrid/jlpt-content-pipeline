@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "凸凹",
+    "reading": "でこぼこ",
+    "romaji": "dekoboko",
+    "jlpt": "N2",
+    "frequency": 21750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "unevenness",
+          "roughness",
+          "ruggedness",
+          "bumpiness"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "inequality",
+          "imbalance",
+          "unevenness",
+          "difference"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "凹む",
+      "reading": "へこむ",
+      "meaning": "to be dented"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

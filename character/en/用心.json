@@ -1,0 +1,210 @@
+{
+  "definition": {
+    "word": "用心",
+    "reading": "ようじん",
+    "romaji": "youjin",
+    "jlpt": "N3",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "care",
+          "precaution",
+          "guarding",
+          "caution"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaning": "concern"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "center"
+    },
+    {
+      "word": "使用",
+      "reading": "しよう",
+      "meaning": "use"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "cost"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "confidence"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "application (of a rule, law, method, etc.)"
+    },
+    {
+      "word": "心臓",
+      "reading": "しんぞう",
+      "meaning": "heart"
+    },
+    {
+      "word": "心理",
+      "reading": "しんり",
+      "meaning": "state of mind"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "practical use"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "admiration"
+    },
+    {
+      "word": "決心",
+      "reading": "けっしん",
+      "meaning": "determination"
+    },
+    {
+      "word": "引用",
+      "reading": "いんよう",
+      "meaning": "quotation"
+    },
+    {
+      "word": "用いる",
+      "reading": "もちいる",
+      "meaning": "to use"
+    },
+    {
+      "word": "私用",
+      "reading": "しよう",
+      "meaning": "personal use"
+    },
+    {
+      "word": "器用",
+      "reading": "きよう",
+      "meaning": "skillful"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "火の用心",
+      "reading": "ひのようじん",
+      "meaning": "be careful about fire",
+      "type": "idiom"
+    },
+    {
+      "word": "用心するに如くはない",
+      "reading": "ようじんするにしくはない",
+      "meaning": "caution is the best policy",
+      "type": "proverb"
+    },
+    {
+      "word": "用心するに越したことはない",
+      "reading": "ようじんするにこしたことはない",
+      "meaning": "you can never be too careful",
+      "type": "proverb"
+    },
+    {
+      "word": "用心に越したことはない",
+      "reading": "ようじんにこしたことはない",
+      "meaning": "you can never be too careful",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "用心しなさい。",
+      "reading": null,
+      "english": "Take care.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "火の用心をしなさい。",
+      "reading": null,
+      "english": "Guard against the danger of fire.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "火には、用心しなさい。",
+      "reading": null,
+      "english": "Be on your guard against fire.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何が起こってもいいように用心をしていらっしゃい。",
+      "reading": null,
+      "english": "Keep on the watch for anything to come.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨の場合の用心にコートを持っていきなさい。",
+      "reading": null,
+      "english": "Take your coat in case it rains.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すりに用心せよ。",
+      "reading": null,
+      "english": "Look out for pickpockets.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "スリに用心しなさい。",
+      "reading": null,
+      "english": "Look out for pickpockets.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "スリにご用心。",
+      "reading": null,
+      "english": "Look out for pickpockets.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "はじめての人と取り引きをする場合には用心すべきだ。",
+      "reading": null,
+      "english": "You should be on your guard when doing business with strangers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "にんにくを用心して食べればためになる。",
+      "reading": null,
+      "english": "Eating garlic in moderation reaps benefits.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "為さる",
+    "reading": "なさる",
+    "romaji": "nasaru",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb - -aru special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "-- ekspresi kehormatan untuk する --"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "為る",
+      "reading": "する",
+      "meaning": "untuk berubah, untuk berguna, untuk mencapai"
+    },
+    {
+      "word": "為",
+      "reading": "ため",
+      "meaning": "baik, keuntungan, untuk"
+    },
+    {
+      "word": "所為",
+      "reading": "せい",
+      "meaning": "penyebab, alasan, kesalahan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何をなさるつもりですか。",
+      "reading": null,
+      "indonesian": "What are you driving at?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このお金をどうしようとなさるのですか。",
+      "reading": null,
+      "indonesian": "What are you going to do with this money?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何をなさるつもりですか。",
+      "reading": null,
+      "indonesian": "What are you driving at?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このお金をどうしようとなさるのですか。",
+      "reading": null,
+      "indonesian": "What are you going to do with this money?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

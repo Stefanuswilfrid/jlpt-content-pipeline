@@ -1,0 +1,181 @@
+{
+  "definition": {
+    "word": "注ぐ",
+    "reading": "そそぐ",
+    "romaji": "sosogu",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pour (into)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sprinkle on (from above)",
+          "to water (e.g. plants)",
+          "to pour onto",
+          "to spray"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to shed (tears)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to concentrate one's energy (strength, attention, etc.) on",
+          "to devote to",
+          "to fix (one's eyes) on"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to flow into (e.g. of a river)",
+          "to run into",
+          "to drain into"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to fall (of rain, snow)",
+          "to pour down"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaning": "notice"
+    },
+    {
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "order (for an item)"
+    },
+    {
+      "word": "注す",
+      "reading": "さす",
+      "meaning": "to pour"
+    },
+    {
+      "word": "注意",
+      "reading": "ちゅうい",
+      "meaning": "attention"
+    },
+    {
+      "word": "注射",
+      "reading": "ちゅうしゃ",
+      "meaning": "injection"
+    },
+    {
+      "word": "注",
+      "reading": "ちゅう",
+      "meaning": "annotation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "火に油を注ぐ",
+      "reading": "ひにあぶらをそそぐ",
+      "meaning": "to add fuel to the fire",
+      "type": "idiom"
+    },
+    {
+      "word": "油を注ぐ",
+      "reading": "あぶらをそそぐ",
+      "meaning": "to pour oil on (something)",
+      "type": "idiom"
+    },
+    {
+      "word": "心血を注ぐ",
+      "reading": "しんけつをそそぐ",
+      "meaning": "to put one's heart and soul (into)",
+      "type": "idiom"
+    },
+    {
+      "word": "満面朱を注ぐ",
+      "reading": "まんめんしゅをそそぐ",
+      "meaning": "to be flushed bright red (with anger or embarrassment)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "火に油を注ぐだけだ。",
+      "reading": null,
+      "english": "It only adds fuel to the fire.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その川は流れて海に注ぐ。",
+      "reading": null,
+      "english": "The river flows down to the sea.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コップに熱いお湯を注ぐな。さもないとひびが入るよ。",
+      "reading": null,
+      "english": "Don't pour hot water into the glass or it will crack.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火に油を注ぐだけだ。",
+      "reading": null,
+      "english": "It only adds fuel to the fire.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その川は流れて海に注ぐ。",
+      "reading": null,
+      "english": "The river flows down to the sea.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コップに熱いお湯を注ぐな。さもないとひびが入るよ。",
+      "reading": null,
+      "english": "Don't pour hot water into the glass or it will crack.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

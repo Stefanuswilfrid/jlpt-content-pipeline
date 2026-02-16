@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "街",
+    "reading": "がい",
+    "romaji": "gai",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "street",
+          "quarter",
+          "district",
+          "area"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "街角",
+      "reading": "まちかど",
+      "meaning": "street corner"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "街談巷説",
+      "reading": "がいだんこうせつ",
+      "meaning": "street gossips and idle rumors",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "街談巷語",
+      "reading": "がいだんこうご",
+      "meaning": "street gossips and idle rumors",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "柳巷花街",
+      "reading": "りゅうこうかがい",
+      "meaning": "red-light district",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "パリは世界で最も美しい街である。",
+      "reading": null,
+      "english": "Paris is the most beautiful city in the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここが前に話した街です。",
+      "reading": null,
+      "english": "This is the town I told you about.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パリは世界で最も美しい街である。",
+      "reading": null,
+      "english": "Paris is the most beautiful city in the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空港から中心街までどの電車で行けばよいか教えて下さい。",
+      "reading": null,
+      "english": "Please tell me which railway line to use from the airport to downtown.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "近くに商店街がありますよ。",
+      "reading": null,
+      "english": "There is a shopping area nearby.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "休日で車は街道をのろのろと動いた。",
+      "reading": null,
+      "english": "The holiday traffic crawled along the highway.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "街道は次の村で南へ向かう。",
+      "reading": null,
+      "english": "The road tends to the south at the next village.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "街を当てもなく歩いた。",
+      "reading": null,
+      "english": "I walked about aimlessly on the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

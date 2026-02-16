@@ -1,0 +1,138 @@
+{
+  "definition": {
+    "word": "最終",
+    "reading": "さいしゅう",
+    "romaji": "saishuu",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "last",
+          "final",
+          "closing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "last train (bus, flight, etc.; of the day)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "best"
+    },
+    {
+      "word": "最低",
+      "reading": "さいてい",
+      "meaning": "least"
+    },
+    {
+      "word": "最中",
+      "reading": "さいちゅう",
+      "meaning": "(in) the middle of"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "recently"
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "end"
+    },
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaning": "beginning"
+    },
+    {
+      "word": "終了",
+      "reading": "しゅうりょう",
+      "meaning": "end"
+    },
+    {
+      "word": "終わり",
+      "reading": "おわり",
+      "meaning": "end"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "最終兵器",
+      "reading": "さいしゅうへいき",
+      "meaning": "ultimate weapon",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "われわれは最終的決定を行った。",
+      "reading": null,
+      "english": "We've made a final decision.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは行く事を考えたが、最終的に行かない事に決めた。",
+      "reading": null,
+      "english": "We considered going, but finally decided against it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "わたしは最終バスに間に合うのがやっとだった。",
+      "reading": null,
+      "english": "I had enough to do to catch the last bus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わがチームは最終回で５点入った。",
+      "reading": null,
+      "english": "Our team scored five runs in the last inning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ゆうべはやっとのことで最終電車に間に合った。",
+      "reading": null,
+      "english": "Last night, I barely made the last train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう少し早く出ていれば、最終列車に間に合ったのに。",
+      "reading": null,
+      "english": "If I had left a little earlier, I would have caught the last train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どっちが最終的な安息の地となるんだろう。",
+      "reading": null,
+      "english": "Which one will be our final resting place?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

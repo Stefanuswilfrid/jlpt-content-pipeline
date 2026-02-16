@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "依頼",
+    "reading": "いらい",
+    "romaji": "irai",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "request",
+          "commission",
+          "entrusting (with a matter)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "dependence",
+          "reliance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "trust (in)"
+    },
+    {
+      "word": "頼る",
+      "reading": "たよる",
+      "meaning": "to rely on"
+    },
+    {
+      "word": "頼む",
+      "reading": "たのむ",
+      "meaning": "to request"
+    },
+    {
+      "word": "依然",
+      "reading": "いぜん",
+      "meaning": "still"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "投書",
+    "reading": "とうしょ",
+    "romaji": "tousho",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "surat kepada editor",
+          "surat dari pembaca",
+          "kontribusi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "contribution (to a newspaper, magazine, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "kaligrafi"
+    },
+    {
+      "word": "書籍",
+      "reading": "しょせき",
+      "meaning": "buku, publikasi"
+    },
+    {
+      "word": "清書",
+      "reading": "せいしょ",
+      "meaning": "salinan bersih"
+    },
+    {
+      "word": "書留",
+      "reading": "かきとめ",
+      "meaning": "pos tercatat"
+    },
+    {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "toko buku"
+    },
+    {
+      "word": "下書き",
+      "reading": "したがき",
+      "meaning": "draf kasar, rancangan awal"
+    },
+    {
+      "word": "書類",
+      "reading": "しょるい",
+      "meaning": "dokumen, surat-surat resmi"
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "perpustakaan"
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "membaca"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

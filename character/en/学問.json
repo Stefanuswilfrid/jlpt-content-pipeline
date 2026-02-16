@@ -1,0 +1,180 @@
+{
+  "definition": {
+    "word": "学問",
+    "reading": "がくもん",
+    "romaji": "gakumon",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "study",
+          "scholarship",
+          "learning",
+          "education",
+          "knowledge"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "discipline",
+          "branch of learning",
+          "(a) science"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "哲学",
+      "reading": "てつがく",
+      "meaning": "philosophy"
+    },
+    {
+      "word": "留学",
+      "reading": "りゅうがく",
+      "meaning": "studying abroad"
+    },
+    {
+      "word": "進学",
+      "reading": "しんがく",
+      "meaning": "advancing to the next stage of education"
+    },
+    {
+      "word": "問い",
+      "reading": "とい",
+      "meaning": "question"
+    },
+    {
+      "word": "学歴",
+      "reading": "がくれき",
+      "meaning": "academic background"
+    },
+    {
+      "word": "語学",
+      "reading": "ごがく",
+      "meaning": "study of foreign languages"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "commuting to school"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaning": "scholarship"
+    },
+    {
+      "word": "学",
+      "reading": "がく",
+      "meaning": "learning"
+    },
+    {
+      "word": "訪問",
+      "reading": "ほうもん",
+      "meaning": "call"
+    },
+    {
+      "word": "疑問",
+      "reading": "ぎもん",
+      "meaning": "doubt"
+    },
+    {
+      "word": "学者",
+      "reading": "がくしゃ",
+      "meaning": "scholar"
+    },
+    {
+      "word": "学習",
+      "reading": "がくしゅう",
+      "meaning": "learning"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "化学",
+      "reading": "かがく",
+      "meaning": "chemistry"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "school term"
+    },
+    {
+      "word": "退学",
+      "reading": "たいがく",
+      "meaning": "dropping out of school"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "overseas student"
+    },
+    {
+      "word": "学科",
+      "reading": "がっか",
+      "meaning": "subject (of study)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "外題学問",
+      "reading": "げだいがくもん",
+      "meaning": "putting on a knowing air when one only knows the title of the book (play, etc.)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "学問に王道なし",
+      "reading": "がくもんにおうどうなし",
+      "meaning": "there are no shortcuts in learning",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "学問に王道なし。",
+      "reading": null,
+      "english": "There is no easy road to learning.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "少しは学問ができる。",
+      "reading": null,
+      "english": "He is something of a scholar.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どんなに年を取っても学問ができないことはない。",
+      "reading": null,
+      "english": "You're never too old to learn.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父は天文学、つまり星に関する学問を研究している。",
+      "reading": null,
+      "english": "My father studies astronomy, or the science of stars.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

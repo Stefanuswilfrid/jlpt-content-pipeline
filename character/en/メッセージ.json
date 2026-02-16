@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "メッセージ",
+    "reading": "メッセージ",
+    "romaji": "messeeji",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "message"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "メッセージをもう一度読みなさい。",
+      "reading": null,
+      "english": "Read the message once more.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コンピューターは電子メールでメッセージを送るのに使われる。",
+      "reading": null,
+      "english": "Computers are used to send messages by e-mail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このメッセージは意味をなさない。",
+      "reading": null,
+      "english": "This message doesn't make sense.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "石に書かれているメッセージは理由なしでそこに置かれていない。",
+      "reading": null,
+      "english": "What is written on the stone could not have been put there without reason.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

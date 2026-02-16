@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "道徳",
+    "reading": "どうとく",
+    "romaji": "doutoku",
+    "jlpt": "N3",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "morals",
+          "morality"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "歩道",
+      "reading": "ほどう",
+      "meaning": "footpath"
+    },
+    {
+      "word": "道路",
+      "reading": "どうろ",
+      "meaning": "road"
+    },
+    {
+      "word": "鉄道",
+      "reading": "てつどう",
+      "meaning": "railroad"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは反道徳的だ。",
+      "reading": null,
+      "english": "It is still immoral.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは道徳上の問題だ。",
+      "reading": null,
+      "english": "It is a moral question.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは道徳に反する。",
+      "reading": null,
+      "english": "It is contrary to the morals.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "道徳教育は日本では必要だ。",
+      "reading": null,
+      "english": "In Japan, moral education is necessary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

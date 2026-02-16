@@ -1,0 +1,155 @@
+{
+  "definition": {
+    "word": "特定",
+    "reading": "とくてい",
+    "romaji": "tokutei",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "spesifik",
+          "khusus",
+          "tertentu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "specifying",
+          "designating",
+          "identifying",
+          "pinpointing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一定",
+      "reading": "いってい",
+      "meaning": "tetap, mapan, teratur"
+    },
+    {
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "penunjukan, spesifikasi, penugasan"
+    },
+    {
+      "word": "特殊",
+      "reading": "とくしゅ",
+      "meaning": "istimewa, unik"
+    },
+    {
+      "word": "定員",
+      "reading": "ていいん",
+      "meaning": "jumlah personel tetap, kapasitas (misalnya, kapal)"
+    },
+    {
+      "word": "推定",
+      "reading": "すいてい",
+      "meaning": "praduga, asumsi, perkiraan"
+    },
+    {
+      "word": "特色",
+      "reading": "とくしょく",
+      "meaning": "karakteristik, ciri"
+    },
+    {
+      "word": "測定",
+      "reading": "そくてい",
+      "meaning": "pengukuran"
+    },
+    {
+      "word": "肯定",
+      "reading": "こうてい",
+      "meaning": "positif, penegasan"
+    },
+    {
+      "word": "定価",
+      "reading": "ていか",
+      "meaning": "harga yang ditetapkan"
+    },
+    {
+      "word": "定期券",
+      "reading": "ていきけん",
+      "meaning": "kartu komuter, tiket musiman"
+    },
+    {
+      "word": "断定",
+      "reading": "だんてい",
+      "meaning": "kesimpulan, keputusan"
+    },
+    {
+      "word": "特売",
+      "reading": "とくばい",
+      "meaning": "penjualan khusus"
+    },
+    {
+      "word": "定規",
+      "reading": "じょうぎ",
+      "meaning": "penggaris (pengukur)"
+    },
+    {
+      "word": "定休日",
+      "reading": "ていきゅうび",
+      "meaning": "liburan reguler"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaning": "spesial"
+    },
+    {
+      "word": "協定",
+      "reading": "きょうてい",
+      "meaning": "pengaturan, pakta, kesepakatan"
+    },
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "keputusan, penetapan"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "rencana, pengaturan, jadwal"
+    },
+    {
+      "word": "特徴",
+      "reading": "とくちょう",
+      "meaning": "karakteristik; ciri; sifat"
+    },
+    {
+      "word": "安定",
+      "reading": "あんてい",
+      "meaning": "stabilitas, keseimbangan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "別に特定の人をさして言っているのではない。",
+      "reading": null,
+      "indonesian": "I am not alluding to any person in particular.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "警察はいまだ犯人を特定できないでいる。",
+      "reading": null,
+      "indonesian": "The police still can't point out who committed the crime.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

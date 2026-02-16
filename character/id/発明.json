@@ -1,0 +1,198 @@
+{
+  "definition": {
+    "word": "発明",
+    "reading": "はつめい",
+    "romaji": "hatsumei",
+    "jlpt": "N3",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "penemuan"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "intelligent",
+          "clever",
+          "smart"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発達",
+      "reading": "はったつ",
+      "meaning": "pembangunan, pertumbuhan"
+    },
+    {
+      "word": "夜明け",
+      "reading": "よあけ",
+      "meaning": "fajar, subuh"
+    },
+    {
+      "word": "明かり",
+      "reading": "あかり",
+      "meaning": "cahaya lampu, cahaya (secara umum)"
+    },
+    {
+      "word": "明らか",
+      "reading": "あきらか",
+      "meaning": "jelas, terang"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "terbitan (publikasi)"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "pembangunan, pertumbuhan, kemajuan"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "pengumuman; publikasi; presentasi"
+    },
+    {
+      "word": "声明",
+      "reading": "せいめい",
+      "meaning": "deklarasi, pernyataan, proklamasi"
+    },
+    {
+      "word": "明確",
+      "reading": "めいかく",
+      "meaning": "jelas, pasti"
+    },
+    {
+      "word": "爆発",
+      "reading": "ばくはつ",
+      "meaning": "ledakan, detonasi, letusan"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "penemuan, deteksi, temuan"
+    },
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "peradaban"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "bukti, verifikasi"
+    },
+    {
+      "word": "発射",
+      "reading": "はっしゃ",
+      "meaning": "menembak, melepaskan tembakan"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "penerangan"
+    },
+    {
+      "word": "空き",
+      "reading": "あき",
+      "meaning": "lowongan, kesempatan, ruang"
+    },
+    {
+      "word": "発車",
+      "reading": "はっしゃ",
+      "meaning": "keberangkatan sebuah kendaraan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "車輪の再発明",
+      "reading": "しゃりんのさいはつめい",
+      "meaning": "reinventing the wheel",
+      "type": "idiom"
+    },
+    {
+      "word": "必要は発明の母",
+      "reading": "ひつようははつめいのはは",
+      "meaning": "necessity is the mother of invention",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "必要は発明の母なり。",
+      "reading": null,
+      "indonesian": "Necessity is the mother of invention.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "必要は発明の母である。",
+      "reading": null,
+      "indonesian": "Necessity is the mother of invention.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "必要は発明の母。",
+      "reading": null,
+      "indonesian": "Necessity is the mother of invention.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "火の利用が人類の最大の発明と考えてもよいでしょう。",
+      "reading": null,
+      "indonesian": "Making use of fire may be regarded as man's greatest invention.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何がベルによって発明されましたか。",
+      "reading": null,
+      "indonesian": "What did Bell invent?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何がベルによって発明されたのですか。",
+      "reading": null,
+      "indonesian": "What was invented by Bell?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ラジオはマルコーニによって発明された。",
+      "reading": null,
+      "indonesian": "The radio was invented by Marconi.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "マルコーニは無線を発明した。",
+      "reading": null,
+      "indonesian": "Marconi invented the radio.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

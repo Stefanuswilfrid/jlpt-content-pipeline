@@ -1,0 +1,157 @@
+{
+  "definition": {
+    "word": "分数",
+    "reading": "ぶんすう",
+    "romaji": "bunsuu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "fraction"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "number of times"
+    },
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaning": "ingredient"
+    },
+    {
+      "word": "身分",
+      "reading": "みぶん",
+      "meaning": "(social) standing"
+    },
+    {
+      "word": "点数",
+      "reading": "てんすう",
+      "meaning": "marks"
+    },
+    {
+      "word": "小数",
+      "reading": "しょうすう",
+      "meaning": "fraction (part of)"
+    },
+    {
+      "word": "整数",
+      "reading": "せいすう",
+      "meaning": "integer"
+    },
+    {
+      "word": "単数",
+      "reading": "たんすう",
+      "meaning": "single"
+    },
+    {
+      "word": "水分",
+      "reading": "すいぶん",
+      "meaning": "water"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "division"
+    },
+    {
+      "word": "無数",
+      "reading": "むすう",
+      "meaning": "innumerable"
+    },
+    {
+      "word": "分布",
+      "reading": "ぶんぷ",
+      "meaning": "distribution"
+    },
+    {
+      "word": "枚数",
+      "reading": "まいすう",
+      "meaning": "the number of flat things"
+    },
+    {
+      "word": "分類",
+      "reading": "ぶんるい",
+      "meaning": "classification"
+    },
+    {
+      "word": "分解",
+      "reading": "ぶんかい",
+      "meaning": "disassembly"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "plural"
+    },
+    {
+      "word": "過半数",
+      "reading": "かはんすう",
+      "meaning": "majority"
+    },
+    {
+      "word": "算数",
+      "reading": "さんすう",
+      "meaning": "arithmetic"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "amount"
+    },
+    {
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "coupon tickets"
+    },
+    {
+      "word": "幾分",
+      "reading": "いくぶん",
+      "meaning": "somewhat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "次の分数を小数に直しなさい。",
+      "reading": null,
+      "english": "Convert the following fractions to decimals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "分数b/aは1/aをb倍した数を意味する。",
+      "reading": null,
+      "english": "The fraction b/a means b times 1/a.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "分数b/aは1/aをb倍した数を意味する。",
+      "reading": null,
+      "english": "The fraction b/a means b times 1/a.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "次の分数を小数に直しなさい。",
+      "reading": null,
+      "english": "Convert the following fractions to decimals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

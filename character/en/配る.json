@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "配る",
+    "reading": "くばる",
+    "romaji": "kubaru",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to distribute",
+          "to hand out",
+          "to deliver",
+          "to deal out",
+          "to serve out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to allot",
+          "to allocate",
+          "to place (staff, soldiers, etc.)",
+          "to station"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "配給",
+      "reading": "はいきゅう",
+      "meaning": "distribution (e.g. films, rice)"
+    },
+    {
+      "word": "分配",
+      "reading": "ぶんぱい",
+      "meaning": "division"
+    },
+    {
+      "word": "配達",
+      "reading": "はいたつ",
+      "meaning": "delivery"
+    },
+    {
+      "word": "配布",
+      "reading": "はいふ",
+      "meaning": "distribution"
+    },
+    {
+      "word": "手配",
+      "reading": "てはい",
+      "meaning": "arrangement"
+    },
+    {
+      "word": "配列",
+      "reading": "はいれつ",
+      "meaning": "arranging"
+    },
+    {
+      "word": "支配",
+      "reading": "しはい",
+      "meaning": "rule"
+    },
+    {
+      "word": "心配",
+      "reading": "しんぱい",
+      "meaning": "worry"
+    },
+    {
+      "word": "配分",
+      "reading": "はいぶん",
+      "meaning": "distribution"
+    },
+    {
+      "word": "配慮",
+      "reading": "はいりょ",
+      "meaning": "consideration"
+    },
+    {
+      "word": "配置",
+      "reading": "はいち",
+      "meaning": "arrangement (of resources)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は自分の安全にもっと気を配るべきだ。",
+      "reading": null,
+      "english": "You should be more thoughtful of your safety.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほとんどすべての親が子供の教育に心を配る。",
+      "reading": null,
+      "english": "Almost all parents see to the education of their children.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あの人たちにプログラムを配る手伝いをしてくれませんか。",
+      "reading": null,
+      "english": "Will you help me give out the programs to those people?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたが配る番です。",
+      "reading": null,
+      "english": "It's your deal.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "来てくれた人にこのパンフレットを配るのを手伝って下さい。",
+      "reading": null,
+      "english": "Please help me distribute these pamphlets to visitors.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君は自分の安全にもっと気を配るべきだ。",
+      "reading": null,
+      "english": "You should be more thoughtful of your safety.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は自分の安全にもっと気を配るべきだ。",
+      "reading": null,
+      "english": "You should pay more attention to your own safety.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほとんどすべての親が子供の教育に心を配る。",
+      "reading": null,
+      "english": "Almost all parents see to the education of their children.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あの人たちにプログラムを配る手伝いをしてくれませんか。",
+      "reading": null,
+      "english": "Will you help me give out the programs to those people?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたが配る番です。",
+      "reading": null,
+      "english": "It's your deal.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたが配る番です。",
+      "reading": null,
+      "english": "It's your turn to deal.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "車を運転するときは、歩行者に気を配ること。",
+      "reading": null,
+      "english": "Look out for pedestrians when you drive a car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

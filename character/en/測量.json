@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "測量",
+    "reading": "そくりょう",
+    "romaji": "sokuryou",
+    "jlpt": "N2",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "measurement",
+          "surveying"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観測",
+      "reading": "かんそく",
+      "meaning": "observation"
+    },
+    {
+      "word": "重量",
+      "reading": "じゅうりょう",
+      "meaning": "weight"
+    },
+    {
+      "word": "測定",
+      "reading": "そくてい",
+      "meaning": "measurement"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "amount"
+    },
+    {
+      "word": "量",
+      "reading": "りょう",
+      "meaning": "quantity"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "英国の測量法では４クオートは１ガロンだ。",
+      "reading": null,
+      "english": "In the imperial measurement system, four quarts equals one gallon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英国の測量法では４クオートは１ガロンだ。",
+      "reading": null,
+      "english": "In the imperial measurement system, four quarts equals one gallon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

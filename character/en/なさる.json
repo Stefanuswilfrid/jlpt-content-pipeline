@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "為さる",
+    "reading": "なさる",
+    "romaji": "nasaru",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb - -aru special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to do"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "為る",
+      "reading": "する",
+      "meaning": "to do"
+    },
+    {
+      "word": "為",
+      "reading": "ため",
+      "meaning": "good"
+    },
+    {
+      "word": "所為",
+      "reading": "せい",
+      "meaning": "consequence"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何をなさるつもりですか。",
+      "reading": null,
+      "english": "What are you driving at?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このお金をどうしようとなさるのですか。",
+      "reading": null,
+      "english": "What are you going to do with this money?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何をなさるつもりですか。",
+      "reading": null,
+      "english": "What are you driving at?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このお金をどうしようとなさるのですか。",
+      "reading": null,
+      "english": "What are you going to do with this money?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

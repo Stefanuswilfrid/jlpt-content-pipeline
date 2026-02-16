@@ -1,0 +1,135 @@
+{
+  "definition": {
+    "word": "束",
+    "reading": "たば",
+    "romaji": "taba",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix",
+          "counter"
+        ],
+        "meanings": [
+          "bundle",
+          "bunch",
+          "sheaf"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "拘束",
+      "reading": "こうそく",
+      "meaning": "restriction"
+    },
+    {
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "promise"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "二束三文",
+      "reading": "にそくさんもん",
+      "meaning": "dirt cheap",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "衣冠束帯",
+      "reading": "いかんそくたい",
+      "meaning": "full Japanese court dress of traditional fashion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "藁で束ねても男は男",
+      "reading": "わらでたばねてもおとこはおとこ",
+      "meaning": "rich or poor, a man is a man",
+      "type": "proverb"
+    },
+    {
+      "word": "束になってかかる",
+      "reading": "たばになってかかる",
+      "meaning": "to attack all in a bunch",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "約束するよ。",
+      "reading": null,
+      "english": "I give you my word.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "約束するよ。",
+      "reading": null,
+      "english": "I give you my word.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "約束するよ。",
+      "reading": null,
+      "english": "I promise.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あいつなら、ちゃんと約束を守るよ。",
+      "reading": null,
+      "english": "You can trust him to keep his word.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はそのロープをほどかないと約束しなさい。",
+      "reading": null,
+      "english": "You must promise not to take the rope off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はあくまでも約束を守らなければならない。",
+      "reading": null,
+      "english": "You must stick to your promise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の約束を当てにしている。",
+      "reading": null,
+      "english": "I rest on your promise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君に約束した3000ドルをあてにしてもいいよ。",
+      "reading": null,
+      "english": "You can count on the $3,000 I have promised you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急用ができたので約束をキャンセルした。",
+      "reading": null,
+      "english": "I canceled my appointment because of urgent business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

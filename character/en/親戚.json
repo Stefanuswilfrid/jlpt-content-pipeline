@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "親戚",
+    "reading": "しんせき",
+    "romaji": "shinseki",
+    "jlpt": "N3",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "relative",
+          "relation",
+          "kin"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "父親",
+      "reading": "ちちおや",
+      "meaning": "father"
+    },
+    {
+      "word": "母親",
+      "reading": "ははおや",
+      "meaning": "mother"
+    },
+    {
+      "word": "親友",
+      "reading": "しんゆう",
+      "meaning": "close friend"
+    },
+    {
+      "word": "親",
+      "reading": "おや",
+      "meaning": "parent"
+    },
+    {
+      "word": "両親",
+      "reading": "りょうしん",
+      "meaning": "parents"
+    },
+    {
+      "word": "親類",
+      "reading": "しんるい",
+      "meaning": "relative"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "親戚知己",
+      "reading": "しんせきちき",
+      "meaning": "relatives and acquaintances",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "遠くの親戚より近くの他人",
+      "reading": "とおくのしんせきよりちかくのたにん",
+      "meaning": "a neighbour is better than a relative living far",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

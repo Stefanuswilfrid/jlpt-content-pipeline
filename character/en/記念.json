@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "記念",
+    "reading": "きねん",
+    "romaji": "kinen",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "commemoration",
+          "celebration",
+          "remembrance",
+          "memory",
+          "honoring the memory of"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "memento",
+          "souvenir",
+          "keepsake"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "記事",
+      "reading": "きじ",
+      "meaning": "article"
+    },
+    {
+      "word": "記者",
+      "reading": "きしゃ",
+      "meaning": "reporter"
+    },
+    {
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "record"
+    },
+    {
+      "word": "記憶",
+      "reading": "きおく",
+      "meaning": "memory"
+    },
+    {
+      "word": "記入",
+      "reading": "きにゅう",
+      "meaning": "entry (in a form, register, diary, etc.)"
+    },
+    {
+      "word": "暗記",
+      "reading": "あんき",
+      "meaning": "memorization"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "regrettable"
+    },
+    {
+      "word": "日記",
+      "reading": "にっき",
+      "meaning": "diary"
+    },
+    {
+      "word": "思う",
+      "reading": "おもう",
+      "meaning": "to think"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "アメリカ旅行のよい記念になります。",
+      "reading": null,
+      "english": "This will be a good souvenir of my trip around the United States.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

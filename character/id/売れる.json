@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "売れる",
+    "reading": "うれる",
+    "romaji": "ureru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk dijual"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be well known",
+          "to be popular",
+          "to be famous"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "商売",
+      "reading": "しょうばい",
+      "meaning": "perdagangan, bisnis, perniagaan"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaning": "akan terjual habis"
+    },
+    {
+      "word": "販売",
+      "reading": "はんばい",
+      "meaning": "penjualan, pemasaran"
+    },
+    {
+      "word": "売り場",
+      "reading": "うりば",
+      "meaning": "tempat di mana barang-barang dijual"
+    },
+    {
+      "word": "売る",
+      "reading": "うる",
+      "meaning": "menjual (v.t.)"
+    },
+    {
+      "word": "売り切れ",
+      "reading": "うりきれ",
+      "meaning": "terjual habis"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "顔が売れる",
+      "reading": "かおがうれる",
+      "meaning": "to be widely recognized",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この本はよく売れるはずだ。",
+      "reading": null,
+      "indonesian": "This book ought to be a good seller.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この本はよく売れる。",
+      "reading": null,
+      "indonesian": "This book sells well.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "この車はよく売れる。",
+      "reading": null,
+      "indonesian": "This car sells well.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "日本車は海外でよく売れる。",
+      "reading": null,
+      "indonesian": "Japanese cars sell well overseas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

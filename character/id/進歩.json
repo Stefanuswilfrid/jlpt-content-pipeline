@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "進歩",
+    "reading": "しんぽ",
+    "romaji": "shinpo",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "perbaikan",
+          "kemajuan",
+          "pengembangan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "進学",
+      "reading": "しんがく",
+      "meaning": "melanjutkan ke universitas"
+    },
+    {
+      "word": "前進",
+      "reading": "ぜんしん",
+      "meaning": "maju, mendorong, berkembang"
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "maju"
+    },
+    {
+      "word": "歩道",
+      "reading": "ほどう",
+      "meaning": "gang"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "berjalan, berkeliling"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の英語はだんだんに進歩してきたよ。",
+      "reading": null,
+      "indonesian": "Your English has made gradual progress.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "近年科学は目覚しく進歩した。",
+      "reading": null,
+      "indonesian": "In recent years, science has made remarkable progress.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "近年における医学の進歩はめざましい。",
+      "reading": null,
+      "indonesian": "Recent advances in medicine are remarkable.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教育は進歩をもたらす力だ。",
+      "reading": null,
+      "indonesian": "Education is the agent of progress.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "科学の進歩は止まることがない。",
+      "reading": null,
+      "indonesian": "Advance in science is continuous.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

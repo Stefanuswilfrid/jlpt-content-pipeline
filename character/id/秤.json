@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "秤",
+    "reading": "はかり",
+    "romaji": "hakari",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "timbangan",
+          "mesin timbang"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "天秤にかける",
+      "reading": "てんびんにかける",
+      "meaning": "to weigh (one thing against another)",
+      "type": "idiom"
+    },
+    {
+      "word": "両天秤をかける",
+      "reading": "りょうてんびんをかける",
+      "meaning": "to try to have it both ways",
+      "type": "idiom"
+    },
+    {
+      "word": "両天秤にかける",
+      "reading": "りょうてんびんにかける",
+      "meaning": "to try to have it both ways",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "急速",
+    "reading": "きゅうそく",
+    "romaji": "kyuusoku",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rapid (e.g. progress)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "急激",
+      "reading": "きゅうげき",
+      "meaning": "sudden"
+    },
+    {
+      "word": "高速",
+      "reading": "こうそく",
+      "meaning": "high-speed"
+    },
+    {
+      "word": "速度",
+      "reading": "そくど",
+      "meaning": "speed"
+    },
+    {
+      "word": "至急",
+      "reading": "しきゅう",
+      "meaning": "urgent"
+    },
+    {
+      "word": "急",
+      "reading": "きゅう",
+      "meaning": "sudden"
+    },
+    {
+      "word": "時速",
+      "reading": "じそく",
+      "meaning": "speed (per hour)"
+    },
+    {
+      "word": "加速",
+      "reading": "かそく",
+      "meaning": "acceleration"
+    },
+    {
+      "word": "特急",
+      "reading": "とっきゅう",
+      "meaning": "limited express (train for which a limited-express ticket is required)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その国は急速に工業化された。",
+      "reading": null,
+      "english": "The country was industrialized very quickly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その運動は急速に進みつつある。",
+      "reading": null,
+      "english": "The movement is rapidly gaining ground.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

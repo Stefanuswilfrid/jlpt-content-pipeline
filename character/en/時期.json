@@ -1,0 +1,151 @@
+{
+  "definition": {
+    "word": "時期",
+    "reading": "じき",
+    "romaji": "jiki",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "time",
+          "season",
+          "period",
+          "phase",
+          "stage"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "同時",
+      "reading": "どうじ",
+      "meaning": "same time"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "period"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaning": "expectation"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "long-term"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "term"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "fixed period"
+    },
+    {
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "postponement"
+    },
+    {
+      "word": "時刻",
+      "reading": "じこく",
+      "meaning": "time"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "school term"
+    },
+    {
+      "word": "予期",
+      "reading": "よき",
+      "meaning": "expectation"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "period"
+    },
+    {
+      "word": "臨時",
+      "reading": "りんじ",
+      "meaning": "temporary"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "時期尚早",
+      "reading": "じきしょうそう",
+      "meaning": "premature",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は新しい車を買う時期ですよ。",
+      "reading": null,
+      "english": "It's time for you to buy a new car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は新しい仕事を始める時期だ。",
+      "reading": null,
+      "english": "It is high time you started a new business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一時期は、コーラにはまって、毎日のように飲んでたよ。",
+      "reading": null,
+      "english": "For a while, I was really into cola, drinking it every day.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医者が人の死ぬ時期を決めるのは正しいことでしょうか。",
+      "reading": null,
+      "english": "Is it right for a doctor to decide when someone should die?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ところで、もう本当の話がされてもいい時期だと思うよ。",
+      "reading": null,
+      "english": "Well, I think it's time the real story was told.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "プラスチック",
+    "reading": "プラスチック",
+    "romaji": "purasuchikku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "plastic"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "安全のため、使用前にプラスチック・ケースをはずして下さい。",
+      "reading": null,
+      "english": "For safety purposes, remove the plastic casing before use.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その皿は、プラスチックで出来ている。",
+      "reading": null,
+      "english": "The plate is made of plastic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こののりはプラスチックには付かない。",
+      "reading": null,
+      "english": "This glue does not adhere to plastic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

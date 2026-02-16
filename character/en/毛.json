@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "毛",
+    "reading": "け",
+    "romaji": "ke",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hair"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fur",
+          "wool"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "down",
+          "plumage",
+          "feathers"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "毛布",
+      "reading": "もうふ",
+      "meaning": "blanket"
+    },
+    {
+      "word": "髪の毛",
+      "reading": "かみのけ",
+      "meaning": "hair (on the head)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "九牛の一毛",
+      "reading": "きゅうぎゅうのいちもう",
+      "meaning": "small fraction (of)",
+      "type": "idiom"
+    },
+    {
+      "word": "兎の毛",
+      "reading": "うのけ",
+      "meaning": "slight amount",
+      "type": "idiom"
+    },
+    {
+      "word": "紅毛碧眼",
+      "reading": "こうもうへきがん",
+      "meaning": "red-haired and blue-eyed (person)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "碧眼紅毛",
+      "reading": "へきがんこうもう",
+      "meaning": "blue eyes and red hair",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "亀毛兎角",
+      "reading": "きもうとかく",
+      "meaning": "things that do not exist",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "兎角亀毛",
+      "reading": "とかくきもう",
+      "meaning": "things that do not exist",
+      "type": "idiom"
+    },
+    {
+      "word": "連銭葦毛",
+      "reading": "れんぜんあしげ",
+      "meaning": "dapple gray (horse coat color)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "お毛毛",
+      "reading": "おけけ",
+      "meaning": "pubic hair",
+      "type": "expression"
+    },
+    {
+      "word": "チン毛",
+      "reading": "ちんげ",
+      "meaning": "(male) pubic hair",
+      "type": "expression"
+    },
+    {
+      "word": "楽毛",
+      "reading": "らくげ",
+      "meaning": "rapid growth of hair when one is relaxed",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ネコの毛がさかだった。",
+      "reading": null,
+      "english": "The cat's fur stood on end.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

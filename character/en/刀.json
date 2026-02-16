@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "刀",
+    "reading": "かたな",
+    "romaji": "katana",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sword (esp. Japanese single-edged)",
+          "katana"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "scalpel"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "chisel",
+          "burin",
+          "graver"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "knife money (knife-shaped commodity money used in ancient China)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "一刀両断",
+      "reading": "いっとうりょうだん",
+      "meaning": "cutting in two with a single stroke",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "単刀直入",
+      "reading": "たんとうちょくにゅう",
+      "meaning": "straight to the point",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "快刀乱麻",
+      "reading": "かいとうらんま",
+      "meaning": "solving a problem swiftly and skillfully",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "帯刀御免",
+      "reading": "たいとうごめん",
+      "meaning": "a non-samurai being granted the privilege of wearing a sword (during the Edo period)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "苗字帯刀",
+      "reading": "みょうじたいとう",
+      "meaning": "right to bear a surname and to wear a sword (during the Edo period)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "伝家の宝刀",
+      "reading": "でんかのほうとう",
+      "meaning": "one's last resort",
+      "type": "idiom"
+    },
+    {
+      "word": "天下の宝刀",
+      "reading": "てんかのほうとう",
+      "meaning": "one's last resort",
+      "type": "idiom"
+    },
+    {
+      "word": "伝家の宝刀を抜く",
+      "reading": "でんかのほうとうをぬく",
+      "meaning": "to employ one's secret weapon",
+      "type": "idiom"
+    },
+    {
+      "word": "刀折れ矢尽きる",
+      "reading": "かたなおれやつきる",
+      "meaning": "to exhaust all one's options",
+      "type": "idiom"
+    },
+    {
+      "word": "弓は袋に太刀は鞘",
+      "reading": "ゆみはふくろにたちはさや",
+      "meaning": "the world is at peace",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この刀には不思議ないわれがある。",
+      "reading": null,
+      "english": "This sword has a strange history.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

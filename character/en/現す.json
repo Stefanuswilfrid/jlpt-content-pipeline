@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "表す",
+    "reading": "あらわす",
+    "romaji": "arawasu",
+    "jlpt": "N3",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to represent",
+          "to signify",
+          "to stand for"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to reveal",
+          "to show",
+          "to display"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to express"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make widely known"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "代表",
+      "reading": "だいひょう",
+      "meaning": "representation"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "announcement"
+    },
+    {
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "expression"
+    },
+    {
+      "word": "公表",
+      "reading": "こうひょう",
+      "meaning": "official announcement"
+    },
+    {
+      "word": "表情",
+      "reading": "ひょうじょう",
+      "meaning": "facial expression"
+    },
+    {
+      "word": "表面",
+      "reading": "ひょうめん",
+      "meaning": "surface"
+    },
+    {
+      "word": "現れ",
+      "reading": "あらわれ",
+      "meaning": "embodiment"
+    },
+    {
+      "word": "現れる",
+      "reading": "あらわれる",
+      "meaning": "to appear"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "名は体を表す",
+      "reading": "なはたいをあらわす",
+      "meaning": "names and natures do often agree",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

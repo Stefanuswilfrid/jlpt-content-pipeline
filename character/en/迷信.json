@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "迷信",
+    "reading": "めいしん",
+    "romaji": "meishin",
+    "jlpt": "N2",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "superstition",
+          "superstitious belief"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "confidence"
+    },
+    {
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "trust (in)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そんなばかげた迷信はもう存在しない。",
+      "reading": null,
+      "english": "Such a ridiculous superstition no longer exists.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "多くの迷信がまだ信じられている。",
+      "reading": null,
+      "english": "Lots of superstitions are still believed in.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなばかげた迷信はもう存在しない。",
+      "reading": null,
+      "english": "Such a ridiculous superstition no longer exists.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "多くの迷信がまだ信じられている。",
+      "reading": null,
+      "english": "Lots of superstitions are still believed in.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

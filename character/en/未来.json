@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "未来",
+    "reading": "みらい",
+    "romaji": "mirai",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(distant) future"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "future existence",
+          "world beyond the grave",
+          "the world to come"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "future (tense)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "以来",
+      "reading": "いらい",
+      "meaning": "since"
+    },
+    {
+      "word": "出来事",
+      "reading": "できごと",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaning": "future"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "next year"
+    },
+    {
+      "word": "本来",
+      "reading": "ほんらい",
+      "meaning": "originally"
+    },
+    {
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "next month"
+    },
+    {
+      "word": "来日",
+      "reading": "らいにち",
+      "meaning": "coming to Japan"
+    },
+    {
+      "word": "未満",
+      "reading": "みまん",
+      "meaning": "less than"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "next week"
+    },
+    {
+      "word": "来",
+      "reading": "らい",
+      "meaning": "next (year, spring, etc.)"
+    },
+    {
+      "word": "再来月",
+      "reading": "さらいげつ",
+      "meaning": "month after next"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "未来永劫",
+      "reading": "みらいえいごう",
+      "meaning": "forevermore",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の未来計画について話してください。",
+      "reading": null,
+      "english": "Tell me about your program for the future.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君には明るい未来がある。",
+      "reading": null,
+      "english": "You have a bright future.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

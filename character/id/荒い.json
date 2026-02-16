@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "荒い",
+    "reading": "あらい",
+    "romaji": "arai",
+    "jlpt": "N2",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "kasar",
+          "tidak sopan",
+          "liar"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "immoderate",
+          "extravagant",
+          "reckless"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "荒っぽい",
+      "reading": "あらっぽい",
+      "meaning": "kasar, tidak sopan"
+    },
+    {
+      "word": "荒れる",
+      "reading": "あれる",
+      "meaning": "menjadi badai, menjadi ganas, menjadi hancur"
+    },
+    {
+      "word": "粗筋",
+      "reading": "あらすじ",
+      "meaning": "garis besar, sinopsis"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "気が荒い",
+      "reading": "きがあらい",
+      "meaning": "bad-tempered",
+      "type": "idiom"
+    },
+    {
+      "word": "気の荒い",
+      "reading": "きのあらい",
+      "meaning": "bad-tempered",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,38 @@
+{
+  "definition": {
+    "word": "診る",
+    "reading": "みる",
+    "romaji": "miru",
+    "jlpt": "N3",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk memeriksa (pasien)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "診察",
+      "reading": "しんさつ",
+      "meaning": "pemeriksaan medis (pasien)"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosa"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

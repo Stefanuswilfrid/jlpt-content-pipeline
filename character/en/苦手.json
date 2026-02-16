@@ -1,0 +1,157 @@
+{
+  "definition": {
+    "word": "苦手",
+    "reading": "にがて",
+    "romaji": "nigate",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "poor (at)",
+          "weak (in)",
+          "not very good (at)"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "not one's cup of tea",
+          "not one's favorite"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "歌手",
+      "reading": "かしゅ",
+      "meaning": "singer"
+    },
+    {
+      "word": "手段",
+      "reading": "しゅだん",
+      "meaning": "means"
+    },
+    {
+      "word": "苦労",
+      "reading": "くろう",
+      "meaning": "trouble"
+    },
+    {
+      "word": "助手",
+      "reading": "じょしゅ",
+      "meaning": "assistant"
+    },
+    {
+      "word": "拍手",
+      "reading": "はくしゅ",
+      "meaning": "clapping hands"
+    },
+    {
+      "word": "派手",
+      "reading": "はで",
+      "meaning": "showy"
+    },
+    {
+      "word": "手間",
+      "reading": "てま",
+      "meaning": "time"
+    },
+    {
+      "word": "苦痛",
+      "reading": "くつう",
+      "meaning": "pain"
+    },
+    {
+      "word": "握手",
+      "reading": "あくしゅ",
+      "meaning": "handshake"
+    },
+    {
+      "word": "手伝い",
+      "reading": "てつだい",
+      "meaning": "helper"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaning": "player (of a sport)"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "companion"
+    },
+    {
+      "word": "手品",
+      "reading": "てじな",
+      "meaning": "magic (illusion)"
+    },
+    {
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "letter"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "driver"
+    },
+    {
+      "word": "苦情",
+      "reading": "くじょう",
+      "meaning": "complaint"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ぼくはゴキブリが大の苦手だ。",
+      "reading": null,
+      "english": "I'm a coward when it comes to cockroaches.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほうれん草が苦手な人もいます。",
+      "reading": null,
+      "english": "There are people who don't like spinach.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ドイツ語は苦手だ。",
+      "reading": null,
+      "english": "I am weak in German.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そういう話は苦手だ。",
+      "reading": null,
+      "english": "That's not my favorite topic.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "いまだに物理が苦手なのか。",
+      "reading": null,
+      "english": "Are you still having difficulty with physics?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

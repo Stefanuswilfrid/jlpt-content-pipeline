@@ -1,0 +1,159 @@
+{
+  "definition": {
+    "word": "上げる",
+    "reading": "あげる",
+    "romaji": "ageru",
+    "jlpt": "N4",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to raise",
+          "to elevate"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to move something (to a higher place)",
+          "to put onto (e.g. a shelf)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to increase (price, quality, status, etc.)",
+          "to raise (a wage)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to show someone (into a room)",
+          "to let in (e.g. a guest)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to give"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "召し上がる",
+      "reading": "めしあがる",
+      "meaning": "to eat"
+    },
+    {
+      "word": "上がる",
+      "reading": "あがる",
+      "meaning": "to rise"
+    },
+    {
+      "word": "申し上げる",
+      "reading": "もうしあげる",
+      "meaning": "to say"
+    },
+    {
+      "word": "差し上げる",
+      "reading": "さしあげる",
+      "meaning": "to lift up"
+    },
+    {
+      "word": "取り上げる",
+      "reading": "とりあげる",
+      "meaning": "to pick up"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "熱を上げる",
+      "reading": "ねつをあげる",
+      "meaning": "to become enthusiastic",
+      "type": "idiom"
+    },
+    {
+      "word": "音を上げる",
+      "reading": "ねをあげる",
+      "meaning": "to give up",
+      "type": "idiom"
+    },
+    {
+      "word": "棚に上げる",
+      "reading": "たなにあげる",
+      "meaning": "to shut one's eyes to (one's own faults, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "腰を上げる",
+      "reading": "こしをあげる",
+      "meaning": "to get up (from sitting)",
+      "type": "idiom"
+    },
+    {
+      "word": "産声を上げる",
+      "reading": "うぶごえをあげる",
+      "meaning": "to give one's first cry (of a newborn baby)",
+      "type": "idiom"
+    },
+    {
+      "word": "狼煙を上げる",
+      "reading": "のろしをあげる",
+      "meaning": "to start a signal fire",
+      "type": "idiom"
+    },
+    {
+      "word": "暗礁に乗り上げる",
+      "reading": "あんしょうにのりあげる",
+      "meaning": "to run aground",
+      "type": "idiom"
+    },
+    {
+      "word": "重い腰を上げる",
+      "reading": "おもいこしをあげる",
+      "meaning": "to get off one's backside",
+      "type": "idiom"
+    },
+    {
+      "word": "ハードルを上げる",
+      "reading": "ハードルをあげる",
+      "meaning": "to raise the bar",
+      "type": "idiom"
+    },
+    {
+      "word": "自分のことは棚に上げる",
+      "reading": "じぶんのことはたなにあげる",
+      "meaning": "to ignore one's own shortcomings",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "このカメラあげるよ。",
+      "reading": null,
+      "english": "I'll give you this camera.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

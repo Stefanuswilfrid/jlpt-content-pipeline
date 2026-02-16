@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "試す",
+    "reading": "ためす",
+    "romaji": "tamesu",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mencoba",
+          "untuk menguji"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "試験",
+      "reading": "しけん",
+      "meaning": "ujian"
+    },
+    {
+      "word": "試し",
+      "reading": "ためし",
+      "meaning": "percobaan, tes"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "人を試すようなことをしないで。",
+      "reading": null,
+      "indonesian": "Don't test me.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "人を試すようなことをしないで。",
+      "reading": null,
+      "indonesian": "Don't test me.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

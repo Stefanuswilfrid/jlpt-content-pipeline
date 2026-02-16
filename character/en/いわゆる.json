@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "所謂",
+    "reading": "いわゆる",
+    "romaji": "iwayuru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pre-noun adjectival (rentaishi)"
+        ],
+        "meanings": [
+          "what is called",
+          "what you call",
+          "what they call",
+          "so-called"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "所為",
+      "reading": "せい",
+      "meaning": "consequence"
+    },
+    {
+      "word": "停留所",
+      "reading": "ていりゅうじょ",
+      "meaning": "stop (bus, tram, etc.)"
+    },
+    {
+      "word": "言わば",
+      "reading": "いわば",
+      "meaning": "so to speak"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "neighbourhood"
+    },
+    {
+      "word": "役所",
+      "reading": "やくしょ",
+      "meaning": "government office"
+    },
+    {
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "kitchen"
+    },
+    {
+      "word": "所",
+      "reading": "ところ",
+      "meaning": "place"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "フォード氏はいわゆる自力の成功者だ。",
+      "reading": null,
+      "english": "Mr Ford is what is called a self-made man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それがいわゆる「お年玉」よ。",
+      "reading": null,
+      "english": "That's what we call an \"otoshidama\".",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのコンピューターはいわゆるロボットである。",
+      "reading": null,
+      "english": "That computer is what we call a robot.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ジムは、いわゆるぼんやりした学生だ。",
+      "reading": null,
+      "english": "Jim is what is called an absent-minded student.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これがいわゆる「天ぷら」というものです。",
+      "reading": null,
+      "english": "This is what we call \"tempura\".",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "焼く",
+    "reading": "やく",
+    "romaji": "yaku",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "memanggang",
+          "membakar"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to roast",
+          "to broil",
+          "to grill",
+          "to bake",
+          "to toast",
+          "to barbecue"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to heat",
+          "to heat up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make (charcoal, pottery, bricks, etc.)",
+          "to bake",
+          "to fire",
+          "to burn"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tan (i.e. suntan)",
+          "to burn"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "焼ける",
+      "reading": "やける",
+      "meaning": "terbakar, dipanggang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "世話を焼く",
+      "reading": "せわをやく",
+      "meaning": "to take care of someone",
+      "type": "idiom"
+    },
+    {
+      "word": "手を焼く",
+      "reading": "てをやく",
+      "meaning": "to not know what to do with",
+      "type": "idiom"
+    },
+    {
+      "word": "ヤキモチ焼く",
+      "reading": "やきもちやく",
+      "meaning": "to be jealous",
+      "type": "idiom"
+    },
+    {
+      "word": "やきもちを焼く",
+      "reading": "やきもちをやく",
+      "meaning": "to be jealous",
+      "type": "idiom"
+    },
+    {
+      "word": "焼き餅焼くとて手を焼くな",
+      "reading": "やきもちやくとててをやくな",
+      "meaning": "keep your jealousy in check, lest you invite misfortune",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

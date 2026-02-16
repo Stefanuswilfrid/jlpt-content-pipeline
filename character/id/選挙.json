@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "選挙",
+    "reading": "せんきょ",
+    "romaji": "senkyo",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pemilihan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaning": "pemain yang terpilih untuk sebuah tim (biasanya atletik)"
+    },
+    {
+      "word": "選考",
+      "reading": "せんこう",
+      "meaning": "seleksi, penyaringan"
+    },
+    {
+      "word": "選択",
+      "reading": "せんたく",
+      "meaning": "seleksi, pilihan"
+    },
+    {
+      "word": "選ぶ",
+      "reading": "えらぶ",
+      "meaning": "untuk memilih; untuk menyeleksi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "近いうちに選挙があるそうだ。",
+      "reading": null,
+      "indonesian": "It is said that there will be an election soon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会長選挙でだれに投票しますか。",
+      "reading": null,
+      "indonesian": "For whom will you vote for president?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

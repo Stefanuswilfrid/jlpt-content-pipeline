@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "花見",
+    "reading": "はなみ",
+    "romaji": "hanami",
+    "jlpt": "N4",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "cherry blossom viewing",
+          "flower viewing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "sightseeing"
+    },
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "opinion"
+    },
+    {
+      "word": "拝見",
+      "reading": "はいけん",
+      "meaning": "seeing"
+    },
+    {
+      "word": "見送り",
+      "reading": "みおくり",
+      "meaning": "seeing (someone) off"
+    },
+    {
+      "word": "見舞い",
+      "reading": "みまい",
+      "meaning": "visit (to someone affected by illness or misfortune)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お花見に行きませんか？",
+      "reading": null,
+      "english": "Why don't we go and see the cherry blossoms?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お花見に行こうよ。",
+      "reading": null,
+      "english": "Why don't we go and see the cherry blossoms?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お花見に行きませんか？",
+      "reading": null,
+      "english": "Why don't we go and see the cherry blossoms?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

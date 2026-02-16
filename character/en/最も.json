@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "最も",
+    "reading": "もっとも",
+    "romaji": "mottomo",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "most",
+          "extremely"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "recently"
+    },
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaning": "beginning"
+    },
+    {
+      "word": "最低",
+      "reading": "さいてい",
+      "meaning": "least"
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "end"
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "best"
+    },
+    {
+      "word": "最終",
+      "reading": "さいしゅう",
+      "meaning": "last"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "最後に笑う者が最もよく笑う",
+      "reading": "さいごにわらうものがもっともよくわらう",
+      "meaning": "he who laughs last, laughs best",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "まあまあ",
+    "reading": "まあまあ",
+    "romaji": "maamaa",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "so-so",
+          "passable",
+          "not (so) bad",
+          "reasonable"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "now, now",
+          "there, there",
+          "there now"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "my, my",
+          "oh my!",
+          "dear me!"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "「研究はどうですか」「まあまあです」",
+      "reading": null,
+      "english": "\"How's your research coming along?\" \"Not so bad.\"",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "カレーはまあまあでした。",
+      "reading": null,
+      "english": "The curry was nothing special.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "「研究はどうですか」「まあまあです」",
+      "reading": null,
+      "english": "\"How's your research coming along?\" \"Not so bad.\"",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "倒れる",
+    "reading": "たおれる",
+    "romaji": "taoreru",
+    "jlpt": "N4",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "runtuh",
+          "rusak"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be destroyed (in a collapse)",
+          "to collapse",
+          "to cave in",
+          "to crumble",
+          "to give away"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be confined to bed (with an illness)",
+          "to come down with",
+          "to break down (e.g. from overwork)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to die",
+          "to be killed"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go bankrupt (of a company, bank, etc.)",
+          "to fail",
+          "to collapse",
+          "to go under"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "倒産",
+      "reading": "とうさん",
+      "meaning": "(kebangkrutan) perusahaan, insolvensi"
+    },
+    {
+      "word": "面倒",
+      "reading": "めんどう",
+      "meaning": "masalah, perhatian"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "才子、才に倒れる",
+      "reading": "さいし、さいにたおれる",
+      "meaning": "talented men are ruined by their own talent",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

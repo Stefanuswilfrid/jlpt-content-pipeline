@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "像",
+    "reading": "ぞう",
+    "romaji": "zou",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "image",
+          "figure",
+          "statue",
+          "picture",
+          "portrait"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "figure",
+          "form",
+          "shape",
+          "appearance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "image"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "想像",
+      "reading": "そうぞう",
+      "meaning": "imagination"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "偶像崇拝",
+      "reading": "ぐうぞうすうはい",
+      "meaning": "idolatry",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "画像はイメージです",
+      "reading": "がぞうはイメージです",
+      "meaning": "image is for illustrative purposes only",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

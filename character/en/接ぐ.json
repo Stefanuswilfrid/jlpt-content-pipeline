@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "接ぐ",
+    "reading": "つぐ",
+    "romaji": "tsugu",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to join",
+          "to piece together",
+          "to set (bones)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to graft (onto a tree)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "接する",
+      "reading": "せっする",
+      "meaning": "to touch"
+    },
+    {
+      "word": "応接",
+      "reading": "おうせつ",
+      "meaning": "reception (e.g. of visitors)"
+    },
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaning": "direct"
+    },
+    {
+      "word": "面接",
+      "reading": "めんせつ",
+      "meaning": "interview (e.g. for a job)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "木に竹を接ぐ",
+      "reading": "きにたけをつぐ",
+      "meaning": "to sew a fox's skin to the lion's",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

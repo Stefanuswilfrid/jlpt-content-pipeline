@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "首相",
+    "reading": "しゅしょう",
+    "romaji": "shushou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "prime minister",
+          "chancellor (Germany, Austria, etc.)",
+          "premier"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "companion"
+    },
+    {
+      "word": "首都",
+      "reading": "しゅと",
+      "meaning": "capital (city)"
+    },
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "corresponding to (in meaning, function, etc.)"
+    },
+    {
+      "word": "相続",
+      "reading": "そうぞく",
+      "meaning": "succession"
+    },
+    {
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "consultation"
+    },
+    {
+      "word": "相互",
+      "reading": "そうご",
+      "meaning": "mutual"
+    },
+    {
+      "word": "首",
+      "reading": "くび",
+      "meaning": "neck"
+    },
+    {
+      "word": "相撲",
+      "reading": "すもう",
+      "meaning": "sumo (wrestling)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その会議は森首相が司会をした。",
+      "reading": null,
+      "english": "The conference was presided over by Mr Mori.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

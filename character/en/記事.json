@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "記事",
+    "reading": "きじ",
+    "romaji": "kiji",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "article",
+          "news story",
+          "report",
+          "account"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "記者",
+      "reading": "きしゃ",
+      "meaning": "reporter"
+    },
+    {
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "record"
+    },
+    {
+      "word": "事件",
+      "reading": "じけん",
+      "meaning": "event"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fact"
+    },
+    {
+      "word": "事情",
+      "reading": "じじょう",
+      "meaning": "circumstances"
+    },
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "prefectural governor"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "commemoration"
+    },
+    {
+      "word": "記憶",
+      "reading": "きおく",
+      "meaning": "memory"
+    },
+    {
+      "word": "刑事",
+      "reading": "けいじ",
+      "meaning": "(police) detective"
+    },
+    {
+      "word": "見事",
+      "reading": "みごと",
+      "meaning": "splendid"
+    },
+    {
+      "word": "家事",
+      "reading": "かじ",
+      "meaning": "housework"
+    },
+    {
+      "word": "出来事",
+      "reading": "できごと",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "物事",
+      "reading": "ものごと",
+      "meaning": "things"
+    },
+    {
+      "word": "記入",
+      "reading": "きにゅう",
+      "meaning": "entry (in a form, register, diary, etc.)"
+    },
+    {
+      "word": "暗記",
+      "reading": "あんき",
+      "meaning": "memorization"
+    },
+    {
+      "word": "仕事",
+      "reading": "しごと",
+      "meaning": "work"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どの記者も、自分の書いた記事をただちに送信した。",
+      "reading": null,
+      "english": "Every reporter sent his stories with the least possible delay.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

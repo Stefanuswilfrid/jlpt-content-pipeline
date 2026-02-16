@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "証明",
+    "reading": "しょうめい",
+    "romaji": "shoumei",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "proof",
+          "testimony",
+          "demonstration",
+          "verification",
+          "certification"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "声明",
+      "reading": "せいめい",
+      "meaning": "declaration"
+    },
+    {
+      "word": "保証",
+      "reading": "ほしょう",
+      "meaning": "guarantee"
+    },
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "civilization"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "illumination"
+    },
+    {
+      "word": "印",
+      "reading": "しるし",
+      "meaning": "mark"
+    },
+    {
+      "word": "夜明け",
+      "reading": "よあけ",
+      "meaning": "dawn"
+    },
+    {
+      "word": "明かり",
+      "reading": "あかり",
+      "meaning": "light"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "explanation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不在証明",
+      "reading": "ふざいしょうめい",
+      "meaning": "alibi",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

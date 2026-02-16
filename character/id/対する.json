@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "対する",
+    "reading": "たいする",
+    "romaji": "taisuru",
+    "jlpt": "N3",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "menghadapi",
+          "berkonfrontasi",
+          "menentang"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "to be directed toward (the future, etc.)",
+          "to be in response to",
+          "to be related to"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "to receive (a client, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "to compare with",
+          "to contrast with",
+          "to be in opposition with",
+          "to be opposed to"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "to confront",
+          "to oppose",
+          "to compete with"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaning": "sasaran; objek (ibadah, studi, dll.); subjek (misalnya, perpajakan)"
+    },
+    {
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "pasti, tanpa gagal, mutlak"
+    },
+    {
+      "word": "対",
+      "reading": "たい",
+      "meaning": "pasangan, sepasang, satu set"
+    },
+    {
+      "word": "対",
+      "reading": "つい",
+      "meaning": "pasangan, sepasang, satu set"
+    },
+    {
+      "word": "対照",
+      "reading": "たいしょう",
+      "meaning": "kontras, antitesis, perbandingan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の色に対する好みは感心しない。",
+      "reading": null,
+      "indonesian": "I don't like your taste in color.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生に黒人に対するイメージを聞いた。",
+      "reading": null,
+      "indonesian": "I asked the student what image he had of black people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会話にとって機知は食物に対する塩のようなものである。",
+      "reading": null,
+      "indonesian": "Wit is to conversation what salt is to food.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

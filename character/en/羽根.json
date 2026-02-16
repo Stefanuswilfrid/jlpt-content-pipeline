@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "羽",
+    "reading": "はね",
+    "romaji": "hane",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "feather",
+          "plume",
+          "down"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "blade (of a fan, propeller, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shuttlecock (in badminton)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shuttlecock (in hanetsuki)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "arrow feathers"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "羽",
+      "reading": "わ",
+      "meaning": "counter for birds or rabbits"
+    },
+    {
+      "word": "葉書",
+      "reading": "はがき",
+      "meaning": "postcard"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "羽化登仙",
+      "reading": "うかとうせん",
+      "meaning": "a sense of release (as if one had wings and were riding on air)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "羽目を外す",
+      "reading": "はめをはずす",
+      "meaning": "to go over the top",
+      "type": "idiom"
+    },
+    {
+      "word": "積羽沈舟",
+      "reading": "せきうちんしゅう",
+      "meaning": "small things in sufficient quantity can have a large influence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "白羽の矢が立つ",
+      "reading": "しらはのやがたつ",
+      "meaning": "to be selected (from among many people)",
+      "type": "idiom"
+    },
+    {
+      "word": "白羽の矢を立てる",
+      "reading": "しらはのやをたてる",
+      "meaning": "to select someone (out of many people)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "スポーツ屋さんで、バトミントンの羽根を2つ買いました。",
+      "reading": null,
+      "english": "I bought two new shuttlecocks from the sporting goods store.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スポーツ屋さんで、バトミントンの羽根を2つ買いました。",
+      "reading": null,
+      "english": "I bought two new shuttlecocks from the sporting goods store.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "冷静",
+    "reading": "れいせい",
+    "romaji": "reisei",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "tenang",
+          "sejuk"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaning": "tenang, damai"
+    },
+    {
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "lemari es"
+    },
+    {
+      "word": "冷凍",
+      "reading": "れいとう",
+      "meaning": "pembekuan, penyimpanan dingin, pendinginan"
+    },
+    {
+      "word": "冷ます",
+      "reading": "さます",
+      "meaning": "mendinginkan, membiarkan dingin"
+    },
+    {
+      "word": "冷房",
+      "reading": "れいぼう",
+      "meaning": "pendingin, pendingin udara"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "沈着冷静",
+      "reading": "ちんちゃくれいせい",
+      "meaning": "calm, cool, and collected",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "冷静沈着",
+      "reading": "れいせいちんちゃく",
+      "meaning": "calm, cool, and collected",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はもっと冷静に行動すべきだ。",
+      "reading": null,
+      "indonesian": "You should act more calmly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何が起こっても冷静にしていなさい。",
+      "reading": null,
+      "indonesian": "Whatever happens, keep calm.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "マイクはいつでも冷静だ。",
+      "reading": null,
+      "indonesian": "Mike always stays cool.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たとえ何が起ころうと、冷静でなければならない。",
+      "reading": null,
+      "indonesian": "Whatever happens, you must keep calm.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "よく冷静でいられたね。",
+      "reading": null,
+      "indonesian": "I admire you for keeping your head.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

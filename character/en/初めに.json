@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "初めに",
+    "reading": "はじめに",
+    "romaji": "hajimeni",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "first",
+          "firstly",
+          "first of all",
+          "to begin with",
+          "in the beginning",
+          "at the beginning"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "Introduction",
+          "Preface"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "初旬",
+      "reading": "しょじゅん",
+      "meaning": "first 10 days of the month"
+    },
+    {
+      "word": "初歩",
+      "reading": "しょほ",
+      "meaning": "basics"
+    },
+    {
+      "word": "初級",
+      "reading": "しょきゅう",
+      "meaning": "elementary level"
+    },
+    {
+      "word": "初めて",
+      "reading": "はじめて",
+      "meaning": "for the first time"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "まず初めに、名前を書きなさい。",
+      "reading": null,
+      "english": "Write your name, first of all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まず、初めに、この本を読まなければならない。",
+      "reading": null,
+      "english": "First of all, you have to read this book.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この方は、初めに神とともにおられた。",
+      "reading": null,
+      "english": "He was with God in the beginning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはそれを初めに言っとくべきだった。",
+      "reading": null,
+      "english": "You should have mentioned it at the outset.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "文の初めには大文字が用いられる。",
+      "reading": null,
+      "english": "A capital letter is used at the beginning of a sentence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "神、初めに天と地を創り給えり。",
+      "reading": null,
+      "english": "In the beginning God created the heaven and the earth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

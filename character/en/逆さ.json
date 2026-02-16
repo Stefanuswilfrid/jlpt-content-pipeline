@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "逆さ",
+    "reading": "さかさ",
+    "romaji": "sakasa",
+    "jlpt": "N2",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "inverted",
+          "upside down",
+          "reversed",
+          "back to front"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "逆転",
+      "reading": "ぎゃくてん",
+      "meaning": "reversal (of a situation)"
+    },
+    {
+      "word": "逆",
+      "reading": "ぎゃく",
+      "meaning": "reverse"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "逆さまに向きを変えてください。",
+      "reading": null,
+      "english": "Please turn over.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それを逆さまに持ってはいけません。",
+      "reading": null,
+      "english": "Don't hold it upside down.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その絵は逆さまにかかっている。",
+      "reading": null,
+      "english": "The picture is hung upside down.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "逆さまつげがあります。",
+      "reading": null,
+      "english": "I have in-growing eyelashes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "事故のあと、その車は道に逆さまに横たわっていた。",
+      "reading": null,
+      "english": "After the accident, the car lay in the street upside down.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "逆さまに向きを変えてください。",
+      "reading": null,
+      "english": "Please turn over.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

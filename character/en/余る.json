@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "余る",
+    "reading": "あまる",
+    "romaji": "amaru",
+    "jlpt": "N2",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to remain",
+          "to be left over",
+          "to be in excess",
+          "to be too many"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "余所",
+      "reading": "よそ",
+      "meaning": "another place"
+    },
+    {
+      "word": "余計",
+      "reading": "よけい",
+      "meaning": "extra"
+    },
+    {
+      "word": "余程",
+      "reading": "よほど",
+      "meaning": "very"
+    },
+    {
+      "word": "余り",
+      "reading": "あまり",
+      "meaning": "remainder"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もし手に余るようなことがあれば、私に助けを求めなさい。",
+      "reading": null,
+      "english": "If you have any difficulty, ask me for help.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは身に余る光栄でございます。",
+      "reading": null,
+      "english": "The honor is more than I deserve.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは私の力に余る仕事です。",
+      "reading": null,
+      "english": "It is a task beyond my power.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは私の手に余る。",
+      "reading": null,
+      "english": "It's beyond me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この仕事は私の力に余る。",
+      "reading": null,
+      "english": "This work is beyond me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この仕事は私の手に余る。",
+      "reading": null,
+      "english": "This job is too much for me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "弟の乱暴はこのごろ目に余る。",
+      "reading": null,
+      "english": "My brother has been much too rowdy lately.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "身に余る栄光。",
+      "reading": null,
+      "english": "The honor you are giving me is more than I deserve.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "昨年は有り余る程の米が生産された。",
+      "reading": null,
+      "english": "An abundance of rice was produced last year.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

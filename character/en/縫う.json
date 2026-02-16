@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "縫う",
+    "reading": "ぬう",
+    "romaji": "nuu",
+    "jlpt": "N2",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sew",
+          "to stitch"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to weave one's way (e.g. through a crowd)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "裁縫",
+      "reading": "さいほう",
+      "meaning": "sewing"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "合間を縫う",
+      "reading": "あいまをぬう",
+      "meaning": "to make good use of one's spare moments",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

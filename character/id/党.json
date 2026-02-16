@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "党",
+    "reading": "とう",
+    "romaji": "tou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "partai (politik)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "person who is fond of",
+          "fan of"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "野党",
+      "reading": "やとう",
+      "meaning": "partai oposisi"
+    },
+    {
+      "word": "政党",
+      "reading": "せいとう",
+      "meaning": "(anggota) partai politik"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不偏不党",
+      "reading": "ふへんふとう",
+      "meaning": "impartiality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "党利党略",
+      "reading": "とうりとうりゃく",
+      "meaning": "party political interests",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一族郎党",
+      "reading": "いちぞくろうとう",
+      "meaning": "one's family and followers",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一味徒党",
+      "reading": "いちみととう",
+      "meaning": "whole party to a plot",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "党同伐異",
+      "reading": "とうどうばつい",
+      "meaning": "narrow partisanship",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "早速",
+    "reading": "さっそく",
+    "romaji": "sassoku",
+    "jlpt": "N2",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "at once",
+          "immediately",
+          "without delay",
+          "promptly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "速達",
+      "reading": "そくたつ",
+      "meaning": "express"
+    },
+    {
+      "word": "時速",
+      "reading": "じそく",
+      "meaning": "speed (per hour)"
+    },
+    {
+      "word": "加速",
+      "reading": "かそく",
+      "meaning": "acceleration"
+    },
+    {
+      "word": "早口",
+      "reading": "はやくち",
+      "meaning": "fast-talking"
+    },
+    {
+      "word": "加速度",
+      "reading": "かそくど",
+      "meaning": "acceleration"
+    },
+    {
+      "word": "速力",
+      "reading": "そくりょく",
+      "meaning": "speed"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "早速には返事をしかねます。",
+      "reading": null,
+      "english": "I can not give you an immediate answer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "材料",
+    "reading": "ざいりょう",
+    "romaji": "zairyou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bahan",
+          "material"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "material (for a novel, experiment, etc.)",
+          "subject matter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "grounds (for a decision, judgement, etc.)",
+          "basis",
+          "evidence",
+          "data"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(market) factor"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "gratis, tanpa biaya"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "biaya, pungutan, tarif"
+    },
+    {
+      "word": "食料",
+      "reading": "しょくりょう",
+      "meaning": "makanan"
+    },
+    {
+      "word": "給料",
+      "reading": "きゅうりょう",
+      "meaning": "gaji, upah"
+    },
+    {
+      "word": "衣料",
+      "reading": "いりょう",
+      "meaning": "pakaian"
+    },
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "buku pelajaran"
+    },
+    {
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "bahan, data"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "memasak; kuliner"
+    },
+    {
+      "word": "木材",
+      "reading": "もくざい",
+      "meaning": "kayu gelondongan, kayu gelondongan, kayu"
+    },
+    {
+      "word": "原料",
+      "reading": "げんりょう",
+      "meaning": "bahan baku"
+    },
+    {
+      "word": "有料",
+      "reading": "ゆうりょう",
+      "meaning": "tiket masuk berbayar, tol"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "材料は何ですか？",
+      "reading": null,
+      "indonesian": "What are they made of?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その小説家は本を書くために材料を集めた。",
+      "reading": null,
+      "indonesian": "The novelist gathered materials for his work.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すぐれた材料で作られた家具は、売れ行きがよい。",
+      "reading": null,
+      "indonesian": "Furniture made of good materials sells well.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すき焼きはどんな材料を使うのですか。",
+      "reading": null,
+      "indonesian": "What is sukiyaki made of?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このケーキは最高の材料で作られている。",
+      "reading": null,
+      "indonesian": "This cake is made of the finest ingredients.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このＢＬＴという料理は、どんな材料なのですか。",
+      "reading": null,
+      "indonesian": "This food called BLT; what's in it?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "何で",
+    "reading": "なんで",
+    "romaji": "nande",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "why?",
+          "what for?"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "how?",
+          "by what means?"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    },
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あの方が言われる事を、何でもしてあげて下さい。",
+      "reading": null,
+      "english": "Do whatever he tells you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何ですか。",
+      "reading": null,
+      "english": "What do you want?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "勝手に何でも使って。",
+      "reading": null,
+      "english": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あの方が言われる事を、何でもしてあげて下さい。",
+      "reading": null,
+      "english": "Do whatever he tells you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの方が言われる事を、何でもしてあげて下さい。",
+      "reading": null,
+      "english": "Please do whatever that person tells you to do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

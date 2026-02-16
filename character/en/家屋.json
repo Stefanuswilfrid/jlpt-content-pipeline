@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "家屋",
+    "reading": "かおく",
+    "romaji": "kaoku",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "house",
+          "building"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "屋外",
+      "reading": "おくがい",
+      "meaning": "outdoors"
+    },
+    {
+      "word": "家主",
+      "reading": "やぬし",
+      "meaning": "landlord"
+    },
+    {
+      "word": "貸家",
+      "reading": "かしや",
+      "meaning": "house for rent"
+    },
+    {
+      "word": "屋根",
+      "reading": "やね",
+      "meaning": "roof"
+    },
+    {
+      "word": "家事",
+      "reading": "かじ",
+      "meaning": "housework"
+    },
+    {
+      "word": "家賃",
+      "reading": "やちん",
+      "meaning": "rent"
+    },
+    {
+      "word": "実家",
+      "reading": "じっか",
+      "meaning": "(one's parents') home"
+    },
+    {
+      "word": "家具",
+      "reading": "かぐ",
+      "meaning": "furniture"
+    },
+    {
+      "word": "家計",
+      "reading": "かけい",
+      "meaning": "household economy"
+    },
+    {
+      "word": "小屋",
+      "reading": "こや",
+      "meaning": "hut"
+    },
+    {
+      "word": "屋上",
+      "reading": "おくじょう",
+      "meaning": "rooftop"
+    },
+    {
+      "word": "屋敷",
+      "reading": "やしき",
+      "meaning": "residence"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これは木造家屋です。",
+      "reading": null,
+      "english": "This is a wooden house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの家屋は築５００年です。",
+      "reading": null,
+      "english": "Those houses are 500 years old.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "木造家屋は燃えやすい。",
+      "reading": null,
+      "english": "Wooden houses easily catch fire.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "木造家屋は簡単に燃える。",
+      "reading": null,
+      "english": "A wooden building can easily catch fire.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "木造家屋は火がつきやすい。",
+      "reading": null,
+      "english": "Wooden houses catch fire easily.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本の家屋は木造で、火がつきやすい。",
+      "reading": null,
+      "english": "Japanese houses are built of wood and they catch fire easily.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本の家屋は大部分が木造です。",
+      "reading": null,
+      "english": "Most Japanese houses are built of wood.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

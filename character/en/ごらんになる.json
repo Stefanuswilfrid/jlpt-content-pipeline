@@ -1,0 +1,45 @@
+{
+  "definition": {
+    "word": "ご覧になる",
+    "reading": "ごらんになる",
+    "romaji": "goranninaru",
+    "jlpt": "N4",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "Godan verb with 'ru' ending"
+        ],
+        "meanings": [
+          "to see",
+          "to look",
+          "to watch"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Godan verb with 'ru' ending"
+        ],
+        "meanings": [
+          "to try to ..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "展覧会",
+      "reading": "てんらんかい",
+      "meaning": "exhibition"
+    },
+    {
+      "word": "見る",
+      "reading": "みる",
+      "meaning": "to see"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

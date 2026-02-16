@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "傾く",
+    "reading": "かたむく",
+    "romaji": "katamuku",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "condong ke arah",
+          "miring",
+          "terhuyung-huyung"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go down (sun, moon)",
+          "to sink"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to decline",
+          "to wane",
+          "to ebb",
+          "to fall away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to tend (towards)",
+          "to be inclined (to)",
+          "to come around to (opinion, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "傾斜",
+      "reading": "けいしゃ",
+      "meaning": "kemiringan, lereng, penurunan"
+    },
+    {
+      "word": "斜め",
+      "reading": "ななめ",
+      "meaning": "diagonal, miring"
+    },
+    {
+      "word": "傾ける",
+      "reading": "かたむける",
+      "meaning": "condong, miring, membengkokkan"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

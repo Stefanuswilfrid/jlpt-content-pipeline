@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "日記",
+    "reading": "にっき",
+    "romaji": "nikki",
+    "jlpt": "N4",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "buku harian",
+          "jurnal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "日",
+      "reading": "ひ",
+      "meaning": "hari"
+    },
+    {
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "Minggu"
+    },
+    {
+      "word": "日",
+      "reading": "にち",
+      "meaning": "hari"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "hari ini, hari ini"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "peringatan, kenangan"
+    },
+    {
+      "word": "日常",
+      "reading": "にちじょう",
+      "meaning": "biasa, teratur, sehari-hari"
+    },
+    {
+      "word": "日中",
+      "reading": "にっちゅう",
+      "meaning": "siang hari, terang benderang"
+    },
+    {
+      "word": "曜日",
+      "reading": "ようび",
+      "meaning": "hari dalam seminggu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "日記をつけていますか。",
+      "reading": null,
+      "indonesian": "Do you keep a diary?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ところであなたがたの中で何人日記をつけていますか。",
+      "reading": null,
+      "indonesian": "By the way, how many of you are keeping a diary?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけなければならない。",
+      "reading": null,
+      "indonesian": "We must keep a diary every day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけなければならない。",
+      "reading": null,
+      "indonesian": "I must write in my diary every day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけている。",
+      "reading": null,
+      "indonesian": "I keep a diary every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "毎日日記をつけている。",
+      "reading": null,
+      "indonesian": "I write in my diary every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "父は毎日日記をつけている。",
+      "reading": null,
+      "indonesian": "Father keeps a diary every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

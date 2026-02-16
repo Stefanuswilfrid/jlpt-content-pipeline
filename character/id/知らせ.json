@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "知らせ",
+    "reading": "しらせ",
+    "romaji": "shirase",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "melihat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "omen",
+          "foreboding",
+          "premonition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "知恵",
+      "reading": "ちえ",
+      "meaning": "kebijaksanaan, kecerdasan, kepintaran"
+    },
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "gubernur prefektur"
+    },
+    {
+      "word": "知識",
+      "reading": "ちしき",
+      "meaning": "pengetahuan, informasi"
+    },
+    {
+      "word": "知能",
+      "reading": "ちのう",
+      "meaning": "kecerdasan, otak"
+    },
+    {
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "pemberitahuan, notifikasi"
+    },
+    {
+      "word": "承知",
+      "reading": "しょうち",
+      "meaning": "persetujuan, penerimaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "虫の知らせ",
+      "reading": "むしのしらせ",
+      "meaning": "feeling in one's bones",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "便りがないのは良い知らせ。",
+      "reading": null,
+      "indonesian": "No news is good news.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は帰国のことを友人に知らせたのか。",
+      "reading": null,
+      "indonesian": "Did you inform your friends of your home-coming?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその結果を上役に知らせなくてはならない。",
+      "reading": null,
+      "indonesian": "You must inform your superior of the results.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

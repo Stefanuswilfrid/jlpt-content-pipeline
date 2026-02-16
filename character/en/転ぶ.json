@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "転ぶ",
+    "reading": "ころぶ",
+    "romaji": "korobu",
+    "jlpt": "N3",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to fall down",
+          "to fall over"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to turn out",
+          "to play out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to abandon Christianity (and convert to Buddhism)",
+          "to apostatize"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to roll",
+          "to tumble"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "転校",
+      "reading": "てんこう",
+      "meaning": "changing schools"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operation (of a machine)"
+    },
+    {
+      "word": "移転",
+      "reading": "いてん",
+      "meaning": "moving"
+    },
+    {
+      "word": "回転",
+      "reading": "かいてん",
+      "meaning": "rotation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "数歩先で小さな子がつまずいて転ぶのを見た。",
+      "reading": null,
+      "english": "I saw a little boy fall over a few steps ahead.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "数歩先で小さな子がつまずいて転ぶのを見た。",
+      "reading": null,
+      "english": "I saw a little boy fall over a few steps ahead.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

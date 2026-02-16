@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "除く",
+    "reading": "のぞく",
+    "romaji": "nozoku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menghapus",
+          "untuk mengecualikan",
+          "untuk memisahkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to exclude",
+          "to except",
+          "to leave out",
+          "to omit"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to kill (a traitor, opponent, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "避ける",
+      "reading": "さける",
+      "meaning": "untuk menghindari (kontak fisik dengan); untuk menangkis, untuk mencegah"
+    },
+    {
+      "word": "掃除",
+      "reading": "そうじ",
+      "meaning": "membersihkan, menyapu"
+    },
+    {
+      "word": "削除",
+      "reading": "さくじょ",
+      "meaning": "penghapusan, pemusnahan"
+    },
+    {
+      "word": "退ける",
+      "reading": "のける",
+      "meaning": "untuk menyingkirkan, untuk memindahkan sesuatu"
+    },
+    {
+      "word": "徐々に",
+      "reading": "じょじょに",
+      "meaning": "perlahan, sedikit demi sedikit"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

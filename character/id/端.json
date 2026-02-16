@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "端",
+    "reading": "はし",
+    "romaji": "hashi",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ujung (misalnya",
+          "ujung jalan)",
+          "tepi",
+          "margin"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "beginning",
+          "start",
+          "first"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "odds and ends",
+          "scrap",
+          "odd bit",
+          "least"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "途端",
+      "reading": "とたん",
+      "meaning": "baru saja (sekarang, saat ini, dll.)"
+    },
+    {
+      "word": "先端",
+      "reading": "せんたん",
+      "meaning": "ujung runcing, puncak"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "sederhana"
+    },
+    {
+      "word": "葉書",
+      "reading": "はがき",
+      "meaning": "kartu pos"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "中途半端",
+      "reading": "ちゅうとはんぱ",
+      "meaning": "halfway",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "多事多端",
+      "reading": "たじたたん",
+      "meaning": "eventfulness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "容姿端麗",
+      "reading": "ようしたんれい",
+      "meaning": "attractive face and figure",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "諸事万端",
+      "reading": "しょじばんたん",
+      "meaning": "everything",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異端邪説",
+      "reading": "いたんじゃせつ",
+      "meaning": "heretical doctrine (thought, faith)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "万事万端",
+      "reading": "ばんじばんたん",
+      "meaning": "everything",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "首鼠両端",
+      "reading": "しゅそりょうたん",
+      "meaning": "being unable to make up one's mind",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "千緒万端",
+      "reading": "せんしょばんたん",
+      "meaning": "all sorts of things",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "犬の川端歩き",
+      "reading": "いぬのかわばたあるき",
+      "meaning": "window-shopping without any money",
+      "type": "idiom"
+    },
+    {
+      "word": "崖端歩き",
+      "reading": "がけばたあるき",
+      "meaning": "taking unnecessary risks",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

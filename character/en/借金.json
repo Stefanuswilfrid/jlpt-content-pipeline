@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "借金",
+    "reading": "しゃっきん",
+    "romaji": "shakkin",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "debt",
+          "loan",
+          "liabilities",
+          "borrowing money"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "number of games under the .500 mark"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "金融",
+      "reading": "きんゆう",
+      "meaning": "finance"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "fee"
+    },
+    {
+      "word": "金額",
+      "reading": "きんがく",
+      "meaning": "amount of money"
+    },
+    {
+      "word": "現金",
+      "reading": "げんきん",
+      "meaning": "cash"
+    },
+    {
+      "word": "金属",
+      "reading": "きんぞく",
+      "meaning": "metal"
+    },
+    {
+      "word": "貯金",
+      "reading": "ちょきん",
+      "meaning": "putting money aside"
+    },
+    {
+      "word": "税金",
+      "reading": "ぜいきん",
+      "meaning": "tax"
+    },
+    {
+      "word": "代金",
+      "reading": "だいきん",
+      "meaning": "price"
+    },
+    {
+      "word": "金銭",
+      "reading": "きんせん",
+      "meaning": "money"
+    },
+    {
+      "word": "金庫",
+      "reading": "きんこ",
+      "meaning": "safe"
+    },
+    {
+      "word": "金",
+      "reading": "かね",
+      "meaning": "money"
+    },
+    {
+      "word": "金",
+      "reading": "きん",
+      "meaning": "gold (metal)"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaning": "scholarship"
+    },
+    {
+      "word": "借り",
+      "reading": "かり",
+      "meaning": "borrowing"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は借金を返さなければならない。",
+      "reading": null,
+      "english": "You should pay back your debts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "借金は返さなきゃダメだよ。",
+      "reading": null,
+      "english": "You should pay your debts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まず第一に、君は借金を全部返してしまわなければならない。",
+      "reading": null,
+      "english": "In the first place, you all have to pay a debt first.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "クレジットカードを使うとあっという間に借金をつくりやすい。",
+      "reading": null,
+      "english": "It's easy to get into debt quickly with charge cards.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

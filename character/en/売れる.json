@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "売れる",
+    "reading": "うれる",
+    "romaji": "ureru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to sell (well)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be well known",
+          "to be popular",
+          "to be famous"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "商売",
+      "reading": "しょうばい",
+      "meaning": "trade"
+    },
+    {
+      "word": "売り切れる",
+      "reading": "うりきれる",
+      "meaning": "to be sold out"
+    },
+    {
+      "word": "販売",
+      "reading": "はんばい",
+      "meaning": "sale"
+    },
+    {
+      "word": "売り場",
+      "reading": "うりば",
+      "meaning": "selling area"
+    },
+    {
+      "word": "売る",
+      "reading": "うる",
+      "meaning": "to sell"
+    },
+    {
+      "word": "売り切れ",
+      "reading": "うりきれ",
+      "meaning": "sold-out"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "顔が売れる",
+      "reading": "かおがうれる",
+      "meaning": "to be widely recognized",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この本はよく売れるはずだ。",
+      "reading": null,
+      "english": "This book ought to be a good seller.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この本はよく売れる。",
+      "reading": null,
+      "english": "This book sells well.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "この車はよく売れる。",
+      "reading": null,
+      "english": "This car sells well.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "日本車は海外でよく売れる。",
+      "reading": null,
+      "english": "Japanese cars sell well overseas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

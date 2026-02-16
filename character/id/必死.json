@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "必死",
+    "reading": "ひっし",
+    "romaji": "hisshi",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "keputusasaan",
+          "panik",
+          "hasil yang tak terhindarkan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "inevitable death"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "brinkmate (inevitable checkmate)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "死",
+      "reading": "し",
+      "meaning": "kematian, wafat"
+    },
+    {
+      "word": "死亡",
+      "reading": "しぼう",
+      "meaning": "kematian"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaning": "diperlukan"
+    },
+    {
+      "word": "死体",
+      "reading": "したい",
+      "meaning": "mayat"
+    },
+    {
+      "word": "必需品",
+      "reading": "ひつじゅひん",
+      "meaning": "kebutuhan pokok, penting"
+    },
+    {
+      "word": "必ずしも",
+      "reading": "かならずしも",
+      "meaning": "(tidak) selalu, (tidak) perlu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学生は当然必死に勉強するはずだ。",
+      "reading": null,
+      "indonesian": "Students are supposed to study hard.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

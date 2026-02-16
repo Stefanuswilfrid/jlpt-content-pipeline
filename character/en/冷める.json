@@ -1,0 +1,161 @@
+{
+  "definition": {
+    "word": "冷める",
+    "reading": "さめる",
+    "romaji": "sameru",
+    "jlpt": "N3",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to cool down",
+          "to get cold"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to cool off (excitement, temper, etc.)",
+          "to subside",
+          "to dampen",
+          "to fade",
+          "to wane"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be cold (eyes, expression, etc.)",
+          "to be composed"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "冷える",
+      "reading": "ひえる",
+      "meaning": "to grow cold"
+    },
+    {
+      "word": "冷やす",
+      "reading": "ひやす",
+      "meaning": "to cool"
+    },
+    {
+      "word": "冷静",
+      "reading": "れいせい",
+      "meaning": "calmness"
+    },
+    {
+      "word": "冷ます",
+      "reading": "さます",
+      "meaning": "to cool (e.g. from a high temperature to room temperature)"
+    },
+    {
+      "word": "冷たい",
+      "reading": "つめたい",
+      "meaning": "cold (to the touch)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ほとぼりが冷める",
+      "reading": "ほとぼりがさめる",
+      "meaning": "the heat is off",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "愛が冷めると、欠点が多く目に付いてくる。",
+      "reading": null,
+      "english": "Faults are thick where love is thin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "愛が冷めると、欠点が多く目に付いてくる。",
+      "reading": null,
+      "english": "Faults are thick where love is thin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夕飯、冷める前に食べてよ。",
+      "reading": null,
+      "english": "Eat your dinner before it gets cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スープが冷めるわよ。",
+      "reading": null,
+      "english": "Your soup's getting cold.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "夕飯、冷める前に食べてよ。",
+      "reading": null,
+      "english": "Eat your dinner before it gets cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お茶が冷めるよ。",
+      "reading": null,
+      "english": "Your tea's getting cold.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "スープが冷めるわよ。",
+      "reading": null,
+      "english": "Your soup's getting cold.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ほとぼりが冷めるまでは、しばらく大人しくしていた方がいいよ。",
+      "reading": null,
+      "english": "You'd best lay low for a while until the heat dies down.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほとぼりが冷めるまでは、しばらく大人しくしていた方がいいよ。",
+      "reading": null,
+      "english": "You'd best lay low for a while until the heat dies down.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お茶が冷めるよ。",
+      "reading": null,
+      "english": "Your tea's getting cold.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

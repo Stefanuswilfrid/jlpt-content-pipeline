@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "包む",
+    "reading": "くるむ",
+    "romaji": "kurumu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "diselimuti oleh",
+          "membungkus"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "包帯",
+      "reading": "ほうたい",
+      "meaning": "perban"
+    },
+    {
+      "word": "包む",
+      "reading": "つつむ",
+      "meaning": "membungkus, menutupi"
+    },
+    {
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaning": "pengemasan, pembungkusan"
+    },
+    {
+      "word": "包丁",
+      "reading": "ほうちょう",
+      "meaning": "pisau dapur, pisau ukir"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "オブラートに包む",
+      "reading": "オブラートにつつむ",
+      "meaning": "to say in a round-about way (not to upset)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "乗り換え",
+    "reading": "のりかえ",
+    "romaji": "norikae",
+    "jlpt": "N2",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "perpindahan (misalnya",
+          "kereta api",
+          "bus)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "switch (to another ideology, party, system, method, etc.)",
+          "change",
+          "conversion"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "switching (stock)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "chromosomal crossover",
+          "crossing over"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "乗車",
+      "reading": "じょうしゃ",
+      "meaning": "naik kereta api, memasuki kereta"
+    },
+    {
+      "word": "換気",
+      "reading": "かんき",
+      "meaning": "ventilasi"
+    },
+    {
+      "word": "乗り越し",
+      "reading": "のりこし",
+      "meaning": "melewati (stasiun seseorang)"
+    },
+    {
+      "word": "着替え",
+      "reading": "きがえ",
+      "meaning": "mengganti pakaian, pakaian ganti"
+    },
+    {
+      "word": "乗り物",
+      "reading": "のりもの",
+      "meaning": "kendaraan"
+    },
+    {
+      "word": "乗る",
+      "reading": "のる",
+      "meaning": "untuk naik, untuk menumpang, untuk menaiki"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "牛を馬に乗り換える",
+      "reading": "うしをうまにのりかえる",
+      "meaning": "to go from (using, etc.) something bad to something good",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

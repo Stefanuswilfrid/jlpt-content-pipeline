@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "感じ",
+    "reading": "かんじ",
+    "romaji": "kanji",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perasaan",
+          "indra",
+          "kesan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "indra, sensasi"
+    },
+    {
+      "word": "感情",
+      "reading": "かんじょう",
+      "meaning": "emosi, perasaan, sentimen"
+    },
+    {
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "kesan (seseorang), pikiran (seseorang)"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "sangat terharu, gembira"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "terima kasih, rasa syukur"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "kekaguman"
+    },
+    {
+      "word": "実感",
+      "reading": "じっかん",
+      "meaning": "perasaan, kesadaran"
+    },
+    {
+      "word": "感激",
+      "reading": "かんげき",
+      "meaning": "emosi mendalam, kesan, inspirasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "空の感じでは、午後には晴れそうですよ。",
+      "reading": null,
+      "indonesian": "Judging from the look of the sky, it will clear up in the afternoon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金の必要を感じる。",
+      "reading": null,
+      "indonesian": "I feel the want of money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "休息をすれば必ず気分がさわやかに感じる。",
+      "reading": null,
+      "indonesian": "If we were to rest a little, we would feel surely feel much more refreshed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒さを感じませんか。",
+      "reading": null,
+      "indonesian": "Don't you feel cold?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "寒くて手の感じがまるでない。",
+      "reading": null,
+      "indonesian": "My hands are numb from the cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

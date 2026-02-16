@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "メニュー",
+    "reading": "メニュー",
+    "romaji": "menyuu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "menu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "schedule",
+          "program",
+          "programme",
+          "course",
+          "services"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "menu"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もう一度メニューを見せていただけますか。",
+      "reading": null,
+      "indonesian": "Can I have the menu again, please?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう一度メニューをお願いします。",
+      "reading": null,
+      "indonesian": "Can I have the menu again, please?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メニューを見せて下さい。",
+      "reading": null,
+      "indonesian": "Please let me take a look at the menu.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メニューをいただけますか。",
+      "reading": null,
+      "indonesian": "May I have the menu, please?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "メニューをお願いします。",
+      "reading": null,
+      "indonesian": "Let me see a menu.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メニューを見せていただけませんか。",
+      "reading": null,
+      "indonesian": "May I see a menu, please?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メニューの中から何でも欲しい料理を選びなさい。",
+      "reading": null,
+      "indonesian": "Choose whatever dish you want from the menu.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ビュッフェのメニューを見せていただけますか。",
+      "reading": null,
+      "indonesian": "Could you show me what you're serving in the buffet?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これはメニューに書かれてあった内容とちがっています。",
+      "reading": null,
+      "indonesian": "This isn't what was written on the menu.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "朝食のメニューの中から注文してもいいですか。",
+      "reading": null,
+      "indonesian": "Can I order from the breakfast menu?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

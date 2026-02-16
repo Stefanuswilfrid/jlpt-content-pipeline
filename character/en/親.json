@@ -1,0 +1,213 @@
+{
+  "definition": {
+    "word": "親",
+    "reading": "おや",
+    "romaji": "oya",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "parent",
+          "parents",
+          "mother and father"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dealer",
+          "banker"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "founder",
+          "inventor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(pet) owner"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "key",
+          "parent (organization)",
+          "main"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaning": "kind"
+    },
+    {
+      "word": "父親",
+      "reading": "ちちおや",
+      "meaning": "father"
+    },
+    {
+      "word": "母親",
+      "reading": "ははおや",
+      "meaning": "mother"
+    },
+    {
+      "word": "両親",
+      "reading": "りょうしん",
+      "meaning": "parents"
+    },
+    {
+      "word": "親友",
+      "reading": "しんゆう",
+      "meaning": "close friend"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "親の七光り",
+      "reading": "おやのななひかり",
+      "meaning": "benefiting from the fame or influence of a parent",
+      "type": "idiom"
+    },
+    {
+      "word": "親子丼",
+      "reading": "おやこどん",
+      "meaning": "oyakodon",
+      "type": "expression"
+    },
+    {
+      "word": "親戚知己",
+      "reading": "しんせきちき",
+      "meaning": "relatives and acquaintances",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "親類縁者",
+      "reading": "しんるいえんじゃ",
+      "meaning": "one's relatives by blood and marriage (in blood and law)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "内疎外親",
+      "reading": "ないそがいしん",
+      "meaning": "superficially cordial but actually uninterested",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "怨親平等",
+      "reading": "おんしんびょうどう",
+      "meaning": "care equally for friends and foes",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "子は親の鏡",
+      "reading": "こはおやのかがみ",
+      "meaning": "children are a reflection of their parents",
+      "type": "proverb"
+    },
+    {
+      "word": "子供は親の鏡",
+      "reading": "こどもはおやのかがみ",
+      "meaning": "children are a reflection of their parents",
+      "type": "proverb"
+    },
+    {
+      "word": "地震雷火事親父",
+      "reading": "じしんかみなりかじおやじ",
+      "meaning": "things to fear: earthquakes, thunder, fires and, most of all, fathers",
+      "type": "proverb"
+    },
+    {
+      "word": "親のすねをかじる",
+      "reading": "おやのすねをかじる",
+      "meaning": "to depend on one's parents' (financial) support",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "親友は何人いる？",
+      "reading": null,
+      "english": "How many close friends do you have?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "親切にしてやればつけあがる。",
+      "reading": null,
+      "english": "Give him an inch and he'll take a yard.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "親が親なら子も子。",
+      "reading": null,
+      "english": "Like father, like son.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この親にしてこの子あり。",
+      "reading": null,
+      "english": "Like father, like son.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "親友は何人いる？",
+      "reading": null,
+      "english": "How many close friends do you have?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "親切にしてやればつけあがる。",
+      "reading": null,
+      "english": "Give him an inch and he'll take a yard.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何とあなたは親切なのだろう。",
+      "reading": null,
+      "english": "How kind you are!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたはなんて親切なんでしょう。",
+      "reading": null,
+      "english": "How kind you are!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "悲しむ",
+    "reading": "かなしむ",
+    "romaji": "kanashimu",
+    "jlpt": "N3",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "merasa sedih",
+          "berduka cita",
+          "menyesal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "悲劇",
+      "reading": "ひげき",
+      "meaning": "tragedi"
+    },
+    {
+      "word": "恋",
+      "reading": "こい",
+      "meaning": "cinta, gairah lembut"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "兎死すれば狐これを悲しむ",
+      "reading": "うさぎしすればきつねこれをかなしむ",
+      "meaning": "people have sympathy for kindred in distress",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "なんでそんなに悲しむの。",
+      "reading": null,
+      "indonesian": "Why should you be so sad?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "悲しむことなんてないでしょう。",
+      "reading": null,
+      "indonesian": "Why should you be sad?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なんでそんなに悲しむの。",
+      "reading": null,
+      "indonesian": "Why should you be so sad?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "悲しむことなんてないでしょう。",
+      "reading": null,
+      "indonesian": "Why should you be sad?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

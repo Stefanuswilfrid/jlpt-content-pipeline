@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "友好",
+    "reading": "ゆうこう",
+    "romaji": "yuukou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "friendship"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "友人",
+      "reading": "ゆうじん",
+      "meaning": "friend"
+    },
+    {
+      "word": "友",
+      "reading": "とも",
+      "meaning": "friend"
+    },
+    {
+      "word": "好み",
+      "reading": "このみ",
+      "meaning": "liking"
+    },
+    {
+      "word": "友情",
+      "reading": "ゆうじょう",
+      "meaning": "friendship"
+    },
+    {
+      "word": "親友",
+      "reading": "しんゆう",
+      "meaning": "close friend"
+    },
+    {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "friend"
+    },
+    {
+      "word": "好き好き",
+      "reading": "すきずき",
+      "meaning": "matter of taste"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "good luck"
+    },
+    {
+      "word": "好き",
+      "reading": "すき",
+      "meaning": "liking"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "善隣友好",
+      "reading": "ぜんりんゆうこう",
+      "meaning": "neighbourly friendship",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その島の住民は友好的だ。",
+      "reading": null,
+      "english": "The inhabitants of the island are friendly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの動物はとても友好的でもある。",
+      "reading": null,
+      "english": "These animals are very friendly, too.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "両国は友好関係を打ち切った。",
+      "reading": null,
+      "english": "The countries terminated friendly relations.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "中国人はとても友好的ですよ。",
+      "reading": null,
+      "english": "The Chinese are a friendly people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

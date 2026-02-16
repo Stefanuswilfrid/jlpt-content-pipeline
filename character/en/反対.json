@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "反対",
+    "reading": "はんたい",
+    "romaji": "hantai",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "opposition",
+          "resistance",
+          "antagonism",
+          "hostility",
+          "objection",
+          "dissent"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "reverse",
+          "opposite",
+          "inverse",
+          "contrary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "違反",
+      "reading": "いはん",
+      "meaning": "violation"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaning": "target"
+    },
+    {
+      "word": "反省",
+      "reading": "はんせい",
+      "meaning": "reflection"
+    },
+    {
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "absolutely"
+    },
+    {
+      "word": "向かう",
+      "reading": "むかう",
+      "meaning": "to face"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

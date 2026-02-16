@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "乗り換える",
+    "reading": "のりかえる",
+    "romaji": "norikaeru",
+    "jlpt": "N4",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to transfer (trains)",
+          "to change (bus, train)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to change (to another ideology, party, company, etc.)",
+          "to switch (to a different system, method, etc.)",
+          "to move on to (e.g. a new love interest)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "取り替える",
+      "reading": "とりかえる",
+      "meaning": "to exchange"
+    },
+    {
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning": "exchange"
+    },
+    {
+      "word": "乗せる",
+      "reading": "のせる",
+      "meaning": "to place on (something)"
+    },
+    {
+      "word": "乗り物",
+      "reading": "のりもの",
+      "meaning": "vehicle"
+    },
+    {
+      "word": "替える",
+      "reading": "かえる",
+      "meaning": "to replace"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "牛を馬に乗り換える",
+      "reading": "うしをうまにのりかえる",
+      "meaning": "to go from (using, etc.) something bad to something good",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

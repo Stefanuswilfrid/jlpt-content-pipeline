@@ -1,0 +1,206 @@
+{
+  "definition": {
+    "word": "看板",
+    "reading": "かんばん",
+    "romaji": "kanban",
+    "jlpt": "N2",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "signboard",
+          "sign",
+          "billboard",
+          "hoarding",
+          "doorplate"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "draw",
+          "attraction",
+          "feature",
+          "highlight",
+          "spokesman",
+          "figurehead"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reputation (of a shop)",
+          "name"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "appearance",
+          "look",
+          "show"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "closing (for the day, esp. of a restaurant or bar)",
+          "closing time"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "看病",
+      "reading": "かんびょう",
+      "meaning": "nursing (a patient)"
+    },
+    {
+      "word": "看護婦",
+      "reading": "かんごふ",
+      "meaning": "(female) nurse"
+    },
+    {
+      "word": "看護",
+      "reading": "かんご",
+      "meaning": "nursing"
+    },
+    {
+      "word": "板",
+      "reading": "いた",
+      "meaning": "board"
+    },
+    {
+      "word": "出版",
+      "reading": "しゅっぱん",
+      "meaning": "publication"
+    },
+    {
+      "word": "黒板",
+      "reading": "こくばん",
+      "meaning": "blackboard"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一枚看板",
+      "reading": "いちまいかんばん",
+      "meaning": "leading player",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "二枚看板",
+      "reading": "にまいかんばん",
+      "meaning": "the two leading actors (in a play)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "看板を下ろす",
+      "reading": "かんばんをおろす",
+      "meaning": "to close one's business",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その警官は家から看板をはがした。",
+      "reading": null,
+      "english": "The policeman tore the signboard from the house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この看板には何て書いてあるの？",
+      "reading": null,
+      "english": "What does this sign say?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここへ看板を立てよう。",
+      "reading": null,
+      "english": "Let's set up a sign here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの女優は一座の一枚看板だ。",
+      "reading": null,
+      "english": "That actress is the shining star of the company.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの前にある看板をご覧なさい。",
+      "reading": null,
+      "english": "Look at the sign just ahead of you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "良酒は看板を要せず。",
+      "reading": null,
+      "english": "Good wine needs no bush.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日光で看板の文字があせた。",
+      "reading": null,
+      "english": "The sun had faded the lettering on the sign.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大きな看板があります。",
+      "reading": null,
+      "english": "There's a big sign.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は近視なので、あの看板に何が書いてあるか分からない。",
+      "reading": null,
+      "english": "I am near-sighted, so I cannot make out what is written on that signboard.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は近視なので、あの看板に何が書いてあるか分からない。",
+      "reading": null,
+      "english": "I'm near-sighted, so I can't make out what is written on that signboard.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その警官は家から看板をはがした。",
+      "reading": null,
+      "english": "The policeman tore the signboard from the house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

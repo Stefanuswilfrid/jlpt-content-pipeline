@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "見える",
+    "reading": "みえる",
+    "romaji": "mieru",
+    "jlpt": "N4",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk terlihat; -- kata kerja sopan yang berarti 来る (くる) --"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to look",
+          "to seem",
+          "to appear"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見つかる",
+      "reading": "みつかる",
+      "meaning": "ditemukan (v.i.), ditemukan"
+    },
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "pendapat, pandangan, ide"
+    },
+    {
+      "word": "見つける",
+      "reading": "みつける",
+      "meaning": "menemukan, mencari (v.t.)"
+    },
+    {
+      "word": "見る",
+      "reading": "みる",
+      "meaning": "untuk melihat, untuk memperhatikan"
+    },
+    {
+      "word": "花見",
+      "reading": "はなみ",
+      "meaning": "melihat bunga sakura"
+    },
+    {
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "tamasya"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "山が見える",
+      "reading": "やまがみえる",
+      "meaning": "to have the end in sight",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "なぜ空が青く見えるか知っていますか。",
+      "reading": null,
+      "indonesian": "Do you know the reason why the sky looks blue?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

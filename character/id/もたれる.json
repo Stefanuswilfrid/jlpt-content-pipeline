@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "凭れる",
+    "reading": "もたれる",
+    "romaji": "motareru",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "bersandar",
+          "bersandar"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to lie heavy (on the stomach)",
+          "to be uneasily digested"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "寄る",
+      "reading": "よる",
+      "meaning": "untuk mampir"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ステーキは胃にもたれる。",
+      "reading": null,
+      "indonesian": "Steak lies heavy on the stomach.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "食後胃がもたれる。",
+      "reading": null,
+      "indonesian": "I have aggravation after eating.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ステーキは胃にもたれる。",
+      "reading": null,
+      "indonesian": "Steak lies heavy on the stomach.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "食後胃がもたれる。",
+      "reading": null,
+      "indonesian": "I have aggravation after eating.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

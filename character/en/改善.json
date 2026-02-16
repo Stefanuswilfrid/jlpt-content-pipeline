@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "改善",
+    "reading": "かいぜん",
+    "romaji": "kaizen",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "betterment",
+          "improvement"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kaizen (Japanese business philosophy of continuous improvement)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "善",
+      "reading": "ぜん",
+      "meaning": "good"
+    },
+    {
+      "word": "改正",
+      "reading": "かいせい",
+      "meaning": "revision"
+    },
+    {
+      "word": "改造",
+      "reading": "かいぞう",
+      "meaning": "remodeling"
+    },
+    {
+      "word": "改める",
+      "reading": "あらためる",
+      "meaning": "to change"
+    },
+    {
+      "word": "改札",
+      "reading": "かいさつ",
+      "meaning": "examination of tickets"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "体質改善",
+      "reading": "たいしつかいぜん",
+      "meaning": "improvement of one's constitution",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

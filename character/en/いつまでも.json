@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "何時までも",
+    "reading": "いつまでも",
+    "romaji": "itsumademo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "forever",
+          "eternally",
+          "for good",
+          "as long as one likes",
+          "indefinitely",
+          "endlessly",
+          "for a long time"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "why?"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    },
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "sometimes"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "すんでしまったことをいつまでもくよくよしても始まらない。",
+      "reading": null,
+      "english": "It is no use crying over spilt milk.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつまでも泣いているつもりかい。",
+      "reading": null,
+      "english": "Are you going to cry till the cows come home?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつまでも愛してるよ。",
+      "reading": null,
+      "english": "I will love you forever.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "いつまでもお幸せに！",
+      "reading": null,
+      "english": "I wish you a long and happy married life.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ある人達は良き時代がいつまでも続くと思っているようだった。",
+      "reading": null,
+      "english": "Some people seemed to think the good times were going to last forever.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

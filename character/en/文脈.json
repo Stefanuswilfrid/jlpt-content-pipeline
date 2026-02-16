@@ -1,0 +1,142 @@
+{
+  "definition": {
+    "word": "文脈",
+    "reading": "ぶんみゃく",
+    "romaji": "bunmyaku",
+    "jlpt": "N2",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "context (of a passage)",
+          "line of thought"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "context (of a matter, event, etc.)",
+          "circumstances",
+          "background"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文体",
+      "reading": "ぶんたい",
+      "meaning": "literary style"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaning": "stationery"
+    },
+    {
+      "word": "文芸",
+      "reading": "ぶんげい",
+      "meaning": "literature"
+    },
+    {
+      "word": "英文",
+      "reading": "えいぶん",
+      "meaning": "English writing"
+    },
+    {
+      "word": "文献",
+      "reading": "ぶんけん",
+      "meaning": "literature"
+    },
+    {
+      "word": "山脈",
+      "reading": "さんみゃく",
+      "meaning": "mountain range"
+    },
+    {
+      "word": "原文",
+      "reading": "げんぶん",
+      "meaning": "original text"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは文脈による。",
+      "reading": null,
+      "english": "It depends on the context.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは文脈による。",
+      "reading": null,
+      "english": "It depends on the context.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "単語の意味はそれが使われている文脈で決まる。",
+      "reading": null,
+      "english": "The meaning of a word is determined by the context where it is used.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "言葉の意味は文脈によって変わりうる。",
+      "reading": null,
+      "english": "The meaning of words can change according to their context.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "言葉の意味は文脈によって変わりうる。",
+      "reading": null,
+      "english": "The meaning of words can change according to their context.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "単語の意味はそれが使われている文脈で決まる。",
+      "reading": null,
+      "english": "The meaning of a word is determined by the context where it is used.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは文脈次第だね。",
+      "reading": null,
+      "english": "That depends on the context.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その文脈は重要だ。",
+      "reading": null,
+      "english": "The context is crucial.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この文の文脈とか言わんとすることがよく分かんないんだけど。",
+      "reading": null,
+      "english": "I don't really understand the context or the intended meaning of this sentence.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

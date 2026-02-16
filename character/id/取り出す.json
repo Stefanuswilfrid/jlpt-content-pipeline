@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "取り出す",
+    "reading": "とりだす",
+    "romaji": "toridasu",
+    "jlpt": "N2",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mengeluarkan",
+          "untuk memilih"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fetch",
+          "to retrieve"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaning": "untuk memanen, untuk menerima, untuk mengadopsi"
+    },
+    {
+      "word": "取り消す",
+      "reading": "とりけす",
+      "meaning": "untuk membatalkan"
+    },
+    {
+      "word": "引き出す",
+      "reading": "ひきだす",
+      "meaning": "menarik keluar, mengeluarkan, mencabut"
+    },
+    {
+      "word": "呼び出す",
+      "reading": "よびだす",
+      "meaning": "memanggil, menelepon (misalnya, telepon)"
+    },
+    {
+      "word": "言い出す",
+      "reading": "いいだす",
+      "meaning": "untuk mulai berbicara, untuk menyarankan"
+    },
+    {
+      "word": "出くわす",
+      "reading": "でくわす",
+      "meaning": "kebetulan bertemu, secara tidak sengaja"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "石から血を取り出すことはできない。",
+      "reading": null,
+      "indonesian": "You cannot get blood out of a stone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "石から血を取り出すことはできない。",
+      "reading": null,
+      "indonesian": "You cannot get blood out of a stone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "グラス",
+    "reading": "グラス",
+    "romaji": "gurasu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "glass (drinking vessel)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "glass (material)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "glasses (eyewear)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "わたしグラスを持ってくるわ。",
+      "reading": null,
+      "english": "I'll get some glasses.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ボトルですか？グラスですか？",
+      "reading": null,
+      "english": "Bottle or glass?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どちらのグラスをとってもよい。",
+      "reading": null,
+      "english": "You may take either of the glasses.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "そのグラスは空だった。",
+      "reading": null,
+      "english": "I found the glass empty.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのグラスは、ワインでいっぱいだ。",
+      "reading": null,
+      "english": "The glass is full of wine.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "白ワインをグラスでお願いします。",
+      "reading": null,
+      "english": "Could I have a glass of white wine?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

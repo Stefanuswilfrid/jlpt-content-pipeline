@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "釣り",
+    "reading": "つり",
+    "romaji": "tsuri",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fishing",
+          "angling"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "change (for a purchase)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "clickbaiting"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "trolling",
+          "bait",
+          "making deliberately inflammatory posts online"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "釣り合う",
+      "reading": "つりあう",
+      "meaning": "to balance"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "お釣りが来る",
+      "reading": "おつりがくる",
+      "meaning": "to get change back",
+      "type": "idiom"
+    },
+    {
+      "word": "釣り落とした魚は大きい",
+      "reading": "つりおとしたさかなはおおきい",
+      "meaning": "the biggest fish is always the one that got away",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

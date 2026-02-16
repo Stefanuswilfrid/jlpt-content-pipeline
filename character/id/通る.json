@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "通る",
+    "reading": "とおる",
+    "romaji": "tooru",
+    "jlpt": "N4",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "melewati",
+          "menempuh"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to run (between; of a rail service, bus route, etc.)",
+          "to operate (between)",
+          "to connect"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go indoors",
+          "to go into a room",
+          "to be admitted",
+          "to be shown in",
+          "to be ushered in",
+          "to come in"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to penetrate",
+          "to pierce",
+          "to skewer",
+          "to go through",
+          "to come through"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to permeate",
+          "to soak into",
+          "to spread throughout"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通う",
+      "reading": "かよう",
+      "meaning": "untuk pergi bolak-balik; untuk bepergian"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "berangkat ke sekolah"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "surat-menyurat, komunikasi"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "kesamaan, saling"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "jalan yang dilewati, melintasi"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "perjalanan pulang pergi ke tempat kerja"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "jalan, melewati"
+    },
+    {
+      "word": "通り",
+      "reading": "とおり",
+      "meaning": "Jalan ~, Jalan Raya ~"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "天使が通る",
+      "reading": "てんしがとおる",
+      "meaning": "to have a break in the conversation",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この道はいつも多くの車が通る。",
+      "reading": null,
+      "indonesian": "There are always a lot of vehicles on this road.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

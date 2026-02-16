@@ -1,0 +1,195 @@
+{
+  "definition": {
+    "word": "余計",
+    "reading": "よけい",
+    "romaji": "yokei",
+    "jlpt": "N2",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "extra",
+          "more",
+          "too much",
+          "too many",
+          "excessive",
+          "superfluous",
+          "spare",
+          "surplus"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "unnecessary",
+          "needless",
+          "uncalled-for",
+          "unwanted",
+          "uninvited"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "all the more",
+          "even more"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "余程",
+      "reading": "よほど",
+      "meaning": "very"
+    },
+    {
+      "word": "余り",
+      "reading": "あまり",
+      "meaning": "remainder"
+    },
+    {
+      "word": "余所",
+      "reading": "よそ",
+      "meaning": "another place"
+    },
+    {
+      "word": "余る",
+      "reading": "あまる",
+      "meaning": "to remain"
+    },
+    {
+      "word": "余分",
+      "reading": "よぶん",
+      "meaning": "extra"
+    },
+    {
+      "word": "統計",
+      "reading": "とうけい",
+      "meaning": "statistics"
+    },
+    {
+      "word": "計",
+      "reading": "けい",
+      "meaning": "plan"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "clock"
+    },
+    {
+      "word": "集計",
+      "reading": "しゅうけい",
+      "meaning": "totalization"
+    },
+    {
+      "word": "家計",
+      "reading": "かけい",
+      "meaning": "household economy"
+    },
+    {
+      "word": "余暇",
+      "reading": "よか",
+      "meaning": "leisure"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "余計なお世話だ。",
+      "reading": null,
+      "english": "It's none of your business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "余計なお世話するな！",
+      "reading": null,
+      "english": "Mind your own business!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々は手紙を手書きにしているので、時間が余計にかかる。",
+      "reading": null,
+      "english": "We're eating up a lot of time writing letters by hand.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そんなことは余計なお世話だ。",
+      "reading": null,
+      "english": "Mind your own business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "余計問題が複雑になるだけだ。",
+      "reading": null,
+      "english": "That'll complicate matters more.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "余計なお世話だ。",
+      "reading": null,
+      "english": "It is none of your business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんな余計な機能なんでつけたんだろう。",
+      "reading": null,
+      "english": "What did they add this needless function for?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "余計なことをして、すみません。",
+      "reading": null,
+      "english": "Sorry, that was none of my business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "余計なことはするな。",
+      "reading": null,
+      "english": "None of your business.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "余計なことはするな。",
+      "reading": null,
+      "english": "It's none of your business!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "余計なおせっかいはよせ。",
+      "reading": null,
+      "english": "Attend to your own business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

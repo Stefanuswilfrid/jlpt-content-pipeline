@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "新聞社",
+    "reading": "しんぶんしゃ",
+    "romaji": "shinbunsha",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perusahaan surat kabar"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "masyarakat"
+    },
+    {
+      "word": "社長",
+      "reading": "しゃちょう",
+      "meaning": "presiden sebuah perusahaan"
+    },
+    {
+      "word": "神社",
+      "reading": "じんじゃ",
+      "meaning": "Kuil Shinto"
+    },
+    {
+      "word": "新聞",
+      "reading": "しんぶん",
+      "meaning": "koran"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "perusahaan, korporasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "新聞社の人たちがどやどやとやってきました。",
+      "reading": null,
+      "indonesian": "The press are arriving in force.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "新聞社に知られないようにあなたとお話がしたいのです。",
+      "reading": null,
+      "indonesian": "I'd like to talk to you away from the press.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "definition": {
+    "word": "分類",
+    "reading": "ぶんるい",
+    "romaji": "bunrui",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "classification",
+          "categorization",
+          "sorting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "身分",
+      "reading": "みぶん",
+      "meaning": "(social) standing"
+    },
+    {
+      "word": "分数",
+      "reading": "ぶんすう",
+      "meaning": "fraction"
+    },
+    {
+      "word": "水分",
+      "reading": "すいぶん",
+      "meaning": "water"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "division"
+    },
+    {
+      "word": "分布",
+      "reading": "ぶんぷ",
+      "meaning": "distribution"
+    },
+    {
+      "word": "分解",
+      "reading": "ぶんかい",
+      "meaning": "disassembly"
+    },
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaning": "ingredient"
+    },
+    {
+      "word": "親類",
+      "reading": "しんるい",
+      "meaning": "relative"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "amount"
+    },
+    {
+      "word": "幾分",
+      "reading": "いくぶん",
+      "meaning": "somewhat"
+    },
+    {
+      "word": "等分",
+      "reading": "とうぶん",
+      "meaning": "division into equal parts"
+    },
+    {
+      "word": "養分",
+      "reading": "ようぶん",
+      "meaning": "nutrient"
+    },
+    {
+      "word": "何分",
+      "reading": "なにぶん",
+      "meaning": "some"
+    },
+    {
+      "word": "何分",
+      "reading": "なんぷん",
+      "meaning": "what minute"
+    },
+    {
+      "word": "分子",
+      "reading": "ぶんし",
+      "meaning": "molecule"
+    },
+    {
+      "word": "分配",
+      "reading": "ぶんぱい",
+      "meaning": "division"
+    },
+    {
+      "word": "分",
+      "reading": "ぶん",
+      "meaning": "part"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その機械はデータを分類するだけでなく、数字もチェックする。",
+      "reading": null,
+      "english": "In addition to classifying the data, the machine also checks the figures.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらの本を主題別に分類してください。",
+      "reading": null,
+      "english": "Please classify these books by subject.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの標本はいくつかの種類に分類される。",
+      "reading": null,
+      "english": "These specimens are divided into several categories.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この統計ではエジプトはアフリカの国に分類されている。",
+      "reading": null,
+      "english": "In these statistics Egypt is classed as an African nation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "郵便局では、郵便は、行き先に応じて分類される。",
+      "reading": null,
+      "english": "In the post office, mail is classified according to the place where it is to go.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "本は良い物と悪い物とに分類できる。",
+      "reading": null,
+      "english": "One can classify books into good ones and bad ones.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "全ての書物は二種類に分類できると言ってよい。",
+      "reading": null,
+      "english": "All books may be divided into two classes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "全ての書物は二種類に分類できると言ってよい。",
+      "reading": null,
+      "english": "All books can be divided into two categories.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は物事を分類するのが得意でない。",
+      "reading": null,
+      "english": "I'm not good at classifying things.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "司書は主題によって本を分類した。",
+      "reading": null,
+      "english": "The librarian classified the books according to subject.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

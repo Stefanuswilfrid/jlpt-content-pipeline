@@ -1,0 +1,204 @@
+{
+  "definition": {
+    "word": "混合",
+    "reading": "こんごう",
+    "romaji": "kongou",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "pencampuran",
+          "campuran"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "miscegenation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "集合",
+      "reading": "しゅうごう",
+      "meaning": "pertemuan, perkumpulan"
+    },
+    {
+      "word": "待合室",
+      "reading": "まちあいしつ",
+      "meaning": "ruang tunggu"
+    },
+    {
+      "word": "合理",
+      "reading": "ごうり",
+      "meaning": "rasional"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "persatuan, aliansi"
+    },
+    {
+      "word": "問い合わせ",
+      "reading": "といあわせ",
+      "meaning": "pertanyaan"
+    },
+    {
+      "word": "合同",
+      "reading": "ごうどう",
+      "meaning": "kombinasi, penggabungan"
+    },
+    {
+      "word": "合流",
+      "reading": "ごうりゅう",
+      "meaning": "pertemuan, penggabungan, bergabung"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "sosialisasi; persahabatan; pergaulan"
+    },
+    {
+      "word": "複合",
+      "reading": "ふくごう",
+      "meaning": "komposit, kompleks"
+    },
+    {
+      "word": "都合",
+      "reading": "つごう",
+      "meaning": "keadaan, kenyamanan"
+    },
+    {
+      "word": "具合",
+      "reading": "ぐあい",
+      "meaning": "kondisi, keadaan, kesehatan"
+    },
+    {
+      "word": "場合",
+      "reading": "ばあい",
+      "meaning": "kasus, situasi"
+    },
+    {
+      "word": "合間",
+      "reading": "あいま",
+      "meaning": "selang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どんな意見も真実と誤りの混合だ。",
+      "reading": null,
+      "indonesian": "Every opinion is a mixture of truth and mistakes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気は目に見えない気体の混合体である。",
+      "reading": null,
+      "indonesian": "Air is a mixture of gases that we cannot see.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気は数種の気体の混合物である。",
+      "reading": null,
+      "indonesian": "Air is a mixture of several gases.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気は数種の気体の混合体だ。",
+      "reading": null,
+      "indonesian": "Air is a mixture of several gases.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気は気体の混合物だ。",
+      "reading": null,
+      "indonesian": "Air is a mixture of gases.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気はさまざまな気体の混合物である。",
+      "reading": null,
+      "indonesian": "Air is a mixture of various gases.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もういちど三種混合の予防接種をしなければならないのです。",
+      "reading": null,
+      "indonesian": "She needs another DPT shot.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらの物質の混合は危険です。",
+      "reading": null,
+      "indonesian": "The mixture of these substances is dangerous.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "前に三種混合の予防接種を３回やりました。",
+      "reading": null,
+      "indonesian": "She had three DPT shots before.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "水と油を混合させることはできない。",
+      "reading": null,
+      "indonesian": "You can't mix oil with water.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "三原色を混合すると黒色ができる。",
+      "reading": null,
+      "indonesian": "Mixture of the three primary colors creates black.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気は目に見えない気体の混合体である。",
+      "reading": null,
+      "indonesian": "Air is a mixture of gases that we cannot see.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気は目に見えない気体の混合体である。",
+      "reading": null,
+      "indonesian": "Air is a mixture of gases that we can't see.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

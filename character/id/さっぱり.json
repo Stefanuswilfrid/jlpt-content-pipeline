@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "さっぱり",
+    "reading": "さっぱり",
+    "romaji": "sappari",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "merasa segar",
+          "rapi"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "neat",
+          "tidy",
+          "clean"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "frank",
+          "open-hearted",
+          "plain",
+          "simple",
+          "light"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "completely",
+          "entirely"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "not in the least (with neg. verb)",
+          "not at all"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "nothing at all",
+          "completely useless",
+          "hopeless",
+          "awful"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君が言うことはさっぱり分からない。",
+      "reading": null,
+      "indonesian": "I have no idea what you mean.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何が言いたいのかさっぱり分かんないんだけど。",
+      "reading": null,
+      "indonesian": "I haven't the faintest idea what you mean.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうしたらいいんだか、さっぱり分からないよ。",
+      "reading": null,
+      "indonesian": "I don't have the slightest idea what to do.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ドイツ語がさっぱり分からない。",
+      "reading": null,
+      "indonesian": "I don't understand German at all.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

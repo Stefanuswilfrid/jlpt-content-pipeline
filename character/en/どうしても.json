@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "如何しても",
+    "reading": "どうしても",
+    "romaji": "doushitemo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "by all means",
+          "at any cost",
+          "no matter what",
+          "at any rate",
+          "surely"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "whether (one is) willing or not",
+          "willingly or unwillingly",
+          "willy-nilly"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "on no account",
+          "by no means"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "in the end",
+          "in the long run",
+          "after all",
+          "eventually"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "why?"
+    },
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうしても自分の思い通りにしたがるね。",
+      "reading": null,
+      "english": "You will have your own way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銀行のローンを返すのに、どうしてもお金が必要です。",
+      "reading": null,
+      "english": "I've got to get some money somehow to repay the bank loan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "引出しがどうしても開かないんだよ。",
+      "reading": null,
+      "english": "The drawer won't open.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "フローズン・ヨーグルトがどうしても食べたい。",
+      "reading": null,
+      "english": "I'm dying for frozen yogurt.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

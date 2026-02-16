@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "命じる",
+    "reading": "めいじる",
+    "romaji": "meijiru",
+    "jlpt": "N3",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk memberi perintah",
+          "untuk memerintah",
+          "untuk menunjuk"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to appoint"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "命令",
+      "reading": "めいれい",
+      "meaning": "perintah, komando, dekrit"
+    },
+    {
+      "word": "命ずる",
+      "reading": "めいずる",
+      "meaning": "memerintah, menunjuk"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "kehidupan"
+    },
+    {
+      "word": "命",
+      "reading": "いのち",
+      "meaning": "kehidupan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "回れ右を命じる。",
+      "reading": null,
+      "indonesian": "I order you to turn right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "回れ右を命じる。",
+      "reading": null,
+      "indonesian": "I order you to turn right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

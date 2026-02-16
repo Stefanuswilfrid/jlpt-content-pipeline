@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "死",
+    "reading": "し",
+    "romaji": "shi",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kematian",
+          "wafat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(an) out"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "death penalty (by strangulation or decapitation; most severe of the five ritsuryō punishments)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "死亡",
+      "reading": "しぼう",
+      "meaning": "kematian"
+    },
+    {
+      "word": "必死",
+      "reading": "ひっし",
+      "meaning": "keputusasaan, panik, hasil yang tak terhindarkan"
+    },
+    {
+      "word": "死体",
+      "reading": "したい",
+      "meaning": "mayat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "起死回生",
+      "reading": "きしかいせい",
+      "meaning": "revival from the brink of death",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一死報国",
+      "reading": "いっしほうこく",
+      "meaning": "dying for one's country",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "九死に一生",
+      "reading": "きゅうしにいっしょう",
+      "meaning": "narrow escape from death",
+      "type": "idiom"
+    },
+    {
+      "word": "九死一生",
+      "reading": "きゅうしいっしょう",
+      "meaning": "narrow escape from the jaw of death",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "酔生夢死",
+      "reading": "すいせいむし",
+      "meaning": "idling one's life away",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "半死半生",
+      "reading": "はんしはんしょう",
+      "meaning": "all but dead",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不老不死",
+      "reading": "ふろうふし",
+      "meaning": "perpetual youth and longevity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "死して後已む",
+      "reading": "ししてのちやむ",
+      "meaning": "duty ends only in death",
+      "type": "proverb"
+    },
+    {
+      "word": "畳の上で死ぬ",
+      "reading": "たたみのうえでしぬ",
+      "meaning": "to die a natural death",
+      "type": "idiom"
+    },
+    {
+      "word": "死屍累々",
+      "reading": "ししるいるい",
+      "meaning": "heaps of corpses all around",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "人は食事を取らなければ死んでしまう。",
+      "reading": null,
+      "indonesian": "If you don't eat, you die.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "おなかがすいて死にそうだ。",
+      "reading": null,
+      "indonesian": "I'm starving!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "人は食事を取らなければ死んでしまう。",
+      "reading": null,
+      "indonesian": "If you don't eat, you die.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人は食事を取らなければ死んでしまう。",
+      "reading": null,
+      "indonesian": "If you don't eat, you'll die.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

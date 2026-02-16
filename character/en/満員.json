@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "満員",
+    "reading": "まんいん",
+    "romaji": "man'in",
+    "jlpt": "N2",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "full house",
+          "no vacancy",
+          "sold out",
+          "standing room only",
+          "full (of people)",
+          "crowded"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "未満",
+      "reading": "みまん",
+      "meaning": "less than"
+    },
+    {
+      "word": "定員",
+      "reading": "ていいん",
+      "meaning": "fixed number (of people)"
+    },
+    {
+      "word": "満点",
+      "reading": "まんてん",
+      "meaning": "perfect score"
+    },
+    {
+      "word": "工員",
+      "reading": "こういん",
+      "meaning": "factory worker"
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaning": "satisfaction"
+    },
+    {
+      "word": "公務員",
+      "reading": "こうむいん",
+      "meaning": "public employee"
+    },
+    {
+      "word": "店員",
+      "reading": "てんいん",
+      "meaning": "employee (of a store)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ホールは満員だった。",
+      "reading": null,
+      "english": "The hall was filled to capacity.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "バスは満員だった。",
+      "reading": null,
+      "english": "The bus was filled to capacity.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どの電車も満員で、持ち物も手から放しても落ちないほどです。",
+      "reading": null,
+      "english": "But every train is so crowded that whatever we have in our hands doesn't fall even if we let it go.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どのバスも満員です。",
+      "reading": null,
+      "english": "Every bus is full.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "すべてのバスは満員です。",
+      "reading": null,
+      "english": "Every bus is full.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どのバスも満員だ。",
+      "reading": null,
+      "english": "Every bus is full.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その劇はとても人気があったので、劇場はほとんど満員だった。",
+      "reading": null,
+      "english": "The play was so popular that the theater was almost full.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "すべてのバスは満員です。",
+      "reading": null,
+      "english": "All the buses are full.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "バスはどれも満員だよ。",
+      "reading": null,
+      "english": "All the buses are full.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

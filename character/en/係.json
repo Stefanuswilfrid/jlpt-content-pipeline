@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "係",
+    "reading": "かかり",
+    "romaji": "kakari",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "charge",
+          "duty",
+          "person in charge",
+          "official",
+          "clerk"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "connection",
+          "linking"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関係",
+      "reading": "かんけい",
+      "meaning": "relation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "相関関係",
+      "reading": "そうかんかんけい",
+      "meaning": "correlation",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はこのことに深い関係がある。",
+      "reading": null,
+      "english": "You are deeply involved with this.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたには関係ない。",
+      "reading": null,
+      "english": "It's none of your business.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お前には関係ない。",
+      "reading": null,
+      "english": "It's none of your business.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お前には関係ないだろ。",
+      "reading": null,
+      "english": "It's none of your business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは君には関係ないことだ。",
+      "reading": null,
+      "english": "That is no business of yours.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お前には関係ない。",
+      "reading": null,
+      "english": "That is no business of yours.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空気と人間との関係は水と魚との関係と同じだ。",
+      "reading": null,
+      "english": "Air is to man what water is to fish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

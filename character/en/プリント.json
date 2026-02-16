@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "プリント",
+    "reading": "プリント",
+    "romaji": "purinto",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "print",
+          "printing",
+          "(printed) copy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "handout",
+          "flyer"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "先生は生徒たちにプリントを配布した。",
+      "reading": null,
+      "english": "The teacher distributed the handouts to the students.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "事務機が書類を次々とプリントアウトしている。",
+      "reading": null,
+      "english": "An office machine is cranking out a stream of documents.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ミスプリントのないような本はほとんどない。",
+      "reading": null,
+      "english": "There are few books without misprints.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ミスプリントのないような本はほとんどない。",
+      "reading": null,
+      "english": "There are almost no books that have no misprints.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ミスプリントのないような本はほとんどない。",
+      "reading": null,
+      "english": "There are few books that have no misprints.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "事務機が書類を次々とプリントアウトしている。",
+      "reading": null,
+      "english": "An office machine is cranking out a stream of documents.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "先生は生徒たちにプリントを配布した。",
+      "reading": null,
+      "english": "The teacher distributed the handouts to the students.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "最終",
+    "reading": "さいしゅう",
+    "romaji": "saishuu",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "terakhir",
+          "penutup"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "last train (bus, flight, etc.; of the day)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "tertinggi, terunggul, paling"
+    },
+    {
+      "word": "最低",
+      "reading": "さいてい",
+      "meaning": "paling sedikit, terendah, terburuk"
+    },
+    {
+      "word": "最中",
+      "reading": "さいちゅう",
+      "meaning": "di tengah, pertengahan"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "baru-baru ini, saat ini, dalam beberapa tahun terakhir, paling baru, terkini"
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "terakhir, akhir"
+    },
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaning": "permulaan, pertama"
+    },
+    {
+      "word": "終了",
+      "reading": "しゅうりょう",
+      "meaning": "akhir, penutupan, penghentian"
+    },
+    {
+      "word": "終わり",
+      "reading": "おわり",
+      "meaning": "akhir"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "最終兵器",
+      "reading": "さいしゅうへいき",
+      "meaning": "ultimate weapon",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "われわれは最終的決定を行った。",
+      "reading": null,
+      "indonesian": "We've made a final decision.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは行く事を考えたが、最終的に行かない事に決めた。",
+      "reading": null,
+      "indonesian": "We considered going, but finally decided against it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "わたしは最終バスに間に合うのがやっとだった。",
+      "reading": null,
+      "indonesian": "I had enough to do to catch the last bus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わがチームは最終回で５点入った。",
+      "reading": null,
+      "indonesian": "Our team scored five runs in the last inning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ゆうべはやっとのことで最終電車に間に合った。",
+      "reading": null,
+      "indonesian": "Last night, I barely made the last train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう少し早く出ていれば、最終列車に間に合ったのに。",
+      "reading": null,
+      "indonesian": "If I had left a little earlier, I would have caught the last train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どっちが最終的な安息の地となるんだろう。",
+      "reading": null,
+      "indonesian": "Which one will be our final resting place?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

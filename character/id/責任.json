@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "責任",
+    "reading": "せきにん",
+    "romaji": "sekinin",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tugas",
+          "tanggung jawab"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "liability",
+          "onus"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "就任",
+      "reading": "しゅうにん",
+      "meaning": "pelantikan, pengangkatan jabatan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "責任転嫁",
+      "reading": "せきにんてんか",
+      "meaning": "shifting the responsibility (for something) on to (someone)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "連帯責任",
+      "reading": "れんたいせきにん",
+      "meaning": "collective responsibility",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

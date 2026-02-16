@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "カード",
+    "reading": "カード",
+    "romaji": "kaado",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "card (information, filing, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "card (greetings, congratulations, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(Western) playing cards"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "credit card",
+          "debit card"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "card",
+          "program",
+          "matchup",
+          "pairing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dough scraper",
+          "spatula"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "カードを切る",
+      "reading": "カードをきる",
+      "meaning": "to shuffle (a deck of) cards",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "クレジットカードでも良いですか？",
+      "reading": null,
+      "english": "Do you accept credit cards?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "クレジットカードでも良いですか？",
+      "reading": null,
+      "english": "Do you take plastic?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ブライアンがカードを書くのに数時間かかった。",
+      "reading": null,
+      "english": "It took Brian several hours to write a card.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ビザカードは使えますか。",
+      "reading": null,
+      "english": "Do you accept Visa card?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "はい、こちらが予約カードです。",
+      "reading": null,
+      "english": "Here is your appointment card.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どのクレジットカードが使えますか。",
+      "reading": null,
+      "english": "Which credit cards can I use?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "テレフォンカードはどこで手に入れることができますか。",
+      "reading": null,
+      "english": "Where can I get a telephone card?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

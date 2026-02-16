@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "決定",
+    "reading": "けってい",
+    "romaji": "kettei",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "keputusan",
+          "penetapan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "penyelesaian, solusi, resolusi"
+    },
+    {
+      "word": "安定",
+      "reading": "あんてい",
+      "meaning": "stabilitas, keseimbangan"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "jangka waktu tetap"
+    },
+    {
+      "word": "否定",
+      "reading": "ひてい",
+      "meaning": "negasi, penyangkalan"
+    },
+    {
+      "word": "勘定",
+      "reading": "かんじょう",
+      "meaning": "perhitungan, penghitungan, pertimbangan"
+    },
+    {
+      "word": "決心",
+      "reading": "けっしん",
+      "meaning": "tekad, resolusi"
+    },
+    {
+      "word": "決まり",
+      "reading": "きまり",
+      "meaning": "penyelesaian, kesimpulan, aturan"
+    },
+    {
+      "word": "仮定",
+      "reading": "かてい",
+      "meaning": "asumsi, dugaan, hipotesis"
+    },
+    {
+      "word": "決行",
+      "reading": "けっこう",
+      "meaning": "melakukan (dengan tekad), melaksanakan (misalnya, sebuah rencana)"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "rencana, pengaturan, jadwal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の決定しだいで行ってもいいしとどまってもいい。",
+      "reading": null,
+      "indonesian": "You can go or stay, as you wish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会合の日にちと場所が決定された。",
+      "reading": null,
+      "indonesian": "The date and place of the meeting have been fixed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

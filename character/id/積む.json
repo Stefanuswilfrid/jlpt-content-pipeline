@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "積む",
+    "reading": "つむ",
+    "romaji": "tsumu",
+    "jlpt": "N3",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menumpuk",
+          "menyusun"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to load (car, ship, etc.)",
+          "to pack"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to acquire",
+          "to accumulate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "積もる",
+      "reading": "つもる",
+      "meaning": "menumpuk"
+    },
+    {
+      "word": "積極的",
+      "reading": "せっきょくてき",
+      "meaning": "positif, aktif, proaktif"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "車に、ここのカバンを積むの手伝ってもらえる？",
+      "reading": null,
+      "indonesian": "Could you help me put these bags into the car?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "車に、ここのカバンを積むの手伝ってもらえる？",
+      "reading": null,
+      "indonesian": "Could you help me put these bags into the car?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

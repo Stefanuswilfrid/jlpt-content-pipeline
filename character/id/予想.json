@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "予想",
+    "reading": "よそう",
+    "romaji": "yosou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "harapan",
+          "antisipasi",
+          "prediksi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "perkiraan, anggaran"
+    },
+    {
+      "word": "思想",
+      "reading": "しそう",
+      "meaning": "pemikiran, ide"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediksi, estimasi"
+    },
+    {
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "pencegahan, perlindungan terhadap"
+    },
+    {
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "kesan (seseorang), pikiran (seseorang)"
+    },
+    {
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "ideal"
+    },
+    {
+      "word": "予報",
+      "reading": "よほう",
+      "meaning": "ramalan, prediksi"
+    },
+    {
+      "word": "想像",
+      "reading": "そうぞう",
+      "meaning": "imajinasi, tebakan"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaning": "kenangan, ingatan, masa lalu"
+    },
+    {
+      "word": "予期",
+      "reading": "よき",
+      "meaning": "harapan, perkiraan"
+    },
+    {
+      "word": "連想",
+      "reading": "れんそう",
+      "meaning": "asosiasi (gagasan), saran"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "rencana, pengaturan, jadwal"
+    },
+    {
+      "word": "予備",
+      "reading": "よび",
+      "meaning": "persiapan, cadangan"
+    },
+    {
+      "word": "発想",
+      "reading": "はっそう",
+      "meaning": "ide; cara berpikir (sama seperti 考え方 (かんがえかた))"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "reservasi"
+    },
+    {
+      "word": "思う",
+      "reading": "おもう",
+      "meaning": "berpikir, merasa"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そのことは全く予想していませんでした。",
+      "reading": null,
+      "indonesian": "I would never have guessed that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのことは全く予想していませんでした。",
+      "reading": null,
+      "indonesian": "I would never have guessed that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "開票は予想した通りだ。",
+      "reading": null,
+      "indonesian": "Election returns were what we had expected.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会への出席者は予想されていたよりも多かった。",
+      "reading": null,
+      "indonesian": "The attendance at the party was larger than had been expected.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは予想通りでした。",
+      "reading": null,
+      "indonesian": "It went just as we expected.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

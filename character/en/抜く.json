@@ -1,0 +1,144 @@
+{
+  "definition": {
+    "word": "抜く",
+    "reading": "ぬく",
+    "romaji": "nuku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pull out",
+          "to draw out",
+          "to extract",
+          "to unplug",
+          "to weed"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to omit",
+          "to leave out",
+          "to go without",
+          "to skip"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'ku' ending"
+        ],
+        "meanings": [
+          "to do to the end",
+          "to do thoroughly",
+          "to do completely",
+          "to do severely"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to let out (e.g. air from a tyre)",
+          "to drain (e.g. water from a bath)",
+          "to empty"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pick out",
+          "to choose",
+          "to select",
+          "to extract"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pilfer",
+          "to steal"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to remove",
+          "to get rid of",
+          "to take out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pass",
+          "to overtake",
+          "to outstrip",
+          "to get ahead of"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "抜ける",
+      "reading": "ぬける",
+      "meaning": "to come out"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手を抜く",
+      "reading": "てをぬく",
+      "meaning": "to cut corners",
+      "type": "idiom"
+    },
+    {
+      "word": "度肝を抜く",
+      "reading": "どぎもをぬく",
+      "meaning": "to astonish",
+      "type": "idiom"
+    },
+    {
+      "word": "尻毛を抜く",
+      "reading": "しりげをぬく",
+      "meaning": "to take someone by surprise",
+      "type": "idiom"
+    },
+    {
+      "word": "生き馬の目を抜く",
+      "reading": "いきうまのめをぬく",
+      "meaning": "to be shrewd",
+      "type": "idiom"
+    },
+    {
+      "word": "伝家の宝刀を抜く",
+      "reading": "でんかのほうとうをぬく",
+      "meaning": "to employ one's secret weapon",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

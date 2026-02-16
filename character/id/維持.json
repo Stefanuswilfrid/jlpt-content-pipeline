@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "維持",
+    "reading": "いじ",
+    "romaji": "iji",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pemeliharaan",
+          "pelestarian"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "持ち上げる",
+      "reading": "もちあげる",
+      "meaning": "mengangkat, meninggikan, menyanjung"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "perasaan, sensasi, suasana hati"
+    },
+    {
+      "word": "持つ",
+      "reading": "もつ",
+      "meaning": "memegang, membawa; memiliki"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "現状維持",
+      "reading": "げんじょういじ",
+      "meaning": "maintaining the status quo",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

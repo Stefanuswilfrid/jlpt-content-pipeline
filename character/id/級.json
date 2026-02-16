@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "級",
+    "reading": "きゅう",
+    "romaji": "kyuu",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "counter"
+        ],
+        "meanings": [
+          "kelas",
+          "tingkatan",
+          "peringkat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "suffix"
+        ],
+        "meanings": [
+          "class",
+          "grade",
+          "rank",
+          "level"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "counter"
+        ],
+        "meanings": [
+          "kyu (junior rank in martial arts, go, shogi, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "高級",
+      "reading": "こうきゅう",
+      "meaning": "kelas atas; terbaik"
+    },
+    {
+      "word": "学級",
+      "reading": "がっきゅう",
+      "meaning": "kelas"
+    },
+    {
+      "word": "上級",
+      "reading": "じょうきゅう",
+      "meaning": "tingkat lanjut, nilai tinggi, senior"
+    },
+    {
+      "word": "初級",
+      "reading": "しょきゅう",
+      "meaning": "tingkat dasar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "特権階級",
+      "reading": "とっけんかいきゅう",
+      "meaning": "privileged class",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海外の子会社は最高級品を生産しています。",
+      "reading": null,
+      "indonesian": "Overseas subsidiaries are putting out top-of the-line products.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ブラウン氏は上流階級の人だ。",
+      "reading": null,
+      "indonesian": "Mr Brown belongs to the upper class.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その子は級友たちに笑われても動じなかった。",
+      "reading": null,
+      "indonesian": "The boy was not humiliated by the laughter of his classmates.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

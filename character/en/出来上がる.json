@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "出来上がる",
+    "reading": "できあがる",
+    "romaji": "dekiagaru",
+    "jlpt": "N2",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be completed",
+          "to be finished",
+          "to be ready (e.g. to serve or eat)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be very drunk",
+          "to get plastered"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "仕上がる",
+      "reading": "しあがる",
+      "meaning": "to be finished"
+    },
+    {
+      "word": "来日",
+      "reading": "らいにち",
+      "meaning": "coming to Japan"
+    },
+    {
+      "word": "上下",
+      "reading": "じょうげ",
+      "meaning": "top and bottom"
+    },
+    {
+      "word": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "business trip"
+    },
+    {
+      "word": "出勤",
+      "reading": "しゅっきん",
+      "meaning": "going to work"
+    },
+    {
+      "word": "出入り",
+      "reading": "でいり",
+      "meaning": "going in and out"
+    },
+    {
+      "word": "遡る",
+      "reading": "さかのぼる",
+      "meaning": "to go upstream"
+    },
+    {
+      "word": "出来上がり",
+      "reading": "できあがり",
+      "meaning": "completion"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "近日中に台所が出来上がる。",
+      "reading": null,
+      "english": "One of these days, the kitchen will be ready.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "近日中に台所が出来上がる。",
+      "reading": null,
+      "english": "One of these days, the kitchen will be ready.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

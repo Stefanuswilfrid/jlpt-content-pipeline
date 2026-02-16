@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "急に",
+    "reading": "きゅうに",
+    "romaji": "kyuuni",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "swiftly",
+          "rapidly",
+          "quickly",
+          "immediately",
+          "hastily",
+          "hurriedly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "suddenly",
+          "abruptly",
+          "unexpectedly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sharply (of a slope, bend, etc.)",
+          "steeply"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "至急",
+      "reading": "しきゅう",
+      "meaning": "urgent"
+    },
+    {
+      "word": "急速",
+      "reading": "きゅうそく",
+      "meaning": "rapid (e.g. progress)"
+    },
+    {
+      "word": "急激",
+      "reading": "きゅうげき",
+      "meaning": "sudden"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "急に立ち上がったら、クラッとめまいがした。",
+      "reading": null,
+      "english": "I suddenly stood up and felt faint and light-headed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急に太りだしました。",
+      "reading": null,
+      "english": "I've suddenly started to gain weight.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "急に笑い出さないでよ。不気味だから。",
+      "reading": null,
+      "english": "Don't burst out laughing like that. It's creepy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急に運が向いてきた。",
+      "reading": null,
+      "english": "Suddenly I got lucky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

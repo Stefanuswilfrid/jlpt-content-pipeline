@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "欠点",
+    "reading": "けってん",
+    "romaji": "ketten",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kesalahan",
+          "cacat",
+          "kelemahan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "failure (in an examination)",
+          "failing grade"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaning": "ketidakhadiran, tidak hadir"
+    },
+    {
+      "word": "視点",
+      "reading": "してん",
+      "meaning": "opini, sudut pandang, titik visual"
+    },
+    {
+      "word": "欠陥",
+      "reading": "けっかん",
+      "meaning": "cacat, kesalahan, kekurangan"
+    },
+    {
+      "word": "要点",
+      "reading": "ようてん",
+      "meaning": "Intisari, poin utama"
+    },
+    {
+      "word": "頂点",
+      "reading": "ちょうてん",
+      "meaning": "puncak, titik tertinggi"
+    },
+    {
+      "word": "点数",
+      "reading": "てんすう",
+      "meaning": "nilai, poin, skor"
+    },
+    {
+      "word": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "titik lemah, kelemahan"
+    },
+    {
+      "word": "交差点",
+      "reading": "こうさてん",
+      "meaning": "persimpangan"
+    },
+    {
+      "word": "満点",
+      "reading": "まんてん",
+      "meaning": "nilai sempurna"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "急いで書かれたので、その本には欠点がたくさんある。",
+      "reading": null,
+      "indonesian": "As it was written in haste, the book has many faults.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "愛が冷めると、欠点が多く目に付いてくる。",
+      "reading": null,
+      "indonesian": "Faults are thick where love is thin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれはその男に欠点があるのでますます好きだ。",
+      "reading": null,
+      "indonesian": "We love the man all the better for his faults.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "別れ",
+    "reading": "わかれ",
+    "romaji": "wakare",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "parting",
+          "separation",
+          "farewell"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "差別",
+      "reading": "さべつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "別荘",
+      "reading": "べっそう",
+      "meaning": "holiday house"
+    },
+    {
+      "word": "性別",
+      "reading": "せいべつ",
+      "meaning": "(distinction of) sex"
+    },
+    {
+      "word": "別々",
+      "reading": "べつべつ",
+      "meaning": "separate"
+    },
+    {
+      "word": "別",
+      "reading": "べつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaning": "special"
+    },
+    {
+      "word": "別に",
+      "reading": "べつに",
+      "meaning": "(not) particularly"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "逢うは別れの始め",
+      "reading": "あうはわかれのはじめ",
+      "meaning": "we meet only to part",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君とは明日お別れだ。",
+      "reading": null,
+      "english": "I'm leaving you tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "会うは別れの始め。",
+      "reading": null,
+      "english": "We never meet without parting.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "みんなからお別れのプレゼントをもらった。",
+      "reading": null,
+      "english": "I got a farewell present from everyone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボブとルーシーが別れたんだって。",
+      "reading": null,
+      "english": "I hear that Bob and Lucy have broken up.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムとナンシーは先月別れた。",
+      "reading": null,
+      "english": "Tom and Nancy broke up last month.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

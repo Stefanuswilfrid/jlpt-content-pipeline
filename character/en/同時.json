@@ -1,0 +1,142 @@
+{
+  "definition": {
+    "word": "同時",
+    "reading": "どうじ",
+    "romaji": "douji",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "same time"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "simultaneous",
+          "concurrent",
+          "synchronous"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "共同",
+      "reading": "きょうどう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "同様",
+      "reading": "どうよう",
+      "meaning": "same"
+    },
+    {
+      "word": "同士",
+      "reading": "どうし",
+      "meaning": "fellow"
+    },
+    {
+      "word": "同僚",
+      "reading": "どうりょう",
+      "meaning": "coworker"
+    },
+    {
+      "word": "同志",
+      "reading": "どうし",
+      "meaning": "like-mindedness"
+    },
+    {
+      "word": "時刻",
+      "reading": "じこく",
+      "meaning": "time"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "period"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "二穴同時挿入",
+      "reading": "にけつどうじそうにゅう",
+      "meaning": "double penetration",
+      "type": "expression"
+    },
+    {
+      "word": "啐啄同時",
+      "reading": "そったくどうじ",
+      "meaning": "timing is everything",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "同時に二つのことができないんだ。",
+      "reading": null,
+      "english": "I can't do two things at a time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バッハとヘンデルは同時代人でした。",
+      "reading": null,
+      "english": "Bach and Handel were contemporaries.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "全部が同時に起きたんだよ。",
+      "reading": null,
+      "english": "Everything happened all at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スコットはバイロンと同時代の人であった。",
+      "reading": null,
+      "english": "Scott was a contemporary of Byron.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "シェイクスピアはマーローと同時代人だった。",
+      "reading": null,
+      "english": "Shakespeare was a contemporary of Marlowe.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

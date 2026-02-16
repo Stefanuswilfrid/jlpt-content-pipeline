@@ -1,0 +1,148 @@
+{
+  "definition": {
+    "word": "針",
+    "reading": "はり",
+    "romaji": "hari",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "needle",
+          "pin"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hook"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stinger",
+          "thorn"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hand (e.g. clock, etc.)",
+          "pointer"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "staple (for a stapler)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "needlework",
+          "sewing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "malice"
+        ]
+      },
+      {
+        "pos": [
+          "counter",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "counter for stitches"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方針",
+      "reading": "ほうしん",
+      "meaning": "policy"
+    },
+    {
+      "word": "針金",
+      "reading": "はりがね",
+      "meaning": "wire"
+    },
+    {
+      "word": "針路",
+      "reading": "しんろ",
+      "meaning": "course"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "針小棒大",
+      "reading": "しんしょうぼうだい",
+      "meaning": "exaggeration",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "頂門の一針",
+      "reading": "ちょうもんのいっしん",
+      "meaning": "painful reproach",
+      "type": "idiom"
+    },
+    {
+      "word": "針の穴から天覗く",
+      "reading": "はりのあなからてんのぞく",
+      "meaning": "to have a narrow view of things",
+      "type": "idiom"
+    },
+    {
+      "word": "針の穴から天を覗く",
+      "reading": "はりのあなからてんをのぞく",
+      "meaning": "to have a narrow view of things",
+      "type": "idiom"
+    },
+    {
+      "word": "針ほどのことを棒ほどに言う",
+      "reading": "はりほどのことをぼうほどにいう",
+      "meaning": "exaggeration",
+      "type": "idiom"
+    },
+    {
+      "word": "指切りげんまん、嘘ついたら針千本飲ます",
+      "reading": "ゆびきりげんまん、うそついたらはりせんぼんのます",
+      "meaning": "cross my heart and hope to die, stick a needle in my eye",
+      "type": "idiom"
+    },
+    {
+      "word": "棒ほど願って針ほど叶う",
+      "reading": "ぼうほどねがってはりほどかなう",
+      "meaning": "you can't always get what you want",
+      "type": "proverb"
+    },
+    {
+      "word": "今日の一針、明日の十針",
+      "reading": "きょうのひとはり、あすのとはり",
+      "meaning": "a stitch in time saves nine",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

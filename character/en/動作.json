@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "動作",
+    "reading": "どうさ",
+    "romaji": "dousa",
+    "jlpt": "N2",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "movement (of the body)",
+          "action",
+          "motion",
+          "gesture"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bearing",
+          "carriage",
+          "behaviour",
+          "behavior",
+          "demeanour",
+          "demeanor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "operation (of a machine, software, etc.)",
+          "running",
+          "working",
+          "functioning"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "創作",
+      "reading": "そうさく",
+      "meaning": "creation"
+    },
+    {
+      "word": "名作",
+      "reading": "めいさく",
+      "meaning": "masterpiece"
+    },
+    {
+      "word": "傑作",
+      "reading": "けっさく",
+      "meaning": "masterpiece"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaning": "work (film, book)"
+    },
+    {
+      "word": "製作",
+      "reading": "せいさく",
+      "meaning": "manufacture"
+    },
+    {
+      "word": "作成",
+      "reading": "さくせい",
+      "meaning": "making (a report, plan, contract, etc.)"
+    },
+    {
+      "word": "作者",
+      "reading": "さくしゃ",
+      "meaning": "creator (of a work)"
+    },
+    {
+      "word": "作製",
+      "reading": "さくせい",
+      "meaning": "manufacture"
+    },
+    {
+      "word": "騒動",
+      "reading": "そうどう",
+      "meaning": "riot"
+    },
+    {
+      "word": "動物園",
+      "reading": "どうぶつえん",
+      "meaning": "zoo"
+    },
+    {
+      "word": "暴動",
+      "reading": "ぼうどう",
+      "meaning": "insurrection"
+    },
+    {
+      "word": "作",
+      "reading": "さく",
+      "meaning": "work (e.g. of art)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "陽動作戦",
+      "reading": "ようどうさくせん",
+      "meaning": "diversionary tactics",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "過去の動作については過去形を用います。",
+      "reading": null,
+      "english": "\"Past tense\" is used in connection with actions in the past.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "放す",
+    "reading": "はなす",
+    "romaji": "hanasu",
+    "jlpt": "N3",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk memisahkan",
+          "untuk membebaskan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to add (pieces of eggplant, potato, etc.) to water, broth, etc."
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 2,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaning": "penyiaran"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaning": "buka, buka lebar, liberalisasi"
+    },
+    {
+      "word": "解放",
+      "reading": "かいほう",
+      "meaning": "pembebasan, kemerdekaan"
+    },
+    {
+      "word": "放る",
+      "reading": "ほうる",
+      "meaning": "untuk melepaskan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ロープを放すな。",
+      "reading": null,
+      "indonesian": "Don't let go of the rope.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その指輪を手放すな。",
+      "reading": null,
+      "indonesian": "You must not part with the ring.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "母はダイヤの指輪を手放す他なかった。",
+      "reading": null,
+      "indonesian": "My mother had no choice but to part with her diamond ring.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

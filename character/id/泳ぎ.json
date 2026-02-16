@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "泳ぎ",
+    "reading": "およぎ",
+    "romaji": "oyogi",
+    "jlpt": "N3",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "renang"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "水泳",
+      "reading": "すいえい",
+      "meaning": "renang"
+    },
+    {
+      "word": "泳ぐ",
+      "reading": "およぐ",
+      "meaning": "berenang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君に泳ぎ方を教えよう。",
+      "reading": null,
+      "indonesian": "I'll tell you how to swim.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏にはその川に泳ぎによく行ったものです。",
+      "reading": null,
+      "indonesian": "In summer, we used to go swimming in the river.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏にはその川によく泳ぎにいったものだ。",
+      "reading": null,
+      "indonesian": "In summer, we used to go swimming in the river.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏になるとよく海に泳ぎに行きます。",
+      "reading": null,
+      "indonesian": "I often go swimming at the beach in the summer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "泳ぎに行ってはどうかな。",
+      "reading": null,
+      "indonesian": "How about going for a swim?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "泳ぎに行けるほど暑いですか。",
+      "reading": null,
+      "indonesian": "Is it hot enough to go swimming?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "泳ぎに行きませんか。",
+      "reading": null,
+      "indonesian": "How about going swimming?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "泳ぎに行きたくないですか。",
+      "reading": null,
+      "indonesian": "Do you feel like going swimming?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

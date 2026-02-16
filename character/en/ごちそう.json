@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "ご馳走",
+    "reading": "ごちそう",
+    "romaji": "gochisou",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "treat (esp. food and drink)",
+          "entertainment",
+          "treating someone (to a meal)",
+          "taking someone to dinner"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gorgeous dinner",
+          "feast",
+          "excellent food",
+          "special dish",
+          "delicacy"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "コーヒーをごちそうするよ。",
+      "reading": null,
+      "english": "I'll fix you some coffee.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "なんとすばらしいごちそうでしょう。",
+      "reading": null,
+      "english": "What a splendid dinner!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ごちそうは小人数ほどよい。",
+      "reading": null,
+      "english": "The fewer, the better.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

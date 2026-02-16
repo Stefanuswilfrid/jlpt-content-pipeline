@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "清書",
+    "reading": "せいしょ",
+    "romaji": "seisho",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "salinan bersih"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "kaligrafi"
+    },
+    {
+      "word": "清掃",
+      "reading": "せいそう",
+      "meaning": "pembersihan"
+    },
+    {
+      "word": "書籍",
+      "reading": "しょせき",
+      "meaning": "buku, publikasi"
+    },
+    {
+      "word": "投書",
+      "reading": "とうしょ",
+      "meaning": "surat kepada editor, surat dari pembaca, kontribusi"
+    },
+    {
+      "word": "書留",
+      "reading": "かきとめ",
+      "meaning": "pos tercatat"
+    },
+    {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "toko buku"
+    },
+    {
+      "word": "下書き",
+      "reading": "したがき",
+      "meaning": "draf kasar, rancangan awal"
+    },
+    {
+      "word": "書類",
+      "reading": "しょるい",
+      "meaning": "dokumen, surat-surat resmi"
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "perpustakaan"
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "membaca"
+    },
+    {
+      "word": "書評",
+      "reading": "しょひょう",
+      "meaning": "ulasan buku"
+    },
+    {
+      "word": "図書",
+      "reading": "としょ",
+      "meaning": "buku"
+    },
+    {
+      "word": "辞書",
+      "reading": "じしょ",
+      "meaning": "kamus"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "作文を清書する必要はありません。",
+      "reading": null,
+      "indonesian": "You don't have to write out a clean copy of your composition.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "作文を清書する必要はありません。",
+      "reading": null,
+      "indonesian": "You don't have to write out a clean copy of your composition.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ガリ版刷りの原書をLATEXで清書した。",
+      "reading": null,
+      "indonesian": "I transcribed the original mimeographed edition into LATEX.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ガリ版刷りの原書をLATEXで清書した。",
+      "reading": null,
+      "indonesian": "I transcribed the original mimeographed edition into LATEX.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

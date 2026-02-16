@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "空っぽ",
+    "reading": "からっぽ",
+    "romaji": "karappo",
+    "jlpt": "N2",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "empty",
+          "vacant",
+          "hollow"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "空想",
+      "reading": "くうそう",
+      "meaning": "daydream"
+    },
+    {
+      "word": "架空",
+      "reading": "かくう",
+      "meaning": "fictitious"
+    },
+    {
+      "word": "空中",
+      "reading": "くうちゅう",
+      "meaning": "(in) the air"
+    },
+    {
+      "word": "真空",
+      "reading": "しんくう",
+      "meaning": "vacuum"
+    },
+    {
+      "word": "空腹",
+      "reading": "くうふく",
+      "meaning": "empty stomach"
+    },
+    {
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "airport"
+    },
+    {
+      "word": "航空",
+      "reading": "こうくう",
+      "meaning": "aviation"
+    },
+    {
+      "word": "空",
+      "reading": "から",
+      "meaning": "emptiness"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "頭の空っぽな者ほど良くしゃべる。",
+      "reading": null,
+      "english": "Empty vessels make the most sound.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "開けてみたら空っぽだった。",
+      "reading": null,
+      "english": "I found the box empty.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その部屋は長い間空っぽだ。",
+      "reading": null,
+      "english": "The room has been empty for a long time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その部屋は空っぽだった。",
+      "reading": null,
+      "english": "I found the room empty.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その男の子はたちまち皿を空っぽにした。",
+      "reading": null,
+      "english": "The boy had the dish empty in a moment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのスーツケースの一つは空っぽだ。",
+      "reading": null,
+      "english": "One of the suitcases is completely empty.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この箱、空っぽよ。何も入ってないわよ。",
+      "reading": null,
+      "english": "This box is empty. It has nothing in it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの口座は空っぽだ。",
+      "reading": null,
+      "english": "Your account is empty.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

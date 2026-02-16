@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "書き取り",
+    "reading": "かきとり",
+    "romaji": "kakitori",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "writing down from other written material",
+          "writing kanji text from hiragana"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "transcription (of spoken material)",
+          "dictation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "calligraphy (esp. Asian calligraphy based on Chinese characters)"
+    },
+    {
+      "word": "書籍",
+      "reading": "しょせき",
+      "meaning": "book"
+    },
+    {
+      "word": "投書",
+      "reading": "とうしょ",
+      "meaning": "letter (e.g. of complaint)"
+    },
+    {
+      "word": "清書",
+      "reading": "せいしょ",
+      "meaning": "fair copy"
+    },
+    {
+      "word": "書留",
+      "reading": "かきとめ",
+      "meaning": "registered mail"
+    },
+    {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "bookshop"
+    },
+    {
+      "word": "下書き",
+      "reading": "したがき",
+      "meaning": "draft"
+    },
+    {
+      "word": "書類",
+      "reading": "しょるい",
+      "meaning": "document"
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "library"
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "reading (books)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "盗む",
+    "reading": "ぬすむ",
+    "romaji": "nusumu",
+    "jlpt": "N4",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to steal"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to plagiarize",
+          "to steal (a technique, idea, etc.)",
+          "to watch and learn"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to do stealthily"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to do during scant time"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to steal a base"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "強盗",
+      "reading": "ごうとう",
+      "meaning": "robber"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "目を盗む",
+      "reading": "めをぬすむ",
+      "meaning": "to do without being seen (by)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

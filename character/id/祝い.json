@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "祝い",
+    "reading": "いわい",
+    "romaji": "iwai",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perayaan",
+          "festival"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "congratulatory gift",
+          "present"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "祝日",
+      "reading": "しゅくじつ",
+      "meaning": "hari libur nasional"
+    },
+    {
+      "word": "お祝い",
+      "reading": "おいわい",
+      "meaning": "selamat, perayaan"
+    },
+    {
+      "word": "祝う",
+      "reading": "いわう",
+      "meaning": "untuk memberi selamat, untuk merayakan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ご成功をお祝い申し上げます。",
+      "reading": null,
+      "indonesian": "Let me congratulate you on your success.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

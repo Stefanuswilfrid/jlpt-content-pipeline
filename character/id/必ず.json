@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "必ず",
+    "reading": "かならず",
+    "romaji": "kanarazu",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "Tentu saja",
+          "pastinya"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "必ずしも",
+      "reading": "かならずしも",
+      "meaning": "(tidak) selalu, (tidak) perlu"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaning": "diperlukan"
+    },
+    {
+      "word": "必死",
+      "reading": "ひっし",
+      "meaning": "keputusasaan, panik, hasil yang tak terhindarkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "生ある者は必ず死あり",
+      "reading": "せいあるものはかならずしあり",
+      "meaning": "no mortal escapes death",
+      "type": "proverb"
+    },
+    {
+      "word": "積不善の家には必ず余殃あり",
+      "reading": "せきふぜんのいえにはかならずよおうあり",
+      "meaning": "iniquities of fathers are visited upon their sons",
+      "type": "proverb"
+    },
+    {
+      "word": "積善の家には必ず余慶あり",
+      "reading": "せきぜんのいえにはかならずよけいあり",
+      "meaning": "a virtuous family enjoys long prosperity",
+      "type": "proverb"
+    },
+    {
+      "word": "徳は孤ならず必ず隣あり",
+      "reading": "とくはこならずかならずとなりあり",
+      "meaning": "the virtuous man will not long remain lonely",
+      "type": "proverb"
+    },
+    {
+      "word": "三人行けば必ず我が師有り",
+      "reading": "さんにんゆけばかならずわがしあり",
+      "meaning": "something can be learned from anyone",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

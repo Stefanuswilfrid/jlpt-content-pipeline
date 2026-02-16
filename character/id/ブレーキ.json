@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "ブレーキ",
+    "reading": "ブレーキ",
+    "romaji": "bureeki",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rem"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(a) stop (to a development, behavior, etc.)",
+          "(the) brakes"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "ブレーキを掛ける",
+      "reading": "ブレーキをかける",
+      "meaning": "to put on the brakes",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "急にブレーキをかけるな。",
+      "reading": null,
+      "indonesian": "Don't brake suddenly.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ブレーキの調子が悪い。",
+      "reading": null,
+      "indonesian": "Something is wrong with the brakes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ブレーキのない自転車に乗るなんて君は無分別だ。",
+      "reading": null,
+      "indonesian": "You must be crazy to ride a bicycle that has no brakes!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ブレーキがよくきかない。",
+      "reading": null,
+      "indonesian": "The brake isn't working well.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ブレーキがきかなかった。",
+      "reading": null,
+      "indonesian": "The brake didn't work.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ブレーキがきかなくなった。",
+      "reading": null,
+      "indonesian": "The brake stopped working.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "そのブレーキはさらにテストしてみる必要がある。",
+      "reading": null,
+      "indonesian": "We must put the brake to further trials.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

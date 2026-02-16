@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "売店",
+    "reading": "ばいてん",
+    "romaji": "baiten",
+    "jlpt": "N2",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "toko",
+          "kios"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "売り切れ",
+      "reading": "うりきれ",
+      "meaning": "terjual habis"
+    },
+    {
+      "word": "売買",
+      "reading": "ばいばい",
+      "meaning": "perdagangan, jual beli"
+    },
+    {
+      "word": "発売",
+      "reading": "はつばい",
+      "meaning": "penjualan"
+    },
+    {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "toko buku"
+    },
+    {
+      "word": "商店",
+      "reading": "しょうてん",
+      "meaning": "toko, perusahaan bisnis"
+    },
+    {
+      "word": "特売",
+      "reading": "とくばい",
+      "meaning": "penjualan khusus"
+    },
+    {
+      "word": "店",
+      "reading": "みせ",
+      "meaning": "toko, tempat usaha"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あの小売店のバックにはもっと大きな会社がひかえています。",
+      "reading": null,
+      "indonesian": "The small retail outlet is only a front for a much larger entity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "病院売店はどこにありますか。",
+      "reading": null,
+      "indonesian": "Where is the hospital shop?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの小売店のバックにはもっと大きな会社がひかえています。",
+      "reading": null,
+      "indonesian": "The small retail outlet is only a front for a much larger entity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "病院売店はどこにありますか。",
+      "reading": null,
+      "indonesian": "Where is the hospital shop?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "売店で聞いてください。",
+      "reading": null,
+      "indonesian": "You'll have to ask at the newsstand.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

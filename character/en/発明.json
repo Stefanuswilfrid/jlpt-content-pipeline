@@ -1,0 +1,198 @@
+{
+  "definition": {
+    "word": "発明",
+    "reading": "はつめい",
+    "romaji": "hatsumei",
+    "jlpt": "N3",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "invention"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "intelligent",
+          "clever",
+          "smart"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発達",
+      "reading": "はったつ",
+      "meaning": "development"
+    },
+    {
+      "word": "夜明け",
+      "reading": "よあけ",
+      "meaning": "dawn"
+    },
+    {
+      "word": "明かり",
+      "reading": "あかり",
+      "meaning": "light"
+    },
+    {
+      "word": "明らか",
+      "reading": "あきらか",
+      "meaning": "clear"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "publication (of a newspaper, magazine, book, etc.)"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "development"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "announcement"
+    },
+    {
+      "word": "声明",
+      "reading": "せいめい",
+      "meaning": "declaration"
+    },
+    {
+      "word": "明確",
+      "reading": "めいかく",
+      "meaning": "clear"
+    },
+    {
+      "word": "爆発",
+      "reading": "ばくはつ",
+      "meaning": "explosion"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "discovery"
+    },
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "civilization"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "proof"
+    },
+    {
+      "word": "発射",
+      "reading": "はっしゃ",
+      "meaning": "firing (esp. a rocket or missile)"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "illumination"
+    },
+    {
+      "word": "空き",
+      "reading": "あき",
+      "meaning": "space"
+    },
+    {
+      "word": "発車",
+      "reading": "はっしゃ",
+      "meaning": "departure (of a train, car, etc.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "車輪の再発明",
+      "reading": "しゃりんのさいはつめい",
+      "meaning": "reinventing the wheel",
+      "type": "idiom"
+    },
+    {
+      "word": "必要は発明の母",
+      "reading": "ひつようははつめいのはは",
+      "meaning": "necessity is the mother of invention",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "必要は発明の母なり。",
+      "reading": null,
+      "english": "Necessity is the mother of invention.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "必要は発明の母である。",
+      "reading": null,
+      "english": "Necessity is the mother of invention.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "必要は発明の母。",
+      "reading": null,
+      "english": "Necessity is the mother of invention.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "火の利用が人類の最大の発明と考えてもよいでしょう。",
+      "reading": null,
+      "english": "Making use of fire may be regarded as man's greatest invention.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何がベルによって発明されましたか。",
+      "reading": null,
+      "english": "What did Bell invent?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何がベルによって発明されたのですか。",
+      "reading": null,
+      "english": "What was invented by Bell?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ラジオはマルコーニによって発明された。",
+      "reading": null,
+      "english": "The radio was invented by Marconi.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "マルコーニは無線を発明した。",
+      "reading": null,
+      "english": "Marconi invented the radio.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

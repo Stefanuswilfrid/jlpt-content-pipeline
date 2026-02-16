@@ -1,0 +1,159 @@
+{
+  "definition": {
+    "word": "土産",
+    "reading": "みやげ",
+    "romaji": "miyage",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "local specialty or souvenir bought as a gift while travelling"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "present brought by a visitor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "something unpleasant that one is given (e.g. an illness while on vacation)",
+          "unwelcome gift",
+          "disservice"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "破産",
+      "reading": "はさん",
+      "meaning": "bankruptcy"
+    },
+    {
+      "word": "土地",
+      "reading": "とち",
+      "meaning": "plot of land"
+    },
+    {
+      "word": "土",
+      "reading": "つち",
+      "meaning": "earth"
+    },
+    {
+      "word": "財産",
+      "reading": "ざいさん",
+      "meaning": "property"
+    },
+    {
+      "word": "倒産",
+      "reading": "とうさん",
+      "meaning": "(corporate) bankruptcy"
+    },
+    {
+      "word": "お土産",
+      "reading": "おみやげ",
+      "meaning": "local specialty or souvenir bought as a gift while traveling (travelling)"
+    },
+    {
+      "word": "農産物",
+      "reading": "のうさんぶつ",
+      "meaning": "agricultural produce"
+    },
+    {
+      "word": "産地",
+      "reading": "さんち",
+      "meaning": "producing area"
+    },
+    {
+      "word": "水産",
+      "reading": "すいさん",
+      "meaning": "aquatic products"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ホテルの中に土産品店はありますか？",
+      "reading": null,
+      "english": "Is there a souvenir shop in the hotel?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ホテル内にお土産屋さんはありますか？",
+      "reading": null,
+      "english": "Is there a souvenir shop in the hotel?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは友人への土産です。",
+      "reading": null,
+      "english": "These are gifts for my friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは北海道からのお土産です。",
+      "reading": null,
+      "english": "This is a souvenir from Hokkaido.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これはお土産です。",
+      "reading": null,
+      "english": "This is a little gift for you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このお土産かさばるなぁ。",
+      "reading": null,
+      "english": "These presents are really bulky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お土産買って帰るね。",
+      "reading": null,
+      "english": "I will pick up a little something for you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お土産に十分なものを買うだけの十分な時間がありますか。",
+      "reading": null,
+      "english": "Do you have enough time to buy enough things for souvenirs?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "旅行から帰るときの土産のことを考えておきなさい。",
+      "reading": null,
+      "english": "Make allowance for souvenirs on the return trip.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

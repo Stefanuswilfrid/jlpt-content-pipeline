@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "送る",
+    "reading": "おくる",
+    "romaji": "okuru",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to send",
+          "to dispatch",
+          "to forward",
+          "to transmit",
+          "to ship",
+          "to remit"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to see (someone) off",
+          "to escort",
+          "to accompany",
+          "to take"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bid farewell to (the departed)",
+          "to say goodbye to",
+          "to bury"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to spend (time)",
+          "to pass",
+          "to lead (a life)",
+          "to live"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pass (on, along)",
+          "to advance (a runner)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaning": "broadcasting"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "親の恩は子で送る",
+      "reading": "おやのおんはこでおくる",
+      "meaning": "one's debt to one's parents is best repaid by giving them grandchildren",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "申告",
+    "reading": "しんこく",
+    "romaji": "shinkoku",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "report",
+          "return (e.g. tax)",
+          "statement",
+          "declaration",
+          "notification",
+          "filing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "報告",
+      "reading": "ほうこく",
+      "meaning": "report"
+    },
+    {
+      "word": "広告",
+      "reading": "こうこく",
+      "meaning": "advertisement"
+    },
+    {
+      "word": "警告",
+      "reading": "けいこく",
+      "meaning": "warning"
+    },
+    {
+      "word": "申し訳",
+      "reading": "もうしわけ",
+      "meaning": "apology"
+    },
+    {
+      "word": "申し込む",
+      "reading": "もうしこむ",
+      "meaning": "to apply for"
+    },
+    {
+      "word": "申請",
+      "reading": "しんせい",
+      "meaning": "application"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "原始",
+    "reading": "げんし",
+    "romaji": "genshi",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "asal usul",
+          "purba"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "primeval",
+          "primordial",
+          "primitive"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "原産",
+      "reading": "げんさん",
+      "meaning": "tempat asal"
+    },
+    {
+      "word": "原理",
+      "reading": "げんり",
+      "meaning": "prinsip, teori, kebenaran mendasar"
+    },
+    {
+      "word": "原稿",
+      "reading": "げんこう",
+      "meaning": "manuskrip, salinan"
+    },
+    {
+      "word": "原料",
+      "reading": "げんりょう",
+      "meaning": "bahan baku"
+    },
+    {
+      "word": "始終",
+      "reading": "しじゅう",
+      "meaning": "terus menerus, selalu, konstan"
+    },
+    {
+      "word": "原子",
+      "reading": "げんし",
+      "meaning": "atom"
+    },
+    {
+      "word": "始末",
+      "reading": "しまつ",
+      "meaning": "pembuangan; membersihkan setelahnya"
+    },
+    {
+      "word": "原型",
+      "reading": "げんけい",
+      "meaning": "prototipe, model, arketipe"
+    },
+    {
+      "word": "始発",
+      "reading": "しはつ",
+      "meaning": "kereta pertama"
+    },
+    {
+      "word": "原形",
+      "reading": "げんけい",
+      "meaning": "bentuk asli, bentuk dasar"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その人類学者は原始文化に関する講演をした。",
+      "reading": null,
+      "indonesian": "The anthropologist delivered a lecture on primitive cultures.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "こちらはあちらに比べれば全く原始的だった。",
+      "reading": null,
+      "indonesian": "This was quite primitive compared to that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "子供たちはキャンプに行くと、原始的な生活を楽しむ。",
+      "reading": null,
+      "indonesian": "When the boys go camping, they enjoy living in a primitive way.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "交換",
+    "reading": "こうかん",
+    "romaji": "koukan",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "exchange",
+          "interchange",
+          "switching",
+          "reciprocity",
+          "barter",
+          "substitution",
+          "replacement",
+          "clearing (of checks, cheques)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomacy"
+    },
+    {
+      "word": "交際",
+      "reading": "こうさい",
+      "meaning": "company"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "exchange (e.g. cultural)"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "traffic"
+    },
+    {
+      "word": "替える",
+      "reading": "かえる",
+      "meaning": "to replace"
+    },
+    {
+      "word": "混ぜる",
+      "reading": "まぜる",
+      "meaning": "to mix"
+    },
+    {
+      "word": "交差点",
+      "reading": "こうさてん",
+      "meaning": "crossing"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "物々交換",
+      "reading": "ぶつぶつこうかん",
+      "meaning": "barter",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

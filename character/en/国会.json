@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "国会",
+    "reading": "こっかい",
+    "romaji": "kokkai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "National Diet",
+          "legislative assembly of Japan (1947-)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Imperial Diet",
+          "legislative assembly of Japan (1889-1947)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "legislative assembly",
+          "parliament",
+          "congress"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "国家",
+      "reading": "こっか",
+      "meaning": "state"
+    },
+    {
+      "word": "国民",
+      "reading": "こくみん",
+      "meaning": "people (of a country)"
+    },
+    {
+      "word": "全国",
+      "reading": "ぜんこく",
+      "meaning": "the whole country"
+    },
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "member"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "congress"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "mass meeting"
+    },
+    {
+      "word": "国境",
+      "reading": "こっきょう",
+      "meaning": "border (between countries)"
+    },
+    {
+      "word": "国籍",
+      "reading": "こくせき",
+      "meaning": "nationality"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "meeting"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "accounting"
+    },
+    {
+      "word": "都会",
+      "reading": "とかい",
+      "meaning": "city"
+    },
+    {
+      "word": "国語",
+      "reading": "こくご",
+      "meaning": "national language"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "meeting"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "foreign country"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "火曜日に国会が開かれる。",
+      "reading": null,
+      "english": "The Diet will meet on Tuesday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その日は国会の法令によって祝日になった。",
+      "reading": null,
+      "english": "That day was made a holiday by an act of the diet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "イギリス国会は下院と上院とに分かれている。",
+      "reading": null,
+      "english": "The British Parliament is divided into the House of Commons and the House of Lords.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

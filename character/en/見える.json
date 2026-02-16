@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "見える",
+    "reading": "みえる",
+    "romaji": "mieru",
+    "jlpt": "N4",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be seen",
+          "to be visible",
+          "to be in sight"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to look",
+          "to seem",
+          "to appear"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見つかる",
+      "reading": "みつかる",
+      "meaning": "to be found"
+    },
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "opinion"
+    },
+    {
+      "word": "見つける",
+      "reading": "みつける",
+      "meaning": "to find"
+    },
+    {
+      "word": "見る",
+      "reading": "みる",
+      "meaning": "to see"
+    },
+    {
+      "word": "花見",
+      "reading": "はなみ",
+      "meaning": "cherry blossom viewing"
+    },
+    {
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "sightseeing"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "山が見える",
+      "reading": "やまがみえる",
+      "meaning": "to have the end in sight",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "なぜ空が青く見えるか知っていますか。",
+      "reading": null,
+      "english": "Do you know the reason why the sky looks blue?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "故障",
+    "reading": "こしょう",
+    "romaji": "koshou",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "fault",
+          "trouble",
+          "breakdown",
+          "failure",
+          "being out of order"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "damage (to a part of the body)",
+          "injury",
+          "hurt"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "problem",
+          "hitch",
+          "obstacle",
+          "hindrance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "objection",
+          "protest"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "事故",
+      "reading": "じこ",
+      "meaning": "accident"
+    },
+    {
+      "word": "障害",
+      "reading": "しょうがい",
+      "meaning": "obstacle"
+    },
+    {
+      "word": "故郷",
+      "reading": "ふるさと",
+      "meaning": "hometown"
+    },
+    {
+      "word": "故人",
+      "reading": "こじん",
+      "meaning": "the deceased"
+    },
+    {
+      "word": "故郷",
+      "reading": "こきょう",
+      "meaning": "hometown"
+    },
+    {
+      "word": "保証",
+      "reading": "ほしょう",
+      "meaning": "guarantee"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

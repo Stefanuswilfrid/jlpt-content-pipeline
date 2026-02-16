@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "驚く",
+    "reading": "おどろく",
+    "romaji": "odoroku",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be surprised",
+          "to be taken aback",
+          "to be amazed",
+          "to be astonished",
+          "to be shocked"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be frightened",
+          "to be startled",
+          "to be alarmed"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "驚き",
+      "reading": "おどろき",
+      "meaning": "surprise"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

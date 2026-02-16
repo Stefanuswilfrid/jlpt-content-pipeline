@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "凡そ",
+    "reading": "およそ",
+    "romaji": "oyoso",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sekitar",
+          "kurang lebih",
+          "kira-kira"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "generally",
+          "on the whole",
+          "as a rule"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "completely",
+          "quite",
+          "entirely",
+          "altogether",
+          "totally",
+          "not at all (with neg. verb)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "outline",
+          "gist"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "全て",
+      "reading": "すべて",
+      "meaning": "semuanya, keseluruhan, seluruhnya"
+    },
+    {
+      "word": "平凡",
+      "reading": "へいぼん",
+      "meaning": "umum, biasa"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それがどこにあるのか、およその見当はついている。",
+      "reading": null,
+      "indonesian": "I have a rough idea where it is.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "市の人口は、およそ４００万人です。",
+      "reading": null,
+      "indonesian": "The city has a population of about four million.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そうですね。バスでおよそ２時間ぐらいかかります。",
+      "reading": null,
+      "indonesian": "Let me see. It takes about two hours by bus.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これはおよそ５００年前に建てられた。",
+      "reading": null,
+      "indonesian": "This was built some 500 years ago.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "およそ２週間で。",
+      "reading": null,
+      "indonesian": "In about two weeks.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

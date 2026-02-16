@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "その為",
+    "reading": "そのため",
+    "romaji": "sonotame",
+    "jlpt": "N2",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "oleh karena itu",
+          "karena alasan itu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "為替",
+      "reading": "かわせ",
+      "meaning": "wesel pos, penukaran"
+    },
+    {
+      "word": "為す",
+      "reading": "なす",
+      "meaning": "untuk menyelesaikan, untuk melakukan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一行は、そのため、別のルートを取らねばならなかった。",
+      "reading": null,
+      "indonesian": "The party, therefore, had to take another route.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まだそのためには機が熟していないと思う。",
+      "reading": null,
+      "indonesian": "I'm afraid the time is not yet ripe for it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのため大勢の人が亡くなった。",
+      "reading": null,
+      "indonesian": "Therefore many people passed away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのための時間は十分ある。",
+      "reading": null,
+      "indonesian": "I have enough time for that.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのために問題はますます複雑になった。",
+      "reading": null,
+      "indonesian": "That made the problem all the more complicated.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのために仕事を失うことになるかもしれない。",
+      "reading": null,
+      "indonesian": "It'll cost me my job.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

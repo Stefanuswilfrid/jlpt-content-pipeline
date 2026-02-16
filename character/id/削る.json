@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "削る",
+    "reading": "けずる",
+    "romaji": "kezuru",
+    "jlpt": "N2",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengurangi sedikit demi sedikit",
+          "mengambil persentase"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cut down (budget, expenses, staff, time, etc.)",
+          "to curtail",
+          "to reduce"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to delete",
+          "to erase",
+          "to remove",
+          "to cross out",
+          "to strike out"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "削除",
+      "reading": "さくじょ",
+      "meaning": "penghapusan, pemusnahan"
+    },
+    {
+      "word": "削減",
+      "reading": "さくげん",
+      "meaning": "pemotongan, pengurangan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "しのぎを削る",
+      "reading": "しのぎをけずる",
+      "meaning": "to compete ruthlessly",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

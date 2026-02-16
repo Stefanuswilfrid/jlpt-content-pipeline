@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "丸で",
+    "reading": "まるで",
+    "romaji": "marude",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "persis seperti"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(not) at all",
+          "(not) in the slightest",
+          "(not) a bit"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "really",
+          "completely",
+          "entirely",
+          "wholly",
+          "truly",
+          "quite"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "丸",
+      "reading": "まる",
+      "meaning": "lingkaran, penuh (bulan)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君はまるで人ごとみたいな顔をしているね。",
+      "reading": null,
+      "indonesian": "You look as if it were none of your business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はまるで何も起こらなかったような顔をしている。",
+      "reading": null,
+      "indonesian": "You look as though nothing has happened to you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒くて手の感じがまるでない。",
+      "reading": null,
+      "indonesian": "My hands are numb from the cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会議はそのうち始まるでしょう。",
+      "reading": null,
+      "indonesian": "The conference will commence in due course.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何時に試合は始まるでしょうか。",
+      "reading": null,
+      "indonesian": "What time will the game start?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ライトさんは、まるで母国語の様に日本語を話します。",
+      "reading": null,
+      "indonesian": "Mr Wright speaks Japanese as if it were his mother tongue.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

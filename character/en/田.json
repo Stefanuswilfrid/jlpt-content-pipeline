@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "田",
+    "reading": "た",
+    "romaji": "ta",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rice field"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "田舎",
+      "reading": "いなか",
+      "meaning": "rural area"
+    },
+    {
+      "word": "田植え",
+      "reading": "たうえ",
+      "meaning": "rice planting"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "我田引水",
+      "reading": "がでんいんすい",
+      "meaning": "seeking one's own interests",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "臍下丹田",
+      "reading": "せいかたんでん",
+      "meaning": "pit of the stomach",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "田夫野人",
+      "reading": "でんぷやじん",
+      "meaning": "rustic",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "瓜田李下",
+      "reading": "かでんりか",
+      "meaning": "be careful not to invite the least suspicion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "滄海桑田",
+      "reading": "そうかいそうでん",
+      "meaning": "the world is a scene of constant changes",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "桑田滄海",
+      "reading": "そうでんそうかい",
+      "meaning": "the world is a scene of constant changes (as a mulberry field changing into a blue sea)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "桑田碧海",
+      "reading": "そうでんへきかい",
+      "meaning": "the world is a scene of constant changes (as a mulberry field changing into a blue sea)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "李下瓜田",
+      "reading": "りかかでん",
+      "meaning": "be careful not to invite the least suspicion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "京に田舎あり",
+      "reading": "きょうにいなかあり",
+      "meaning": "even in bustling cities there are places that have a rural quality to them",
+      "type": "proverb"
+    },
+    {
+      "word": "瓜田に履を納れず",
+      "reading": "かでんにくつをいれず",
+      "meaning": "avoid compromising situations",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "学校の遠足で十和田湖へ行った。",
+      "reading": null,
+      "english": "We went to Lake Towada on a school excursion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海底油田の開発をしたい。",
+      "reading": null,
+      "english": "We want to explore an underwater oil field.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

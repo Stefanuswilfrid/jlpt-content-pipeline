@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "符号",
+    "reading": "ふごう",
+    "romaji": "fugou",
+    "jlpt": "N2",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sign",
+          "mark",
+          "symbol",
+          "code"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sign (e.g. positive, negative)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "記号",
+      "reading": "きごう",
+      "meaning": "sign"
+    },
+    {
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "number"
+    },
+    {
+      "word": "信号",
+      "reading": "しんごう",
+      "meaning": "signal"
+    },
+    {
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaning": "ticket"
+    },
+    {
+      "word": "年号",
+      "reading": "ねんごう",
+      "meaning": "name of an imperial era (e.g. Heisei, Shōwa)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

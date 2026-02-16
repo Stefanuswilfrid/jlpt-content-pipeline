@@ -1,0 +1,159 @@
+{
+  "definition": {
+    "word": "世の中",
+    "reading": "よのなか",
+    "romaji": "yononaka",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "society",
+          "the world",
+          "the times"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "centre"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "center"
+    },
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "concentration (on a task)"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "interruption"
+    },
+    {
+      "word": "世紀",
+      "reading": "せいき",
+      "meaning": "century"
+    },
+    {
+      "word": "日中",
+      "reading": "にっちゅう",
+      "meaning": "daytime"
+    },
+    {
+      "word": "中身",
+      "reading": "なかみ",
+      "meaning": "contents"
+    },
+    {
+      "word": "世間",
+      "reading": "せけん",
+      "meaning": "world"
+    },
+    {
+      "word": "世",
+      "reading": "よ",
+      "meaning": "world"
+    },
+    {
+      "word": "中古",
+      "reading": "ちゅうこ",
+      "meaning": "used"
+    },
+    {
+      "word": "半ば",
+      "reading": "なかば",
+      "meaning": "middle"
+    },
+    {
+      "word": "中世",
+      "reading": "ちゅうせい",
+      "meaning": "Middle Ages (in Japan esp. the Kamakura and Muromachi periods)"
+    },
+    {
+      "word": "夜中",
+      "reading": "よなか",
+      "meaning": "middle of the night"
+    },
+    {
+      "word": "年中",
+      "reading": "ねんじゅう",
+      "meaning": "whole year"
+    },
+    {
+      "word": "夢中",
+      "reading": "むちゅう",
+      "meaning": "absorbed in"
+    },
+    {
+      "word": "熱中",
+      "reading": "ねっちゅう",
+      "meaning": "being enthusiastic about"
+    },
+    {
+      "word": "最中",
+      "reading": "さいちゅう",
+      "meaning": "(in) the middle of"
+    },
+    {
+      "word": "世界",
+      "reading": "せかい",
+      "meaning": "the world"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "金の世の中",
+      "reading": "かねのよのなか",
+      "meaning": "money rules the world",
+      "type": "idiom"
+    },
+    {
+      "word": "人間万事金の世の中",
+      "reading": "にんげんばんじかねのよのなか",
+      "meaning": "money talks",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この世の中には新しいことは何もない。",
+      "reading": null,
+      "english": "There is nothing new under the sun.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "良かれ悪しかれ、テレビは世の中を変えた。",
+      "reading": null,
+      "english": "For better or for worse, television has changed the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "万事が金の世の中だ。",
+      "reading": null,
+      "english": "Money is everything.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

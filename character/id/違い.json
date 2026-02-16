@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "違い",
+    "reading": "ちがい",
+    "romaji": "chigai",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perbedaan",
+          "ketidaksesuaian"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mistake",
+          "error"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "違反",
+      "reading": "いはん",
+      "meaning": "pelanggaran (hukum), pelanggaran"
+    },
+    {
+      "word": "間違い",
+      "reading": "まちがい",
+      "meaning": "kesalahan"
+    },
+    {
+      "word": "相違",
+      "reading": "そうい",
+      "meaning": "perbedaan, ketidaksesuaian, variasi"
+    },
+    {
+      "word": "勘違い",
+      "reading": "かんちがい",
+      "meaning": "kesalahpahaman, tebakan yang salah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "見ると聞くとは大違い",
+      "reading": "みるときくとはおおちがい",
+      "meaning": "there is a great difference between being told about something and actually seeing it with your own eyes",
+      "type": "proverb"
+    },
+    {
+      "word": "聞くと見るとは大違い",
+      "reading": "きくとみるとはおおちがい",
+      "meaning": "don't believe everything you hear",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

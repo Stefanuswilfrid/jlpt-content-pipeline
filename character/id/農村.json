@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "農村",
+    "reading": "のうそん",
+    "romaji": "nouson",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "komunitas pertanian"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "rural"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "農薬",
+      "reading": "のうやく",
+      "meaning": "bahan kimia pertanian"
+    },
+    {
+      "word": "農産物",
+      "reading": "のうさんぶつ",
+      "meaning": "produk pertanian"
+    },
+    {
+      "word": "農業",
+      "reading": "のうぎょう",
+      "meaning": "pertanian"
+    },
+    {
+      "word": "農家",
+      "reading": "のうか",
+      "meaning": "petani, keluarga petani"
+    },
+    {
+      "word": "村",
+      "reading": "むら",
+      "meaning": "desa"
+    },
+    {
+      "word": "農民",
+      "reading": "のうみん",
+      "meaning": "petani, buruh tani"
+    },
+    {
+      "word": "農地",
+      "reading": "のうち",
+      "meaning": "lahan pertanian"
+    },
+    {
+      "word": "農場",
+      "reading": "のうじょう",
+      "meaning": "peternakan"
+    },
+    {
+      "word": "酪農",
+      "reading": "らくのう",
+      "meaning": "peternakan sapi perah"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "日本の農村風景は大きく変わったといわれています。",
+      "reading": null,
+      "indonesian": "It's said that Japan's rural landscape has changed greatly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本の農村風景は大きく変わったといわれています。",
+      "reading": null,
+      "indonesian": "It's said that Japan's rural landscape has changed greatly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

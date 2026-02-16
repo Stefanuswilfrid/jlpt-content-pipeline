@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "幸せ",
+    "reading": "しあわせ",
+    "romaji": "shiawase",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "happiness",
+          "good fortune",
+          "luck",
+          "blessing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "unhappiness"
+    },
+    {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "happiness"
+    },
+    {
+      "word": "幸い",
+      "reading": "さいわい",
+      "meaning": "happiness"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "good luck"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "芸が身を助けるほどの不幸せ",
+      "reading": "げいがみをたすけるほどのふしあわせ",
+      "meaning": "being able to live as an artist is no blessing",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "幸せですか？",
+      "reading": null,
+      "english": "Are you happy?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたは幸せですか？",
+      "reading": null,
+      "english": "Are you happy?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君はそんな友人たちを持って幸せだ。",
+      "reading": null,
+      "english": "You are very fortunate that you have such friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君との時間はいつだって幸せな時間だ。",
+      "reading": null,
+      "english": "It's always delightful to see you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が幸せならそれでかまわない。",
+      "reading": null,
+      "english": "I don't care as long as you are happy.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金持ちは必ずしも幸せではない。",
+      "reading": null,
+      "english": "The rich are not always happy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "幸せはお金では買えない。",
+      "reading": null,
+      "english": "Money cannot buy happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金で幸せを買うことはできない。",
+      "reading": null,
+      "english": "Money can't buy happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "幸せはお金では買えないよ。",
+      "reading": null,
+      "english": "Money can't buy happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

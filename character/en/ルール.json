@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "ルール",
+    "reading": "ルール",
+    "romaji": "ruuru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rule"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ドライバーは必ず交通ルールを守ってください。",
+      "reading": null,
+      "english": "Drivers must observe the traffic rules.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "例外のないルールはない。",
+      "reading": null,
+      "english": "There are exceptions to every rule.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "サッカーのルールを説明してください。",
+      "reading": null,
+      "english": "Please explain the rules of soccer to me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このルールはすべての場合に当てはまる。",
+      "reading": null,
+      "english": "This rule applies to all cases.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "definition": {
+    "word": "合流",
+    "reading": "ごうりゅう",
+    "romaji": "gouryuu",
+    "jlpt": "N2",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "confluence (of rivers)",
+          "flowing together",
+          "joining"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "joining (of people, groups, parties, etc.)",
+          "union",
+          "linking up",
+          "merging (e.g. of traffic)",
+          "meeting (up)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "union"
+    },
+    {
+      "word": "問い合わせ",
+      "reading": "といあわせ",
+      "meaning": "inquiry"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "exchange (e.g. cultural)"
+    },
+    {
+      "word": "合同",
+      "reading": "ごうどう",
+      "meaning": "combination"
+    },
+    {
+      "word": "一流",
+      "reading": "いちりゅう",
+      "meaning": "first-class"
+    },
+    {
+      "word": "集合",
+      "reading": "しゅうごう",
+      "meaning": "meeting up"
+    },
+    {
+      "word": "流域",
+      "reading": "りゅういき",
+      "meaning": "drainage basin"
+    },
+    {
+      "word": "待合室",
+      "reading": "まちあいしつ",
+      "meaning": "waiting room"
+    },
+    {
+      "word": "釣り合う",
+      "reading": "つりあう",
+      "meaning": "to balance"
+    },
+    {
+      "word": "合理",
+      "reading": "ごうり",
+      "meaning": "rationality"
+    },
+    {
+      "word": "混合",
+      "reading": "こんごう",
+      "meaning": "mixing"
+    },
+    {
+      "word": "電流",
+      "reading": "でんりゅう",
+      "meaning": "electric current"
+    },
+    {
+      "word": "直流",
+      "reading": "ちょくりゅう",
+      "meaning": "direct current"
+    },
+    {
+      "word": "待ち合わせる",
+      "reading": "まちあわせる",
+      "meaning": "to rendezvous"
+    },
+    {
+      "word": "合議",
+      "reading": "ごうぎ",
+      "meaning": "consultation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そのレストランは２つの高速道路の合流点に立っている。",
+      "reading": null,
+      "english": "The restaurant stands at the junction of two superhighways.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この道はそこでハイウエイに合流する。",
+      "reading": null,
+      "english": "This road joins the highway there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "川はこの橋の下流で別の川と合流する。",
+      "reading": null,
+      "english": "The river meets another below this bridge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は後で君たちに合流する。",
+      "reading": null,
+      "english": "I'll join you later.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのレストランは２つの高速道路の合流点に立っている。",
+      "reading": null,
+      "english": "The restaurant stands at the junction of two superhighways.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この道はそこでハイウエイに合流する。",
+      "reading": null,
+      "english": "This road joins the highway there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は後で君たちに合流する。",
+      "reading": null,
+      "english": "I'll join you later.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "後であなたたちに合流します。",
+      "reading": null,
+      "english": "I'll join you later.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "川はこの橋の下流で別の川と合流する。",
+      "reading": null,
+      "english": "The river meets another below this bridge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "後であなたたちに合流します。",
+      "reading": null,
+      "english": "I'll join you later.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "友だちと合流するのに手間取った。",
+      "reading": null,
+      "english": "It took me a while to meet up with my friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "友だちと合流するのに手間取った。",
+      "reading": null,
+      "english": "It took me a while to meet up with my friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

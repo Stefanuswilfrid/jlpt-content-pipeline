@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "恨み",
+    "reading": "うらみ",
+    "romaji": "urami",
+    "jlpt": "N2",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kebencian"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "matter for regret",
+          "regret"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "恨む",
+      "reading": "うらむ",
+      "meaning": "mengutuk, merasa pahit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "恨みを買う",
+      "reading": "うらみをかう",
+      "meaning": "to incur someone's enmity",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

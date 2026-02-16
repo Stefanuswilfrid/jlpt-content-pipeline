@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "再三",
+    "reading": "さいさん",
+    "romaji": "saisan",
+    "jlpt": "N2",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "berulang kali",
+          "terus-menerus"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "再び",
+      "reading": "ふたたび",
+      "meaning": "lagi, sekali lagi, untuk kedua kalinya"
+    },
+    {
+      "word": "再来月",
+      "reading": "さらいげつ",
+      "meaning": "bulan setelah bulan depan"
+    },
+    {
+      "word": "再来週",
+      "reading": "さらいしゅう",
+      "meaning": "minggu setelah minggu depan"
+    },
+    {
+      "word": "三角",
+      "reading": "さんかく",
+      "meaning": "segitiga, berbentuk segitiga"
+    },
+    {
+      "word": "三日月",
+      "reading": "みかづき",
+      "meaning": "bulan Sabit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "再三再四",
+      "reading": "さいさんさいし",
+      "meaning": "repeatedly",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "先生は私達にそのことを再三再四話した。",
+      "reading": null,
+      "indonesian": "The teacher told us that over and over again.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "先生はそのことを私たちに再三再四話した。",
+      "reading": null,
+      "indonesian": "The teacher told us that over and over again.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "先生は私達にそのことを再三再四話した。",
+      "reading": null,
+      "indonesian": "The teacher told us that over and over again.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "先生はそのことを私たちに再三再四話した。",
+      "reading": null,
+      "indonesian": "The teacher told us that over and over again.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

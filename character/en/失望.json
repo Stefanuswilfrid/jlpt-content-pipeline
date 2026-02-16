@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "失望",
+    "reading": "しつぼう",
+    "romaji": "shitsubou",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "disappointment",
+          "despair"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "志望",
+      "reading": "しぼう",
+      "meaning": "wish"
+    },
+    {
+      "word": "望み",
+      "reading": "のぞみ",
+      "meaning": "wish"
+    },
+    {
+      "word": "希望",
+      "reading": "きぼう",
+      "meaning": "hope"
+    },
+    {
+      "word": "失業",
+      "reading": "しつぎょう",
+      "meaning": "unemployment"
+    },
+    {
+      "word": "過失",
+      "reading": "かしつ",
+      "meaning": "accident (caused by negligence)"
+    },
+    {
+      "word": "望遠鏡",
+      "reading": "ぼうえんきょう",
+      "meaning": "telescope"
+    },
+    {
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "failure"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "失望落胆",
+      "reading": "しつぼうらくたん",
+      "meaning": "being disappointed and disheartened",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "失望するな。",
+      "reading": null,
+      "english": "Don't give up hope.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "やることが少なくて失望した。",
+      "reading": null,
+      "english": "I was disappointed at there being so little to do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

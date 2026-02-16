@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "引用",
+    "reading": "いんよう",
+    "romaji": "in'you",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "kutipan",
+          "referensi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "引っ張る",
+      "reading": "ひっぱる",
+      "meaning": "menarik, meregangkan, menyeret"
+    },
+    {
+      "word": "用いる",
+      "reading": "もちいる",
+      "meaning": "menggunakan, memanfaatkan"
+    },
+    {
+      "word": "使用",
+      "reading": "しよう",
+      "meaning": "penggunaan (sama dengan 使うこと (つかうこと)), penerapan, pekerjaan, pemanfaatan"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "biaya, pengeluaran"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "kepercayaan, ketergantungan"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "menerapkan"
+    },
+    {
+      "word": "引退",
+      "reading": "いんたい",
+      "meaning": "masa pensiun"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "konjugasi; penggunaan praktis"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "perawatan, pencegahan, kewaspadaan"
+    },
+    {
+      "word": "私用",
+      "reading": "しよう",
+      "meaning": "penggunaan pribadi, bisnis pribadi"
+    },
+    {
+      "word": "器用",
+      "reading": "きよう",
+      "meaning": "terampil, cekatan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ハムレットから１行引用できますか。",
+      "reading": null,
+      "indonesian": "Can you quote a line of Hamlet?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このことばは、君の持っている本から引用したのだ。",
+      "reading": null,
+      "indonesian": "These words came out of the book you have.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父はシェイクスピアを引用した手紙を書いていた。",
+      "reading": null,
+      "indonesian": "My father used to write letters that quoted from Shakespeare.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

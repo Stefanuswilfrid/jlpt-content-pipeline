@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "照明",
+    "reading": "しょうめい",
+    "romaji": "shoumei",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "penerangan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "peradaban"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "bukti, verifikasi"
+    },
+    {
+      "word": "声明",
+      "reading": "せいめい",
+      "meaning": "deklarasi, pernyataan, proklamasi"
+    },
+    {
+      "word": "空き",
+      "reading": "あき",
+      "meaning": "lowongan, kesempatan, ruang"
+    },
+    {
+      "word": "夜明け",
+      "reading": "よあけ",
+      "meaning": "fajar, subuh"
+    },
+    {
+      "word": "対照",
+      "reading": "たいしょう",
+      "meaning": "kontras, antitesis, perbandingan"
+    },
+    {
+      "word": "明かり",
+      "reading": "あかり",
+      "meaning": "cahaya lampu, cahaya (secara umum)"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "penemuan"
+    },
+    {
+      "word": "透明",
+      "reading": "とうめい",
+      "meaning": "transparansi, kebersihan"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "besok"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "すべての照明が消えた。",
+      "reading": null,
+      "indonesian": "All the lights went out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人のいない部屋の照明をこまめに消す。",
+      "reading": null,
+      "indonesian": "Take care to turn off lights in rooms when nobody's in them.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人のいない部屋の照明をこまめに消す。",
+      "reading": null,
+      "indonesian": "Take care to turn off lights in rooms when nobody's in them.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

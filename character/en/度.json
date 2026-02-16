@@ -1,0 +1,183 @@
+{
+  "definition": {
+    "word": "度",
+    "reading": "たび",
+    "romaji": "tabi",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix",
+          "counter"
+        ],
+        "meanings": [
+          "time (three times, each time, etc.)",
+          "times"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "温度",
+      "reading": "おんど",
+      "meaning": "temperature"
+    },
+    {
+      "word": "速度",
+      "reading": "そくど",
+      "meaning": "speed"
+    },
+    {
+      "word": "湿度",
+      "reading": "しつど",
+      "meaning": "humidity"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "system"
+    },
+    {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning": "degree"
+    },
+    {
+      "word": "態度",
+      "reading": "たいど",
+      "meaning": "attitude"
+    },
+    {
+      "word": "適度",
+      "reading": "てきど",
+      "meaning": "moderate (degree)"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "altitude"
+    },
+    {
+      "word": "限度",
+      "reading": "げんど",
+      "meaning": "limit"
+    },
+    {
+      "word": "濃度",
+      "reading": "のうど",
+      "meaning": "concentration"
+    },
+    {
+      "word": "角度",
+      "reading": "かくど",
+      "meaning": "angle"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "度肝を抜く",
+      "reading": "どぎもをぬく",
+      "meaning": "to astonish",
+      "type": "idiom"
+    },
+    {
+      "word": "仏の顔も三度",
+      "reading": "ほとけのかおもさんど",
+      "meaning": "even the patience of a saint eventually runs out",
+      "type": "proverb"
+    },
+    {
+      "word": "度が過ぎる",
+      "reading": "どがすぎる",
+      "meaning": "to go too far",
+      "type": "idiom"
+    },
+    {
+      "word": "度を失う",
+      "reading": "どをうしなう",
+      "meaning": "to lose one's presence of mind",
+      "type": "idiom"
+    },
+    {
+      "word": "寛仁大度",
+      "reading": "かんじんたいど",
+      "meaning": "being generous, benevolent and magnanimous in disposition",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "衆生済度",
+      "reading": "しゅじょうさいど",
+      "meaning": "enlightenment of the masses",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三度目の正直",
+      "reading": "さんどめのしょうじき",
+      "meaning": "third time lucky",
+      "type": "proverb"
+    },
+    {
+      "word": "人生一度きり",
+      "reading": "じんせいいちどきり",
+      "meaning": "you only live once",
+      "type": "proverb"
+    },
+    {
+      "word": "男は度胸女は愛敬",
+      "reading": "おとこはどきょうおんなはあいきょう",
+      "meaning": "men should be brave, women should be affable",
+      "type": "proverb"
+    },
+    {
+      "word": "七度尋ねて人を疑え",
+      "reading": "ななたびたずねてひとをうたがえ",
+      "meaning": "search thoroughly for something lost before you suspect someone of stealing it",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もう一度言ってくださいますか。",
+      "reading": null,
+      "english": "Could you please repeat that?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はもう１度この本を読んだら３度読んだことになるね。",
+      "reading": null,
+      "english": "If you read this book again, you will have read it three times.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君の答えは正しくない。もう一度やりなさい。",
+      "reading": null,
+      "english": "Your answer isn't correct. Try again.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君のジョークは何度聞いてもおかしい。",
+      "reading": null,
+      "english": "Your joke bears repeating.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたにもう一度会いたいな。",
+      "reading": null,
+      "english": "I want to see you again.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

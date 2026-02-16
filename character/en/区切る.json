@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "区切る",
+    "reading": "くぎる",
+    "romaji": "kugiru",
+    "jlpt": "N2",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to divide",
+          "to separate",
+          "to partition",
+          "to demarcate",
+          "to delimit",
+          "to mark off"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to punctuate",
+          "to mark off (with a comma)",
+          "to insert pauses (between words or phrases when reading aloud)",
+          "to space one's words"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "張り切る",
+      "reading": "はりきる",
+      "meaning": "to be in high spirits"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "division"
+    },
+    {
+      "word": "締め切る",
+      "reading": "しめきる",
+      "meaning": "to close up"
+    },
+    {
+      "word": "切開",
+      "reading": "せっかい",
+      "meaning": "incision"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "distinction"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

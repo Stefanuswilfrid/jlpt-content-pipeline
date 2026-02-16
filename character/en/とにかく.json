@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "兎に角",
+    "reading": "とにかく",
+    "romaji": "tonikaku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "anyway",
+          "anyhow",
+          "at any rate",
+          "in any case",
+          "at least",
+          "just"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "setting aside ...",
+          "regardless of ..."
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "really",
+          "truly",
+          "certainly",
+          "definitely",
+          "undeniably"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "折角",
+      "reading": "せっかく",
+      "meaning": "with trouble"
+    },
+    {
+      "word": "四角",
+      "reading": "しかく",
+      "meaning": "quadrilateral"
+    },
+    {
+      "word": "兎",
+      "reading": "うさぎ",
+      "meaning": "rabbit"
+    },
+    {
+      "word": "角",
+      "reading": "かど",
+      "meaning": "corner"
+    },
+    {
+      "word": "角度",
+      "reading": "かくど",
+      "meaning": "angle"
+    },
+    {
+      "word": "角",
+      "reading": "かく",
+      "meaning": "angle"
+    },
+    {
+      "word": "角",
+      "reading": "つの",
+      "meaning": "horn"
+    },
+    {
+      "word": "四つ角",
+      "reading": "よつかど",
+      "meaning": "four corners"
+    },
+    {
+      "word": "三角",
+      "reading": "さんかく",
+      "meaning": "triangle"
+    },
+    {
+      "word": "街角",
+      "reading": "まちかど",
+      "meaning": "street corner"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "よしあしは別としてとにかくやってみよう。",
+      "reading": null,
+      "english": "Whether it's good or not, let's do it anyway.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "良いか悪いかは置いといて、とにかくやってみよう。",
+      "reading": null,
+      "english": "Whether it's good or not, let's do it anyway.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とにかく、お前には関係ないことだ。",
+      "reading": null,
+      "english": "In any case, it's none of your business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とにかく来てくださればうれしい。",
+      "reading": null,
+      "english": "At any rate, I hope you can come.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "とにかく明日電話するよ。",
+      "reading": null,
+      "english": "In any case, I'll call you tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "とにかく万事うまくいくように期待しよう。",
+      "reading": null,
+      "english": "Let's hope for the best anyway.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とにかく望みのものが手に入らなかった。",
+      "reading": null,
+      "english": "Anyway, she didn't get what she hoped for.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

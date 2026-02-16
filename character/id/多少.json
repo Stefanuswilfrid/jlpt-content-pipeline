@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "多少",
+    "reading": "たしょう",
+    "romaji": "tashou",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "sedikit (sama seperti 少し (すこし))"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "amount",
+          "quantity",
+          "number"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "少年",
+      "reading": "しょうねん",
+      "meaning": "anak laki-laki, remaja"
+    },
+    {
+      "word": "減少",
+      "reading": "げんしょう",
+      "meaning": "penurunan, pengurangan, kemerosotan"
+    },
+    {
+      "word": "少女",
+      "reading": "しょうじょ",
+      "meaning": "gadis muda"
+    },
+    {
+      "word": "滅多に",
+      "reading": "めったに",
+      "meaning": "jarang (dengan kata kerja negatif), jarang"
+    },
+    {
+      "word": "少しも",
+      "reading": "すこしも",
+      "meaning": "sedikit pun, tidak sedikit pun."
+    },
+    {
+      "word": "大いに",
+      "reading": "おおいに",
+      "meaning": "banyak, sangat (sama dengan 大変 (たいへん)), sangat"
+    },
+    {
+      "word": "少々",
+      "reading": "しょうしょう",
+      "meaning": "sedikit; pendek (waktu) (formal untuk 少し (すこし))"
+    },
+    {
+      "word": "青少年",
+      "reading": "せいしょうねん",
+      "meaning": "pemuda, orang muda"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "多少のお金はあるよ。",
+      "reading": null,
+      "indonesian": "I have a little money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その決定はあなたが言ったことと多少関係がある。",
+      "reading": null,
+      "indonesian": "The decision has something to do with what you said.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのスチュワーデスは多少フランス語が話せる。",
+      "reading": null,
+      "indonesian": "The stewardess can speak French after a fashion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スープに多少の塩が必要だと思う。",
+      "reading": null,
+      "indonesian": "I think the soup needs a bit of salt.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジョンの父はフランス語を多少知っている。",
+      "reading": null,
+      "indonesian": "John's father has some knowledge of French.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "多少のお金はあるよ。",
+      "reading": null,
+      "indonesian": "I have got some money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたは多少の点数はかせげるかもしれません。",
+      "reading": null,
+      "indonesian": "You might just chalk up some brownie points.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

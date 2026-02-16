@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "研修",
+    "reading": "けんしゅう",
+    "romaji": "kenshuu",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "training (esp. in-service)",
+          "induction course"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "編集",
+      "reading": "へんしゅう",
+      "meaning": "editing"
+    },
+    {
+      "word": "修繕",
+      "reading": "しゅうぜん",
+      "meaning": "repair"
+    },
+    {
+      "word": "研究",
+      "reading": "けんきゅう",
+      "meaning": "research"
+    },
+    {
+      "word": "修正",
+      "reading": "しゅうせい",
+      "meaning": "amendment"
+    },
+    {
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaning": "repair"
+    },
+    {
+      "word": "研究室",
+      "reading": "けんきゅうしつ",
+      "meaning": "laboratory"
+    },
+    {
+      "word": "自習",
+      "reading": "じしゅう",
+      "meaning": "self-study"
+    },
+    {
+      "word": "修行",
+      "reading": "しゅぎょう",
+      "meaning": "training"
+    },
+    {
+      "word": "改修",
+      "reading": "かいしゅう",
+      "meaning": "repair"
+    },
+    {
+      "word": "専修",
+      "reading": "せんしゅう",
+      "meaning": "specialization"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "全ての研修生はつらい仕事の苦労を分かち合っている。",
+      "reading": null,
+      "english": "All the trainees share the burden of toil.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "研修会は午後4時開始予定です。",
+      "reading": null,
+      "english": "The training session is scheduled to begin at 4 p.m.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "研修会は午後4時開始予定です。",
+      "reading": null,
+      "english": "The training session is scheduled to begin at 4 p.m.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "全ての研修生はつらい仕事の苦労を分かち合っている。",
+      "reading": null,
+      "english": "All the trainees share the burden of toil.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

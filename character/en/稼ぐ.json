@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "稼ぐ",
+    "reading": "かせぐ",
+    "romaji": "kasegu",
+    "jlpt": "N3",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to earn (income)",
+          "to make (money)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to score (points, victory)",
+          "to gain (time)",
+          "to play (for time)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to work hard (at one's job)",
+          "to labor",
+          "to labour",
+          "to toil"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "馬鹿",
+      "reading": "ばか",
+      "meaning": "idiot"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "点数を稼ぐ",
+      "reading": "てんすうをかせぐ",
+      "meaning": "to score points with (a person)",
+      "type": "idiom"
+    },
+    {
+      "word": "点を稼ぐ",
+      "reading": "てんをかせぐ",
+      "meaning": "to score points with (a person)",
+      "type": "idiom"
+    },
+    {
+      "word": "稼ぐに追いつく貧乏なし",
+      "reading": "かせぐにおいつくびんぼうなし",
+      "meaning": "poverty is a stranger to industry",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

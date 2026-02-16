@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "札",
+    "reading": "さつ",
+    "romaji": "satsu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "token",
+          "label; tiket",
+          "kartu; jimat",
+          "azimat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "改札",
+      "reading": "かいさつ",
+      "meaning": "pemeriksaan tiket"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "挨拶より円札",
+      "reading": "あいさつよりえんさつ",
+      "meaning": "money speaks louder than words",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "荷物にこの荷札を付けてください。",
+      "reading": null,
+      "indonesian": "Attach this label to your package.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "荷札がトランクについている。",
+      "reading": null,
+      "indonesian": "The label is attached to the trunk.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "１万円札くずれますか。",
+      "reading": null,
+      "indonesian": "Can you break a 10,000 yen bill?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一束だけ一番上に本物の札がのっていた。",
+      "reading": null,
+      "indonesian": "Only one stack had a real bill on top.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "たくさん札束が入っていたが、１０００ドル札ではなかった。",
+      "reading": null,
+      "indonesian": "There were lots of bundles, but they weren't thousand-dollar bills.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは１００ドル札だった。",
+      "reading": null,
+      "indonesian": "It was a one hundred dollar bill.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そこには札束がいくつも入っていた。",
+      "reading": null,
+      "indonesian": "There were bundles and bundles of cash.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

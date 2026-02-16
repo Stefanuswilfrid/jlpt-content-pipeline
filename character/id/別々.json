@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "別々",
+    "reading": "べつべつ",
+    "romaji": "betsubetsu",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "secara terpisah",
+          "secara individual"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "別荘",
+      "reading": "べっそう",
+      "meaning": "vila; rumah liburan; pondok musim panas"
+    },
+    {
+      "word": "性別",
+      "reading": "せいべつ",
+      "meaning": "jenis kelamin, gender"
+    },
+    {
+      "word": "格別",
+      "reading": "かくべつ",
+      "meaning": "luar biasa"
+    },
+    {
+      "word": "送別",
+      "reading": "そうべつ",
+      "meaning": "perpisahan, melepas"
+    },
+    {
+      "word": "別れ",
+      "reading": "わかれ",
+      "meaning": "perpisahan, pemisahan, selamat tinggal"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "perbedaan, pembedaan, klasifikasi"
+    },
+    {
+      "word": "別",
+      "reading": "べつ",
+      "meaning": "perbedaan, berbeda"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaning": "spesial"
+    },
+    {
+      "word": "個別",
+      "reading": "こべつ",
+      "meaning": "kasus tertentu"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "個々別々",
+      "reading": "ここべつべつ",
+      "meaning": "each one separately",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "会計は別々でお願いします。",
+      "reading": null,
+      "indonesian": "We'd like separate checks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々は別れて別々の道を行った。",
+      "reading": null,
+      "indonesian": "We broke up and went our own ways.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムとビルは別々に考えて同じ結論に達した。",
+      "reading": null,
+      "indonesian": "Tom and Bill arrived at the conclusion independently of each other.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "別々に包んでください。",
+      "reading": null,
+      "indonesian": "Could you wrap this separately, please?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "伝票は別々にお願いします。",
+      "reading": null,
+      "indonesian": "We'd like separate checks, please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々は別れて別々の道を行った。",
+      "reading": null,
+      "indonesian": "We broke up and went our own ways.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

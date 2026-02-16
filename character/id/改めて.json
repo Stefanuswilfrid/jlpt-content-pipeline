@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "改めて",
+    "reading": "あらためて",
+    "romaji": "aratamete",
+    "jlpt": "N2",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "lain waktu",
+          "lagi"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "formally",
+          "especially",
+          "intentionally",
+          "deliberately"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "改正",
+      "reading": "かいせい",
+      "meaning": "revisi, amandemen, perubahan"
+    },
+    {
+      "word": "改造",
+      "reading": "かいぞう",
+      "meaning": "renovasi"
+    },
+    {
+      "word": "改める",
+      "reading": "あらためる",
+      "meaning": "mengubah, mereformasi, merevisi"
+    },
+    {
+      "word": "改札",
+      "reading": "かいさつ",
+      "meaning": "pemeriksaan tiket"
+    },
+    {
+      "word": "改悪",
+      "reading": "かいあく",
+      "meaning": "kemerosotan, berubah menjadi lebih buruk"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "改めて言う事はない。",
+      "reading": null,
+      "indonesian": "I have nothing particular to say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "また改めて電話しますね。",
+      "reading": null,
+      "indonesian": "I'll call you some other time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "改めて言う事はない。",
+      "reading": null,
+      "indonesian": "I have nothing particular to say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

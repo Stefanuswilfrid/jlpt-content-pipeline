@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "茶",
+    "reading": "ちゃ",
+    "romaji": "cha",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "teh"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tea plant (Camellia sinensis)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tea preparation",
+          "making tea"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "brown"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "お茶",
+      "reading": "おちゃ",
+      "meaning": "(teh hijau"
+    },
+    {
+      "word": "喫茶店",
+      "reading": "きっさてん",
+      "meaning": "kafe"
+    },
+    {
+      "word": "紅茶",
+      "reading": "こうちゃ",
+      "meaning": "teh hitam"
+    },
+    {
+      "word": "茶色",
+      "reading": "ちゃいろ",
+      "meaning": "cokelat"
+    },
+    {
+      "word": "茶碗",
+      "reading": "ちゃわん",
+      "meaning": "tempat nasi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無茶苦茶",
+      "reading": "むちゃくちゃ",
+      "meaning": "nonsensical",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "目茶目茶",
+      "reading": "めちゃめちゃ",
+      "meaning": "disorderly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "日常茶飯",
+      "reading": "にちじょうさはん",
+      "meaning": "everyday occurrence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "茶を濁す",
+      "reading": "ちゃをにごす",
+      "meaning": "to evade (questions)",
+      "type": "idiom"
+    },
+    {
+      "word": "家常茶飯",
+      "reading": "かじょうさはん",
+      "meaning": "everyday occurrence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "お茶を濁す",
+      "reading": "おちゃをにごす",
+      "meaning": "to evade (questions)",
+      "type": "idiom"
+    },
+    {
+      "word": "番茶も出花",
+      "reading": "ばんちゃもでばな",
+      "meaning": "even a homely girl looks beautiful at the peak of her youth",
+      "type": "proverb"
+    },
+    {
+      "word": "茶腹も一時",
+      "reading": "ちゃばらもいっとき",
+      "meaning": "anything is better than nothing",
+      "type": "proverb"
+    },
+    {
+      "word": "お茶を挽く",
+      "reading": "おちゃをひく",
+      "meaning": "to have no customers (of a geisha, prostitute, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "鬼も十八番茶も出花",
+      "reading": "おにもじゅうはちばんちゃもでばな",
+      "meaning": "just as even coarse tea tastes good when fresh, even homely girls look beautiful at the peak of their youth",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "お茶よりコーヒーが好きです。",
+      "reading": null,
+      "indonesian": "I prefer coffee to tea.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

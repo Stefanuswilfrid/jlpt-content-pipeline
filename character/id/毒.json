@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "毒",
+    "reading": "どく",
+    "romaji": "doku",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "racun",
+          "zat beracun"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "harm",
+          "evil influence"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ill will",
+          "spite",
+          "malice"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "abusive language"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "気の毒",
+      "reading": "きのどく",
+      "meaning": "menyedihkan, sungguh disayangkan"
+    },
+    {
+      "word": "消毒",
+      "reading": "しょうどく",
+      "meaning": "disinfeksi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "以毒制毒",
+      "reading": "いどくせいどく",
+      "meaning": "using poisonous medication to control poison",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "毒を吐く",
+      "reading": "どくをはく",
+      "meaning": "to spew venom",
+      "type": "idiom"
+    },
+    {
+      "word": "甲の薬は乙の毒",
+      "reading": "こうのくすりはおつのどく",
+      "meaning": "one man's meat is another man's poison",
+      "type": "proverb"
+    },
+    {
+      "word": "毒にも薬にもならない",
+      "reading": "どくにもくすりにもならない",
+      "meaning": "harmless but pointless",
+      "type": "idiom"
+    },
+    {
+      "word": "毒を食らわば皿まで",
+      "reading": "どくをくらわばさらまで",
+      "meaning": "once you've committed a crime, commit to it",
+      "type": "proverb"
+    },
+    {
+      "word": "毒を以て毒を制す",
+      "reading": "どくをもってどくをせいす",
+      "meaning": "fight fire with fire",
+      "type": "idiom"
+    },
+    {
+      "word": "毒気を抜かれる",
+      "reading": "どっきをぬかれる",
+      "meaning": "to be taken aback",
+      "type": "idiom"
+    },
+    {
+      "word": "毒薬変じて薬となる",
+      "reading": "どくやくへんじてくすりとなる",
+      "meaning": "what is bad for you might end up good",
+      "type": "proverb"
+    },
+    {
+      "word": "上戸は毒を知らず下戸は薬を知らず",
+      "reading": "じょうごはどくをしらずげこはくすりをしらず",
+      "meaning": "drinkers drink too much (and harm themselves in the process), nondrinkers drink too little (and miss out on the medicinal benefits of alcohol)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

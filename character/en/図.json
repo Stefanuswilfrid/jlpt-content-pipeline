@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "図",
+    "reading": "ず",
+    "romaji": "zu",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "drawing",
+          "picture",
+          "diagram",
+          "figure",
+          "illustration",
+          "chart",
+          "graph",
+          "map"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sight",
+          "scene"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "図書",
+      "reading": "としょ",
+      "meaning": "books"
+    },
+    {
+      "word": "合図",
+      "reading": "あいず",
+      "meaning": "sign"
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "library"
+    },
+    {
+      "word": "地図",
+      "reading": "ちず",
+      "meaning": "map"
+    },
+    {
+      "word": "図る",
+      "reading": "はかる",
+      "meaning": "to plan"
+    },
+    {
+      "word": "図鑑",
+      "reading": "ずかん",
+      "meaning": "pictorial book"
+    },
+    {
+      "word": "図形",
+      "reading": "ずけい",
+      "meaning": "figure"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "図に乗る",
+      "reading": "ずにのる",
+      "meaning": "to get carried away",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "明日図書館で勉強するつもりです。",
+      "reading": null,
+      "english": "Tomorrow, I'm going to study at the library.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "明日図書館で勉強するつもりです。",
+      "reading": null,
+      "english": "Tomorrow, I'm going to study at the library.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の家の見取り図を書いてよ。",
+      "reading": null,
+      "english": "Make a sketch of your house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "京都市の地図を持っていますか。",
+      "reading": null,
+      "english": "Do you have a map of the city of Kyoto?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生は図書館を利用できます。",
+      "reading": null,
+      "english": "Students have access to the library.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生は図書館の本を利用すべきだ。",
+      "reading": null,
+      "english": "Students should make use of the books in the library.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生はだれでも自由に図書館を利用できる。",
+      "reading": null,
+      "english": "Every student has free access to the library.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "街の地図を１つください。",
+      "reading": null,
+      "english": "Please give me a map of the town.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

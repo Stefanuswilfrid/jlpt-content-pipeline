@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "年月",
+    "reading": "としつき",
+    "romaji": "toshitsuki",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "months and years"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "年中",
+      "reading": "ねんじゅう",
+      "meaning": "whole year"
+    },
+    {
+      "word": "成年",
+      "reading": "せいねん",
+      "meaning": "adult age"
+    },
+    {
+      "word": "年間",
+      "reading": "ねんかん",
+      "meaning": "(period of) a year"
+    },
+    {
+      "word": "少年",
+      "reading": "しょうねん",
+      "meaning": "boy"
+    },
+    {
+      "word": "年齢",
+      "reading": "ねんれい",
+      "meaning": "age"
+    },
+    {
+      "word": "青年",
+      "reading": "せいねん",
+      "meaning": "youth"
+    },
+    {
+      "word": "年代",
+      "reading": "ねんだい",
+      "meaning": "age"
+    },
+    {
+      "word": "年鑑",
+      "reading": "ねんかん",
+      "meaning": "yearbook"
+    },
+    {
+      "word": "月給",
+      "reading": "げっきゅう",
+      "meaning": "monthly salary"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ここに生年月日を書いてください。",
+      "reading": null,
+      "english": "Write down your date of birth here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの生年月日を書きなさい。",
+      "reading": null,
+      "english": "Write the date of your birth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "２０年とは長い年月だ。",
+      "reading": null,
+      "english": "Twenty years is a long time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "１０年というのは、長い年月だ。",
+      "reading": null,
+      "english": "Ten years is a long time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

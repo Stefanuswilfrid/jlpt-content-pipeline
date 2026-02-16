@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "革",
+    "reading": "かわ",
+    "romaji": "kawa",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "leather"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "毛皮",
+      "reading": "けがわ",
+      "meaning": "fur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "易姓革命",
+      "reading": "えきせいかくめい",
+      "meaning": "revolution (change of dynasty) decreed by Heaven when the incumbent emperor is found lacking in moral virtue (old Chinese political thought)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "保革伯仲",
+      "reading": "ほかくはくちゅう",
+      "meaning": "conservatives and reformists being neck and neck",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "古い革袋に新しい酒を盛る",
+      "reading": "ふるいかわぶくろにあたらしいさけをもる",
+      "meaning": "to pour new wine into old wineskins",
+      "type": "idiom"
+    },
+    {
+      "word": "新しい酒は古い革袋に入れる",
+      "reading": "あたらしいさけはふるいかわぶくろにいれる",
+      "meaning": "to put new wine into old wineskins",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

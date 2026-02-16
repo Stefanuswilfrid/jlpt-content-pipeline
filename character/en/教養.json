@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "教養",
+    "reading": "きょうよう",
+    "romaji": "kyouyou",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(understanding or appreciation of) culture",
+          "(one's) education",
+          "cultivation",
+          "sophistication",
+          "refinement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "助教授",
+      "reading": "じょきょうじゅ",
+      "meaning": "assistant professor"
+    },
+    {
+      "word": "休養",
+      "reading": "きゅうよう",
+      "meaning": "rest"
+    },
+    {
+      "word": "養分",
+      "reading": "ようぶん",
+      "meaning": "nutrient"
+    },
+    {
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaning": "classroom"
+    },
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "textbook"
+    },
+    {
+      "word": "教会",
+      "reading": "きょうかい",
+      "meaning": "church"
+    },
+    {
+      "word": "栄養",
+      "reading": "えいよう",
+      "meaning": "nutrition"
+    },
+    {
+      "word": "教訓",
+      "reading": "きょうくん",
+      "meaning": "lesson"
+    },
+    {
+      "word": "教材",
+      "reading": "きょうざい",
+      "meaning": "teaching materials"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その医者は教養のある人だ。",
+      "reading": null,
+      "english": "The doctor is a man of culture.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "洗練され教養のある人を区別する標識はなんであろう。",
+      "reading": null,
+      "english": "What are the marks that distinguish the cultured man?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "成り上がり者は教養人として通用しようとした。",
+      "reading": null,
+      "english": "The upstart tried to pass for a man of culture.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

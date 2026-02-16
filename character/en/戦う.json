@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "戦う",
+    "reading": "たたかう",
+    "romaji": "tatakau",
+    "jlpt": "N3",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to make war (on)",
+          "to wage war (against)",
+          "to go to war (with)",
+          "to fight (with)",
+          "to do battle (against)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to compete (against)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to struggle (against adversities, etc.)",
+          "to fight",
+          "to contend",
+          "to resist"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaning": "challenge"
+    },
+    {
+      "word": "戦争",
+      "reading": "せんそう",
+      "meaning": "war"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "下さる",
+    "reading": "くださる",
+    "romaji": "kudasaru",
+    "jlpt": "N4",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb - -aru special class"
+        ],
+        "meanings": [
+          "(hon.) memberi",
+          "menganugerahkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb - -aru special class"
+        ],
+        "meanings": [
+          "to kindly do for one",
+          "to oblige",
+          "to favour",
+          "to favor"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "下る",
+      "reading": "くだる",
+      "meaning": "turun, menuruni bukit"
+    },
+    {
+      "word": "下宿",
+      "reading": "げしゅく",
+      "meaning": "penginapan, rumah kos"
+    },
+    {
+      "word": "以下",
+      "reading": "いか",
+      "meaning": "kurang dari, di bawah"
+    },
+    {
+      "word": "下げる",
+      "reading": "さげる",
+      "meaning": "menurunkan (v.t.); menggantung"
+    },
+    {
+      "word": "下着",
+      "reading": "したぎ",
+      "meaning": "pakaian dalam"
+    },
+    {
+      "word": "下さい",
+      "reading": "ください",
+      "meaning": "(dengan kata kerja bentuk te) tolong lakukan untukku"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "tidak terampil, miskin"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そういってくださるとはご親切に。",
+      "reading": null,
+      "indonesian": "It is kind of you to say so.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そう言ってくださるとはご親切さま。",
+      "reading": null,
+      "indonesian": "It's very kind of you to put it that way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたがいっしょに来てくださるならうれしいのですが。",
+      "reading": null,
+      "indonesian": "I'll be happy if you will come with me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

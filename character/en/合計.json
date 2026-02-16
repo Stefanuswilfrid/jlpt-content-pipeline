@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "合計",
+    "reading": "ごうけい",
+    "romaji": "goukei",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "sum total",
+          "total amount"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "meeting"
+    },
+    {
+      "word": "組合",
+      "reading": "くみあい",
+      "meaning": "association"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "plan"
+    },
+    {
+      "word": "計算",
+      "reading": "けいさん",
+      "meaning": "calculation"
+    },
+    {
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "passing (an exam)"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "accounting"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "association"
+    },
+    {
+      "word": "計",
+      "reading": "けい",
+      "meaning": "plan"
+    },
+    {
+      "word": "合わせる",
+      "reading": "あわせる",
+      "meaning": "to match (rhythm, speed, etc.)"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "meeting"
+    },
+    {
+      "word": "話し合う",
+      "reading": "はなしあう",
+      "meaning": "to discuss"
+    },
+    {
+      "word": "合図",
+      "reading": "あいず",
+      "meaning": "sign"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter"
+    },
+    {
+      "word": "計る",
+      "reading": "はかる",
+      "meaning": "to measure"
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "match"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "union"
+    },
+    {
+      "word": "問い合わせ",
+      "reading": "といあわせ",
+      "meaning": "inquiry"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "plan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この数字を合計しなさい。",
+      "reading": null,
+      "english": "Add up these figures.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この数字の列を合計しなさい。",
+      "reading": null,
+      "english": "Add up this column of figures.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "２と３と４の合計は９だ。",
+      "reading": null,
+      "english": "The sum of two plus three plus four is nine.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "１２と２４と７と１１の合計は５４です。",
+      "reading": null,
+      "english": "The sum of 12, 24, 7 and 11 is 54.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

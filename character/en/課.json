@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "課",
+    "reading": "か",
+    "romaji": "ka",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "lesson"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "section (in an organization)",
+          "division",
+          "department"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for lessons and chapters (of a book)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "課程",
+      "reading": "かてい",
+      "meaning": "course"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaning": "subject"
+    },
+    {
+      "word": "科目",
+      "reading": "かもく",
+      "meaning": "(school) subject"
+    },
+    {
+      "word": "課税",
+      "reading": "かぜい",
+      "meaning": "taxation"
+    },
+    {
+      "word": "課長",
+      "reading": "かちょう",
+      "meaning": "section manager"
+    },
+    {
+      "word": "日課",
+      "reading": "にっか",
+      "meaning": "daily routine"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人事考課",
+      "reading": "じんじこうか",
+      "meaning": "merit (ability, efficiency) rating",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もしもし、人事課ですか？",
+      "reading": null,
+      "english": "Hello, is this the personnel department?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

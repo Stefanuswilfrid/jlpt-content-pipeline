@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "恩",
+    "reading": "おん",
+    "romaji": "on",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bantuan",
+          "kewajiban",
+          "hutang budi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "恩恵",
+      "reading": "おんけい",
+      "meaning": "berkah, manfaat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "恩を仇で返す",
+      "reading": "おんをあだでかえす",
+      "meaning": "to return evil for good",
+      "type": "idiom"
+    },
+    {
+      "word": "報恩謝徳",
+      "reading": "ほうおんしゃとく",
+      "meaning": "repaying kindness with gratitude",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "子を持って知る親の恩",
+      "reading": "こをもってしるおやのおん",
+      "meaning": "becoming a parent makes you appreciate your own parents",
+      "type": "proverb"
+    },
+    {
+      "word": "仇を恩で報いる",
+      "reading": "あだをおんでむくいる",
+      "meaning": "to repay meanness with kindness",
+      "type": "idiom"
+    },
+    {
+      "word": "親の恩は子で送る",
+      "reading": "おやのおんはこでおくる",
+      "meaning": "one's debt to one's parents is best repaid by giving them grandchildren",
+      "type": "proverb"
+    },
+    {
+      "word": "父母の恩は山よりも高く海よりも深し",
+      "reading": "ふぼのおんはやまよりもたかくうみよりもふかし",
+      "meaning": "our debt to our parents is higher than the mountain and deeper than the sea",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

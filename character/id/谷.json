@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "谷",
+    "reading": "たに",
+    "romaji": "tani",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lembah"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "深山幽谷",
+      "reading": "しんざんゆうこく",
+      "meaning": "deep mountain valleys",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "山あり谷あり",
+      "reading": "やまありたにあり",
+      "meaning": "(having) ups and downs",
+      "type": "idiom"
+    },
+    {
+      "word": "獅子は我が子を千尋の谷に落とす",
+      "reading": "ししはわがこをせんじんのたににおとす",
+      "meaning": "make your dear ones face trials so that they may grow",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "人生山あり谷あり。",
+      "reading": null,
+      "indonesian": "A man's life has its ups and downs.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その埃っぽい小道は谷へと下って行く。",
+      "reading": null,
+      "indonesian": "The dusty track descends to a valley.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その谷間には川が流れている。",
+      "reading": null,
+      "indonesian": "The river runs through the valley.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その谷で金が見つかったといううわさがある。",
+      "reading": null,
+      "indonesian": "There is a rumor that gold has been found in the valley.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その大雨で谷間に大水が起こった。",
+      "reading": null,
+      "indonesian": "The heavy rain brought floods in the valley.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのぬかるむ小道は谷へ下って行く。",
+      "reading": null,
+      "indonesian": "The muddy track descends to a valley.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

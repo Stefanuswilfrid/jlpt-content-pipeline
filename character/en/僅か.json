@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "僅か",
+    "reading": "わずか",
+    "romaji": "wazuka",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "a little",
+          "a few",
+          "small",
+          "slight",
+          "trifling",
+          "meagre",
+          "meager",
+          "narrow (margin)"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "only",
+          "just",
+          "merely",
+          "no more than"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "人生僅か五十年",
+      "reading": "じんせいわずかごじゅうねん",
+      "meaning": "life is short",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "被る",
+    "reading": "かぶる",
+    "romaji": "kaburu",
+    "jlpt": "N3",
+    "frequency": 22750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put on (one's head)",
+          "to wear",
+          "to have on",
+          "to pull over (one's head)",
+          "to crown (oneself)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be covered with (dust, snow, etc.)",
+          "to pour (water, etc.) on oneself",
+          "to dash on oneself",
+          "to ship water"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bear (e.g. someone's debts, faults, etc.)",
+          "to take (blame)",
+          "to assume (responsibility)",
+          "to shoulder (burden)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to overlap (e.g. sound or color)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be similar",
+          "to be redundant"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be fogged (due to overexposure, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to close",
+          "to come to an end"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get a full house",
+          "to sell out"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "覆う",
+      "reading": "おおう",
+      "meaning": "to cover"
+    },
+    {
+      "word": "被せる",
+      "reading": "かぶせる",
+      "meaning": "to cover (with something)"
+    },
+    {
+      "word": "被害",
+      "reading": "ひがい",
+      "meaning": "(suffering) damage"
+    },
+    {
+      "word": "着せる",
+      "reading": "きせる",
+      "meaning": "to put clothes on (someone)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "皮を被る",
+      "reading": "かわをかぶる",
+      "meaning": "to conceal one's true nature or feelings",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

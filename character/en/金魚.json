@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "金魚",
+    "reading": "きんぎょ",
+    "romaji": "kingyo",
+    "jlpt": "N2",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "goldfish (Carassius auratus)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "集金",
+      "reading": "しゅうきん",
+      "meaning": "money collection"
+    },
+    {
+      "word": "賞金",
+      "reading": "しょうきん",
+      "meaning": "prize money"
+    },
+    {
+      "word": "針金",
+      "reading": "はりがね",
+      "meaning": "wire"
+    },
+    {
+      "word": "銅",
+      "reading": "どう",
+      "meaning": "copper (Cu)"
+    },
+    {
+      "word": "大金",
+      "reading": "たいきん",
+      "meaning": "large amount of money"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "金魚のフン",
+      "reading": "きんぎょのふん",
+      "meaning": "person who just tags along",
+      "type": "idiom"
+    },
+    {
+      "word": "金魚のうんこ",
+      "reading": "きんぎょのうんこ",
+      "meaning": "person who just tags along",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "金魚は生きてる。",
+      "reading": null,
+      "english": "The goldfish is alive.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金魚には思い出がある。",
+      "reading": null,
+      "english": "I have the memory of a goldfish.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金魚には思い出がある。",
+      "reading": null,
+      "english": "I have the memory of a goldfish.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金魚が病気みたいなんだけど。どうしたんだろう？",
+      "reading": null,
+      "english": "My goldfish looks sick. I wonder what's wrong with it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金魚がみんな死んじゃってるよ。",
+      "reading": null,
+      "english": "All of your goldfish are dead.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金魚がみんな死んじゃってるよ。",
+      "reading": null,
+      "english": "All of your goldfish are dead.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金魚がみんな死んじゃってるよ。",
+      "reading": null,
+      "english": "The goldfish are all dead.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金魚がみんな死んじゃってるよ。",
+      "reading": null,
+      "english": "All of the goldfish are dead.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

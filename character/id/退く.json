@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "退く",
+    "reading": "どく",
+    "romaji": "doku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "mundur",
+          "menyusut",
+          "menarik diri"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to resign",
+          "to retire",
+          "to quit",
+          "to secede"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "引退",
+      "reading": "いんたい",
+      "meaning": "masa pensiun"
+    },
+    {
+      "word": "辞退",
+      "reading": "じたい",
+      "meaning": "penolakan"
+    },
+    {
+      "word": "退学",
+      "reading": "たいがく",
+      "meaning": "putus sekolah"
+    },
+    {
+      "word": "退屈",
+      "reading": "たいくつ",
+      "meaning": "kebosanan, membosankan"
+    },
+    {
+      "word": "退院",
+      "reading": "たいいん",
+      "meaning": "meninggalkan rumah sakit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一線を退く",
+      "reading": "いっせんをしりぞく",
+      "meaning": "to step back",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

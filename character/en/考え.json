@@ -1,0 +1,159 @@
+{
+  "definition": {
+    "word": "考え",
+    "reading": "かんがえ",
+    "romaji": "kangae",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "thinking",
+          "thought",
+          "view",
+          "opinion",
+          "concept"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "idea",
+          "notion",
+          "imagination"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "intention",
+          "plan",
+          "design"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "consideration",
+          "judgement",
+          "deliberation",
+          "reflection"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wish",
+          "hope",
+          "expectation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "参考",
+      "reading": "さんこう",
+      "meaning": "reference"
+    },
+    {
+      "word": "選考",
+      "reading": "せんこう",
+      "meaning": "selection"
+    },
+    {
+      "word": "考慮",
+      "reading": "こうりょ",
+      "meaning": "consideration"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ものは考えよう",
+      "reading": "ものはかんがえよう",
+      "meaning": "things depend on how you look at them",
+      "type": "proverb"
+    },
+    {
+      "word": "下手な考え休むに似たり",
+      "reading": "へたなかんがえやすむににたり",
+      "meaning": "it's hard to tell a poor thinker from a sleeping one",
+      "type": "proverb"
+    },
+    {
+      "word": "下手の考え休むに似たり",
+      "reading": "へたのかんがえやすむににたり",
+      "meaning": "it's hard to tell a poor thinker from a sleeping one",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "最悪の場合を考えておこう。",
+      "reading": null,
+      "english": "Let's consider the worst that could happen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "良い考えだね！",
+      "reading": null,
+      "english": "That's a good idea!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは良い考えです。",
+      "reading": null,
+      "english": "That's a good idea!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そりゃいい考えだ。",
+      "reading": null,
+      "english": "That's a good idea!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "いい考えですね。",
+      "reading": null,
+      "english": "That's a good idea!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "いい考えだね。",
+      "reading": null,
+      "english": "That's a good idea!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "こんな馬鹿げた考えをどうやって思いついたんだ？",
+      "reading": null,
+      "english": "How did you come up with this crazy idea?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

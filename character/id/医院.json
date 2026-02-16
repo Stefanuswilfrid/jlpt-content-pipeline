@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "医院",
+    "reading": "いいん",
+    "romaji": "iin",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kantor dokter (praktik bedah)",
+          "klinik"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "医療",
+      "reading": "いりょう",
+      "meaning": "perawatan medis, pengobatan medis"
+    },
+    {
+      "word": "医師",
+      "reading": "いし",
+      "meaning": "dokter, tabib"
+    },
+    {
+      "word": "寺院",
+      "reading": "じいん",
+      "meaning": "kuil"
+    },
+    {
+      "word": "退院",
+      "reading": "たいいん",
+      "meaning": "meninggalkan rumah sakit"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もしもし、山田医院です。",
+      "reading": null,
+      "indonesian": "Hello, this is Dr Yamada's surgery.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もしもし、山田医院です。",
+      "reading": null,
+      "indonesian": "Hello, this is Dr Yamada's surgery.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

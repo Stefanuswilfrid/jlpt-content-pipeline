@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "大体",
+    "reading": "だいたい",
+    "romaji": "daitai",
+    "jlpt": "N4",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "generally",
+          "on the whole",
+          "mostly",
+          "almost",
+          "nearly",
+          "approximately",
+          "roughly",
+          "about"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "general",
+          "rough"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "outline",
+          "main points",
+          "gist",
+          "substance",
+          "essence"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "in the first place",
+          "first and foremost",
+          "from the start",
+          "to begin with"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大事",
+      "reading": "だいじ",
+      "meaning": "important"
+    },
+    {
+      "word": "大学生",
+      "reading": "だいがくせい",
+      "meaning": "university student"
+    },
+    {
+      "word": "大分",
+      "reading": "だいぶ",
+      "meaning": "considerably"
+    },
+    {
+      "word": "大抵",
+      "reading": "たいてい",
+      "meaning": "mostly"
+    },
+    {
+      "word": "大部分",
+      "reading": "だいぶぶん",
+      "meaning": "most part"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "真っ赤",
+    "reading": "まっか",
+    "romaji": "makka",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "merah tua",
+          "memerah (wajah)"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "downright (e.g. lie)",
+          "complete",
+          "utter"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "真理",
+      "reading": "しんり",
+      "meaning": "kebenaran"
+    },
+    {
+      "word": "真剣",
+      "reading": "しんけん",
+      "meaning": "keseriusan, kesungguhan"
+    },
+    {
+      "word": "真似",
+      "reading": "まね",
+      "meaning": "peniruan, imitasi, perilaku"
+    },
+    {
+      "word": "真っ黒",
+      "reading": "まっくろ",
+      "meaning": "gelap gulita"
+    },
+    {
+      "word": "真っ暗",
+      "reading": "まっくら",
+      "meaning": "kegelapan total"
+    },
+    {
+      "word": "真っ先",
+      "reading": "まっさき",
+      "meaning": "terutama, permulaan"
+    },
+    {
+      "word": "赤ん坊",
+      "reading": "あかんぼう",
+      "meaning": "Sayang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そいつは真っ赤なうそだ。",
+      "reading": null,
+      "indonesian": "That's a blessed lie.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この真っ赤なりんごを８つ下さい。",
+      "reading": null,
+      "indonesian": "Give me these 8 crimson apples please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "障害",
+    "reading": "しょうがい",
+    "romaji": "shougai",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "obstacle",
+          "impediment",
+          "hindrance",
+          "barrier",
+          "difficulty"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "disorder",
+          "defect",
+          "disability",
+          "handicap",
+          "impairment",
+          "dysfunction"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "steeplechase"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "obstacle race",
+          "steeplechase (athletics)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "被害",
+      "reading": "ひがい",
+      "meaning": "(suffering) damage"
+    },
+    {
+      "word": "損害",
+      "reading": "そんがい",
+      "meaning": "damage"
+    },
+    {
+      "word": "保証",
+      "reading": "ほしょう",
+      "meaning": "guarantee"
+    },
+    {
+      "word": "害",
+      "reading": "がい",
+      "meaning": "injury"
+    },
+    {
+      "word": "公害",
+      "reading": "こうがい",
+      "meaning": "pollution"
+    },
+    {
+      "word": "故障",
+      "reading": "こしょう",
+      "meaning": "fault"
+    },
+    {
+      "word": "利害",
+      "reading": "りがい",
+      "meaning": "advantages and disadvantages"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

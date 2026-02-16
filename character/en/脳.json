@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "脳",
+    "reading": "のう",
+    "romaji": "nou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "brain"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "brains",
+          "mind"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "頭脳",
+      "reading": "ずのう",
+      "meaning": "head"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "脳みそを絞る",
+      "reading": "のうみそをしぼる",
+      "meaning": "to rack one's brains",
+      "type": "idiom"
+    },
+    {
+      "word": "頭脳明晰",
+      "reading": "ずのうめいせき",
+      "meaning": "being clearheaded",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "脳内お花畑",
+      "reading": "のうないおはなばたけ",
+      "meaning": "happy-go-lucky person",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

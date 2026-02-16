@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "川",
+    "reading": "かわ",
+    "romaji": "kawa",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sungai",
+          "aliran"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "River",
+          "the ... river"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "河童の川流れ",
+      "reading": "かっぱのかわながれ",
+      "meaning": "anyone can make a mistake",
+      "type": "proverb"
+    },
+    {
+      "word": "山川草木",
+      "reading": "さんせんそうもく",
+      "meaning": "nature",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "犬の川端歩き",
+      "reading": "いぬのかわばたあるき",
+      "meaning": "window-shopping without any money",
+      "type": "idiom"
+    },
+    {
+      "word": "山と言えば川",
+      "reading": "やまといえばかわ",
+      "meaning": "always contradicting what other people say",
+      "type": "idiom"
+    },
+    {
+      "word": "深い川は静かに流れる",
+      "reading": "ふかいかわはしずかにながれる",
+      "meaning": "still waters run deep",
+      "type": "proverb"
+    },
+    {
+      "word": "静かに流れる川は深い",
+      "reading": "しずかにながれるかわはふかい",
+      "meaning": "still waters run deep",
+      "type": "proverb"
+    },
+    {
+      "word": "ルビコン川を渡る",
+      "reading": "ルビコンがわをわたる",
+      "meaning": "to cross the Rubicon",
+      "type": "idiom"
+    },
+    {
+      "word": "古川に水絶えず",
+      "reading": "ふるかわにみずたえず",
+      "meaning": "a strong foundation can withstand any storm",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

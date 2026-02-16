@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "盾",
+    "reading": "たて",
+    "romaji": "tate",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shield",
+          "buckler",
+          "escutcheon"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pretext",
+          "excuse",
+          "grounds (for)",
+          "justification"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "矛盾",
+      "reading": "むじゅん",
+      "meaning": "contradiction"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自己矛盾",
+      "reading": "じこむじゅん",
+      "meaning": "self-contradiction",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "矛盾撞着",
+      "reading": "むじゅんどうちゃく",
+      "meaning": "self-contradiction",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "前後矛盾",
+      "reading": "ぜんごむじゅん",
+      "meaning": "self-contradiction",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "撞着矛盾",
+      "reading": "どうちゃくむじゅん",
+      "meaning": "self-contradiction",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "盾の両面を見よ",
+      "reading": "たてのりょうめんをみよ",
+      "meaning": "look at both sides of the thing",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

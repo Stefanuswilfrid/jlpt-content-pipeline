@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "存ずる",
+    "reading": "ぞんずる",
+    "romaji": "zonzuru",
+    "jlpt": "N2",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to know",
+          "to be aware (of)",
+          "to be acquainted (with)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to think",
+          "to consider",
+          "to believe",
+          "to feel"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "存じる",
+      "reading": "ぞんじる",
+      "meaning": "to know"
+    },
+    {
+      "word": "保存",
+      "reading": "ほぞん",
+      "meaning": "preservation"
+    },
+    {
+      "word": "依存",
+      "reading": "いぞん",
+      "meaning": "dependence"
+    },
+    {
+      "word": "存続",
+      "reading": "そんぞく",
+      "meaning": "continuance"
+    },
+    {
+      "word": "生存",
+      "reading": "せいぞん",
+      "meaning": "existence"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

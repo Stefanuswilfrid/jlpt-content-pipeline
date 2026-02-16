@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "田舎",
+    "reading": "いなか",
+    "romaji": "inaka",
+    "jlpt": "N4",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pedesaan",
+          "daerah terpencil"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hometown"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "校舎",
+      "reading": "こうしゃ",
+      "meaning": "gedung sekolah"
+    },
+    {
+      "word": "田",
+      "reading": "た",
+      "meaning": "sawah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "京に田舎あり",
+      "reading": "きょうにいなかあり",
+      "meaning": "even in bustling cities there are places that have a rural quality to them",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "眠る",
+    "reading": "ねむる",
+    "romaji": "nemuru",
+    "jlpt": "N4",
+    "frequency": 19250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "tidur"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to die",
+          "to rest (in peace)",
+          "to lie (buried)",
+          "to sleep (in the grave)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to lie idle (e.g. of resources)",
+          "to lie unused",
+          "to lie untapped",
+          "to lie untouched"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "居眠り",
+      "reading": "いねむり",
+      "meaning": "mengantuk, tertidur"
+    },
+    {
+      "word": "眠い",
+      "reading": "ねむい",
+      "meaning": "mengantuk, lesu"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "草木も眠る丑三つ時",
+      "reading": "くさきもねむるうしみつどき",
+      "meaning": "dead of night (when even the trees and plants sleep)",
+      "type": "idiom"
+    },
+    {
+      "word": "枕を高くして眠る",
+      "reading": "まくらをたかくしてねむる",
+      "meaning": "to sleep in peace",
+      "type": "idiom"
+    },
+    {
+      "word": "泥のように眠る",
+      "reading": "どろのようにねむる",
+      "meaning": "to sleep like a log",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "管",
+    "reading": "かん",
+    "romaji": "kan",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pipe",
+          "tube"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wind instrument"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "vessel",
+          "duct",
+          "tract",
+          "canal"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for tube-shaped objects"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "管理",
+      "reading": "かんり",
+      "meaning": "control"
+    },
+    {
+      "word": "血管",
+      "reading": "けっかん",
+      "meaning": "blood vessel"
+    },
+    {
+      "word": "器官",
+      "reading": "きかん",
+      "meaning": "organ"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手練手管",
+      "reading": "てれんてくだ",
+      "meaning": "wiles",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "詩歌管弦",
+      "reading": "しいかかんげん",
+      "meaning": "Chinese and Japanese poetry and instrumental music",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "只管打坐",
+      "reading": "しかんたざ",
+      "meaning": "shikantaza",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "管の穴から天を覗く",
+      "reading": "くだのあなからてんをのぞく",
+      "meaning": "to have a narrow view of things",
+      "type": "idiom"
+    },
+    {
+      "word": "管を以て天を窺う",
+      "reading": "くだをもっててんをうかがう",
+      "meaning": "to have a narrow view of things",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君のアパートは管理がいいですか。",
+      "reading": null,
+      "english": "Is your apartment well maintained?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教育委員会が学校を管理している。",
+      "reading": null,
+      "english": "The Board of Education governs the schools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わたしがその工場を管理した。",
+      "reading": null,
+      "english": "I got control of the works.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

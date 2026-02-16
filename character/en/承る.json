@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "承る",
+    "reading": "うけたまわる",
+    "romaji": "uketamawaru",
+    "jlpt": "N2",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hear",
+          "to be told",
+          "to know"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to receive (order)",
+          "to undertake",
+          "to comply",
+          "to take (a reservation, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "承認",
+      "reading": "しょうにん",
+      "meaning": "recognition"
+    },
+    {
+      "word": "了承",
+      "reading": "りょうしょう",
+      "meaning": "acknowledgement"
+    },
+    {
+      "word": "承知",
+      "reading": "しょうち",
+      "meaning": "knowledge"
+    },
+    {
+      "word": "承諾",
+      "reading": "しょうだく",
+      "meaning": "consent"
+    },
+    {
+      "word": "受ける",
+      "reading": "うける",
+      "meaning": "to receive"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

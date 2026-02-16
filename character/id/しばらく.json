@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "暫く",
+    "reading": "しばらく",
+    "romaji": "shibaraku",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "sebentar"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "for a while",
+          "for some time"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "for the time being",
+          "for now"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "it's been a long time",
+          "long time no see"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "メアリーと言えば、しばらく会ってないな。",
+      "reading": null,
+      "indonesian": "Speaking of Mary, I have not seen her for a long time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ミニスカートがすたれてもうしばらくになる。",
+      "reading": null,
+      "indonesian": "Miniskirts have been out of date for some time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

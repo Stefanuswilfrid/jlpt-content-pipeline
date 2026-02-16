@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "問答",
+    "reading": "もんどう",
+    "romaji": "mondou",
+    "jlpt": "N2",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "tanya jawab",
+          "dialog"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "解答",
+      "reading": "かいとう",
+      "meaning": "jawaban, solusi"
+    },
+    {
+      "word": "問い合わせ",
+      "reading": "といあわせ",
+      "meaning": "pertanyaan"
+    },
+    {
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning": "balas, jawab"
+    },
+    {
+      "word": "問い合わせる",
+      "reading": "といあわせる",
+      "meaning": "untuk bertanya, untuk mencari informasi"
+    },
+    {
+      "word": "答案",
+      "reading": "とうあん",
+      "meaning": "lembar ujian, naskah ujian"
+    },
+    {
+      "word": "返答",
+      "reading": "へんとう",
+      "meaning": "membalas"
+    },
+    {
+      "word": "質問",
+      "reading": "しつもん",
+      "meaning": "pertanyaan, penyelidikan"
+    },
+    {
+      "word": "訪問",
+      "reading": "ほうもん",
+      "meaning": "telepon, kunjungi"
+    },
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "sebuah masalah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "問答無用",
+      "reading": "もんどうむよう",
+      "meaning": "there being no use in arguing (about it)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "問答無益",
+      "reading": "もんどうむえき",
+      "meaning": "there being no use in arguing (about it)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "こんにゃく問答",
+      "reading": "こんにゃくもんどう",
+      "meaning": "irrelevant and incoherent dialogue",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "問答無用！さっさとやれ！",
+      "reading": null,
+      "indonesian": "There is no use arguing! Do it quickly!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "問答無用！さっさとやれ！",
+      "reading": null,
+      "indonesian": "There is no use arguing! Do it quickly!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何問答えた？",
+      "reading": null,
+      "indonesian": "How many questions did you answer?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何問答えた？",
+      "reading": null,
+      "indonesian": "How many questions did you answer?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

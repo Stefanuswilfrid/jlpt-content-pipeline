@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "電池",
+    "reading": "でんち",
+    "romaji": "denchi",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "battery",
+          "cell"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "電流",
+      "reading": "でんりゅう",
+      "meaning": "electric current"
+    },
+    {
+      "word": "乾電池",
+      "reading": "かんでんち",
+      "meaning": "dry cell battery"
+    },
+    {
+      "word": "電力",
+      "reading": "でんりょく",
+      "meaning": "electric power"
+    },
+    {
+      "word": "電波",
+      "reading": "でんぱ",
+      "meaning": "radio wave"
+    },
+    {
+      "word": "電柱",
+      "reading": "でんちゅう",
+      "meaning": "utility pole"
+    },
+    {
+      "word": "電球",
+      "reading": "でんきゅう",
+      "meaning": "light bulb"
+    },
+    {
+      "word": "電源",
+      "reading": "でんげん",
+      "meaning": "source of electricity"
+    },
+    {
+      "word": "停電",
+      "reading": "ていでん",
+      "meaning": "power outage"
+    },
+    {
+      "word": "電報",
+      "reading": "でんぽう",
+      "meaning": "telegram"
+    },
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "telephone call"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ラジオの電池をかえなければならない。",
+      "reading": null,
+      "english": "I have to change the batteries in the radio.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ところで、予備の電池はあるの？",
+      "reading": null,
+      "english": "By the way, do you have any spare batteries?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この電池はどれくらいもちますか。",
+      "reading": null,
+      "english": "How long will this battery last?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このコンピューターは電池で作動する。",
+      "reading": null,
+      "english": "This computer runs on batteries.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このおもちゃの自動車は電池で動く。",
+      "reading": null,
+      "english": "This toy car runs on batteries.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このおもちゃの車は電池で動きます。",
+      "reading": null,
+      "english": "This toy car runs on batteries.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "カメラ用の電池を下さい。",
+      "reading": null,
+      "english": "May I have some camera batteries, please?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "PC内部のタイマー用ボタン電池が切れた。",
+      "reading": null,
+      "english": "The button battery in the PC's internal timer has gone flat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "PC内部のタイマー用ボタン電池が切れた。",
+      "reading": null,
+      "english": "The button battery for my computer's timer died.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

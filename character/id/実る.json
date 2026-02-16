@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "実る",
+    "reading": "みのる",
+    "romaji": "minoru",
+    "jlpt": "N2",
+    "frequency": 16750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berbuah",
+          "matang"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to produce (good) results",
+          "to show results",
+          "to bear fruit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementasi, materialisasi, realisasi"
+    },
+    {
+      "word": "充実",
+      "reading": "じゅうじつ",
+      "meaning": "kepenuhan, kesempurnaan"
+    },
+    {
+      "word": "実績",
+      "reading": "じっせき",
+      "meaning": "prestasi, hasil nyata"
+    },
+    {
+      "word": "実用",
+      "reading": "じつよう",
+      "meaning": "penggunaan praktis, kegunaan"
+    },
+    {
+      "word": "実感",
+      "reading": "じっかん",
+      "meaning": "perasaan, kesadaran"
+    },
+    {
+      "word": "実習",
+      "reading": "じっしゅう",
+      "meaning": "praktik, pelatihan"
+    },
+    {
+      "word": "果実",
+      "reading": "かじつ",
+      "meaning": "buah"
+    },
+    {
+      "word": "口実",
+      "reading": "こうじつ",
+      "meaning": "mengizinkan"
+    },
+    {
+      "word": "実例",
+      "reading": "じつれい",
+      "meaning": "contoh, kasus"
+    },
+    {
+      "word": "実物",
+      "reading": "じつぶつ",
+      "meaning": "sesuatu yang nyata"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "実るほど頭の下がる稲穂かな",
+      "reading": "みのるほどあたまのさがるいなほかな",
+      "meaning": "the more learned, the more humble",
+      "type": "proverb"
+    },
+    {
+      "word": "実るほど頭を垂れる稲穂かな",
+      "reading": "みのるほどあたまをたれるいなほかな",
+      "meaning": "the more learned, the more humble",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の努力はもうじき実るだろう。",
+      "reading": null,
+      "indonesian": "Your efforts will soon pay off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の努力はもうじき実るだろう。",
+      "reading": null,
+      "indonesian": "Your efforts will soon pay off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

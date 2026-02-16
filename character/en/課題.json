@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "課題",
+    "reading": "かだい",
+    "romaji": "kadai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "subject",
+          "theme",
+          "issue",
+          "matter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "homework",
+          "assignment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "problem (that needs solving)",
+          "task",
+          "challenge",
+          "question"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "route (in climbing, bouldering, etc.)",
+          "problem"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaning": "topic"
+    },
+    {
+      "word": "課",
+      "reading": "か",
+      "meaning": "lesson"
+    },
+    {
+      "word": "課程",
+      "reading": "かてい",
+      "meaning": "course"
+    },
+    {
+      "word": "題名",
+      "reading": "だいめい",
+      "meaning": "title"
+    },
+    {
+      "word": "題",
+      "reading": "だい",
+      "meaning": "title"
+    },
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "question (e.g. on a test)"
+    },
+    {
+      "word": "課長",
+      "reading": "かちょう",
+      "meaning": "section manager"
+    },
+    {
+      "word": "課税",
+      "reading": "かぜい",
+      "meaning": "taxation"
+    },
+    {
+      "word": "科目",
+      "reading": "かもく",
+      "meaning": "(school) subject"
+    },
+    {
+      "word": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "homework"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "明日の課題は何ですか。",
+      "reading": null,
+      "english": "What's the assignment for tomorrow?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "多く学生が課題を出しそこなった。",
+      "reading": null,
+      "english": "Quite a few students failed to hand in their assignments.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

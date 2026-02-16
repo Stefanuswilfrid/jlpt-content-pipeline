@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "好み",
+    "reading": "このみ",
+    "romaji": "konomi",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "kesukaan",
+          "selera",
+          "pilihan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "wish",
+          "desire",
+          "choice",
+          "preference"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "友好",
+      "reading": "ゆうこう",
+      "meaning": "persahabatan"
+    },
+    {
+      "word": "好き好き",
+      "reading": "すきずき",
+      "meaning": "masalah selera"
+    },
+    {
+      "word": "好き",
+      "reading": "すき",
+      "meaning": "suka, kesukaan, cinta"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "semoga beruntung, nasib baik"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の色に対する好みは感心しない。",
+      "reading": null,
+      "indonesian": "I don't like your taste in color.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの色の好みは好きじゃないな。",
+      "reading": null,
+      "indonesian": "I don't like your taste in color.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "牛肉と小羊の肉のうちどちらがお好みですか。",
+      "reading": null,
+      "indonesian": "Have you got any preference between beef and lamb?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "めいめいに自分の好みがある。",
+      "reading": null,
+      "indonesian": "Each has his own taste.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どのスカートがお好みですか。",
+      "reading": null,
+      "indonesian": "Which skirt do you like?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "人の好みは説明できないものだ。",
+      "reading": null,
+      "indonesian": "There is no accounting for tastes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

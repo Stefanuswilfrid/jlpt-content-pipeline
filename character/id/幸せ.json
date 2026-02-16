@@ -1,0 +1,125 @@
+{
+  "definition": {
+    "word": "幸せ",
+    "reading": "しあわせ",
+    "romaji": "shiawase",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "kebahagiaan",
+          "berkah"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "ketidakbahagiaan, kesedihan, kemalangan"
+    },
+    {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "kebahagiaan, keberkahan"
+    },
+    {
+      "word": "幸い",
+      "reading": "さいわい",
+      "meaning": "untungnya; semoga beruntung"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "semoga beruntung, nasib baik"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "芸が身を助けるほどの不幸せ",
+      "reading": "げいがみをたすけるほどのふしあわせ",
+      "meaning": "being able to live as an artist is no blessing",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "幸せですか？",
+      "reading": null,
+      "indonesian": "Are you happy?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたは幸せですか？",
+      "reading": null,
+      "indonesian": "Are you happy?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君はそんな友人たちを持って幸せだ。",
+      "reading": null,
+      "indonesian": "You are very fortunate that you have such friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君との時間はいつだって幸せな時間だ。",
+      "reading": null,
+      "indonesian": "It's always delightful to see you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が幸せならそれでかまわない。",
+      "reading": null,
+      "indonesian": "I don't care as long as you are happy.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金持ちは必ずしも幸せではない。",
+      "reading": null,
+      "indonesian": "The rich are not always happy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "幸せはお金では買えない。",
+      "reading": null,
+      "indonesian": "Money cannot buy happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金で幸せを買うことはできない。",
+      "reading": null,
+      "indonesian": "Money can't buy happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "幸せはお金では買えないよ。",
+      "reading": null,
+      "indonesian": "Money can't buy happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

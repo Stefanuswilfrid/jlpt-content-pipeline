@@ -1,0 +1,187 @@
+{
+  "definition": {
+    "word": "本来",
+    "reading": "ほんらい",
+    "romaji": "honrai",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "originally",
+          "primarily"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "essentially",
+          "intrinsically",
+          "naturally",
+          "by nature",
+          "in (and of) itself"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "proper",
+          "rightful",
+          "legal",
+          "normal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "本部",
+      "reading": "ほんぶ",
+      "meaning": "headquarters"
+    },
+    {
+      "word": "来日",
+      "reading": "らいにち",
+      "meaning": "coming to Japan"
+    },
+    {
+      "word": "標本",
+      "reading": "ひょうほん",
+      "meaning": "specimen"
+    },
+    {
+      "word": "見本",
+      "reading": "みほん",
+      "meaning": "sample"
+    },
+    {
+      "word": "出来上がり",
+      "reading": "できあがり",
+      "meaning": "completion"
+    },
+    {
+      "word": "基本",
+      "reading": "きほん",
+      "meaning": "basics"
+    },
+    {
+      "word": "以来",
+      "reading": "いらい",
+      "meaning": "since"
+    },
+    {
+      "word": "従来",
+      "reading": "じゅうらい",
+      "meaning": "up to now"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaning": "future"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "next year"
+    },
+    {
+      "word": "本人",
+      "reading": "ほんにん",
+      "meaning": "the person in question"
+    },
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaning": "truth"
+    },
+    {
+      "word": "資本",
+      "reading": "しほん",
+      "meaning": "funds"
+    },
+    {
+      "word": "本格",
+      "reading": "ほんかく",
+      "meaning": "original method"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "競争は本来悪いものではない。",
+      "reading": null,
+      "english": "Competition is not by nature evil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ワインは本来害にならない。",
+      "reading": null,
+      "english": "Wine is not harmful in itself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの物体は本来は有害ではない。",
+      "reading": null,
+      "english": "These substances are not poisonous in themselves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは本来無害です。",
+      "reading": null,
+      "english": "This is harmless in itself.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この物質は本来は有毒ではない。",
+      "reading": null,
+      "english": "This substance is not poisonous in itself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この詩は本来フランス語で書かれていた。",
+      "reading": null,
+      "english": "This poem was originally written in French.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人々は次第に本来の目的を見失うだろう。",
+      "reading": null,
+      "english": "People will gradually lose sight of the original purpose.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "若者達は本来、親の考えに対して反発するものだ。",
+      "reading": null,
+      "english": "It is quite natural for young people to rebel against their parents.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

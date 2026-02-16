@@ -1,0 +1,157 @@
+{
+  "definition": {
+    "word": "通知",
+    "reading": "つうち",
+    "romaji": "tsuuchi",
+    "jlpt": "N2",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "notice",
+          "notification",
+          "report",
+          "posting"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "notification (on a smartphone, PC, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "知人",
+      "reading": "ちじん",
+      "meaning": "friend"
+    },
+    {
+      "word": "通路",
+      "reading": "つうろ",
+      "meaning": "passage"
+    },
+    {
+      "word": "開通",
+      "reading": "かいつう",
+      "meaning": "opening (of a new road, railway, etc.)"
+    },
+    {
+      "word": "通帳",
+      "reading": "つうちょう",
+      "meaning": "passbook"
+    },
+    {
+      "word": "直通",
+      "reading": "ちょくつう",
+      "meaning": "direct line"
+    },
+    {
+      "word": "大通り",
+      "reading": "おおどおり",
+      "meaning": "main street"
+    },
+    {
+      "word": "人通り",
+      "reading": "ひとどおり",
+      "meaning": "pedestrian traffic"
+    },
+    {
+      "word": "通用",
+      "reading": "つうよう",
+      "meaning": "(common) use (of a language, currency, etc.)"
+    },
+    {
+      "word": "一通り",
+      "reading": "ひととおり",
+      "meaning": "generally"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "traffic"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "currency"
+    },
+    {
+      "word": "通常",
+      "reading": "つうじょう",
+      "meaning": "usual"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "normal"
+    },
+    {
+      "word": "知る",
+      "reading": "しる",
+      "meaning": "to know"
+    },
+    {
+      "word": "流通",
+      "reading": "りゅうつう",
+      "meaning": "circulation (of money, goods, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その通知はひどい印刷だった。",
+      "reading": null,
+      "english": "The notice was badly printed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こちらの手紙を受け取ったという通知が来た。",
+      "reading": null,
+      "english": "We received an acknowledgement of our letter.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "おって通知があるまで待て。",
+      "reading": null,
+      "english": "Wait until further notice.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "母が見ないように私は通知票をひきだしにしまった。",
+      "reading": null,
+      "english": "I put away the report card in the drawer for fear that Mother should see it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "母が見ないように私は通知票をひきだしにしまった。",
+      "reading": null,
+      "english": "I put the report card in the drawer so my mother wouldn't see it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

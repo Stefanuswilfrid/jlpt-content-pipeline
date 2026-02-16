@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "集まり",
+    "reading": "あつまり",
+    "romaji": "atsumari",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gathering",
+          "meeting",
+          "assembly",
+          "collection",
+          "attendance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "集団",
+      "reading": "しゅうだん",
+      "meaning": "group"
+    },
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "concentration (on a task)"
+    },
+    {
+      "word": "採集",
+      "reading": "さいしゅう",
+      "meaning": "collecting"
+    },
+    {
+      "word": "募集",
+      "reading": "ぼしゅう",
+      "meaning": "recruitment"
+    },
+    {
+      "word": "集合",
+      "reading": "しゅうごう",
+      "meaning": "meeting up"
+    },
+    {
+      "word": "全集",
+      "reading": "ぜんしゅう",
+      "meaning": "complete works"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "また集まりましょう。",
+      "reading": null,
+      "english": "Let's get together again.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "集まりは年に一度開かれる。",
+      "reading": null,
+      "english": "The meeting is held annually.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このパーティーは親しい人の集まりです。",
+      "reading": null,
+      "english": "This party is an intimate gathering.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ごく内輪の集まりなのです。",
+      "reading": null,
+      "english": "It's quite an informal meeting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ガンは一つの病気ではなく、百以上の別の病気の集まりである。",
+      "reading": null,
+      "english": "Cancer is not one but more than a hundred distinct diseases.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "１週間に一度ここで集まりましょう。",
+      "reading": null,
+      "english": "Let's get together here once a week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "週に一度ここに集まりましょう。",
+      "reading": null,
+      "english": "Let's get together here once a week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "来年もまた集まりましょう。",
+      "reading": null,
+      "english": "Let's get together again next year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "明日集まりましょう。",
+      "reading": null,
+      "english": "Let's get together tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

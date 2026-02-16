@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "必ずしも",
+    "reading": "かならずしも",
+    "romaji": "kanarazushimo",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(tidak) selalu",
+          "(tidak) perlu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "必ず",
+      "reading": "かならず",
+      "meaning": "Tentu saja, pastinya"
+    },
+    {
+      "word": "必死",
+      "reading": "ひっし",
+      "meaning": "keputusasaan, panik, hasil yang tak terhindarkan"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaning": "diperlukan"
+    },
+    {
+      "word": "必需品",
+      "reading": "ひつじゅひん",
+      "meaning": "kebutuhan pokok, penting"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "必ずしも行く必要はないよ。",
+      "reading": null,
+      "indonesian": "You do not necessarily have to go there yourself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金持ちは必ずしも幸せではない。",
+      "reading": null,
+      "indonesian": "The rich are not always happy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "光るもの必ずしも金ならず。",
+      "reading": null,
+      "indonesian": "All that glitters is not gold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

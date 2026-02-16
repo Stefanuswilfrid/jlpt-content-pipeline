@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "取り出す",
+    "reading": "とりだす",
+    "romaji": "toridasu",
+    "jlpt": "N2",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take out",
+          "to produce",
+          "to pick out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fetch",
+          "to retrieve"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaning": "to take in"
+    },
+    {
+      "word": "取り消す",
+      "reading": "とりけす",
+      "meaning": "to cancel"
+    },
+    {
+      "word": "引き出す",
+      "reading": "ひきだす",
+      "meaning": "to pull out"
+    },
+    {
+      "word": "呼び出す",
+      "reading": "よびだす",
+      "meaning": "to call (someone) to (the door, phone, etc.)"
+    },
+    {
+      "word": "言い出す",
+      "reading": "いいだす",
+      "meaning": "to begin to say"
+    },
+    {
+      "word": "出くわす",
+      "reading": "でくわす",
+      "meaning": "to happen to meet"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "石から血を取り出すことはできない。",
+      "reading": null,
+      "english": "You cannot get blood out of a stone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "石から血を取り出すことはできない。",
+      "reading": null,
+      "english": "You cannot get blood out of a stone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

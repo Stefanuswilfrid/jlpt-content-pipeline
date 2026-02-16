@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "先",
+    "reading": "さっき",
+    "romaji": "sakki",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "a short while ago",
+          "a moment ago",
+          "just now",
+          "some time ago"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "先輩",
+      "reading": "せんぱい",
+      "meaning": "senior (at work or school)"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "going ahead"
+    },
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "last week"
+    },
+    {
+      "word": "先日",
+      "reading": "せんじつ",
+      "meaning": "the other day"
+    },
+    {
+      "word": "先",
+      "reading": "さき",
+      "meaning": "point"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "先祖伝来",
+      "reading": "せんぞでんらい",
+      "meaning": "inherited",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "祖先崇拝",
+      "reading": "そせんすうはい",
+      "meaning": "ancestor worship",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "率先躬行",
+      "reading": "そっせんきゅうこう",
+      "meaning": "taking a lead in (doing)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "祖先伝来",
+      "reading": "そせんでんらい",
+      "meaning": "hereditary",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "舌先三寸",
+      "reading": "したさきさんずん",
+      "meaning": "eloquence or flattery designed to deceive",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "先制攻撃",
+      "reading": "せんせいこうげき",
+      "meaning": "preemptive strike",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一寸先は闇",
+      "reading": "いっすんさきはやみ",
+      "meaning": "no one knows what the future holds",
+      "type": "proverb"
+    },
+    {
+      "word": "先手必勝",
+      "reading": "せんてひっしょう",
+      "meaning": "victory goes to the one who makes the first move",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "先憂後楽",
+      "reading": "せんゆうこうらく",
+      "meaning": "worrying before one's people worry, enjoying oneself only after one's people have enjoyed themselves (a precept to be observed by a ruler)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "率先垂範",
+      "reading": "そっせんすいはん",
+      "meaning": "set an example worth following",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ついさっきポールが電話をしてきました。",
+      "reading": null,
+      "english": "Paul telephoned just now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "さっき電話が鳴ってたよね？",
+      "reading": null,
+      "english": "The telephone was just ringing, wasn't it?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この新人のアナウンサー、さっきからとちってばかりいる。",
+      "reading": null,
+      "english": "This new announcer keeps stumbling.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "さっきなぜかマイクが入らなかった。",
+      "reading": null,
+      "english": "For some reason the microphone didn't work earlier.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

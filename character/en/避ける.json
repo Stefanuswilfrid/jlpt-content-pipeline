@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "避ける",
+    "reading": "さける",
+    "romaji": "sakeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to avoid (physical contact with)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to avoid (situation)",
+          "to evade (question, subject)",
+          "to shirk (one's responsibilities)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb"
+        ],
+        "meanings": [
+          "to ward off",
+          "to avert"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put aside",
+          "to move out of the way"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "去る",
+      "reading": "さる",
+      "meaning": "to leave"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "三舎を避ける",
+      "reading": "さんしゃをさける",
+      "meaning": "to keep one's distance from someone (due to fear or because that person is superior)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

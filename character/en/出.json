@@ -1,0 +1,237 @@
+{
+  "definition": {
+    "word": "出",
+    "reading": "で",
+    "romaji": "de",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "coming out",
+          "going out",
+          "outflow",
+          "efflux",
+          "rising (of the Sun or the Moon)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "attending (work)",
+          "appearing (on stage)",
+          "one's turn to go on"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "start",
+          "beginning"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "origins",
+          "background",
+          "person (or item) originating from ...",
+          "graduate of ...",
+          "native of ...",
+          "member of ... (lineage)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "architectural member that projects outward"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "highest point of the stern of a ship"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "amount (comprising something)",
+          "amount of time or effort required to do something"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "meeting"
+    },
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "going out"
+    },
+    {
+      "word": "出身",
+      "reading": "しゅっしん",
+      "meaning": "one's origin (e.g. city, country, parentage, school)"
+    },
+    {
+      "word": "出場",
+      "reading": "しゅつじょう",
+      "meaning": "participation (in a tournament, match, race, etc.)"
+    },
+    {
+      "word": "出版",
+      "reading": "しゅっぱん",
+      "meaning": "publication"
+    },
+    {
+      "word": "提出",
+      "reading": "ていしゅつ",
+      "meaning": "presentation (of documents)"
+    },
+    {
+      "word": "支出",
+      "reading": "ししゅつ",
+      "meaning": "expenditure"
+    },
+    {
+      "word": "出来事",
+      "reading": "できごと",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaning": "memories"
+    },
+    {
+      "word": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "business trip"
+    },
+    {
+      "word": "見出し",
+      "reading": "みだし",
+      "meaning": "heading"
+    },
+    {
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "exit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "出る",
+      "reading": "でる",
+      "meaning": "to leave",
+      "type": "expression"
+    },
+    {
+      "word": "門外不出",
+      "reading": "もんがいふしゅつ",
+      "meaning": "(treasuring something by) never taking (it) off the premises",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "出処進退",
+      "reading": "しゅっしょしんたい",
+      "meaning": "staying in one's position or resigning",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "船出",
+      "reading": "ふなで",
+      "meaning": "setting sail",
+      "type": "idiom"
+    },
+    {
+      "word": "立身出世",
+      "reading": "りっしんしゅっせ",
+      "meaning": "success in life",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "神出鬼没",
+      "reading": "しんしゅつきぼつ",
+      "meaning": "appearing in unexpected places and at unexpected moments",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "身から出た錆",
+      "reading": "みからでたさび",
+      "meaning": "paying for one's mistakes",
+      "type": "idiom"
+    },
+    {
+      "word": "足が出る",
+      "reading": "あしがでる",
+      "meaning": "to exceed the budget",
+      "type": "idiom"
+    },
+    {
+      "word": "地が出る",
+      "reading": "じがでる",
+      "meaning": "to reveal one's true colors (colours)",
+      "type": "idiom"
+    },
+    {
+      "word": "手を出す",
+      "reading": "てをだす",
+      "meaning": "to reach out one's hand",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "したいことが出来なければ出来ることをしなさい。",
+      "reading": null,
+      "english": "When you can't do what you want, you do what you can.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "くしゃみが出そう・・・ティッシュちょうだい。",
+      "reading": null,
+      "english": "I think I'm gonna sneeze. Give me a tissue.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ごめん。出来るとは思えないよ。",
+      "reading": null,
+      "english": "Sorry, I don't think I'm gonna be able to.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

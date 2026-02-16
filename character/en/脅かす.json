@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "脅かす",
+    "reading": "おどかす",
+    "romaji": "odokasu",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to threaten",
+          "to menace",
+          "to intimidate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to startle",
+          "to frighten",
+          "to scare"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "脅す",
+      "reading": "おどす",
+      "meaning": "to threaten"
+    },
+    {
+      "word": "脅迫",
+      "reading": "きょうはく",
+      "meaning": "threat"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

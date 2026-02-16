@@ -1,0 +1,178 @@
+{
+  "definition": {
+    "word": "紅葉",
+    "reading": "こうよう",
+    "romaji": "kouyou",
+    "jlpt": "N2",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "leaves turning red (in autumn)",
+          "red leaves",
+          "autumn colours",
+          "fall colors"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "口紅",
+      "reading": "くちべに",
+      "meaning": "lipstick"
+    },
+    {
+      "word": "言葉遣い",
+      "reading": "ことばづかい",
+      "meaning": "speech"
+    },
+    {
+      "word": "葉書",
+      "reading": "はがき",
+      "meaning": "postcard"
+    },
+    {
+      "word": "紅茶",
+      "reading": "こうちゃ",
+      "meaning": "black tea"
+    },
+    {
+      "word": "言葉",
+      "reading": "ことば",
+      "meaning": "language"
+    },
+    {
+      "word": "葉",
+      "reading": "は",
+      "meaning": "leaf"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "紅葉に鹿",
+      "reading": "もみじにしか",
+      "meaning": "match made in heaven",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "寒くなって木の葉は、紅葉した。",
+      "reading": null,
+      "english": "The cold weather has turned the leaves red.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏の末と秋には紅葉が見られる。",
+      "reading": null,
+      "english": "In late summer and autumn one can see the leaves change colour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "秋になると紅葉します。",
+      "reading": null,
+      "english": "The leaves turn red in the fall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "２、３週間もすれば木の葉は紅葉するでしょう。",
+      "reading": null,
+      "english": "The leaves will turn red in two or three weeks.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "木々の葉が紅葉し始めた。",
+      "reading": null,
+      "english": "The leaves of the trees began to turn red.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "木々の葉が紅葉し始めた。",
+      "reading": null,
+      "english": "The leaves on the trees have begun to turn red.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "木々の葉が紅葉し始めた。",
+      "reading": null,
+      "english": "The leaves on the trees have begun to change colors.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "木の葉は日が経つにつれて紅葉した。",
+      "reading": null,
+      "english": "The leaves turned red as the days passed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "木の葉は秋に紅葉する。",
+      "reading": null,
+      "english": "The leaves of the trees turn red in the fall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "木の葉は秋に紅葉する。",
+      "reading": null,
+      "english": "The leaves of the trees turn yellow in the fall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "木の葉は秋に紅葉する。",
+      "reading": null,
+      "english": "Leaves turn red in autumn.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "庭の木がすっかり紅葉しました。",
+      "reading": null,
+      "english": "The leaves of the trees in the garden have turned completely red.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "森は紅葉に包まれていた。",
+      "reading": null,
+      "english": "The woods were clothed in autumn leaves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "秋には木の葉が紅葉する。",
+      "reading": null,
+      "english": "The leaves turn in autumn.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

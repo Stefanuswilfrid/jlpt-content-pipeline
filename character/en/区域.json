@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "区域",
+    "reading": "くいき",
+    "romaji": "kuiki",
+    "jlpt": "N2",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "area",
+          "zone",
+          "district",
+          "quarter",
+          "section",
+          "limits",
+          "boundary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "流域",
+      "reading": "りゅういき",
+      "meaning": "drainage basin"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "division"
+    },
+    {
+      "word": "地区",
+      "reading": "ちく",
+      "meaning": "district"
+    },
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaning": "area"
+    },
+    {
+      "word": "区間",
+      "reading": "くかん",
+      "meaning": "section (of track, etc.)"
+    },
+    {
+      "word": "領域",
+      "reading": "りょういき",
+      "meaning": "territory"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "区切り",
+      "reading": "くぎり",
+      "meaning": "pause (in speech, writing, etc.)"
+    },
+    {
+      "word": "区画",
+      "reading": "くかく",
+      "meaning": "division"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "管理区域 — 許可なくして立ち入りを禁ず。",
+      "reading": null,
+      "english": "Controlled Access Zone: No entry without permission.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "府県はフランスや日本の行政区域である。",
+      "reading": null,
+      "english": "Prefectures are governmental divisions of France and Japan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "府県はフランスや日本の行政区域である。",
+      "reading": null,
+      "english": "Prefectures are governmental divisions of France and Japan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "管理区域 — 許可なくして立ち入りを禁ず。",
+      "reading": null,
+      "english": "Controlled Access Zone: No entry without permission.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ここは立入禁止区域です。",
+      "reading": null,
+      "english": "This is a restricted area.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

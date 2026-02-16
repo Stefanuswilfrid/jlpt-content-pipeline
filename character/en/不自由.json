@@ -1,0 +1,177 @@
+{
+  "definition": {
+    "word": "不自由",
+    "reading": "ふじゆう",
+    "romaji": "fujiyuu",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "discomfort",
+          "inconvenience"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "poverty",
+          "want",
+          "destitution",
+          "lack"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "inability",
+          "disability",
+          "impairment (physical, mental, etc.)",
+          "nonfluency (in a language)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "anxiety"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "insufficiency"
+    },
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "dissatisfaction"
+    },
+    {
+      "word": "自己",
+      "reading": "じこ",
+      "meaning": "self"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "injustice"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "automatic"
+    },
+    {
+      "word": "自殺",
+      "reading": "じさつ",
+      "meaning": "suicide"
+    },
+    {
+      "word": "経由",
+      "reading": "けいゆ",
+      "meaning": "going through"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "unhappiness"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "disadvantage"
+    },
+    {
+      "word": "自慢",
+      "reading": "じまん",
+      "meaning": "pride"
+    },
+    {
+      "word": "自身",
+      "reading": "じしん",
+      "meaning": "(one's) self"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaning": "nature"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "wonderful"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "wrong"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "suspension"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "discontent"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君には不自由させない。",
+      "reading": null,
+      "english": "You shall want for nothing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君には何も不自由させない。",
+      "reading": null,
+      "english": "You shall want for nothing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたには何も不自由はさせない。",
+      "reading": null,
+      "english": "You shall want for nothing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ヘレン・ケラーは目と耳と口が不自由だった。",
+      "reading": null,
+      "english": "Helen Keller was blind, deaf and dumb.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とても不自由な目にあった。",
+      "reading": null,
+      "english": "I was greatly inconvenienced.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

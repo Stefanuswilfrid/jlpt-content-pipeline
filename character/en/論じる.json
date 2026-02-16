@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "論じる",
+    "reading": "ろんじる",
+    "romaji": "ronjiru",
+    "jlpt": "N3",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to discuss",
+          "to talk about",
+          "to deal with (a topic)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to argue",
+          "to dispute"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take into consideration",
+          "to make an issue of"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "議論",
+      "reading": "ぎろん",
+      "meaning": "argument"
+    },
+    {
+      "word": "論ずる",
+      "reading": "ろんずる",
+      "meaning": "to discuss"
+    },
+    {
+      "word": "評論",
+      "reading": "ひょうろん",
+      "meaning": "criticism"
+    },
+    {
+      "word": "結論",
+      "reading": "けつろん",
+      "meaning": "conclusion (of an argument, discussion, study, etc.)"
+    },
+    {
+      "word": "論文",
+      "reading": "ろんぶん",
+      "meaning": "thesis"
+    },
+    {
+      "word": "論争",
+      "reading": "ろんそう",
+      "meaning": "dispute"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

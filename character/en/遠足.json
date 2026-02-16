@@ -1,0 +1,190 @@
+{
+  "definition": {
+    "word": "遠足",
+    "reading": "えんそく",
+    "romaji": "ensoku",
+    "jlpt": "N2",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "school trip",
+          "field trip",
+          "excursion",
+          "outing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "long walk",
+          "excursion (on foot)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "足る",
+      "reading": "たる",
+      "meaning": "to be sufficient"
+    },
+    {
+      "word": "足元",
+      "reading": "あしもと",
+      "meaning": "at one's feet"
+    },
+    {
+      "word": "足跡",
+      "reading": "あしあと",
+      "meaning": "footprints"
+    },
+    {
+      "word": "望遠鏡",
+      "reading": "ぼうえんきょう",
+      "meaning": "telescope"
+    },
+    {
+      "word": "補足",
+      "reading": "ほそく",
+      "meaning": "supplement"
+    },
+    {
+      "word": "遠方",
+      "reading": "えんぽう",
+      "meaning": "distant place"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学校の遠足で奈良に行った。",
+      "reading": null,
+      "english": "We went on a school trip to Nara.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校の遠足で十和田湖へ行った。",
+      "reading": null,
+      "english": "We went to Lake Towada on a school excursion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会社の遠足のためバスを１台チャーターした。",
+      "reading": null,
+      "english": "They chartered a bus for the firm's outing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠足は雨のため中止になった。",
+      "reading": null,
+      "english": "The picnic was called off because of the rain.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "雨で遠足は延期しなければならなくなった。",
+      "reading": null,
+      "english": "The rain necessitated a postponement of the picnic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もし万一明日雨が降れば、遠足は中止されるだろう。",
+      "reading": null,
+      "english": "If it should rain tomorrow, the excursion will be canceled.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もし雨なら遠足は中止です。",
+      "reading": null,
+      "english": "If it rains, the excursion will be called off.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日雨が降れば、遠足はありません。",
+      "reading": null,
+      "english": "If it rains tomorrow, there will be no excursion.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "全体として、遠足は楽しかった。",
+      "reading": null,
+      "english": "All in all, the excursion was pleasant.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "春のある晴れた一日、我々は遠足を十分に楽しんだ。",
+      "reading": null,
+      "english": "On a fine day in spring, we enjoyed a walking tour to the full.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "児童たちは、もうすぐやって来る遠足を楽しみにしている。",
+      "reading": null,
+      "english": "The pupils are looking forward to the forthcoming excursion.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私達六人はこの週末に海岸に遠足に行きます。",
+      "reading": null,
+      "english": "Six of us are going on an excursion to the beach this weekend.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは明日大阪城に遠足に行きます。",
+      "reading": null,
+      "english": "We are going on a school trip to Osaka Castle tomorrow.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちの遠足は異常な降雪で台無しになった。",
+      "reading": null,
+      "english": "Our school trip was spoiled by an unusual snowfall.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちのクラスは箱根へ遠足に行った。",
+      "reading": null,
+      "english": "Our class went on an excursion to Hakone.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

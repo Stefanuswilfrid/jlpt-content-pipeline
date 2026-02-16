@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "骨折",
+    "reading": "こっせつ",
+    "romaji": "kossetsu",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "bone fracture"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "骨",
+      "reading": "ほね",
+      "meaning": "bone"
+    },
+    {
+      "word": "折角",
+      "reading": "せっかく",
+      "meaning": "with trouble"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "骨折り損のくたびれ儲け",
+      "reading": "ほねおりぞんのくたびれもうけ",
+      "meaning": "going through great pains in vain",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

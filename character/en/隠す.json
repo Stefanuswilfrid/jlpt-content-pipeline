@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "隠す",
+    "reading": "かくす",
+    "romaji": "kakusu",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hide",
+          "to conceal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "隠れる",
+      "reading": "かくれる",
+      "meaning": "to hide"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "能ある鷹は爪を隠す",
+      "reading": "のうあるたかはつめをかくす",
+      "meaning": "a wise man keeps some of his talents in reserve",
+      "type": "proverb"
+    },
+    {
+      "word": "木を隠すなら森の中",
+      "reading": "きをかくすならもりのなか",
+      "meaning": "if you want to hide a tree, the best place is a forest",
+      "type": "proverb"
+    },
+    {
+      "word": "木の葉を隠すなら森の中",
+      "reading": "このはをかくすならもりのなか",
+      "meaning": "if you want to hide a leaf, the best place is a forest",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,41 @@
+{
+  "definition": {
+    "word": "築く",
+    "reading": "きずく",
+    "romaji": "kizuku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membangun",
+          "mendirikan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to build up (a reputation, position, fortune, etc.)",
+          "to establish (a relationship, household, tradition, etc.)",
+          "to lay (a foundation)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "建築",
+      "reading": "けんちく",
+      "meaning": "konstruksi, arsitektur"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

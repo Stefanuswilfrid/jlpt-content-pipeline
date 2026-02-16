@@ -1,0 +1,205 @@
+{
+  "definition": {
+    "word": "蒸気",
+    "reading": "じょうき",
+    "romaji": "jouki",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "steam",
+          "vapour",
+          "vapor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "steamboat",
+          "steam locomotive"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "気配",
+      "reading": "けはい",
+      "meaning": "indication"
+    },
+    {
+      "word": "強気",
+      "reading": "つよき",
+      "meaning": "confident"
+    },
+    {
+      "word": "気圧",
+      "reading": "きあつ",
+      "meaning": "atmospheric pressure"
+    },
+    {
+      "word": "水蒸気",
+      "reading": "すいじょうき",
+      "meaning": "water vapour"
+    },
+    {
+      "word": "吐き気",
+      "reading": "はきけ",
+      "meaning": "nausea"
+    },
+    {
+      "word": "換気",
+      "reading": "かんき",
+      "meaning": "ventilation"
+    },
+    {
+      "word": "蒸発",
+      "reading": "じょうはつ",
+      "meaning": "evaporation"
+    },
+    {
+      "word": "平気",
+      "reading": "へいき",
+      "meaning": "cool"
+    },
+    {
+      "word": "湯気",
+      "reading": "ゆげ",
+      "meaning": "steam"
+    },
+    {
+      "word": "生意気",
+      "reading": "なまいき",
+      "meaning": "impertinent"
+    },
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "(air) temperature"
+    },
+    {
+      "word": "大気",
+      "reading": "たいき",
+      "meaning": "atmosphere"
+    },
+    {
+      "word": "気象",
+      "reading": "きしょう",
+      "meaning": "weather (conditions)"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "lively"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "weather"
+    },
+    {
+      "word": "勇気",
+      "reading": "ゆうき",
+      "meaning": "courage"
+    },
+    {
+      "word": "気候",
+      "reading": "きこう",
+      "meaning": "climate"
+    },
+    {
+      "word": "気味",
+      "reading": "きみ",
+      "meaning": "sensation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そのエンジンは蒸気で動く。",
+      "reading": null,
+      "english": "The engine is driven by steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この船は蒸気で動かされている。",
+      "reading": null,
+      "english": "This ship is driven by steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "熱は水を水蒸気に変える。",
+      "reading": null,
+      "english": "Heat turns water into steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "熱は水を蒸気に変える。",
+      "reading": null,
+      "english": "Heat turns water into steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電気が蒸気にとって代わった。",
+      "reading": null,
+      "english": "Electricity has taken the place of steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水は熱せられると蒸気になる。",
+      "reading": null,
+      "english": "Water changes into vapor when it is heated.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水は蒸気に変わる。",
+      "reading": null,
+      "english": "Water changes into steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "蒸気機関車は電車ほどなめらかには走らない。",
+      "reading": null,
+      "english": "Steam locomotives run less smoothly than electric trains.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "蒸気機関車は電車に取って代わられた。",
+      "reading": null,
+      "english": "Steam trains were replaced by electric trains.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "蒸気機関は熱を力に変える。",
+      "reading": null,
+      "english": "A steam engine transforms heat into power.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

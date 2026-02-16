@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "冷静",
+    "reading": "れいせい",
+    "romaji": "reisei",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "calmness",
+          "composure",
+          "coolness",
+          "serenity",
+          "presence of mind"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "静か",
+      "reading": "しずか",
+      "meaning": "quiet"
+    },
+    {
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "refrigerator"
+    },
+    {
+      "word": "冷凍",
+      "reading": "れいとう",
+      "meaning": "freezing"
+    },
+    {
+      "word": "冷ます",
+      "reading": "さます",
+      "meaning": "to cool (e.g. from a high temperature to room temperature)"
+    },
+    {
+      "word": "冷房",
+      "reading": "れいぼう",
+      "meaning": "air conditioning"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "沈着冷静",
+      "reading": "ちんちゃくれいせい",
+      "meaning": "calm, cool, and collected",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "冷静沈着",
+      "reading": "れいせいちんちゃく",
+      "meaning": "calm, cool, and collected",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はもっと冷静に行動すべきだ。",
+      "reading": null,
+      "english": "You should act more calmly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何が起こっても冷静にしていなさい。",
+      "reading": null,
+      "english": "Whatever happens, keep calm.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "マイクはいつでも冷静だ。",
+      "reading": null,
+      "english": "Mike always stays cool.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たとえ何が起ころうと、冷静でなければならない。",
+      "reading": null,
+      "english": "Whatever happens, you must keep calm.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "よく冷静でいられたね。",
+      "reading": null,
+      "english": "I admire you for keeping your head.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

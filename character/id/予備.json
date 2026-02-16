@@ -1,0 +1,154 @@
+{
+  "definition": {
+    "word": "予備",
+    "reading": "よび",
+    "romaji": "yobi",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "persiapan",
+          "cadangan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "preparation",
+          "preliminaries"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaning": "perawatan, perbaikan menyeluruh"
+    },
+    {
+      "word": "警備",
+      "reading": "けいび",
+      "meaning": "pertahanan, penjagaan, kepolisian, keamanan"
+    },
+    {
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "perkiraan, anggaran"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "rencana, pengaturan, jadwal"
+    },
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaning": "harapan, antisipasi, prediksi"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "mempersiapkan"
+    },
+    {
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "peralatan, perangkat, fasilitas"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediksi, estimasi"
+    },
+    {
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "pencegahan, perlindungan terhadap"
+    },
+    {
+      "word": "守備",
+      "reading": "しゅび",
+      "meaning": "pertahanan"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "reservasi"
+    },
+    {
+      "word": "装備",
+      "reading": "そうび",
+      "meaning": "peralatan"
+    },
+    {
+      "word": "予報",
+      "reading": "よほう",
+      "meaning": "ramalan, prediksi"
+    },
+    {
+      "word": "軍備",
+      "reading": "ぐんび",
+      "meaning": "persenjataan, persiapan militer"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々はすべての本をひとまとめにして予備室に入れた。",
+      "reading": null,
+      "indonesian": "We gathered all the books together and put them in the spare room.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ところで、予備の電池はあるの？",
+      "reading": null,
+      "indonesian": "By the way, do you have any spare batteries?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どこの病院にも全て停電に備えて予備の発電機を備えている。",
+      "reading": null,
+      "indonesian": "Every hospital has a back-up electric generator in case of blackout.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この車の予備の部品を買うことができない。",
+      "reading": null,
+      "indonesian": "I cannot buy spare parts for this car.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "予備の毛布をください。",
+      "reading": null,
+      "indonesian": "I need an extra blanket.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "予備の毛布をください。",
+      "reading": null,
+      "indonesian": "Please give me a spare blanket.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

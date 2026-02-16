@@ -1,0 +1,163 @@
+{
+  "definition": {
+    "word": "借り",
+    "reading": "かり",
+    "romaji": "kari",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meminjam",
+          "hutang",
+          "kredit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "借金",
+      "reading": "しゃっきん",
+      "meaning": "utang, pinjaman, kewajiban"
+    },
+    {
+      "word": "借りる",
+      "reading": "かりる",
+      "meaning": "meminjam, berutang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "借りてきた猫",
+      "reading": "かりてきたねこ",
+      "meaning": "someone who is suddenly quiet and meek",
+      "type": "idiom"
+    },
+    {
+      "word": "手を借りる",
+      "reading": "てをかりる",
+      "meaning": "to get (someone's) help",
+      "type": "idiom"
+    },
+    {
+      "word": "借りを返す",
+      "reading": "かりをかえす",
+      "meaning": "to pay back a debt",
+      "type": "idiom"
+    },
+    {
+      "word": "猫の手も借りたい",
+      "reading": "ねこのてもかりたい",
+      "meaning": "extremely busy",
+      "type": "idiom"
+    },
+    {
+      "word": "借りる時の地蔵顔、済す時の閻魔顔",
+      "reading": "かりるときのじぞうがお、なすときのえんまがお",
+      "meaning": "people look friendly when they ask for a loan but not so much when they repay it",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "借りたものは返さなきゃ。",
+      "reading": null,
+      "indonesian": "You should pay your debts.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は銀行から金が借りられるよ。",
+      "reading": null,
+      "indonesian": "You can get a loan from a bank.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電話をお借りできますか。",
+      "reading": null,
+      "indonesian": "May I use your phone?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お電話をお借りしてもよろしいですか。",
+      "reading": null,
+      "indonesian": "May I use your phone?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電話をお借りしてもいいですか。",
+      "reading": null,
+      "indonesian": "May I use your phone?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電話をお借りしてもよろしいでしょうか？",
+      "reading": null,
+      "indonesian": "May I use your phone?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電話借りてもいい？",
+      "reading": null,
+      "indonesian": "May I use your phone?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "辞書をお借りできますか。",
+      "reading": null,
+      "indonesian": "May I borrow your dictionary?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の辞書を借りていいですか。",
+      "reading": null,
+      "indonesian": "May I borrow your dictionary?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの辞書を借りてもよいですか。",
+      "reading": null,
+      "indonesian": "May I borrow your dictionary?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "辞書借りてもいい？",
+      "reading": null,
+      "indonesian": "May I borrow your dictionary?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君に１０ドルの借りがある。",
+      "reading": null,
+      "indonesian": "I owe you ten dollars.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

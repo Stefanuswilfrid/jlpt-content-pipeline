@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "曖昧",
+    "reading": "あいまい",
+    "romaji": "aimai",
+    "jlpt": "N2",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "vague",
+          "ambiguous",
+          "unclear"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shady",
+          "disreputable"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fuzzy"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "曖昧模糊",
+      "reading": "あいまいもこ",
+      "meaning": "obscure",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何てあいまいな表現だ。",
+      "reading": null,
+      "english": "What an ambiguous expression!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "全て",
+    "reading": "すべて",
+    "romaji": "subete",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "semuanya",
+          "keseluruhan",
+          "seluruhnya"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "entirely",
+          "completely",
+          "wholly",
+          "all"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "全身",
+      "reading": "ぜんしん",
+      "meaning": "seluruh tubuh, potret penuh"
+    },
+    {
+      "word": "全",
+      "reading": "ぜん",
+      "meaning": "semua, keseluruhan, seluruhnya"
+    },
+    {
+      "word": "全く",
+      "reading": "まったく",
+      "meaning": "sungguh, sepenuhnya"
+    },
+    {
+      "word": "全体",
+      "reading": "ぜんたい",
+      "meaning": "keseluruhan, seluruh bagian, apa pun (masalahnya)"
+    },
+    {
+      "word": "全国",
+      "reading": "ぜんこく",
+      "meaning": "seluruh bangsa, di seluruh negeri, di seluruh negara"
+    },
+    {
+      "word": "全員",
+      "reading": "ぜんいん",
+      "meaning": "semua anggota"
+    },
+    {
+      "word": "完全",
+      "reading": "かんぜん",
+      "meaning": "kesempurnaan, kelengkapan"
+    },
+    {
+      "word": "全般",
+      "reading": "ぜんぱん",
+      "meaning": "(keseluruhan), umum"
+    },
+    {
+      "word": "全集",
+      "reading": "ぜんしゅう",
+      "meaning": "karya lengkap"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学校に全てを求めることはできない。",
+      "reading": null,
+      "indonesian": "One can't expect everything from schools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校に全てを求めることはできない。",
+      "reading": null,
+      "indonesian": "One can't expect everything from schools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "医者たちの努力も全てかいがなかった。",
+      "reading": null,
+      "indonesian": "All the efforts of the doctors were to no avail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

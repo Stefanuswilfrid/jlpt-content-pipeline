@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "直ちに",
+    "reading": "ただちに",
+    "romaji": "tadachini",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "at once",
+          "immediately",
+          "right away",
+          "without delay"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "directly (face, lead to, etc.)",
+          "automatically (mean, result in, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaning": "direct"
+    },
+    {
+      "word": "直",
+      "reading": "じき",
+      "meaning": "soon"
+    },
+    {
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaning": "honest"
+    },
+    {
+      "word": "直に",
+      "reading": "じかに",
+      "meaning": "directly"
+    },
+    {
+      "word": "直に",
+      "reading": "じきに",
+      "meaning": "immediately"
+    },
+    {
+      "word": "直",
+      "reading": "ちょく",
+      "meaning": "direct"
+    },
+    {
+      "word": "直後",
+      "reading": "ちょくご",
+      "meaning": "immediately following"
+    },
+    {
+      "word": "直前",
+      "reading": "ちょくぜん",
+      "meaning": "just before"
+    },
+    {
+      "word": "素直",
+      "reading": "すなお",
+      "meaning": "obedient"
+    },
+    {
+      "word": "仲直り",
+      "reading": "なかなおり",
+      "meaning": "reconciliation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は直ちに家へ帰らなければならない。",
+      "reading": null,
+      "english": "You must go home at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は直ちに医者に行く必要がある。",
+      "reading": null,
+      "english": "It is necessary for you to see a doctor at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "直ちにそれをしなさい。",
+      "reading": null,
+      "english": "Let it be done at once.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

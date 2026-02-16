@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "太陽",
+    "reading": "たいよう",
+    "romaji": "taiyou",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "matahari"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "陽気",
+      "reading": "ようき",
+      "meaning": "musim, cuaca, keceriaan"
+    },
+    {
+      "word": "太鼓",
+      "reading": "たいこ",
+      "meaning": "drum, rebana"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "海のはるか向こうに、太陽の国イタリーがある。",
+      "reading": null,
+      "indonesian": "Far away across the sea lies the sunny land of Italy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雲の切れ間から太陽が見えます。",
+      "reading": null,
+      "indonesian": "You can see the sun peeking through the clouds.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雲間から太陽が覗いています。",
+      "reading": null,
+      "indonesian": "You can see the sun peeking through the clouds.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

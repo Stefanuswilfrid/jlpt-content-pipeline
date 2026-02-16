@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "引き返す",
+    "reading": "ひきかえす",
+    "romaji": "hikikaesu",
+    "jlpt": "N2",
+    "frequency": 20750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berbalik",
+          "kembali",
+          "mundur"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "引っ込む",
+      "reading": "ひっこむ",
+      "meaning": "mundur, tenggelam, ambruk"
+    },
+    {
+      "word": "差し引き",
+      "reading": "さしひき",
+      "meaning": "pengurangan, saldo"
+    },
+    {
+      "word": "引き出す",
+      "reading": "ひきだす",
+      "meaning": "menarik keluar, mengeluarkan, mencabut"
+    },
+    {
+      "word": "長引く",
+      "reading": "ながびく",
+      "meaning": "menjadi berkepanjangan, berlarut-larut"
+    },
+    {
+      "word": "裏返す",
+      "reading": "うらがえす",
+      "meaning": "membalikkan sesuatu, membalik (sesuatu)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "人生という道を引き返すことはできない。",
+      "reading": null,
+      "indonesian": "There is no returning on the road of life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人生という道を引き返すことはできない。",
+      "reading": null,
+      "indonesian": "There is no returning on the road of life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

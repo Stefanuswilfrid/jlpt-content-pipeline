@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "皿",
+    "reading": "さら",
+    "romaji": "sara",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "plate",
+          "dish",
+          "platter",
+          "disc"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix",
+          "counter"
+        ],
+        "meanings": [
+          "serving",
+          "helping",
+          "course"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kanji radical 108 (at the bottom)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "灰皿",
+      "reading": "はいざら",
+      "meaning": "ashtray"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "目を皿にする",
+      "reading": "めをさらにする",
+      "meaning": "to open one's eyes wide",
+      "type": "idiom"
+    },
+    {
+      "word": "毒を食らわば皿まで",
+      "reading": "どくをくらわばさらまで",
+      "meaning": "once you've committed a crime, commit to it",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "給仕は新しいお皿を持ってきた。",
+      "reading": null,
+      "english": "The waiter brought a new plate.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "みんなで分けて食べたいので、取り皿をもらえますか。",
+      "reading": null,
+      "english": "We're all going to share it. Could you bring us some extra plates?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

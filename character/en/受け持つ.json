@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "受け持つ",
+    "reading": "うけもつ",
+    "romaji": "ukemotsu",
+    "jlpt": "N2",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take (be in) charge of"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "受験",
+      "reading": "じゅけん",
+      "meaning": "taking an examination (esp. for entrance to a school or university)"
+    },
+    {
+      "word": "持参",
+      "reading": "じさん",
+      "meaning": "bringing"
+    },
+    {
+      "word": "承る",
+      "reading": "うけたまわる",
+      "meaning": "to hear"
+    },
+    {
+      "word": "受け付ける",
+      "reading": "うけつける",
+      "meaning": "to accept"
+    },
+    {
+      "word": "維持",
+      "reading": "いじ",
+      "meaning": "maintenance"
+    },
+    {
+      "word": "支持",
+      "reading": "しじ",
+      "meaning": "support"
+    },
+    {
+      "word": "受け止める",
+      "reading": "うけとめる",
+      "meaning": "to catch"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "費用を受け持つ者に決定権がある。",
+      "reading": null,
+      "english": "He who pays the piper calls the tune.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "費用を受け持つ者に決定権がある。",
+      "reading": null,
+      "english": "He who pays the piper calls the tune.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "熱する",
+    "reading": "ねっする",
+    "romaji": "nessuru",
+    "jlpt": "N2",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to heat",
+          "to heat up"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get excited",
+          "to get worked up",
+          "to get fired up"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "加熱",
+      "reading": "かねつ",
+      "meaning": "heating"
+    },
+    {
+      "word": "火傷",
+      "reading": "やけど",
+      "meaning": "burn"
+    },
+    {
+      "word": "熱中",
+      "reading": "ねっちゅう",
+      "meaning": "being enthusiastic about"
+    },
+    {
+      "word": "熱湯",
+      "reading": "ねっとう",
+      "meaning": "boiling water"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

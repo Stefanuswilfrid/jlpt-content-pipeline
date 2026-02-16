@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "終わり",
+    "reading": "おわり",
+    "romaji": "owari",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "end",
+          "ending",
+          "close",
+          "conclusion"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "end of (one's) life",
+          "death"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "最終",
+      "reading": "さいしゅう",
+      "meaning": "last"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "始め良ければ終わり良し",
+      "reading": "はじめよければおわりよし",
+      "meaning": "a good beginning makes a good ending",
+      "type": "proverb"
+    },
+    {
+      "word": "終わりよければすべてよし",
+      "reading": "おわりよければすべてよし",
+      "meaning": "all's well that ends well",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

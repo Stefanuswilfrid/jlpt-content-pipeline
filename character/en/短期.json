@@ -1,0 +1,117 @@
+{
+  "definition": {
+    "word": "短期",
+    "reading": "たんき",
+    "romaji": "tanki",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "short-term"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "長短",
+      "reading": "ちょうたん",
+      "meaning": "(relative) length"
+    },
+    {
+      "word": "短編",
+      "reading": "たんぺん",
+      "meaning": "short (e.g. story, film)"
+    },
+    {
+      "word": "定期券",
+      "reading": "ていきけん",
+      "meaning": "commuter pass"
+    },
+    {
+      "word": "短所",
+      "reading": "たんしょ",
+      "meaning": "defect"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "period"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaning": "expectation"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "long-term"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "term"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "fixed period"
+    },
+    {
+      "word": "短大",
+      "reading": "たんだい",
+      "meaning": "junior college"
+    },
+    {
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "postponement"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外国語を短期間に習得することはほとんど不可能だ。",
+      "reading": null,
+      "english": "It is almost impossible to learn a foreign language in a short time.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "英語を短期間にマスターすることは不可能です。",
+      "reading": null,
+      "english": "It is impossible to master English in a short time.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どんな語学も短期では無理だ。",
+      "reading": null,
+      "english": "Whatever language you study, it takes time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "短期間で英語を習得することはできない。",
+      "reading": null,
+      "english": "You can not master English in a short time.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

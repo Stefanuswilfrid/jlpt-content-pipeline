@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "到頭",
+    "reading": "とうとう",
+    "romaji": "toutou",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "finally",
+          "at last",
+          "in the end",
+          "ultimately"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "到着",
+      "reading": "とうちゃく",
+      "meaning": "arrival"
+    },
+    {
+      "word": "頭",
+      "reading": "とう",
+      "meaning": "counter for large animals (e.g. head of cattle)"
+    },
+    {
+      "word": "頭",
+      "reading": "あたま",
+      "meaning": "head"
+    },
+    {
+      "word": "頭痛",
+      "reading": "ずつう",
+      "meaning": "headache"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "トムはとうとうタバコをやめた。",
+      "reading": null,
+      "english": "Tom finally gave up smoking.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

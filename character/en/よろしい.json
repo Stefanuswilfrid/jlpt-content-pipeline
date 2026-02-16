@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "宜しい",
+    "reading": "よろしい",
+    "romaji": "yoroshii",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "good",
+          "OK",
+          "all right",
+          "fine",
+          "very well",
+          "will do",
+          "may",
+          "can"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "良い",
+      "reading": "よい",
+      "meaning": "good"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "近いうちにあなたに会いに行ってもよろしいですか。",
+      "reading": null,
+      "english": "May I come to see you one of these days?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

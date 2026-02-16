@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "幕",
+    "reading": "まく",
+    "romaji": "maku",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tirai",
+          "babak (dalam drama)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "counter"
+        ],
+        "meanings": [
+          "act (in a play)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "falling of the curtain",
+          "end (of a scene)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "end",
+          "close"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "case",
+          "occasion",
+          "role (to play)",
+          "part",
+          "place"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "makuuchi",
+          "top division"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "煙幕を張る",
+      "reading": "えんまくをはる",
+      "meaning": "to throw up a smoke screen",
+      "type": "idiom"
+    },
+    {
+      "word": "出る幕ではない",
+      "reading": "でるまくではない",
+      "meaning": "it is none of one's business",
+      "type": "idiom"
+    },
+    {
+      "word": "幕が切って落とされる",
+      "reading": "まくがきっておとされる",
+      "meaning": "to begin grandly",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

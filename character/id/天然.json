@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "天然",
+    "reading": "てんねん",
+    "romaji": "tennen",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "alam",
+          "spontanitas"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "natural airhead"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "Jelas; alami"
+    },
+    {
+      "word": "突然",
+      "reading": "とつぜん",
+      "meaning": "tiba-tiba, mendadak, tak terduga"
+    },
+    {
+      "word": "天候",
+      "reading": "てんこう",
+      "meaning": "cuaca"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaning": "alam, spontan"
+    },
+    {
+      "word": "偶然",
+      "reading": "ぐうぜん",
+      "meaning": "(secara) kebetulan, tak terduga"
+    },
+    {
+      "word": "天皇",
+      "reading": "てんのう",
+      "meaning": "Kaisar Jepang"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "cuaca"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "天然自然",
+      "reading": "てんねんしぜん",
+      "meaning": "natural",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "シドニーは天然の美しい港がある。",
+      "reading": null,
+      "indonesian": "Sydney has a beautiful natural harbor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この車は天然ガスで動く。",
+      "reading": null,
+      "indonesian": "This car runs on natural gas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

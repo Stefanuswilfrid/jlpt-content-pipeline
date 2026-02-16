@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "共通",
+    "reading": "きょうつう",
+    "romaji": "kyoutsuu",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kesamaan",
+          "saling"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be common (to)",
+          "to be shared (by)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "-wide"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "共同",
+      "reading": "きょうどう",
+      "meaning": "kerja sama, asosiasi, kolaborasi"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "surat-menyurat, komunikasi"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "mata uang"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "jalan yang dilewati, melintasi"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "perjalanan pulang pergi ke tempat kerja"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretasi; penerjemah"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "kerja sama, kolaborasi"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "jalan, melewati"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "berangkat ke sekolah"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "blokade, gangguan, penghentian"
+    },
+    {
+      "word": "通り過ぎる",
+      "reading": "とおりすぎる",
+      "meaning": "melewati, menembus"
+    },
+    {
+      "word": "通じる",
+      "reading": "つうじる",
+      "meaning": "untuk berlari ke, untuk memimpin ke, untuk berkomunikasi"
+    },
+    {
+      "word": "公共",
+      "reading": "こうきょう",
+      "meaning": "publik, komunitas, komunal"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "lalu lintas, transportasi"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "umum; lazim"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君とぼくは仲がよいが、共通するものはほとんどない。",
+      "reading": null,
+      "indonesian": "You and I are good friends, but we have little in common.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "音楽は人類共通の言葉である。",
+      "reading": null,
+      "indonesian": "Music is a common speech for humanity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "音楽は人類の共通語である。",
+      "reading": null,
+      "indonesian": "Music is a common speech for humanity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語は今や世界のいくつかの国の共通語になっています。",
+      "reading": null,
+      "indonesian": "English has now become the common language of several nations in the world.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "英語は世界共通語で、世界中で使われています。",
+      "reading": null,
+      "indonesian": "English is a universal language and is used all over the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語は世界共通語のようなものだ。",
+      "reading": null,
+      "indonesian": "English is a kind of universal language.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ペルーの共通語は何ですか。",
+      "reading": null,
+      "indonesian": "What is the common language in Peru?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "でもね、わたしたち全然共通点がないんですもの。",
+      "reading": null,
+      "indonesian": "But we don't have anything in common at all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その２つの言語には共通点が多い。",
+      "reading": null,
+      "indonesian": "The two languages have a lot in common.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

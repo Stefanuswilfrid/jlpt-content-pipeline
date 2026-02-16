@@ -1,0 +1,112 @@
+{
+  "definition": {
+    "word": "覗く",
+    "reading": "のぞく",
+    "romaji": "nozoku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengintip ke dalam",
+          "melihat ke dalam"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to look down into (a ravine, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to peek into (a shop, bookstore, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sneak a look at",
+          "to take a quick look at"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to peep (through a telescope, microscope, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stick out (a scarf from a collar, etc.)",
+          "to peek through (sky through a forest canopy, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to examine (an expression)",
+          "to study (a face)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "管の穴から天を覗く",
+      "reading": "くだのあなからてんをのぞく",
+      "meaning": "to have a narrow view of things",
+      "type": "idiom"
+    },
+    {
+      "word": "葦の髄から天井を覗く",
+      "reading": "よしのずいからてんじょうをのぞく",
+      "meaning": "to have a narrow view of things",
+      "type": "idiom"
+    },
+    {
+      "word": "鍵の穴から天を覗く",
+      "reading": "かぎのあなからてんをのぞく",
+      "meaning": "to have a narrow view of things",
+      "type": "idiom"
+    },
+    {
+      "word": "針の穴から天覗く",
+      "reading": "はりのあなからてんのぞく",
+      "meaning": "to have a narrow view of things",
+      "type": "idiom"
+    },
+    {
+      "word": "針の穴から天を覗く",
+      "reading": "はりのあなからてんをのぞく",
+      "meaning": "to have a narrow view of things",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

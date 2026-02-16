@@ -1,0 +1,162 @@
+{
+  "definition": {
+    "word": "見当",
+    "reading": "けんとう",
+    "romaji": "kentou",
+    "jlpt": "N3",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "estimate",
+          "guess",
+          "conjecture",
+          "aim"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "direction",
+          "bearings"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "registration mark (printing)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "approximately",
+          "about",
+          "around"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "opinion"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "being in charge (of an area of responsibility)"
+    },
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "corresponding to (in meaning, function, etc.)"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "discovery"
+    },
+    {
+      "word": "見事",
+      "reading": "みごと",
+      "meaning": "splendid"
+    },
+    {
+      "word": "当たり前",
+      "reading": "あたりまえ",
+      "meaning": "natural"
+    },
+    {
+      "word": "弁当",
+      "reading": "べんとう",
+      "meaning": "bento"
+    },
+    {
+      "word": "見送り",
+      "reading": "みおくり",
+      "meaning": "seeing (someone) off"
+    },
+    {
+      "word": "見舞い",
+      "reading": "みまい",
+      "meaning": "visit (to someone affected by illness or misfortune)"
+    },
+    {
+      "word": "現在",
+      "reading": "げんざい",
+      "meaning": "the present"
+    },
+    {
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "sightseeing"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "てんで見当がつきません。",
+      "reading": null,
+      "english": "I don't have the slightest idea.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうすればいいのか、全く見当もつかない。",
+      "reading": null,
+      "english": "I don't have the slightest idea what to do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何があったかの見当はつくよ。",
+      "reading": null,
+      "english": "I have some idea of what happened.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なんだか見当がつきません。",
+      "reading": null,
+      "english": "I've no idea what's happening.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何が起きてるのか、見当もつかないよ。",
+      "reading": null,
+      "english": "I've no idea what's happening.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それはいくらするか見当がつかない。",
+      "reading": null,
+      "english": "I have no idea how much it costs.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "照明",
+    "reading": "しょうめい",
+    "romaji": "shoumei",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "illumination",
+          "lighting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "civilization"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "proof"
+    },
+    {
+      "word": "声明",
+      "reading": "せいめい",
+      "meaning": "declaration"
+    },
+    {
+      "word": "空き",
+      "reading": "あき",
+      "meaning": "space"
+    },
+    {
+      "word": "夜明け",
+      "reading": "よあけ",
+      "meaning": "dawn"
+    },
+    {
+      "word": "対照",
+      "reading": "たいしょう",
+      "meaning": "contrast"
+    },
+    {
+      "word": "明かり",
+      "reading": "あかり",
+      "meaning": "light"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "透明",
+      "reading": "とうめい",
+      "meaning": "transparent"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "tomorrow"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "すべての照明が消えた。",
+      "reading": null,
+      "english": "All the lights went out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人のいない部屋の照明をこまめに消す。",
+      "reading": null,
+      "english": "Take care to turn off lights in rooms when nobody's in them.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人のいない部屋の照明をこまめに消す。",
+      "reading": null,
+      "english": "Take care to turn off lights in rooms when nobody's in them.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

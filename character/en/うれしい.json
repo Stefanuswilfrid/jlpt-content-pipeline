@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "嬉しい",
+    "reading": "うれしい",
+    "romaji": "ureshii",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "happy",
+          "glad",
+          "pleased",
+          "delighted",
+          "overjoyed"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "joyful",
+          "delightful",
+          "gratifying",
+          "pleasant"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お目にかかれてとてもうれしいです。",
+      "reading": null,
+      "english": "I'm very glad to see you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お会いできてとてもうれしいです。",
+      "reading": null,
+      "english": "I'm very glad to see you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

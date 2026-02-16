@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "鳴る",
+    "reading": "なる",
+    "romaji": "naru",
+    "jlpt": "N4",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berbunyi",
+          "berdering (v.i.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "鳴く",
+      "reading": "なく",
+      "meaning": "mengeluarkan suara (hewan)"
+    },
+    {
+      "word": "鳴らす",
+      "reading": "ならす",
+      "meaning": "berdering, berbunyi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "腕が鳴る",
+      "reading": "うでがなる",
+      "meaning": "to be itching to put one's skills to use",
+      "type": "idiom"
+    },
+    {
+      "word": "腹の虫が鳴る",
+      "reading": "はらのむしがなる",
+      "meaning": "one's stomach rumbles",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "学校のベルが鳴るのが聞こえた。",
+      "reading": null,
+      "indonesian": "I heard the school bell ring.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ラジオを聞いている時、電話の鳴るのが聞こえた。",
+      "reading": null,
+      "indonesian": "Listening to the radio, I heard the telephone ring.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ベルは正午に鳴る。",
+      "reading": null,
+      "indonesian": "The bell rings at noon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ベルが鳴るとすぐに先生が入ってきた。",
+      "reading": null,
+      "indonesian": "No sooner had the bell rung than the teacher came into the classroom.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょうどその時電話が鳴るのを聞いた。",
+      "reading": null,
+      "indonesian": "Just then, I heard the telephone ring.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょうどその時、電話の鳴る音が聞こえた。",
+      "reading": null,
+      "indonesian": "Just then, I heard the telephone ring.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "底",
+    "reading": "そこ",
+    "romaji": "soko",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bottom",
+          "sole"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "徹底",
+      "reading": "てってい",
+      "meaning": "thoroughness"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "周知徹底",
+      "reading": "しゅうちてってい",
+      "meaning": "making (something) known to everyone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "奈落の底",
+      "reading": "ならくのそこ",
+      "meaning": "depths of Hell",
+      "type": "idiom"
+    },
+    {
+      "word": "海底撈月",
+      "reading": "かいていろうげつ",
+      "meaning": "totally useless (fruitless) effort",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "大悟徹底",
+      "reading": "たいごてってい",
+      "meaning": "attain divine enlightenment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "ビン底メガネ",
+      "reading": "ビンぞこメガネ",
+      "meaning": "thick glasses",
+      "type": "idiom"
+    },
+    {
+      "word": "凡事徹底",
+      "reading": "ぼんじてってい",
+      "meaning": "doing mundane things properly and thoroughly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "方底円蓋",
+      "reading": "ほうていえんがい",
+      "meaning": "being a (total) mismatch",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海底油田の開発をしたい。",
+      "reading": null,
+      "english": "We want to explore an underwater oil field.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海底ケーブルが両国の間に引かれた。",
+      "reading": null,
+      "english": "A submarine cable was laid between the two countries.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海の植物は海底に付着して育つ。",
+      "reading": null,
+      "english": "Marine plants grow on the sea bed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ビンの底には水が少し残っていた。",
+      "reading": null,
+      "english": "There was a little water left in the bottom of the bottle.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

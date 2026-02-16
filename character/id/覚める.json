@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "覚める",
+    "reading": "さめる",
+    "romaji": "sameru",
+    "jlpt": "N3",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk bangun",
+          "bangun"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become sober",
+          "to sober up",
+          "to regain consciousness (e.g. after anaesthesia)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come to one's senses",
+          "to be disillusioned"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "覚える",
+      "reading": "おぼえる",
+      "meaning": "belajar, menghafal, mengingat, menghafal"
+    },
+    {
+      "word": "覚ます",
+      "reading": "さます",
+      "meaning": "untuk membangunkan"
+    },
+    {
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "indra, sensasi"
+    },
+    {
+      "word": "覚悟",
+      "reading": "かくご",
+      "meaning": "resolusi, pengunduran diri, kesiapan"
+    },
+    {
+      "word": "視覚",
+      "reading": "しかく",
+      "meaning": "indra penglihatan, visi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ジムは目覚めると、自分が部屋に１人なのに気がついた。",
+      "reading": null,
+      "indonesian": "Jim awoke and found himself alone in the room.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今朝目が覚めると、雨が雪に変わっていた。",
+      "reading": null,
+      "indonesian": "When I woke up this morning, the rain had turned into snow.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "目が覚めると有名になっていた。",
+      "reading": null,
+      "indonesian": "I awoke to find myself famous.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

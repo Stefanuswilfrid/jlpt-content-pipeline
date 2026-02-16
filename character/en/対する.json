@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "対する",
+    "reading": "たいする",
+    "romaji": "taisuru",
+    "jlpt": "N3",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "to face (each other)",
+          "to be facing"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "to be directed toward (the future, etc.)",
+          "to be in response to",
+          "to be related to"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "to receive (a client, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "to compare with",
+          "to contrast with",
+          "to be in opposition with",
+          "to be opposed to"
+        ]
+      },
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "to confront",
+          "to oppose",
+          "to compete with"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaning": "target"
+    },
+    {
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "absolutely"
+    },
+    {
+      "word": "対",
+      "reading": "たい",
+      "meaning": "versus"
+    },
+    {
+      "word": "対",
+      "reading": "つい",
+      "meaning": "pair"
+    },
+    {
+      "word": "対照",
+      "reading": "たいしょう",
+      "meaning": "contrast"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の色に対する好みは感心しない。",
+      "reading": null,
+      "english": "I don't like your taste in color.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生に黒人に対するイメージを聞いた。",
+      "reading": null,
+      "english": "I asked the student what image he had of black people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会話にとって機知は食物に対する塩のようなものである。",
+      "reading": null,
+      "english": "Wit is to conversation what salt is to food.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

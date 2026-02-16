@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "早速",
+    "reading": "さっそく",
+    "romaji": "sassoku",
+    "jlpt": "N2",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "segera",
+          "langsung",
+          "dengan cepat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "速達",
+      "reading": "そくたつ",
+      "meaning": "pengiriman ekspres, pengiriman khusus"
+    },
+    {
+      "word": "時速",
+      "reading": "じそく",
+      "meaning": "kecepatan (per jam)"
+    },
+    {
+      "word": "加速",
+      "reading": "かそく",
+      "meaning": "percepatan"
+    },
+    {
+      "word": "早口",
+      "reading": "はやくち",
+      "meaning": "berbicara cepat"
+    },
+    {
+      "word": "加速度",
+      "reading": "かそくど",
+      "meaning": "percepatan"
+    },
+    {
+      "word": "速力",
+      "reading": "そくりょく",
+      "meaning": "kecepatan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "早速には返事をしかねます。",
+      "reading": null,
+      "indonesian": "I can not give you an immediate answer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "伝記",
+    "reading": "でんき",
+    "romaji": "denki",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "biografi",
+          "kisah hidup"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "お手伝いさん",
+      "reading": "おてつだいさん",
+      "meaning": "pembantu"
+    },
+    {
+      "word": "記号",
+      "reading": "きごう",
+      "meaning": "simbol, kode"
+    },
+    {
+      "word": "筆記",
+      "reading": "ひっき",
+      "meaning": "mencatat, menulis"
+    },
+    {
+      "word": "伝染",
+      "reading": "でんせん",
+      "meaning": "penularan"
+    },
+    {
+      "word": "手伝い",
+      "reading": "てつだい",
+      "meaning": "bantuan, penolong, asisten"
+    },
+    {
+      "word": "伝達",
+      "reading": "でんたつ",
+      "meaning": "transmisi (misalnya, berita, komunikasi, pengiriman)"
+    },
+    {
+      "word": "記入",
+      "reading": "きにゅう",
+      "meaning": "entri, pengisian formulir"
+    },
+    {
+      "word": "伝言",
+      "reading": "でんごん",
+      "meaning": "pesan verbal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "良い伝記はおもしろくて、ためにもなる。",
+      "reading": null,
+      "indonesian": "A good biography is interesting and instructive.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "リンカンの伝記は世界中の子供に読まれている。",
+      "reading": null,
+      "indonesian": "Lincoln's biography is read by children all around the world.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "良い伝記はおもしろくて、ためにもなる。",
+      "reading": null,
+      "indonesian": "A good biography is interesting and instructive.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

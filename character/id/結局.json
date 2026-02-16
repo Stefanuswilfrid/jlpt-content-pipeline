@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "結局",
+    "reading": "けっきょく",
+    "romaji": "kekkyoku",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "pada akhirnya"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "conclusion",
+          "end"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "end of a game of go, shogi, etc."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "結果",
+      "reading": "けっか",
+      "meaning": "hasil, konsekuensi"
+    },
+    {
+      "word": "結論",
+      "reading": "けつろん",
+      "meaning": "kesimpulan"
+    },
+    {
+      "word": "局",
+      "reading": "きょく",
+      "meaning": "kantor, biro, stasiun (TV, radio)"
+    },
+    {
+      "word": "結婚",
+      "reading": "けっこん",
+      "meaning": "pernikahan (menikah)"
+    },
+    {
+      "word": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "kantor Pos"
+    },
+    {
+      "word": "結構",
+      "reading": "けっこう",
+      "meaning": "luar biasa; cukup, lumayan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の言っている事は結局ノーという事ですね。",
+      "reading": null,
+      "indonesian": "What you are saying is equal to \"no\", isn't it?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一番よいものを買うのが結局は安くつく。",
+      "reading": null,
+      "indonesian": "It's always cheaper in the end to buy the best.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "行こうかと考えたんだけど、結局行かないことにしたよ。",
+      "reading": null,
+      "indonesian": "We considered going, but finally decided against it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ゆっくりと着実なのが結局勝つ。",
+      "reading": null,
+      "indonesian": "Slow and steady wins the race.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのうわさは結局嘘だった。",
+      "reading": null,
+      "indonesian": "The rumor turned out to be false.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ビルは結局医大に行くそうだ。",
+      "reading": null,
+      "indonesian": "It looks like Bill will go to medical school after all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ピーターは結局来なかった。",
+      "reading": null,
+      "indonesian": "Peter didn't come after all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

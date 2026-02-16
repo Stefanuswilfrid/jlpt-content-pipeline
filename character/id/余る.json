@@ -1,0 +1,118 @@
+{
+  "definition": {
+    "word": "余る",
+    "reading": "あまる",
+    "romaji": "amaru",
+    "jlpt": "N2",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "tersisa",
+          "berlebih"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "余所",
+      "reading": "よそ",
+      "meaning": "tempat lain, di suatu tempat lain, bagian-bagian yang aneh"
+    },
+    {
+      "word": "余計",
+      "reading": "よけい",
+      "meaning": "terlalu banyak, tidak perlu, berlimpah, surplus, kelebihan, berlebihan"
+    },
+    {
+      "word": "余程",
+      "reading": "よほど",
+      "meaning": "sangat, banyak, sampai batas tertentu, cukup"
+    },
+    {
+      "word": "余り",
+      "reading": "あまり",
+      "meaning": "tidak terlalu; surplus"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もし手に余るようなことがあれば、私に助けを求めなさい。",
+      "reading": null,
+      "indonesian": "If you have any difficulty, ask me for help.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは身に余る光栄でございます。",
+      "reading": null,
+      "indonesian": "The honor is more than I deserve.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは私の力に余る仕事です。",
+      "reading": null,
+      "indonesian": "It is a task beyond my power.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは私の手に余る。",
+      "reading": null,
+      "indonesian": "It's beyond me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この仕事は私の力に余る。",
+      "reading": null,
+      "indonesian": "This work is beyond me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この仕事は私の手に余る。",
+      "reading": null,
+      "indonesian": "This job is too much for me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "弟の乱暴はこのごろ目に余る。",
+      "reading": null,
+      "indonesian": "My brother has been much too rowdy lately.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "身に余る栄光。",
+      "reading": null,
+      "indonesian": "The honor you are giving me is more than I deserve.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "昨年は有り余る程の米が生産された。",
+      "reading": null,
+      "indonesian": "An abundance of rice was produced last year.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

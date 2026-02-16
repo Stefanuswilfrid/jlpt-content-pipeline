@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "直す",
+    "reading": "なおす",
+    "romaji": "naosu",
+    "jlpt": "N4",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to repair",
+          "to mend",
+          "to fix",
+          "to correct (a mistake, bad habit, etc.)",
+          "to put right",
+          "to restore",
+          "to straighten (e.g. a tie)",
+          "to tidy up (one's hair, make-up, etc.)",
+          "to revive (one's spirits)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to change",
+          "to alter",
+          "to convert",
+          "to translate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put back",
+          "to put away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cure",
+          "to heal"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to move up",
+          "to promote"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたはこの文を書き直すべきです。",
+      "reading": null,
+      "english": "You should rewrite this sentence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "かけ直すよ。",
+      "reading": null,
+      "english": "I'll ring you back.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "直すのに、どのくらい時間がかかりますか。",
+      "reading": null,
+      "english": "How long does it take to alter it?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

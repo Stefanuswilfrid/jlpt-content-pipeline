@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "効く",
+    "reading": "きく",
+    "romaji": "kiku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be effective",
+          "to take effect",
+          "to be good (for)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to work",
+          "to function well"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be possible (to do, use, etc.)",
+          "to be able to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to taste (alcohol)",
+          "to try"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "効果",
+      "reading": "こうか",
+      "meaning": "effect"
+    },
+    {
+      "word": "有効",
+      "reading": "ゆうこう",
+      "meaning": "valid"
+    },
+    {
+      "word": "効力",
+      "reading": "こうりょく",
+      "meaning": "effect"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

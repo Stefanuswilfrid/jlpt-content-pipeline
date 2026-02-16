@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "最近",
+    "reading": "さいきん",
+    "romaji": "saikin",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "baru-baru ini",
+          "saat ini",
+          "dalam beberapa tahun terakhir",
+          "paling baru",
+          "terkini"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "nearest",
+          "closest"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "最も",
+      "reading": "もっとも",
+      "meaning": "paling"
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "terakhir, akhir"
+    },
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaning": "permulaan, pertama"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "lingkungan"
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "tertinggi, terunggul, paling"
+    },
+    {
+      "word": "最終",
+      "reading": "さいしゅう",
+      "meaning": "terakhir, penutup"
+    },
+    {
+      "word": "最低",
+      "reading": "さいてい",
+      "meaning": "paling sedikit, terendah, terburuk"
+    },
+    {
+      "word": "近代",
+      "reading": "きんだい",
+      "meaning": "zaman modern"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

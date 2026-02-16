@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "妙",
+    "reading": "みょう",
+    "romaji": "myou",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "aneh",
+          "tidak biasa"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "wonder",
+          "mystery",
+          "miracle",
+          "excellence"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "cleverness",
+          "adroitness",
+          "knack",
+          "skill"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "微妙",
+      "reading": "びみょう",
+      "meaning": "halus, lembut"
+    },
+    {
+      "word": "奇妙",
+      "reading": "きみょう",
+      "meaning": "aneh, ganjil, penasaran"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "当意即妙",
+      "reading": "とういそくみょう",
+      "meaning": "ready wit",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "軽妙洒脱",
+      "reading": "けいみょうしゃだつ",
+      "meaning": "witty",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "神機妙算",
+      "reading": "しんきみょうさん",
+      "meaning": "inscrutable stratagem",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

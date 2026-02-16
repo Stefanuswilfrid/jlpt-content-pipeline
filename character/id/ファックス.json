@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "ＦＡＸ",
+    "reading": "ファックス",
+    "romaji": "fuakkusu",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "fax"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fax machine"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この電話はファックスにつながっている。",
+      "reading": null,
+      "indonesian": "This telephone is connected to the fax machine.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この手紙を日本までファックスしてください。",
+      "reading": null,
+      "indonesian": "I'd like to fax this to Japan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この電話はファックスにつながっている。",
+      "reading": null,
+      "indonesian": "This telephone is connected to the fax machine.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この手紙を日本までファックスしてください。",
+      "reading": null,
+      "indonesian": "I'd like to fax this to Japan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

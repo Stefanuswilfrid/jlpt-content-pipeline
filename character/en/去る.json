@@ -1,0 +1,161 @@
+{
+  "definition": {
+    "word": "去る",
+    "reading": "さる",
+    "romaji": "saru",
+    "jlpt": "N3",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to leave",
+          "to go away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to pass",
+          "to elapse"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be distant"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to send away",
+          "to drive off",
+          "to divorce"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Godan verb with 'ru' ending"
+        ],
+        "meanings": [
+          "to (do) completely"
+        ]
+      },
+      {
+        "pos": [
+          "pre-noun adjectival (rentaishi)"
+        ],
+        "meanings": [
+          "last ... (e.g. \"last April\")"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "過去",
+      "reading": "かこ",
+      "meaning": "the past"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "去る者追わず",
+      "reading": "さるものおわず",
+      "meaning": "do not chase the one who leaves",
+      "type": "proverb"
+    },
+    {
+      "word": "世を去る",
+      "reading": "よをさる",
+      "meaning": "to die",
+      "type": "idiom"
+    },
+    {
+      "word": "去る者は日々に疎し",
+      "reading": "さるものはひびにうとし",
+      "meaning": "with time we forget those who have died",
+      "type": "proverb"
+    },
+    {
+      "word": "去る者は追わず",
+      "reading": "さるものはおわず",
+      "meaning": "do not pursue those who leave you",
+      "type": "proverb"
+    },
+    {
+      "word": "去る者日々に疎し",
+      "reading": "さるものひびにうとし",
+      "meaning": "with time we forget those who have died",
+      "type": "proverb"
+    },
+    {
+      "word": "これもまた過ぎ去る",
+      "reading": "これもまたすぎさる",
+      "meaning": "this too shall pass",
+      "type": "proverb"
+    },
+    {
+      "word": "去る者は追わず、来たる者は拒まず",
+      "reading": "さるものはおわず、きたるものはこばまず",
+      "meaning": "do not pursue those who leave you and do not turn away those who come to you",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はそれを見ることはできるが、持ち去ることはできない。",
+      "reading": null,
+      "english": "You can see it, but you cannot take it away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏は来たがやがて去る。",
+      "reading": null,
+      "english": "As the summer has come, so it will go.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ツバメは冬が近づくと飛び去る。",
+      "reading": null,
+      "english": "Swallows fly away at the approach of winter.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは自由に去ることもとどまることもできる。",
+      "reading": null,
+      "english": "You are free to go or stay.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたがここを去るとは残念だ。",
+      "reading": null,
+      "english": "I'm sorry you're leaving us.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

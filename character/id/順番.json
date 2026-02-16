@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "順番",
+    "reading": "じゅんばん",
+    "romaji": "junban",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "giliran (dalam antrean)",
+          "urutan hal-hal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "順",
+      "reading": "じゅん",
+      "meaning": "pesan, putar"
+    },
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "baik-baik saja"
+    },
+    {
+      "word": "留守番",
+      "reading": "るすばん",
+      "meaning": "pengasuhan, penjaga rumah, menjaga rumah"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "terbaik (terbanyak), pertama, nomor satu"
+    },
+    {
+      "word": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "program siaran"
+    },
+    {
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "angka, rangkaian digit"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "やっと順番がきた。",
+      "reading": null,
+      "indonesian": "At last, my turn came.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ケンの順番が来た。",
+      "reading": null,
+      "indonesian": "Ken's turn came.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "早朝の受付でクジを引いて順番を決めた。",
+      "reading": null,
+      "indonesian": "We drew lots to decide who would go first at the early morning reception desk.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

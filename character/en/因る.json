@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "依る",
+    "reading": "よる",
+    "romaji": "yoru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be due to",
+          "to be caused by"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to depend on",
+          "to turn on"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be based on",
+          "to come from"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be based at (a location, an organization)",
+          "to be headquartered at"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "依頼",
+      "reading": "いらい",
+      "meaning": "request"
+    },
+    {
+      "word": "依然",
+      "reading": "いぜん",
+      "meaning": "still"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

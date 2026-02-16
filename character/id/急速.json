@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "急速",
+    "reading": "きゅうそく",
+    "romaji": "kyuusoku",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cepat (misalnya",
+          "kemajuan)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "急激",
+      "reading": "きゅうげき",
+      "meaning": "tiba-tiba, drastis, radikal"
+    },
+    {
+      "word": "高速",
+      "reading": "こうそく",
+      "meaning": "kecepatan tinggi, gigi tinggi"
+    },
+    {
+      "word": "速度",
+      "reading": "そくど",
+      "meaning": "kecepatan, kelajuan, laju"
+    },
+    {
+      "word": "至急",
+      "reading": "しきゅう",
+      "meaning": "mendesak, penting"
+    },
+    {
+      "word": "急",
+      "reading": "きゅう",
+      "meaning": "mendesak, tiba-tiba; curam"
+    },
+    {
+      "word": "時速",
+      "reading": "じそく",
+      "meaning": "kecepatan (per jam)"
+    },
+    {
+      "word": "加速",
+      "reading": "かそく",
+      "meaning": "percepatan"
+    },
+    {
+      "word": "特急",
+      "reading": "とっきゅう",
+      "meaning": "kereta ekspres terbatas (kereta yang lebih cepat dari kereta ekspres)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その国は急速に工業化された。",
+      "reading": null,
+      "indonesian": "The country was industrialized very quickly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その運動は急速に進みつつある。",
+      "reading": null,
+      "indonesian": "The movement is rapidly gaining ground.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

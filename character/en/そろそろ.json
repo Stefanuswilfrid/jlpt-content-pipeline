@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "そろそろ",
+    "reading": "そろそろ",
+    "romaji": "sorosoro",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "soon",
+          "before long",
+          "any time now",
+          "momentarily"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "slowly",
+          "quietly",
+          "steadily",
+          "gradually",
+          "gingerly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "already",
+          "about time"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そろそろおいとましなければなりません。",
+      "reading": null,
+      "english": "I have to leave now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そろそろおいとましなければなりません。",
+      "reading": null,
+      "english": "I have got to go now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そろそろおいとましなければなりません。",
+      "reading": null,
+      "english": "I must leave now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

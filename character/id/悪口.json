@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "悪口",
+    "reading": "わるぐち",
+    "romaji": "waruguchi",
+    "jlpt": "N3",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pelecehan",
+          "penghinaan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "悪魔",
+      "reading": "あくま",
+      "meaning": "setan, iblis, roh jahat"
+    },
+    {
+      "word": "悪",
+      "reading": "あく",
+      "meaning": "kejahatan, keburukan"
+    },
+    {
+      "word": "意地悪",
+      "reading": "いじわる",
+      "meaning": "jahat, kejam, tidak baik hati"
+    },
+    {
+      "word": "利口",
+      "reading": "りこう",
+      "meaning": "cerdas, lihai, pintar"
+    },
+    {
+      "word": "火口",
+      "reading": "ひぐち",
+      "meaning": "kawah (gunung berapi)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "悪口雑言",
+      "reading": "あっこうぞうごん",
+      "meaning": "all kinds of malicious gossip",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はよく人の悪口を言う。",
+      "reading": null,
+      "indonesian": "You are too ready to speak ill of others.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "悪口を言うのはやめなさい。いいことはありませんよ。",
+      "reading": null,
+      "indonesian": "Stop calling me names. That'll do you no good.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "悪口で言うんじゃないけど君の服はちょっとけばけばしいよ。",
+      "reading": null,
+      "indonesian": "Far be it from me to criticize, but your dress is rather loud.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ドナルドは他人の悪口を言う人は好きでない。",
+      "reading": null,
+      "indonesian": "Donald doesn't like people who speak ill of others.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その人のいないところで悪口を言ってはいけない。",
+      "reading": null,
+      "indonesian": "You ought not to speak ill of others behind their backs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジムのいないところで悪口を言ってはいけない。",
+      "reading": null,
+      "indonesian": "Don't speak ill of Jim in his absence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

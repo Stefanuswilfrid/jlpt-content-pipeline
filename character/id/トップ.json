@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "トップ",
+    "reading": "トップ",
+    "romaji": "toppu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "atas"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "top position"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "senior management",
+          "senior bureaucrat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "home page (of a website)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "トップに立つ",
+      "reading": "トップにたつ",
+      "meaning": "to lead",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "トムは他の連中よりはるかにすぐれてトップだ。",
+      "reading": null,
+      "indonesian": "Tom is head and shoulders above others.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トップ２社は実はぐるになっているのです。",
+      "reading": null,
+      "indonesian": "The two leading firms are actually in cahoots with each other.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "デスクトップがグチャグチャになってきた。",
+      "reading": null,
+      "indonesian": "My desktop has gotten cluttered.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "早川くん、中間テストの結果でてたわよ。またトップ！",
+      "reading": null,
+      "indonesian": "Hayakawa, the midterm results are out. You're top again!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

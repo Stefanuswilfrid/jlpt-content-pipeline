@@ -1,0 +1,134 @@
+{
+  "definition": {
+    "word": "品",
+    "reading": "しな",
+    "romaji": "shina",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "article",
+          "item",
+          "thing",
+          "goods",
+          "stock"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "quality"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flirtatiousness",
+          "coquetry"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "work (e.g. book, film, painting, composition)"
+    },
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaning": "commodity"
+    },
+    {
+      "word": "製品",
+      "reading": "せいひん",
+      "meaning": "manufactured goods"
+    },
+    {
+      "word": "食品",
+      "reading": "しょくひん",
+      "meaning": "food"
+    },
+    {
+      "word": "賞品",
+      "reading": "しょうひん",
+      "meaning": "prize"
+    },
+    {
+      "word": "手品",
+      "reading": "てじな",
+      "meaning": "magic (illusion)"
+    },
+    {
+      "word": "食料品",
+      "reading": "しょくりょうひん",
+      "meaning": "foodstuff"
+    },
+    {
+      "word": "薬品",
+      "reading": "やくひん",
+      "meaning": "medicine"
+    },
+    {
+      "word": "必需品",
+      "reading": "ひつじゅひん",
+      "meaning": "necessities"
+    },
+    {
+      "word": "品物",
+      "reading": "しなもの",
+      "meaning": "article"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "天下一品",
+      "reading": "てんかいっぴん",
+      "meaning": "beyond compare",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "品行方正",
+      "reading": "ひんこうほうせい",
+      "meaning": "irreproachable conduct",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "人品骨柄",
+      "reading": "じんぴんこつがら",
+      "meaning": "personal appearance and physique",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "手を変え品を変え",
+      "reading": "てをかえしなをかえ",
+      "meaning": "by hook or by crook",
+      "type": "idiom"
+    },
+    {
+      "word": "所変われば品変わる",
+      "reading": "ところかわればしなかわる",
+      "meaning": "so many countries, so many customs",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君のお姉さんは王女のように上品な顔をしている。",
+      "reading": null,
+      "english": "Your sister looks as noble as if she were a princess.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "鋏",
+    "reading": "はさみ",
+    "romaji": "hasami",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "scissors",
+          "shears",
+          "clippers"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hole punch"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "馬鹿と鋏は使いよう",
+      "reading": "ばかとはさみはつかいよう",
+      "meaning": "everything comes in handy when used correctly",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "はさみを取って下さい。",
+      "reading": null,
+      "english": "Get me the scissors, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ドアに指をはさみました。",
+      "reading": null,
+      "english": "I caught my finger in the door.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのはさみは切れない。",
+      "reading": null,
+      "english": "The scissors are not sharp.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ジェイはその古いはさみを拾い上げた。",
+      "reading": null,
+      "english": "Jay picked up the old scissors.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この紙を切るのにはさみが必要です。",
+      "reading": null,
+      "english": "I need a pair of scissors to cut this paper.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このはさみは良く切れない。",
+      "reading": null,
+      "english": "These scissors don't cut well.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このはさみは、よく切れる。",
+      "reading": null,
+      "english": "These scissors cut well.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "豆",
+    "reading": "まめ",
+    "romaji": "mame",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses)",
+          "bean",
+          "pea"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "soya bean (Glycine max)",
+          "soybean",
+          "soy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "female genitalia (esp. the clitoris)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kidney"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "small",
+          "miniature",
+          "baby",
+          "midget",
+          "small-scale"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "child"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "狐に小豆飯",
+      "reading": "きつねにあずきめし",
+      "meaning": "trusting a cat with milk",
+      "type": "idiom"
+    },
+    {
+      "word": "豆腐に鎹",
+      "reading": "とうふにかすがい",
+      "meaning": "having no effect",
+      "type": "idiom"
+    },
+    {
+      "word": "這っても黒豆",
+      "reading": "はってもくろまめ",
+      "meaning": "insisting one is right even after one has been proven wrong",
+      "type": "idiom"
+    },
+    {
+      "word": "炒り豆に花が咲く",
+      "reading": "いりまめにはながさく",
+      "meaning": "to come alive (once again)",
+      "type": "idiom"
+    },
+    {
+      "word": "陰裏の豆もはじけ時",
+      "reading": "かげうらのまめもはじけどき",
+      "meaning": "all girls eventually awaken to sex",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "右の鼻に豆が入ってしまいました。",
+      "reading": null,
+      "english": "There's a pea in my right nostril.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "チョコレートはココアの豆から作られる。",
+      "reading": null,
+      "english": "Chocolate is made from cocoa beans.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "チョコレートはカカオ豆から作られます。",
+      "reading": null,
+      "english": "Chocolate is made from cocoa beans.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

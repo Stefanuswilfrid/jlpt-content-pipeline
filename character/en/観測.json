@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "観測",
+    "reading": "かんそく",
+    "romaji": "kansoku",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "observation",
+          "survey",
+          "measurement"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "opinion",
+          "prediction",
+          "thinking"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "測定",
+      "reading": "そくてい",
+      "meaning": "measurement"
+    },
+    {
+      "word": "測量",
+      "reading": "そくりょう",
+      "meaning": "measurement"
+    },
+    {
+      "word": "観念",
+      "reading": "かんねん",
+      "meaning": "idea"
+    },
+    {
+      "word": "観光",
+      "reading": "かんこう",
+      "meaning": "sightseeing"
+    },
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaning": "spectator"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediction"
+    },
+    {
+      "word": "観点",
+      "reading": "かんてん",
+      "meaning": "point of view"
+    },
+    {
+      "word": "観察",
+      "reading": "かんさつ",
+      "meaning": "observation"
+    },
+    {
+      "word": "悲観",
+      "reading": "ひかん",
+      "meaning": "pessimism"
+    },
+    {
+      "word": "楽観",
+      "reading": "らっかん",
+      "meaning": "optimism"
+    },
+    {
+      "word": "観衆",
+      "reading": "かんしゅう",
+      "meaning": "spectators"
+    },
+    {
+      "word": "客観",
+      "reading": "きゃっかん",
+      "meaning": "objectivity"
+    },
+    {
+      "word": "外観",
+      "reading": "がいかん",
+      "meaning": "outward appearance"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

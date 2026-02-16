@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "通る",
+    "reading": "とおる",
+    "romaji": "tooru",
+    "jlpt": "N4",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go by",
+          "to go past",
+          "to go along",
+          "to travel along",
+          "to pass through",
+          "to use (a road)",
+          "to take (a route)",
+          "to go via",
+          "to go by way of"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to run (between; of a rail service, bus route, etc.)",
+          "to operate (between)",
+          "to connect"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go indoors",
+          "to go into a room",
+          "to be admitted",
+          "to be shown in",
+          "to be ushered in",
+          "to come in"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to penetrate",
+          "to pierce",
+          "to skewer",
+          "to go through",
+          "to come through"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to permeate",
+          "to soak into",
+          "to spread throughout"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通う",
+      "reading": "かよう",
+      "meaning": "to go to and from (a place)"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "commuting to school"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "commuting to work"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    },
+    {
+      "word": "通り",
+      "reading": "とおり",
+      "meaning": "street"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "天使が通る",
+      "reading": "てんしがとおる",
+      "meaning": "to have a break in the conversation",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この道はいつも多くの車が通る。",
+      "reading": null,
+      "english": "There are always a lot of vehicles on this road.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

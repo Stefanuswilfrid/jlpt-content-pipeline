@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "半ば",
+    "reading": "なかば",
+    "romaji": "nakaba",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "tengah",
+          "setengah jalan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "half (of)",
+          "one half"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "half (e.g. done, jokingly)",
+          "partly",
+          "in part",
+          "partially"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "mostly",
+          "almost",
+          "nearly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大半",
+      "reading": "たいはん",
+      "meaning": "sebagian besar, mayoritas, kebanyakan"
+    },
+    {
+      "word": "半分",
+      "reading": "はんぶん",
+      "meaning": "setengah"
+    },
+    {
+      "word": "半",
+      "reading": "はん",
+      "meaning": "setengah (misalnya, にじはん | setengah dua)"
+    },
+    {
+      "word": "過半数",
+      "reading": "かはんすう",
+      "meaning": "mayoritas"
+    },
+    {
+      "word": "半島",
+      "reading": "はんとう",
+      "meaning": "semenanjung"
+    },
+    {
+      "word": "半径",
+      "reading": "はんけい",
+      "meaning": "radius"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "教うるは学ぶの半ば",
+      "reading": "おしうるはまなぶのなかば",
+      "meaning": "we learn by teaching",
+      "type": "proverb"
+    },
+    {
+      "word": "百里を行く者は九十を半ばとす",
+      "reading": "ひゃくりをゆくものはくじゅうをなかばとす",
+      "meaning": "don't count your chickens before they're hatched",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "始めよければ半ば成功。",
+      "reading": null,
+      "indonesian": "Well begun is half done.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "始まりがうまければ半ばうまくいったもおなじ。",
+      "reading": null,
+      "indonesian": "Well begun is half done.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "さいさき良ければ半ば成功。",
+      "reading": null,
+      "indonesian": "Well begun is half done.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "１００里を行く者は９９里を半ばとする。",
+      "reading": null,
+      "indonesian": "There's many a slip between the cup and the lip.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "東京では、１１月半ばに寒い季節が始まります。",
+      "reading": null,
+      "indonesian": "In Tokyo, the cold season starts in the middle of November.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

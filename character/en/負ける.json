@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "負ける",
+    "reading": "まける",
+    "romaji": "makeru",
+    "jlpt": "N4",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to lose",
+          "to be defeated",
+          "to be beaten"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to give in (to)",
+          "to yield",
+          "to succumb",
+          "to give way",
+          "to surrender",
+          "to be overcome (with)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be inferior (to)",
+          "to be second (to)",
+          "to be outdone (by)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get a rash (from)",
+          "to come out in a rash"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to reduce the price",
+          "to give a discount",
+          "to throw in (something extra) for free"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "負う",
+      "reading": "おう",
+      "meaning": "to carry on one's back"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "負けるが勝ち",
+      "reading": "まけるがかち",
+      "meaning": "he that fights and runs away may live to fight another day",
+      "type": "proverb"
+    },
+    {
+      "word": "勝つも負けるも時の運",
+      "reading": "かつもまけるもときのうん",
+      "meaning": "victory depends on the turn of fortune",
+      "type": "proverb"
+    },
+    {
+      "word": "相撲に勝って勝負に負ける",
+      "reading": "すもうにかってしょうぶにまける",
+      "meaning": "to ultimately fail despite being in a favourable position",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

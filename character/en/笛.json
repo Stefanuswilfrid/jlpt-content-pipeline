@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "笛",
+    "reading": "ふえ",
+    "romaji": "fue",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flute",
+          "fife",
+          "pipe",
+          "recorder",
+          "flageolet",
+          "shakuhachi",
+          "clarinet"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "whistle"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "秋の鹿は笛に寄る",
+      "reading": "あきのしかはふえによる",
+      "meaning": "people may bring about their demise for love",
+      "type": "proverb"
+    },
+    {
+      "word": "笛吹けども踊らず",
+      "reading": "ふえふけどもおどらず",
+      "meaning": "we have piped unto you and ye have not danced",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "汽車の汽笛で夜明けに目を覚まされた。",
+      "reading": null,
+      "english": "We were roused at daybreak by the whistle of a train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "笛が鳴るとレースが始まります。",
+      "reading": null,
+      "english": "When the whistle blows, the race will start.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "definition": {
+    "word": "共通",
+    "reading": "きょうつう",
+    "romaji": "kyoutsuu",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "common",
+          "shared",
+          "mutual"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be common (to)",
+          "to be shared (by)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "-wide"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "共同",
+      "reading": "きょうどう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "currency"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "commuting to work"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretation (i.e. oral translation)"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "commuting to school"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "suspension"
+    },
+    {
+      "word": "通り過ぎる",
+      "reading": "とおりすぎる",
+      "meaning": "to go past"
+    },
+    {
+      "word": "通じる",
+      "reading": "つうじる",
+      "meaning": "to be open (to traffic)"
+    },
+    {
+      "word": "公共",
+      "reading": "こうきょう",
+      "meaning": "public (facilities, service, etc.)"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "traffic"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "normal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君とぼくは仲がよいが、共通するものはほとんどない。",
+      "reading": null,
+      "english": "You and I are good friends, but we have little in common.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "音楽は人類共通の言葉である。",
+      "reading": null,
+      "english": "Music is a common speech for humanity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "音楽は人類の共通語である。",
+      "reading": null,
+      "english": "Music is a common speech for humanity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語は今や世界のいくつかの国の共通語になっています。",
+      "reading": null,
+      "english": "English has now become the common language of several nations in the world.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "英語は世界共通語で、世界中で使われています。",
+      "reading": null,
+      "english": "English is a universal language and is used all over the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語は世界共通語のようなものだ。",
+      "reading": null,
+      "english": "English is a kind of universal language.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ペルーの共通語は何ですか。",
+      "reading": null,
+      "english": "What is the common language in Peru?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "でもね、わたしたち全然共通点がないんですもの。",
+      "reading": null,
+      "english": "But we don't have anything in common at all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その２つの言語には共通点が多い。",
+      "reading": null,
+      "english": "The two languages have a lot in common.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

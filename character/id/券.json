@@ -1,0 +1,35 @@
+{
+  "definition": {
+    "word": "券",
+    "reading": "けん",
+    "romaji": "ken",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "tiket",
+          "sertifikat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "定期券",
+      "reading": "ていきけん",
+      "meaning": "kartu komuter, tiket musiman"
+    },
+    {
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "buku tiket"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

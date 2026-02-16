@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "然も",
+    "reading": "しかも",
+    "romaji": "shikamo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "moreover",
+          "furthermore"
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "nevertheless",
+          "and yet"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "天然",
+      "reading": "てんねん",
+      "meaning": "nature"
+    },
+    {
+      "word": "突然",
+      "reading": "とつぜん",
+      "meaning": "abrupt"
+    },
+    {
+      "word": "偶然",
+      "reading": "ぐうぜん",
+      "meaning": "coincidence"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaning": "nature"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "natural"
+    },
+    {
+      "word": "依然",
+      "reading": "いぜん",
+      "meaning": "still"
+    },
+    {
+      "word": "全然",
+      "reading": "ぜんぜん",
+      "meaning": "(not) at all"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は決心しなければならない。しかも今すぐにだ。",
+      "reading": null,
+      "english": "You must make up your mind, and that at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは作りやすいし、しかも安い。",
+      "reading": null,
+      "english": "It's easy to make and it's cheap.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この魚は安くてしかも栄養がある。",
+      "reading": null,
+      "english": "This fish is inexpensive but nourishing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

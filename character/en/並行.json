@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "並行",
+    "reading": "へいこう",
+    "romaji": "heikou",
+    "jlpt": "N2",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "going side-by-side",
+          "going abreast"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "running concurrently",
+          "occurring at the same time",
+          "keeping pace with"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夜行",
+      "reading": "やこう",
+      "meaning": "night travel"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "(one's) whereabouts"
+    },
+    {
+      "word": "行事",
+      "reading": "ぎょうじ",
+      "meaning": "event"
+    },
+    {
+      "word": "行列",
+      "reading": "ぎょうれつ",
+      "meaning": "line"
+    },
+    {
+      "word": "孝行",
+      "reading": "こうこう",
+      "meaning": "filial piety"
+    },
+    {
+      "word": "並木",
+      "reading": "なみき",
+      "meaning": "roadside trees"
+    },
+    {
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "delinquency"
+    },
+    {
+      "word": "急行",
+      "reading": "きゅうこう",
+      "meaning": "hurrying (to somewhere)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その道路は川と並行している。",
+      "reading": null,
+      "english": "The road is parallel to the river.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "船は岸と並行に進んだ。",
+      "reading": null,
+      "english": "The ship was abreast of the shore.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その道路は川と並行している。",
+      "reading": null,
+      "english": "The road is parallel to the river.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "船は岸と並行に進んだ。",
+      "reading": null,
+      "english": "The ship was abreast of the shore.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

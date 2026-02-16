@@ -1,0 +1,133 @@
+{
+  "definition": {
+    "word": "満足",
+    "reading": "まんぞく",
+    "romaji": "manzoku",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "kepuasan"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sufficient",
+          "satisfactory",
+          "enough",
+          "adequate",
+          "proper",
+          "decent"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "satisfying (an equation)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "ketidakpuasan, ketidakpuasan, keluhan"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "kekurangan, kelangkaan"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "Kaos kaki Jepang (dengan jari kaki terpisah)"
+    },
+    {
+      "word": "未満",
+      "reading": "みまん",
+      "meaning": "kurang dari, tidak mencukupi"
+    },
+    {
+      "word": "足元",
+      "reading": "あしもと",
+      "meaning": "di kaki seseorang"
+    },
+    {
+      "word": "満員",
+      "reading": "まんいん",
+      "meaning": "Penuh, tidak ada kamar kosong, terjual habis"
+    },
+    {
+      "word": "足跡",
+      "reading": "あしあと",
+      "meaning": "tapak"
+    },
+    {
+      "word": "休息",
+      "reading": "きゅうそく",
+      "meaning": "istirahat, lega, relaksasi"
+    },
+    {
+      "word": "満点",
+      "reading": "まんてん",
+      "meaning": "nilai sempurna"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自己満足",
+      "reading": "じこまんぞく",
+      "meaning": "self-satisfaction",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の答えなんて決して満足のいくものではない。",
+      "reading": null,
+      "indonesian": "Your answer is far from satisfactory.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の言動は決して満足のいくものではない。",
+      "reading": null,
+      "indonesian": "I am far from pleased with your behavior.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "期末試験の結果は決して満足のいくものではなかった。",
+      "reading": null,
+      "indonesian": "The results of the term examination were anything but satisfactory.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーが満足する理由は十分にあった。",
+      "reading": null,
+      "indonesian": "Mary had every reason to be satisfied.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

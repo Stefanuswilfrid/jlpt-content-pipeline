@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "最低",
+    "reading": "さいてい",
+    "romaji": "saitei",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "least",
+          "lowest",
+          "minimum"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "worst"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "awful",
+          "horrible",
+          "nasty",
+          "disgusting"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "at the very least"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "best"
+    },
+    {
+      "word": "最終",
+      "reading": "さいしゅう",
+      "meaning": "last"
+    },
+    {
+      "word": "最中",
+      "reading": "さいちゅう",
+      "meaning": "(in) the middle of"
+    },
+    {
+      "word": "最も",
+      "reading": "もっとも",
+      "meaning": "most"
+    },
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "recently"
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "end"
+    },
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaning": "beginning"
+    },
+    {
+      "word": "低下",
+      "reading": "ていか",
+      "meaning": "fall"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ラッシュアワーにでくわすのは最低だ。",
+      "reading": null,
+      "english": "It's horrible to get caught in rush hour traffic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "最低！",
+      "reading": null,
+      "english": "You're disgusting!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こんな最低の目にあったことはないわ！",
+      "reading": null,
+      "english": "This is the worst thing that has ever happened to me!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは今まで読んだ中で最低の本だ。",
+      "reading": null,
+      "english": "This is the worst book I've ever read.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あんたは男としてってゆうか人間として最低だ～！！",
+      "reading": null,
+      "english": "As a man, no a human being, you're the pits!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

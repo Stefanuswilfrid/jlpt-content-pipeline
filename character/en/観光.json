@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "観光",
+    "reading": "かんこう",
+    "romaji": "kankou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "sightseeing",
+          "tourism"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaning": "spectator"
+    },
+    {
+      "word": "光景",
+      "reading": "こうけい",
+      "meaning": "scene"
+    },
+    {
+      "word": "観察",
+      "reading": "かんさつ",
+      "meaning": "observation"
+    },
+    {
+      "word": "日光",
+      "reading": "にっこう",
+      "meaning": "sunlight"
+    },
+    {
+      "word": "光",
+      "reading": "ひかり",
+      "meaning": "light"
+    },
+    {
+      "word": "観測",
+      "reading": "かんそく",
+      "meaning": "observation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "休みの日は観光客でいっぱいです。",
+      "reading": null,
+      "english": "There are many tourists in the city on holidays.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "地元の店は観光客相手に順調な商売をしている。",
+      "reading": null,
+      "english": "Local shops do good business with tourists.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "観光客は店を次々に見て回った。",
+      "reading": null,
+      "english": "The tourists wandered around the stores.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "観光客は店をブラブラと見て回った。",
+      "reading": null,
+      "english": "The tourists wandered around the stores.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

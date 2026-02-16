@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "歯車",
+    "reading": "はぐるま",
+    "romaji": "haguruma",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gear",
+          "cogwheel"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cog (in an organization, company, etc.)",
+          "cog in the machine"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "乗車",
+      "reading": "じょうしゃ",
+      "meaning": "boarding (a train, bus, etc.)"
+    },
+    {
+      "word": "車掌",
+      "reading": "しゃしょう",
+      "meaning": "(train) conductor"
+    },
+    {
+      "word": "車輪",
+      "reading": "しゃりん",
+      "meaning": "(vehicle) wheel"
+    },
+    {
+      "word": "停車",
+      "reading": "ていしゃ",
+      "meaning": "stopping (of a train, car, etc.)"
+    },
+    {
+      "word": "機関車",
+      "reading": "きかんしゃ",
+      "meaning": "locomotive"
+    },
+    {
+      "word": "下車",
+      "reading": "げしゃ",
+      "meaning": "alighting (from a train, bus, etc.)"
+    },
+    {
+      "word": "車庫",
+      "reading": "しゃこ",
+      "meaning": "garage"
+    },
+    {
+      "word": "歯磨き",
+      "reading": "はみがき",
+      "meaning": "dental brushing"
+    },
+    {
+      "word": "虫歯",
+      "reading": "むしば",
+      "meaning": "tooth decay"
+    },
+    {
+      "word": "汽車",
+      "reading": "きしゃ",
+      "meaning": "train (esp. a long-distance train)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "歯車が狂う",
+      "reading": "はぐるまがくるう",
+      "meaning": "to go wrong",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ここの小さな歯車がないんだ。",
+      "reading": null,
+      "english": "A small gear is missing here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "歯車がかみ合っている。",
+      "reading": null,
+      "english": "The cog-wheels are in gear.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "最後まで議論の歯車が噛み合わなかった。",
+      "reading": null,
+      "english": "We were arguing on different planes to the last.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ここの小さな歯車がないんだ。",
+      "reading": null,
+      "english": "A small gear is missing here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "最後まで議論の歯車が噛み合わなかった。",
+      "reading": null,
+      "english": "We were arguing on different planes to the last.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "歯車がかみ合っている。",
+      "reading": null,
+      "english": "The cog-wheels are in gear.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

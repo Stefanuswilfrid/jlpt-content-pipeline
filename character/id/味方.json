@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "味方",
+    "reading": "みかた",
+    "romaji": "mikata",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "sekutu",
+          "pendukung"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "taking sides (with)",
+          "supporting",
+          "standing by",
+          "backing up"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方々",
+      "reading": "かたがた",
+      "meaning": "di sana sini, di mana-mana"
+    },
+    {
+      "word": "気味",
+      "reading": "きみ",
+      "meaning": "-seperti, -tampak, -terlihat"
+    },
+    {
+      "word": "地味",
+      "reading": "じみ",
+      "meaning": "tenang, sederhana, konservatif"
+    },
+    {
+      "word": "方々",
+      "reading": "ほうぼう",
+      "meaning": "di sana sini, di mana-mana"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "di sisi lain; sementara itu"
+    },
+    {
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "arah, jalur, jalan"
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "metode, cara, teknik"
+    },
+    {
+      "word": "中身",
+      "reading": "なかみ",
+      "meaning": "isi; substansi"
+    },
+    {
+      "word": "加味",
+      "reading": "かみ",
+      "meaning": "bumbu, penyedap rasa"
+    },
+    {
+      "word": "興味",
+      "reading": "きょうみ",
+      "meaning": "minat (pada sesuatu)"
+    },
+    {
+      "word": "仕方",
+      "reading": "しかた",
+      "meaning": "cara (melakukan sesuatu)"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "hobi; kegiatan waktu luang"
+    },
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "arah; area"
+    },
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "sore menjelang malam (biasanya tepat sebelum waktu makan malam), malam hari"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaning": "kedua belah pihak, kedua partai"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "敵を欺くにはまず味方から",
+      "reading": "てきをあざむくにはまずみかたから",
+      "meaning": "in fooling the enemy first deceive your allies",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "どんなことがあっても君の味方をする。",
+      "reading": null,
+      "indonesian": "No matter what happens, I'll stand by you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

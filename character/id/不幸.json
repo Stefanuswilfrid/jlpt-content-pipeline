@@ -1,0 +1,133 @@
+{
+  "definition": {
+    "word": "不幸",
+    "reading": "ふこう",
+    "romaji": "fukou",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "ketidakbahagiaan",
+          "kesedihan",
+          "kemalangan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "death (usu. of a relative)",
+          "bereavement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "ketidakadilan, ketidaksetaraan"
+    },
+    {
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "ketidaknyamanan, disabilitas, kesulitan"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "kekurangan, kelemahan"
+    },
+    {
+      "word": "幸せ",
+      "reading": "しあわせ",
+      "meaning": "kebahagiaan, berkah"
+    },
+    {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "kebahagiaan, keberkahan"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "misteri, rasa ingin tahu"
+    },
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "kecemasan, kegelisahan"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "kekurangan, kelangkaan"
+    },
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "ketidakpuasan, ketidakpuasan, keluhan"
+    },
+    {
+      "word": "幸い",
+      "reading": "さいわい",
+      "meaning": "untungnya; semoga beruntung"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "salah, buruk, tidak mungkin"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "semoga beruntung, nasib baik"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "blokade, gangguan, penghentian"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "keluhan, ketidakpuasan, ketidakpuasan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不幸中の幸い",
+      "reading": "ふこうちゅうのさいわい",
+      "meaning": "small mercy (from some misfortune)",
+      "type": "idiom"
+    },
+    {
+      "word": "他人の不幸は蜜の味",
+      "reading": "たにんのふこうはみつのあじ",
+      "meaning": "the misfortune of others tastes as sweet as honey",
+      "type": "proverb"
+    },
+    {
+      "word": "芸が身を助けるほどの不幸せ",
+      "reading": "げいがみをたすけるほどのふしあわせ",
+      "meaning": "being able to live as an artist is no blessing",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "家で不幸な出来事があった。",
+      "reading": null,
+      "indonesian": "There was an unfortunate incident at home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

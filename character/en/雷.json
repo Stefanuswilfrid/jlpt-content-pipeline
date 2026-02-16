@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "雷",
+    "reading": "かみなり",
+    "romaji": "kaminari",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lightning",
+          "thunder",
+          "thunderbolt"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "god of thunder",
+          "god of lightning"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "anger",
+          "fit of anger"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "疾風迅雷",
+      "reading": "しっぷうじんらい",
+      "meaning": "with lightning speed",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "付和雷同",
+      "reading": "ふわらいどう",
+      "meaning": "following blindly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "雷が落ちる",
+      "reading": "かみなりがおちる",
+      "meaning": "to be struck by lightning",
+      "type": "idiom"
+    },
+    {
+      "word": "地雷を踏む",
+      "reading": "じらいをふむ",
+      "meaning": "to step on a landmine",
+      "type": "idiom"
+    },
+    {
+      "word": "迅雷風烈",
+      "reading": "じんらいふうれつ",
+      "meaning": "violent thunder and fierce wind",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "地震雷火事親父",
+      "reading": "じしんかみなりかじおやじ",
+      "meaning": "things to fear: earthquakes, thunder, fires and, most of all, fathers",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

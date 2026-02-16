@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "絡繰り",
+    "reading": "からくり",
+    "romaji": "karakuri",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mechanism",
+          "machinery",
+          "contrivance",
+          "device"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "trick",
+          "dodge"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mechanical doll",
+          "string puppet"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "contacting"
+    },
+    {
+      "word": "繰り返す",
+      "reading": "くりかえす",
+      "meaning": "to repeat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その町の交通機関は大変よい。",
+      "reading": null,
+      "english": "The transportation system in that city is quite good.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

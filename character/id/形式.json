@@ -1,0 +1,175 @@
+{
+  "definition": {
+    "word": "形式",
+    "reading": "けいしき",
+    "romaji": "keishiki",
+    "jlpt": "N2",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bentuk",
+          "formalitas",
+          "format"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "format",
+          "form",
+          "style",
+          "manner"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "formality",
+          "form"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mode",
+          "form"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "form (bilinear, quadratic, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "公式",
+      "reading": "こうしき",
+      "meaning": "rumus, formalitas, resmi"
+    },
+    {
+      "word": "儀式",
+      "reading": "ぎしき",
+      "meaning": "upacara, ritual, tata cara"
+    },
+    {
+      "word": "葬式",
+      "reading": "そうしき",
+      "meaning": "pemakaman"
+    },
+    {
+      "word": "図形",
+      "reading": "ずけい",
+      "meaning": "angka"
+    },
+    {
+      "word": "長方形",
+      "reading": "ちょうほうけい",
+      "meaning": "persegi panjang, lonjong"
+    },
+    {
+      "word": "方程式",
+      "reading": "ほうていしき",
+      "meaning": "persamaan"
+    },
+    {
+      "word": "形容詞",
+      "reading": "けいようし",
+      "meaning": "kata sifat"
+    },
+    {
+      "word": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "persegi"
+    },
+    {
+      "word": "形",
+      "reading": "かたち",
+      "meaning": "membentuk"
+    },
+    {
+      "word": "株式",
+      "reading": "かぶしき",
+      "meaning": "saham"
+    },
+    {
+      "word": "正式",
+      "reading": "せいしき",
+      "meaning": "resmi, formal"
+    },
+    {
+      "word": "方式",
+      "reading": "ほうしき",
+      "meaning": "bentuk, metode, sistem"
+    },
+    {
+      "word": "形成",
+      "reading": "けいせい",
+      "meaning": "pembentukan"
+    },
+    {
+      "word": "形態",
+      "reading": "けいたい",
+      "meaning": "bentuk, rupa, figur"
+    },
+    {
+      "word": "人形",
+      "reading": "にんぎょう",
+      "meaning": "boneka, figur"
+    },
+    {
+      "word": "様式",
+      "reading": "ようしき",
+      "meaning": "gaya, bentuk, pola"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは形式上の問題に過ぎない。",
+      "reading": null,
+      "indonesian": "It is merely a matter of form.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここで使われている文法形式は現在進行形である。",
+      "reading": null,
+      "indonesian": "The grammatical form employed here is the present progressive.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人数が多いですから、今日は立食形式にしたんです。",
+      "reading": null,
+      "indonesian": "There are a lot of people so today we've gone for buffet style.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "朝食はバイキング形式だって。",
+      "reading": null,
+      "indonesian": "Breakfast is a smorgasbord.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

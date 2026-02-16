@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "深い",
+    "reading": "ふかい",
+    "romaji": "fukai",
+    "jlpt": "N4",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "deep"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "profound"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "dense",
+          "thick"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "close (relationship)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "intense",
+          "strong"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaning": "kind"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "深い川は静かに流れる",
+      "reading": "ふかいかわはしずかにながれる",
+      "meaning": "still waters run deep",
+      "type": "proverb"
+    },
+    {
+      "word": "静かに流れる川は深い",
+      "reading": "しずかにながれるかわはふかい",
+      "meaning": "still waters run deep",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

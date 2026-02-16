@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "何で",
+    "reading": "なんで",
+    "romaji": "nande",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "Mengapa",
+          "untuk apa?"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "how?",
+          "by what means?"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "sesuatu"
+    },
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "entah bagaimana, dengan cara apa pun, dengan satu atau lain cara"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "dengan segala cara, semuanya"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あの方が言われる事を、何でもしてあげて下さい。",
+      "reading": null,
+      "indonesian": "Do whatever he tells you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何ですか。",
+      "reading": null,
+      "indonesian": "What do you want?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "勝手に何でも使って。",
+      "reading": null,
+      "indonesian": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あの方が言われる事を、何でもしてあげて下さい。",
+      "reading": null,
+      "indonesian": "Do whatever he tells you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの方が言われる事を、何でもしてあげて下さい。",
+      "reading": null,
+      "indonesian": "Please do whatever that person tells you to do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

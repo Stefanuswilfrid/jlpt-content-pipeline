@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "ガソリン",
+    "reading": "ガソリン",
+    "romaji": "gasorin",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gasoline",
+          "petrol"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "家のそばまで来て車のガソリンが切れた。",
+      "reading": null,
+      "english": "I was almost home when the car ran out of gas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほとんど空なのでガソリンを入れなくてはなりません。",
+      "reading": null,
+      "english": "I need to put some gas in the car, as it's almost empty.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この車はあまりガソリンを食わない。",
+      "reading": null,
+      "english": "This car is very economical on gas.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ここから一番近いガソリンスタンドはどこですか。",
+      "reading": null,
+      "english": "Where's the nearest gas station around here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

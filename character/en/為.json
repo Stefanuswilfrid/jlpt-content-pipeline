@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "為",
+    "reading": "ため",
+    "romaji": "tame",
+    "jlpt": "N4",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "good",
+          "advantage",
+          "benefit",
+          "welfare"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sake",
+          "purpose",
+          "objective",
+          "aim"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "consequence",
+          "result",
+          "effect"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "affecting",
+          "regarding",
+          "concerning"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "所為",
+      "reading": "せい",
+      "meaning": "consequence"
+    },
+    {
+      "word": "為る",
+      "reading": "する",
+      "meaning": "to do"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人為淘汰",
+      "reading": "じんいとうた",
+      "meaning": "artificial selection",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無為徒食",
+      "reading": "むいとしょく",
+      "meaning": "idling one's time away",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無為無策",
+      "reading": "むいむさく",
+      "meaning": "do-nothing, plan-nothing (government, etc.)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有為転変",
+      "reading": "ういてんぺん",
+      "meaning": "mutability (of worldly affairs)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不法行為",
+      "reading": "ふほうこうい",
+      "meaning": "tort",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "越権行為",
+      "reading": "えっけんこうい",
+      "meaning": "exceeding one's authority",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無為自然",
+      "reading": "むいしぜん",
+      "meaning": "abandoning artifice and just being oneself",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無為無能",
+      "reading": "むいむのう",
+      "meaning": "idle and incompetent",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "為せば成る",
+      "reading": "なせばなる",
+      "meaning": "if you have a mind to do something, you can do it",
+      "type": "proverb"
+    },
+    {
+      "word": "寂滅為楽",
+      "reading": "じゃくめついらく",
+      "meaning": "freedom from one's desires (entry into Nirvana) is true bliss",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

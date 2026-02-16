@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "兼ねる",
+    "reading": "かねる",
+    "romaji": "kaneru",
+    "jlpt": "N2",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "suffix",
+          "Ichidan verb"
+        ],
+        "meanings": [
+          "untuk melayani dua fungsi atau lebih secara bersamaan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to serve two or more functions or roles simultaneously",
+          "to contain (or combine) two or more features"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to work in two or more jobs simultaneously (positions, etc.)",
+          "to do alongside"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hesitate to do something (out of consideration for others)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to think of the future (as well as the present)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "兼業",
+      "reading": "けんぎょう",
+      "meaning": "memegang dua pekerjaan sekaligus"
+    },
+    {
+      "word": "兼用",
+      "reading": "けんよう",
+      "meaning": "serbaguna, penggunaan gabungan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "大は小を兼ねる",
+      "reading": "だいはしょうをかねる",
+      "meaning": "the greater embraces the less",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

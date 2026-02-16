@@ -1,0 +1,151 @@
+{
+  "definition": {
+    "word": "悪戯",
+    "reading": "いたずら",
+    "romaji": "itazura",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "tipuan",
+          "lelucon praktis"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "mischievous",
+          "naughty"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pastime",
+          "hobby"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "playing with (e.g. a lighter)",
+          "fooling around with",
+          "messing around with",
+          "amusing oneself with",
+          "tampering with"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "lewd behaviour",
+          "sexual misconduct",
+          "sexual assault",
+          "molestation",
+          "rape"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "悪",
+      "reading": "あく",
+      "meaning": "kejahatan, keburukan"
+    },
+    {
+      "word": "悪魔",
+      "reading": "あくま",
+      "meaning": "setan, iblis, roh jahat"
+    },
+    {
+      "word": "悪口",
+      "reading": "あっこう",
+      "meaning": "pelecehan, penghinaan"
+    },
+    {
+      "word": "悪口",
+      "reading": "わるぐち",
+      "meaning": "pelecehan, penghinaan"
+    },
+    {
+      "word": "冗談",
+      "reading": "じょうだん",
+      "meaning": "lelucon"
+    },
+    {
+      "word": "意地悪",
+      "reading": "いじわる",
+      "meaning": "jahat, kejam, tidak baik hati"
+    },
+    {
+      "word": "将棋",
+      "reading": "しょうぎ",
+      "meaning": "Catur Jepang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君はいたずらっ子だな。",
+      "reading": null,
+      "indonesian": "You are naughty.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一人になるとその子はいたずらを始めた。",
+      "reading": null,
+      "indonesian": "The little boy got into mischief when he was left alone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "マイクは弟にひどいいたずらをした。",
+      "reading": null,
+      "indonesian": "Mike played a bad trick on his brother.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ただの風のいたずらだよ。",
+      "reading": null,
+      "indonesian": "It's just a trick of the wind.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはひどいいたずらだ。",
+      "reading": null,
+      "indonesian": "That's very naughty of you.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "触る",
+    "reading": "さわる",
+    "romaji": "sawaru",
+    "jlpt": "N4",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to touch",
+          "to feel",
+          "to handle"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get involved (with)",
+          "to approach"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be harmful to",
+          "to hinder",
+          "to interfere with",
+          "to irritate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "触れる",
+      "reading": "ふれる",
+      "meaning": "to touch"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

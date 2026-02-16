@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "留守",
+    "reading": "るす",
+    "romaji": "rusu",
+    "jlpt": "N4",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "tidak ada di rumah; tidak di rumah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "house-sitting",
+          "house-sitter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "neglecting (e.g. one's studies)",
+          "leaving unattended"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "mengakhiri, berhenti, mengakhiri, mengundurkan diri"
+    },
+    {
+      "word": "守る",
+      "reading": "まもる",
+      "meaning": "untuk melindungi; untuk mematuhi (aturan)"
+    },
+    {
+      "word": "留学",
+      "reading": "りゅうがく",
+      "meaning": "belajar di luar negeri"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

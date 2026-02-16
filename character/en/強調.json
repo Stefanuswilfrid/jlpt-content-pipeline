@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "強調",
+    "reading": "きょうちょう",
+    "romaji": "kyouchou",
+    "jlpt": "N3",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "emphasis",
+          "stress",
+          "highlighting",
+          "underlining",
+          "underscoring"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "accentuating (a feature or certain part)",
+          "accenting"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "strong tone (of the market)",
+          "firm tone"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "調査",
+      "reading": "ちょうさ",
+      "meaning": "investigation"
+    },
+    {
+      "word": "協調",
+      "reading": "きょうちょう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "強力",
+      "reading": "きょうりょく",
+      "meaning": "powerful"
+    },
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "favourable"
+    },
+    {
+      "word": "強盗",
+      "reading": "ごうとう",
+      "meaning": "robber"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaning": "tune"
+    },
+    {
+      "word": "強める",
+      "reading": "つよめる",
+      "meaning": "to strengthen"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ぼくはこの点を特に強調したい。",
+      "reading": null,
+      "english": "I want to emphasize this point in particular.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

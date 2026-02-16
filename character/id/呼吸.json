@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "呼吸",
+    "reading": "こきゅう",
+    "romaji": "kokyuu",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "napas",
+          "pernapasan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "knack",
+          "trick",
+          "secret (of doing something)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "harmony",
+          "balance",
+          "synchronization",
+          "accord"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "short interval",
+          "short pause"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "吸収",
+      "reading": "きゅうしゅう",
+      "meaning": "penyerapan, penghisapan"
+    },
+    {
+      "word": "呼ぶ",
+      "reading": "よぶ",
+      "meaning": "memanggil (nama seseorang); mengundang"
+    },
+    {
+      "word": "呼び出す",
+      "reading": "よびだす",
+      "meaning": "memanggil, menelepon (misalnya, telepon)"
+    },
+    {
+      "word": "吸う",
+      "reading": "すう",
+      "meaning": "menghirup napas, menghisap"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "阿吽の呼吸",
+      "reading": "あうんのこきゅう",
+      "meaning": "the harmonizing, mentally and physically, of two parties engaged in an activity",
+      "type": "idiom"
+    },
+    {
+      "word": "呼吸が合う",
+      "reading": "こきゅうがあう",
+      "meaning": "to get along",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "降りる",
+    "reading": "おりる",
+    "romaji": "oriru",
+    "jlpt": "N4",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "turun",
+          "pergi; datang ke bawah"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to alight (e.g. from bus)",
+          "to get off",
+          "to disembark",
+          "to dismount"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to step down",
+          "to retire",
+          "to give up",
+          "to quit",
+          "to fold"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be granted",
+          "to be issued",
+          "to be given"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to form (of frost, dew, mist, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "下る",
+      "reading": "くだる",
+      "meaning": "turun, menuruni bukit"
+    },
+    {
+      "word": "降伏",
+      "reading": "こうふく",
+      "meaning": "penyerahan diri, kapitulasi, tunduk"
+    },
+    {
+      "word": "降る",
+      "reading": "ふる",
+      "meaning": "untuk terjadi presipitasi, untuk jatuh (misalnya, hujan, salju, dll.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "清水の舞台から飛び降りる",
+      "reading": "きよみずのぶたいからとびおりる",
+      "meaning": "to make a leap into the dark",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

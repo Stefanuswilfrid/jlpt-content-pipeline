@@ -1,0 +1,43 @@
+{
+  "definition": {
+    "word": "凍る",
+    "reading": "こおる",
+    "romaji": "kooru",
+    "jlpt": "N3",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to freeze",
+          "to become frozen",
+          "to freeze over"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "凍える",
+      "reading": "こごえる",
+      "meaning": "to freeze (of one's body)"
+    },
+    {
+      "word": "氷",
+      "reading": "こおり",
+      "meaning": "ice"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "背筋が凍る",
+      "reading": "せすじがこおる",
+      "meaning": "to have a chill run down one's spine",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

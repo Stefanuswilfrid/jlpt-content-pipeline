@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "普通",
+    "reading": "ふつう",
+    "romaji": "futsuu",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "normal",
+          "ordinary",
+          "regular",
+          "usual",
+          "common",
+          "average"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "normally",
+          "ordinarily",
+          "usually",
+          "generally",
+          "commonly"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "local train",
+          "train that stops at every station"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "traffic"
+    },
+    {
+      "word": "通り",
+      "reading": "とおり",
+      "meaning": "street"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "currency"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "commuting to work"
+    },
+    {
+      "word": "普段",
+      "reading": "ふだん",
+      "meaning": "usual"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretation (i.e. oral translation)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

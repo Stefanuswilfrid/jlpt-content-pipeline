@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "花見",
+    "reading": "はなみ",
+    "romaji": "hanami",
+    "jlpt": "N4",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "melihat bunga sakura"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "tamasya"
+    },
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "pendapat, pandangan, ide"
+    },
+    {
+      "word": "拝見",
+      "reading": "はいけん",
+      "meaning": "(rendah hati) (sopan) melihat, memandang"
+    },
+    {
+      "word": "見送り",
+      "reading": "みおくり",
+      "meaning": "mengantar seseorang"
+    },
+    {
+      "word": "見舞い",
+      "reading": "みまい",
+      "meaning": "ungkapan simpati, ungkapan keprihatinan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お花見に行きませんか？",
+      "reading": null,
+      "indonesian": "Why don't we go and see the cherry blossoms?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お花見に行こうよ。",
+      "reading": null,
+      "indonesian": "Why don't we go and see the cherry blossoms?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お花見に行きませんか？",
+      "reading": null,
+      "indonesian": "Why don't we go and see the cherry blossoms?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

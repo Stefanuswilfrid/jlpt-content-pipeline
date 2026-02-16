@@ -1,0 +1,50 @@
+{
+  "definition": {
+    "word": "頬",
+    "reading": "ほお",
+    "romaji": "hoo",
+    "jlpt": "N3",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cheek (of the face)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "微笑む",
+      "reading": "ほほえむ",
+      "meaning": "to smile"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "狐の子は頬白",
+      "reading": "きつねのこはつらじろ",
+      "meaning": "like father, like son",
+      "type": "proverb"
+    },
+    {
+      "word": "頬をつねる",
+      "reading": "ほおをつねる",
+      "meaning": "to pinch someone's cheek",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その少女はお父さんの頬にキスした。",
+      "reading": null,
+      "english": "The girl kissed her father on the cheek.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "指す",
+    "reading": "さす",
+    "romaji": "sasu",
+    "jlpt": "N3",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menunjuk",
+          ""
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to nominate",
+          "to select someone",
+          "to specify some person"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to identify",
+          "to indicate",
+          "to point out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to play (a game of shogi)",
+          "to move (a piece)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to extend one's arm straight ahead (in dance)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "指導",
+      "reading": "しどう",
+      "meaning": "kepemimpinan, bimbingan, pelatihan"
+    },
+    {
+      "word": "指揮",
+      "reading": "しき",
+      "meaning": "perintah, arahan"
+    },
+    {
+      "word": "目指す",
+      "reading": "めざす",
+      "meaning": "untuk membidik, untuk memperhatikan"
+    },
+    {
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "penunjukan, spesifikasi, penugasan"
+    },
+    {
+      "word": "薬指",
+      "reading": "くすりゆび",
+      "meaning": "jari manis"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "掌を指す",
+      "reading": "たなごころをさす",
+      "meaning": "to be obvious",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "＆という記号は、ａｎｄを指す。",
+      "reading": null,
+      "indonesian": "The sign '&' stands for 'and'.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人を指すのは失礼です。",
+      "reading": null,
+      "indonesian": "It is rude to point at people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "後指を指すのはやめたまえ。",
+      "reading": null,
+      "indonesian": "Don't talk about people behind their backs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "＆という記号は、ａｎｄを指す。",
+      "reading": null,
+      "indonesian": "The sign '&' stands for 'and'.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

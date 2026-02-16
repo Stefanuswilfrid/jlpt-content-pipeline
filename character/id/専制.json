@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "専制",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "jlpt": "N2",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "despotisme",
+          "otokrasi"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 3,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "体制",
+      "reading": "たいせい",
+      "meaning": "tatanan, sistem, struktur"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaning": "karya (misalnya, film, buku)"
+    },
+    {
+      "word": "専ら",
+      "reading": "もっぱら",
+      "meaning": "seluruhnya, sepenuhnya, seluruhnya"
+    },
+    {
+      "word": "規制",
+      "reading": "きせい",
+      "meaning": "peraturan"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "sistem, institusi"
+    },
+    {
+      "word": "専門",
+      "reading": "せんもん",
+      "meaning": "jurusan; spesialisasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

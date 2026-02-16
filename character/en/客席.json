@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "客席",
+    "reading": "きゃくせき",
+    "romaji": "kyakuseki",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "guest seating (e.g. theater, stadium)",
+          "passenger seat (e.g. taxi)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "audience"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "客間",
+      "reading": "きゃくま",
+      "meaning": "drawing room"
+    },
+    {
+      "word": "旅客",
+      "reading": "りょかく",
+      "meaning": "passenger"
+    },
+    {
+      "word": "座席",
+      "reading": "ざせき",
+      "meaning": "seat (esp. in public places or places with assigned seating)"
+    },
+    {
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaning": "absence"
+    },
+    {
+      "word": "客観",
+      "reading": "きゃっかん",
+      "meaning": "objectivity"
+    },
+    {
+      "word": "客",
+      "reading": "きゃく",
+      "meaning": "guest"
+    },
+    {
+      "word": "出席",
+      "reading": "しゅっせき",
+      "meaning": "attendance"
+    },
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaning": "spectator"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "観客席の最前列に席を予約したわ。",
+      "reading": null,
+      "english": "I've staked out places for us in the front row of the auditorium.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "観客席の最前列に席を予約したわ。",
+      "reading": null,
+      "english": "I've staked out places for us in the front row of the auditorium.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

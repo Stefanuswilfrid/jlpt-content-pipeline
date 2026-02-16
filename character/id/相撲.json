@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "相撲",
+    "reading": "すもう",
+    "romaji": "sumou",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gulat sumo"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sumo wrestler",
+          "rikishi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "相互",
+      "reading": "そうご",
+      "meaning": "saling, timbal balik"
+    },
+    {
+      "word": "相違",
+      "reading": "そうい",
+      "meaning": "perbedaan, ketidaksesuaian, variasi"
+    },
+    {
+      "word": "外相",
+      "reading": "がいしょう",
+      "meaning": "Menteri Luar Negeri"
+    },
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "Perdana Menteri"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "mitra; penerima; orang yang Anda ajak bicara"
+    },
+    {
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "konsultasi"
+    },
+    {
+      "word": "蔵相",
+      "reading": "ぞうしょう",
+      "meaning": "Menteri Keuangan"
+    },
+    {
+      "word": "相場",
+      "reading": "そうば",
+      "meaning": "harga pasar, spekulasi, estimasi"
+    },
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "cukup besar, lumayan; berharga ~"
+    },
+    {
+      "word": "真相",
+      "reading": "しんそう",
+      "meaning": "kebenaran, situasi nyata"
+    },
+    {
+      "word": "様相",
+      "reading": "ようそう",
+      "meaning": "aspek"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人のふんどしで相撲を取る",
+      "reading": "ひとのふんどしですもうをとる",
+      "meaning": "to profit at someone else's expense",
+      "type": "idiom"
+    },
+    {
+      "word": "相撲に勝って勝負に負ける",
+      "reading": "すもうにかってしょうぶにまける",
+      "meaning": "to ultimately fail despite being in a favourable position",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

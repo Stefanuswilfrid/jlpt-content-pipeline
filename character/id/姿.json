@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "姿",
+    "reading": "すがた",
+    "romaji": "sugata",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bentuk",
+          "rupa",
+          "penampilan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "appearance",
+          "dress",
+          "guise"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "state",
+          "condition",
+          "picture",
+          "image"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "form (of a waka)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "dressed in ...",
+          "wearing ..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "姿勢",
+      "reading": "しせい",
+      "meaning": "sikap; postur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "姿を消す",
+      "reading": "すがたをけす",
+      "meaning": "to disappear",
+      "type": "idiom"
+    },
+    {
+      "word": "千姿万態",
+      "reading": "せんしばんたい",
+      "meaning": "endless variety",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "容姿端麗",
+      "reading": "ようしたんれい",
+      "meaning": "attractive face and figure",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "英姿颯爽",
+      "reading": "えいしさっそう",
+      "meaning": "cutting a fine (dashing, gallant, noble) figure",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

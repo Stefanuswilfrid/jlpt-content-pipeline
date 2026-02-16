@@ -1,0 +1,185 @@
+{
+  "definition": {
+    "word": "鉄",
+    "reading": "てつ",
+    "romaji": "tetsu",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "iron (Fe)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "steel"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "iron (will, discipline, lady, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix",
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "railway"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "railway enthusiast"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "鉄道",
+      "reading": "てつどう",
+      "meaning": "railroad"
+    },
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "subway"
+    },
+    {
+      "word": "私鉄",
+      "reading": "してつ",
+      "meaning": "private railway"
+    },
+    {
+      "word": "鉄砲",
+      "reading": "てっぽう",
+      "meaning": "gun"
+    },
+    {
+      "word": "鉄橋",
+      "reading": "てっきょう",
+      "meaning": "railway bridge"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "金城鉄壁",
+      "reading": "きんじょうてっぺき",
+      "meaning": "impregnable castle (walls)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鉄拳制裁",
+      "reading": "てっけんせいさい",
+      "meaning": "(punishment by) striking with fists",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鉄心石腸",
+      "reading": "てっしんせきちょう",
+      "meaning": "will of iron",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "闇夜の鉄砲",
+      "reading": "やみよのてっぽう",
+      "meaning": "aimless attempt",
+      "type": "idiom"
+    },
+    {
+      "word": "寸鉄人を刺す",
+      "reading": "すんてつひとをさす",
+      "meaning": "to make a cutting remark",
+      "type": "idiom"
+    },
+    {
+      "word": "寸鉄人を殺す",
+      "reading": "すんてつひとをころす",
+      "meaning": "to make a cutting remark",
+      "type": "idiom"
+    },
+    {
+      "word": "磨穿鉄硯",
+      "reading": "ませんてっけん",
+      "meaning": "showing unyielding diligence in one's studies",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "闇に鉄砲",
+      "reading": "やみにてっぽう",
+      "meaning": "doing something without having decided what one's goal for it is",
+      "type": "idiom"
+    },
+    {
+      "word": "鉄は熱いうちに打て",
+      "reading": "てつはあついうちにうて",
+      "meaning": "strike while the iron is hot",
+      "type": "proverb"
+    },
+    {
+      "word": "鉄は熱いうちに鍛えよ",
+      "reading": "てつはあついうちにきたえよ",
+      "meaning": "strike while the iron is hot",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "金門橋は鉄でできている。",
+      "reading": null,
+      "english": "The Golden Gate Bridge is made of iron.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金は鉄より重い。",
+      "reading": null,
+      "english": "Gold is heavier than iron.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "遠い西部にはほとんど鉄道がなかった。",
+      "reading": null,
+      "english": "There were almost no railroads out west.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "飛行機より、鉄道で旅するのが好きなんだ。",
+      "reading": null,
+      "english": "I prefer traveling by train to flying.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスで行きますか、電車で行きますか、地下鉄で行きますか。",
+      "reading": null,
+      "english": "Do you go by bus, by train, or by subway?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

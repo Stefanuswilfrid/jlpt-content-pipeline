@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "掃く",
+    "reading": "はく",
+    "romaji": "haku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menyapu",
+          "menyikat",
+          "mengumpulkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to gather silkworms"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "清掃",
+      "reading": "せいそう",
+      "meaning": "pembersihan"
+    },
+    {
+      "word": "掃除",
+      "reading": "そうじ",
+      "meaning": "membersihkan, menyapu"
+    },
+    {
+      "word": "払う",
+      "reading": "はらう",
+      "meaning": "untuk membayar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "横槌で庭を掃く",
+      "reading": "よこづちでにわをはく",
+      "meaning": "to hurriedly prepare one's home for guests",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

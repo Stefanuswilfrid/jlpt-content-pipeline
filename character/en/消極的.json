@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "消極的",
+    "reading": "しょうきょくてき",
+    "romaji": "shoukyokuteki",
+    "jlpt": "N2",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "negative",
+          "passive",
+          "half-hearted",
+          "unmotivated"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "的確",
+      "reading": "てきかく",
+      "meaning": "accurate"
+    },
+    {
+      "word": "積極的",
+      "reading": "せっきょくてき",
+      "meaning": "positive"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "観察は消極的な科学であり、実験は積極的な科学である。",
+      "reading": null,
+      "english": "Observation is a passive science, experimentation an active science.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "消極的なその男はめったに自己表現しない。",
+      "reading": null,
+      "english": "The passive man seldom, if ever, expresses himself.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "観察は消極的な科学であり、実験は積極的な科学である。",
+      "reading": null,
+      "english": "Observation is a passive science, experimentation an active science.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "消極的なその男はめったに自己表現しない。",
+      "reading": null,
+      "english": "The passive man seldom, if ever, expresses himself.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

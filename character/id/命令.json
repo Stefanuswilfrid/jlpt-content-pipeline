@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "命令",
+    "reading": "めいれい",
+    "romaji": "meirei",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "perintah",
+          "komando",
+          "dekrit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "(software) instruction",
+          "statement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "kehidupan"
+    },
+    {
+      "word": "命",
+      "reading": "いのち",
+      "meaning": "kehidupan"
+    },
+    {
+      "word": "年齢",
+      "reading": "ねんれい",
+      "meaning": "usia, tahun"
+    },
+    {
+      "word": "命じる",
+      "reading": "めいじる",
+      "meaning": "untuk memberi perintah, untuk memerintah, untuk menunjuk"
+    },
+    {
+      "word": "懸命",
+      "reading": "けんめい",
+      "meaning": "semangat, melelahkan"
+    },
+    {
+      "word": "寿命",
+      "reading": "じゅみょう",
+      "meaning": "rentang hidup"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "至上命令",
+      "reading": "しじょうめいれい",
+      "meaning": "unconditional command",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その同じ文が命令の力を持つことがあるのだろう。",
+      "reading": null,
+      "indonesian": "The same sentence could have the force of a command.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ケンは自分の犬に、そこで待つように命令した。",
+      "reading": null,
+      "indonesian": "Ken told his dog to wait there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お手伝いさんたちは主人の命令を実行しようと努めた。",
+      "reading": null,
+      "indonesian": "The servants tried to carry out their master's order.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

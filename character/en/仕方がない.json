@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "仕方がない",
+    "reading": "しかたがない",
+    "romaji": "shikataganai",
+    "jlpt": "N2",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "there's no (other) way"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "cannot be helped",
+          "unavoidable",
+          "inevitable",
+          "(there's) nothing one can do",
+          "having no choice"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "it's no use (doing)",
+          "pointless",
+          "useless",
+          "no good",
+          "insufficient",
+          "not enough"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "hopeless (person)",
+          "annoying",
+          "troublesome",
+          "awful"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "cannot stand it",
+          "unbearable",
+          "cannot help (doing, feeling)",
+          "dying (to do)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "仕上がる",
+      "reading": "しあがる",
+      "meaning": "to be finished"
+    },
+    {
+      "word": "方針",
+      "reading": "ほうしん",
+      "meaning": "policy"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "(one's) whereabouts"
+    },
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "direction"
+    },
+    {
+      "word": "方言",
+      "reading": "ほうげん",
+      "meaning": "dialect"
+    },
+    {
+      "word": "明け方",
+      "reading": "あけがた",
+      "meaning": "dawn"
+    },
+    {
+      "word": "長方形",
+      "reading": "ちょうほうけい",
+      "meaning": "rectangle"
+    },
+    {
+      "word": "方程式",
+      "reading": "ほうていしき",
+      "meaning": "equation"
+    },
+    {
+      "word": "方角",
+      "reading": "ほうがく",
+      "meaning": "direction"
+    },
+    {
+      "word": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "square"
+    },
+    {
+      "word": "仕方",
+      "reading": "しかた",
+      "meaning": "way"
+    },
+    {
+      "word": "法則",
+      "reading": "ほうそく",
+      "meaning": "law"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "仕方がないよ。",
+      "reading": null,
+      "english": "It can't be helped.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そんなに健康のことを心配しても仕方がない。",
+      "reading": null,
+      "english": "There is no sense in your worrying about your health so much.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "仕方がないよ。",
+      "reading": null,
+      "english": "It cannot be helped.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そこへ行っても仕方がない。",
+      "reading": null,
+      "english": "It is no use going there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ぜひにとあれば仕方がない。",
+      "reading": null,
+      "english": "If you must, you must.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "コーヒーが飲みたくて仕方がない。",
+      "reading": null,
+      "english": "I'm dying for a cup of coffee.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こうするより仕方がないのです。",
+      "reading": null,
+      "english": "There is nothing for it but to do it this way.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

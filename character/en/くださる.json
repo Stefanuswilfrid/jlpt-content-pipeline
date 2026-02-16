@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "下さる",
+    "reading": "くださる",
+    "romaji": "kudasaru",
+    "jlpt": "N4",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb - -aru special class"
+        ],
+        "meanings": [
+          "to give",
+          "to confer",
+          "to bestow"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb - -aru special class"
+        ],
+        "meanings": [
+          "to kindly do for one",
+          "to oblige",
+          "to favour",
+          "to favor"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "下る",
+      "reading": "くだる",
+      "meaning": "to descend"
+    },
+    {
+      "word": "下宿",
+      "reading": "げしゅく",
+      "meaning": "boarding"
+    },
+    {
+      "word": "以下",
+      "reading": "いか",
+      "meaning": "not exceeding ..."
+    },
+    {
+      "word": "下げる",
+      "reading": "さげる",
+      "meaning": "to hang"
+    },
+    {
+      "word": "下着",
+      "reading": "したぎ",
+      "meaning": "underwear"
+    },
+    {
+      "word": "下さい",
+      "reading": "ください",
+      "meaning": "please (give me)"
+    },
+    {
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "unskillful"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そういってくださるとはご親切に。",
+      "reading": null,
+      "english": "It is kind of you to say so.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そう言ってくださるとはご親切さま。",
+      "reading": null,
+      "english": "It's very kind of you to put it that way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたがいっしょに来てくださるならうれしいのですが。",
+      "reading": null,
+      "english": "I'll be happy if you will come with me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

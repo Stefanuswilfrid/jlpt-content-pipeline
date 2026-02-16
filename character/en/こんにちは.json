@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "今日は",
+    "reading": "こんにちは",
+    "romaji": "konnichiha",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "hello",
+          "good day",
+          "good afternoon"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "今日は人の身明日は我が身",
+      "reading": "きょうはひとのみあすはわがみ",
+      "meaning": "what chances to one man may happen to all",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "トムは笑いながら「こんにちは」と言った。",
+      "reading": null,
+      "english": "\"Hello,\" said Tom, smiling.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「こんにちは」と、トムは笑顔で言った。",
+      "reading": null,
+      "english": "\"Hello,\" said Tom, smiling.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんにちはジョージ、どう？",
+      "reading": null,
+      "english": "Hi, George! How's it going?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "こんにちは。アメリカに来た目的はなんですか。",
+      "reading": null,
+      "english": "Hi! What is the purpose of your visit in America, sir?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんにちは、ロジャー。とっても元気よ。",
+      "reading": null,
+      "english": "Hi, Roger. I'm pretty good!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こんにちは、ミミさん！どう、元気？",
+      "reading": null,
+      "english": "Hi, Mimi! How are you doing?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こんにちは、トム。",
+      "reading": null,
+      "english": "Hello, Tom.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "こんにちはトムさん。",
+      "reading": null,
+      "english": "Hello, Tom.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

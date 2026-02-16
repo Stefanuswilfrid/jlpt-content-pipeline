@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "回転",
+    "reading": "かいてん",
+    "romaji": "kaiten",
+    "jlpt": "N2",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "rotation",
+          "revolution",
+          "turn",
+          "spin"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "working (e.g. of one's mind)",
+          "function"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "turnover (of goods, funds, etc.)",
+          "circulation",
+          "flow (of customers)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "rotation",
+          "curl"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "slalom"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning": "reply"
+    },
+    {
+      "word": "移転",
+      "reading": "いてん",
+      "meaning": "moving"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "number of times"
+    },
+    {
+      "word": "転々",
+      "reading": "てんてん",
+      "meaning": "moving from place to place"
+    },
+    {
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "coupon tickets"
+    },
+    {
+      "word": "転がる",
+      "reading": "ころがる",
+      "meaning": "to roll"
+    },
+    {
+      "word": "回り道",
+      "reading": "まわりみち",
+      "meaning": "detour"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operation (of a machine)"
+    },
+    {
+      "word": "転換",
+      "reading": "てんかん",
+      "meaning": "conversion"
+    },
+    {
+      "word": "逆転",
+      "reading": "ぎゃくてん",
+      "meaning": "reversal (of a situation)"
+    },
+    {
+      "word": "回収",
+      "reading": "かいしゅう",
+      "meaning": "collection"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "driver"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "bicycle"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "こまはぐるぐる回転した。",
+      "reading": null,
+      "english": "The top went around and around.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "姉は頭の回転がいい。",
+      "reading": null,
+      "english": "My sister is quick-thinking.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "地球は約３６５日で太陽の周囲を１回転する。",
+      "reading": null,
+      "english": "The earth makes one revolution around the sun in about 365 days.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "地球は１時間につき、68,130マイルの速さで回転している。",
+      "reading": null,
+      "english": "The earth moves at the rate of 68,130 miles an hour.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "針は中心を一時間に１０回転の割合で回る。",
+      "reading": null,
+      "english": "The hand on its axis turns at 10 revolutions per hour.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは地球が太陽の周りを回転すると信じていた。",
+      "reading": null,
+      "english": "We believed that the earth moves round the sun.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "現在では我々が作った人工衛星が地球の周辺を回転している。",
+      "reading": null,
+      "english": "Today our artificial satellites are revolving around the earth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "definition": {
+    "word": "大して",
+    "reading": "たいして",
+    "romaji": "taishite",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(not) very",
+          "(not) so",
+          "(not) very much",
+          "(not) particularly",
+          "(not) especially"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大層",
+      "reading": "たいそう",
+      "meaning": "very"
+    },
+    {
+      "word": "大いに",
+      "reading": "おおいに",
+      "meaning": "very"
+    },
+    {
+      "word": "大丈夫",
+      "reading": "だいじょうぶ",
+      "meaning": "safe"
+    },
+    {
+      "word": "大概",
+      "reading": "たいがい",
+      "meaning": "generally"
+    },
+    {
+      "word": "大分",
+      "reading": "だいぶ",
+      "meaning": "considerably"
+    },
+    {
+      "word": "大方",
+      "reading": "おおかた",
+      "meaning": "large part"
+    },
+    {
+      "word": "大体",
+      "reading": "だいたい",
+      "meaning": "generally"
+    },
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "very"
+    },
+    {
+      "word": "大半",
+      "reading": "たいはん",
+      "meaning": "majority"
+    },
+    {
+      "word": "大勢",
+      "reading": "おおぜい",
+      "meaning": "crowd of people"
+    },
+    {
+      "word": "膨大",
+      "reading": "ぼうだい",
+      "meaning": "huge"
+    },
+    {
+      "word": "大工",
+      "reading": "だいく",
+      "meaning": "carpenter"
+    },
+    {
+      "word": "増大",
+      "reading": "ぞうだい",
+      "meaning": "enlargement"
+    },
+    {
+      "word": "大小",
+      "reading": "だいしょう",
+      "meaning": "size"
+    },
+    {
+      "word": "大木",
+      "reading": "たいぼく",
+      "meaning": "large tree"
+    },
+    {
+      "word": "大抵",
+      "reading": "たいてい",
+      "meaning": "mostly"
+    },
+    {
+      "word": "大部",
+      "reading": "たいぶ",
+      "meaning": "lengthy (of a book, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君が思っているほど大してお金を持っていない。",
+      "reading": null,
+      "english": "I don't have as much money as you think.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その市場は急速に拡大している。",
+      "reading": null,
+      "english": "That market has been rapidly expanding.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アジア諸国からの輸入品は近年増大している。",
+      "reading": null,
+      "english": "The imports from Asian countries have expanded recently.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はその発見を大して重視しない。",
+      "reading": null,
+      "english": "I do not make much of that discovery.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "言うまでもなく、サーバの負荷が増大してしまうのです。",
+      "reading": null,
+      "english": "Obviously, the server load will increase as a result.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "住民",
+    "reading": "じゅうみん",
+    "romaji": "juumin",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "penduduk",
+          "warga"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "住宅",
+      "reading": "じゅうたく",
+      "meaning": "penduduk, perumahan"
+    },
+    {
+      "word": "国民",
+      "reading": "こくみん",
+      "meaning": "nasional, rakyat, warga negara"
+    },
+    {
+      "word": "農民",
+      "reading": "のうみん",
+      "meaning": "petani, buruh tani"
+    },
+    {
+      "word": "住",
+      "reading": "じゅう",
+      "meaning": "tempat tinggal, hidup"
+    },
+    {
+      "word": "市民",
+      "reading": "しみん",
+      "meaning": "warga negara"
+    },
+    {
+      "word": "民間",
+      "reading": "みんかん",
+      "meaning": "swasta, sipil"
+    },
+    {
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "alamat; tempat tinggal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その島の住民は友好的だ。",
+      "reading": null,
+      "indonesian": "The inhabitants of the island are friendly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その工事は住民からの強い反対にもかかわらず、続けられた。",
+      "reading": null,
+      "indonesian": "They carried on with the construction in the face of strong opposition from the residents.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その計画は住民の反対にあった。",
+      "reading": null,
+      "indonesian": "The plan met with opposition from the inhabitants.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この新しいバス便は住民の要求にかなうでしょう。",
+      "reading": null,
+      "indonesian": "This new bus service will meet the residents' needs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

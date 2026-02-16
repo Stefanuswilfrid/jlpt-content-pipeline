@@ -1,0 +1,172 @@
+{
+  "definition": {
+    "word": "整備",
+    "reading": "せいび",
+    "romaji": "seibi",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "perawatan",
+          "perbaikan menyeluruh"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "putting in place",
+          "development",
+          "improvement",
+          "preparation",
+          "provision",
+          "equipping",
+          "outfitting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "調整",
+      "reading": "ちょうせい",
+      "meaning": "pengaturan, penyesuaian, penyetelan"
+    },
+    {
+      "word": "警備",
+      "reading": "けいび",
+      "meaning": "pertahanan, penjagaan, kepolisian, keamanan"
+    },
+    {
+      "word": "予備",
+      "reading": "よび",
+      "meaning": "persiapan, cadangan"
+    },
+    {
+      "word": "整数",
+      "reading": "せいすう",
+      "meaning": "bilangan bulat"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "mempersiapkan"
+    },
+    {
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "peralatan, perangkat, fasilitas"
+    },
+    {
+      "word": "守備",
+      "reading": "しゅび",
+      "meaning": "pertahanan"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "penyortiran, pengaturan"
+    },
+    {
+      "word": "装備",
+      "reading": "そうび",
+      "meaning": "peralatan"
+    },
+    {
+      "word": "軍備",
+      "reading": "ぐんび",
+      "meaning": "persenjataan, persiapan militer"
+    },
+    {
+      "word": "備える",
+      "reading": "そなえる",
+      "meaning": "mempersiapkan, menyediakan, menyimpan"
+    },
+    {
+      "word": "整える",
+      "reading": "ととのえる",
+      "meaning": "untuk menata, mengatur, menyesuaikan; bersiap-siap; mengumpulkan uang"
+    },
+    {
+      "word": "備え付ける",
+      "reading": "そなえつける",
+      "meaning": "menyediakan, melengkapi, memasang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その車は整備が済んでいる。",
+      "reading": null,
+      "indonesian": "The car is ready.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "地方の道路整備のための財源確保が必要です。",
+      "reading": null,
+      "indonesian": "It is necessary to secure financing for local road maintenance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "車はいつも整備しておきなさい。",
+      "reading": null,
+      "indonesian": "You should always keep your car in good order.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その車は整備が済んでいる。",
+      "reading": null,
+      "indonesian": "The car is ready.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "車はいつも整備しておきなさい。",
+      "reading": null,
+      "indonesian": "You should always keep your car in good order.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "整備士さんのとこに持ってって、修理してもらいなよ。",
+      "reading": null,
+      "indonesian": "Take it to a mechanic, and get it fixed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "地方の道路整備のための財源確保が必要です。",
+      "reading": null,
+      "indonesian": "It is necessary to secure financing for local road maintenance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この地域では水インフラの整備が十分でない。",
+      "reading": null,
+      "indonesian": "The maintenance on the water infrastructures in this region is insufficient.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

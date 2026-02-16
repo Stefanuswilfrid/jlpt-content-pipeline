@@ -1,0 +1,142 @@
+{
+  "definition": {
+    "word": "乱暴",
+    "reading": "らんぼう",
+    "romaji": "ranbou",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kasar",
+          "kejam",
+          "tidak sopan"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rough (handling, language, etc.)",
+          "reckless",
+          "careless",
+          "coarse",
+          "rude",
+          "unreasonable (e.g. demand)",
+          "wild (e.g. argument)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "rape",
+          "sexual assault"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "暴れる",
+      "reading": "あばれる",
+      "meaning": "bertindak kasar, mengamuk"
+    },
+    {
+      "word": "吹雪",
+      "reading": "ふぶき",
+      "meaning": "badai salju"
+    },
+    {
+      "word": "暴風",
+      "reading": "ぼうふう",
+      "meaning": "badai, angin topan, angin kencang"
+    },
+    {
+      "word": "乱れる",
+      "reading": "みだれる",
+      "meaning": "menjadi bingung, menjadi kacau, menjadi terganggu"
+    },
+    {
+      "word": "内乱",
+      "reading": "ないらん",
+      "meaning": "perang saudara, konflik dalam negeri"
+    },
+    {
+      "word": "暴露",
+      "reading": "ばくろ",
+      "meaning": "pengungkapan, penyingkapan, penyingkapan"
+    },
+    {
+      "word": "混乱",
+      "reading": "こんらん",
+      "meaning": "kekacauan, kebingungan, kerusuhan"
+    },
+    {
+      "word": "暴力",
+      "reading": "ぼうりょく",
+      "meaning": "kekerasan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "乱暴狼藉",
+      "reading": "らんぼうろうぜき",
+      "meaning": "running amok",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "デニスは時々乱暴なことをする。",
+      "reading": null,
+      "indonesian": "Dennis can be very wild sometimes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "乱暴な言葉を使ってはいけない。",
+      "reading": null,
+      "indonesian": "Don't be rough in speech.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "乱暴なことをしなくてもその問題は解決できる。",
+      "reading": null,
+      "indonesian": "You can solve the problem in nonviolent ways.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "弟の乱暴はこのごろ目に余る。",
+      "reading": null,
+      "indonesian": "My brother has been much too rowdy lately.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "デニスは時々乱暴なことをする。",
+      "reading": null,
+      "indonesian": "Dennis can be very wild sometimes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

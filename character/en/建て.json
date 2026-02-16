@@ -1,0 +1,43 @@
+{
+  "definition": {
+    "word": "建て",
+    "reading": "だて",
+    "romaji": "date",
+    "jlpt": "N4",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "indicates storeys, structures, or materials used in a building"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "indicates denomination"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "建てる",
+      "reading": "たてる",
+      "meaning": "to build"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "下戸の建てた蔵はない",
+      "reading": "げこのたてたくらはない",
+      "meaning": "don't act all high and mighty just because you don't drink",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

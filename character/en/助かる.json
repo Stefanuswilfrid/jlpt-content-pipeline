@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "助かる",
+    "reading": "たすかる",
+    "romaji": "tasukaru",
+    "jlpt": "N3",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be saved",
+          "to be rescued",
+          "to survive"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to escape harm",
+          "to be spared damage"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be helped",
+          "to be saved trouble"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "援助",
+      "reading": "えんじょ",
+      "meaning": "assistance"
+    },
+    {
+      "word": "助手",
+      "reading": "じょしゅ",
+      "meaning": "assistant"
+    },
+    {
+      "word": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "relief"
+    },
+    {
+      "word": "助ける",
+      "reading": "たすける",
+      "meaning": "to save"
+    },
+    {
+      "word": "助詞",
+      "reading": "じょし",
+      "meaning": "particle"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それはとても助かる。",
+      "reading": null,
+      "english": "That will save me a lot of trouble.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはとても助かる。",
+      "reading": null,
+      "english": "That will save me a lot of trouble.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "日本語で話してくれると助かるんだけどな。",
+      "reading": null,
+      "english": "It would really be helpful if they spoke to me in Japanese, though...",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本語で話してくれると助かるんだけどな。",
+      "reading": null,
+      "english": "It would really be helpful if they spoke to me in Japanese, though...",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "definition": {
+    "word": "往復",
+    "reading": "おうふく",
+    "romaji": "oufuku",
+    "jlpt": "N2",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "(col) perjalanan pulang pergi",
+          "pergi dan pulang",
+          "tiket pulang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "round-trip ticket",
+          "return ticket"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "correspondence",
+          "exchanging (of letters)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "keeping company (with)",
+          "socializing",
+          "visiting each other"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "jamak, banyak"
+    },
+    {
+      "word": "一応",
+      "reading": "いちおう",
+      "meaning": "untuk sementara waktu, untuk saat ini"
+    },
+    {
+      "word": "回復",
+      "reading": "かいふく",
+      "meaning": "pemulihan (dari penyakit), rehabilitasi, restorasi"
+    },
+    {
+      "word": "復活",
+      "reading": "ふっかつ",
+      "meaning": "kebangkitan (misalnya, musikal), restorasi"
+    },
+    {
+      "word": "復興",
+      "reading": "ふっこう",
+      "meaning": "kebangkitan, renaisans, rekonstruksi"
+    },
+    {
+      "word": "復旧",
+      "reading": "ふっきゅう",
+      "meaning": "pemulihan, restitusi, rehabilitasi"
+    },
+    {
+      "word": "行く",
+      "reading": "いく",
+      "meaning": "untuk pergi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "往復旅行？片道だけです。",
+      "reading": null,
+      "indonesian": "Round trip? Only one-way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "往復旅行？片道だけです。",
+      "reading": null,
+      "indonesian": "Round trip? Only one-way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "各目的地までの往復料金は下記の通りです。",
+      "reading": null,
+      "indonesian": "Round-trip fares to each destination are as follows.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "往復びんたを食らった。",
+      "reading": null,
+      "indonesian": "I got slapped on both cheeks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "往復ですか、片道ですか。",
+      "reading": null,
+      "indonesian": "Round trip or one-way?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのバスは学校と駅の間を往復します。",
+      "reading": null,
+      "indonesian": "The bus runs between the school and the station.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "シカゴまで往復一枚ください。",
+      "reading": null,
+      "indonesian": "I want a round-trip ticket to Chicago.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この女性は、その往復を２０時間以内で終えた。",
+      "reading": null,
+      "indonesian": "She completed the trip in less than 20 hours.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ボストンからニューヨークまでのチケット往復で１枚ください。",
+      "reading": null,
+      "indonesian": "I'd like a round-trip ticket from Boston to New York.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

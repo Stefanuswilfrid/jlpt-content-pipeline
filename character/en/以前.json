@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "以前",
+    "reading": "いぜん",
+    "romaji": "izen",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "before",
+          "prior to",
+          "ago"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "the past",
+          "before",
+          "previously",
+          "former times"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "以来",
+      "reading": "いらい",
+      "meaning": "since"
+    },
+    {
+      "word": "前進",
+      "reading": "ぜんしん",
+      "meaning": "advance"
+    },
+    {
+      "word": "当たり前",
+      "reading": "あたりまえ",
+      "meaning": "natural"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "natural"
+    },
+    {
+      "word": "前者",
+      "reading": "ぜんしゃ",
+      "meaning": "the former"
+    },
+    {
+      "word": "お前",
+      "reading": "おまえ",
+      "meaning": "you"
+    },
+    {
+      "word": "前もって",
+      "reading": "まえもって",
+      "meaning": "in advance"
+    },
+    {
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "morning"
+    },
+    {
+      "word": "以内",
+      "reading": "いない",
+      "meaning": "within"
+    },
+    {
+      "word": "直前",
+      "reading": "ちょくぜん",
+      "meaning": "just before"
+    },
+    {
+      "word": "名前",
+      "reading": "なまえ",
+      "meaning": "name"
+    },
+    {
+      "word": "以下",
+      "reading": "いか",
+      "meaning": "not exceeding ..."
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "京都は以前日本の首都でした。",
+      "reading": null,
+      "english": "Kyoto was the former capital of Japan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "以前ほど金持ちではない。",
+      "reading": null,
+      "english": "I'm not as rich as I was.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

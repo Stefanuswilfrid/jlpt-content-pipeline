@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "思う",
+    "reading": "おもう",
+    "romaji": "omou",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "berpikir",
+          "merasa"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to think (of doing)",
+          "to plan (to do)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to judge",
+          "to assess",
+          "to regard"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to imagine",
+          "to suppose",
+          "to dream"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to expect",
+          "to look forward to"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "思い出す",
+      "reading": "おもいだす",
+      "meaning": "untuk mengingat, untuk mengenang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "思う壺にはまる",
+      "reading": "おもうつぼにはまる",
+      "meaning": "to turn out just as one wished",
+      "type": "idiom"
+    },
+    {
+      "word": "思う念力岩をも通す",
+      "reading": "おもうねんりきいわをもとおす",
+      "meaning": "where there is a will, there is a way",
+      "type": "proverb"
+    },
+    {
+      "word": "思う事言わねば腹膨る",
+      "reading": "おもうこといわねばはらふくる",
+      "meaning": "if you don't speak your mind, you'll feel uneasy afterwards",
+      "type": "proverb"
+    },
+    {
+      "word": "親思う心にまさる親心",
+      "reading": "おやおもうこころにまさるおやごころ",
+      "meaning": "a parent's love is greater than a child's love for its parents",
+      "type": "proverb"
+    },
+    {
+      "word": "いつまでもあると思うな親と金",
+      "reading": "いつまでもあるとおもうなおやとかね",
+      "meaning": "you cannot rely on parents and money to stay around forever",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "みんなもそうなのかな、と思うことくらいしかできない。",
+      "reading": null,
+      "indonesian": "I can only wonder if this is the same for everyone else.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "indonesian": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何をしてたと思う？",
+      "reading": null,
+      "indonesian": "What do you think I've been doing?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

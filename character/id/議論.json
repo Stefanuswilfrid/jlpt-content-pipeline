@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "議論",
+    "reading": "ぎろん",
+    "romaji": "giron",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "argumen",
+          "diskusi",
+          "perselisihan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "議員",
+      "reading": "ぎいん",
+      "meaning": "anggota parlemen, kongres, atau dewan"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "Diet, kongres, parlemen"
+    },
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "ketua"
+    },
+    {
+      "word": "協議",
+      "reading": "きょうぎ",
+      "meaning": "konferensi, diskusi, negosiasi"
+    },
+    {
+      "word": "結論",
+      "reading": "けつろん",
+      "meaning": "kesimpulan"
+    },
+    {
+      "word": "論文",
+      "reading": "ろんぶん",
+      "meaning": "tesis, makalah"
+    },
+    {
+      "word": "論争",
+      "reading": "ろんそう",
+      "meaning": "kontroversi, perselisihan"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "misteri, rasa ingin tahu"
+    },
+    {
+      "word": "論じる",
+      "reading": "ろんじる",
+      "meaning": "berdebat, berdiskusi"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "rapat bisnis; konferensi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "議論百出",
+      "reading": "ぎろんひゃくしゅつ",
+      "meaning": "diverse arguments arising in great numbers",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,166 @@
+{
+  "definition": {
+    "word": "付く",
+    "reading": "つく",
+    "romaji": "tsuku",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be attached",
+          "to be connected with",
+          "to adhere",
+          "to stick",
+          "to cling"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to remain imprinted",
+          "to scar",
+          "to stain",
+          "to dye"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to bear (fruit, interest, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be acquired (of a habit, ability, etc.)",
+          "to increase (of strength, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to take root"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to accompany",
+          "to attend",
+          "to follow",
+          "to study with"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to side with",
+          "to belong to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to possess",
+          "to haunt"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "片付く",
+      "reading": "かたづく",
+      "meaning": "to be put in order"
+    },
+    {
+      "word": "突く",
+      "reading": "つつく",
+      "meaning": "to poke (repeatedly, lightly)"
+    },
+    {
+      "word": "基づく",
+      "reading": "もとづく",
+      "meaning": "to be based (on)"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "reception (desk)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "目鼻が付く",
+      "reading": "めはながつく",
+      "meaning": "to complete most of something",
+      "type": "idiom"
+    },
+    {
+      "word": "ケリが付く",
+      "reading": "ケリがつく",
+      "meaning": "to be settled",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "吠える犬はめったに噛み付く事はない。",
+      "reading": null,
+      "english": "Barking dogs seldom bite.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "すぐにそっちに追い付くよ。",
+      "reading": null,
+      "english": "I'll catch up with you soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この商品にはおまけが付く。",
+      "reading": null,
+      "english": "This article comes with a free gift.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このテープはよく付く。",
+      "reading": null,
+      "english": "This tape sticks well.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

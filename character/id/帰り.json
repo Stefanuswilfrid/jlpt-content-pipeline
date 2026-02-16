@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "帰り",
+    "reading": "かえり",
+    "romaji": "kaeri",
+    "jlpt": "N4",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kembali",
+          "datang kembali"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "帰宅",
+      "reading": "きたく",
+      "meaning": "pulang ke rumah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "行き大名の帰り乞食",
+      "reading": "ゆきだいみょうのかえりこじき",
+      "meaning": "spending lavishly on the outward journey and having nothing left for the return",
+      "type": "idiom"
+    },
+    {
+      "word": "行きはよいよい帰りは怖い",
+      "reading": "いきはよいよいかえりはこわい",
+      "meaning": "going there is easy but coming back is scary",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "家に帰りましょうか。",
+      "reading": null,
+      "indonesian": "Why don't we go home?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "家に帰りましょうか。",
+      "reading": null,
+      "indonesian": "Why don't we go home?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "家に帰りましょうか。",
+      "reading": null,
+      "indonesian": "Shall we go home?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "すぐに家に帰りなさい。",
+      "reading": null,
+      "indonesian": "You must go home at once.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "帰りたいなら帰っていいよ。",
+      "reading": null,
+      "indonesian": "You can go home if you like.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "帰り道は分かりますか。",
+      "reading": null,
+      "indonesian": "Can you find your way home?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "帰り道で道草を食うんじゃないよ。",
+      "reading": null,
+      "indonesian": "Don't fool around on your way home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "帰り道で道草するんじゃないのよ。",
+      "reading": null,
+      "indonesian": "Don't play around too much after school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "帰り道でパレードを見かけた。",
+      "reading": null,
+      "indonesian": "I caught sight of a parade on my way home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

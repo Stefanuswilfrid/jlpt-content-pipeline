@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "尚",
+    "reading": "なお",
+    "romaji": "nao",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "still",
+          "yet"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "more",
+          "still more",
+          "greater",
+          "further"
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "furthermore",
+          "in addition",
+          "moreover",
+          "note that ..."
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "as if",
+          "just like",
+          "as though"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "時期尚早",
+      "reading": "じきしょうそう",
+      "meaning": "premature",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "読書尚友",
+      "reading": "どくしょしょうゆう",
+      "meaning": "by reading books you can count the wise philosophers of the past as friends",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "衣ばかりで和尚はできぬ",
+      "reading": "ころもばかりでおしょうはできぬ",
+      "meaning": "the clothes do not make the man",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "大きなお世話だ。",
+      "reading": null,
+      "english": "It's none of your business.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "よけいなお世話だ。",
+      "reading": null,
+      "english": "It's none of your business.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "大きなお世話だ。",
+      "reading": null,
+      "english": "Mind your own business!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "よけいなお世話だ。",
+      "reading": null,
+      "english": "Mind your own business!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "大きなお世話だわ。",
+      "reading": null,
+      "english": "Mind your own business!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "早急なお返事をお待ちしております。",
+      "reading": null,
+      "english": "I am looking forward to hearing from you soon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "気をとりなおしてもう一度やってごらん。",
+      "reading": null,
+      "english": "Take heart and do it again.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語は話せません。スペイン語はなおさらできません。",
+      "reading": null,
+      "english": "I cannot speak English, much less Spanish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "流石",
+    "reading": "さすが",
+    "romaji": "sasuga",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "as one would expect",
+          "just as you'd expect (from)",
+          "just like (someone)"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "still",
+          "all the same",
+          "after all"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "even ... (e.g. \"even a genius\")"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一流",
+      "reading": "いちりゅう",
+      "meaning": "first-class"
+    },
+    {
+      "word": "流域",
+      "reading": "りゅういき",
+      "meaning": "drainage basin"
+    },
+    {
+      "word": "電流",
+      "reading": "でんりゅう",
+      "meaning": "electric current"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "exchange (e.g. cultural)"
+    },
+    {
+      "word": "磁石",
+      "reading": "じしゃく",
+      "meaning": "magnet"
+    },
+    {
+      "word": "合流",
+      "reading": "ごうりゅう",
+      "meaning": "confluence (of rivers)"
+    },
+    {
+      "word": "直流",
+      "reading": "ちょくりゅう",
+      "meaning": "direct current"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "fashion"
+    },
+    {
+      "word": "流す",
+      "reading": "ながす",
+      "meaning": "to drain"
+    },
+    {
+      "word": "化石",
+      "reading": "かせき",
+      "meaning": "fossil"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "流石！",
+      "reading": null,
+      "english": "Great!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "流石！",
+      "reading": null,
+      "english": "Great!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "流石！",
+      "reading": null,
+      "english": "As expected!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "流石！",
+      "reading": null,
+      "english": "As expected!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

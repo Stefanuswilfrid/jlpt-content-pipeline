@@ -1,0 +1,112 @@
+{
+  "definition": {
+    "word": "如何しても",
+    "reading": "どうしても",
+    "romaji": "doushitemo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "dengan segala cara",
+          "apa pun yang terjadi",
+          "sekeras apa pun seseorang berusaha."
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "whether (one is) willing or not",
+          "willingly or unwillingly",
+          "willy-nilly"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "on no account",
+          "by no means"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "in the end",
+          "in the long run",
+          "after all",
+          "eventually"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "entah bagaimana, dengan cara apa pun, dengan satu atau lain cara"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "dengan segala cara, semuanya"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "Mengapa, untuk apa?"
+    },
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "sesuatu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうしても自分の思い通りにしたがるね。",
+      "reading": null,
+      "indonesian": "You will have your own way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銀行のローンを返すのに、どうしてもお金が必要です。",
+      "reading": null,
+      "indonesian": "I've got to get some money somehow to repay the bank loan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "引出しがどうしても開かないんだよ。",
+      "reading": null,
+      "indonesian": "The drawer won't open.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "フローズン・ヨーグルトがどうしても食べたい。",
+      "reading": null,
+      "indonesian": "I'm dying for frozen yogurt.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

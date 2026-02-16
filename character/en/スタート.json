@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "スタート",
+    "reading": "スタート",
+    "romaji": "sutaato",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "start",
+          "beginning"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "starting (e.g. a race)",
+          "departing",
+          "starting point",
+          "starting line"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その走者はうまいスタートをした。",
+      "reading": null,
+      "english": "The runner got a good start.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お茶とコーヒー、それが１日のスタートを助ける。",
+      "reading": null,
+      "english": "Tea and coffee helps to start the day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "成功しようと思うなら、いいスタートを切らねばならない。",
+      "reading": null,
+      "english": "If you are to succeed, you must make a good start.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私たちの新学年がスタートするのは四月です。",
+      "reading": null,
+      "english": "It is in April that our school years start.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "子供らは二人一組になったスタートした。",
+      "reading": null,
+      "english": "The children started in pairs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

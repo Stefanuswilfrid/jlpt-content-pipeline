@@ -1,0 +1,232 @@
+{
+  "definition": {
+    "word": "解散",
+    "reading": "かいさん",
+    "romaji": "kaisan",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "breaking up (a meeting, gathering, etc.)",
+          "dispersal (e.g. of a crowd)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "dissolution (of a company, organization, etc.)",
+          "winding-up",
+          "disbandment",
+          "split-up"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "dissolution (of the Diet, Parliament, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "解放",
+      "reading": "かいほう",
+      "meaning": "release"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "explanation"
+    },
+    {
+      "word": "散らかす",
+      "reading": "ちらかす",
+      "meaning": "to scatter around"
+    },
+    {
+      "word": "分解",
+      "reading": "ぶんかい",
+      "meaning": "disassembly"
+    },
+    {
+      "word": "解答",
+      "reading": "かいとう",
+      "meaning": "answer"
+    },
+    {
+      "word": "散らかる",
+      "reading": "ちらかる",
+      "meaning": "to be in disorder"
+    },
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "settlement"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "opinion"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "understanding"
+    },
+    {
+      "word": "解除",
+      "reading": "かいじょ",
+      "meaning": "termination (of a contract)"
+    },
+    {
+      "word": "拡散",
+      "reading": "かくさん",
+      "meaning": "spreading"
+    },
+    {
+      "word": "解釈",
+      "reading": "かいしゃく",
+      "meaning": "interpretation"
+    },
+    {
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "misunderstanding"
+    },
+    {
+      "word": "了解",
+      "reading": "りょうかい",
+      "meaning": "comprehension"
+    },
+    {
+      "word": "溶かす",
+      "reading": "とかす",
+      "meaning": "to melt"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "議会は解散した。",
+      "reading": null,
+      "english": "Parliament has been dissolved.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会合は８時に解散した。",
+      "reading": null,
+      "english": "The meeting broke up at eight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会は八時に解散した。",
+      "reading": null,
+      "english": "The meeting broke up at eight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会は５時に解散となった。",
+      "reading": null,
+      "english": "The meeting broke up at five.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの人気グループが解散するそうだ。",
+      "reading": null,
+      "english": "I hear that popular group will be disbanded.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "集会は７時に解散した。",
+      "reading": null,
+      "english": "The meeting broke up at seven.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "首相は国会を解散した。",
+      "reading": null,
+      "english": "The prime minister dissolved the Diet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは駅で３時に解散した。",
+      "reading": null,
+      "english": "We parted at the station at three.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "指揮者はその公園でデモ隊を解散させた。",
+      "reading": null,
+      "english": "The leader dismissed the demonstrators in the park.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "国会は近く解散するだろう。",
+      "reading": null,
+      "english": "The Diet will soon be dissolved.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "国会は解散するだろう。",
+      "reading": null,
+      "english": "It's likely the Diet will be dissolved.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "国会は解散された。",
+      "reading": null,
+      "english": "The Diet has been dissolved.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "警察は、群衆を解散させた。",
+      "reading": null,
+      "english": "The police broke up the crowd.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

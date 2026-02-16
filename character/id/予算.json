@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "予算",
+    "reading": "よさん",
+    "romaji": "yosan",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "perkiraan",
+          "anggaran"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaning": "harapan, antisipasi, prediksi"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediksi, estimasi"
+    },
+    {
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "pencegahan, perlindungan terhadap"
+    },
+    {
+      "word": "計算",
+      "reading": "けいさん",
+      "meaning": "perhitungan, penaksiran"
+    },
+    {
+      "word": "予報",
+      "reading": "よほう",
+      "meaning": "ramalan, prediksi"
+    },
+    {
+      "word": "予期",
+      "reading": "よき",
+      "meaning": "harapan, perkiraan"
+    },
+    {
+      "word": "精算",
+      "reading": "せいさん",
+      "meaning": "perhitungan tepat, penyesuaian"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "rencana, pengaturan, jadwal"
+    },
+    {
+      "word": "予備",
+      "reading": "よび",
+      "meaning": "persiapan, cadangan"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "reservasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "うちの予算ではそういうぜいたくはできません。",
+      "reading": null,
+      "indonesian": "Our budget won't allow that luxury.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "予算はどのくらいでしょうか。",
+      "reading": null,
+      "indonesian": "How much would you want to pay for the tour?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

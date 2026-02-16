@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "否定",
+    "reading": "ひてい",
+    "romaji": "hitei",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "denial",
+          "negation",
+          "repudiation",
+          "disavowal"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "negation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "NOT operation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "decision"
+    },
+    {
+      "word": "安定",
+      "reading": "あんてい",
+      "meaning": "stability"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "fixed period"
+    },
+    {
+      "word": "否",
+      "reading": "ひ",
+      "meaning": "no"
+    },
+    {
+      "word": "否",
+      "reading": "いな",
+      "meaning": "no"
+    },
+    {
+      "word": "勘定",
+      "reading": "かんじょう",
+      "meaning": "calculation"
+    },
+    {
+      "word": "仮定",
+      "reading": "かてい",
+      "meaning": "assumption"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "plans"
+    },
+    {
+      "word": "一定",
+      "reading": "いってい",
+      "meaning": "to fix"
+    },
+    {
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "designation"
+    },
+    {
+      "word": "特定",
+      "reading": "とくてい",
+      "meaning": "specific"
+    },
+    {
+      "word": "定員",
+      "reading": "ていいん",
+      "meaning": "fixed number (of people)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

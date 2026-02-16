@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "こっそり",
+    "reading": "こっそり",
+    "romaji": "kossori",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "stealthily",
+          "secretly",
+          "in secret"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これもまたおとうさんがこっそりと悲しい事実を告げた。",
+      "reading": null,
+      "english": "Again his father insisted on another private conversation and broke the sad news.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "夕食後、おとうさんはジョージをこっそりと呼び出した。",
+      "reading": null,
+      "english": "After dinner, George's dad took him aside.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

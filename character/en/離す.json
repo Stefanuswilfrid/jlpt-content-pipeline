@@ -1,0 +1,41 @@
+{
+  "definition": {
+    "word": "離す",
+    "reading": "はなす",
+    "romaji": "hanasu",
+    "jlpt": "N3",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to separate",
+          "to part",
+          "to divide",
+          "to keep apart"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 2,
+    "type": "nakadaka"
+  },
+  "related": [
+    {
+      "word": "離れる",
+      "reading": "はなれる",
+      "meaning": "to be separated"
+    },
+    {
+      "word": "離婚",
+      "reading": "りこん",
+      "meaning": "divorce"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

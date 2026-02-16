@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "好み",
+    "reading": "このみ",
+    "romaji": "konomi",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "liking",
+          "taste",
+          "fancy",
+          "fondness"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "wish",
+          "desire",
+          "choice",
+          "preference"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "友好",
+      "reading": "ゆうこう",
+      "meaning": "friendship"
+    },
+    {
+      "word": "好き好き",
+      "reading": "すきずき",
+      "meaning": "matter of taste"
+    },
+    {
+      "word": "好き",
+      "reading": "すき",
+      "meaning": "liking"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "good luck"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の色に対する好みは感心しない。",
+      "reading": null,
+      "english": "I don't like your taste in color.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの色の好みは好きじゃないな。",
+      "reading": null,
+      "english": "I don't like your taste in color.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "牛肉と小羊の肉のうちどちらがお好みですか。",
+      "reading": null,
+      "english": "Have you got any preference between beef and lamb?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "めいめいに自分の好みがある。",
+      "reading": null,
+      "english": "Each has his own taste.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どのスカートがお好みですか。",
+      "reading": null,
+      "english": "Which skirt do you like?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "人の好みは説明できないものだ。",
+      "reading": null,
+      "english": "There is no accounting for tastes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

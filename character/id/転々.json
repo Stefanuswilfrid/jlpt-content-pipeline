@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "転々",
+    "reading": "てんてん",
+    "romaji": "tenten",
+    "jlpt": "N2",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "dari satu ke yang lain"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "rolling about"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "移転",
+      "reading": "いてん",
+      "meaning": "pindah, transfer"
+    },
+    {
+      "word": "回転",
+      "reading": "かいてん",
+      "meaning": "rotasi, berputar"
+    },
+    {
+      "word": "転勤",
+      "reading": "てんきん",
+      "meaning": "transfer (ke kantor lain di perusahaan yang sama)"
+    },
+    {
+      "word": "転落",
+      "reading": "てんらく",
+      "meaning": "jatuh, degradasi"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operasi, mengemudi"
+    },
+    {
+      "word": "転換",
+      "reading": "てんかん",
+      "meaning": "mengubah, mengalihkan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "トムはこの二ヶ月間、各地を転々としながら暮らしている。",
+      "reading": null,
+      "indonesian": "Tom has been living out of a suitcase for the past two months.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムはこの二ヶ月間、各地を転々としながら暮らしている。",
+      "reading": null,
+      "indonesian": "Tom has been living out of a suitcase for the past two months.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

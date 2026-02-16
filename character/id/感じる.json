@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "感じる",
+    "reading": "かんじる",
+    "romaji": "kanjiru",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk merasakan",
+          "untuk memahami"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be moved (by)",
+          "to be touched (by)",
+          "to be impressed (by)",
+          "to respond (to)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become infected with (an illness)",
+          "to catch"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "sangat terharu, gembira"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "terima kasih, rasa syukur"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "kekaguman"
+    },
+    {
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "indra, sensasi"
+    },
+    {
+      "word": "感激",
+      "reading": "かんげき",
+      "meaning": "emosi mendalam, kesan, inspirasi"
+    },
+    {
+      "word": "感情",
+      "reading": "かんじょう",
+      "meaning": "emosi, perasaan, sentimen"
+    },
+    {
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "kesan (seseorang), pikiran (seseorang)"
+    },
+    {
+      "word": "感ずる",
+      "reading": "かんずる",
+      "meaning": "untuk merasakan, untuk memahami"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "金の必要を感じる。",
+      "reading": null,
+      "indonesian": "I feel the want of money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "休息をすれば必ず気分がさわやかに感じる。",
+      "reading": null,
+      "indonesian": "If we were to rest a little, we would feel surely feel much more refreshed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何か感じる。",
+      "reading": null,
+      "indonesian": "I feel something.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そうさハイハイハイハイ風を感じる事もできるのさ。",
+      "reading": null,
+      "indonesian": "Oh, now I feel the wind blow hi, hi, hi, hi.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

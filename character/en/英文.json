@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "英文",
+    "reading": "えいぶん",
+    "romaji": "eibun",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "English writing",
+          "English sentence",
+          "English text"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "English literature",
+          "English lit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文芸",
+      "reading": "ぶんげい",
+      "meaning": "literature"
+    },
+    {
+      "word": "文献",
+      "reading": "ぶんけん",
+      "meaning": "literature"
+    },
+    {
+      "word": "英和",
+      "reading": "えいわ",
+      "meaning": "English-Japanese"
+    },
+    {
+      "word": "文体",
+      "reading": "ぶんたい",
+      "meaning": "literary style"
+    },
+    {
+      "word": "文脈",
+      "reading": "ぶんみゃく",
+      "meaning": "context (of a passage)"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaning": "stationery"
+    },
+    {
+      "word": "和英",
+      "reading": "わえい",
+      "meaning": "Japanese-English"
+    },
+    {
+      "word": "文",
+      "reading": "ふみ",
+      "meaning": "letter"
+    },
+    {
+      "word": "英雄",
+      "reading": "えいゆう",
+      "meaning": "hero"
+    },
+    {
+      "word": "文化財",
+      "reading": "ぶんかざい",
+      "meaning": "cultural assets"
+    },
+    {
+      "word": "文句",
+      "reading": "もんく",
+      "meaning": "complaint"
+    },
+    {
+      "word": "本文",
+      "reading": "ほんぶん",
+      "meaning": "text (of a book, document, etc.)"
+    },
+    {
+      "word": "作文",
+      "reading": "さくぶん",
+      "meaning": "writing (an essay, prose, etc.)"
+    },
+    {
+      "word": "文",
+      "reading": "ぶん",
+      "meaning": "sentence"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この文を英文にしなさい。",
+      "reading": null,
+      "english": "Put this sentence into English.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この内容を６０語の英文で要約しなさい。",
+      "reading": null,
+      "english": "Summarize the contents in 60 English words.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "明日までにこの手紙を英文に直してもらいたい。",
+      "reading": null,
+      "english": "I want to have this letter translated into English by tomorrow.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

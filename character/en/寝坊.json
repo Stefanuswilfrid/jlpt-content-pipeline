@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "寝坊",
+    "reading": "ねぼう",
+    "romaji": "nebou",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "sleeping in late",
+          "oversleeping"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "late riser",
+          "sleepyhead"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "赤ん坊",
+      "reading": "あかんぼう",
+      "meaning": "baby"
+    },
+    {
+      "word": "泥棒",
+      "reading": "どろぼう",
+      "meaning": "thief"
+    },
+    {
+      "word": "寝る",
+      "reading": "ねる",
+      "meaning": "to sleep (lying down)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

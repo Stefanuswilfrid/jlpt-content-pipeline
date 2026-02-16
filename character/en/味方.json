@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "味方",
+    "reading": "みかた",
+    "romaji": "mikata",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "friend",
+          "ally",
+          "supporter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "taking sides (with)",
+          "supporting",
+          "standing by",
+          "backing up"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方々",
+      "reading": "かたがた",
+      "meaning": "people"
+    },
+    {
+      "word": "気味",
+      "reading": "きみ",
+      "meaning": "sensation"
+    },
+    {
+      "word": "地味",
+      "reading": "じみ",
+      "meaning": "plain"
+    },
+    {
+      "word": "方々",
+      "reading": "ほうぼう",
+      "meaning": "here and there"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "one (esp. of two)"
+    },
+    {
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "direction"
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "method"
+    },
+    {
+      "word": "中身",
+      "reading": "なかみ",
+      "meaning": "contents"
+    },
+    {
+      "word": "加味",
+      "reading": "かみ",
+      "meaning": "seasoning"
+    },
+    {
+      "word": "興味",
+      "reading": "きょうみ",
+      "meaning": "interest (in something)"
+    },
+    {
+      "word": "仕方",
+      "reading": "しかた",
+      "meaning": "way"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "hobby"
+    },
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "direction"
+    },
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "early evening (usu. from 3pm to 6pm)"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaning": "both"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "敵を欺くにはまず味方から",
+      "reading": "てきをあざむくにはまずみかたから",
+      "meaning": "in fooling the enemy first deceive your allies",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "どんなことがあっても君の味方をする。",
+      "reading": null,
+      "english": "No matter what happens, I'll stand by you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

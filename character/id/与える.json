@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "与える",
+    "reading": "あたえる",
+    "romaji": "ataeru",
+    "jlpt": "N3",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk memberi"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to provide",
+          "to afford",
+          "to offer",
+          "to supply"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to assign"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cause"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pass (a variable to a function)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "給与",
+      "reading": "きゅうよ",
+      "meaning": "gaji"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

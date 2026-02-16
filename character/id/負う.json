@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "負う",
+    "reading": "おう",
+    "romaji": "ou",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menanggung",
+          "berutang"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take (responsibility)",
+          "to assume",
+          "to accept",
+          "to bear (the blame, costs, etc.)",
+          "to have (a duty, obligation, etc.)",
+          "to become responsible for",
+          "to be burdened with (work, debt, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to suffer (an injury)",
+          "to sustain (a wound)",
+          "to receive",
+          "to incur (a loss, damage, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to owe (a debt of gratitude to)",
+          "to be indebted to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have (something) behind one",
+          "to be backed by"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "負ける",
+      "reading": "まける",
+      "meaning": "kalah (dalam permainan) (v.i.), dikalahkan"
+    },
+    {
+      "word": "背負う",
+      "reading": "せおう",
+      "meaning": "dibebani; dipikul di punggung atau pundak."
+    },
+    {
+      "word": "負け",
+      "reading": "まけ",
+      "meaning": "kekalahan, kehilangan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "笈を負う",
+      "reading": "きゅうをおう",
+      "meaning": "to leave one's hometown to study",
+      "type": "idiom"
+    },
+    {
+      "word": "十字架を背負う",
+      "reading": "じゅうじかをせおう",
+      "meaning": "to have a cross to bear",
+      "type": "idiom"
+    },
+    {
+      "word": "負うた子に教えられて浅瀬を渡る",
+      "reading": "おうたこにおしえられてあさせをわたる",
+      "meaning": "some things can be learned from the young",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

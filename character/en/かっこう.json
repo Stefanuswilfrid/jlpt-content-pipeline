@@ -1,0 +1,117 @@
+{
+  "definition": {
+    "word": "格好",
+    "reading": "かっこう",
+    "romaji": "kakkou",
+    "jlpt": "N4",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shape",
+          "form",
+          "figure",
+          "posture",
+          "pose"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "appearance",
+          "style"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "state",
+          "situation"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "suitable",
+          "fit",
+          "reasonable"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "about"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "価格",
+      "reading": "かかく",
+      "meaning": "price"
+    },
+    {
+      "word": "資格",
+      "reading": "しかく",
+      "meaning": "qualifications"
+    },
+    {
+      "word": "性格",
+      "reading": "せいかく",
+      "meaning": "character (of a person)"
+    },
+    {
+      "word": "友好",
+      "reading": "ゆうこう",
+      "meaning": "friendship"
+    },
+    {
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "passing (an exam)"
+    },
+    {
+      "word": "好み",
+      "reading": "このみ",
+      "meaning": "liking"
+    },
+    {
+      "word": "大好き",
+      "reading": "だいすき",
+      "meaning": "liking very much"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "とても見られたかっこうじゃないよ。",
+      "reading": null,
+      "english": "You're not fit to be seen.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "とても見られたかっこうじゃないよ。",
+      "reading": null,
+      "english": "You're not fit to be seen.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

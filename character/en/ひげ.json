@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "髭",
+    "reading": "ひげ",
+    "romaji": "hige",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "moustache",
+          "mustache",
+          "beard",
+          "whiskers",
+          "sideburns",
+          "facial hair"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "whiskers (on a cat, etc.)",
+          "feelers (on an insect, etc.)",
+          "(chin) tuft"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shadow (on a candlestick chart)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "御髭の塵を払う",
+      "reading": "おひげのちりをはらう",
+      "meaning": "to flatter a higher-up",
+      "type": "idiom"
+    },
+    {
+      "word": "お髭の塵を取る",
+      "reading": "おひげのちりをとる",
+      "meaning": "to flatter a higher-up",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ひげを剃って下さい。",
+      "reading": null,
+      "english": "Please shave my beard.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ひげをそる前に石けんをつける。",
+      "reading": null,
+      "english": "I lather my face before shaving.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この店の店長はひげが生えています。",
+      "reading": null,
+      "english": "The manager of this store is growing a beard.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お父さんがバスルームでひげを剃っている。",
+      "reading": null,
+      "english": "Dad is shaving in the bathroom.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "definition": {
+    "word": "成長",
+    "reading": "せいちょう",
+    "romaji": "seichou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "growth",
+          "development",
+          "growing up",
+          "becoming an adult"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "growth (of a company, the economy, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "chair"
+    },
+    {
+      "word": "賛成",
+      "reading": "さんせい",
+      "meaning": "approval"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "long-term"
+    },
+    {
+      "word": "構成",
+      "reading": "こうせい",
+      "meaning": "composition"
+    },
+    {
+      "word": "成功",
+      "reading": "せいこう",
+      "meaning": "success"
+    },
+    {
+      "word": "成績",
+      "reading": "せいせき",
+      "meaning": "results"
+    },
+    {
+      "word": "完成",
+      "reading": "かんせい",
+      "meaning": "completion"
+    },
+    {
+      "word": "身長",
+      "reading": "しんちょう",
+      "meaning": "height (of a person)"
+    },
+    {
+      "word": "成人",
+      "reading": "せいじん",
+      "meaning": "adult"
+    },
+    {
+      "word": "成年",
+      "reading": "せいねん",
+      "meaning": "adult age"
+    },
+    {
+      "word": "生長",
+      "reading": "せいちょう",
+      "meaning": "growth (of a plant)"
+    },
+    {
+      "word": "特長",
+      "reading": "とくちょう",
+      "meaning": "strong point"
+    },
+    {
+      "word": "社長",
+      "reading": "しゃちょう",
+      "meaning": "company president"
+    },
+    {
+      "word": "長男",
+      "reading": "ちょうなん",
+      "meaning": "eldest son (may be the only son)"
+    },
+    {
+      "word": "部長",
+      "reading": "ぶちょう",
+      "meaning": "head (chief, director) of a section or department"
+    },
+    {
+      "word": "成立",
+      "reading": "せいりつ",
+      "meaning": "formation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "安定成長",
+      "reading": "あんていせいちょう",
+      "meaning": "stable growth",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "会社は今、苦労しながら成長している。",
+      "reading": null,
+      "english": "The company is experiencing growing pains now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "花はつぼみから成長する。",
+      "reading": null,
+      "english": "Blossoms develop from buds.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "リンゴの木が種から成長するとは知らなかった。",
+      "reading": null,
+      "english": "I didn't know apple trees grow from seeds.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "フレッドは成長して外科医になった。",
+      "reading": null,
+      "english": "Fred grew up to be a surgeon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その木はとても高く成長した。",
+      "reading": null,
+      "english": "The tree grew very tall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

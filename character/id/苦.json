@@ -1,0 +1,152 @@
+{
+  "definition": {
+    "word": "苦",
+    "reading": "く",
+    "romaji": "ku",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "masalah",
+          "kekhawatiran",
+          "kesulitan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "duhkha (suffering)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "苦労",
+      "reading": "くろう",
+      "meaning": "kesulitan; penderitaan"
+    },
+    {
+      "word": "苦手",
+      "reading": "にがて",
+      "meaning": "buruk (dalam hal), lemah (dalam hal), tidak suka (terhadap)"
+    },
+    {
+      "word": "苦痛",
+      "reading": "くつう",
+      "meaning": "rasa sakit, penderitaan"
+    },
+    {
+      "word": "苦情",
+      "reading": "くじょう",
+      "meaning": "keluhan, keluh kesah, gerutu"
+    },
+    {
+      "word": "苦心",
+      "reading": "くしん",
+      "meaning": "rasa sakit, masalah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "悪戦苦闘",
+      "reading": "あくせんくとう",
+      "meaning": "hard fighting",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四苦八苦",
+      "reading": "しくはっく",
+      "meaning": "being in dire distress",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無茶苦茶",
+      "reading": "むちゃくちゃ",
+      "meaning": "nonsensical",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "刻苦勉励",
+      "reading": "こっくべんれい",
+      "meaning": "being arduous",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "千辛万苦",
+      "reading": "せんしんばんく",
+      "meaning": "many hardships",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "粒々辛苦",
+      "reading": "りゅうりゅうしんく",
+      "meaning": "toil and moil",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "艱難辛苦",
+      "reading": "かんなんしんく",
+      "meaning": "trial and tribulation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "苦心惨憺",
+      "reading": "くしんさんたん",
+      "meaning": "taking great pains",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "七難八苦",
+      "reading": "しちなんはっく",
+      "meaning": "the Seven Misfortunes and Eight Pains",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "愛別離苦",
+      "reading": "あいべつりく",
+      "meaning": "the pain of separation from loved ones",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はその案を実行するのに少し苦労するだろう。",
+      "reading": null,
+      "indonesian": "You'll have some difficulty in carrying out the plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の父さんは君のためにあんなにも苦労したのだ。",
+      "reading": null,
+      "indonesian": "Your father went through all that trouble for your sake.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空港に行くのに苦労した。",
+      "reading": null,
+      "indonesian": "I had a hard time getting to the airport.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "苦は楽の種。",
+      "reading": null,
+      "indonesian": "No pain, no gain.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

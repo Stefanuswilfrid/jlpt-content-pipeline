@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "ですから",
+    "reading": "ですから",
+    "romaji": "desukara",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "so",
+          "therefore",
+          "accordingly",
+          "consequently",
+          "on those grounds",
+          "that is why",
+          "for that reason"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ですから信じることです。",
+      "reading": null,
+      "english": "So you've got to be a believer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは本当に役にたつものですから、ぜひ買うべきです。",
+      "reading": null,
+      "english": "It's really a very useful thing; you ought to buy it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その箱をお持ちしましょう。重そうですから。",
+      "reading": null,
+      "english": "Let me relieve you of that case. It looks heavy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのように時間を調整してあるのですから。",
+      "reading": null,
+      "english": "That is the regular starting time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

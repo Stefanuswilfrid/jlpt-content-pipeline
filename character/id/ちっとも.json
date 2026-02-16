@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "些とも",
+    "reading": "ちっとも",
+    "romaji": "chittomo",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "tidak sama sekali (kata kerja negatif)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "sedikit, jarang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ちっとも気にしていない。",
+      "reading": null,
+      "indonesian": "I am not the least bit worried.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その子は、話すのがちっともうまくならなかった。",
+      "reading": null,
+      "indonesian": "He made no progress in his speaking ability.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのパーティーはちっとも楽しくなかった。",
+      "reading": null,
+      "indonesian": "I didn't enjoy the party at all.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

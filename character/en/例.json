@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "例",
+    "reading": "れい",
+    "romaji": "rei",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "example",
+          "instance",
+          "illustration",
+          "case"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "precedent"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "custom",
+          "habit",
+          "practice",
+          "usage"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "exception"
+    },
+    {
+      "word": "例え",
+      "reading": "たとえ",
+      "meaning": "example"
+    },
+    {
+      "word": "実例",
+      "reading": "じつれい",
+      "meaning": "example"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "例外のない規則はない",
+      "reading": "れいがいのないきそくはない",
+      "meaning": "there is no rule without exceptions",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "日本には美しい都市が多い。例えば京都、奈良だ。",
+      "reading": null,
+      "english": "Japan is full of beautiful cities. Kyoto and Nara, for instance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本には美しい都市が多い。例えば京都、奈良だ。",
+      "reading": null,
+      "english": "Japan is full of beautiful cities. Kyoto and Nara, for instance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は悪い前例を作ってしまった。",
+      "reading": null,
+      "english": "You've set a bad example.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の場合は例外としよう。",
+      "reading": null,
+      "english": "We will make an exception of your case.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君のワークブックの最初の例題をしなさい。",
+      "reading": null,
+      "english": "Do the first example in your workbook.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "記者：例を１つあげてくださいますか。",
+      "reading": null,
+      "english": "Reporter: Can you give me an example?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "愛する",
+    "reading": "あいする",
+    "romaji": "aisuru",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to love"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "可愛がる",
+      "reading": "かわいがる",
+      "meaning": "to be affectionate to"
+    },
+    {
+      "word": "愛情",
+      "reading": "あいじょう",
+      "meaning": "love"
+    },
+    {
+      "word": "可愛らしい",
+      "reading": "かわいらしい",
+      "meaning": "lovely"
+    },
+    {
+      "word": "愛",
+      "reading": "あい",
+      "meaning": "love"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "花を愛する人々は幸福である。",
+      "reading": null,
+      "english": "Happy are those who love flowers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "愛すること、そして愛されることは、最大の幸福である。",
+      "reading": null,
+      "english": "To love and to be loved is the greatest happiness.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "愛されるより愛する方がすばらしい。",
+      "reading": null,
+      "english": "There is more pleasure in loving than in being loved.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

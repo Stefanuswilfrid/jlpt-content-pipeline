@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "関連",
+    "reading": "かんれん",
+    "romaji": "kanren",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "relation",
+          "connection",
+          "relevance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaning": "concern"
+    },
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "engine"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "連れ",
+      "reading": "つれ",
+      "meaning": "companion"
+    },
+    {
+      "word": "連想",
+      "reading": "れんそう",
+      "meaning": "association (of ideas)"
+    },
+    {
+      "word": "関係",
+      "reading": "かんけい",
+      "meaning": "relation"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "union"
+    },
+    {
+      "word": "関西",
+      "reading": "かんさい",
+      "meaning": "Kansai (region comprising Kyoto, Osaka, Kobe and surrounding prefectures)"
+    },
+    {
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "contacting"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これに関連して何か言いたい事はありますか。",
+      "reading": null,
+      "english": "Do you have anything to say in connection with this?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これに関連してどなたか発言がありますか。",
+      "reading": null,
+      "english": "Do any of you have anything to say in connection with this?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これと関連して知っていることはみな話しなさい。",
+      "reading": null,
+      "english": "Tell me all you know in connection with this.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この関連で重要なのはコントロールグループの行動である。",
+      "reading": null,
+      "english": "It is the behavior of the control group that is important in this connection.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

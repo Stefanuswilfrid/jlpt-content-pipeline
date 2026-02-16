@@ -1,0 +1,227 @@
+{
+  "definition": {
+    "word": "調子",
+    "reading": "ちょうし",
+    "romaji": "choushi",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kondisi",
+          "keadaan",
+          "nada",
+          "intonasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "vein",
+          "mood",
+          "way",
+          "manner",
+          "style",
+          "knack"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "condition",
+          "state of health",
+          "shape"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "impetus",
+          "spur of the moment",
+          "strain"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "trend"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "調査",
+      "reading": "ちょうさ",
+      "meaning": "survei; investigasi"
+    },
+    {
+      "word": "女子",
+      "reading": "じょし",
+      "meaning": "wanita, gadis"
+    },
+    {
+      "word": "男子",
+      "reading": "だんし",
+      "meaning": "pemuda"
+    },
+    {
+      "word": "様子",
+      "reading": "ようす",
+      "meaning": "aspek, keadaan, penampilan"
+    },
+    {
+      "word": "協調",
+      "reading": "きょうちょう",
+      "meaning": "kerja sama, rekonsiliasi, harmoni"
+    },
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "baik-baik saja"
+    },
+    {
+      "word": "電子",
+      "reading": "でんし",
+      "meaning": "elektron; elektronik"
+    },
+    {
+      "word": "王子",
+      "reading": "おうじ",
+      "meaning": "pangeran"
+    },
+    {
+      "word": "菓子",
+      "reading": "かし",
+      "meaning": "permen, manisan"
+    },
+    {
+      "word": "実",
+      "reading": "み",
+      "meaning": "buah, hasil yang baik"
+    },
+    {
+      "word": "双子",
+      "reading": "ふたご",
+      "meaning": "kembar, kembar"
+    },
+    {
+      "word": "強調",
+      "reading": "きょうちょう",
+      "meaning": "penekanan, tekanan, poin yang ditekankan"
+    },
+    {
+      "word": "迷子",
+      "reading": "まいご",
+      "meaning": "anak yang hilang (tersesat)"
+    },
+    {
+      "word": "調整",
+      "reading": "ちょうせい",
+      "meaning": "pengaturan, penyesuaian, penyetelan"
+    },
+    {
+      "word": "子",
+      "reading": "こ",
+      "meaning": "anak"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaning": "anak-anak)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一本調子",
+      "reading": "いっぽんぢょうし",
+      "meaning": "monotone",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "えっと、それの調子はどう？",
+      "reading": null,
+      "indonesian": "Uh... How's that working?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この調子じゃ今週中に終わりそうにないね。",
+      "reading": null,
+      "indonesian": "At this rate, we're not likely to be done before the end of the week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の仕事の調子はどうだい。",
+      "reading": null,
+      "indonesian": "How is your work coming along?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君にギターは本調子だね。",
+      "reading": null,
+      "indonesian": "You play the guitar quite like a professional, don't you?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会議は楽観的な調子で終わった。",
+      "reading": null,
+      "indonesian": "The meeting ended on an optimistic note.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうも体の調子がよくない。",
+      "reading": null,
+      "indonesian": "I don't feel like anything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "よくやっているよ。その調子で続けて。",
+      "reading": null,
+      "indonesian": "You are doing very well. Keep it up.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "やあ、調子はどう。",
+      "reading": null,
+      "indonesian": "Hi! What's new?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もし体の調子がよければうかがいます。",
+      "reading": null,
+      "indonesian": "I will come provided I feel well enough.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

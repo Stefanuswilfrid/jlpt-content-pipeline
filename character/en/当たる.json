@@ -1,0 +1,197 @@
+{
+  "definition": {
+    "word": "当たる",
+    "reading": "あたる",
+    "romaji": "ataru",
+    "jlpt": "N3",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be hit",
+          "to strike"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to touch",
+          "to be in contact",
+          "to be affixed"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be equivalent to",
+          "to be applicable",
+          "to apply to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be right on the money (of a prediction, criticism, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be selected (in a lottery, etc.)",
+          "to win"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be successful",
+          "to go well",
+          "to be a hit"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to face",
+          "to confront"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to lie (in the direction of)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "corresponding to (in meaning, function, etc.)"
+    },
+    {
+      "word": "突き当たる",
+      "reading": "つきあたる",
+      "meaning": "to run into"
+    },
+    {
+      "word": "妥当",
+      "reading": "だとう",
+      "meaning": "valid"
+    },
+    {
+      "word": "当てはまる",
+      "reading": "あてはまる",
+      "meaning": "to apply (of a rule)"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "being in charge (of an area of responsibility)"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "natural"
+    },
+    {
+      "word": "当たり前",
+      "reading": "あたりまえ",
+      "meaning": "natural"
+    },
+    {
+      "word": "弁当",
+      "reading": "べんとう",
+      "meaning": "bento"
+    },
+    {
+      "word": "当てる",
+      "reading": "あてる",
+      "meaning": "to hit"
+    },
+    {
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "estimate"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ヤマが当たる",
+      "reading": "やまがあたる",
+      "meaning": "to have one's predictions turn out exactly right",
+      "type": "idiom"
+    },
+    {
+      "word": "犬も歩けば棒に当たる",
+      "reading": "いぬもあるけばぼうにあたる",
+      "meaning": "bad things happen to those who attempt things",
+      "type": "proverb"
+    },
+    {
+      "word": "スポットが当たる",
+      "reading": "スポットがあたる",
+      "meaning": "to be in the spotlight",
+      "type": "idiom"
+    },
+    {
+      "word": "下手な鉄砲も数撃てば当たる",
+      "reading": "へたなてっぽうもかずうてばあたる",
+      "meaning": "even the unskilled can succeed by a fluke given enough tries",
+      "type": "proverb"
+    },
+    {
+      "word": "下手な鉄砲も数撃ちゃ当たる",
+      "reading": "へたなてっぽうもかずうちゃあたる",
+      "meaning": "even the unskilled can succeed by a fluke given enough tries",
+      "type": "proverb"
+    },
+    {
+      "word": "当たるも八卦当たらぬも八卦",
+      "reading": "あたるもはっけあたらぬもはっけ",
+      "meaning": "a prediction may or may not come true",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この部屋は良く日が当たる。",
+      "reading": null,
+      "english": "This room gets a lot of sunshine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

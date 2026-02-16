@@ -1,0 +1,204 @@
+{
+  "definition": {
+    "word": "彼方此方",
+    "reading": "あちこち",
+    "romaji": "achikochi",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun",
+          "adverb (fukushi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "here and there",
+          "various places",
+          "all around",
+          "all over",
+          "everywhere",
+          "throughout"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "muddled",
+          "confused",
+          "in the wrong order",
+          "back to front"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "direction"
+    },
+    {
+      "word": "方言",
+      "reading": "ほうげん",
+      "meaning": "dialect"
+    },
+    {
+      "word": "方針",
+      "reading": "ほうしん",
+      "meaning": "policy"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "(one's) whereabouts"
+    },
+    {
+      "word": "法則",
+      "reading": "ほうそく",
+      "meaning": "law"
+    },
+    {
+      "word": "明け方",
+      "reading": "あけがた",
+      "meaning": "dawn"
+    },
+    {
+      "word": "長方形",
+      "reading": "ちょうほうけい",
+      "meaning": "rectangle"
+    },
+    {
+      "word": "方程式",
+      "reading": "ほうていしき",
+      "meaning": "equation"
+    },
+    {
+      "word": "方角",
+      "reading": "ほうがく",
+      "meaning": "direction"
+    },
+    {
+      "word": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "square"
+    },
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "early evening (usu. from 3pm to 6pm)"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaning": "both"
+    },
+    {
+      "word": "方々",
+      "reading": "かたがた",
+      "meaning": "people"
+    },
+    {
+      "word": "方策",
+      "reading": "ほうさく",
+      "meaning": "plan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々はあちらこちらに走り回った。",
+      "reading": null,
+      "english": "We were running to and fro.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ライターをあちらこちら探したが見つからなかった。",
+      "reading": null,
+      "english": "I searched high and low for my lighter but couldn't find it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ライオンは１日中おりの中をあちらこちらに歩いていた。",
+      "reading": null,
+      "english": "The lion walked to and fro in its cage all day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ヨーロッパをあちらこちら旅行した。",
+      "reading": null,
+      "english": "I traveled about Europe.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その犬はあちらこちらに頭を向けた。",
+      "reading": null,
+      "english": "The dog turned its head this way and that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのような店はあちらこちらにある。",
+      "reading": null,
+      "english": "There are such shops about.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あちらこちらご案内いたします。",
+      "reading": null,
+      "english": "I will show you around.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "当社はあちらこちらの都市に支店があります。",
+      "reading": null,
+      "english": "Our company has branches in many cities.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "子供たちが公園の中をあちらこちら走りまわっていた。",
+      "reading": null,
+      "english": "Children were running to and fro in the park.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々はあちらこちらに走り回った。",
+      "reading": null,
+      "english": "We were running to and fro.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ライターをあちらこちら探したが見つからなかった。",
+      "reading": null,
+      "english": "I searched high and low for my lighter but couldn't find it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

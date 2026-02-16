@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "初めまして",
+    "reading": "はじめまして",
+    "romaji": "hajimemashite",
+    "jlpt": "N2",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "nice to meet you",
+          "I'm glad to make your acquaintance",
+          "how do you do?"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "初めに",
+      "reading": "はじめに",
+      "meaning": "first"
+    },
+    {
+      "word": "初旬",
+      "reading": "しょじゅん",
+      "meaning": "first 10 days of the month"
+    },
+    {
+      "word": "初歩",
+      "reading": "しょほ",
+      "meaning": "basics"
+    },
+    {
+      "word": "初級",
+      "reading": "しょきゅう",
+      "meaning": "elementary level"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "はじめまして、アレンさんお目にかかれてうれしいです。",
+      "reading": null,
+      "english": "How do you do, Mrs. Allen? I'm pleased to meet you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "はじめまして、ジョーンズ夫人。",
+      "reading": null,
+      "english": "Nice to meet you, Mrs Jones.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "はじめまして、アレンさんお目にかかれてうれしいです。",
+      "reading": null,
+      "english": "How do you do, Mrs. Allen? I'm pleased to meet you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "はじめまして。",
+      "reading": null,
+      "english": "Nice to meet you.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "はじめまして、ジョーンズ夫人。",
+      "reading": null,
+      "english": "Nice to meet you, Mrs Jones.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "こちらこそ、はじめまして。",
+      "reading": null,
+      "english": "Nice to meet you too.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "こちらこそ、はじめまして。",
+      "reading": null,
+      "english": "Nice to meet you, too.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "はじめまして、私の名前はダグラスです。よろしくお願いします。",
+      "reading": null,
+      "english": "How do you do, my name is Douglas. Nice to meet you.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

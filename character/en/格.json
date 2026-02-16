@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "格",
+    "reading": "かく",
+    "romaji": "kaku",
+    "jlpt": "N3",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "status",
+          "position",
+          "rank"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "method",
+          "way",
+          "style"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rule",
+          "regulation",
+          "law"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "case"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "figure (form of a syllogism)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "価格",
+      "reading": "かかく",
+      "meaning": "price"
+    },
+    {
+      "word": "資格",
+      "reading": "しかく",
+      "meaning": "qualifications"
+    },
+    {
+      "word": "性格",
+      "reading": "せいかく",
+      "meaning": "character (of a person)"
+    },
+    {
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "passing (an exam)"
+    },
+    {
+      "word": "格別",
+      "reading": "かくべつ",
+      "meaning": "particular"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "格物致知",
+      "reading": "かくぶつちち",
+      "meaning": "gaining a perfect knowledge of natural laws",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

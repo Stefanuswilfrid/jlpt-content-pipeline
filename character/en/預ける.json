@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "預ける",
+    "reading": "あずける",
+    "romaji": "azukeru",
+    "jlpt": "N3",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to leave (in someone's keeping)",
+          "to put (in someone's care)",
+          "to place (in someone's custody)",
+          "to entrust (someone) with",
+          "to deposit"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put (someone) in charge of",
+          "to leave (a matter) in someone's hands",
+          "to let (someone) decide"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lean on",
+          "to put one's weight on"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "預かる",
+      "reading": "あずかる",
+      "meaning": "to look after"
+    },
+    {
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "prevention"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "下駄を預ける",
+      "reading": "げたをあずける",
+      "meaning": "to leave everything to (someone)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

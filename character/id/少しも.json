@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "少しも",
+    "reading": "すこしも",
+    "romaji": "sukoshimo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sedikit pun",
+          "tidak sedikit pun."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "多少",
+      "reading": "たしょう",
+      "meaning": "sedikit (sama seperti 少し (すこし))"
+    },
+    {
+      "word": "少々",
+      "reading": "しょうしょう",
+      "meaning": "sedikit; pendek (waktu) (formal untuk 少し (すこし))"
+    },
+    {
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "sedikit, jarang"
+    },
+    {
+      "word": "少年",
+      "reading": "しょうねん",
+      "meaning": "anak laki-laki, remaja"
+    },
+    {
+      "word": "減少",
+      "reading": "げんしょう",
+      "meaning": "penurunan, pengurangan, kemerosotan"
+    },
+    {
+      "word": "少女",
+      "reading": "しょうじょ",
+      "meaning": "gadis muda"
+    },
+    {
+      "word": "青少年",
+      "reading": "せいしょうねん",
+      "meaning": "pemuda, orang muda"
+    },
+    {
+      "word": "少ない",
+      "reading": "すくない",
+      "meaning": "sedikit; beberapa"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君が来るとは少しも思っていなかったよ。",
+      "reading": null,
+      "indonesian": "I had no idea that you were coming.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボールの中にはサラダが少しもない。",
+      "reading": null,
+      "indonesian": "We have no salad in the bowl.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "トムはパイを少しもらった。",
+      "reading": null,
+      "indonesian": "Tom got a small portion of pie.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そんなやり方では少しも進歩しないと思うがね。",
+      "reading": null,
+      "indonesian": "You wouldn't gain anything by a method like that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなことは少しも気にしない。",
+      "reading": null,
+      "indonesian": "I don't give a damn about it.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

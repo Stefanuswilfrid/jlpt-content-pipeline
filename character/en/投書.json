@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "投書",
+    "reading": "とうしょ",
+    "romaji": "tousho",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "letter (e.g. of complaint)",
+          "letter to the editor",
+          "letter from a reader"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "contribution (to a newspaper, magazine, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "calligraphy (esp. Asian calligraphy based on Chinese characters)"
+    },
+    {
+      "word": "書籍",
+      "reading": "しょせき",
+      "meaning": "book"
+    },
+    {
+      "word": "清書",
+      "reading": "せいしょ",
+      "meaning": "fair copy"
+    },
+    {
+      "word": "書留",
+      "reading": "かきとめ",
+      "meaning": "registered mail"
+    },
+    {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "bookshop"
+    },
+    {
+      "word": "下書き",
+      "reading": "したがき",
+      "meaning": "draft"
+    },
+    {
+      "word": "書類",
+      "reading": "しょるい",
+      "meaning": "document"
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "library"
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "reading (books)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

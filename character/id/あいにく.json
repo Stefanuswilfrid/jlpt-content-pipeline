@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "生憎",
+    "reading": "あいにく",
+    "romaji": "ainiku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "Sayangnya"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "seumur hidup seseorang"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "sepanjang hidup (seseorang)"
+    },
+    {
+      "word": "生",
+      "reading": "なま",
+      "meaning": "mentah, belum diolah"
+    },
+    {
+      "word": "生まれ",
+      "reading": "うまれ",
+      "meaning": "kelahiran, tempat kelahiran"
+    },
+    {
+      "word": "生地",
+      "reading": "きじ",
+      "meaning": "kain; adonan"
+    },
+    {
+      "word": "生き物",
+      "reading": "いきもの",
+      "meaning": "makhluk hidup, makhluk"
+    },
+    {
+      "word": "芝生",
+      "reading": "しばふ",
+      "meaning": "halaman rumput"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(kehidupan) manusia (misalnya, dari konsepsi hingga kematian)"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "kehidupan"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "kelahiran"
+    },
+    {
+      "word": "生物",
+      "reading": "せいぶつ",
+      "meaning": "makhluk hidup, organisme"
+    },
+    {
+      "word": "生き生き",
+      "reading": "いきいき",
+      "meaning": "dengan jelas, hidup"
+    },
+    {
+      "word": "生理",
+      "reading": "せいり",
+      "meaning": "fisiologi, menstruasi"
+    },
+    {
+      "word": "生長",
+      "reading": "せいちょう",
+      "meaning": "pertumbuhan"
+    },
+    {
+      "word": "生物",
+      "reading": "なまもの",
+      "meaning": "makhluk hidup, organisme"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "mahasiswa internasional"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あいにく明日は雨のようだね。",
+      "reading": null,
+      "indonesian": "I'm afraid it will rain tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あいにく午後から雨になりますよ。",
+      "reading": null,
+      "indonesian": "I am afraid it will rain in the afternoon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あいにく話中です。",
+      "reading": null,
+      "indonesian": "I'm afraid the line is busy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あいにく品切れになってしまったんですが。",
+      "reading": null,
+      "indonesian": "I'm afraid we don't have any left.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "横断",
+    "reading": "おうだん",
+    "romaji": "oudan",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "crossing (a road, river, etc.)",
+          "cutting through (e.g. of a river through a town)",
+          "cutting across",
+          "intersecting (e.g. a railway track)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "crossing (east-west)",
+          "traversing",
+          "travelling across",
+          "flying across (e.g. the Pacific)",
+          "sailing across"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "cutting horizontally",
+          "sectioning laterally"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "断る",
+      "reading": "ことわる",
+      "meaning": "to refuse"
+    },
+    {
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "judgment"
+    },
+    {
+      "word": "断つ",
+      "reading": "たつ",
+      "meaning": "to sever"
+    },
+    {
+      "word": "横切る",
+      "reading": "よこぎる",
+      "meaning": "to cross (e.g. road)"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosis"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

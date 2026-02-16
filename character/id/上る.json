@@ -1,0 +1,204 @@
+{
+  "definition": {
+    "word": "上がる",
+    "reading": "あがる",
+    "romaji": "agaru",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "mendaki",
+          "naik ke atas",
+          "memanjat"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to enter (esp. from outdoors)",
+          "to come in",
+          "to go in"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to enter (a school)",
+          "to advance to the next grade"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get out (of water)",
+          "to come ashore",
+          "to be washed ashore"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to float atop the water",
+          "to surface from the sea (e.g. of a corpse)",
+          "to rise to the surface"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to increase",
+          "to be raised (e.g. of a salary)",
+          "to rise"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to improve",
+          "to make progress"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be promoted",
+          "to advance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "上京",
+      "reading": "じょうきょう",
+      "meaning": "melanjutkan perjalanan ke ibu kota (Tokyo)"
+    },
+    {
+      "word": "上達",
+      "reading": "じょうたつ",
+      "meaning": "peningkatan, kemajuan"
+    },
+    {
+      "word": "立ち上がる",
+      "reading": "たちあがる",
+      "meaning": "untuk berdiri"
+    },
+    {
+      "word": "上下",
+      "reading": "じょうげ",
+      "meaning": "tinggi dan rendah, atas dan bawah"
+    },
+    {
+      "word": "遡る",
+      "reading": "さかのぼる",
+      "meaning": "kembali ke masa lalu, menelusuri masa lalu; naik"
+    },
+    {
+      "word": "頂上",
+      "reading": "ちょうじょう",
+      "meaning": "puncak, titik tertinggi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "株が上がる",
+      "reading": "かぶがあがる",
+      "meaning": "to rise in esteem",
+      "type": "idiom"
+    },
+    {
+      "word": "手が上がる",
+      "reading": "てがあがる",
+      "meaning": "to improve one's skill (esp. at calligraphy or drinking larger amounts of alcohol)",
+      "type": "idiom"
+    },
+    {
+      "word": "切れ上がる",
+      "reading": "きれあがる",
+      "meaning": "to turn upwards",
+      "type": "idiom"
+    },
+    {
+      "word": "軍配が上がる",
+      "reading": "ぐんばいがあがる",
+      "meaning": "to be indicated as the winner of a bout by the raising of the referee's fan",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "高く上れば高く上るほど空気は冷たくなる。",
+      "reading": null,
+      "indonesian": "The higher we go up, the cooler the air becomes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "月は東から上る。",
+      "reading": null,
+      "indonesian": "The moon rises in the east.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "月は東から上る。",
+      "reading": null,
+      "indonesian": "The moon rises in the east.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "高く上れば高く上るほど空気は冷たくなる。",
+      "reading": null,
+      "indonesian": "The higher we go up, the cooler the air becomes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "口あれば京へ上る。",
+      "reading": null,
+      "indonesian": "If you are up for it, let's go!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "口あれば京へ上る。",
+      "reading": null,
+      "indonesian": "If you are up for it, let's go!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

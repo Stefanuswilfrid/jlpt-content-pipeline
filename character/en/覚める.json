@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "覚める",
+    "reading": "さめる",
+    "romaji": "sameru",
+    "jlpt": "N3",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to wake",
+          "to wake up"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become sober",
+          "to sober up",
+          "to regain consciousness (e.g. after anaesthesia)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come to one's senses",
+          "to be disillusioned"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "覚える",
+      "reading": "おぼえる",
+      "meaning": "to memorize"
+    },
+    {
+      "word": "覚ます",
+      "reading": "さます",
+      "meaning": "to awaken"
+    },
+    {
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "sense"
+    },
+    {
+      "word": "覚悟",
+      "reading": "かくご",
+      "meaning": "readiness"
+    },
+    {
+      "word": "視覚",
+      "reading": "しかく",
+      "meaning": "(sense of) sight"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ジムは目覚めると、自分が部屋に１人なのに気がついた。",
+      "reading": null,
+      "english": "Jim awoke and found himself alone in the room.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今朝目が覚めると、雨が雪に変わっていた。",
+      "reading": null,
+      "english": "When I woke up this morning, the rain had turned into snow.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "目が覚めると有名になっていた。",
+      "reading": null,
+      "english": "I awoke to find myself famous.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

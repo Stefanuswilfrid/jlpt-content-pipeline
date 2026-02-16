@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "二次",
+    "reading": "にじ",
+    "romaji": "niji",
+    "jlpt": "N2",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "second"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "secondary"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "quadratic (function, equation, etc.)",
+          "second-order"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "fictional (in relation to anime, manga, etc.)",
+          "drawn",
+          "two-dimensional"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "目次",
+      "reading": "もくじ",
+      "meaning": "table of contents"
+    },
+    {
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "two persons"
+    },
+    {
+      "word": "次々",
+      "reading": "つぎつぎ",
+      "meaning": "in succession"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

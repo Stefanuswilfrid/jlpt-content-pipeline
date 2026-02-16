@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "複写",
+    "reading": "ふくしゃ",
+    "romaji": "fukusha",
+    "jlpt": "N2",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "copying",
+          "duplication",
+          "reproduction",
+          "copy"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "写生",
+      "reading": "しゃせい",
+      "meaning": "sketching"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "plural"
+    },
+    {
+      "word": "写し",
+      "reading": "うつし",
+      "meaning": "copy"
+    },
+    {
+      "word": "写す",
+      "reading": "うつす",
+      "meaning": "to copy"
+    },
+    {
+      "word": "複雑",
+      "reading": "ふくざつ",
+      "meaning": "complex"
+    },
+    {
+      "word": "複合",
+      "reading": "ふくごう",
+      "meaning": "composite"
+    },
+    {
+      "word": "描写",
+      "reading": "びょうしゃ",
+      "meaning": "depiction"
+    },
+    {
+      "word": "重複",
+      "reading": "ちょうふく",
+      "meaning": "duplication"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "エジソンは複写の装置を発明した。",
+      "reading": null,
+      "english": "Edison invented a device for duplication.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "複写機の紙を切らしたよ。",
+      "reading": null,
+      "english": "We've run out of paper for the photocopier.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "エジソンは複写の装置を発明した。",
+      "reading": null,
+      "english": "Edison invented a device for duplication.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "複写機の紙を切らしたよ。",
+      "reading": null,
+      "english": "We've run out of paper for the photocopier.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

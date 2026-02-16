@@ -1,0 +1,133 @@
+{
+  "definition": {
+    "word": "句",
+    "reading": "く",
+    "romaji": "ku",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "section (i.e. of text)",
+          "sentence",
+          "passage",
+          "paragraph"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "phrase"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "haiku",
+          "first 17 morae of a renga, etc."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "maxim",
+          "saying",
+          "idiom",
+          "expression"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "clause (e.g. in a database query language)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文句",
+      "reading": "もんく",
+      "meaning": "complaint"
+    },
+    {
+      "word": "語句",
+      "reading": "ごく",
+      "meaning": "words and phrases"
+    },
+    {
+      "word": "俳句",
+      "reading": "はいく",
+      "meaning": "haiku"
+    },
+    {
+      "word": "句読点",
+      "reading": "くとうてん",
+      "meaning": "punctuation mark"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "美辞麗句",
+      "reading": "びじれいく",
+      "meaning": "flowery words",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一言半句",
+      "reading": "いちげんはんく",
+      "meaning": "a single word",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一字一句",
+      "reading": "いちじいっく",
+      "meaning": "word for word",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一言一句",
+      "reading": "いちごんいっく",
+      "meaning": "every single word and phrase",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "片言隻句",
+      "reading": "へんげんせきく",
+      "meaning": "few words",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一語一句",
+      "reading": "いちごいっく",
+      "meaning": "every single word and phrase",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

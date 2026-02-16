@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "セット",
+    "reading": "セット",
+    "romaji": "setto",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "set (of things)",
+          "combo"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "setting up",
+          "preparing",
+          "arranging",
+          "placing",
+          "positioning",
+          "configuring",
+          "setting (e.g. an alarm)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "setting (hair)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "set (in tennis, volleyball, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "set (in a play, film, etc.)",
+          "movie set"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(television or radio) receiver"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "すぐにテーブルをセットしなさい。",
+      "reading": null,
+      "english": "Set the table at once.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "シャンプーとセットをお願いします。",
+      "reading": null,
+      "english": "A shampoo and a set, please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "カセットテープを買うつもりです。",
+      "reading": null,
+      "english": "I will buy cassette tapes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "カセットテープは人気の点でＣＤにとって代わられたようだ。",
+      "reading": null,
+      "english": "Cassette tapes seem to have given way to compact disks in popularity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お待たせしました。お子様セットとクリームソーダです。",
+      "reading": null,
+      "english": "Thank you for waiting. One kid's meal and an ice cream soda.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

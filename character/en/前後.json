@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "前後",
+    "reading": "ぜんご",
+    "romaji": "zengo",
+    "jlpt": "N2",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "front and rear",
+          "front and back",
+          "before and behind",
+          "back and forth"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "before and after"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix",
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "around",
+          "about",
+          "approximately"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "order",
+          "context"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "consequences"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "just when",
+          "around the time of"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "inversion",
+          "reversion",
+          "getting out of order"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "co-occurring",
+          "happening at the same time"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "直前",
+      "reading": "ちょくぜん",
+      "meaning": "just before"
+    },
+    {
+      "word": "直後",
+      "reading": "ちょくご",
+      "meaning": "immediately following"
+    },
+    {
+      "word": "以後",
+      "reading": "いご",
+      "meaning": "after this"
+    },
+    {
+      "word": "手前",
+      "reading": "てまえ",
+      "meaning": "before oneself"
+    },
+    {
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "morning"
+    },
+    {
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "afternoon"
+    },
+    {
+      "word": "後",
+      "reading": "あと",
+      "meaning": "behind"
+    },
+    {
+      "word": "今後",
+      "reading": "こんご",
+      "meaning": "from now on"
+    },
+    {
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "end"
+    },
+    {
+      "word": "前提",
+      "reading": "ぜんてい",
+      "meaning": "condition"
+    },
+    {
+      "word": "名前",
+      "reading": "なまえ",
+      "meaning": "name"
+    },
+    {
+      "word": "以前",
+      "reading": "いぜん",
+      "meaning": "before"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "前後不覚",
+      "reading": "ぜんごふかく",
+      "meaning": "unconsciousness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "前後矛盾",
+      "reading": "ぜんごむじゅん",
+      "meaning": "self-contradiction",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ランプが前後にゆれていた。",
+      "reading": null,
+      "english": "The lamp was swinging back and forth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "文の前後関係から単語の意味を知る。",
+      "reading": null,
+      "english": "Get the meaning of a word from its context.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ランプが前後にゆれていた。",
+      "reading": null,
+      "english": "The lamp was swinging back and forth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

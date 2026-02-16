@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "ステレオ",
+    "reading": "ステレオ",
+    "romaji": "sutereo",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stereo"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stereo (player, set)"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "stereo",
+          "stereophonic",
+          "stereoscopic"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ステレオの音が大きすぎますよ。",
+      "reading": null,
+      "indonesian": "Turn down the stereo.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ステレオの音、小さくしてよ。",
+      "reading": null,
+      "indonesian": "Turn down the stereo.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ステレオにレコードをかけてください。",
+      "reading": null,
+      "indonesian": "Put a record on the stereo.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "少しステレオの音を小さくしてください。",
+      "reading": null,
+      "indonesian": "Would you turn down the stereo a little?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "少しステレオの音を小さくしてください。",
+      "reading": null,
+      "indonesian": "Please turn down the stereo a little.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ステレオの音が大きすぎますよ。",
+      "reading": null,
+      "indonesian": "Turn down the stereo.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "賞",
+    "reading": "しょう",
+    "romaji": "shou",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "hadiah",
+          "penghargaan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "賞品",
+      "reading": "しょうひん",
+      "meaning": "hadiah, piala"
+    },
+    {
+      "word": "賞金",
+      "reading": "しょうきん",
+      "meaning": "hadiah, penghargaan uang"
+    },
+    {
+      "word": "鑑賞",
+      "reading": "かんしょう",
+      "meaning": "apresiasi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "論功行賞",
+      "reading": "ろんこうこうしょう",
+      "meaning": "conferral of honors (honours), according to merits",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "信賞必罰",
+      "reading": "しんしょうひつばつ",
+      "meaning": "sure punishment or reward",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

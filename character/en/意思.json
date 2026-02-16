@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "意思",
+    "reading": "いし",
+    "romaji": "ishi",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "intention",
+          "wish",
+          "purpose",
+          "mind (to do)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "意識",
+      "reading": "いしき",
+      "meaning": "consciousness"
+    },
+    {
+      "word": "思想",
+      "reading": "しそう",
+      "meaning": "thought"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "unexpected"
+    },
+    {
+      "word": "得意",
+      "reading": "とくい",
+      "meaning": "satisfaction"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaning": "memories"
+    },
+    {
+      "word": "意地",
+      "reading": "いじ",
+      "meaning": "stubbornness"
+    },
+    {
+      "word": "敬意",
+      "reading": "けいい",
+      "meaning": "respect"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "wonderful"
+    },
+    {
+      "word": "意志",
+      "reading": "いし",
+      "meaning": "will"
+    },
+    {
+      "word": "意地悪",
+      "reading": "いじわる",
+      "meaning": "malicious"
+    },
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "opinion"
+    },
+    {
+      "word": "意味",
+      "reading": "いみ",
+      "meaning": "meaning"
+    },
+    {
+      "word": "意義",
+      "reading": "いぎ",
+      "meaning": "meaning"
+    },
+    {
+      "word": "注意",
+      "reading": "ちゅうい",
+      "meaning": "attention"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "意思表示",
+      "reading": "いしひょうじ",
+      "meaning": "expressing one's feelings",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "英語で自分の意思を通じさせることができますか。",
+      "reading": null,
+      "english": "Can you make yourself understood in English?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何も意思がない。",
+      "reading": null,
+      "english": "I have no real intent.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "意思伝達は色々な形をとる。",
+      "reading": null,
+      "english": "Communication takes many forms.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

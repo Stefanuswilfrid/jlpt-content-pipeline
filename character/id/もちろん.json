@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "勿論",
+    "reading": "もちろん",
+    "romaji": "mochiron",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "Tentu saja",
+          "tentu saja"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "論争",
+      "reading": "ろんそう",
+      "meaning": "kontroversi, perselisihan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学生はもちろん先生も来た。",
+      "reading": null,
+      "indonesian": "The teacher as well as his students has come.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何があったか教えてください。もちろんここだけの話で。",
+      "reading": null,
+      "indonesian": "Please tell me what happened - off the record, of course.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

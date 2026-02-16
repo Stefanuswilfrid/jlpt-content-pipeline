@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "振り",
+    "reading": "ふり",
+    "romaji": "furi",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "counter"
+        ],
+        "meanings": [
+          "gaya",
+          "tingkah laku"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "appearance",
+          "behaviour",
+          "behavior"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pretence",
+          "pretense",
+          "(false) show",
+          "pretending"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "(a customer) coming to restaurant, ryokan, etc. without a reservation or introduction"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "postures (of a dance)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lead in (to a joke, question, etc.)",
+          "setup"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unsewn part of a hanging sleeve on a traditional Japanese woman's garment"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for swords, blades, etc."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "振興",
+      "reading": "しんこう",
+      "meaning": "promosi, dorongan"
+    },
+    {
+      "word": "振り仮名",
+      "reading": "ふりがな",
+      "meaning": "kunci pengucapan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "空振り三振",
+      "reading": "からぶりさんしん",
+      "meaning": "strikeout",
+      "type": "idiom"
+    },
+    {
+      "word": "愛嬌を振りまく",
+      "reading": "あいきょうをふりまく",
+      "meaning": "to make oneself pleasant to everybody",
+      "type": "idiom"
+    },
+    {
+      "word": "袖振り合うも他生の縁",
+      "reading": "そでふりあうもたしょうのえん",
+      "meaning": "even a chance meeting can lead to a deep bond",
+      "type": "proverb"
+    },
+    {
+      "word": "愛想を振りまく",
+      "reading": "あいそをふりまく",
+      "meaning": "to make oneself pleasant to everybody",
+      "type": "idiom"
+    },
+    {
+      "word": "袖の振り合わせも他生の縁",
+      "reading": "ふでのふりあわせもたしょうのえん",
+      "meaning": "even accidentally touching sleeves with a passing stranger is caused by fate",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

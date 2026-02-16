@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "話題",
+    "reading": "わだい",
+    "romaji": "wadai",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "topik",
+          "subjek"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "much talked about",
+          "topical",
+          "in the news",
+          "hot"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaning": "subjek, tema, tugas"
+    },
+    {
+      "word": "題名",
+      "reading": "だいめい",
+      "meaning": "judul"
+    },
+    {
+      "word": "題",
+      "reading": "だい",
+      "meaning": "judul, subjek, tema"
+    },
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "telepon"
+    },
+    {
+      "word": "話",
+      "reading": "はなし",
+      "meaning": "bicara (mengobrol), cerita"
+    },
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "sebuah masalah"
+    },
+    {
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "percakapan"
+    },
+    {
+      "word": "世話",
+      "reading": "せわ",
+      "meaning": "merawat; menjaga"
+    },
+    {
+      "word": "神話",
+      "reading": "しんわ",
+      "meaning": "mitos, legenda"
+    },
+    {
+      "word": "童話",
+      "reading": "どうわ",
+      "meaning": "dongeng"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この話題はよそう。",
+      "reading": null,
+      "indonesian": "Let's get off the subject.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ガルフポート中で話題のお店です。",
+      "reading": null,
+      "indonesian": "It's the place that has all of Gulfport talking.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

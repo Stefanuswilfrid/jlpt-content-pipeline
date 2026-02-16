@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "清い",
+    "reading": "きよい",
+    "romaji": "kiyoi",
+    "jlpt": "N2",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "clean",
+          "clear"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "pure",
+          "honest",
+          "clean",
+          "innocent",
+          "platonic",
+          "chaste"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "清掃",
+      "reading": "せいそう",
+      "meaning": "cleaning"
+    },
+    {
+      "word": "清書",
+      "reading": "せいしょ",
+      "meaning": "fair copy"
+    },
+    {
+      "word": "清純",
+      "reading": "せいじゅん",
+      "meaning": "purity"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "心の清い人たちは幸いである。",
+      "reading": null,
+      "english": "Blessed are the pure in heart.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "心の清い人たちは幸いである。",
+      "reading": null,
+      "english": "Blessed are the pure in heart.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

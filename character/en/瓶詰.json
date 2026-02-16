@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "瓶詰め",
+    "reading": "びんづめ",
+    "romaji": "binzume",
+    "jlpt": "N2",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "bottling"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "bottled"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "缶詰",
+      "reading": "かんづめ",
+      "meaning": "canned food"
+    },
+    {
+      "word": "瓶",
+      "reading": "びん",
+      "meaning": "bottle"
+    },
+    {
+      "word": "詰める",
+      "reading": "つめる",
+      "meaning": "to stuff into"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

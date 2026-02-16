@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "外す",
+    "reading": "はずす",
+    "romaji": "hazusu",
+    "jlpt": "N3",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk membuka",
+          "untuk melepaskan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drop (e.g. from a team)",
+          "to remove (from a position)",
+          "to exclude",
+          "to expel"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to leave (e.g. one's seat)",
+          "to go away from",
+          "to step out",
+          "to slip away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to dodge (a question, blow, etc.)",
+          "to evade",
+          "to sidestep",
+          "to avoid (e.g. peak season)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to miss (a target, chance, punch, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "jalan-jalan, pergi keluar"
+    },
+    {
+      "word": "案外",
+      "reading": "あんがい",
+      "meaning": "mendadak"
+    },
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaning": "asing, luar negeri, di luar negeri"
+    },
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomasi"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "tak terduga, mengejutkan"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "pengecualian"
+    },
+    {
+      "word": "他",
+      "reading": "ほか",
+      "meaning": "lainnya (terutama tempat dan benda)"
+    },
+    {
+      "word": "外れる",
+      "reading": "はずれる",
+      "meaning": "terputus, tidak berfungsi (misalnya, dari perlengkapan)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "羽目を外す",
+      "reading": "はめをはずす",
+      "meaning": "to go over the top",
+      "type": "idiom"
+    },
+    {
+      "word": "道を踏み外す",
+      "reading": "みちをふみはずす",
+      "meaning": "to go astray",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたはNNCを取り外すことができます。",
+      "reading": null,
+      "indonesian": "You can remove the NNC.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはNNCを取り外すことができます。",
+      "reading": null,
+      "indonesian": "You can remove the NNC.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

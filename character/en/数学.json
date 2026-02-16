@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "数学",
+    "reading": "すうがく",
+    "romaji": "suugaku",
+    "jlpt": "N4",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mathematics"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "中学校",
+      "reading": "ちゅうがっこう",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "入学",
+      "reading": "にゅうがく",
+      "meaning": "admission (to a school or university)"
+    },
+    {
+      "word": "大学生",
+      "reading": "だいがくせい",
+      "meaning": "university student"
+    },
+    {
+      "word": "医学",
+      "reading": "いがく",
+      "meaning": "medicine"
+    },
+    {
+      "word": "科学",
+      "reading": "かがく",
+      "meaning": "science"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaning": "literature"
+    },
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "primary school"
+    },
+    {
+      "word": "化学",
+      "reading": "かがく",
+      "meaning": "chemistry"
+    },
+    {
+      "word": "哲学",
+      "reading": "てつがく",
+      "meaning": "philosophy"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ブラウン先生のもとで数学を学びました。",
+      "reading": null,
+      "english": "I studied mathematics under Dr. Brown.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

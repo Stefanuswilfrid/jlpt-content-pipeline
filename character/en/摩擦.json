@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "摩擦",
+    "reading": "まさつ",
+    "romaji": "masatsu",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "friction"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "rubbing",
+          "chafing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "discord",
+          "friction",
+          "strife",
+          "conflict"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "擦る",
+      "reading": "こする",
+      "meaning": "to rub"
+    },
+    {
+      "word": "擦る",
+      "reading": "する",
+      "meaning": "to rub"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "天候",
+    "reading": "てんこう",
+    "romaji": "tenkou",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cuaca"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "天然",
+      "reading": "てんねん",
+      "meaning": "alam, spontanitas"
+    },
+    {
+      "word": "気候",
+      "reading": "きこう",
+      "meaning": "iklim"
+    },
+    {
+      "word": "候補",
+      "reading": "こうほ",
+      "meaning": "pencalonan"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "cuaca"
+    },
+    {
+      "word": "天皇",
+      "reading": "てんのう",
+      "meaning": "Kaisar Jepang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "寒い天候のために植物は芽を出せないかもしれない。",
+      "reading": null,
+      "indonesian": "The cold weather may keep the plants from budding.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒い天候でこの肉は悪くなっていない。",
+      "reading": null,
+      "indonesian": "This meat stays good in cold weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会議は天候に関係なく開かれるでしょう。",
+      "reading": null,
+      "indonesian": "The meeting will be held regardless of the weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一行は悪天候にもかかわらず出発した。",
+      "reading": null,
+      "indonesian": "The party set out despite the bad weather.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

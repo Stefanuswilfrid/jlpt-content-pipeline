@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "並",
+    "reading": "なみ",
+    "romaji": "nami",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sedang (misalnya",
+          "ukuran porsi makanan",
+          "kualitas",
+          "harga",
+          "dll.)",
+          "biasa"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "mid-grade (item)",
+          "regular grade"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "same level as",
+          "equal to",
+          "equivalent to",
+          "on par with"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "each (e.g. month)",
+          "every"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "row of (teeth, houses, etc.)",
+          "line of"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "並木",
+      "reading": "なみき",
+      "meaning": "pohon di tepi jalan, deretan pohon"
+    },
+    {
+      "word": "並行",
+      "reading": "へいこう",
+      "meaning": "(berjalan) berdampingan, bersamaan, pada waktu yang sama"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "机を並べる",
+      "reading": "つくえをならべる",
+      "meaning": "to work together (in the same class, workplace, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "足並みが揃う",
+      "reading": "あしなみがそろう",
+      "meaning": "to keep step (with)",
+      "type": "idiom"
+    },
+    {
+      "word": "両雄並び立たず",
+      "reading": "りょうゆうならびたたず",
+      "meaning": "if two ride upon a horse, one must sit behind",
+      "type": "proverb"
+    },
+    {
+      "word": "足並みを揃える",
+      "reading": "あしなみをそろえる",
+      "meaning": "to keep step (with)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

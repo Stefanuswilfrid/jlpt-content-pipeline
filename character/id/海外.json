@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "海外",
+    "reading": "かいがい",
+    "romaji": "kaigai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "asing",
+          "luar negeri",
+          "di luar negeri"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomasi"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "tak terduga, mengejutkan"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "pengecualian"
+    },
+    {
+      "word": "航海",
+      "reading": "こうかい",
+      "meaning": "berlayar, perjalanan"
+    },
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "jalan-jalan, pergi keluar"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "negara asing; luar negeri"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "orang asing"
+    },
+    {
+      "word": "海",
+      "reading": "うみ",
+      "meaning": "laut, pantai"
+    },
+    {
+      "word": "外",
+      "reading": "そと",
+      "meaning": "lainnya, sisanya"
+    },
+    {
+      "word": "郊外",
+      "reading": "こうがい",
+      "meaning": "pinggiran kota, daerah terpencil"
+    },
+    {
+      "word": "海岸",
+      "reading": "かいがん",
+      "meaning": "pantai, tepi laut"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "海外に行ってみたいですか？",
+      "reading": null,
+      "indonesian": "Would you like to go abroad?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は海外へ行くつもりですか。",
+      "reading": null,
+      "indonesian": "Do you plan to go abroad?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はなぜ海外で勉強をしたいのですか。",
+      "reading": null,
+      "indonesian": "Why do you want to study abroad?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はどれくらいよく海外に行きますか。",
+      "reading": null,
+      "indonesian": "How often do you go abroad?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海外旅行はとても面白い。",
+      "reading": null,
+      "indonesian": "Traveling abroad is very interesting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海外に行きたい。",
+      "reading": null,
+      "indonesian": "I want to go abroad.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

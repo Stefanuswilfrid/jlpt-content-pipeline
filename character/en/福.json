@@ -1,0 +1,133 @@
+{
+  "definition": {
+    "word": "福",
+    "reading": "ふく",
+    "romaji": "fuku",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "good fortune",
+          "happiness",
+          "blessing",
+          "good luck"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "happiness"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "国利民福",
+      "reading": "こくりみんぷく",
+      "meaning": "national interests and the people's welfare",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "吉凶禍福",
+      "reading": "きっきょうかふく",
+      "meaning": "good and bad fortune, and weal and woe",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "福徳円満",
+      "reading": "ふくとくえんまん",
+      "meaning": "being perfectly happy and prosperous",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無知は幸福",
+      "reading": "むちはこうふく",
+      "meaning": "ignorance is bliss",
+      "type": "proverb"
+    },
+    {
+      "word": "禍福得喪",
+      "reading": "かふくとくそう",
+      "meaning": "calamity, good fortune, success and failure",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "開運招福",
+      "reading": "かいうんしょうふく",
+      "meaning": "bringing luck and good fortune",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "笑う門には福来る",
+      "reading": "わらうかどにはふくきたる",
+      "meaning": "laugh and grow fat",
+      "type": "proverb"
+    },
+    {
+      "word": "余り物に福がある",
+      "reading": "あまりものにふくがある",
+      "meaning": "do not despair because you are the last to take your pick",
+      "type": "proverb"
+    },
+    {
+      "word": "残り物には福がある",
+      "reading": "のこりものにはふくがある",
+      "meaning": "there is unexpected good in what others have left behind",
+      "type": "proverb"
+    },
+    {
+      "word": "残り物に福あり",
+      "reading": "のこりものにふくあり",
+      "meaning": "there is unexpected good in what others have left behind",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何とあなたは幸福なんでしょう。",
+      "reading": null,
+      "english": "How lucky you are!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金持ちだが幸福ではない。",
+      "reading": null,
+      "english": "Rich as he is, he is not happy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "幸福は金では買えない。",
+      "reading": null,
+      "english": "Money cannot buy happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金で幸福は買えない。",
+      "reading": null,
+      "english": "Money cannot buy happiness.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金で幸福が買えないということは言うまでもない。",
+      "reading": null,
+      "english": "It goes without saying that money cannot buy happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

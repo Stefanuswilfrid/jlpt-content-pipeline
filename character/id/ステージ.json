@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "ステージ",
+    "reading": "ステージ",
+    "romaji": "suteeji",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "panggung; pertunjukan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "performance",
+          "show"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stage (phase)",
+          "part"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stage",
+          "level"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ジョンはステージの上で「イマジン」を歌った。",
+      "reading": null,
+      "indonesian": "John sang \"Imagine\" on the stage.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ジョンはステージで何を歌いましたか。",
+      "reading": null,
+      "indonesian": "What did John sing on the stage?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ジェーンはステージで生徒が上手に劇をしているのを見ました。",
+      "reading": null,
+      "indonesian": "Jane saw the students acting well on the stage.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この席からはステージが良く見えない。",
+      "reading": null,
+      "indonesian": "I can't see the stage well from this seat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "指揮者がステージに現れた。",
+      "reading": null,
+      "indonesian": "The conductor appeared on the stage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

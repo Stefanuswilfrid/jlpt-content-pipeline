@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "生きる",
+    "reading": "いきる",
+    "romaji": "ikiru",
+    "jlpt": "N4",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk hidup"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to make a living",
+          "to subsist"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be in effect",
+          "to be in use",
+          "to function"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come to life",
+          "to be enlivened"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be safe (in baseball, go, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "hidup, kehidupan; untuk hidup"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "kelahiran"
+    },
+    {
+      "word": "生る",
+      "reading": "なる",
+      "meaning": "berbuah"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "produksi; untuk memproduksi"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "siswa sekolah menengah atas"
+    },
+    {
+      "word": "生える",
+      "reading": "はえる",
+      "meaning": "tumbuh, muncul; tumbuh (gigi)"
+    },
+    {
+      "word": "生まれる",
+      "reading": "うまれる",
+      "meaning": "dilahirkan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "空気がなければ生きることはできない。",
+      "reading": null,
+      "indonesian": "Without air, nothing could live.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

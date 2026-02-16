@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "役",
+    "reading": "えき",
+    "romaji": "eki",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "peran",
+          "posisi"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "役割",
+      "reading": "やくわり",
+      "meaning": "penetapan (pembagian) bagian, peran, tugas"
+    },
+    {
+      "word": "主役",
+      "reading": "しゅやく",
+      "meaning": "bagian utama"
+    },
+    {
+      "word": "役所",
+      "reading": "やくしょ",
+      "meaning": "kantor pemerintah, kantor publik"
+    },
+    {
+      "word": "役者",
+      "reading": "やくしゃ",
+      "meaning": "aktor"
+    },
+    {
+      "word": "役人",
+      "reading": "やくにん",
+      "meaning": "pejabat pemerintah"
+    },
+    {
+      "word": "役目",
+      "reading": "やくめ",
+      "meaning": "tugas, bisnis"
+    },
+    {
+      "word": "重役",
+      "reading": "じゅうやく",
+      "meaning": "Direktur, eksekutif tingkat tinggi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "千両役者",
+      "reading": "せんりょうやくしゃ",
+      "meaning": "star (actor)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はその結果を上役に知らせなくてはならない。",
+      "reading": null,
+      "indonesian": "You must inform your superior of the results.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の計画は全然役に立たない。",
+      "reading": null,
+      "indonesian": "Your plan is of no earthly use.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

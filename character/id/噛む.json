@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "噛む",
+    "reading": "かむ",
+    "romaji": "kamu",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menggigit",
+          "mengunyah"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to chew",
+          "to gnaw",
+          "to masticate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fumble one's words (esp. during a play, broadcast, etc.)",
+          "to falter with one's words",
+          "to stutter",
+          "to stammer"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to crash against (e.g. of waves)",
+          "to break onto (shore)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to engage (of cogs, zippers, etc.)",
+          "to mesh",
+          "to fit together"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "臍を噛む",
+      "reading": "ほぞをかむ",
+      "meaning": "to regret bitterly",
+      "type": "idiom"
+    },
+    {
+      "word": "窮鼠猫を噛む",
+      "reading": "きゅうそねこをかむ",
+      "meaning": "a cornered rat will bite a cat",
+      "type": "proverb"
+    },
+    {
+      "word": "一枚噛む",
+      "reading": "いちまいかむ",
+      "meaning": "to participate in (as a member)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "つめを噛むんじゃない。",
+      "reading": null,
+      "indonesian": "Don't bite your nails.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "つめを噛むんじゃない。",
+      "reading": null,
+      "indonesian": "Don't bite your nails.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

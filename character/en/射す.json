@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "射す",
+    "reading": "さす",
+    "romaji": "sasu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to shine"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発射",
+      "reading": "はっしゃ",
+      "meaning": "firing (esp. a rocket or missile)"
+    },
+    {
+      "word": "撃つ",
+      "reading": "うつ",
+      "meaning": "to shoot (a gun, person, etc.)"
+    },
+    {
+      "word": "注射",
+      "reading": "ちゅうしゃ",
+      "meaning": "injection"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "噂をすれば影が射す",
+      "reading": "うわさをすればかげがさす",
+      "meaning": "speak of the devil and he shall appear",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "生ずる",
+    "reading": "しょうずる",
+    "romaji": "shouzuru",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to produce",
+          "to yield",
+          "to cause"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to result from",
+          "to arise",
+          "to be generated"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生存",
+      "reading": "せいぞん",
+      "meaning": "existence"
+    },
+    {
+      "word": "写生",
+      "reading": "しゃせい",
+      "meaning": "sketching"
+    },
+    {
+      "word": "野生",
+      "reading": "やせい",
+      "meaning": "wild"
+    },
+    {
+      "word": "出生",
+      "reading": "しゅっしょう",
+      "meaning": "birth"
+    },
+    {
+      "word": "生る",
+      "reading": "なる",
+      "meaning": "to bear fruit"
+    },
+    {
+      "word": "生える",
+      "reading": "はえる",
+      "meaning": "to grow"
+    },
+    {
+      "word": "生まれる",
+      "reading": "うまれる",
+      "meaning": "to be born"
+    },
+    {
+      "word": "生き生き",
+      "reading": "いきいき",
+      "meaning": "in a lively way"
+    },
+    {
+      "word": "生かす",
+      "reading": "いかす",
+      "meaning": "to make (the best) use of"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "life"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "production"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "birth (of a person)"
+    },
+    {
+      "word": "発生",
+      "reading": "はっせい",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "再生",
+      "reading": "さいせい",
+      "meaning": "restoration to life"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "再開発によって地域に便益が生ずる。",
+      "reading": null,
+      "english": "Benefits accrue to the community from reconstruction.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "再開発によって地域に便益が生ずる。",
+      "reading": null,
+      "english": "Benefits accrue to the community from reconstruction.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

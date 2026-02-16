@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "説く",
+    "reading": "とく",
+    "romaji": "toku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menjelaskan",
+          "untuk membela"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to persuade",
+          "to prevail upon",
+          "to reason with",
+          "to urge (someone to do)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "penjelasan"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "penjelasan, komentar"
+    },
+    {
+      "word": "説",
+      "reading": "せつ",
+      "meaning": "teori"
+    },
+    {
+      "word": "演説",
+      "reading": "えんぜつ",
+      "meaning": "pidato, sambutan"
+    },
+    {
+      "word": "社説",
+      "reading": "しゃせつ",
+      "meaning": "tajuk rencana"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

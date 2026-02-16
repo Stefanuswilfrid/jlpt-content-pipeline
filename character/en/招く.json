@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "招く",
+    "reading": "まねく",
+    "romaji": "maneku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to invite",
+          "to ask"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to beckon",
+          "to wave someone in",
+          "to gesture to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to call in",
+          "to send for",
+          "to summon"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bring on oneself",
+          "to cause",
+          "to incur",
+          "to lead to",
+          "to result in"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "招待",
+      "reading": "しょうたい",
+      "meaning": "invitation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "満は損を招く",
+      "reading": "まんはそんをまねく",
+      "meaning": "every flow has its ebb",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,134 @@
+{
+  "definition": {
+    "word": "手続き",
+    "reading": "てつづき",
+    "romaji": "tetsuzuki",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "procedure",
+          "process",
+          "proceedings",
+          "formalities"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "継続",
+      "reading": "けいぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "手前",
+      "reading": "てまえ",
+      "meaning": "before oneself"
+    },
+    {
+      "word": "手帳",
+      "reading": "てちょう",
+      "meaning": "notebook"
+    },
+    {
+      "word": "お手伝いさん",
+      "reading": "おてつだいさん",
+      "meaning": "maid"
+    },
+    {
+      "word": "手入れ",
+      "reading": "ていれ",
+      "meaning": "care"
+    },
+    {
+      "word": "接続",
+      "reading": "せつぞく",
+      "meaning": "connection"
+    },
+    {
+      "word": "手首",
+      "reading": "てくび",
+      "meaning": "wrist"
+    },
+    {
+      "word": "手洗い",
+      "reading": "てあらい",
+      "meaning": "washing one's hands"
+    },
+    {
+      "word": "手",
+      "reading": "て",
+      "meaning": "hand"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaning": "player (of a sport)"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "companion"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "歌手",
+      "reading": "かしゅ",
+      "meaning": "singer"
+    },
+    {
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "letter"
+    },
+    {
+      "word": "手段",
+      "reading": "しゅだん",
+      "meaning": "means"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ビザを入手する手続きはどうしたらいいですか。",
+      "reading": null,
+      "english": "What is the procedure for getting a visa?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ビザを取得するには、どのような手続きをすればいいのですか？",
+      "reading": null,
+      "english": "What is the procedure for getting a visa?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "とても時間がかかるから空港での手続きに従うのは好きじゃない。",
+      "reading": null,
+      "english": "I dislike going through customs at the airport because it takes so long.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この手続きにはお役所仕事がだいぶからんでいます。",
+      "reading": null,
+      "english": "There's a lot of red tape involved in this procedure.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

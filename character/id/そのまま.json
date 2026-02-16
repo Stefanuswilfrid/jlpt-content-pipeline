@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "其のまま",
+    "reading": "そのまま",
+    "romaji": "sonomama",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tanpa perubahan",
+          "seperti apa adanya (misalnya",
+          "sekarang)"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "just like",
+          "extremely similar"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "immediately",
+          "just after",
+          "without a pause"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "その他",
+      "reading": "そのほか",
+      "meaning": "di samping itu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ドアをそのままにしておいてはいけません。",
+      "reading": null,
+      "indonesian": "The door must not be left open.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのままでお待ちください。",
+      "reading": null,
+      "indonesian": "Hold on, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それで、弟は出発した。兄はそのまま残った。",
+      "reading": null,
+      "indonesian": "Then the younger brother set off, and the elder remained behind.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その箱はそのままにしておきなさい。",
+      "reading": null,
+      "indonesian": "Leave that box where it is.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのままでお待ち下さい。",
+      "reading": null,
+      "indonesian": "Please hold on.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのまま、まっすぐ行きなさい。",
+      "reading": null,
+      "indonesian": "Keep straight on!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

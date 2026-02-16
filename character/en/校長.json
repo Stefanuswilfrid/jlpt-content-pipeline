@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "校長",
+    "reading": "こうちょう",
+    "romaji": "kouchou",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "principal",
+          "head teacher",
+          "headmaster",
+          "headmistress"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "社長",
+      "reading": "しゃちょう",
+      "meaning": "company president"
+    },
+    {
+      "word": "部長",
+      "reading": "ぶちょう",
+      "meaning": "head (chief, director) of a section or department"
+    },
+    {
+      "word": "課長",
+      "reading": "かちょう",
+      "meaning": "section manager"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "senior high school student"
+    },
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "primary school"
+    },
+    {
+      "word": "中学校",
+      "reading": "ちゅうがっこう",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "school"
+    },
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "chair"
+    },
+    {
+      "word": "成長",
+      "reading": "せいちょう",
+      "meaning": "growth"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "long-term"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "うちの校長は学生とよく会ってくれる。",
+      "reading": null,
+      "english": "Our principal is accessible to students.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あれはきっと校長先生だ。",
+      "reading": null,
+      "english": "I bet he is our principal.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

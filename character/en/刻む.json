@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "刻む",
+    "reading": "きざむ",
+    "romaji": "kizamu",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to mince",
+          "to cut fine",
+          "to chop up",
+          "to hash",
+          "to shred"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to carve",
+          "to engrave",
+          "to chisel",
+          "to notch"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tick away (time)",
+          "to beat out (e.g. rhythm)",
+          "to record the passing moments"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to etch (into one's mind)",
+          "to remember distinctly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "彫刻",
+      "reading": "ちょうこく",
+      "meaning": "carving"
+    },
+    {
+      "word": "時刻",
+      "reading": "じこく",
+      "meaning": "time"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "骨に刻む",
+      "reading": "ほねにきざむ",
+      "meaning": "to engrave in one's heart",
+      "type": "idiom"
+    },
+    {
+      "word": "剣を落として舟を刻む",
+      "reading": "けんをおとしてふねをきざむ",
+      "meaning": "to not be getting with the times",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ネギを刻むときは、手を切らないように気をつけてね。",
+      "reading": null,
+      "english": "When you're chopping onions, be careful not to cut your hand.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ネギを刻むときは、手を切らないように気をつけてね。",
+      "reading": null,
+      "english": "When you're chopping onions, be careful not to cut your hand.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

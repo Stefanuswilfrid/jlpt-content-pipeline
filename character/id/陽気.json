@@ -1,0 +1,138 @@
+{
+  "definition": {
+    "word": "陽気",
+    "reading": "ようき",
+    "romaji": "youki",
+    "jlpt": "N3",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "musim",
+          "cuaca",
+          "keceriaan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "weather",
+          "season"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "spirit of yang"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "湿気",
+      "reading": "しっけ",
+      "meaning": "kelembapan, kebasahan, basah"
+    },
+    {
+      "word": "景気",
+      "reading": "けいき",
+      "meaning": "kondisi, keadaan, bisnis (kondisi)"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "tanda kehidupan"
+    },
+    {
+      "word": "太陽",
+      "reading": "たいよう",
+      "meaning": "matahari"
+    },
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "suhu (cuaca - tidak digunakan untuk benda)"
+    },
+    {
+      "word": "大気",
+      "reading": "たいき",
+      "meaning": "suasana"
+    },
+    {
+      "word": "勇気",
+      "reading": "ゆうき",
+      "meaning": "keberanian, keteguhan hati, ketegasan"
+    },
+    {
+      "word": "気候",
+      "reading": "きこう",
+      "meaning": "iklim"
+    },
+    {
+      "word": "気味",
+      "reading": "きみ",
+      "meaning": "-seperti, -tampak, -terlihat"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaning": "semangat; keceriaan; vitalitas; energi"
+    },
+    {
+      "word": "磁気",
+      "reading": "じき",
+      "meaning": "daya tarik"
+    },
+    {
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "humor, temperamen, suasana hati"
+    },
+    {
+      "word": "気体",
+      "reading": "きたい",
+      "meaning": "uap, gas"
+    },
+    {
+      "word": "気の毒",
+      "reading": "きのどく",
+      "meaning": "menyedihkan, sungguh disayangkan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ピーターは陽気なやつだ。",
+      "reading": null,
+      "indonesian": "Peter is a merry fellow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その会ではみんなが陽気だった。",
+      "reading": null,
+      "indonesian": "Everybody was bright at the party.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そちらの陽気はどうですか。",
+      "reading": null,
+      "indonesian": "How is the weather there?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

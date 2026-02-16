@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "生憎",
+    "reading": "あいにく",
+    "romaji": "ainiku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "unfortunately",
+          "sorry, but ..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "life"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "whole life"
+    },
+    {
+      "word": "生",
+      "reading": "なま",
+      "meaning": "raw"
+    },
+    {
+      "word": "生まれ",
+      "reading": "うまれ",
+      "meaning": "birth"
+    },
+    {
+      "word": "生地",
+      "reading": "きじ",
+      "meaning": "cloth"
+    },
+    {
+      "word": "生き物",
+      "reading": "いきもの",
+      "meaning": "living thing"
+    },
+    {
+      "word": "芝生",
+      "reading": "しばふ",
+      "meaning": "lawn"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(one's) life"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "life"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "birth (of a person)"
+    },
+    {
+      "word": "生物",
+      "reading": "せいぶつ",
+      "meaning": "living thing"
+    },
+    {
+      "word": "生き生き",
+      "reading": "いきいき",
+      "meaning": "in a lively way"
+    },
+    {
+      "word": "生理",
+      "reading": "せいり",
+      "meaning": "physiology"
+    },
+    {
+      "word": "生長",
+      "reading": "せいちょう",
+      "meaning": "growth (of a plant)"
+    },
+    {
+      "word": "生物",
+      "reading": "なまもの",
+      "meaning": "raw food"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "overseas student"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あいにく明日は雨のようだね。",
+      "reading": null,
+      "english": "I'm afraid it will rain tomorrow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あいにく午後から雨になりますよ。",
+      "reading": null,
+      "english": "I am afraid it will rain in the afternoon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あいにく話中です。",
+      "reading": null,
+      "english": "I'm afraid the line is busy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あいにく品切れになってしまったんですが。",
+      "reading": null,
+      "english": "I'm afraid we don't have any left.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

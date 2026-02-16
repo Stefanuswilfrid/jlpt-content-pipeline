@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "替える",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "jlpt": "N3",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menukar",
+          "untuk mengganti",
+          "untuk mensubstitusi"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to exchange",
+          "to interchange",
+          "to renew"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to substitute (person, staff member, player, etc.)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "両替",
+      "reading": "りょうがえ",
+      "meaning": "kembalian, penukaran uang"
+    },
+    {
+      "word": "取り替える",
+      "reading": "とりかえる",
+      "meaning": "untuk menukar, untuk mengganti"
+    },
+    {
+      "word": "着替える",
+      "reading": "きがえる",
+      "meaning": "mengganti pakaian"
+    },
+    {
+      "word": "乗り換える",
+      "reading": "のりかえる",
+      "meaning": "untuk berpindah (kereta api), untuk berganti (bus, kereta api, dll.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

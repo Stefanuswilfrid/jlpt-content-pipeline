@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "苦しい",
+    "reading": "くるしい",
+    "romaji": "kurushii",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "sulit; melelahkan secara fisik"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "distressing",
+          "(psychologically) difficult",
+          "stressful",
+          "awkward (e.g. position)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "straitened (circumstances)",
+          "tight (financial situation)",
+          "needy",
+          "struggling"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "strained (interpretation, explanation, etc.)",
+          "lame (e.g. excuse)",
+          "forced (e.g. smile)",
+          "far-fetched"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "hard to do",
+          "unpleasant"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "苦い",
+      "reading": "にがい",
+      "meaning": "pahit"
+    },
+    {
+      "word": "苦労",
+      "reading": "くろう",
+      "meaning": "kesulitan; penderitaan"
+    },
+    {
+      "word": "苦手",
+      "reading": "にがて",
+      "meaning": "buruk (dalam hal), lemah (dalam hal), tidak suka (terhadap)"
+    },
+    {
+      "word": "苦痛",
+      "reading": "くつう",
+      "meaning": "rasa sakit, penderitaan"
+    },
+    {
+      "word": "苦しむ",
+      "reading": "くるしむ",
+      "meaning": "menderita, mengerang, khawatir"
+    },
+    {
+      "word": "苦心",
+      "reading": "くしん",
+      "meaning": "rasa sakit, masalah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "苦しい時の神頼み",
+      "reading": "くるしいときのかみだのみ",
+      "meaning": "danger past, God forgotten",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "苦しい、やめろ。",
+      "reading": null,
+      "indonesian": "It's so painful. Stop it!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "遠方なので自転車では苦しい。",
+      "reading": null,
+      "indonesian": "It's hard to get to by bike because it's far away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんなに苦しいのなら死んだほうがましだ。",
+      "reading": null,
+      "indonesian": "Death is preferable to such suffering.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この世で愛するものを失う事ほど苦しい事はない。",
+      "reading": null,
+      "indonesian": "Nothing is as terrible as losing someone you love in the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

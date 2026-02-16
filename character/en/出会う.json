@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "出会う",
+    "reading": "であう",
+    "romaji": "deau",
+    "jlpt": "N3",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to meet (by chance)",
+          "to come across",
+          "to run across",
+          "to encounter",
+          "to happen upon"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to meet (e.g. of rivers, highways, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to emerge and engage (an enemy)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出場",
+      "reading": "しゅつじょう",
+      "meaning": "participation (in a tournament, match, race, etc.)"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "meeting"
+    },
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "going out"
+    },
+    {
+      "word": "飛び出す",
+      "reading": "とびだす",
+      "meaning": "to jump out"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "こんなところで君に出会うとは。",
+      "reading": null,
+      "english": "Fancy meeting you here!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんなところで君に出会うとは。",
+      "reading": null,
+      "english": "Fancy meeting you here!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "現状",
+    "reading": "げんじょう",
+    "romaji": "genjou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "kondisi saat ini",
+          "status quo"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "現在",
+      "reading": "げんざい",
+      "meaning": "sekarang (sama dengan 今 (いま)), sekarang, saat ini"
+    },
+    {
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "realitas"
+    },
+    {
+      "word": "現場",
+      "reading": "げんば",
+      "meaning": "lokasi sebenarnya, adegan, lapangan"
+    },
+    {
+      "word": "状況",
+      "reading": "じょうきょう",
+      "meaning": "keadaan, situasi"
+    },
+    {
+      "word": "状態",
+      "reading": "じょうたい",
+      "meaning": "kondisi, situasi"
+    },
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaning": "hari ini, masa kini"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementasi, materialisasi, realisasi"
+    },
+    {
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "ekspresi, presentasi"
+    },
+    {
+      "word": "現金",
+      "reading": "げんきん",
+      "meaning": "uang tunai"
+    },
+    {
+      "word": "現象",
+      "reading": "げんしょう",
+      "meaning": "gejala"
+    },
+    {
+      "word": "症状",
+      "reading": "しょうじょう",
+      "meaning": "gejala, kondisi"
+    },
+    {
+      "word": "現れ",
+      "reading": "あらわれ",
+      "meaning": "ekspresi, indikasi, tanda"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "現状維持",
+      "reading": "げんじょういじ",
+      "meaning": "maintaining the status quo",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "現状打破",
+      "reading": "げんじょうだは",
+      "meaning": "abandonment of the status quo",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

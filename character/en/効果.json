@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "効果",
+    "reading": "こうか",
+    "romaji": "kouka",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "effect",
+          "effectiveness",
+          "efficacy",
+          "result"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "effects (e.g. sound effects, visual effects, special effects)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "結果",
+      "reading": "けっか",
+      "meaning": "result"
+    },
+    {
+      "word": "有効",
+      "reading": "ゆうこう",
+      "meaning": "valid"
+    },
+    {
+      "word": "果物",
+      "reading": "くだもの",
+      "meaning": "fruit"
+    },
+    {
+      "word": "効力",
+      "reading": "こうりょく",
+      "meaning": "effect"
+    },
+    {
+      "word": "果実",
+      "reading": "かじつ",
+      "meaning": "fruit"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "効果覿面",
+      "reading": "こうかてきめん",
+      "meaning": "having an immediate effect",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "相乗効果",
+      "reading": "そうじょうこうか",
+      "meaning": "synergy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "波及効果",
+      "reading": "はきゅうこうか",
+      "meaning": "ripple effect",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

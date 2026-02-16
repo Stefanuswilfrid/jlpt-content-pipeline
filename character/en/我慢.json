@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "我慢",
+    "reading": "がまん",
+    "romaji": "gaman",
+    "jlpt": "N3",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "endurance",
+          "patience",
+          "perseverance",
+          "bearing (with something)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "self-control",
+          "self-restraint"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "自慢",
+      "reading": "じまん",
+      "meaning": "pride"
+    },
+    {
+      "word": "我々",
+      "reading": "われわれ",
+      "meaning": "we"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "強情我慢",
+      "reading": "ごうじょうがまん",
+      "meaning": "obstinate and self-assertive",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

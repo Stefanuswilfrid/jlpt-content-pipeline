@@ -1,0 +1,219 @@
+{
+  "definition": {
+    "word": "地",
+    "reading": "ち",
+    "romaji": "chi",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "earth",
+          "ground",
+          "land",
+          "soil"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "place"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "territory"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "bottom (of a package, book, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "earth (one of the five elements)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "地域",
+      "reading": "ちいき",
+      "meaning": "area"
+    },
+    {
+      "word": "地球",
+      "reading": "ちきゅう",
+      "meaning": "Earth"
+    },
+    {
+      "word": "地区",
+      "reading": "ちく",
+      "meaning": "district"
+    },
+    {
+      "word": "土地",
+      "reading": "とち",
+      "meaning": "plot of land"
+    },
+    {
+      "word": "地位",
+      "reading": "ちい",
+      "meaning": "(social) position"
+    },
+    {
+      "word": "地下",
+      "reading": "ちか",
+      "meaning": "underground"
+    },
+    {
+      "word": "位置",
+      "reading": "いち",
+      "meaning": "place"
+    },
+    {
+      "word": "地味",
+      "reading": "じみ",
+      "meaning": "plain"
+    },
+    {
+      "word": "意地",
+      "reading": "いじ",
+      "meaning": "stubbornness"
+    },
+    {
+      "word": "生地",
+      "reading": "きじ",
+      "meaning": "cloth"
+    },
+    {
+      "word": "地平線",
+      "reading": "ちへいせん",
+      "meaning": "horizon (related to land)"
+    },
+    {
+      "word": "意地悪",
+      "reading": "いじわる",
+      "meaning": "malicious"
+    },
+    {
+      "word": "基地",
+      "reading": "きち",
+      "meaning": "base (military, expedition, etc.)"
+    },
+    {
+      "word": "地震",
+      "reading": "じしん",
+      "meaning": "earthquake"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "緩衝地帯",
+      "reading": "かんしょうちたい",
+      "meaning": "buffer zone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天変地異",
+      "reading": "てんぺんちい",
+      "meaning": "natural disaster",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "驚天動地",
+      "reading": "きょうてんどうち",
+      "meaning": "astounding",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "焦熱地獄",
+      "reading": "しょうねつじごく",
+      "meaning": "burning hell",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "地が出る",
+      "reading": "じがでる",
+      "meaning": "to reveal one's true colors (colours)",
+      "type": "idiom"
+    },
+    {
+      "word": "天地開闢",
+      "reading": "てんちかいびゃく",
+      "meaning": "creation of heaven and earth",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天地神明",
+      "reading": "てんちしんめい",
+      "meaning": "the gods of heaven and earth",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天地創造",
+      "reading": "てんちそうぞう",
+      "meaning": "creation (of the universe)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天地万物",
+      "reading": "てんちばんぶつ",
+      "meaning": "the whole creation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天地無用",
+      "reading": "てんちむよう",
+      "meaning": "do not turn upside down",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は当地に住んでいるのか。",
+      "reading": null,
+      "english": "Do you live here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はもっとましな地位にあるべき人だ。",
+      "reading": null,
+      "english": "You belong in a better place than this.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はいつ当地を出発しますか。",
+      "reading": null,
+      "english": "When will you leave here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

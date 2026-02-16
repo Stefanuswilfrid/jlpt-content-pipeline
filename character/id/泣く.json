@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "泣く",
+    "reading": "なく",
+    "romaji": "naku",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menangis"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to suffer (from)",
+          "to be troubled (by)",
+          "to face hardship"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to accept (an unreasonable request, loss, etc.)",
+          "to do reluctantly",
+          "to make sacrifices"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be not worth the name",
+          "to suffer (of a reputation)",
+          "to be spoiled",
+          "to be put to shame"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lament",
+          "to bemoan",
+          "to bewail"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "泣く子も黙る",
+      "reading": "なくこもだまる",
+      "meaning": "intimidating enough to quieten a crying child",
+      "type": "idiom"
+    },
+    {
+      "word": "狐死して兎泣く",
+      "reading": "きつねししてうさぎなく",
+      "meaning": "people have sympathy for kindred in distress",
+      "type": "proverb"
+    },
+    {
+      "word": "一銭を笑う者は一銭に泣く",
+      "reading": "いっせんをわらうものはいっせんになく",
+      "meaning": "take care of the penny",
+      "type": "proverb"
+    },
+    {
+      "word": "泣く子と地頭には勝てぬ",
+      "reading": "なくことじとうにはかてぬ",
+      "meaning": "you cannot win against someone who doesn't listen to reason",
+      "type": "proverb"
+    },
+    {
+      "word": "泣く子と地頭には勝てない",
+      "reading": "なくことじとうにはかてない",
+      "meaning": "you cannot win against someone who doesn't listen to reason",
+      "type": "proverb"
+    },
+    {
+      "word": "一円を笑う者は一円に泣く",
+      "reading": "いちえんをわらうものはいちえんになく",
+      "meaning": "take care of the penny",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

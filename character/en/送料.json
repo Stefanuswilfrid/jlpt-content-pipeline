@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "送料",
+    "reading": "そうりょう",
+    "romaji": "souryou",
+    "jlpt": "N2",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "postage",
+          "carriage",
+          "shipping charge"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "送り仮名",
+      "reading": "おくりがな",
+      "meaning": "kana written after a kanji to complete the full (usually kun) reading of the word"
+    },
+    {
+      "word": "郵送",
+      "reading": "ゆうそう",
+      "meaning": "mailing"
+    },
+    {
+      "word": "調味料",
+      "reading": "ちょうみりょう",
+      "meaning": "seasoning"
+    },
+    {
+      "word": "輸送",
+      "reading": "ゆそう",
+      "meaning": "transport"
+    },
+    {
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "material"
+    },
+    {
+      "word": "原料",
+      "reading": "げんりょう",
+      "meaning": "raw materials"
+    },
+    {
+      "word": "有料",
+      "reading": "ゆうりょう",
+      "meaning": "fee-charging"
+    },
+    {
+      "word": "送別",
+      "reading": "そうべつ",
+      "meaning": "farewell"
+    },
+    {
+      "word": "送金",
+      "reading": "そうきん",
+      "meaning": "remittance"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もちろん品も、そして郵送料すらも返ってこなかった。",
+      "reading": null,
+      "english": "Of course, neither goods nor mailing fee returned.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もちろん品も、そして郵送料すらも返ってこなかった。",
+      "reading": null,
+      "english": "Of course, neither goods nor mailing fee returned.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あと300円で送料無料になるんだけど何か買いたいものある？",
+      "reading": null,
+      "english": "If I get 300 more yen's worth, I get free shipping. Is there anything you want me to buy?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あと300円で送料無料になるんだけど何か買いたいものある？",
+      "reading": null,
+      "english": "If I get 300 more yen's worth, I get free shipping. Is there anything you want me to buy?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

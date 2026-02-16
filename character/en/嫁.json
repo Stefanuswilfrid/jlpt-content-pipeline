@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "嫁",
+    "reading": "よめ",
+    "romaji": "yome",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bride"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(one's) daughter-in-law"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wife"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "花嫁",
+      "reading": "はなよめ",
+      "meaning": "bride"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "責任転嫁",
+      "reading": "せきにんてんか",
+      "meaning": "shifting the responsibility (for something) on to (someone)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "秋茄子は嫁に食わすな",
+      "reading": "あきなすはよめにくわすな",
+      "meaning": "don't feed autumn eggplant to your wife (because they're too delicious, because they'll give her the chills, or because their lack of seeds will reduce her fertility)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

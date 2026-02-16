@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "結果",
+    "reading": "けっか",
+    "romaji": "kekka",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hasil",
+          "konsekuensi"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "as a result of ...",
+          "as a consequence of ...",
+          "after ...",
+          "following ..."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "bearing fruit",
+          "fruiting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "効果",
+      "reading": "こうか",
+      "meaning": "efek, hasil"
+    },
+    {
+      "word": "結局",
+      "reading": "けっきょく",
+      "meaning": "pada akhirnya"
+    },
+    {
+      "word": "結論",
+      "reading": "けつろん",
+      "meaning": "kesimpulan"
+    },
+    {
+      "word": "結婚",
+      "reading": "けっこん",
+      "meaning": "pernikahan (menikah)"
+    },
+    {
+      "word": "結構",
+      "reading": "けっこう",
+      "meaning": "luar biasa; cukup, lumayan"
+    },
+    {
+      "word": "果物",
+      "reading": "くだもの",
+      "meaning": "buah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "結果がすべて",
+      "reading": "けっかがすべて",
+      "meaning": "only the results matter",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はその結果を説明しなければならない。",
+      "reading": null,
+      "indonesian": "You have to account for the result.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその結果を上役に知らせなくてはならない。",
+      "reading": null,
+      "indonesian": "You must inform your superior of the results.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたが成功したのは努力の結果だ。",
+      "reading": null,
+      "indonesian": "The success resulted from your efforts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "気分が悪くて入院したが結果的にはたいしたことはなかった。",
+      "reading": null,
+      "indonesian": "I felt ill and was admitted to the hospital, but in the event, it was nothing serious.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "期末試験の結果は決して満足のいくものではなかった。",
+      "reading": null,
+      "indonesian": "The results of the term examination were anything but satisfactory.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

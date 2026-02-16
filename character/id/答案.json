@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "答案",
+    "reading": "とうあん",
+    "romaji": "touan",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lembar ujian",
+          "naskah ujian"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "answer (to an exam question)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "提案",
+      "reading": "ていあん",
+      "meaning": "usulan, proposisi, saran"
+    },
+    {
+      "word": "案",
+      "reading": "あん",
+      "meaning": "rencana, skema, proposal"
+    },
+    {
+      "word": "解答",
+      "reading": "かいとう",
+      "meaning": "jawaban, solusi"
+    },
+    {
+      "word": "問答",
+      "reading": "もんどう",
+      "meaning": "tanya jawab, dialog"
+    },
+    {
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning": "balas, jawab"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その先生は答案を調べた。",
+      "reading": null,
+      "indonesian": "The teacher looked over the examination papers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

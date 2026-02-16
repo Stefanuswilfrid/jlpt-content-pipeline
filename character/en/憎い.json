@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "憎い",
+    "reading": "にくい",
+    "romaji": "nikui",
+    "jlpt": "N2",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "hateful",
+          "detestable",
+          "abominable",
+          "vexing",
+          "provoking"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "amazing",
+          "fantastic",
+          "admirable",
+          "lovely",
+          "wonderful"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "憎らしい",
+      "reading": "にくらしい",
+      "meaning": "odious"
+    },
+    {
+      "word": "醜い",
+      "reading": "みにくい",
+      "meaning": "ugly"
+    },
+    {
+      "word": "憎む",
+      "reading": "にくむ",
+      "meaning": "to hate"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "坊主憎けりゃ袈裟まで憎い",
+      "reading": "ぼうずにくけりゃけさまでにくい",
+      "meaning": "if you dislike someone, you will end up hating everything he stands for",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

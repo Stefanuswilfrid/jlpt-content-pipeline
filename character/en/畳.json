@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "畳",
+    "reading": "じょう",
+    "romaji": "jou",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "tatami mat (esp. as a measure of room size, either 1.82 sqm or 1.54 sqm)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "畳む",
+      "reading": "たたむ",
+      "meaning": "to fold (clothes, umbrella)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "畳水練",
+      "reading": "たたみすいれん",
+      "meaning": "useless book learning",
+      "type": "idiom"
+    },
+    {
+      "word": "畳の上で死ぬ",
+      "reading": "たたみのうえでしぬ",
+      "meaning": "to die a natural death",
+      "type": "idiom"
+    },
+    {
+      "word": "畳の上の水練",
+      "reading": "たたみのうえのすいれん",
+      "meaning": "useless book learning",
+      "type": "idiom"
+    },
+    {
+      "word": "起きて半畳寝て一畳",
+      "reading": "おきてはんじょうねていちじょう",
+      "meaning": "one should be satisfied without desiring more wealth and rank than necessary",
+      "type": "proverb"
+    },
+    {
+      "word": "狸の金玉八畳敷き",
+      "reading": "たぬきのきんたまはちじょうじき",
+      "meaning": "something spread out widely",
+      "type": "idiom"
+    },
+    {
+      "word": "女房と畳は新しい方が良い",
+      "reading": "にょうぼうとたたみはあたらしいほうがいい",
+      "meaning": "wives and tatami mats are best when new",
+      "type": "proverb"
+    },
+    {
+      "word": "悪人は畳の上では死ねない",
+      "reading": "あくにんはたたみのうえではしねない",
+      "meaning": "a bad person does not deserve to die in his own bed",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

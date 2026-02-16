@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "コーチ",
+    "reading": "コーチ",
+    "romaji": "koochi",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "coach"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "coaching",
+          "training"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その日時はコーチに都合がよかった。",
+      "reading": null,
+      "english": "The time and date suited our coach.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コーチは選手達が泳ぐのをじっと見ていた。",
+      "reading": null,
+      "english": "The coach was waiting for the players to swim.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コーチは選手たちに１日５マイルはしらせた。",
+      "reading": null,
+      "english": "The coach made the players run five miles a day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コーチはボブをいい選手だと思っている。",
+      "reading": null,
+      "english": "The coach considers Bob a good player.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コーチが助言をしてくれた。",
+      "reading": null,
+      "english": "The coach gave me some advice.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

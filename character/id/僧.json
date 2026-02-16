@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "僧",
+    "reading": "そう",
+    "romaji": "sou",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "biarawan",
+          "pendeta"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sangha (the Buddhist community)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "腕白小僧",
+      "reading": "わんぱくこぞう",
+      "meaning": "naughty boy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "門前の小僧",
+      "reading": "もんぜんのこぞう",
+      "meaning": "you learn, without realising it, from what is around you",
+      "type": "proverb"
+    },
+    {
+      "word": "貧僧の重ね斎",
+      "reading": "ひんそうのかさねどき",
+      "meaning": "good luck does not last",
+      "type": "proverb"
+    },
+    {
+      "word": "門前の小僧習わぬ経を読む",
+      "reading": "もんぜんのこぞうならわぬきょうをよむ",
+      "meaning": "you learn, without realising it, from what is around you",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

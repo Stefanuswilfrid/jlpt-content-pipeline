@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "人口",
+    "reading": "じんこう",
+    "romaji": "jinkou",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "population"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "common talk"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "人形",
+      "reading": "にんぎょう",
+      "meaning": "doll"
+    },
+    {
+      "word": "夫",
+      "reading": "おっと",
+      "meaning": "husband"
+    },
+    {
+      "word": "ご主人",
+      "reading": "ごしゅじん",
+      "meaning": "your husband"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    },
+    {
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "individual"
+    },
+    {
+      "word": "人間",
+      "reading": "にんげん",
+      "meaning": "human being"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "popularity"
+    },
+    {
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "two persons"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(one's) life"
+    },
+    {
+      "word": "人物",
+      "reading": "じんぶつ",
+      "meaning": "person"
+    },
+    {
+      "word": "夫人",
+      "reading": "ふじん",
+      "meaning": "wife"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ヨーロッパはアジアより人口が少ない。",
+      "reading": null,
+      "english": "Europe has a smaller population than Asia.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メキシコの人口は日本の人口の半分です。",
+      "reading": null,
+      "english": "Mexico has half as many people as Japan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

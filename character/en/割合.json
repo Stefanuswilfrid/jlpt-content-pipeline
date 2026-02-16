@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "割合",
+    "reading": "わりあい",
+    "romaji": "wariai",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rate",
+          "ratio",
+          "percentage",
+          "proportion"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "comparatively"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "contrary to expectations"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "match"
+    },
+    {
+      "word": "都合",
+      "reading": "つごう",
+      "meaning": "circumstances"
+    },
+    {
+      "word": "具合",
+      "reading": "ぐあい",
+      "meaning": "condition"
+    },
+    {
+      "word": "場合",
+      "reading": "ばあい",
+      "meaning": "case"
+    },
+    {
+      "word": "役割",
+      "reading": "やくわり",
+      "meaning": "part"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "meeting"
+    },
+    {
+      "word": "組合",
+      "reading": "くみあい",
+      "meaning": "association"
+    },
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "sum total"
+    },
+    {
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "passing (an exam)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

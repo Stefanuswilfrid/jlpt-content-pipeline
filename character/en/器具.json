@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "器具",
+    "reading": "きぐ",
+    "romaji": "kigu",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "utensil",
+          "implement",
+          "tool",
+          "instrument",
+          "appliance",
+          "apparatus"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "食器",
+      "reading": "しょっき",
+      "meaning": "tableware"
+    },
+    {
+      "word": "受話器",
+      "reading": "じゅわき",
+      "meaning": "(telephone) receiver"
+    },
+    {
+      "word": "絵の具",
+      "reading": "えのぐ",
+      "meaning": "paint"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaning": "stationery"
+    },
+    {
+      "word": "楽器",
+      "reading": "がっき",
+      "meaning": "musical instrument"
+    },
+    {
+      "word": "容器",
+      "reading": "ようき",
+      "meaning": "container"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaning": "tool"
+    },
+    {
+      "word": "具合",
+      "reading": "ぐあい",
+      "meaning": "condition"
+    },
+    {
+      "word": "家具",
+      "reading": "かぐ",
+      "meaning": "furniture"
+    },
+    {
+      "word": "敬具",
+      "reading": "けいぐ",
+      "meaning": "yours sincerely"
+    },
+    {
+      "word": "夜具",
+      "reading": "やぐ",
+      "meaning": "bedding"
+    },
+    {
+      "word": "器",
+      "reading": "うつわ",
+      "meaning": "bowl"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "温度計は温度を測る器具です。",
+      "reading": null,
+      "english": "The thermometer is an instrument for measuring temperature.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "医者の器具は常に完全に清潔でなければならない。",
+      "reading": null,
+      "english": "A doctor's instruments must be kept absolutely clean.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その電気器具は輸送中にこわれたのにちがいない。",
+      "reading": null,
+      "english": "The electrical appliance must have been damaged in transit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その学校は最新の体育器具を備えている。",
+      "reading": null,
+      "english": "That school is equipped with the latest gymnastics apparatus.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これは主婦の手間を省く便利な器具です。",
+      "reading": null,
+      "english": "This is a great time-saving gadget for the housewife.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "例えば、温度計や気圧計などの計器は器具です。",
+      "reading": null,
+      "english": "For instance, gauges, such as thermometers and barometers, are instruments.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "実験用器具が故障している。",
+      "reading": null,
+      "english": "Something is wrong with the experimental apparatus.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

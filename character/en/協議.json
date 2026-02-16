@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "協議",
+    "reading": "きょうぎ",
+    "romaji": "kyougi",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "conference",
+          "consultation",
+          "discussion",
+          "negotiation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "議員",
+      "reading": "ぎいん",
+      "meaning": "member of an assembly"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "congress"
+    },
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "chair"
+    },
+    {
+      "word": "議論",
+      "reading": "ぎろん",
+      "meaning": "argument"
+    },
+    {
+      "word": "協調",
+      "reading": "きょうちょう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "共同",
+      "reading": "きょうどう",
+      "meaning": "cooperation"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "wonderful"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "meeting"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "鳩首協議",
+      "reading": "きゅうしゅきょうぎ",
+      "meaning": "put heads together and confer",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "長々と協議した末に、売り手と買い手は結局折り合った。",
+      "reading": null,
+      "english": "After considerable argument, the buyer and the seller finally came to terms.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "長々と協議した末に、売り手と買い手は結局折り合った。",
+      "reading": null,
+      "english": "After considerable argument, the buyer and the seller finally came to terms.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

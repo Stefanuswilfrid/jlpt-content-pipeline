@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "件",
+    "reading": "くだん",
+    "romaji": "kudan",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "masalah",
+          "kasus",
+          "barang"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "the usual"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "事件",
+      "reading": "じけん",
+      "meaning": "peristiwa, kejadian, insiden"
+    },
+    {
+      "word": "条件",
+      "reading": "じょうけん",
+      "meaning": "kondisi, persyaratan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "条件反射",
+      "reading": "じょうけんはんしゃ",
+      "meaning": "conditioned reflex",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一件落着",
+      "reading": "いっけんらくちゃく",
+      "meaning": "an issue being settled",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不祥事件",
+      "reading": "ふしょうじけん",
+      "meaning": "scandal",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

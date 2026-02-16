@@ -1,0 +1,212 @@
+{
+  "definition": {
+    "word": "中心",
+    "reading": "ちゅうしん",
+    "romaji": "chuushin",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "center",
+          "centre",
+          "middle",
+          "heart",
+          "core",
+          "focus",
+          "pivot",
+          "emphasis",
+          "balance"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "-centered",
+          "-centred",
+          "-focused",
+          "-oriented",
+          "centered on",
+          "focused on"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "centre"
+    },
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaning": "concern"
+    },
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "concentration (on a task)"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "interruption"
+    },
+    {
+      "word": "日中",
+      "reading": "にっちゅう",
+      "meaning": "daytime"
+    },
+    {
+      "word": "中身",
+      "reading": "なかみ",
+      "meaning": "contents"
+    },
+    {
+      "word": "心臓",
+      "reading": "しんぞう",
+      "meaning": "heart"
+    },
+    {
+      "word": "心理",
+      "reading": "しんり",
+      "meaning": "state of mind"
+    },
+    {
+      "word": "世の中",
+      "reading": "よのなか",
+      "meaning": "society"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "admiration"
+    },
+    {
+      "word": "中古",
+      "reading": "ちゅうこ",
+      "meaning": "used"
+    },
+    {
+      "word": "夜中",
+      "reading": "よなか",
+      "meaning": "middle of the night"
+    },
+    {
+      "word": "年中",
+      "reading": "ねんじゅう",
+      "meaning": "whole year"
+    },
+    {
+      "word": "決心",
+      "reading": "けっしん",
+      "meaning": "determination"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "care"
+    },
+    {
+      "word": "夢中",
+      "reading": "むちゅう",
+      "meaning": "absorbed in"
+    },
+    {
+      "word": "熱中",
+      "reading": "ねっちゅう",
+      "meaning": "being enthusiastic about"
+    },
+    {
+      "word": "最中",
+      "reading": "さいちゅう",
+      "meaning": "(in) the middle of"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自己中心",
+      "reading": "じこちゅうしん",
+      "meaning": "selfishness",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "世界は君を中心に回っているわけではないんだよ。",
+      "reading": null,
+      "english": "The world doesn't revolve around you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "世界はお前中心に回ってるわけじゃないんだよ。",
+      "reading": null,
+      "english": "The world doesn't revolve around you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "世界は君を中心に回っているわけではないんだよ。",
+      "reading": null,
+      "english": "The world doesn't revolve around you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君たち二人はこのチームの中心です。",
+      "reading": null,
+      "english": "You two are the nucleus of the team.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空港から中心街までどの電車で行けばよいか教えて下さい。",
+      "reading": null,
+      "english": "Please tell me which railway line to use from the airport to downtown.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "パリはある意味で、世界の中心である。",
+      "reading": null,
+      "english": "Paris is the center of the world, in a way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの電車が町の中心部へ行きますか。",
+      "reading": null,
+      "english": "What train goes to the center of town?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの地下鉄が町の中心部へ行きますか。",
+      "reading": null,
+      "english": "What subway goes to the center of town?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "definition": {
+    "word": "土産",
+    "reading": "みやげ",
+    "romaji": "miyage",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "suvenir"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "present brought by a visitor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "something unpleasant that one is given (e.g. an illness while on vacation)",
+          "unwelcome gift",
+          "disservice"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "破産",
+      "reading": "はさん",
+      "meaning": "kebangkrutan (pribadi)"
+    },
+    {
+      "word": "土地",
+      "reading": "とち",
+      "meaning": "sebidang tanah, lot, lahan"
+    },
+    {
+      "word": "土",
+      "reading": "つち",
+      "meaning": "bumi, tanah"
+    },
+    {
+      "word": "財産",
+      "reading": "ざいさん",
+      "meaning": "properti, kekayaan, aset"
+    },
+    {
+      "word": "倒産",
+      "reading": "とうさん",
+      "meaning": "(kebangkrutan) perusahaan, insolvensi"
+    },
+    {
+      "word": "お土産",
+      "reading": "おみやげ",
+      "meaning": "suvenir"
+    },
+    {
+      "word": "農産物",
+      "reading": "のうさんぶつ",
+      "meaning": "produk pertanian"
+    },
+    {
+      "word": "産地",
+      "reading": "さんち",
+      "meaning": "daerah penghasil"
+    },
+    {
+      "word": "水産",
+      "reading": "すいさん",
+      "meaning": "produk kelautan, perikanan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ホテルの中に土産品店はありますか？",
+      "reading": null,
+      "indonesian": "Is there a souvenir shop in the hotel?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ホテル内にお土産屋さんはありますか？",
+      "reading": null,
+      "indonesian": "Is there a souvenir shop in the hotel?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは友人への土産です。",
+      "reading": null,
+      "indonesian": "These are gifts for my friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは北海道からのお土産です。",
+      "reading": null,
+      "indonesian": "This is a souvenir from Hokkaido.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これはお土産です。",
+      "reading": null,
+      "indonesian": "This is a little gift for you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このお土産かさばるなぁ。",
+      "reading": null,
+      "indonesian": "These presents are really bulky.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お土産買って帰るね。",
+      "reading": null,
+      "indonesian": "I will pick up a little something for you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お土産に十分なものを買うだけの十分な時間がありますか。",
+      "reading": null,
+      "indonesian": "Do you have enough time to buy enough things for souvenirs?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "旅行から帰るときの土産のことを考えておきなさい。",
+      "reading": null,
+      "indonesian": "Make allowance for souvenirs on the return trip.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

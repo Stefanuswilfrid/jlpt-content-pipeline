@@ -1,0 +1,182 @@
+{
+  "definition": {
+    "word": "算数",
+    "reading": "さんすう",
+    "romaji": "sansuu",
+    "jlpt": "N2",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "arithmetic"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "calculation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無数",
+      "reading": "むすう",
+      "meaning": "innumerable"
+    },
+    {
+      "word": "枚数",
+      "reading": "まいすう",
+      "meaning": "the number of flat things"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "plural"
+    },
+    {
+      "word": "過半数",
+      "reading": "かはんすう",
+      "meaning": "majority"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "number of times"
+    },
+    {
+      "word": "点数",
+      "reading": "てんすう",
+      "meaning": "marks"
+    },
+    {
+      "word": "掛け算",
+      "reading": "かけざん",
+      "meaning": "multiplication"
+    },
+    {
+      "word": "算盤",
+      "reading": "そろばん",
+      "meaning": "abacus"
+    },
+    {
+      "word": "小数",
+      "reading": "しょうすう",
+      "meaning": "fraction (part of)"
+    },
+    {
+      "word": "整数",
+      "reading": "せいすう",
+      "meaning": "integer"
+    },
+    {
+      "word": "単数",
+      "reading": "たんすう",
+      "meaning": "single"
+    },
+    {
+      "word": "分数",
+      "reading": "ぶんすう",
+      "meaning": "fraction"
+    },
+    {
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "coupon tickets"
+    },
+    {
+      "word": "偶数",
+      "reading": "ぐうすう",
+      "meaning": "even number"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その子は算数ならどんな問題でも解ける。",
+      "reading": null,
+      "english": "The boy can solve any problem in arithmetic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "算数では正確さが重要だ。",
+      "reading": null,
+      "english": "Accuracy is important in arithmetic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その子は算数ならどんな問題でも解ける。",
+      "reading": null,
+      "english": "The boy can solve any problem in arithmetic.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今、算数の宿題っていう気分じゃない。",
+      "reading": null,
+      "english": "I don't feel like doing my math homework now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "算数では正確さが重要だ。",
+      "reading": null,
+      "english": "Accuracy is important in arithmetic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "算数教育が非常に大事だと痛切に感じていた。",
+      "reading": null,
+      "english": "I was acutely aware of how very important mathematical education was.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "算数教育が非常に大事だと痛切に感じていた。",
+      "reading": null,
+      "english": "I was acutely aware of how very important mathematical education was.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "算数の宿題は終わったよ。",
+      "reading": null,
+      "english": "I finished my math assignment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう算数の教科書を忘れるんじゃないぞ。",
+      "reading": null,
+      "english": "Don't forget your math textbook again.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "算数の宿題は終わった？",
+      "reading": null,
+      "english": "Is your math homework done?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

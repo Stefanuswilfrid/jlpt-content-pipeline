@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "琴",
+    "reading": "こと",
+    "romaji": "koto",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "koto (13-stringed Japanese zither)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "zheng (Chinese zither)",
+          "guzheng"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "琴瑟相和す",
+      "reading": "きんしつあいわす",
+      "meaning": "to be happily married",
+      "type": "idiom"
+    },
+    {
+      "word": "琴瑟相和",
+      "reading": "きんしつそうわ",
+      "meaning": "pair of persons (especially a married couple) being intimate and harmonious",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "琴線に触れる",
+      "reading": "きんせんにふれる",
+      "meaning": "to strike a chord",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "みんなもそうなのかな、と思うことくらいしかできない。",
+      "reading": null,
+      "english": "I can only wonder if this is the same for everyone else.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そういうものなんです。",
+      "reading": null,
+      "english": "This is always the way it has been.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "「これはとてもおもしろそうだね」とひろしが言います。",
+      "reading": null,
+      "english": "\"This looks pretty interesting,\" Hiroshi says.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "うん。時々そういうことがあるの。",
+      "reading": null,
+      "english": "Yes, it happens from time to time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

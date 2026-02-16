@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "差",
+    "reading": "さ",
+    "romaji": "sa",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "perbedaan",
+          "variasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "difference"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "差別",
+      "reading": "さべつ",
+      "meaning": "diskriminasi, diferensiasi"
+    },
+    {
+      "word": "交差点",
+      "reading": "こうさてん",
+      "meaning": "persimpangan"
+    },
+    {
+      "word": "差し引き",
+      "reading": "さしひき",
+      "meaning": "pengurangan, saldo"
+    },
+    {
+      "word": "物差し",
+      "reading": "ものさし",
+      "meaning": "penggaris, alat ukur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "雲泥の差",
+      "reading": "うんでいのさ",
+      "meaning": "wide difference",
+      "type": "idiom"
+    },
+    {
+      "word": "千差万別",
+      "reading": "せんさばんべつ",
+      "meaning": "an infinite variety of",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "水を差す",
+      "reading": "みずをさす",
+      "meaning": "to pour water (into)",
+      "type": "idiom"
+    },
+    {
+      "word": "天と地の差",
+      "reading": "てんとちのさ",
+      "meaning": "difference between night and day",
+      "type": "idiom"
+    },
+    {
+      "word": "手を差し伸べる",
+      "reading": "てをさしのべる",
+      "meaning": "to lend a hand",
+      "type": "idiom"
+    },
+    {
+      "word": "恋に上下の差別無し",
+      "reading": "こいにじょうげのさべつなし",
+      "meaning": "love makes men equal",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その交差点を右に曲がってください。",
+      "reading": null,
+      "indonesian": "Turn right at the crossroad.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "外に出ると強い日差しにカッと照らされた。",
+      "reading": null,
+      "indonesian": "I stepped outside and was bathed in the harsh, direct sunlight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火ばさみで人差し指をやけどした。",
+      "reading": null,
+      "indonesian": "I burned my forefinger on fire tongs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何か差し上げられるものがあればよかったのですが。",
+      "reading": null,
+      "indonesian": "I wish that I could give you something.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "横から口を差しはさむな。",
+      "reading": null,
+      "indonesian": "Don't cut in with your remarks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雲が晴れて陽が差し始めた。",
+      "reading": null,
+      "indonesian": "The clouds cleared up and let the sun shine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "飲み物を差し上げましょうか。",
+      "reading": null,
+      "indonesian": "May I offer you a drink?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

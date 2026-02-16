@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "増減",
+    "reading": "ぞうげん",
+    "romaji": "zougen",
+    "jlpt": "N2",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "increase and decrease",
+          "fluctuation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "増大",
+      "reading": "ぞうだい",
+      "meaning": "enlargement"
+    },
+    {
+      "word": "激増",
+      "reading": "げきぞう",
+      "meaning": "sharp increase"
+    },
+    {
+      "word": "増進",
+      "reading": "ぞうしん",
+      "meaning": "promoting"
+    },
+    {
+      "word": "加減",
+      "reading": "かげん",
+      "meaning": "degree"
+    },
+    {
+      "word": "減らす",
+      "reading": "へらす",
+      "meaning": "to abate"
+    },
+    {
+      "word": "減る",
+      "reading": "へる",
+      "meaning": "to decrease (in size or number)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この数年、体重は増減していません。",
+      "reading": null,
+      "english": "My weight has not increased or decreased for several years.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この数年、体重は増減していません。",
+      "reading": null,
+      "english": "My weight has not increased or decreased for several years.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "プログラム",
+    "reading": "プログラム",
+    "romaji": "puroguramu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "program (of events, music, etc.)",
+          "programme"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "program (booklet)",
+          "brochure",
+          "pamphlet"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "(computer) program",
+          "programming"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "プログラムをいただけますか。",
+      "reading": null,
+      "english": "May I have a program?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "とにかくそのプログラムは成功だった。",
+      "reading": null,
+      "english": "At any rate, the program was a success.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このプログラムはＤＯＳモードでは作動しません。",
+      "reading": null,
+      "english": "This program cannot be run in DOS mode.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの人たちにプログラムを配る手伝いをしてくれませんか。",
+      "reading": null,
+      "english": "Will you help me give out the programs to those people?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は解読プログラムを持っていません。",
+      "reading": null,
+      "english": "I don't have a decryption program.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何とかがんばって、このプログラムがうまく動くようにしたい。",
+      "reading": null,
+      "english": "I want to do my best to make this program work well.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

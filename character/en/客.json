@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "客",
+    "reading": "きゃく",
+    "romaji": "kyaku",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "guest",
+          "visitor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "customer",
+          "client",
+          "shopper",
+          "spectator",
+          "audience",
+          "tourist",
+          "sightseer",
+          "passenger"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for containers used to entertain guests"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観客",
+      "reading": "かんきゃく",
+      "meaning": "spectator"
+    },
+    {
+      "word": "乗客",
+      "reading": "じょうきゃく",
+      "meaning": "passenger"
+    },
+    {
+      "word": "桜",
+      "reading": "さくら",
+      "meaning": "cherry tree"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "千客万来",
+      "reading": "せんきゃくばんらい",
+      "meaning": "flood of customers",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "主客転倒",
+      "reading": "しゅかくてんとう",
+      "meaning": "reversing the order of (relative) importance (of)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "文人墨客",
+      "reading": "ぶんじんぼっかく",
+      "meaning": "writers and artists",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "お客様は神様",
+      "reading": "おきゃくさまはかみさま",
+      "meaning": "the customer is always right",
+      "type": "proverb"
+    },
+    {
+      "word": "月卿雲客",
+      "reading": "げっけいうんかく",
+      "meaning": "court nobles and other courtiers allowed into the Imperial Palace",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不帰の客となる",
+      "reading": "ふきのきゃくとなる",
+      "meaning": "to pass away",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "ボート",
+    "reading": "ボート",
+    "romaji": "booto",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perahu dayung"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rowboat",
+          "rowing boat"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ボートを時間単位で借りられる。",
+      "reading": null,
+      "indonesian": "You can hire a boat by the hour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボートをこぎに湖に出かけた。",
+      "reading": null,
+      "indonesian": "We went to the lake to row a boat.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "下ろす",
+    "reading": "おろす",
+    "romaji": "orosu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menjatuhkan",
+          "meluncurkan",
+          "menjatuhkan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drop off (a passenger)",
+          "to let off",
+          "to unload (goods, a truck, etc.)",
+          "to offload",
+          "to discharge"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to withdraw (money)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to use for the first time",
+          "to wear for the first time"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cut off",
+          "to fillet (fish)",
+          "to grate (e.g. radish)",
+          "to prune (branches)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to remove (someone from a position)",
+          "to oust",
+          "to drop"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to clear (the table)",
+          "to remove (offerings from an altar)",
+          "to pass down (e.g. old clothes)",
+          "to hand down"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to expel from the body (e.g. worms)",
+          "to abort (a fetus)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "下す",
+      "reading": "くだす",
+      "meaning": "menurunkan, melepaskan"
+    },
+    {
+      "word": "下げる",
+      "reading": "さげる",
+      "meaning": "menurunkan (v.t.); menggantung"
+    },
+    {
+      "word": "下り",
+      "reading": "くだり",
+      "meaning": "kereta arah selatan (meninggalkan Tokyo)"
+    },
+    {
+      "word": "見下ろす",
+      "reading": "みおろす",
+      "meaning": "mengabaikan, meremehkan sesuatu"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "看板を下ろす",
+      "reading": "かんばんをおろす",
+      "meaning": "to close one's business",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

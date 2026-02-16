@@ -1,0 +1,178 @@
+{
+  "definition": {
+    "word": "不自由",
+    "reading": "ふじゆう",
+    "romaji": "fujiyuu",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "ketidaknyamanan",
+          "disabilitas",
+          "kesulitan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "poverty",
+          "want",
+          "destitution",
+          "lack"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "inability",
+          "disability",
+          "impairment (physical, mental, etc.)",
+          "nonfluency (in a language)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "kecemasan, kegelisahan"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "kekurangan, kelangkaan"
+    },
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "ketidakpuasan, ketidakpuasan, keluhan"
+    },
+    {
+      "word": "自己",
+      "reading": "じこ",
+      "meaning": "diri sendiri, diri sendiri"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "ketidakadilan, ketidaksetaraan"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "otomatis, gerak sendiri"
+    },
+    {
+      "word": "自殺",
+      "reading": "じさつ",
+      "meaning": "bunuh diri"
+    },
+    {
+      "word": "経由",
+      "reading": "けいゆ",
+      "meaning": "lewat saja, melalui"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "ketidakbahagiaan, kesedihan, kemalangan"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "kekurangan, kelemahan"
+    },
+    {
+      "word": "自慢",
+      "reading": "じまん",
+      "meaning": "kesombongan, membual"
+    },
+    {
+      "word": "自身",
+      "reading": "じしん",
+      "meaning": "diri"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaning": "alam, spontan"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "misteri, rasa ingin tahu"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "salah, buruk, tidak mungkin"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "blokade, gangguan, penghentian"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "keluhan, ketidakpuasan, ketidakpuasan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君には不自由させない。",
+      "reading": null,
+      "indonesian": "You shall want for nothing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君には何も不自由させない。",
+      "reading": null,
+      "indonesian": "You shall want for nothing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたには何も不自由はさせない。",
+      "reading": null,
+      "indonesian": "You shall want for nothing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ヘレン・ケラーは目と耳と口が不自由だった。",
+      "reading": null,
+      "indonesian": "Helen Keller was blind, deaf and dumb.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とても不自由な目にあった。",
+      "reading": null,
+      "indonesian": "I was greatly inconvenienced.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

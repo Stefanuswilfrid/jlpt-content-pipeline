@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "笑う",
+    "reading": "わらう",
+    "romaji": "warau",
+    "jlpt": "N4",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to laugh"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to smile"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sneer",
+          "to ridicule"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be dumbfounded",
+          "to be flabbergasted"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "微笑む",
+      "reading": "ほほえむ",
+      "meaning": "to smile"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "膝が笑う",
+      "reading": "ひざがわらう",
+      "meaning": "to have one's knees be about to give way",
+      "type": "idiom"
+    },
+    {
+      "word": "鬼が笑う",
+      "reading": "おにがわらう",
+      "meaning": "to be laughable",
+      "type": "idiom"
+    },
+    {
+      "word": "笑う門には福来る",
+      "reading": "わらうかどにはふくきたる",
+      "meaning": "laugh and grow fat",
+      "type": "proverb"
+    },
+    {
+      "word": "目くそ鼻くそを笑う",
+      "reading": "めくそはなくそをわらう",
+      "meaning": "the pot calling the kettle black",
+      "type": "idiom"
+    },
+    {
+      "word": "今泣いた烏がもう笑う",
+      "reading": "いまないたからすがもうわらう",
+      "meaning": "a child's emotions change easily",
+      "type": "proverb"
+    },
+    {
+      "word": "目くそが鼻くそを笑う",
+      "reading": "めくそがはなくそをわらう",
+      "meaning": "the pot calling the kettle black",
+      "type": "idiom"
+    },
+    {
+      "word": "一銭を笑う者は一銭に泣く",
+      "reading": "いっせんをわらうものはいっせんになく",
+      "meaning": "take care of the penny",
+      "type": "proverb"
+    },
+    {
+      "word": "最後に笑う者が最もよく笑う",
+      "reading": "さいごにわらうものがもっともよくわらう",
+      "meaning": "he who laughs last, laughs best",
+      "type": "proverb"
+    },
+    {
+      "word": "明日のことを言えば鬼が笑う",
+      "reading": "あすのことをいえばおにがわらう",
+      "meaning": "nobody knows the morrow",
+      "type": "proverb"
+    },
+    {
+      "word": "来年のことを言うと鬼が笑う",
+      "reading": "らいねんのことをいうとおにがわらう",
+      "meaning": "nobody knows the morrow",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

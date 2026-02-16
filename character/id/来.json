@@ -1,0 +1,197 @@
+{
+  "definition": {
+    "word": "来",
+    "reading": "らい",
+    "romaji": "rai",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "selanjutnya ~"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "since (e.g. last month)",
+          "for (e.g. 20 years)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "以来",
+      "reading": "いらい",
+      "meaning": "karena, mulai sekarang"
+    },
+    {
+      "word": "未来",
+      "reading": "みらい",
+      "meaning": "masa depan (bentuk waktu kehidupan)"
+    },
+    {
+      "word": "出来事",
+      "reading": "できごと",
+      "meaning": "insiden sedang terjadi, peristiwa"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaning": "(di) masa depan; prospek"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "tahun depan"
+    },
+    {
+      "word": "本来",
+      "reading": "ほんらい",
+      "meaning": "pada dasarnya, secara alami, menurut sifatnya"
+    },
+    {
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "bulan depan"
+    },
+    {
+      "word": "来日",
+      "reading": "らいにち",
+      "meaning": "datang ke Jepang, berkunjung ke Jepang"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "minggu depan"
+    },
+    {
+      "word": "再来月",
+      "reading": "さらいげつ",
+      "meaning": "bulan setelah bulan depan"
+    },
+    {
+      "word": "再来週",
+      "reading": "さらいしゅう",
+      "meaning": "minggu setelah minggu depan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "古往今来",
+      "reading": "こおうこんらい",
+      "meaning": "in all ages",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "先祖伝来",
+      "reading": "せんぞでんらい",
+      "meaning": "inherited",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "千客万来",
+      "reading": "せんきゃくばんらい",
+      "meaning": "flood of customers",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "故事来歴",
+      "reading": "こじらいれき",
+      "meaning": "origin and history",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "祖先伝来",
+      "reading": "そせんでんらい",
+      "meaning": "hereditary",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "未来永劫",
+      "reading": "みらいえいごう",
+      "meaning": "forevermore",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一陽来復",
+      "reading": "いちようらいふく",
+      "meaning": "return of spring",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "好機到来",
+      "reading": "こうきとうらい",
+      "meaning": "advent of a golden opportunity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "捲土重来",
+      "reading": "けんどちょうらい",
+      "meaning": "recouping one's strength for a renewed attack",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "開闢以来",
+      "reading": "かいびゃくいらい",
+      "meaning": "since the beginning of the world",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それがどこから来たのか分からなかった。",
+      "reading": null,
+      "indonesian": "I didn't know where it came from.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "家に来ませんか。",
+      "reading": null,
+      "indonesian": "Why don't you come visit us?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "今日君は来るのかなと思っていたところだよ。",
+      "reading": null,
+      "indonesian": "I was wondering if you were going to show up today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "マドリードから来た人たちは変わっている。",
+      "reading": null,
+      "indonesian": "People from Madrid are weird.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "したいことが出来なければ出来ることをしなさい。",
+      "reading": null,
+      "indonesian": "When you can't do what you want, you do what you can.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ごめん。出来るとは思えないよ。",
+      "reading": null,
+      "indonesian": "Sorry, I don't think I'm gonna be able to.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

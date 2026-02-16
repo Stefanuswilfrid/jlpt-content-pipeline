@@ -1,0 +1,228 @@
+{
+  "definition": {
+    "word": "開ける",
+    "reading": "あける",
+    "romaji": "akeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to open (a door, etc.)",
+          "to unwrap (e.g. parcel, package)",
+          "to unlock"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to open (for business, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to empty",
+          "to remove",
+          "to make space",
+          "to make room"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to move out",
+          "to clear out"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be away from (e.g. one's house)",
+          "to leave (temporarily)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to dawn",
+          "to grow light"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to end (of a period, season)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to begin (of the New Year)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "開始",
+      "reading": "かいし",
+      "meaning": "start"
+    },
+    {
+      "word": "開く",
+      "reading": "ひらく",
+      "meaning": "to open"
+    },
+    {
+      "word": "開ける",
+      "reading": "ひらける",
+      "meaning": "to open out (of a view, scenery, etc.)"
+    },
+    {
+      "word": "開く",
+      "reading": "あく",
+      "meaning": "to open (e.g. doors)"
+    },
+    {
+      "word": "開通",
+      "reading": "かいつう",
+      "meaning": "opening (of a new road, railway, etc.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "蓋を開ける",
+      "reading": "ふたをあける",
+      "meaning": "to open the lid",
+      "type": "idiom"
+    },
+    {
+      "word": "道が開ける",
+      "reading": "みちがひらける",
+      "meaning": "to open a pathway (to)",
+      "type": "idiom"
+    },
+    {
+      "word": "パンドラの箱を開ける",
+      "reading": "パンドラのはこをあける",
+      "meaning": "to open (up) a Pandora's box",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はすべてのことを打ち明けるほうがよい。",
+      "reading": null,
+      "english": "You had better make a clean breast of everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もうすぐ夜が明ける。",
+      "reading": null,
+      "english": "The day is breaking soon.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "もうすぐ夜が明けるよ。",
+      "reading": null,
+      "english": "Day will break soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたにはもっと早く全てを打ち明けるべきだった。",
+      "reading": null,
+      "english": "I should have told you everything earlier.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夜が明ける。",
+      "reading": null,
+      "english": "Day breaks.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "目が覚めたら夜が明けるところだった。",
+      "reading": null,
+      "english": "When I woke up, day was breaking.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "梅雨はいつ明けるの？",
+      "reading": null,
+      "english": "When will the rainy season be over?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君はすべてのことを打ち明けるほうがよい。",
+      "reading": null,
+      "english": "You had better make a clean breast of everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もうすぐ夜が明ける。",
+      "reading": null,
+      "english": "The day is breaking soon.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "もうすぐ夜が明けるよ。",
+      "reading": null,
+      "english": "Day will break soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたにはもっと早く全てを打ち明けるべきだった。",
+      "reading": null,
+      "english": "I should have told you everything earlier.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

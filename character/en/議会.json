@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "議会",
+    "reading": "ぎかい",
+    "romaji": "gikai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "congress",
+          "parliament",
+          "diet",
+          "legislative assembly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "議員",
+      "reading": "ぎいん",
+      "meaning": "member of an assembly"
+    },
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "chair"
+    },
+    {
+      "word": "協議",
+      "reading": "きょうぎ",
+      "meaning": "conference"
+    },
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "member"
+    },
+    {
+      "word": "国会",
+      "reading": "こっかい",
+      "meaning": "National Diet"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "mass meeting"
+    },
+    {
+      "word": "議論",
+      "reading": "ぎろん",
+      "meaning": "argument"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "meeting"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "accounting"
+    },
+    {
+      "word": "都会",
+      "reading": "とかい",
+      "meaning": "city"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "meeting"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "meeting"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "wonderful"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "company"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "議会はさいごにけんかになった。",
+      "reading": null,
+      "english": "The argument ended in a fight.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "議会は休会になりました。",
+      "reading": null,
+      "english": "Congress went into recess.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "議会が最初に生まれたのはいつだか知っていますか。",
+      "reading": null,
+      "english": "Do you know when the first parliament came into being?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "為す",
+    "reading": "なす",
+    "romaji": "nasu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to do",
+          "to commit",
+          "to carry out",
+          "to bring about"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "為る",
+      "reading": "する",
+      "meaning": "to do"
+    },
+    {
+      "word": "為替",
+      "reading": "かわせ",
+      "meaning": "money order"
+    },
+    {
+      "word": "為",
+      "reading": "ため",
+      "meaning": "good"
+    },
+    {
+      "word": "所為",
+      "reading": "せい",
+      "meaning": "consequence"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "入るを量りて出ずるを為す",
+      "reading": "いるをはかりていずるをなす",
+      "meaning": "consider your income before spending",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

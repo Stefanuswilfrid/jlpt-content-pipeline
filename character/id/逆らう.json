@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "逆らう",
+    "reading": "さからう",
+    "romaji": "sakarau",
+    "jlpt": "N3",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menentang",
+          "melawan",
+          "tidak patuh"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "逆",
+      "reading": "ぎゃく",
+      "meaning": "sebaliknya, berlawanan"
+    },
+    {
+      "word": "遡る",
+      "reading": "さかのぼる",
+      "meaning": "kembali ke masa lalu, menelusuri masa lalu; naik"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "忠言耳に逆らう",
+      "reading": "ちゅうげんみみにさからう",
+      "meaning": "good advice is harsh to the ear",
+      "type": "proverb"
+    },
+    {
+      "word": "金言耳に逆らう",
+      "reading": "きんげんみみにさからう",
+      "meaning": "good advice is harsh to the ear",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "ドキドキ",
+    "reading": "ドキドキ",
+    "romaji": "dokidoki",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "thump-thump",
+          "bang-bang",
+          "pit-a-pat",
+          "pitapat",
+          "pitter-patter"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to beat fast (of one's heart)",
+          "to throb",
+          "to pound",
+          "to palpitate"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "胸をどきどきさせて開演を待った。",
+      "reading": null,
+      "english": "I waited for the curtain to rise with my heart beating in excitement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "名前を呼ばれて胸がどきどきした。",
+      "reading": null,
+      "english": "My heart beat when I heard my name called.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "心臓が興奮でどきどきしていた。",
+      "reading": null,
+      "english": "My heart fluttered with excitement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "少し走ったら胸がどきどきした。",
+      "reading": null,
+      "english": "I felt my heart pound after running a little.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私の番が近づくと胸がどきどきした。",
+      "reading": null,
+      "english": "My heart was pounding as my turn got nearer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私の心臓はどきどきし始めた。",
+      "reading": null,
+      "english": "My heart began to beat fast.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私の心臓はどきどきし始めた。",
+      "reading": null,
+      "english": "My heart began to race.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "中央",
+    "reading": "ちゅうおう",
+    "romaji": "chuuou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "tengah",
+          "pusat",
+          "bagian tengah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "capital",
+          "seat of government"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "pusat, inti"
+    },
+    {
+      "word": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "konsentrasi, memfokuskan pikiran"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "sekolah menengah pertama, sekolah menengah atas"
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "penangguhan, penghentian, pemutusan"
+    },
+    {
+      "word": "日中",
+      "reading": "にっちゅう",
+      "meaning": "siang hari, terang benderang"
+    },
+    {
+      "word": "中身",
+      "reading": "なかみ",
+      "meaning": "isi; substansi"
+    },
+    {
+      "word": "世の中",
+      "reading": "よのなか",
+      "meaning": "masyarakat, dunia"
+    },
+    {
+      "word": "中古",
+      "reading": "ちゅうこ",
+      "meaning": "bekas, barang bekas"
+    },
+    {
+      "word": "夜中",
+      "reading": "よなか",
+      "meaning": "tengah malam, tengah malam buta"
+    },
+    {
+      "word": "年中",
+      "reading": "ねんじゅう",
+      "meaning": "sepanjang tahun, selalu, setiap hari"
+    },
+    {
+      "word": "夢中",
+      "reading": "むちゅう",
+      "meaning": "naksir, tergila-gila, ketagihan"
+    },
+    {
+      "word": "熱中",
+      "reading": "ねっちゅう",
+      "meaning": "antusiasme, semangat, kegilaan"
+    },
+    {
+      "word": "最中",
+      "reading": "さいちゅう",
+      "meaning": "di tengah, pertengahan"
+    },
+    {
+      "word": "中間",
+      "reading": "ちゅうかん",
+      "meaning": "tengah, pertengahan jalan, sementara"
+    },
+    {
+      "word": "途中",
+      "reading": "とちゅう",
+      "meaning": "dalam perjalanan, di tengah jalan"
+    },
+    {
+      "word": "中学校",
+      "reading": "ちゅうがっこう",
+      "meaning": "murid sekolah menengah pertama"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "駅は市の中央にある。",
+      "reading": null,
+      "indonesian": "The station is the middle of the city.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その公園は市の中央に位置している。",
+      "reading": null,
+      "indonesian": "The park lies in the center of the city.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ＪＲ中央線に乗って下さい。",
+      "reading": null,
+      "indonesian": "You get on the JR Chuo Line.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "失敗",
+    "reading": "しっぱい",
+    "romaji": "shippai",
+    "jlpt": "N4",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kegagalan",
+          "kesalahan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "失礼",
+      "reading": "しつれい",
+      "meaning": "ketidaksopanan, kurang ajar; Permisi"
+    },
+    {
+      "word": "失業",
+      "reading": "しつぎょう",
+      "meaning": "pengangguran"
+    },
+    {
+      "word": "失う",
+      "reading": "うしなう",
+      "meaning": "kehilangan, berpisah dengan"
+    },
+    {
+      "word": "無くなる",
+      "reading": "なくなる",
+      "meaning": "menghilang, tersesat"
+    },
+    {
+      "word": "負ける",
+      "reading": "まける",
+      "meaning": "kalah (dalam permainan) (v.i.), dikalahkan"
+    },
+    {
+      "word": "失望",
+      "reading": "しつぼう",
+      "meaning": "kekecewaan, keputusasaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "失敗は成功のもと",
+      "reading": "しっぱいはせいこうのもと",
+      "meaning": "failure teaches success",
+      "type": "proverb"
+    },
+    {
+      "word": "失敗は成功の母",
+      "reading": "しっぱいはせいこうのはは",
+      "meaning": "failure is the mother of success",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

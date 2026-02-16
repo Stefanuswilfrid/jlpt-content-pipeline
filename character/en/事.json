@@ -1,0 +1,181 @@
+{
+  "definition": {
+    "word": "事",
+    "reading": "こと",
+    "romaji": "koto",
+    "jlpt": "N4",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "thing",
+          "matter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "incident",
+          "occurrence",
+          "event",
+          "something serious",
+          "trouble",
+          "crisis"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "circumstances",
+          "situation",
+          "state of affairs"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "work",
+          "business",
+          "affair"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "食事",
+      "reading": "しょくじ",
+      "meaning": "meal (e.g. lunch, dinner)"
+    },
+    {
+      "word": "大事",
+      "reading": "だいじ",
+      "meaning": "important"
+    },
+    {
+      "word": "返事",
+      "reading": "へんじ",
+      "meaning": "reply"
+    },
+    {
+      "word": "火事",
+      "reading": "かじ",
+      "meaning": "fire"
+    },
+    {
+      "word": "事故",
+      "reading": "じこ",
+      "meaning": "accident"
+    },
+    {
+      "word": "事務所",
+      "reading": "じむしょ",
+      "meaning": "office"
+    },
+    {
+      "word": "用事",
+      "reading": "ようじ",
+      "meaning": "business"
+    },
+    {
+      "word": "刑事",
+      "reading": "けいじ",
+      "meaning": "(police) detective"
+    },
+    {
+      "word": "見事",
+      "reading": "みごと",
+      "meaning": "splendid"
+    },
+    {
+      "word": "家事",
+      "reading": "かじ",
+      "meaning": "housework"
+    },
+    {
+      "word": "出来事",
+      "reading": "できごと",
+      "meaning": "occurrence"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "既成事実",
+      "reading": "きせいじじつ",
+      "meaning": "established fact",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "後生大事",
+      "reading": "ごしょうだいじ",
+      "meaning": "with religious zeal",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "事実無根",
+      "reading": "じじつむこん",
+      "meaning": "groundless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "年中行事",
+      "reading": "ねんちゅうぎょうじ",
+      "meaning": "annual function",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "事後承諾",
+      "reading": "じごしょうだく",
+      "meaning": "ex-post-facto approval",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "人事不省",
+      "reading": "じんじふせい",
+      "meaning": "unconsciousness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "多事多端",
+      "reading": "たじたたん",
+      "meaning": "eventfulness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "平穏無事",
+      "reading": "へいおんぶじ",
+      "meaning": "peaceful",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無事息災",
+      "reading": "ぶじそくさい",
+      "meaning": "safe and healthy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "故事来歴",
+      "reading": "こじらいれき",
+      "meaning": "origin and history",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

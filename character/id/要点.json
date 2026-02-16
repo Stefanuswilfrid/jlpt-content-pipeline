@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "要点",
+    "reading": "ようてん",
+    "romaji": "youten",
+    "jlpt": "N3",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Intisari",
+          "poin utama"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "要求",
+      "reading": "ようきゅう",
+      "meaning": "permintaan, tuntutan"
+    },
+    {
+      "word": "主要",
+      "reading": "しゅよう",
+      "meaning": "kepala, utama"
+    },
+    {
+      "word": "需要",
+      "reading": "じゅよう",
+      "meaning": "tuntutan"
+    },
+    {
+      "word": "要素",
+      "reading": "ようそ",
+      "meaning": "elemen"
+    },
+    {
+      "word": "視点",
+      "reading": "してん",
+      "meaning": "opini, sudut pandang, titik visual"
+    },
+    {
+      "word": "欠点",
+      "reading": "けってん",
+      "meaning": "kesalahan, cacat, kelemahan"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "perawatan, pencegahan, kewaspadaan"
+    },
+    {
+      "word": "終点",
+      "reading": "しゅうてん",
+      "meaning": "terminal, pemberhentian terakhir (misalnya kereta api)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の発言は要点がずれている。",
+      "reading": null,
+      "indonesian": "Your remarks are besides the point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠回しの言い方はやめて、要点をお話しください。",
+      "reading": null,
+      "indonesian": "Please stop beating around the bush and come straight to the point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠回しに言うのは止めて要点を言ってくれ。",
+      "reading": null,
+      "indonesian": "Stop beating around the bush and get to the point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お話の要点は分かりました。",
+      "reading": null,
+      "indonesian": "I see your point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

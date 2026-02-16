@@ -1,0 +1,198 @@
+{
+  "definition": {
+    "word": "停止",
+    "reading": "ていし",
+    "romaji": "teishi",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "stoppage",
+          "coming to a stop",
+          "halt",
+          "standstill"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "ceasing (movement, activity, etc.)",
+          "suspension (of operations)",
+          "interruption (e.g. of electricity supply)",
+          "cutting off"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "suspension (of payment, a licence, etc.)",
+          "(temporary) prohibition",
+          "ban"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "防止",
+      "reading": "ぼうし",
+      "meaning": "prevention"
+    },
+    {
+      "word": "引き止める",
+      "reading": "ひきとめる",
+      "meaning": "to detain"
+    },
+    {
+      "word": "停車",
+      "reading": "ていしゃ",
+      "meaning": "stopping (of a train, car, etc.)"
+    },
+    {
+      "word": "立ち止まる",
+      "reading": "たちどまる",
+      "meaning": "to stop (in one's tracks)"
+    },
+    {
+      "word": "禁止",
+      "reading": "きんし",
+      "meaning": "prohibition"
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "interruption"
+    },
+    {
+      "word": "廃止",
+      "reading": "はいし",
+      "meaning": "abolition"
+    },
+    {
+      "word": "調停",
+      "reading": "ちょうてい",
+      "meaning": "arbitration"
+    },
+    {
+      "word": "受け止める",
+      "reading": "うけとめる",
+      "meaning": "to catch"
+    },
+    {
+      "word": "阻止",
+      "reading": "そし",
+      "meaning": "obstruction"
+    },
+    {
+      "word": "定年",
+      "reading": "ていねん",
+      "meaning": "(compulsory) retirement age"
+    },
+    {
+      "word": "停滞",
+      "reading": "ていたい",
+      "meaning": "stagnation"
+    },
+    {
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "to stop"
+    },
+    {
+      "word": "止まる",
+      "reading": "とどまる",
+      "meaning": "to remain"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私たちの乗った電車が急停止した。",
+      "reading": null,
+      "english": "Our train stopped suddenly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "運転者は停止信号を無視した。",
+      "reading": null,
+      "english": "The driver ignored the stoplight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ポーランドは１２０年間国家として存在を停止した。",
+      "reading": null,
+      "english": "Poland ceased to exist as a nation for 120 years.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "コンピューター・システムは午後８時に自動的に停止する。",
+      "reading": null,
+      "english": "The computer system shuts down automatically at 8pm.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "大型と小型の２台の飛行機が、ハンガー内で停止していました。",
+      "reading": null,
+      "english": "Two airplanes, one large and one small, were at rest in the hangar.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "列車が停止したので、乗客はみんなどうしたのかと思った。",
+      "reading": null,
+      "english": "As the train came to a halt, all of the passengers wondered what was happening.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "停止標識を無視しませんでしたか。",
+      "reading": null,
+      "english": "Didn't you disregard a stop sign?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "戦争は停止されるべきだと全員合意した。",
+      "reading": null,
+      "english": "They were unanimous that the war should be brought to a halt.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "運転者は停止信号を無視した。",
+      "reading": null,
+      "english": "The driver ignored the stoplight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

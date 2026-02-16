@@ -1,0 +1,45 @@
+{
+  "definition": {
+    "word": "訳す",
+    "reading": "やくす",
+    "romaji": "yakusu",
+    "jlpt": "N3",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to translate",
+          "to interpret"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretation (i.e. oral translation)"
+    },
+    {
+      "word": "翻訳",
+      "reading": "ほんやく",
+      "meaning": "translation"
+    },
+    {
+      "word": "申し訳",
+      "reading": "もうしわけ",
+      "meaning": "apology"
+    },
+    {
+      "word": "申し訳ない",
+      "reading": "もうしわけない",
+      "meaning": "I'm sorry"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

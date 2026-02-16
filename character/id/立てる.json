@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "立てる",
+    "reading": "たてる",
+    "romaji": "tateru",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mendirikan (sesuatu)",
+          "membangun (sesuatu)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to thrust into",
+          "to bury into",
+          "to dig into"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make (a noise)",
+          "to start (a rumour)",
+          "to raise (a cloud of dust, etc.)",
+          "to cause"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make",
+          "to establish",
+          "to set up",
+          "to develop",
+          "to formulate"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put up (a political candidate)",
+          "to make (one's leader)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "波風を立てる",
+      "reading": "なみかぜをたてる",
+      "meaning": "to make trouble",
+      "type": "idiom"
+    },
+    {
+      "word": "角を立てる",
+      "reading": "かどをたてる",
+      "meaning": "to worsen (the situation)",
+      "type": "idiom"
+    },
+    {
+      "word": "煙を立てる",
+      "reading": "けむりをたてる",
+      "meaning": "to make a living",
+      "type": "idiom"
+    },
+    {
+      "word": "目くじらを立てる",
+      "reading": "めくじらをたてる",
+      "meaning": "to find fault (with trivial matters)",
+      "type": "idiom"
+    },
+    {
+      "word": "白羽の矢を立てる",
+      "reading": "しらはのやをたてる",
+      "meaning": "to select someone (out of many people)",
+      "type": "idiom"
+    },
+    {
+      "word": "目に角を立てる",
+      "reading": "めにかどをたてる",
+      "meaning": "to look angrily at",
+      "type": "idiom"
+    },
+    {
+      "word": "目くじら立てる",
+      "reading": "めくじらたてる",
+      "meaning": "to find fault (with trivial matters)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "テントを組み立てるのに３０分かかった。",
+      "reading": null,
+      "indonesian": "It took us half an hour to set up the tent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

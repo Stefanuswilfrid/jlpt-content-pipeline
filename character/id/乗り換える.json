@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "乗り換える",
+    "reading": "のりかえる",
+    "romaji": "norikaeru",
+    "jlpt": "N4",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk berpindah (kereta api)",
+          "untuk berganti (bus",
+          "kereta api",
+          "dll.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to change (to another ideology, party, company, etc.)",
+          "to switch (to a different system, method, etc.)",
+          "to move on to (e.g. a new love interest)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "取り替える",
+      "reading": "とりかえる",
+      "meaning": "untuk menukar, untuk mengganti"
+    },
+    {
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning": "tukar, ganti"
+    },
+    {
+      "word": "乗せる",
+      "reading": "のせる",
+      "meaning": "untuk meletakkan (sesuatu), untuk menerimanya"
+    },
+    {
+      "word": "乗り物",
+      "reading": "のりもの",
+      "meaning": "kendaraan"
+    },
+    {
+      "word": "替える",
+      "reading": "かえる",
+      "meaning": "untuk menukar, untuk mengganti, untuk mensubstitusi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "牛を馬に乗り換える",
+      "reading": "うしをうまにのりかえる",
+      "meaning": "to go from (using, etc.) something bad to something good",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

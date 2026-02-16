@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "残す",
+    "reading": "のこす",
+    "romaji": "nokosu",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "meninggalkan (di belakang)",
+          "menyimpan",
+          "memesan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to leave (undone)",
+          "to not finish"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to save",
+          "to set aside",
+          "to reserve"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to leave (to someone, esp. after one's death)",
+          "to bequeath"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stay (in the ring)",
+          "to hold on"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "残り",
+      "reading": "のこり",
+      "meaning": "tersisa, sisa"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "penyesalan; patut disesalkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "虎は死して皮を留め人は死して名を残す",
+      "reading": "とらはししてかわをとどめひとはししてなをのこす",
+      "meaning": "he has not lived that lives not after death",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "仕事はやり残すなよ。",
+      "reading": null,
+      "indonesian": "Don't leave your work unfinished.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

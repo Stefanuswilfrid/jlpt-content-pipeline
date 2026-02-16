@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "捲る",
+    "reading": "まくる",
+    "romaji": "makuru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membalik",
+          "membolak-balik halaman buku"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Godan verb with 'ru' ending"
+        ],
+        "meanings": [
+          "to do over and over again",
+          "to do relentlessly",
+          "to do with reckless abandon",
+          "to do continuously"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stage a comeback (against) (in mahjong, horse racing, etc.)",
+          "to come from behind"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "巻く",
+      "reading": "まく",
+      "meaning": "menggulung, melilit, menggulung"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

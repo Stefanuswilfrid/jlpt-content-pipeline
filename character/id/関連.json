@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "関連",
+    "reading": "かんれん",
+    "romaji": "kanren",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "hubungan",
+          "koneksi",
+          "relevansi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関心",
+      "reading": "かんしん",
+      "meaning": "perhatian, minat"
+    },
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "mesin; lembaga, organisasi"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "berturut-turut, keberlanjutan, terus-menerus"
+    },
+    {
+      "word": "連れ",
+      "reading": "つれ",
+      "meaning": "pendamping, teman"
+    },
+    {
+      "word": "連想",
+      "reading": "れんそう",
+      "meaning": "asosiasi (gagasan), saran"
+    },
+    {
+      "word": "関係",
+      "reading": "かんけい",
+      "meaning": "hubungan, koneksi"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "persatuan, aliansi"
+    },
+    {
+      "word": "関西",
+      "reading": "かんさい",
+      "meaning": "bagian barat daya Jepang, termasuk Osaka."
+    },
+    {
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "komunikasi, kontak, koneksi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これに関連して何か言いたい事はありますか。",
+      "reading": null,
+      "indonesian": "Do you have anything to say in connection with this?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これに関連してどなたか発言がありますか。",
+      "reading": null,
+      "indonesian": "Do any of you have anything to say in connection with this?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これと関連して知っていることはみな話しなさい。",
+      "reading": null,
+      "indonesian": "Tell me all you know in connection with this.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この関連で重要なのはコントロールグループの行動である。",
+      "reading": null,
+      "indonesian": "It is the behavior of the control group that is important in this connection.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "知らせ",
+    "reading": "しらせ",
+    "romaji": "shirase",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "news",
+          "word",
+          "tidings",
+          "notice",
+          "notification",
+          "information"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "omen",
+          "foreboding",
+          "premonition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "知恵",
+      "reading": "ちえ",
+      "meaning": "wisdom"
+    },
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "prefectural governor"
+    },
+    {
+      "word": "知識",
+      "reading": "ちしき",
+      "meaning": "knowledge"
+    },
+    {
+      "word": "知能",
+      "reading": "ちのう",
+      "meaning": "intelligence"
+    },
+    {
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "notice"
+    },
+    {
+      "word": "承知",
+      "reading": "しょうち",
+      "meaning": "knowledge"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "虫の知らせ",
+      "reading": "むしのしらせ",
+      "meaning": "feeling in one's bones",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "便りがないのは良い知らせ。",
+      "reading": null,
+      "english": "No news is good news.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は帰国のことを友人に知らせたのか。",
+      "reading": null,
+      "english": "Did you inform your friends of your home-coming?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその結果を上役に知らせなくてはならない。",
+      "reading": null,
+      "english": "You must inform your superior of the results.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

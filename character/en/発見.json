@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "発見",
+    "reading": "はっけん",
+    "romaji": "hakken",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "discovery",
+          "detection",
+          "finding"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "publication (of a newspaper, magazine, book, etc.)"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "development"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "announcement"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "opinion"
+    },
+    {
+      "word": "爆発",
+      "reading": "ばくはつ",
+      "meaning": "explosion"
+    },
+    {
+      "word": "見事",
+      "reading": "みごと",
+      "meaning": "splendid"
+    },
+    {
+      "word": "発射",
+      "reading": "はっしゃ",
+      "meaning": "firing (esp. a rocket or missile)"
+    },
+    {
+      "word": "見送り",
+      "reading": "みおくり",
+      "meaning": "seeing (someone) off"
+    },
+    {
+      "word": "現在",
+      "reading": "げんざい",
+      "meaning": "the present"
+    },
+    {
+      "word": "発達",
+      "reading": "はったつ",
+      "meaning": "development"
+    },
+    {
+      "word": "見舞い",
+      "reading": "みまい",
+      "meaning": "visit (to someone affected by illness or misfortune)"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "estimate"
+    },
+    {
+      "word": "発車",
+      "reading": "はっしゃ",
+      "meaning": "departure (of a train, car, etc.)"
+    },
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "opinion"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "癌は発見が間に合えば、治すことができる。",
+      "reading": null,
+      "english": "Cancer can be cured if discovered in time.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "学生には自分で発見させるようにした方がいい。",
+      "reading": null,
+      "english": "You had better leave the students to find out for themselves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

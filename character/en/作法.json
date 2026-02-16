@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "作法",
+    "reading": "さほう",
+    "romaji": "sahou",
+    "jlpt": "N3",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "manners",
+          "etiquette",
+          "propriety"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "manner of production (esp. of prose, poetry, etc.)",
+          "way of making"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "作物",
+      "reading": "さくもつ",
+      "meaning": "crop"
+    },
+    {
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "work"
+    },
+    {
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "work (e.g. book, film, painting, composition)"
+    },
+    {
+      "word": "憲法",
+      "reading": "けんぽう",
+      "meaning": "constitution"
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "method"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaning": "author"
+    },
+    {
+      "word": "作曲",
+      "reading": "さっきょく",
+      "meaning": "composition (of music)"
+    },
+    {
+      "word": "操作",
+      "reading": "そうさ",
+      "meaning": "operation"
+    },
+    {
+      "word": "作",
+      "reading": "さく",
+      "meaning": "work (e.g. of art)"
+    },
+    {
+      "word": "法",
+      "reading": "ほう",
+      "meaning": "law"
+    },
+    {
+      "word": "法則",
+      "reading": "ほうそく",
+      "meaning": "law"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "行儀作法",
+      "reading": "ぎょうぎさほう",
+      "meaning": "etiquette",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ナイフで物を食べるのは不作法だ。",
+      "reading": null,
+      "english": "It is bad manners to eat with a knife.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんな事を言うとは、あなたは無作法だ。",
+      "reading": null,
+      "english": "It's very rude of you to say a thing like that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのように無作法をしてはいけない。",
+      "reading": null,
+      "english": "You must not misbehave so.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "見知らぬ人をじろじろ見るのは無作法である。",
+      "reading": null,
+      "english": "It is rude to stare at strangers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "見知らぬ人をじろじろ見るのは不作法である。",
+      "reading": null,
+      "english": "It is rude to stare at strangers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

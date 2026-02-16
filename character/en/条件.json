@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "条件",
+    "reading": "じょうけん",
+    "romaji": "jouken",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "condition",
+          "term",
+          "requirement",
+          "qualification",
+          "prerequisite"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "事件",
+      "reading": "じけん",
+      "meaning": "event"
+    },
+    {
+      "word": "筋",
+      "reading": "すじ",
+      "meaning": "muscle"
+    },
+    {
+      "word": "件",
+      "reading": "けん",
+      "meaning": "matter"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "条件反射",
+      "reading": "じょうけんはんしゃ",
+      "meaning": "conditioned reflex",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

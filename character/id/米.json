@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "米",
+    "reading": "メートル",
+    "romaji": "meetoru",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "beras mentah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meter",
+          "gauge"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "米百俵",
+      "reading": "こめひゃっぴょう",
+      "meaning": "kome hyappyō",
+      "type": "idiom"
+    },
+    {
+      "word": "足の裏の米粒",
+      "reading": "あしのうらのこめつぶ",
+      "meaning": "pointless (academic) degree",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたの国では米を食べますか？",
+      "reading": null,
+      "indonesian": "Do you eat rice in your country?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

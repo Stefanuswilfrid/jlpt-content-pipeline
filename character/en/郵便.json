@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "郵便",
+    "reading": "ゆうびん",
+    "romaji": "yuubin",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mail service",
+          "postal service",
+          "mail",
+          "post"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mail",
+          "postal matter",
+          "postal items"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "post office"
+    },
+    {
+      "word": "便",
+      "reading": "びん",
+      "meaning": "flight (e.g. airline flight)"
+    },
+    {
+      "word": "便り",
+      "reading": "たより",
+      "meaning": "news"
+    },
+    {
+      "word": "郵送",
+      "reading": "ゆうそう",
+      "meaning": "mailing"
+    },
+    {
+      "word": "不便",
+      "reading": "ふべん",
+      "meaning": "inconvenience"
+    },
+    {
+      "word": "便所",
+      "reading": "べんじょ",
+      "meaning": "toilet"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

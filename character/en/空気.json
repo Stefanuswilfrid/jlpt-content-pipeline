@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "空気",
+    "reading": "くうき",
+    "romaji": "kuuki",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "air",
+          "atmosphere"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mood",
+          "situation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "someone with no presence",
+          "someone who doesn't stand out at all"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "airport"
+    },
+    {
+      "word": "気",
+      "reading": "き",
+      "meaning": "spirit"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "feeling"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "feeling"
+    },
+    {
+      "word": "景気",
+      "reading": "けいき",
+      "meaning": "business conditions"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "popularity"
+    },
+    {
+      "word": "航空",
+      "reading": "こうくう",
+      "meaning": "aviation"
+    },
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "electricity"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "illness (usu. excluding minor ailments, e.g. common cold)"
+    },
+    {
+      "word": "空",
+      "reading": "から",
+      "meaning": "emptiness"
+    },
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "(air) temperature"
+    },
+    {
+      "word": "大気",
+      "reading": "たいき",
+      "meaning": "atmosphere"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "空気は目に見えない。",
+      "reading": null,
+      "english": "Air is invisible.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

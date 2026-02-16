@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "荒い",
+    "reading": "あらい",
+    "romaji": "arai",
+    "jlpt": "N2",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "rough",
+          "wild",
+          "violent",
+          "rude",
+          "coarse",
+          "harsh",
+          "fierce",
+          "heavy (e.g. breathing)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "immoderate",
+          "extravagant",
+          "reckless"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "荒っぽい",
+      "reading": "あらっぽい",
+      "meaning": "wild"
+    },
+    {
+      "word": "荒れる",
+      "reading": "あれる",
+      "meaning": "to become stormy"
+    },
+    {
+      "word": "粗筋",
+      "reading": "あらすじ",
+      "meaning": "outline"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "気が荒い",
+      "reading": "きがあらい",
+      "meaning": "bad-tempered",
+      "type": "idiom"
+    },
+    {
+      "word": "気の荒い",
+      "reading": "きのあらい",
+      "meaning": "bad-tempered",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

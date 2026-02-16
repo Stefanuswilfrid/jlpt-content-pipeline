@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "問う",
+    "reading": "とう",
+    "romaji": "tou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending (special class)",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to ask",
+          "to inquire"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending (special class)",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to blame (someone) for",
+          "to accuse of",
+          "to pursue (question of responsibility)",
+          "to charge with"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending (special class)",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to care about",
+          "to regard as important"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending (special class)",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to call into question",
+          "to doubt",
+          "to question"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "訪問",
+      "reading": "ほうもん",
+      "meaning": "call"
+    },
+    {
+      "word": "質問",
+      "reading": "しつもん",
+      "meaning": "question"
+    },
+    {
+      "word": "疑問",
+      "reading": "ぎもん",
+      "meaning": "doubt"
+    },
+    {
+      "word": "問い",
+      "reading": "とい",
+      "meaning": "question"
+    },
+    {
+      "word": "問答",
+      "reading": "もんどう",
+      "meaning": "questions and answers"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "鼎の軽重を問う",
+      "reading": "かなえのけいちょうをとう",
+      "meaning": "to call someone's ability into question",
+      "type": "idiom"
+    },
+    {
+      "word": "問うは一旦の恥、問わぬは末代の恥",
+      "reading": "とうはいったんのはじ、とわぬはまつだいのはじ",
+      "meaning": "better to ask and be embarrassed than not ask and never know",
+      "type": "proverb"
+    },
+    {
+      "word": "問うは一度の恥、問わぬは末代の恥",
+      "reading": "とうはいちどのはじ、とわぬはまつだいのはじ",
+      "meaning": "better to ask and be embarrassed than not ask and never know",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

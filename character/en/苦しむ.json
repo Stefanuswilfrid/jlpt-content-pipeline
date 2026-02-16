@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "苦しむ",
+    "reading": "くるしむ",
+    "romaji": "kurushimu",
+    "jlpt": "N3",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to suffer",
+          "to groan",
+          "to be worried"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "苦心",
+      "reading": "くしん",
+      "meaning": "pains"
+    },
+    {
+      "word": "苦労",
+      "reading": "くろう",
+      "meaning": "trouble"
+    },
+    {
+      "word": "苦手",
+      "reading": "にがて",
+      "meaning": "poor (at)"
+    },
+    {
+      "word": "苦痛",
+      "reading": "くつう",
+      "meaning": "pain"
+    },
+    {
+      "word": "苦しい",
+      "reading": "くるしい",
+      "meaning": "painful"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "苦しむことは人間の定めである。",
+      "reading": null,
+      "english": "It is man's lot to suffer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "生きることは苦しむこと。",
+      "reading": null,
+      "english": "To live is to suffer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

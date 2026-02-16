@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "信用",
+    "reading": "しんよう",
+    "romaji": "shin'you",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "confidence",
+          "trust",
+          "faith",
+          "reputation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "credit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "使用",
+      "reading": "しよう",
+      "meaning": "use"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "cost"
+    },
+    {
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "trust (in)"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "application (of a rule, law, method, etc.)"
+    },
+    {
+      "word": "信号",
+      "reading": "しんごう",
+      "meaning": "signal"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "practical use"
+    },
+    {
+      "word": "信仰",
+      "reading": "しんこう",
+      "meaning": "(religious) faith"
+    },
+    {
+      "word": "引用",
+      "reading": "いんよう",
+      "meaning": "quotation"
+    },
+    {
+      "word": "用いる",
+      "reading": "もちいる",
+      "meaning": "to use"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "care"
+    },
+    {
+      "word": "私用",
+      "reading": "しよう",
+      "meaning": "personal use"
+    },
+    {
+      "word": "信じる",
+      "reading": "しんじる",
+      "meaning": "to believe"
+    },
+    {
+      "word": "器用",
+      "reading": "きよう",
+      "meaning": "skillful"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaning": "use"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君のことは完全に信用しています。",
+      "reading": null,
+      "english": "I have absolute trust in you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

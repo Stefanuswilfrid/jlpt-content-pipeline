@@ -1,0 +1,194 @@
+{
+  "definition": {
+    "word": "会計",
+    "reading": "かいけい",
+    "romaji": "kaikei",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "akun",
+          "keuangan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bill (at a restaurant)",
+          "check"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "accountant",
+          "treasurer",
+          "paymaster",
+          "cashier"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "settlement (of a bill, fee, etc.), payment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "economic condition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "anggota, keanggotaan"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "Diet, kongres, parlemen"
+    },
+    {
+      "word": "国会",
+      "reading": "こっかい",
+      "meaning": "Parlemen nasional, parlemen, kongres"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "konvensi, turnamen (besar), pertemuan massal"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "pertemuan, majelis"
+    },
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "jumlah total, total"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "rencana, desain"
+    },
+    {
+      "word": "計算",
+      "reading": "けいさん",
+      "meaning": "perhitungan, penaksiran"
+    },
+    {
+      "word": "都会",
+      "reading": "とかい",
+      "meaning": "kota"
+    },
+    {
+      "word": "計",
+      "reading": "けい",
+      "meaning": "rencana; jumlah, total"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "pertemuan, kencan, perjumpaan"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter, pengukur"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "rapat bisnis; konferensi"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "perusahaan, korporasi"
+    },
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "masyarakat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お会計お願いします。",
+      "reading": null,
+      "indonesian": "Check, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お会計をお願いします。",
+      "reading": null,
+      "indonesian": "Check, please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会計は別々でお願いします。",
+      "reading": null,
+      "indonesian": "We'd like separate checks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会計係はこれらの数字を調べるだろう。",
+      "reading": null,
+      "indonesian": "The accountant will go into these figures.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会計をお願いします。",
+      "reading": null,
+      "indonesian": "Could I have the check?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "会計はお帰りのレジでおねがいします。",
+      "reading": null,
+      "indonesian": "Pay the cashier on the way out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会計は部屋代につけてください。",
+      "reading": null,
+      "indonesian": "Could you add the cost to my room bill?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

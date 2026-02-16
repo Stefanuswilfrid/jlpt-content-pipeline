@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "知恵",
+    "reading": "ちえ",
+    "romaji": "chie",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kebijaksanaan",
+          "kecerdasan",
+          "kepintaran"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "prajna (insight leading to enlightenment)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "gubernur prefektur"
+    },
+    {
+      "word": "知識",
+      "reading": "ちしき",
+      "meaning": "pengetahuan, informasi"
+    },
+    {
+      "word": "知らせ",
+      "reading": "しらせ",
+      "meaning": "melihat"
+    },
+    {
+      "word": "知能",
+      "reading": "ちのう",
+      "meaning": "kecerdasan, otak"
+    },
+    {
+      "word": "知人",
+      "reading": "ちじん",
+      "meaning": "teman, kenalan"
+    },
+    {
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "pemberitahuan, notifikasi"
+    },
+    {
+      "word": "恩恵",
+      "reading": "おんけい",
+      "meaning": "berkah, manfaat"
+    },
+    {
+      "word": "承知",
+      "reading": "しょうち",
+      "meaning": "persetujuan, penerimaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "下衆の後知恵",
+      "reading": "げすのあとぢえ",
+      "meaning": "hindsight is 20-20 (even for a fool)",
+      "type": "proverb"
+    },
+    {
+      "word": "三人寄れば文殊の知恵",
+      "reading": "さんにんよればもんじゅのちえ",
+      "meaning": "three heads are better than two",
+      "type": "proverb"
+    },
+    {
+      "word": "大男総身に知恵が回り兼ね",
+      "reading": "おおおとこそうみにちえがまわりかね",
+      "meaning": "big heads have little wit",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,45 @@
+{
+  "definition": {
+    "word": "怠る",
+    "reading": "おこたる",
+    "romaji": "okotaru",
+    "jlpt": "N2",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengabaikan",
+          "gagal"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to improve (of an illness)",
+          "to get better"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "怠ける",
+      "reading": "なまける",
+      "meaning": "bermalas-malasan, mengabaikan"
+    },
+    {
+      "word": "滞納",
+      "reading": "たいのう",
+      "meaning": "tidak membayar, gagal bayar"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

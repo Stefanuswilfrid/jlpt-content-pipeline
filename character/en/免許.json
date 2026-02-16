@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "免許",
+    "reading": "めんきょ",
+    "romaji": "menkyo",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "license",
+          "licence",
+          "permission",
+          "permit",
+          "certificate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "許可",
+      "reading": "きょか",
+      "meaning": "permission"
+    },
+    {
+      "word": "許す",
+      "reading": "ゆるす",
+      "meaning": "to permit"
+    },
+    {
+      "word": "御免",
+      "reading": "ごめん",
+      "meaning": "I'm sorry"
+    },
+    {
+      "word": "下",
+      "reading": "もと",
+      "meaning": "under (guidance, supervision, rules, the law, etc.)"
+    },
+    {
+      "word": "足元",
+      "reading": "あしもと",
+      "meaning": "at one's feet"
+    },
+    {
+      "word": "免税",
+      "reading": "めんぜい",
+      "meaning": "tax exemption"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "免許皆伝",
+      "reading": "めんきょかいでん",
+      "meaning": "possessing full mastery of an art (e.g. Judo)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

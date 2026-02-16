@@ -1,0 +1,170 @@
+{
+  "definition": {
+    "word": "移転",
+    "reading": "いてん",
+    "romaji": "iten",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "moving",
+          "relocation",
+          "change of address"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "transfer (of deeds, property, etc.)",
+          "demise"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "回転",
+      "reading": "かいてん",
+      "meaning": "rotation"
+    },
+    {
+      "word": "転々",
+      "reading": "てんてん",
+      "meaning": "moving from place to place"
+    },
+    {
+      "word": "転がす",
+      "reading": "ころがす",
+      "meaning": "to roll"
+    },
+    {
+      "word": "転がる",
+      "reading": "ころがる",
+      "meaning": "to roll"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operation (of a machine)"
+    },
+    {
+      "word": "転換",
+      "reading": "てんかん",
+      "meaning": "conversion"
+    },
+    {
+      "word": "逆転",
+      "reading": "ぎゃくてん",
+      "meaning": "reversal (of a situation)"
+    },
+    {
+      "word": "移行",
+      "reading": "いこう",
+      "meaning": "transition"
+    },
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaning": "movement"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "driver"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "bicycle"
+    },
+    {
+      "word": "移民",
+      "reading": "いみん",
+      "meaning": "immigration"
+    },
+    {
+      "word": "移住",
+      "reading": "いじゅう",
+      "meaning": "migration"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "移転にともない５月３０日、３１日は休業いたします。",
+      "reading": null,
+      "english": "Due to our office moving, we will be closed from May 30 to 31.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ご移転の際はお知らせ下さい。",
+      "reading": null,
+      "english": "If you change your address, please let me know.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "新しいビルへの移転にわくわくしてます。",
+      "reading": null,
+      "english": "We are excited about the move to the new building.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "工場は北海道へ移転した。",
+      "reading": null,
+      "english": "The factory has been transferred to Hokkaido.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "移転にともない５月３０日、３１日は休業いたします。",
+      "reading": null,
+      "english": "Due to our office moving, we will be closed from May 30 to 31.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ご移転の際はお知らせ下さい。",
+      "reading": null,
+      "english": "If you change your address, please let me know.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "工場は北海道へ移転した。",
+      "reading": null,
+      "english": "The factory has been transferred to Hokkaido.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "新しいビルへの移転にわくわくしてます。",
+      "reading": null,
+      "english": "We are excited about the move to the new building.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

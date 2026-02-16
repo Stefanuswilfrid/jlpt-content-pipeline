@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "世界",
+    "reading": "せかい",
+    "romaji": "sekai",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the world",
+          "society",
+          "the universe"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sphere",
+          "circle",
+          "world"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "world-renowned",
+          "world-famous"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "realm governed by one Buddha",
+          "space"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "世話",
+      "reading": "せわ",
+      "meaning": "care"
+    },
+    {
+      "word": "世紀",
+      "reading": "せいき",
+      "meaning": "century"
+    },
+    {
+      "word": "限界",
+      "reading": "げんかい",
+      "meaning": "limit"
+    },
+    {
+      "word": "世の中",
+      "reading": "よのなか",
+      "meaning": "society"
+    },
+    {
+      "word": "世間",
+      "reading": "せけん",
+      "meaning": "world"
+    },
+    {
+      "word": "世",
+      "reading": "よ",
+      "meaning": "world"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "三千世界",
+      "reading": "さんぜんせかい",
+      "meaning": "the whole universe (of a billion worlds) that Buddha enlightened",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "貧は世界の福の神",
+      "reading": "ひんはせかいのふくのかみ",
+      "meaning": "poverty is the greatest motivator",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

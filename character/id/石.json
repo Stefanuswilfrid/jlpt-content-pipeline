@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "石",
+    "reading": "いし",
+    "romaji": "ishi",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "batu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "jewel",
+          "precious stone"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flint (in a lighter)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(round) game piece",
+          "stone (in go, etc.)",
+          "disc (in Othello)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stone (in the bladder, kidney etc.)",
+          "calculus"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "石炭",
+      "reading": "せきたん",
+      "meaning": "batu bara"
+    },
+    {
+      "word": "宝石",
+      "reading": "ほうせき",
+      "meaning": "permata, perhiasan"
+    },
+    {
+      "word": "石油",
+      "reading": "せきゆ",
+      "meaning": "minyak, petroleum, kerosin"
+    },
+    {
+      "word": "碑",
+      "reading": "いしぶみ",
+      "meaning": "monumen batu yang bertuliskan prasasti"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一石二鳥",
+      "reading": "いっせきにちょう",
+      "meaning": "killing two birds with one stone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "石頭",
+      "reading": "いしあたま",
+      "meaning": "obstinate person",
+      "type": "idiom"
+    },
+    {
+      "word": "他山の石",
+      "reading": "たざんのいし",
+      "meaning": "lesson learned from someone's else mistake",
+      "type": "idiom"
+    },
+    {
+      "word": "玉石混交",
+      "reading": "ぎょくせきこんこう",
+      "meaning": "mixed bag",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "石部金吉",
+      "reading": "いしべきんきち",
+      "meaning": "man of incorruptible character",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "電光石火",
+      "reading": "でんこうせっか",
+      "meaning": "flash",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "点滴穿石",
+      "reading": "てんてきせんせき",
+      "meaning": "constant dripping wears away the stone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "枕流漱石",
+      "reading": "ちんりゅうそうせき",
+      "meaning": "sore loser who stubbornly refuses to admit being wrong",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "薬石無効",
+      "reading": "やくせきむこう",
+      "meaning": "neither medicines nor medical care having little effect on a patient",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "漱石枕流",
+      "reading": "そうせきちんりゅう",
+      "meaning": "sore loser who stubbornly refuses to admit being wrong",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

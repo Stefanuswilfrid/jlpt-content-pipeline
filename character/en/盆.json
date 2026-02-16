@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "盆",
+    "reading": "ぼん",
+    "romaji": "bon",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tray"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "family",
+          "household"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Obon",
+          "Bon Festival",
+          "Lantern Festival",
+          "Festival of the Dead"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gambler's den"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "盆地",
+      "reading": "ぼんち",
+      "meaning": "basin (e.g. between mountains)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "盆と正月",
+      "reading": "ぼんとしょうがつ",
+      "meaning": "the Bon Festival and New Year",
+      "type": "idiom"
+    },
+    {
+      "word": "覆水盆に返らず",
+      "reading": "ふくすいぼんにかえらず",
+      "meaning": "what's done is done",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

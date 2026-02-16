@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "運ぶ",
+    "reading": "はこぶ",
+    "romaji": "hakobu",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to carry",
+          "to transport",
+          "to move",
+          "to convey"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to come",
+          "to go"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to use (a brush, chopsticks, etc.)",
+          "to move"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to carry out",
+          "to proceed with",
+          "to arrange"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go (well, etc.)",
+          "to proceed",
+          "to progress"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "exercise"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operation (of a machine)"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "driver"
+    },
+    {
+      "word": "運",
+      "reading": "うん",
+      "meaning": "fortune"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足を運ぶ",
+      "reading": "あしをはこぶ",
+      "meaning": "to go (to)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

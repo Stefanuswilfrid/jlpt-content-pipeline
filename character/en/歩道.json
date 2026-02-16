@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "歩道",
+    "reading": "ほどう",
+    "romaji": "hodou",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "footpath",
+          "walkway",
+          "sidewalk",
+          "pavement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "進歩",
+      "reading": "しんぽ",
+      "meaning": "progress"
+    },
+    {
+      "word": "道徳",
+      "reading": "どうとく",
+      "meaning": "morals"
+    },
+    {
+      "word": "道路",
+      "reading": "どうろ",
+      "meaning": "road"
+    },
+    {
+      "word": "鉄道",
+      "reading": "てつどう",
+      "meaning": "railroad"
+    },
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "calligraphy (esp. Asian calligraphy based on Chinese characters)"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaning": "tool"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "walk"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "遊歩道は海岸と平行に走っている。",
+      "reading": null,
+      "english": "The promenade runs parallel to the shore.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "歩道を歩きなさい。",
+      "reading": null,
+      "english": "Walk on the pavement.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "歩道の上には日よけがあった。",
+      "reading": null,
+      "english": "There was a sunshade over the sidewalk.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "歩道で自転車に乗ってはいけません。",
+      "reading": null,
+      "english": "One shouldn't ride a bicycle on the pavement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "歩道で自転車に乗ってはいけません。",
+      "reading": null,
+      "english": "You shouldn't ride a bicycle on the sidewalk.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "買い物客たちが歩道を急いでいた。",
+      "reading": null,
+      "english": "Shoppers hurried along the sidewalk.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

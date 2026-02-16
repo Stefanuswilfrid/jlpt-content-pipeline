@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "続ける",
+    "reading": "つづける",
+    "romaji": "tsuzukeru",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to continue",
+          "to keep up",
+          "to keep on"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Ichidan verb"
+        ],
+        "meanings": [
+          "to continue ...",
+          "to keep on ..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "相続",
+      "reading": "そうぞく",
+      "meaning": "succession"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "続く",
+      "reading": "つづく",
+      "meaning": "to continue"
+    },
+    {
+      "word": "継ぐ",
+      "reading": "つぐ",
+      "meaning": "to succeed (a person, to a position, etc.)"
+    },
+    {
+      "word": "続き",
+      "reading": "つづき",
+      "meaning": "continuation"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

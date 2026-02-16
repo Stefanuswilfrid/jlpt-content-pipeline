@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "汲む",
+    "reading": "くむ",
+    "romaji": "kumu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to draw (water)",
+          "to ladle",
+          "to dip up",
+          "to scoop up",
+          "to pump"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pour (into a cup)",
+          "to drink (together)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to consider (feelings, the situation, etc.)",
+          "to sympathize with",
+          "to intuit",
+          "to understand"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to draw upon",
+          "to inherit"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "籠で水を汲む",
+      "reading": "かごでみずをくむ",
+      "meaning": "to bail out the ocean with a teaspoon",
+      "type": "idiom"
+    },
+    {
+      "word": "一河の流れを汲むも他生の縁",
+      "reading": "いちがのながれをくむもたしょうのえん",
+      "meaning": "the events of today are destined by the past",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

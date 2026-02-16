@@ -1,0 +1,160 @@
+{
+  "definition": {
+    "word": "見当",
+    "reading": "けんとう",
+    "romaji": "kentou",
+    "jlpt": "N3",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perkiraan",
+          "tebakan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "direction",
+          "bearings"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "registration mark (printing)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "approximately",
+          "about",
+          "around"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "pada saat itu, pada hari-hari itu (sama dengan そのころ)"
+    },
+    {
+      "word": "見解",
+      "reading": "けんかい",
+      "meaning": "pendapat, sudut pandang"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "(bertanggung jawab)"
+    },
+    {
+      "word": "相当",
+      "reading": "そうとう",
+      "meaning": "cukup besar, lumayan; berharga ~"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "penemuan, deteksi, temuan"
+    },
+    {
+      "word": "見事",
+      "reading": "みごと",
+      "meaning": "luar biasa, megah"
+    },
+    {
+      "word": "当たり前",
+      "reading": "あたりまえ",
+      "meaning": "biasa, umum, jelas"
+    },
+    {
+      "word": "弁当",
+      "reading": "べんとう",
+      "meaning": "makan siang kotak"
+    },
+    {
+      "word": "見送り",
+      "reading": "みおくり",
+      "meaning": "mengantar seseorang"
+    },
+    {
+      "word": "見舞い",
+      "reading": "みまい",
+      "meaning": "ungkapan simpati, ungkapan keprihatinan"
+    },
+    {
+      "word": "現在",
+      "reading": "げんざい",
+      "meaning": "sekarang (sama dengan 今 (いま)), sekarang, saat ini"
+    },
+    {
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "tamasya"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "てんで見当がつきません。",
+      "reading": null,
+      "indonesian": "I don't have the slightest idea.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうすればいいのか、全く見当もつかない。",
+      "reading": null,
+      "indonesian": "I don't have the slightest idea what to do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何があったかの見当はつくよ。",
+      "reading": null,
+      "indonesian": "I have some idea of what happened.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なんだか見当がつきません。",
+      "reading": null,
+      "indonesian": "I've no idea what's happening.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何が起きてるのか、見当もつかないよ。",
+      "reading": null,
+      "indonesian": "I've no idea what's happening.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それはいくらするか見当がつかない。",
+      "reading": null,
+      "indonesian": "I have no idea how much it costs.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

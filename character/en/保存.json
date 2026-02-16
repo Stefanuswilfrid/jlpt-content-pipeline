@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "保存",
+    "reading": "ほぞん",
+    "romaji": "hozon",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "preservation",
+          "conservation",
+          "storage",
+          "maintenance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "saving (e.g. to disk)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "保護",
+      "reading": "ほご",
+      "meaning": "protection"
+    },
+    {
+      "word": "存在",
+      "reading": "そんざい",
+      "meaning": "existence"
+    },
+    {
+      "word": "保証",
+      "reading": "ほしょう",
+      "meaning": "guarantee"
+    },
+    {
+      "word": "保健",
+      "reading": "ほけん",
+      "meaning": "preservation of health"
+    },
+    {
+      "word": "生存",
+      "reading": "せいぞん",
+      "meaning": "existence"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

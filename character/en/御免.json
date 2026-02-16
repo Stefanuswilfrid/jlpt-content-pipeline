@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "御免",
+    "reading": "ごめん",
+    "romaji": "gomen",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "I'm sorry",
+          "my apologies",
+          "excuse me",
+          "pardon me"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "may I come in?"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "permission",
+          "leave",
+          "license"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dismissal",
+          "discharge"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "not wanting",
+          "objecting to",
+          "being fed up with",
+          "wishing to avoid"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "天下御免",
+      "reading": "てんかごめん",
+      "meaning": "licensed",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "帯刀御免",
+      "reading": "たいとうごめん",
+      "meaning": "a non-samurai being granted the privilege of wearing a sword (during the Edo period)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

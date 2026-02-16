@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "注目",
+    "reading": "ちゅうもく",
+    "romaji": "chuumoku",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "notice",
+          "attention",
+          "observation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "purpose"
+    },
+    {
+      "word": "目標",
+      "reading": "もくひょう",
+      "meaning": "goal"
+    },
+    {
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "order (for an item)"
+    },
+    {
+      "word": "科目",
+      "reading": "かもく",
+      "meaning": "(school) subject"
+    },
+    {
+      "word": "注す",
+      "reading": "さす",
+      "meaning": "to pour"
+    },
+    {
+      "word": "注ぐ",
+      "reading": "つぐ",
+      "meaning": "to pour (into a vessel)"
+    },
+    {
+      "word": "注",
+      "reading": "ちゅう",
+      "meaning": "annotation"
+    },
+    {
+      "word": "注ぐ",
+      "reading": "そそぐ",
+      "meaning": "to pour (into)"
+    },
+    {
+      "word": "目上",
+      "reading": "めうえ",
+      "meaning": "superior"
+    },
+    {
+      "word": "注意",
+      "reading": "ちゅうい",
+      "meaning": "attention"
+    },
+    {
+      "word": "項目",
+      "reading": "こうもく",
+      "meaning": "item"
+    },
+    {
+      "word": "目安",
+      "reading": "めやす",
+      "meaning": "criterion"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "みんな、黒板に注目！",
+      "reading": null,
+      "english": "Look at the blackboard, everyone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その歌手は注目の的だった。",
+      "reading": null,
+      "english": "Attention centered on the singer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご注目下さい。",
+      "reading": null,
+      "english": "Please give me your attention.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

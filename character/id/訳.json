@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "訳",
+    "reading": "わけ",
+    "romaji": "wake",
+    "jlpt": "N4",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "terjemahan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meaning",
+          "sense"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(good) sense",
+          "reason"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "circumstances",
+          "case"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(romantic) relationship",
+          "love affair"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "翻訳",
+      "reading": "ほんやく",
+      "meaning": "terjemahan"
+    },
+    {
+      "word": "申し訳",
+      "reading": "もうしわけ",
+      "meaning": "permintaan maaf, alasan"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretasi; penerjemah"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

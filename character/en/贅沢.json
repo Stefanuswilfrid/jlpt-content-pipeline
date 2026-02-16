@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "贅沢",
+    "reading": "ぜいたく",
+    "romaji": "zeitaku",
+    "jlpt": "N3",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "luxury",
+          "extravagance"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to live in luxury",
+          "to indulge oneself"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "lavish (use of something)",
+          "abundant",
+          "copious",
+          "wasteful"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "excessive (e.g. demands, expectations)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "沢山",
+      "reading": "たくさん",
+      "meaning": "a lot"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "贅沢三昧",
+      "reading": "ぜいたくざんまい",
+      "meaning": "indulging in every possible luxury",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "贅沢を言う",
+      "reading": "ぜいたくをいう",
+      "meaning": "to ask for too much",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

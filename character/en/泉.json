@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "泉",
+    "reading": "いずみ",
+    "romaji": "izumi",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "spring",
+          "fountain"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "温泉",
+      "reading": "おんせん",
+      "meaning": "hot spring"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "悪木盗泉",
+      "reading": "あくぼくとうせん",
+      "meaning": "a virtuous person should not commit an act that offends their moral principles no matter how hard pressed they may be",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "渇しても盗泉の水を飲まず",
+      "reading": "かっしてもとうせんのみずをのまず",
+      "meaning": "better starve than fatten on ill-gotten wealth",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

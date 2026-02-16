@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "全て",
+    "reading": "すべて",
+    "romaji": "subete",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "everything",
+          "all",
+          "the whole"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "entirely",
+          "completely",
+          "wholly",
+          "all"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "全身",
+      "reading": "ぜんしん",
+      "meaning": "whole (body)"
+    },
+    {
+      "word": "全",
+      "reading": "ぜん",
+      "meaning": "all"
+    },
+    {
+      "word": "全く",
+      "reading": "まったく",
+      "meaning": "really"
+    },
+    {
+      "word": "全体",
+      "reading": "ぜんたい",
+      "meaning": "whole"
+    },
+    {
+      "word": "全国",
+      "reading": "ぜんこく",
+      "meaning": "the whole country"
+    },
+    {
+      "word": "全員",
+      "reading": "ぜんいん",
+      "meaning": "all members"
+    },
+    {
+      "word": "完全",
+      "reading": "かんぜん",
+      "meaning": "perfect"
+    },
+    {
+      "word": "全般",
+      "reading": "ぜんぱん",
+      "meaning": "(the) whole"
+    },
+    {
+      "word": "全集",
+      "reading": "ぜんしゅう",
+      "meaning": "complete works"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学校に全てを求めることはできない。",
+      "reading": null,
+      "english": "One can't expect everything from schools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校に全てを求めることはできない。",
+      "reading": null,
+      "english": "One can't expect everything from schools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "医者たちの努力も全てかいがなかった。",
+      "reading": null,
+      "english": "All the efforts of the doctors were to no avail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

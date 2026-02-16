@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "法則",
+    "reading": "ほうそく",
+    "romaji": "housoku",
+    "jlpt": "N2",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "law",
+          "rule"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不規則",
+      "reading": "ふきそく",
+      "meaning": "irregular"
+    },
+    {
+      "word": "寸法",
+      "reading": "すんぽう",
+      "meaning": "measurement"
+    },
+    {
+      "word": "法",
+      "reading": "ほう",
+      "meaning": "law"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々の頭脳でさえ、全て物理の法則に従っている。",
+      "reading": null,
+      "english": "Even our brains are subject to the laws of physics.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは自然の法則に従う。",
+      "reading": null,
+      "english": "We are subject to the laws of nature.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ニュートンは引力の法則を確立した。",
+      "reading": null,
+      "english": "Newton established the law of gravity.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その法則はこの場合当てはまらない。",
+      "reading": null,
+      "english": "The law does not apply to this case.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その科学者は法則を発見した。",
+      "reading": null,
+      "english": "The scientist found out laws.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その科学者は自然の法則を発見しようとした。",
+      "reading": null,
+      "english": "The scientist tried to discover Nature's laws.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この法則はすべての場合に適用されるとは限らない。",
+      "reading": null,
+      "english": "This rule cannot be applied in every case.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あらゆる物は自然の法則に従う。",
+      "reading": null,
+      "english": "Everything is subject to the laws of nature.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あらゆるものは自然の法則を受けている。",
+      "reading": null,
+      "english": "Everything is subject to the laws of nature.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日はオームの法則に関する実験を行います。",
+      "reading": null,
+      "english": "Today we will carry out an experiment about Ohm's Law.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "全ての自然の法則が正しいわけではない。",
+      "reading": null,
+      "english": "Not all the laws of nature are correct.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "自然の法則には逆らえない。",
+      "reading": null,
+      "english": "You can't go against the laws of nature.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

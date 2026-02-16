@@ -1,0 +1,162 @@
+{
+  "definition": {
+    "word": "完全",
+    "reading": "かんぜん",
+    "romaji": "kanzen",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kesempurnaan",
+          "kelengkapan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "全体",
+      "reading": "ぜんたい",
+      "meaning": "keseluruhan, seluruh bagian, apa pun (masalahnya)"
+    },
+    {
+      "word": "全国",
+      "reading": "ぜんこく",
+      "meaning": "seluruh bangsa, di seluruh negeri, di seluruh negara"
+    },
+    {
+      "word": "全員",
+      "reading": "ぜんいん",
+      "meaning": "semua anggota"
+    },
+    {
+      "word": "完成",
+      "reading": "かんせい",
+      "meaning": "lengkap, penyelesaian; kesempurnaan"
+    },
+    {
+      "word": "全身",
+      "reading": "ぜんしん",
+      "meaning": "seluruh tubuh, potret penuh"
+    },
+    {
+      "word": "全",
+      "reading": "ぜん",
+      "meaning": "semua, keseluruhan, seluruhnya"
+    },
+    {
+      "word": "全く",
+      "reading": "まったく",
+      "meaning": "sungguh, sepenuhnya"
+    },
+    {
+      "word": "全て",
+      "reading": "すべて",
+      "meaning": "semuanya, keseluruhan, seluruhnya"
+    },
+    {
+      "word": "完了",
+      "reading": "かんりょう",
+      "meaning": "penyelesaian, kesimpulan"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaning": "keselamatan, keamanan"
+    },
+    {
+      "word": "全部",
+      "reading": "ぜんぶ",
+      "meaning": "semua, seluruhnya, keseluruhan"
+    },
+    {
+      "word": "全力",
+      "reading": "ぜんりょく",
+      "meaning": "seluruh kekuatan seseorang, seluruh energi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "完全無欠",
+      "reading": "かんぜんむけつ",
+      "meaning": "flawless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不完全燃焼",
+      "reading": "ふかんぜんねんしょう",
+      "meaning": "incomplete combustion",
+      "type": "idiom"
+    },
+    {
+      "word": "完全燃焼",
+      "reading": "かんぜんねんしょう",
+      "meaning": "complete combustion",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の言うことはすべて完全に正しい。",
+      "reading": null,
+      "indonesian": "All that you say is perfectly correct.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君のことは完全に信用しています。",
+      "reading": null,
+      "indonesian": "I have absolute trust in you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "完全を求めるとかえって失敗する。",
+      "reading": null,
+      "indonesian": "The best is often the enemy of the good.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "完全に負かした。",
+      "reading": null,
+      "indonesian": "I beat him completely in the debate.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "完全に神話なしでやっていけた社会はなかったように思われる。",
+      "reading": null,
+      "indonesian": "It seems unlikely that any society could completely dispense with myths.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "完全には治りません。",
+      "reading": null,
+      "indonesian": "It cannot be completely cured.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "完全な円にはもう見えないのである。",
+      "reading": null,
+      "indonesian": "It no longer seems to be a perfect circle.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

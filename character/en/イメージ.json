@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "イメージ",
+    "reading": "イメージ",
+    "romaji": "imeeji",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "image (in one's mind)",
+          "impression",
+          "imagining",
+          "mental image",
+          "(forming a) mental picture"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(computer) image"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "depiction (e.g. of a product)",
+          "rendition",
+          "impression"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "画像はイメージです",
+      "reading": "がぞうはイメージです",
+      "meaning": "image is for illustrative purposes only",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "学生に黒人に対するイメージを聞いた。",
+      "reading": null,
+      "english": "I asked the student what image he had of black people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その会社はイメージアップをはかっている。",
+      "reading": null,
+      "english": "The company is trying to improve its image.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "イメージチェンジをしたい。",
+      "reading": null,
+      "english": "I'd like to change my image.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "自分のイメージを変えたいんです。",
+      "reading": null,
+      "english": "I'd like to change my image.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの人はどうもイメージが悪い。",
+      "reading": null,
+      "english": "He makes a bad impression.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

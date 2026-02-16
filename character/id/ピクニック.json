@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "ピクニック",
+    "reading": "ピクニック",
+    "romaji": "pikunikku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "piknik"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "outing",
+          "hike"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君がピクニックに行くなんてすばらしいことだと思う。",
+      "reading": null,
+      "indonesian": "I think it's wonderful that you're going on a picnic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ピクニックは雨のために中止になった。",
+      "reading": null,
+      "indonesian": "The picnic was called off because of the rain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨でピクニックはさんざんだった。",
+      "reading": null,
+      "indonesian": "The rain spoiled our picnic.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "雨のため、ピクニックは体育館で行われた。",
+      "reading": null,
+      "indonesian": "The picnic was held in the gym on account of the rain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

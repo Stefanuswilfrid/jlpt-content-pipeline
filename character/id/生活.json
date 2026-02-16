@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "生活",
+    "reading": "せいかつ",
+    "romaji": "seikatsu",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "hidup",
+          "kehidupan; untuk hidup"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "livelihood",
+          "(one's) living"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "produksi; untuk memproduksi"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "siswa sekolah menengah atas"
+    },
+    {
+      "word": "生きる",
+      "reading": "いきる",
+      "meaning": "untuk hidup"
+    },
+    {
+      "word": "大学生",
+      "reading": "だいがくせい",
+      "meaning": "mahasiswa, pelajar universitas"
+    },
+    {
+      "word": "学生",
+      "reading": "がくせい",
+      "meaning": "murid"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(kehidupan) manusia (misalnya, dari konsepsi hingga kematian)"
+    },
+    {
+      "word": "生徒",
+      "reading": "せいと",
+      "meaning": "siswa; murid"
+    },
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "guru, profesor; master; doktor"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "kehidupan"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "kelahiran"
+    },
+    {
+      "word": "生物",
+      "reading": "せいぶつ",
+      "meaning": "makhluk hidup, organisme"
+    },
+    {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "seumur hidup seseorang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "耐乏生活",
+      "reading": "たいぼうせいかつ",
+      "meaning": "hard life",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ほとんどの人が日々の生活について書いている。",
+      "reading": null,
+      "indonesian": "Most people write about their daily life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

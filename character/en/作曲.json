@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "作曲",
+    "reading": "さっきょく",
+    "romaji": "sakkyoku",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "composition (of music)",
+          "setting",
+          "writing music"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "work"
+    },
+    {
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "work (e.g. book, film, painting, composition)"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaning": "author"
+    },
+    {
+      "word": "操作",
+      "reading": "そうさ",
+      "meaning": "operation"
+    },
+    {
+      "word": "作",
+      "reading": "さく",
+      "meaning": "work (e.g. of art)"
+    },
+    {
+      "word": "作物",
+      "reading": "さくもつ",
+      "meaning": "crop"
+    },
+    {
+      "word": "作法",
+      "reading": "さほう",
+      "meaning": "manners"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaning": "work (film, book)"
+    },
+    {
+      "word": "製作",
+      "reading": "せいさく",
+      "meaning": "manufacture"
+    },
+    {
+      "word": "作る",
+      "reading": "つくる",
+      "meaning": "to make"
+    },
+    {
+      "word": "作成",
+      "reading": "さくせい",
+      "meaning": "making (a report, plan, contract, etc.)"
+    },
+    {
+      "word": "作者",
+      "reading": "さくしゃ",
+      "meaning": "creator (of a work)"
+    },
+    {
+      "word": "創作",
+      "reading": "そうさく",
+      "meaning": "creation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ポールは歌手というよりはむしろ作曲家だ。",
+      "reading": null,
+      "english": "Paul is not so much a singer as a composer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その作曲家は新しい曲に取り組んでいる。",
+      "reading": null,
+      "english": "The composer is wrestling with the new music.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

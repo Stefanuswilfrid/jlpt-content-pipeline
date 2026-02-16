@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "捜査",
+    "reading": "そうさ",
+    "romaji": "sousa",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "search (esp. in criminal investigations)",
+          "investigation",
+          "inquiry",
+          "enquiry"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "調査",
+      "reading": "ちょうさ",
+      "meaning": "investigation"
+    },
+    {
+      "word": "検査",
+      "reading": "けんさ",
+      "meaning": "inspection (e.g. customs, factory)"
+    },
+    {
+      "word": "巡査",
+      "reading": "じゅんさ",
+      "meaning": "police officer"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "止す",
+    "reading": "よす",
+    "romaji": "yosu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stop (doing)",
+          "to cease",
+          "to desist",
+          "to drop",
+          "to lay off",
+          "to give up",
+          "to quit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "禁止",
+      "reading": "きんし",
+      "meaning": "prohibition"
+    },
+    {
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "interruption"
+    },
+    {
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "to stop"
+    },
+    {
+      "word": "止める",
+      "reading": "やめる",
+      "meaning": "to stop (an activity)"
+    },
+    {
+      "word": "引き止める",
+      "reading": "ひきとめる",
+      "meaning": "to detain"
+    },
+    {
+      "word": "留める",
+      "reading": "とどめる",
+      "meaning": "to stop"
+    },
+    {
+      "word": "停止",
+      "reading": "ていし",
+      "meaning": "stoppage"
+    },
+    {
+      "word": "防止",
+      "reading": "ぼうし",
+      "meaning": "prevention"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "雨天の場合は運動会を中止する。",
+      "reading": null,
+      "english": "In case of rain, the athletic meeting will be called off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その工場は来月から作業を中止する。",
+      "reading": null,
+      "english": "The factory will cease operations next month.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

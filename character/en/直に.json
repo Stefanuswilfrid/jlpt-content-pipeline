@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "直に",
+    "reading": "じかに",
+    "romaji": "jikani",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "directly",
+          "in person",
+          "firsthand"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "直ちに",
+      "reading": "ただちに",
+      "meaning": "at once"
+    },
+    {
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaning": "honest"
+    },
+    {
+      "word": "直",
+      "reading": "ちょく",
+      "meaning": "direct"
+    },
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaning": "direct"
+    },
+    {
+      "word": "直",
+      "reading": "じき",
+      "meaning": "soon"
+    },
+    {
+      "word": "直後",
+      "reading": "ちょくご",
+      "meaning": "immediately following"
+    },
+    {
+      "word": "直前",
+      "reading": "ちょくぜん",
+      "meaning": "just before"
+    },
+    {
+      "word": "素直",
+      "reading": "すなお",
+      "meaning": "obedient"
+    },
+    {
+      "word": "仲直り",
+      "reading": "なかなおり",
+      "meaning": "reconciliation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は直に出発する方がいい。",
+      "reading": null,
+      "english": "You may as well leave at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それでは卒直に話し合おうか。",
+      "reading": null,
+      "english": "Well, let's talk turkey.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そうですね、正直に言うと全然気に入りません。",
+      "reading": null,
+      "english": "Well, to be frank, I don't like it at all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

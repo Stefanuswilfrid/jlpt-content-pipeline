@@ -1,0 +1,160 @@
+{
+  "definition": {
+    "word": "付ける",
+    "reading": "つける",
+    "romaji": "tsukeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to attach",
+          "to join",
+          "to connect",
+          "to add",
+          "to append",
+          "to affix",
+          "to stick",
+          "to glue",
+          "to fasten",
+          "to sew on",
+          "to apply (ointment)",
+          "to put against"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to furnish (a house with)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to wear",
+          "to put on"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to keep a diary",
+          "to make an entry"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to appraise",
+          "to set (a price)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to allot",
+          "to budget",
+          "to assign"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bring alongside"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to place (under guard or doctor)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "寄付",
+      "reading": "きふ",
+      "meaning": "contribution"
+    },
+    {
+      "word": "突く",
+      "reading": "つつく",
+      "meaning": "to poke (repeatedly, lightly)"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "reception (desk)"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "association"
+    },
+    {
+      "word": "日付",
+      "reading": "ひづけ",
+      "meaning": "date"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "メリハリを付ける",
+      "reading": "メリハリをつける",
+      "meaning": "to add balance (to one's work, life, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "塩で味を付ける。",
+      "reading": null,
+      "english": "We season with salt.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "二度と起きないように気を付けるよ。",
+      "reading": null,
+      "english": "I'll see that it never happens again.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この服にはどんなアクセサリーを付けるの？",
+      "reading": null,
+      "english": "What sort of jewelry are you going to wear with this dress?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

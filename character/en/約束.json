@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "約束",
+    "reading": "やくそく",
+    "romaji": "yakusoku",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "promise",
+          "agreement",
+          "arrangement",
+          "one's word",
+          "contract",
+          "pact"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "appointment",
+          "engagement",
+          "date"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "convention",
+          "rule"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "destiny",
+          "fate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "reservation"
+    },
+    {
+      "word": "契約",
+      "reading": "けいやく",
+      "meaning": "contract"
+    },
+    {
+      "word": "拘束",
+      "reading": "こうそく",
+      "meaning": "restriction"
+    },
+    {
+      "word": "婚約",
+      "reading": "こんやく",
+      "meaning": "engagement"
+    },
+    {
+      "word": "節約",
+      "reading": "せつやく",
+      "meaning": "economising"
+    },
+    {
+      "word": "束",
+      "reading": "たば",
+      "meaning": "bundle"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

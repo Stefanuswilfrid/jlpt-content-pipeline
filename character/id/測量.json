@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "測量",
+    "reading": "そくりょう",
+    "romaji": "sokuryou",
+    "jlpt": "N2",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pengukuran",
+          "survei"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観測",
+      "reading": "かんそく",
+      "meaning": "pengamatan"
+    },
+    {
+      "word": "重量",
+      "reading": "じゅうりょう",
+      "meaning": "kelas berat"
+    },
+    {
+      "word": "測定",
+      "reading": "そくてい",
+      "meaning": "pengukuran"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "jumlah, kuantitas"
+    },
+    {
+      "word": "量",
+      "reading": "りょう",
+      "meaning": "kuantitas, jumlah"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "英国の測量法では４クオートは１ガロンだ。",
+      "reading": null,
+      "indonesian": "In the imperial measurement system, four quarts equals one gallon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英国の測量法では４クオートは１ガロンだ。",
+      "reading": null,
+      "indonesian": "In the imperial measurement system, four quarts equals one gallon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "列",
+    "reading": "れつ",
+    "romaji": "retsu",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "antrean",
+          "baris",
+          "deretan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "group (of peers)",
+          "ranks (of)",
+          "company (of)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sequence"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "series (taxonomic rank)"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for rows"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "列車",
+      "reading": "れっしゃ",
+      "meaning": "kereta (biasa)"
+    },
+    {
+      "word": "列島",
+      "reading": "れっとう",
+      "meaning": "rangkaian pulau"
+    },
+    {
+      "word": "行列",
+      "reading": "ぎょうれつ",
+      "meaning": "barisan, prosesi; matriks (matematika)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "年功序列",
+      "reading": "ねんこうじょれつ",
+      "meaning": "seniority by length of service",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はその列車に間に合わないでしょう。",
+      "reading": null,
+      "indonesian": "You will not be able to catch the train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急行列車はありますか。",
+      "reading": null,
+      "indonesian": "Are there any express trains?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急行列車が目にとまらぬ速さで走りすぎていった。",
+      "reading": null,
+      "indonesian": "The express train went by so fast that we hardly saw it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急げば列車に間に合うでしょう。",
+      "reading": null,
+      "indonesian": "Hurry, and you will catch the train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急ぎなさい。そうすれば列車に間に合いますよ。",
+      "reading": null,
+      "indonesian": "Hurry up, and you can catch the train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急ぎなさい、そうすれば列車に間に合うでしょう。",
+      "reading": null,
+      "indonesian": "Hurry up, and you will be able to catch the train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

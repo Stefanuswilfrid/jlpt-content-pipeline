@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "時代",
+    "reading": "じだい",
+    "romaji": "jidai",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "period",
+          "epoch",
+          "era",
+          "age"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the times",
+          "those days"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "oldness",
+          "ancientness",
+          "antiquity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "antique",
+          "period piece"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "代わり",
+      "reading": "かわり",
+      "meaning": "substitute"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "同時",
+      "reading": "どうじ",
+      "meaning": "same time"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "代表",
+      "reading": "だいひょう",
+      "meaning": "representation"
+    },
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaning": "present age"
+    },
+    {
+      "word": "近代",
+      "reading": "きんだい",
+      "meaning": "present day"
+    },
+    {
+      "word": "代理",
+      "reading": "だいり",
+      "meaning": "representation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "黄金時代",
+      "reading": "おうごんじだい",
+      "meaning": "golden age",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "時代錯誤",
+      "reading": "じだいさくご",
+      "meaning": "anachronism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "暗黒時代",
+      "reading": "あんこくじだい",
+      "meaning": "Dark Ages",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

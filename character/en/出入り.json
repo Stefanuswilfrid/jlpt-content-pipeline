@@ -1,0 +1,203 @@
+{
+  "definition": {
+    "word": "出入り",
+    "reading": "でいり",
+    "romaji": "deiri",
+    "jlpt": "N2",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "going in and out",
+          "entering and exiting"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "visiting regularly",
+          "frequenting",
+          "having regular dealings with"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "income and expenditure",
+          "incomings and outgoings"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "increase and decrease",
+          "surplus and deficit",
+          "fluctuation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fight",
+          "trouble",
+          "quarrel",
+          "dispute"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "indentations (e.g. of a coastline)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見出し",
+      "reading": "みだし",
+      "meaning": "heading"
+    },
+    {
+      "word": "日の入り",
+      "reading": "ひのいり",
+      "meaning": "sunset"
+    },
+    {
+      "word": "出勤",
+      "reading": "しゅっきん",
+      "meaning": "going to work"
+    },
+    {
+      "word": "侵入",
+      "reading": "しんにゅう",
+      "meaning": "invasion"
+    },
+    {
+      "word": "手入れ",
+      "reading": "ていれ",
+      "meaning": "care"
+    },
+    {
+      "word": "日の出",
+      "reading": "ひので",
+      "meaning": "sunrise"
+    },
+    {
+      "word": "入社",
+      "reading": "にゅうしゃ",
+      "meaning": "joining a company"
+    },
+    {
+      "word": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "business trip"
+    },
+    {
+      "word": "出迎え",
+      "reading": "でむかえ",
+      "meaning": "meeting"
+    },
+    {
+      "word": "出来上がり",
+      "reading": "できあがり",
+      "meaning": "completion"
+    },
+    {
+      "word": "出来上がる",
+      "reading": "できあがる",
+      "meaning": "to be completed"
+    },
+    {
+      "word": "入れ物",
+      "reading": "いれもの",
+      "meaning": "container"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "meeting"
+    },
+    {
+      "word": "出口",
+      "reading": "でぐち",
+      "meaning": "exit"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そのドアから台所へ出入りできる。",
+      "reading": null,
+      "english": "The door gives access to the kitchen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "乗務員がただいま出入り口を開けております。",
+      "reading": null,
+      "english": "The crew is now opening the hatch.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "出入り口は開けたままになっていた。",
+      "reading": null,
+      "english": "The gate was left open.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのドアから台所へ出入りできる。",
+      "reading": null,
+      "english": "The door gives access to the kitchen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "出入り口は開けたままになっていた。",
+      "reading": null,
+      "english": "The gate was left open.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "乗務員がただいま出入り口を開けております。",
+      "reading": null,
+      "english": "The crew is now opening the hatch.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "大学都市には、絶え間ない人の出入りがある。",
+      "reading": null,
+      "english": "People are forever going in and out of university towns.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

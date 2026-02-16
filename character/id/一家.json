@@ -1,0 +1,172 @@
+{
+  "definition": {
+    "word": "一家",
+    "reading": "いっか",
+    "romaji": "ikka",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "keluarga",
+          "klan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(one's own) style",
+          "school"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gang",
+          "(yakuza) family"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一般",
+      "reading": "いっぱん",
+      "meaning": "umum, rata-rata"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "di sisi lain; sementara itu"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "untuk sementara waktu, sementara"
+    },
+    {
+      "word": "国家",
+      "reading": "こっか",
+      "meaning": "negara bagian, negara, bangsa"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaning": "penulis, pengarang, novelis"
+    },
+    {
+      "word": "唯一",
+      "reading": "ゆいいつ",
+      "meaning": "hanya, tunggal, unik"
+    },
+    {
+      "word": "農家",
+      "reading": "のうか",
+      "meaning": "petani, keluarga petani"
+    },
+    {
+      "word": "一体",
+      "reading": "いったい",
+      "meaning": "satu objek; tubuh; apa-apaan ini?; secara umum"
+    },
+    {
+      "word": "一致",
+      "reading": "いっち",
+      "meaning": "kesepakatan; kesesuaian"
+    },
+    {
+      "word": "一種",
+      "reading": "いっしゅ",
+      "meaning": "spesies, jenis, varietas"
+    },
+    {
+      "word": "画家",
+      "reading": "がか",
+      "meaning": "pelukis"
+    },
+    {
+      "word": "一瞬",
+      "reading": "いっしゅん",
+      "meaning": "sesaat, sekejap"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "sepanjang hidup (seseorang)"
+    },
+    {
+      "word": "家事",
+      "reading": "かじ",
+      "meaning": "urusan rumah tangga; pekerjaan rumah tangga (sama seperti 家の仕事 (いえのしごと))"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "satu kata"
+    },
+    {
+      "word": "家賃",
+      "reading": "やちん",
+      "meaning": "menyewa"
+    },
+    {
+      "word": "一帯",
+      "reading": "いったい",
+      "meaning": "suatu wilayah, seluruh tempat"
+    },
+    {
+      "word": "家具",
+      "reading": "かぐ",
+      "meaning": "mebel"
+    },
+    {
+      "word": "屋根",
+      "reading": "やね",
+      "meaning": "atap"
+    },
+    {
+      "word": "万一",
+      "reading": "まんいち",
+      "meaning": "mungkin saja, jika memang ada kemungkinan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一家団欒",
+      "reading": "いっかだんらん",
+      "meaning": "happy family get-together",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一家眷属",
+      "reading": "いっかけんぞく",
+      "meaning": "one's family, relations, and followers",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あいつは一家のつらよごし。",
+      "reading": null,
+      "indonesian": "He is the black sheep of the family.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一家そろって散歩に出かけている。",
+      "reading": null,
+      "indonesian": "The whole family is out for a walk.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

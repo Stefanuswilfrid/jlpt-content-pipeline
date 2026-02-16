@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "ベルト",
+    "reading": "ベルト",
+    "romaji": "beruto",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "belt (worn around the waist)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(machine) belt"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "belt",
+          "zone",
+          "area"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "車を運転する人はシートベルトを着用すべきだ。",
+      "reading": null,
+      "english": "Drivers should wear seat belts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "シートベルトを着用して下さい。",
+      "reading": null,
+      "english": "Please fasten your seat belt.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

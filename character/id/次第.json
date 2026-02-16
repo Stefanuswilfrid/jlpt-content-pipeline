@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "次第",
+    "reading": "しだい",
+    "romaji": "shidai",
+    "jlpt": "N3",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "perintah; keadaan; segera"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "as soon as",
+          "immediately after",
+          "upon"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "as (e.g. \"as one is told\", \"as one wishes\")",
+          "whatever (e.g. \"whatever is at hand\")"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "order",
+          "program",
+          "programme",
+          "precedence"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "circumstances",
+          "course of events",
+          "state of things"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reason"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "次々",
+      "reading": "つぎつぎ",
+      "meaning": "secara berurutan, satu per satu"
+    },
+    {
+      "word": "次",
+      "reading": "つぎ",
+      "meaning": "Berikutnya"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "地獄の沙汰も金次第",
+      "reading": "じごくのさたもかねしだい",
+      "meaning": "money talks",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君が成功できるかは君の努力次第だ。",
+      "reading": null,
+      "indonesian": "Your success depends on your efforts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が成功するかしないかは努力次第だ。",
+      "reading": null,
+      "indonesian": "Whether you will succeed or not depends on your efforts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空港に着き次第、電話します。",
+      "reading": null,
+      "indonesian": "I'll phone you as soon as I get to the airport.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空は次第に暗くなった。",
+      "reading": null,
+      "indonesian": "The sky grew darker and darker.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの用意が出来次第出発しましょう。",
+      "reading": null,
+      "indonesian": "We'll leave as soon as you are ready.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

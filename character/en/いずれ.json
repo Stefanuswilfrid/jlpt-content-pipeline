@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "何れ",
+    "reading": "いずれ",
+    "romaji": "izure",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "which",
+          "where",
+          "who"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "all",
+          "both"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "anyway",
+          "anyhow",
+          "at any rate",
+          "in any case"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sooner or later",
+          "one of these days",
+          "someday",
+          "before long",
+          "in due course",
+          "eventually"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "why?"
+    },
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "いずれにせよ雨がやんだら出かけることができる。",
+      "reading": null,
+      "english": "At any rate, I can go out when it stops raining.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "大手デパートのいずれもが売り上げを落とした。",
+      "reading": null,
+      "english": "Sales have dropped off at every big department store.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "チャンスというものはいずれにしても、まれにしかない。",
+      "reading": null,
+      "english": "Chances come rarely in any case.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そうね。いずれ分かることね。",
+      "reading": null,
+      "english": "Well, it's all come out in the wash.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "回復",
+    "reading": "かいふく",
+    "romaji": "kaifuku",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "pemulihan (dari penyakit)",
+          "rehabilitasi",
+          "restorasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "recovery (from an illness)",
+          "recuperation",
+          "convalescence"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今回",
+      "reading": "こんかい",
+      "meaning": "sekarang, kali ini, akhir-akhir ini"
+    },
+    {
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning": "balas, jawab"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "jumlah kali, frekuensi"
+    },
+    {
+      "word": "往復",
+      "reading": "おうふく",
+      "meaning": "(col) perjalanan pulang pergi, pergi dan pulang, tiket pulang"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "jamak, banyak"
+    },
+    {
+      "word": "回転",
+      "reading": "かいてん",
+      "meaning": "rotasi, berputar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "失地回復",
+      "reading": "しっちかいふく",
+      "meaning": "the recovery of lost territory",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

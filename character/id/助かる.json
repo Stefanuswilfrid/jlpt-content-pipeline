@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "助かる",
+    "reading": "たすかる",
+    "romaji": "tasukaru",
+    "jlpt": "N3",
+    "frequency": 17750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "diselamatkan; (sesuatu) membantu (v.i.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to escape harm",
+          "to be spared damage"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be helped",
+          "to be saved trouble"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "援助",
+      "reading": "えんじょ",
+      "meaning": "bantuan, pertolongan, dukungan"
+    },
+    {
+      "word": "助手",
+      "reading": "じょしゅ",
+      "meaning": "pembantu, asisten"
+    },
+    {
+      "word": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "bantuan, pertolongan, penyelamatan"
+    },
+    {
+      "word": "助ける",
+      "reading": "たすける",
+      "meaning": "membantu (v.t.), menyelamatkan, membebaskan"
+    },
+    {
+      "word": "助詞",
+      "reading": "じょし",
+      "meaning": "partikel (gram), postposisi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それはとても助かる。",
+      "reading": null,
+      "indonesian": "That will save me a lot of trouble.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはとても助かる。",
+      "reading": null,
+      "indonesian": "That will save me a lot of trouble.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "日本語で話してくれると助かるんだけどな。",
+      "reading": null,
+      "indonesian": "It would really be helpful if they spoke to me in Japanese, though...",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本語で話してくれると助かるんだけどな。",
+      "reading": null,
+      "indonesian": "It would really be helpful if they spoke to me in Japanese, though...",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

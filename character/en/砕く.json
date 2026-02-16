@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "砕く",
+    "reading": "くだく",
+    "romaji": "kudaku",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to break (into pieces)",
+          "to smash",
+          "to crush",
+          "to shatter",
+          "to grind (into powder)",
+          "to pound"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to shatter (someone's hopes, confidence, etc.)",
+          "to crush",
+          "to frustrate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to simplify",
+          "to make easy to understand"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "砕ける",
+      "reading": "くだける",
+      "meaning": "to break (into pieces)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心を砕く",
+      "reading": "こころをくだく",
+      "meaning": "to take great pains",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

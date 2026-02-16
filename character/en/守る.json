@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "守る",
+    "reading": "まもる",
+    "romaji": "mamoru",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to protect",
+          "to guard",
+          "to defend"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to keep (i.e. a promise)",
+          "to abide (by the rules)",
+          "to observe",
+          "to obey",
+          "to follow"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "留守",
+      "reading": "るす",
+      "meaning": "absence"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "株を守る",
+      "reading": "くいをまもる",
+      "meaning": "to hold fast to one's ways",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あいつなら、ちゃんと約束を守るよ。",
+      "reading": null,
+      "english": "You can trust him to keep his word.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは約束を守るべきである。",
+      "reading": null,
+      "english": "We should keep our promise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

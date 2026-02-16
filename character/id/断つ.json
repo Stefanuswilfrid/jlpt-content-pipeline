@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "断つ",
+    "reading": "たつ",
+    "romaji": "tatsu",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk memutuskan",
+          "untuk memotong"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to suppress",
+          "to eradicate",
+          "to exterminate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to abstain (from)",
+          "to give up"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "penilaian, keputusan"
+    },
+    {
+      "word": "横断",
+      "reading": "おうだん",
+      "meaning": "persimpangan"
+    },
+    {
+      "word": "断る",
+      "reading": "ことわる",
+      "meaning": "menolak, mengingkari, memecat"
+    },
+    {
+      "word": "断水",
+      "reading": "だんすい",
+      "meaning": "pemadaman air"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosa"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "肉を切らせて骨を断つ",
+      "reading": "にくをきらせてほねをたつ",
+      "meaning": "to lose a battle to win the war",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

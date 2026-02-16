@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "例え",
+    "reading": "たとえ",
+    "romaji": "tatoe",
+    "jlpt": "N3",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "example"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "simile",
+          "metaphor",
+          "allegory",
+          "fable",
+          "parable"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "例",
+      "reading": "れい",
+      "meaning": "example"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "exception"
+    },
+    {
+      "word": "実例",
+      "reading": "じつれい",
+      "meaning": "example"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君のためならたとえ火の中水の中。",
+      "reading": null,
+      "english": "I'd jump through hoops for you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "たとえ君が何と言おうと、君の言うことは信じない。",
+      "reading": null,
+      "english": "Whatever you may say, I don't believe you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "外国、たとえばアメリカへ行ったことがありますか。",
+      "reading": null,
+      "english": "Have you visited foreign countries, say America?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何かにたとえられないでしょうか。",
+      "reading": null,
+      "english": "Can't we use a simile here?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

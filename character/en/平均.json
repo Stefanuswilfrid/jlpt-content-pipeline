@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "平均",
+    "reading": "へいきん",
+    "romaji": "heikin",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "average",
+          "mean"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "balance",
+          "equilibrium"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "平和",
+      "reading": "へいわ",
+      "meaning": "peace"
+    },
+    {
+      "word": "平等",
+      "reading": "びょうどう",
+      "meaning": "equality"
+    },
+    {
+      "word": "公平",
+      "reading": "こうへい",
+      "meaning": "fairness"
+    },
+    {
+      "word": "地平線",
+      "reading": "ちへいせん",
+      "meaning": "horizon (related to land)"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "discontent"
+    },
+    {
+      "word": "平日",
+      "reading": "へいじつ",
+      "meaning": "weekday"
+    },
+    {
+      "word": "平野",
+      "reading": "へいや",
+      "meaning": "plain"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

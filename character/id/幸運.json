@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "幸運",
+    "reading": "こううん",
+    "romaji": "kouun",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "semoga beruntung",
+          "nasib baik"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "幸い",
+      "reading": "さいわい",
+      "meaning": "untungnya; semoga beruntung"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "ketidakbahagiaan, kesedihan, kemalangan"
+    },
+    {
+      "word": "幸せ",
+      "reading": "しあわせ",
+      "meaning": "kebahagiaan, berkah"
+    },
+    {
+      "word": "運",
+      "reading": "うん",
+      "meaning": "keberuntungan, nasib baik"
+    },
+    {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "kebahagiaan, keberkahan"
+    },
+    {
+      "word": "運河",
+      "reading": "うんが",
+      "meaning": "kanal, jalur air"
+    },
+    {
+      "word": "不運",
+      "reading": "ふうん",
+      "meaning": "sial, kemalangan, nasib buruk"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "latihan"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operasi, mengemudi"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "pengemudi (berdasarkan pekerjaan)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "幸運の女神は前髪しかない",
+      "reading": "こううんのめがみはまえがみしかない",
+      "meaning": "opportunity has hair in front, but behind she is bald",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はこんなによい友人を持って幸運だ。",
+      "reading": null,
+      "indonesian": "You are fortunate for having such good friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の幸運がうらやましい。",
+      "reading": null,
+      "indonesian": "I envy you your luck.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なんて幸運なんだ。",
+      "reading": null,
+      "indonesian": "What a stroke of luck!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なんて幸運なのだろう。",
+      "reading": null,
+      "indonesian": "How lucky we are!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ちょっとした幸運が予期せぬ成功につながるときもある。",
+      "reading": null,
+      "indonesian": "A little bit of luck sometimes leads to an unexpected success.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

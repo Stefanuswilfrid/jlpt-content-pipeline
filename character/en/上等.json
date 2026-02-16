@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "上等",
+    "reading": "じょうとう",
+    "romaji": "joutou",
+    "jlpt": "N3",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "superior",
+          "first-class",
+          "excellent",
+          "top quality"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "(that's) just fine!",
+          "bring it on!"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もっと上等なのを見せてくれ。",
+      "reading": null,
+      "english": "Show me a better one.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ぼくのペンは君のペンほど上等ではない。",
+      "reading": null,
+      "english": "My pen isn't as good as yours.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは上等のワインだ。",
+      "reading": null,
+      "english": "That's an excellent wine.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これは上等なワインだ。",
+      "reading": null,
+      "english": "This is excellent wine.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

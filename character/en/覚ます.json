@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "覚ます",
+    "reading": "さます",
+    "romaji": "samasu",
+    "jlpt": "N3",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to awaken",
+          "to arouse from sleep"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bring to one's senses",
+          "to disabuse (someone of)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sober up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to dampen",
+          "to throw a damper on",
+          "to spoil"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "sense"
+    },
+    {
+      "word": "覚悟",
+      "reading": "かくご",
+      "meaning": "readiness"
+    },
+    {
+      "word": "覚える",
+      "reading": "おぼえる",
+      "meaning": "to memorize"
+    },
+    {
+      "word": "覚める",
+      "reading": "さめる",
+      "meaning": "to wake"
+    },
+    {
+      "word": "視覚",
+      "reading": "しかく",
+      "meaning": "(sense of) sight"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "目を覚ますと、家族が来ていた。",
+      "reading": null,
+      "english": "When she awoke, the family was there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "犬が吠えるたびに目を覚ますな。",
+      "reading": null,
+      "english": "Wake not at every dog's bark.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

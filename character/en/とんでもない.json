@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "とんでも無い",
+    "reading": "とんでもない",
+    "romaji": "tondemonai",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "unthinkable",
+          "unexpected",
+          "absurd",
+          "outrageous",
+          "preposterous",
+          "terrible"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "absolutely not!",
+          "far from it!",
+          "impossible!",
+          "preposterous!",
+          "what a thing to say!",
+          "no way!"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "(it was) no bother at all",
+          "not at all",
+          "don't mention it"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "とんでもない！",
+      "reading": null,
+      "english": "No way!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どうしてこんなとんでもない時間に電話をするのだ。",
+      "reading": null,
+      "english": "Why did you call me at this unearthly hour?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「君はそれを終えたか」「とんでもない、始めたばかりだ」",
+      "reading": null,
+      "english": "\"Have you finished it?\" \"On the contrary, I've just begun.\"",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

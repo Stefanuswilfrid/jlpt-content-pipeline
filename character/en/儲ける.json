@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "儲ける",
+    "reading": "もうける",
+    "romaji": "moukeru",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to profit",
+          "to get",
+          "to earn",
+          "to gain"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have (bear, beget) a child"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have a stroke of luck"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "貯蓄",
+      "reading": "ちょちく",
+      "meaning": "savings"
+    },
+    {
+      "word": "儲かる",
+      "reading": "もうかる",
+      "meaning": "to be profitable"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

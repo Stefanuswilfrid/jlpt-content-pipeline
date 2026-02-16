@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "始める",
+    "reading": "はじめる",
+    "romaji": "hajimeru",
+    "jlpt": "N4",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to start",
+          "to begin",
+          "to commence",
+          "to initiate",
+          "to originate"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to start up (a business, society, etc.)",
+          "to open (e.g. a store)",
+          "to establish"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Ichidan verb"
+        ],
+        "meanings": [
+          "to start ...",
+          "to begin to ..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "開始",
+      "reading": "かいし",
+      "meaning": "start"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

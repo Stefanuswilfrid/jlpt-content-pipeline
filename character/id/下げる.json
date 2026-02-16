@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "下げる",
+    "reading": "さげる",
+    "romaji": "sageru",
+    "jlpt": "N4",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menurunkan (v.t.); menggantung"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lower",
+          "to reduce",
+          "to bring down"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to demote",
+          "to move back",
+          "to pull back"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to clear (plates)",
+          "to remove (food, etc. from table or altar)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to keep on playing after one has formed a scoring combination with captured cards"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "以下",
+      "reading": "いか",
+      "meaning": "kurang dari, di bawah"
+    },
+    {
+      "word": "降りる",
+      "reading": "おりる",
+      "meaning": "untuk turun"
+    },
+    {
+      "word": "下着",
+      "reading": "したぎ",
+      "meaning": "pakaian dalam"
+    },
+    {
+      "word": "下す",
+      "reading": "くだす",
+      "meaning": "menurunkan, melepaskan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ハードルを下げる",
+      "reading": "ハードルをさげる",
+      "meaning": "to lower the bar",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

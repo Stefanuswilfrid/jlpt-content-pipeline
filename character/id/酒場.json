@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "酒場",
+    "reading": "さかば",
+    "romaji": "sakaba",
+    "jlpt": "N2",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bar",
+          "ruang bar"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "職場",
+      "reading": "しょくば",
+      "meaning": "tempat kerja"
+    },
+    {
+      "word": "広場",
+      "reading": "ひろば",
+      "meaning": "alun-alun"
+    },
+    {
+      "word": "登場",
+      "reading": "とうじょう",
+      "meaning": "masuk (di atas panggung)"
+    },
+    {
+      "word": "牧場",
+      "reading": "ぼくじょう",
+      "meaning": "pertanian (peternakan); lahan penggembalaan"
+    },
+    {
+      "word": "役場",
+      "reading": "やくば",
+      "meaning": "balai kota"
+    },
+    {
+      "word": "式場",
+      "reading": "しきじょう",
+      "meaning": "aula upacara, tempat upacara (misalnya, pernikahan)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "労働者たちはくつろげる酒場に集まることが好きである。",
+      "reading": null,
+      "indonesian": "The workers like to gather in a pub where they can let their hair down.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "労働者たちはくつろげる酒場に集まることが好きである。",
+      "reading": null,
+      "indonesian": "The workers like to gather in a pub where they can let their hair down.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

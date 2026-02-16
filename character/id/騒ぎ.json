@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "騒ぎ",
+    "reading": "さわぎ",
+    "romaji": "sawagi",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "keributan",
+          "gangguan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "騒音",
+      "reading": "そうおん",
+      "meaning": "kebisingan"
+    },
+    {
+      "word": "物騒",
+      "reading": "ぶっそう",
+      "meaning": "berbahaya, terganggu, tidak aman"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "上や下への大騒ぎ",
+      "reading": "うえやしたへのおおさわぎ",
+      "meaning": "confused mess",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

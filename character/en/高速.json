@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "高速",
+    "reading": "こうそく",
+    "romaji": "kousoku",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "high-speed",
+          "rapid",
+          "express"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "highway",
+          "freeway",
+          "expressway",
+          "motorway"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "best"
+    },
+    {
+      "word": "急速",
+      "reading": "きゅうそく",
+      "meaning": "rapid (e.g. progress)"
+    },
+    {
+      "word": "速度",
+      "reading": "そくど",
+      "meaning": "speed"
+    },
+    {
+      "word": "高価",
+      "reading": "こうか",
+      "meaning": "highly priced"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "senior high school student"
+    },
+    {
+      "word": "高級",
+      "reading": "こうきゅう",
+      "meaning": "high-class"
+    },
+    {
+      "word": "高層",
+      "reading": "こうそう",
+      "meaning": "high-rise (building)"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "altitude"
+    },
+    {
+      "word": "高等",
+      "reading": "こうとう",
+      "meaning": "high class"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "運転者は高速を出し続けた。",
+      "reading": null,
+      "english": "The driver maintained a high speed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのレストランは２つの高速道路の合流点に立っている。",
+      "reading": null,
+      "english": "The restaurant stands at the junction of two superhighways.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この高速度道路は東京と名古屋を結んでいる。",
+      "reading": null,
+      "english": "This expressway connects Tokyo with Nagoya.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "東名高速道路は東京と名古屋を結んでいる。",
+      "reading": null,
+      "english": "The Tomei Expressway connects Tokyo with Nagoya.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

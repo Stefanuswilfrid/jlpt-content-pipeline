@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "警備",
+    "reading": "けいび",
+    "romaji": "keibi",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "defense",
+          "defence",
+          "guard",
+          "policing",
+          "security"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaning": "maintenance"
+    },
+    {
+      "word": "予備",
+      "reading": "よび",
+      "meaning": "reserve"
+    },
+    {
+      "word": "警察",
+      "reading": "けいさつ",
+      "meaning": "police"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "preparation"
+    },
+    {
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "equipment"
+    },
+    {
+      "word": "警戒",
+      "reading": "けいかい",
+      "meaning": "vigilance"
+    },
+    {
+      "word": "守備",
+      "reading": "しゅび",
+      "meaning": "defense"
+    },
+    {
+      "word": "警官",
+      "reading": "けいかん",
+      "meaning": "police officer"
+    },
+    {
+      "word": "警告",
+      "reading": "けいこく",
+      "meaning": "warning"
+    },
+    {
+      "word": "装備",
+      "reading": "そうび",
+      "meaning": "equipment"
+    },
+    {
+      "word": "軍備",
+      "reading": "ぐんび",
+      "meaning": "armaments"
+    },
+    {
+      "word": "備える",
+      "reading": "そなえる",
+      "meaning": "to furnish with"
+    },
+    {
+      "word": "備え付ける",
+      "reading": "そなえつける",
+      "meaning": "to provide"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "パトロールカーはその地区の全体を警備する。",
+      "reading": null,
+      "english": "The patrol cars cover the whole of the area.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "たくさんの警官がホールを警備した。",
+      "reading": null,
+      "english": "A lot of policemen guarded the hall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その警備員は一晩中勤務だった。",
+      "reading": null,
+      "english": "The guard was on duty all night.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "５００人の警官が厳重な警備態勢おかれた。",
+      "reading": null,
+      "english": "500 policemen were put on strict alert.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警備隊が皇居に２４時間配置されている。",
+      "reading": null,
+      "english": "Guards are stationed 'round the clock at the Imperial Palace in Tokyo.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "警備員たちは１時間ごとに輪番で見回った。",
+      "reading": null,
+      "english": "The guards rotated in making their rounds every hour.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

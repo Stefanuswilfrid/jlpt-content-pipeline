@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "romaji": "shuukan",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "adat istiadat (dalam kaitannya dengan budaya)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(social) custom",
+          "practice",
+          "convention",
+          "tradition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "予習",
+      "reading": "よしゅう",
+      "meaning": "persiapan pelajaran (untuk kelas)"
+    },
+    {
+      "word": "復習",
+      "reading": "ふくしゅう",
+      "meaning": "peninjauan (pelajaran), revisi"
+    },
+    {
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaning": "(untuk) berlatih"
+    },
+    {
+      "word": "学習",
+      "reading": "がくしゅう",
+      "meaning": "belajar, mempelajari"
+    },
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "praktik adat, kebiasaan, acara tradisional"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "風俗習慣",
+      "reading": "ふうぞくしゅうかん",
+      "meaning": "manners and customs",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

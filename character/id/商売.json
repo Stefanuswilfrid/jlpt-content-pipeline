@@ -1,0 +1,152 @@
+{
+  "definition": {
+    "word": "商売",
+    "reading": "しょうばい",
+    "romaji": "shoubai",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "perdagangan",
+          "bisnis",
+          "perniagaan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "occupation",
+          "calling",
+          "profession",
+          "job"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaning": "komoditas, barang dagangan"
+    },
+    {
+      "word": "販売",
+      "reading": "はんばい",
+      "meaning": "penjualan, pemasaran"
+    },
+    {
+      "word": "売れる",
+      "reading": "うれる",
+      "meaning": "untuk dijual"
+    },
+    {
+      "word": "商人",
+      "reading": "しょうにん",
+      "meaning": "pedagang, pemilik toko, saudagar"
+    },
+    {
+      "word": "売買",
+      "reading": "ばいばい",
+      "meaning": "perdagangan, jual beli"
+    },
+    {
+      "word": "発売",
+      "reading": "はつばい",
+      "meaning": "penjualan"
+    },
+    {
+      "word": "商業",
+      "reading": "しょうぎょう",
+      "meaning": "perdagangan, bisnis"
+    },
+    {
+      "word": "商社",
+      "reading": "しょうしゃ",
+      "meaning": "perusahaan perdagangan"
+    },
+    {
+      "word": "商店",
+      "reading": "しょうてん",
+      "meaning": "toko, perusahaan bisnis"
+    },
+    {
+      "word": "売り場",
+      "reading": "うりば",
+      "meaning": "tempat di mana barang-barang dijual"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "商売繁盛",
+      "reading": "しょうばいはんじょう",
+      "meaning": "thriving (prosperous) business",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は商売熱心だね。",
+      "reading": null,
+      "indonesian": "You work hard.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "地元の店は観光客相手に順調な商売をしている。",
+      "reading": null,
+      "indonesian": "Local shops do good business with tourists.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "商売は商売。",
+      "reading": null,
+      "indonesian": "Business is business.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ボブが自分で商売を始めてから３年になります。",
+      "reading": null,
+      "indonesian": "It has been three years since Bob started his own business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんな場所で本屋をやっても商売が成り立たないだろう。",
+      "reading": null,
+      "indonesian": "A bookstore in that location wouldn't make enough money to survive.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ジョンは自分で商売を始めた。",
+      "reading": null,
+      "indonesian": "John began trade personally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご商売は何ですか。",
+      "reading": null,
+      "indonesian": "What line of work are you in?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

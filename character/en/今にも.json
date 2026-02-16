@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "今にも",
+    "reading": "いまにも",
+    "romaji": "imanimo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "at any moment (now)",
+          "at any minute",
+          "on the verge of (doing)",
+          "just about to"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今回",
+      "reading": "こんかい",
+      "meaning": "this time"
+    },
+    {
+      "word": "今後",
+      "reading": "こんご",
+      "meaning": "from now on"
+    },
+    {
+      "word": "今に",
+      "reading": "いまに",
+      "meaning": "before long"
+    },
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "this week"
+    },
+    {
+      "word": "今",
+      "reading": "いま",
+      "meaning": "now"
+    },
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "this month"
+    },
+    {
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "this year"
+    },
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "this time"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "today"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何事かが今にも起こりそうなけはいを感じていた。",
+      "reading": null,
+      "english": "He felt that something was about to happen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーは今にも笑いだしそうだった。",
+      "reading": null,
+      "english": "Mary was about to burst out laughing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムは今にもここに来るはずです。",
+      "reading": null,
+      "english": "Tom should be here any minute.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは今にも起こるかもしれない。",
+      "reading": null,
+      "english": "It may occur at any moment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

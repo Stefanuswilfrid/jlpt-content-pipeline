@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "包み",
+    "reading": "つつみ",
+    "romaji": "tsutsumi",
+    "jlpt": "N3",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bundle",
+          "package",
+          "parcel"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for wrapped objects"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "小包",
+      "reading": "こづつみ",
+      "meaning": "parcel"
+    },
+    {
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaning": "packing"
+    },
+    {
+      "word": "包帯",
+      "reading": "ほうたい",
+      "meaning": "bandage"
+    },
+    {
+      "word": "包丁",
+      "reading": "ほうちょう",
+      "meaning": "kitchen knife"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "とにかくその包みはどこかに置きなさい。",
+      "reading": null,
+      "english": "Just put those packages anywhere.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その包みは昨日配達された。",
+      "reading": null,
+      "english": "The package was delivered yesterday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの包みをほどくのを手伝って下さい。",
+      "reading": null,
+      "english": "Lend a hand with these parcels, please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このインスタントスープは１つ１つ包みの中に入っている。",
+      "reading": null,
+      "english": "This instant soup comes in individual packets.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "包みを持ち上げるのを手伝って。",
+      "reading": null,
+      "english": "Help me lift the package.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "包みを開けて下さい。",
+      "reading": null,
+      "english": "Please undo the package.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "包みを開けて下さい。",
+      "reading": null,
+      "english": "Please open the package.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

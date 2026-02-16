@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "番瀝青",
+    "reading": "ペンキ",
+    "romaji": "penki",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "paint"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "順番",
+      "reading": "じゅんばん",
+      "meaning": "order"
+    },
+    {
+      "word": "青年",
+      "reading": "せいねん",
+      "meaning": "youth"
+    },
+    {
+      "word": "青少年",
+      "reading": "せいしょうねん",
+      "meaning": "young people"
+    },
+    {
+      "word": "留守番",
+      "reading": "るすばん",
+      "meaning": "care-taking"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "number one"
+    },
+    {
+      "word": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "program (e.g. TV)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "雨に当たってペンキがはげている。",
+      "reading": null,
+      "english": "The paint is peeling off the weather-beaten wall.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ペンキはまだかわいてない。",
+      "reading": null,
+      "english": "The paint hasn't dried yet.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ペンキが剥げてるよ。",
+      "reading": null,
+      "english": "The paint is off.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ペンキがすぐはげてしまう。",
+      "reading": null,
+      "english": "This paint comes off easily.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

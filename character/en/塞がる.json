@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "塞がる",
+    "reading": "ふさがる",
+    "romaji": "fusagaru",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be closed",
+          "to be blocked",
+          "to be healed (e.g. wound)",
+          "to be shut up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be clogged",
+          "to be plugged up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be occupied",
+          "to be taken (e.g. accommodation)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "塞ぐ",
+      "reading": "ふさぐ",
+      "meaning": "to stop up"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手が塞がる",
+      "reading": "てがふさがる",
+      "meaning": "to be busy",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

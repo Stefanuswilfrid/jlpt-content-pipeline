@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "泥棒",
+    "reading": "どろぼう",
+    "romaji": "dorobou",
+    "jlpt": "N4",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pencuri; perampok"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "theft",
+          "burglary",
+          "robbery"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "泥",
+      "reading": "どろ",
+      "meaning": "lumpur"
+    },
+    {
+      "word": "棒",
+      "reading": "ぼう",
+      "meaning": "tiang, batang, tongkat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "粉屋の泥棒",
+      "reading": "こなやのどろぼう",
+      "meaning": "heavily made-up woman",
+      "type": "idiom"
+    },
+    {
+      "word": "泥棒に追い銭",
+      "reading": "どろぼうにおいせん",
+      "meaning": "throwing good money after bad",
+      "type": "idiom"
+    },
+    {
+      "word": "嘘つきは泥棒の始まり",
+      "reading": "うそつきはどろぼうのはじまり",
+      "meaning": "show me a liar, and I will show you a thief",
+      "type": "proverb"
+    },
+    {
+      "word": "人を見たら泥棒と思え",
+      "reading": "ひとをみたらどろぼうとおもえ",
+      "meaning": "don't trust strangers",
+      "type": "proverb"
+    },
+    {
+      "word": "花泥棒は罪にならない",
+      "reading": "はなどろぼうはつみにならない",
+      "meaning": "it is no crime to steal flowers",
+      "type": "proverb"
+    },
+    {
+      "word": "近江泥棒伊勢乞食",
+      "reading": "おうみどろぼういせこじき",
+      "meaning": "merchants from Ise and Ōmi do not waste their money (unlike Edoites)",
+      "type": "proverb"
+    },
+    {
+      "word": "泥棒を捕らえて縄を綯う",
+      "reading": "どろぼうをとらえてなわをなう",
+      "meaning": "starting something in the eleventh hour",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

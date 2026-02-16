@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "梅",
+    "reading": "うめ",
+    "romaji": "ume",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "buah plum",
+          "terendah (dari sistem peringkat tiga tingkat)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lowest (of a three-tier ranking system)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "梅雨",
+      "reading": "つゆ",
+      "meaning": "musim hujan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "梅に鶯",
+      "reading": "うめにうぐいす",
+      "meaning": "match made in heaven",
+      "type": "idiom"
+    },
+    {
+      "word": "桜切る馬鹿、梅切らぬ馬鹿",
+      "reading": "さくらきるばか、うめきらぬばか",
+      "meaning": "only an idiot prunes cherry trees and only an idiot does not prune plum trees",
+      "type": "proverb"
+    },
+    {
+      "word": "梅は食うとも核食うな、中に天神寝てござる",
+      "reading": "うめはくうともさねくうな、なかにてんじんねてござる",
+      "meaning": "don't eat plum pits (because they are poisonous)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "塩梅はいかがですか。",
+      "reading": null,
+      "indonesian": "How do you feel?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "梅雨に入りましたね。",
+      "reading": null,
+      "indonesian": "The rainy season has set in.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "梅雨に入ってしまったね。",
+      "reading": null,
+      "indonesian": "The rainy season has set in.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "梅雨に入った。",
+      "reading": null,
+      "indonesian": "The rainy season has set in.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "梅雨が始まった。",
+      "reading": null,
+      "indonesian": "The rainy season has set in.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もうすぐ梅雨入りだ。",
+      "reading": null,
+      "indonesian": "The rainy season is near at hand.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もう２週間かそこらで梅雨も終わるでしょう。",
+      "reading": null,
+      "indonesian": "The rainy season will be over in another two weeks or so.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とうとう梅雨が終わったようだ。",
+      "reading": null,
+      "indonesian": "It seems that the rainy season is over at last.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いい塩梅だ。",
+      "reading": null,
+      "indonesian": "The seasoning is just right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "明日から梅雨前線が活発になります。",
+      "reading": null,
+      "indonesian": "The seasonal rain front is moving in tomorrow.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "definition": {
+    "word": "不幸",
+    "reading": "ふこう",
+    "romaji": "fukou",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "unhappiness",
+          "sorrow",
+          "misfortune",
+          "disaster",
+          "accident"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "death (usu. of a relative)",
+          "bereavement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "injustice"
+    },
+    {
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "discomfort"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "disadvantage"
+    },
+    {
+      "word": "幸せ",
+      "reading": "しあわせ",
+      "meaning": "happiness"
+    },
+    {
+      "word": "幸福",
+      "reading": "こうふく",
+      "meaning": "happiness"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "wonderful"
+    },
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "anxiety"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "insufficiency"
+    },
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "dissatisfaction"
+    },
+    {
+      "word": "幸い",
+      "reading": "さいわい",
+      "meaning": "happiness"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "wrong"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "good luck"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "suspension"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "discontent"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不幸中の幸い",
+      "reading": "ふこうちゅうのさいわい",
+      "meaning": "small mercy (from some misfortune)",
+      "type": "idiom"
+    },
+    {
+      "word": "他人の不幸は蜜の味",
+      "reading": "たにんのふこうはみつのあじ",
+      "meaning": "the misfortune of others tastes as sweet as honey",
+      "type": "proverb"
+    },
+    {
+      "word": "芸が身を助けるほどの不幸せ",
+      "reading": "げいがみをたすけるほどのふしあわせ",
+      "meaning": "being able to live as an artist is no blessing",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "家で不幸な出来事があった。",
+      "reading": null,
+      "english": "There was an unfortunate incident at home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

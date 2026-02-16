@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "協議",
+    "reading": "きょうぎ",
+    "romaji": "kyougi",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "konferensi",
+          "diskusi",
+          "negosiasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "kerja sama, kolaborasi"
+    },
+    {
+      "word": "議員",
+      "reading": "ぎいん",
+      "meaning": "anggota parlemen, kongres, atau dewan"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "Diet, kongres, parlemen"
+    },
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "ketua"
+    },
+    {
+      "word": "議論",
+      "reading": "ぎろん",
+      "meaning": "argumen, diskusi, perselisihan"
+    },
+    {
+      "word": "協調",
+      "reading": "きょうちょう",
+      "meaning": "kerja sama, rekonsiliasi, harmoni"
+    },
+    {
+      "word": "共同",
+      "reading": "きょうどう",
+      "meaning": "kerja sama, asosiasi, kolaborasi"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "misteri, rasa ingin tahu"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "rapat bisnis; konferensi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "鳩首協議",
+      "reading": "きゅうしゅきょうぎ",
+      "meaning": "put heads together and confer",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "長々と協議した末に、売り手と買い手は結局折り合った。",
+      "reading": null,
+      "indonesian": "After considerable argument, the buyer and the seller finally came to terms.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "長々と協議した末に、売り手と買い手は結局折り合った。",
+      "reading": null,
+      "indonesian": "After considerable argument, the buyer and the seller finally came to terms.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

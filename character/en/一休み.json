@@ -1,0 +1,183 @@
+{
+  "definition": {
+    "word": "一休み",
+    "reading": "ひとやすみ",
+    "romaji": "hitoyasumi",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "(short) rest",
+          "breather",
+          "break"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一流",
+      "reading": "いちりゅう",
+      "meaning": "first-class"
+    },
+    {
+      "word": "休業",
+      "reading": "きゅうぎょう",
+      "meaning": "suspension of business"
+    },
+    {
+      "word": "一応",
+      "reading": "いちおう",
+      "meaning": "more or less"
+    },
+    {
+      "word": "一旦",
+      "reading": "いったん",
+      "meaning": "once"
+    },
+    {
+      "word": "お休み",
+      "reading": "おやすみ",
+      "meaning": "holiday"
+    },
+    {
+      "word": "休養",
+      "reading": "きゅうよう",
+      "meaning": "rest"
+    },
+    {
+      "word": "統一",
+      "reading": "とういつ",
+      "meaning": "unity"
+    },
+    {
+      "word": "一昨年",
+      "reading": "おととし",
+      "meaning": "year before last"
+    },
+    {
+      "word": "一定",
+      "reading": "いってい",
+      "meaning": "to fix"
+    },
+    {
+      "word": "一斉",
+      "reading": "いっせい",
+      "meaning": "simultaneous"
+    },
+    {
+      "word": "一通り",
+      "reading": "ひととおり",
+      "meaning": "generally"
+    },
+    {
+      "word": "定休日",
+      "reading": "ていきゅうび",
+      "meaning": "regular holiday"
+    },
+    {
+      "word": "休講",
+      "reading": "きゅうこう",
+      "meaning": "cancellation (of a lecture, class, etc.)"
+    },
+    {
+      "word": "一種",
+      "reading": "いっしゅ",
+      "meaning": "a kind"
+    },
+    {
+      "word": "夏休み",
+      "reading": "なつやすみ",
+      "meaning": "summer vacation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ちょっと一休みしよう。",
+      "reading": null,
+      "english": "Let's take a break.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "激しい労働の後で一休みすることほど心地よいことはない。",
+      "reading": null,
+      "english": "Nothing is more pleasant than taking a rest after hard work.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一休みしよう。",
+      "reading": null,
+      "english": "Let's take a rest.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ちょっと一休みしよう。",
+      "reading": null,
+      "english": "Let's take a rest.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一休みしませんか。",
+      "reading": null,
+      "english": "How about taking a rest?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "一休みしなさい、そうでないと参ってしまいますよ。",
+      "reading": null,
+      "english": "Take a rest, or you will be worn out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムは一日中働いていたので、一休みしたいと思った。",
+      "reading": null,
+      "english": "Tom, who had been working all day, wanted to have a rest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょっととまって一休みしよう。",
+      "reading": null,
+      "english": "Let's stop and take a rest.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ここで一休みしたいものです。",
+      "reading": null,
+      "english": "I would like to have a rest here.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "私たちは一休みしないともうこれ以上歩けません。",
+      "reading": null,
+      "english": "We cannot go any farther without a rest.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

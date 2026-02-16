@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "戻す",
+    "reading": "もどす",
+    "romaji": "modosu",
+    "jlpt": "N3",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put back",
+          "to return",
+          "to give back",
+          "to restore (to a previous state, e.g. defrosting, reconstituting, reconciling)",
+          "to turn back (e.g. clock hand)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to vomit",
+          "to throw up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to recover (of a market price)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "戻る",
+      "reading": "もどる",
+      "meaning": "to turn back (e.g. half-way)"
+    },
+    {
+      "word": "払い戻す",
+      "reading": "はらいもどす",
+      "meaning": "to repay"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "よりを戻す",
+      "reading": "よりをもどす",
+      "meaning": "to untangle",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

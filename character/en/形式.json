@@ -1,0 +1,173 @@
+{
+  "definition": {
+    "word": "形式",
+    "reading": "けいしき",
+    "romaji": "keishiki",
+    "jlpt": "N2",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "form (as opposed to substance)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "format",
+          "form",
+          "style",
+          "manner"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "formality",
+          "form"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mode",
+          "form"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "form (bilinear, quadratic, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "公式",
+      "reading": "こうしき",
+      "meaning": "official"
+    },
+    {
+      "word": "儀式",
+      "reading": "ぎしき",
+      "meaning": "ceremony"
+    },
+    {
+      "word": "葬式",
+      "reading": "そうしき",
+      "meaning": "funeral"
+    },
+    {
+      "word": "図形",
+      "reading": "ずけい",
+      "meaning": "figure"
+    },
+    {
+      "word": "長方形",
+      "reading": "ちょうほうけい",
+      "meaning": "rectangle"
+    },
+    {
+      "word": "方程式",
+      "reading": "ほうていしき",
+      "meaning": "equation"
+    },
+    {
+      "word": "形容詞",
+      "reading": "けいようし",
+      "meaning": "adjective"
+    },
+    {
+      "word": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "square"
+    },
+    {
+      "word": "形",
+      "reading": "かたち",
+      "meaning": "(physical) form"
+    },
+    {
+      "word": "株式",
+      "reading": "かぶしき",
+      "meaning": "share (in a company)"
+    },
+    {
+      "word": "正式",
+      "reading": "せいしき",
+      "meaning": "formal"
+    },
+    {
+      "word": "方式",
+      "reading": "ほうしき",
+      "meaning": "form"
+    },
+    {
+      "word": "形成",
+      "reading": "けいせい",
+      "meaning": "formation"
+    },
+    {
+      "word": "形態",
+      "reading": "けいたい",
+      "meaning": "form"
+    },
+    {
+      "word": "人形",
+      "reading": "にんぎょう",
+      "meaning": "doll"
+    },
+    {
+      "word": "様式",
+      "reading": "ようしき",
+      "meaning": "style"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは形式上の問題に過ぎない。",
+      "reading": null,
+      "english": "It is merely a matter of form.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここで使われている文法形式は現在進行形である。",
+      "reading": null,
+      "english": "The grammatical form employed here is the present progressive.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人数が多いですから、今日は立食形式にしたんです。",
+      "reading": null,
+      "english": "There are a lot of people so today we've gone for buffet style.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "朝食はバイキング形式だって。",
+      "reading": null,
+      "english": "Breakfast is a smorgasbord.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

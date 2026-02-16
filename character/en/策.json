@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "策",
+    "reading": "さく",
+    "romaji": "saku",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "plan",
+          "policy",
+          "means",
+          "measure",
+          "stratagem",
+          "scheme"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fifth principle of the Eight Principles of Yong",
+          "right upward flick"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "対策",
+      "reading": "たいさく",
+      "meaning": "measure"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無為無策",
+      "reading": "むいむさく",
+      "meaning": "do-nothing, plan-nothing (government, etc.)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "奇策縦横",
+      "reading": "きさくじゅうおう",
+      "meaning": "ingenious scheme",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "権謀術策",
+      "reading": "けんぼうじゅっさく",
+      "meaning": "trickery",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無策無為",
+      "reading": "むさくむい",
+      "meaning": "do-nothingism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "策士策に溺れる",
+      "reading": "さくしさくにおぼれる",
+      "meaning": "craft brings nothing home",
+      "type": "proverb"
+    },
+    {
+      "word": "正直は最善の策",
+      "reading": "しょうじきはさいぜんのさく",
+      "meaning": "honesty is the best policy",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

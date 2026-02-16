@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "希望",
+    "reading": "きぼう",
+    "romaji": "kibou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "hope",
+          "wish",
+          "aspiration"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(bright) prospects",
+          "expectation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "志望",
+      "reading": "しぼう",
+      "meaning": "wish"
+    },
+    {
+      "word": "望み",
+      "reading": "のぞみ",
+      "meaning": "wish"
+    },
+    {
+      "word": "失望",
+      "reading": "しつぼう",
+      "meaning": "disappointment"
+    },
+    {
+      "word": "望む",
+      "reading": "のぞむ",
+      "meaning": "to desire"
+    },
+    {
+      "word": "望遠鏡",
+      "reading": "ぼうえんきょう",
+      "meaning": "telescope"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "希望の星",
+      "reading": "きぼうのほし",
+      "meaning": "ray of light",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空港の近くのホテルを希望します。",
+      "reading": null,
+      "english": "I prefer a hotel by the airport.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "希望を失ってはいけない。",
+      "reading": null,
+      "english": "Don't give up hope.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「何時をご希望でございますか？」「２時でいいですが」",
+      "reading": null,
+      "english": "\"What time would you like that for?\" \"Two o'clock would be good.\"",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

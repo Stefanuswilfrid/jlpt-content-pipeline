@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "芝居",
+    "reading": "しばい",
+    "romaji": "shibai",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "play",
+          "drama"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "居間",
+      "reading": "いま",
+      "meaning": "living room (Western style)"
+    },
+    {
+      "word": "芝生",
+      "reading": "しばふ",
+      "meaning": "lawn"
+    },
+    {
+      "word": "居眠り",
+      "reading": "いねむり",
+      "meaning": "nodding off (while sitting)"
+    },
+    {
+      "word": "住まい",
+      "reading": "すまい",
+      "meaning": "dwelling"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "猿芝居",
+      "reading": "さるしばい",
+      "meaning": "monkey show",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

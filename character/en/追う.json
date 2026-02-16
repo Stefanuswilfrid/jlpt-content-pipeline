@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "追う",
+    "reading": "おう",
+    "romaji": "ou",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to chase",
+          "to run after",
+          "to pursue",
+          "to follow after"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to follow (a set order, a trend, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drive out",
+          "to get rid of",
+          "to oust",
+          "to expel"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drive (e.g. a herd)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be pressed (e.g. for time)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "追加",
+      "reading": "ついか",
+      "meaning": "addition"
+    },
+    {
+      "word": "追いかける",
+      "reading": "おいかける",
+      "meaning": "to chase"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "二兎を追う",
+      "reading": "にとをおう",
+      "meaning": "to chase after two hares",
+      "type": "idiom"
+    },
+    {
+      "word": "背中を追う",
+      "reading": "せなかをおう",
+      "meaning": "to walk behind someone",
+      "type": "idiom"
+    },
+    {
+      "word": "白球を追う",
+      "reading": "はっきゅうをおう",
+      "meaning": "to play (baseball, softball, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "鹿を追う者は山を見ず",
+      "reading": "しかをおうものはやまをみず",
+      "meaning": "zeal is a bad servant",
+      "type": "proverb"
+    },
+    {
+      "word": "人の蠅を追うより己の蠅を追え",
+      "reading": "ひとのはえをおうよりおのれのはえをおえ",
+      "meaning": "take care of yourself before you take care of others",
+      "type": "proverb"
+    },
+    {
+      "word": "二兎を追う者は一兎をも得ず",
+      "reading": "にとをおうものはいっとをもえず",
+      "meaning": "if you run after two hares you will catch neither",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "流行を追うな。",
+      "reading": null,
+      "english": "Don't follow fashion.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "最新の流行を追うのは大変お金がかかる。",
+      "reading": null,
+      "english": "It is very expensive to keep up with the latest fashions.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "最新の流行を追うのは大変お金がかかる。",
+      "reading": null,
+      "english": "It is very expensive to keep up with the latest fashions.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "流行を追うな。",
+      "reading": null,
+      "english": "Don't follow fashion.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

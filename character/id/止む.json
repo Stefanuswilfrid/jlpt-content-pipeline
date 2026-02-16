@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "止む",
+    "reading": "やむ",
+    "romaji": "yamu",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berhenti",
+          "mengakhiri"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "止まる",
+      "reading": "とどまる",
+      "meaning": "untuk berhenti"
+    },
+    {
+      "word": "止まる",
+      "reading": "とまる",
+      "meaning": "untuk berhenti"
+    },
+    {
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "mengakhiri, berhenti, mengakhiri, mengundurkan diri"
+    },
+    {
+      "word": "止める",
+      "reading": "やめる",
+      "meaning": "mengakhiri, berhenti, mengakhiri, mengundurkan diri"
+    },
+    {
+      "word": "止す",
+      "reading": "よす",
+      "meaning": "berhenti, menyerah"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "雨は間もなく止むでしょう。",
+      "reading": null,
+      "indonesian": "It will stop raining soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "通り雨だからすぐ止むよ。",
+      "reading": null,
+      "indonesian": "This is a tropical storm. It'll be over soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "雨は間もなく止むでしょう。",
+      "reading": null,
+      "indonesian": "It will stop raining soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "雨は間もなく止むでしょう。",
+      "reading": null,
+      "indonesian": "It'll stop raining soon.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "雨は間もなく止むでしょう。",
+      "reading": null,
+      "indonesian": "It'll stop raining before long.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

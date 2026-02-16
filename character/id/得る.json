@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "得る",
+    "reading": "うる",
+    "romaji": "uru",
+    "jlpt": "N3",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Nidan verb with 'u' ending (archaic)",
+          "suffix"
+        ],
+        "meanings": [
+          "mendapatkan",
+          "meraih",
+          "memenangkan"
+        ]
+      },
+      {
+        "pos": [
+          "Nidan verb with 'u' ending (archaic)",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to get",
+          "to acquire",
+          "to obtain",
+          "to procure",
+          "to earn",
+          "to win",
+          "to gain",
+          "to secure",
+          "to attain"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "納得",
+      "reading": "なっとく",
+      "meaning": "persetujuan, kesepakatan, pemahaman"
+    },
+    {
+      "word": "心得る",
+      "reading": "こころえる",
+      "meaning": "untuk memahami, untuk memiliki pengetahuan yang mendalam"
+    },
+    {
+      "word": "得意",
+      "reading": "とくい",
+      "meaning": "kebanggaan, kemenangan, kemakmuran"
+    },
+    {
+      "word": "独特",
+      "reading": "どくとく",
+      "meaning": "kekhasan, keunikan, karakteristik"
+    },
+    {
+      "word": "損得",
+      "reading": "そんとく",
+      "meaning": "kerugian dan keuntungan, kelebihan dan kekurangan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "時を得る",
+      "reading": "ときをえる",
+      "meaning": "to get a break",
+      "type": "idiom"
+    },
+    {
+      "word": "九死に一生を得る",
+      "reading": "きゅうしにいっしょうをえる",
+      "meaning": "to have a narrow escape from death",
+      "type": "idiom"
+    },
+    {
+      "word": "漿を乞いて酒を得る",
+      "reading": "しょうをこいてさけをうる",
+      "meaning": "to get more than one requests",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "不運",
+    "reading": "ふうん",
+    "romaji": "fuun",
+    "jlpt": "N2",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "misfortune",
+          "bad luck",
+          "ill luck",
+          "ill fortune"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "運河",
+      "reading": "うんが",
+      "meaning": "(navigable) canal"
+    },
+    {
+      "word": "不規則",
+      "reading": "ふきそく",
+      "meaning": "irregular"
+    },
+    {
+      "word": "不潔",
+      "reading": "ふけつ",
+      "meaning": "unclean"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "wrong"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "good luck"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "suspension"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は失敗を不運のせいにしてはいけない。",
+      "reading": null,
+      "english": "Don't set your failure down to bad luck.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "不運にも案内者が道をまちがえた。",
+      "reading": null,
+      "english": "Unfortunately the guide went wrong.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人は自分で思っているほど不運ではない。",
+      "reading": null,
+      "english": "You don't know when you're alive.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

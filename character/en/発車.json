@@ -1,0 +1,163 @@
+{
+  "definition": {
+    "word": "発車",
+    "reading": "はっしゃ",
+    "romaji": "hassha",
+    "jlpt": "N3",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "departure (of a train, car, etc.)",
+          "starting",
+          "leaving"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "publication (of a newspaper, magazine, book, etc.)"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "development"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "announcement"
+    },
+    {
+      "word": "爆発",
+      "reading": "ばくはつ",
+      "meaning": "explosion"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "discovery"
+    },
+    {
+      "word": "列車",
+      "reading": "れっしゃ",
+      "meaning": "train"
+    },
+    {
+      "word": "発射",
+      "reading": "はっしゃ",
+      "meaning": "firing (esp. a rocket or missile)"
+    },
+    {
+      "word": "発達",
+      "reading": "はったつ",
+      "meaning": "development"
+    },
+    {
+      "word": "駐車",
+      "reading": "ちゅうしゃ",
+      "meaning": "parking (a vehicle)"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "機関車",
+      "reading": "きかんしゃ",
+      "meaning": "locomotive"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "汽車はまさに発車しようとしている。",
+      "reading": null,
+      "english": "The train is ready to start.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "駅に着く前に列車は発車していた。",
+      "reading": null,
+      "english": "The train left before we got to the station.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスは発車するところだった。",
+      "reading": null,
+      "english": "The bus was about to start.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "バスは発車しようとしていた。",
+      "reading": null,
+      "english": "The bus was about to start.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "バスは五分後に発車します。",
+      "reading": null,
+      "english": "The bus leaves in five minutes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その列車は午前７時１５分に発車する。",
+      "reading": null,
+      "english": "The train departs at 7:15 a.m.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "列車は今日の午後１時半に発車します。",
+      "reading": null,
+      "english": "The train leaves at one-thirty this afternoon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "列車は五時ちょうどに発車した。",
+      "reading": null,
+      "english": "The train left at five o'clock to the minute.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "列車は五時ちょうどに発車した。",
+      "reading": null,
+      "english": "The train left at exactly five o'clock.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "列車は５時きっかりに発車した。",
+      "reading": null,
+      "english": "The train left at five o'clock to the minute.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

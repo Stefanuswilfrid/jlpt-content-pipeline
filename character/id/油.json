@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "油",
+    "reading": "あぶら",
+    "romaji": "abura",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "minyak"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "石油",
+      "reading": "せきゆ",
+      "meaning": "minyak, petroleum, kerosin"
+    },
+    {
+      "word": "灯油",
+      "reading": "とうゆ",
+      "meaning": "minyak lampu, minyak tanah"
+    },
+    {
+      "word": "油断",
+      "reading": "ゆだん",
+      "meaning": "kelalaian, ketidaksiapan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "油を絞る",
+      "reading": "あぶらをしぼる",
+      "meaning": "to chew out",
+      "type": "idiom"
+    },
+    {
+      "word": "油を売る",
+      "reading": "あぶらをうる",
+      "meaning": "to loaf around (on the job)",
+      "type": "idiom"
+    },
+    {
+      "word": "油断大敵",
+      "reading": "ゆだんたいてき",
+      "meaning": "don't let your guard down",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "水と油",
+      "reading": "みずとあぶら",
+      "meaning": "two incompatible things (or people)",
+      "type": "idiom"
+    },
+    {
+      "word": "火に油を注ぐ",
+      "reading": "ひにあぶらをそそぐ",
+      "meaning": "to add fuel to the fire",
+      "type": "idiom"
+    },
+    {
+      "word": "油を注ぐ",
+      "reading": "あぶらをそそぐ",
+      "meaning": "to pour oil on (something)",
+      "type": "idiom"
+    },
+    {
+      "word": "油断は禁物",
+      "reading": "ゆだんはきんもつ",
+      "meaning": "be on your guard!",
+      "type": "proverb"
+    },
+    {
+      "word": "油に水",
+      "reading": "あぶらにみず",
+      "meaning": "incompatible",
+      "type": "idiom"
+    },
+    {
+      "word": "火に油",
+      "reading": "ひにあぶら",
+      "meaning": "(adding) fuel to the fire",
+      "type": "idiom"
+    },
+    {
+      "word": "油が切れる",
+      "reading": "あぶらがきれる",
+      "meaning": "to run out of oil",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "機械は油がきれてキイキイいった。",
+      "reading": null,
+      "indonesian": "The machine squealed for lack of oil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海底油田の開発をしたい。",
+      "reading": null,
+      "indonesian": "We want to explore an underwater oil field.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この国の石油は不足していない。",
+      "reading": null,
+      "indonesian": "We are not short of oil in this country.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火に油を注ぐだけだ。",
+      "reading": null,
+      "indonesian": "It only adds fuel to the fire.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "われわれは石油が不足している。",
+      "reading": null,
+      "indonesian": "We've run short of oil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

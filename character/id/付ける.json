@@ -1,0 +1,151 @@
+{
+  "definition": {
+    "word": "付ける",
+    "reading": "つける",
+    "romaji": "tsukeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk melampirkan",
+          "untuk menggabungkan",
+          "menambahkan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to furnish (a house with)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to wear",
+          "to put on"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to keep a diary",
+          "to make an entry"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to appraise",
+          "to set (a price)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to allot",
+          "to budget",
+          "to assign"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bring alongside"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to place (under guard or doctor)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "寄付",
+      "reading": "きふ",
+      "meaning": "kontribusi, donasi"
+    },
+    {
+      "word": "突く",
+      "reading": "つつく",
+      "meaning": "menusuk, memukul, menyerang; mencuit, menyenggol, mengorek"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "meja resepsionis"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "sosialisasi; persahabatan; pergaulan"
+    },
+    {
+      "word": "日付",
+      "reading": "ひづけ",
+      "meaning": "kencan, berkencan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "メリハリを付ける",
+      "reading": "メリハリをつける",
+      "meaning": "to add balance (to one's work, life, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "塩で味を付ける。",
+      "reading": null,
+      "indonesian": "We season with salt.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "二度と起きないように気を付けるよ。",
+      "reading": null,
+      "indonesian": "I'll see that it never happens again.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この服にはどんなアクセサリーを付けるの？",
+      "reading": null,
+      "indonesian": "What sort of jewelry are you going to wear with this dress?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

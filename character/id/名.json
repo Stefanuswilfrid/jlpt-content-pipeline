@@ -1,0 +1,213 @@
+{
+  "definition": {
+    "word": "名",
+    "reading": "な",
+    "romaji": "na",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nama",
+          "reputasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "title"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fame",
+          "renown",
+          "reputation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pretext",
+          "pretense",
+          "justification",
+          "appearance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "署名",
+      "reading": "しょめい",
+      "meaning": "tanda tangan"
+    },
+    {
+      "word": "名人",
+      "reading": "めいじん",
+      "meaning": "master, ahli"
+    },
+    {
+      "word": "名刺",
+      "reading": "めいし",
+      "meaning": "(kartu nama); kartu bisnis"
+    },
+    {
+      "word": "題名",
+      "reading": "だいめい",
+      "meaning": "judul"
+    },
+    {
+      "word": "姓名",
+      "reading": "せいめい",
+      "meaning": "nama lengkap"
+    },
+    {
+      "word": "名詞",
+      "reading": "めいし",
+      "meaning": "kata benda"
+    },
+    {
+      "word": "名前",
+      "reading": "なまえ",
+      "meaning": "nama"
+    },
+    {
+      "word": "氏名",
+      "reading": "しめい",
+      "meaning": "nama lengkap"
+    },
+    {
+      "word": "名作",
+      "reading": "めいさく",
+      "meaning": "mahakarya"
+    },
+    {
+      "word": "仮名遣い",
+      "reading": "かなづかい",
+      "meaning": "ortografi kana, ejaan suku kata"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "大義名分",
+      "reading": "たいぎめいぶん",
+      "meaning": "just cause",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有名無実",
+      "reading": "ゆうめいむじつ",
+      "meaning": "in name but not in reality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "名所旧跡",
+      "reading": "めいしょきゅうせき",
+      "meaning": "places of scenic beauty and historical interest",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "名器",
+      "reading": "めいき",
+      "meaning": "famous utensil",
+      "type": "expression"
+    },
+    {
+      "word": "名論卓説",
+      "reading": "めいろんたくせつ",
+      "meaning": "excellent opinions and theories",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "怪我の功名",
+      "reading": "けがのこうみょう",
+      "meaning": "fortunate error",
+      "type": "idiom"
+    },
+    {
+      "word": "襲名披露",
+      "reading": "しゅうめいひろう",
+      "meaning": "announcing the succession to another's stage name",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "名誉挽回",
+      "reading": "めいよばんかい",
+      "meaning": "restoring one's impaired reputation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "名声赫々",
+      "reading": "めいせいかっかく",
+      "meaning": "of great renown",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "汚名返上",
+      "reading": "おめいへんじょう",
+      "meaning": "clearing one's name",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "みんなあなたに会いたがってる。あなたは有名なのよ！",
+      "reading": null,
+      "indonesian": "Everyone wants to meet you. You're famous!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "名案だ。",
+      "reading": null,
+      "indonesian": "That's a good idea!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "名案です。",
+      "reading": null,
+      "indonesian": "That's a good idea!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "みんなあなたに会いたがってる。あなたは有名なのよ！",
+      "reading": null,
+      "indonesian": "Everyone wants to meet you. You're famous!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの名前は？",
+      "reading": null,
+      "indonesian": "What is your name?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あなたの名前は？",
+      "reading": null,
+      "indonesian": "What's your name?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

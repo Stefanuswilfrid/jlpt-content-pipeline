@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "難",
+    "reading": "なん",
+    "romaji": "nan",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "difficulty",
+          "trouble",
+          "hardship",
+          "shortage"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "accident",
+          "disaster",
+          "danger"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fault",
+          "defect",
+          "flaw"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "criticism",
+          "charge",
+          "blame"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "困難",
+      "reading": "こんなん",
+      "meaning": "difficulty"
+    },
+    {
+      "word": "盗難",
+      "reading": "とうなん",
+      "meaning": "theft"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無理難題",
+      "reading": "むりなんだい",
+      "meaning": "unreasonable demand",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "難攻不落",
+      "reading": "なんこうふらく",
+      "meaning": "impregnable",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "艱難辛苦",
+      "reading": "かんなんしんく",
+      "meaning": "trial and tribulation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "七難八苦",
+      "reading": "しちなんはっく",
+      "meaning": "the Seven Misfortunes and Eight Pains",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "多事多難",
+      "reading": "たじたなん",
+      "meaning": "various difficulties",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "難行苦行",
+      "reading": "なんぎょうくぎょう",
+      "meaning": "penance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "前途多難",
+      "reading": "ぜんとたなん",
+      "meaning": "having many difficulties in store",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "非難轟々",
+      "reading": "ひなんごうごう",
+      "meaning": "loud criticism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "辛苦艱難",
+      "reading": "しんくかんなん",
+      "meaning": "trials and tribulations",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "進退両難",
+      "reading": "しんたいりょうなん",
+      "meaning": "being driven to the wall",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

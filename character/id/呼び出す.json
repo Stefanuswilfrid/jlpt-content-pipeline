@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "呼び出す",
+    "reading": "よびだす",
+    "romaji": "yobidasu",
+    "jlpt": "N2",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "memanggil",
+          "menelepon (misalnya",
+          "telepon)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to invoke (e.g. a subroutine)",
+          "to call",
+          "to open (e.g. a file)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "引き出す",
+      "reading": "ひきだす",
+      "meaning": "menarik keluar, mengeluarkan, mencabut"
+    },
+    {
+      "word": "取り出す",
+      "reading": "とりだす",
+      "meaning": "untuk mengeluarkan, untuk memilih"
+    },
+    {
+      "word": "言い出す",
+      "reading": "いいだす",
+      "meaning": "untuk mulai berbicara, untuk menyarankan"
+    },
+    {
+      "word": "出題",
+      "reading": "しゅつだい",
+      "meaning": "mengajukan pertanyaan"
+    },
+    {
+      "word": "抜け出す",
+      "reading": "ぬけだす",
+      "meaning": "menyelinap keluar, menyelinap pergi, unggul"
+    },
+    {
+      "word": "追い出す",
+      "reading": "おいだす",
+      "meaning": "mengusir, mengeluarkan"
+    },
+    {
+      "word": "投げ出す",
+      "reading": "なげだす",
+      "meaning": "meninggalkan, membuang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ことあるごとに呼び出すのはやめてちょうだい。",
+      "reading": null,
+      "indonesian": "Could you please stop calling me at every opportunity you can get?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ことあるごとに呼び出すのはやめてちょうだい。",
+      "reading": null,
+      "indonesian": "Could you please stop calling me at every opportunity you can get?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

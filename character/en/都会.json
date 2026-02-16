@@ -1,0 +1,117 @@
+{
+  "definition": {
+    "word": "都会",
+    "reading": "とかい",
+    "romaji": "tokai",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "city"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Tokyo Metropolitan Assembly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "都市",
+      "reading": "とし",
+      "meaning": "town"
+    },
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "member"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "congress"
+    },
+    {
+      "word": "国会",
+      "reading": "こっかい",
+      "meaning": "National Diet"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "mass meeting"
+    },
+    {
+      "word": "首都",
+      "reading": "しゅと",
+      "meaning": "capital (city)"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "meeting"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "accounting"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "meeting"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "meeting"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "company"
+    },
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "society"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "都会に住んでいます。",
+      "reading": null,
+      "english": "I'm living in the city.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "わたしは都会の生活には生まれつき向いていないと思う。",
+      "reading": null,
+      "english": "I don't think I'm cut out for city life.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もちろんのことだが、いなかの生活は都会の生活より健康によい。",
+      "reading": null,
+      "english": "It goes without saying that country life is healthier than town life.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

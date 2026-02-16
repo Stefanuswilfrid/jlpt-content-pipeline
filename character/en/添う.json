@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "添う",
+    "reading": "そう",
+    "romaji": "sou",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to meet (wishes, expectations, etc.)",
+          "to satisfy",
+          "to comply with",
+          "to live up to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to accompany",
+          "to go with",
+          "to stay by one's side"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to associate with (someone)",
+          "to mix with"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to marry",
+          "to wed"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be added"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "人には添うてみよ馬には乗ってみよ",
+      "reading": "ひとにはそうてみようまにはのってみよ",
+      "meaning": "you can't judge someone until you've spent time with them",
+      "type": "proverb"
+    },
+    {
+      "word": "馬には乗ってみよ人には添うてみよ",
+      "reading": "うまにはのってみよひとにはそうてみよ",
+      "meaning": "you can't judge someone until you've spent time with them",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

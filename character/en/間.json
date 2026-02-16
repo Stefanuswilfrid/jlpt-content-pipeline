@@ -1,0 +1,191 @@
+{
+  "definition": {
+    "word": "間",
+    "reading": "あいだ",
+    "romaji": "aida",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "space (between)",
+          "gap",
+          "interval",
+          "distance",
+          "stretch"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "period of time (during, while)",
+          "duration",
+          "interval"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "between (two parties or things)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "among (a group)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "relations (between)",
+          "relationship"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "昼間",
+      "reading": "ひるま",
+      "meaning": "daytime"
+    },
+    {
+      "word": "この間",
+      "reading": "このあいだ",
+      "meaning": "the other day"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "period"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    },
+    {
+      "word": "人間",
+      "reading": "にんげん",
+      "meaning": "human being"
+    },
+    {
+      "word": "年間",
+      "reading": "ねんかん",
+      "meaning": "(period of) a year"
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaning": "companion"
+    },
+    {
+      "word": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "moment"
+    },
+    {
+      "word": "世間",
+      "reading": "せけん",
+      "meaning": "world"
+    },
+    {
+      "word": "間違い",
+      "reading": "まちがい",
+      "meaning": "mistake"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無間地獄",
+      "reading": "むけんじごく",
+      "meaning": "the Avici hell (the eighth and most painful of the eight hells)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "反間苦肉",
+      "reading": "はんかんくにく",
+      "meaning": "stratagem for causing a rift in the enemy camp by using a seditious plot",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "合間を縫う",
+      "reading": "あいまをぬう",
+      "meaning": "to make good use of one's spare moments",
+      "type": "idiom"
+    },
+    {
+      "word": "間に立つ",
+      "reading": "あいだにたつ",
+      "meaning": "to mediate",
+      "type": "idiom"
+    },
+    {
+      "word": "世間は張り物",
+      "reading": "せけんははりもの",
+      "meaning": "everyone is putting on appearances",
+      "type": "proverb"
+    },
+    {
+      "word": "人間万事塞翁が馬",
+      "reading": "にんげんばんじさいおうがうま",
+      "meaning": "inscrutable are the ways of heaven",
+      "type": "proverb"
+    },
+    {
+      "word": "人間到る処青山あり",
+      "reading": "にんげんいたるところせいざんあり",
+      "meaning": "home is wherever one lays one's hat",
+      "type": "proverb"
+    },
+    {
+      "word": "渡る世間に鬼はない",
+      "reading": "わたるせけんにおにはない",
+      "meaning": "all people aren't evil",
+      "type": "proverb"
+    },
+    {
+      "word": "人間は万物の霊長",
+      "reading": "にんげんはばんぶつのれいちょう",
+      "meaning": "man is the crown of creation",
+      "type": "proverb"
+    },
+    {
+      "word": "人間万事金の世の中",
+      "reading": "にんげんばんじかねのよのなか",
+      "meaning": "money talks",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "時間があるか分かりません。",
+      "reading": null,
+      "english": "I don't know if I have the time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "時間はいくらでも作れる。",
+      "reading": null,
+      "english": "One can always find time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

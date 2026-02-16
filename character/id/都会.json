@@ -1,0 +1,117 @@
+{
+  "definition": {
+    "word": "都会",
+    "reading": "とかい",
+    "romaji": "tokai",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "kota"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Tokyo Metropolitan Assembly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "都市",
+      "reading": "とし",
+      "meaning": "kota, perkotaan"
+    },
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "anggota, keanggotaan"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "Diet, kongres, parlemen"
+    },
+    {
+      "word": "国会",
+      "reading": "こっかい",
+      "meaning": "Parlemen nasional, parlemen, kongres"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "konvensi, turnamen (besar), pertemuan massal"
+    },
+    {
+      "word": "首都",
+      "reading": "しゅと",
+      "meaning": "ibu kota"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "pertemuan, majelis"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "akun, keuangan"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "pertemuan, kencan, perjumpaan"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "rapat bisnis; konferensi"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "perusahaan, korporasi"
+    },
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "masyarakat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "都会に住んでいます。",
+      "reading": null,
+      "indonesian": "I'm living in the city.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "わたしは都会の生活には生まれつき向いていないと思う。",
+      "reading": null,
+      "indonesian": "I don't think I'm cut out for city life.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もちろんのことだが、いなかの生活は都会の生活より健康によい。",
+      "reading": null,
+      "indonesian": "It goes without saying that country life is healthier than town life.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

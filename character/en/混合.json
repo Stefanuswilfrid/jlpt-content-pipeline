@@ -1,0 +1,205 @@
+{
+  "definition": {
+    "word": "混合",
+    "reading": "こんごう",
+    "romaji": "kongou",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "mixing",
+          "mixture",
+          "meld"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "miscegenation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "集合",
+      "reading": "しゅうごう",
+      "meaning": "meeting up"
+    },
+    {
+      "word": "待合室",
+      "reading": "まちあいしつ",
+      "meaning": "waiting room"
+    },
+    {
+      "word": "合理",
+      "reading": "ごうり",
+      "meaning": "rationality"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "union"
+    },
+    {
+      "word": "問い合わせ",
+      "reading": "といあわせ",
+      "meaning": "inquiry"
+    },
+    {
+      "word": "合同",
+      "reading": "ごうどう",
+      "meaning": "combination"
+    },
+    {
+      "word": "合流",
+      "reading": "ごうりゅう",
+      "meaning": "confluence (of rivers)"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "association"
+    },
+    {
+      "word": "複合",
+      "reading": "ふくごう",
+      "meaning": "composite"
+    },
+    {
+      "word": "都合",
+      "reading": "つごう",
+      "meaning": "circumstances"
+    },
+    {
+      "word": "具合",
+      "reading": "ぐあい",
+      "meaning": "condition"
+    },
+    {
+      "word": "場合",
+      "reading": "ばあい",
+      "meaning": "case"
+    },
+    {
+      "word": "合間",
+      "reading": "あいま",
+      "meaning": "interval"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どんな意見も真実と誤りの混合だ。",
+      "reading": null,
+      "english": "Every opinion is a mixture of truth and mistakes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気は目に見えない気体の混合体である。",
+      "reading": null,
+      "english": "Air is a mixture of gases that we cannot see.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気は数種の気体の混合物である。",
+      "reading": null,
+      "english": "Air is a mixture of several gases.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気は数種の気体の混合体だ。",
+      "reading": null,
+      "english": "Air is a mixture of several gases.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気は気体の混合物だ。",
+      "reading": null,
+      "english": "Air is a mixture of gases.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気はさまざまな気体の混合物である。",
+      "reading": null,
+      "english": "Air is a mixture of various gases.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もういちど三種混合の予防接種をしなければならないのです。",
+      "reading": null,
+      "english": "She needs another DPT shot.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらの物質の混合は危険です。",
+      "reading": null,
+      "english": "The mixture of these substances is dangerous.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "前に三種混合の予防接種を３回やりました。",
+      "reading": null,
+      "english": "She had three DPT shots before.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "水と油を混合させることはできない。",
+      "reading": null,
+      "english": "You can't mix oil with water.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "三原色を混合すると黒色ができる。",
+      "reading": null,
+      "english": "Mixture of the three primary colors creates black.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気は目に見えない気体の混合体である。",
+      "reading": null,
+      "english": "Air is a mixture of gases that we cannot see.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "空気は目に見えない気体の混合体である。",
+      "reading": null,
+      "english": "Air is a mixture of gases that we can't see.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "話し合う",
+    "reading": "はなしあう",
+    "romaji": "hanashiau",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk berdiskusi",
+          "untuk berbicara bersama"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "合わせる",
+      "reading": "あわせる",
+      "meaning": "untuk menggabungkan"
+    },
+    {
+      "word": "合図",
+      "reading": "あいず",
+      "meaning": "tanda, sinyal"
+    },
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "jumlah total, total"
+    },
+    {
+      "word": "似合う",
+      "reading": "にあう",
+      "meaning": "cocok (dengan seseorang), mencocokkan (pakaian), (sesuatu) menjadi (seseorang)"
+    },
+    {
+      "word": "都合",
+      "reading": "つごう",
+      "meaning": "keadaan, kenyamanan"
+    },
+    {
+      "word": "合う",
+      "reading": "あう",
+      "meaning": "agar sesuai, agar cocok"
+    },
+    {
+      "word": "釣り合う",
+      "reading": "つりあう",
+      "meaning": "untuk menyeimbangkan, untuk berada dalam harmoni, untuk sesuai"
+    },
+    {
+      "word": "出会う",
+      "reading": "であう",
+      "meaning": "bertemu secara kebetulan, berpapasan, atau berjumpa secara tak sengaja"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "会議では下記を話し合うつもりです。",
+      "reading": null,
+      "indonesian": "I'd like to discuss the following at the meeting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのやり方についてどうすべきかを話し合う必要がある。",
+      "reading": null,
+      "indonesian": "We need to talk about how to do it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "話し合う問題のリストを作って下さい。",
+      "reading": null,
+      "indonesian": "Will you make a list of issues to discuss?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

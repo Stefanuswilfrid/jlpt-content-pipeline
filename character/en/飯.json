@@ -1,0 +1,185 @@
+{
+  "definition": {
+    "word": "飯",
+    "reading": "めし",
+    "romaji": "meshi",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cooked rice"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meal",
+          "food"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's living",
+          "livelihood"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夕飯",
+      "reading": "ゆうはん",
+      "meaning": "evening meal"
+    },
+    {
+      "word": "晩御飯",
+      "reading": "ばんごはん",
+      "meaning": "dinner"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一宿一飯",
+      "reading": "いっしゅくいっぱん",
+      "meaning": "(being beholden to someone for a favor of) a night's lodging and a meal",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "日常茶飯",
+      "reading": "にちじょうさはん",
+      "meaning": "everyday occurrence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "飯を食う",
+      "reading": "めしをくう",
+      "meaning": "to have a meal",
+      "type": "idiom"
+    },
+    {
+      "word": "家常茶飯",
+      "reading": "かじょうさはん",
+      "meaning": "everyday occurrence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "飯の食い上げ",
+      "reading": "めしのくいあげ",
+      "meaning": "losing one's means of livelihood",
+      "type": "idiom"
+    },
+    {
+      "word": "冷や飯を食う",
+      "reading": "ひやめしをくう",
+      "meaning": "to depend on someone for food and lodging",
+      "type": "idiom"
+    },
+    {
+      "word": "狐に小豆飯",
+      "reading": "きつねにあずきめし",
+      "meaning": "trusting a cat with milk",
+      "type": "idiom"
+    },
+    {
+      "word": "臭い飯を食う",
+      "reading": "くさいめしをくう",
+      "meaning": "to go to prison",
+      "type": "idiom"
+    },
+    {
+      "word": "飯の種",
+      "reading": "めしのたね",
+      "meaning": "means of making a living",
+      "type": "idiom"
+    },
+    {
+      "word": "椀飯振舞",
+      "reading": "おうばんぶるまい",
+      "meaning": "lavish feast",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "毎日お昼ご飯を作っているよ。",
+      "reading": null,
+      "english": "I make lunch every day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日お昼ご飯を作っているよ。",
+      "reading": null,
+      "english": "I make lunch every day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなの朝飯前だよ。",
+      "reading": null,
+      "english": "It's a piece of cake.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そんなの朝飯前よ。",
+      "reading": null,
+      "english": "It's a piece of cake.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "朝飯前だよ。",
+      "reading": null,
+      "english": "It's a piece of cake.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "夕飯はもう食べたの？",
+      "reading": null,
+      "english": "Have you eaten dinner yet?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "もうお昼ご飯は食べました。",
+      "reading": null,
+      "english": "I have already eaten lunch.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まだ昼ご飯を食べてないんだ。",
+      "reading": null,
+      "english": "I haven't eaten lunch yet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まだ昼飯食ってないんだよ。",
+      "reading": null,
+      "english": "I haven't eaten lunch yet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

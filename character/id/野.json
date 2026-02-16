@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "野",
+    "reading": "の",
+    "romaji": "no",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bidang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hidden interior part (of a structure or object)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "wild (of an animal or plant)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaning": "lapangan, bola"
+    },
+    {
+      "word": "野党",
+      "reading": "やとう",
+      "meaning": "partai oposisi"
+    },
+    {
+      "word": "野菜",
+      "reading": "やさい",
+      "meaning": "sayuran"
+    },
+    {
+      "word": "平野",
+      "reading": "へいや",
+      "meaning": "lapangan terbuka"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "田夫野人",
+      "reading": "でんぷやじん",
+      "meaning": "rustic",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "虎を野に放つ",
+      "reading": "とらをのにはなつ",
+      "meaning": "to let loose something dangerous",
+      "type": "idiom"
+    },
+    {
+      "word": "野心満々",
+      "reading": "やしんまんまん",
+      "meaning": "burning with ambition",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "沃野千里",
+      "reading": "よくやせんり",
+      "meaning": "vast expanse of fertile land",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "閑雲野鶴",
+      "reading": "かんうんやかく",
+      "meaning": "life in natural setting, free from worldly cares",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "視野狭窄",
+      "reading": "しやきょうさく",
+      "meaning": "narrowing of visual field",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "焼け野の鴉",
+      "reading": "やけののからす",
+      "meaning": "blacker than black",
+      "type": "idiom"
+    },
+    {
+      "word": "家鶏野鶩",
+      "reading": "かけいやぼく",
+      "meaning": "bored by the familiar, intrigued by novelty",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "後は野となれ山となれ",
+      "reading": "あとはのとなれやまとなれ",
+      "meaning": "I don't care what follows",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "どうして野菜を食べないの？",
+      "reading": null,
+      "indonesian": "Why don't you eat vegetables?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "野菜を食べたら？",
+      "reading": null,
+      "indonesian": "Why don't you eat some vegetables?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "京成のスカイライナーは空港から７５分で上野駅に着きます。",
+      "reading": null,
+      "indonesian": "From the airport, the Keisei Line Sky-Liner will take you to Ueno Station in 75 minutes.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "牛が野原で草をはんでいた。",
+      "reading": null,
+      "indonesian": "Cattle were grazing in the field.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

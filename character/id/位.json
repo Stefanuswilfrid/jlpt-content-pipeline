@@ -1,0 +1,142 @@
+{
+  "definition": {
+    "word": "位",
+    "reading": "くらい",
+    "romaji": "kurai",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nilai",
+          "peringkat",
+          "tentang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "government position",
+          "court rank"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "social standing",
+          "rank",
+          "class",
+          "echelon",
+          "rung"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "grade (of quality, etc.)",
+          "level",
+          "tier",
+          "rank"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "position of a figure (e.g. tens, thousands)",
+          "digit",
+          "(decimal) place"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "単位",
+      "reading": "たんい",
+      "meaning": "kredit (untuk suatu mata kuliah di sekolah); satuan, denominasi"
+    },
+    {
+      "word": "地位",
+      "reading": "ちい",
+      "meaning": "(kedudukan) sosial, status"
+    },
+    {
+      "word": "位置",
+      "reading": "いち",
+      "meaning": "tempat, posisi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "三位一体",
+      "reading": "さんみいったい",
+      "meaning": "the Trinity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "位階勲等",
+      "reading": "いかいくんとう",
+      "meaning": "court rank and honors",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "興味本位",
+      "reading": "きょうみほんい",
+      "meaning": "(just) out of curiosity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "尸位素餐",
+      "reading": "しいそさん",
+      "meaning": "neglecting the duties of an office while taking pay",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無位無官",
+      "reading": "むいむかん",
+      "meaning": "having no special rank or title",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "高位高官",
+      "reading": "こういこうかん",
+      "meaning": "(person of) high rank and office (exalted station)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "叙位叙勲",
+      "reading": "じょいじょくん",
+      "meaning": "conferment of Court ranks and decorations",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "代わりにダイアルしていただけませんか？電話の位置が高すぎて。",
+      "reading": null,
+      "indonesian": "Could you dial for me? The telephone is too high.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "君はもっとましな地位にあるべき人だ。",
+      "reading": null,
+      "indonesian": "You belong in a better place than this.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

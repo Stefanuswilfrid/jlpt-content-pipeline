@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "足跡",
+    "reading": "あしあと",
+    "romaji": "ashiato",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "footprints"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "record of page visitors (e.g. in social networking sites)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "足元",
+      "reading": "あしもと",
+      "meaning": "at one's feet"
+    },
+    {
+      "word": "遠足",
+      "reading": "えんそく",
+      "meaning": "school trip"
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaning": "satisfaction"
+    },
+    {
+      "word": "裸足",
+      "reading": "はだし",
+      "meaning": "barefoot"
+    },
+    {
+      "word": "追跡",
+      "reading": "ついせき",
+      "meaning": "chase"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "烏の足跡",
+      "reading": "からすのあしあと",
+      "meaning": "crow's feet (wrinkles)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

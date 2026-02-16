@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "残念",
+    "reading": "ざんねん",
+    "romaji": "zannen",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "penyesalan; patut disesalkan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "peringatan, kenangan"
+    },
+    {
+      "word": "残り",
+      "reading": "のこり",
+      "meaning": "tersisa, sisa"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "残念無念",
+      "reading": "ざんねんむねん",
+      "meaning": "deep regret",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "残念至極",
+      "reading": "ざんねんしごく",
+      "meaning": "deep regret",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

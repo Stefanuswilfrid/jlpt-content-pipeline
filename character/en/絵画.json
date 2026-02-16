@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "絵画",
+    "reading": "かいが",
+    "romaji": "kaiga",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "painting",
+          "picture"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "画家",
+      "reading": "がか",
+      "meaning": "painter"
+    },
+    {
+      "word": "映画",
+      "reading": "えいが",
+      "meaning": "movie"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "plan"
+    },
+    {
+      "word": "絵",
+      "reading": "え",
+      "meaning": "picture"
+    },
+    {
+      "word": "漫画",
+      "reading": "まんが",
+      "meaning": "cartoon"
+    },
+    {
+      "word": "映画館",
+      "reading": "えいがかん",
+      "meaning": "movie theatre"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "競売でその絵画を手に入れた。",
+      "reading": null,
+      "english": "I obtained the painting at an auction.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうやってこの絵画を手に入れたのですか。",
+      "reading": null,
+      "english": "How did you obtain this painting?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "たくさんの絵画がその店にかかっている。",
+      "reading": null,
+      "english": "Many paintings hang in the shop.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その絵画を見たらおもしろかった。",
+      "reading": null,
+      "english": "I found the picture interesting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その絵画はターナーの作品と分かった。",
+      "reading": null,
+      "english": "The painting turned out to be a Turner.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは小さくて極めて美しい絵画だ。",
+      "reading": null,
+      "english": "This is an exquisite little painting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは絵画だ。",
+      "reading": null,
+      "english": "This is a painting.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "この絵画はピカソの作品だと考えられている。",
+      "reading": null,
+      "english": "This painting is attributed to Picasso.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

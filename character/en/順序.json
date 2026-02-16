@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "順序",
+    "reading": "じゅんじょ",
+    "romaji": "junjo",
+    "jlpt": "N2",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "order",
+          "sequence"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "procedure"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "道順",
+      "reading": "みちじゅん",
+      "meaning": "route"
+    },
+    {
+      "word": "不順",
+      "reading": "ふじゅん",
+      "meaning": "irregular"
+    },
+    {
+      "word": "秩序",
+      "reading": "ちつじょ",
+      "meaning": "order"
+    },
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "favourable"
+    },
+    {
+      "word": "順",
+      "reading": "じゅん",
+      "meaning": "order"
+    },
+    {
+      "word": "手順",
+      "reading": "てじゅん",
+      "meaning": "process"
+    },
+    {
+      "word": "順番",
+      "reading": "じゅんばん",
+      "meaning": "order"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "まずご両親に話してみるのが順序というものだろう。",
+      "reading": null,
+      "english": "First of all, you should talk it over with your parents.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "社会を先に正すべきだという人がいるが、それは順序が逆である。",
+      "reading": null,
+      "english": "Some say society should be corrected first, but that is to put the cart before the horse.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "まずご両親に話してみるのが順序というものだろう。",
+      "reading": null,
+      "english": "First of all, you should talk it over with your parents.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "社会を先に正すべきだという人がいるが、それは順序が逆である。",
+      "reading": null,
+      "english": "Some say society should be corrected first, but that is to put the cart before the horse.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "Ｐが半順序集合であることを証明せよ。",
+      "reading": null,
+      "english": "Prove that P is a poset.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "Ｐが半順序集合であることを証明せよ。",
+      "reading": null,
+      "english": "Prove that P is a poset.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムさんは考えを順序立てられませんでした。",
+      "reading": null,
+      "english": "Tom couldn't put his thoughts in order.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムさんは考えを順序立てられませんでした。",
+      "reading": null,
+      "english": "Tom couldn't put his thoughts in order.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

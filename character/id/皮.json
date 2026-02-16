@@ -1,0 +1,161 @@
+{
+  "definition": {
+    "word": "皮",
+    "reading": "かわ",
+    "romaji": "kawa",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kulit",
+          "bulu",
+          "bahan kulit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rind",
+          "peel",
+          "husk",
+          "bark"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shell",
+          "sheath",
+          "wrapping"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mask (hiding one's true nature)",
+          "seeming"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "皮膚",
+      "reading": "ひふ",
+      "meaning": "kulit"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "Kaos kaki Jepang (dengan jari kaki terpisah)"
+    },
+    {
+      "word": "皮肉",
+      "reading": "ひにく",
+      "meaning": "sinisme, sarkasme"
+    },
+    {
+      "word": "毛皮",
+      "reading": "けがわ",
+      "meaning": "bulu, kulit, kulit binatang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "草根木皮",
+      "reading": "そうこんもくひ",
+      "meaning": "roots of herbs and barks of trees used in Chinese medicine",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "虚実皮膜",
+      "reading": "きょじつひまく",
+      "meaning": "the difference between truth and fiction in art being very subtle",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "皮相浅薄",
+      "reading": "ひそうせんぱく",
+      "meaning": "shallow and unwise",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "羊質虎皮",
+      "reading": "ようしつこひ",
+      "meaning": "sheep in a tiger's skin",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "面の皮が厚い",
+      "reading": "つらのかわがあつい",
+      "meaning": "shameless",
+      "type": "idiom"
+    },
+    {
+      "word": "皮を被る",
+      "reading": "かわをかぶる",
+      "meaning": "to conceal one's true nature or feelings",
+      "type": "idiom"
+    },
+    {
+      "word": "首の皮一枚",
+      "reading": "くびのかわいちまい",
+      "meaning": "still having a very small chance",
+      "type": "idiom"
+    },
+    {
+      "word": "化けの皮を剥ぐ",
+      "reading": "ばけのかわをはぐ",
+      "meaning": "to unmask (someone's true nature)",
+      "type": "idiom"
+    },
+    {
+      "word": "捕らぬ狸の皮算用",
+      "reading": "とらぬたぬきのかわざんよう",
+      "meaning": "counting one's chickens before they're hatched",
+      "type": "idiom"
+    },
+    {
+      "word": "化けの皮を現わす",
+      "reading": "ばけのかわをあらわす",
+      "meaning": "to expose one's true colors (colours)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "リンゴを食べる前に皮をむきなさい。",
+      "reading": null,
+      "indonesian": "Take the skin off before you eat the apple.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジャガイモの皮をこそげ取ってください。",
+      "reading": null,
+      "indonesian": "Please scrape the skin off the potatoes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "サメの皮はマグロの皮よりはるかにざらざらしている。",
+      "reading": null,
+      "indonesian": "The skin of a shark is much rougher than that of a tuna fish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

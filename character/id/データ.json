@@ -1,0 +1,39 @@
+{
+  "definition": {
+    "word": "データ",
+    "reading": "データ",
+    "romaji": "deeta",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "data"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "データはまだまとめていません。",
+      "reading": null,
+      "indonesian": "The data hasn't been compiled yet.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "その機械はデータを分類するだけでなく、数字もチェックする。",
+      "reading": null,
+      "indonesian": "In addition to classifying the data, the machine also checks the figures.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

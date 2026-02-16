@@ -1,0 +1,118 @@
+{
+  "definition": {
+    "word": "小包",
+    "reading": "こづつみ",
+    "romaji": "kozutsumi",
+    "jlpt": "N3",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "parcel",
+          "package"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "包み",
+      "reading": "つつみ",
+      "meaning": "bundle"
+    },
+    {
+      "word": "小屋",
+      "reading": "こや",
+      "meaning": "hut"
+    },
+    {
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaning": "packing"
+    },
+    {
+      "word": "小麦",
+      "reading": "こむぎ",
+      "meaning": "wheat"
+    },
+    {
+      "word": "小銭",
+      "reading": "こぜに",
+      "meaning": "small change"
+    },
+    {
+      "word": "小",
+      "reading": "しょう",
+      "meaning": "smallness"
+    },
+    {
+      "word": "少女",
+      "reading": "しょうじょ",
+      "meaning": "girl (usu. between 7 and 17)"
+    },
+    {
+      "word": "少々",
+      "reading": "しょうしょう",
+      "meaning": "a little"
+    },
+    {
+      "word": "小鳥",
+      "reading": "ことり",
+      "meaning": "small bird"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その小包は一ポンドより重い。",
+      "reading": null,
+      "english": "The parcel weighs more than one pound.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その小包はひもで結んであった。",
+      "reading": null,
+      "english": "The parcel was tied with string.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この小包を船便で送ってください。",
+      "reading": null,
+      "english": "Please send this parcel by surface mail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この小包をすぐ送りたい。",
+      "reading": null,
+      "english": "I want to send this parcel at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この小包をすぐ送ってもらいたい。",
+      "reading": null,
+      "english": "I want you to send this parcel at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この小包をカナダへ送りたいのですが。",
+      "reading": null,
+      "english": "I'd like to mail this package to Canada.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

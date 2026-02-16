@@ -1,0 +1,188 @@
+{
+  "definition": {
+    "word": "実行",
+    "reading": "じっこう",
+    "romaji": "jikkou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "execution (e.g. of a plan)",
+          "carrying out",
+          "(putting into) practice",
+          "action",
+          "implementation",
+          "fulfillment",
+          "realization"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "execution (of a program)",
+          "run"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "reality"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fact"
+    },
+    {
+      "word": "実施",
+      "reading": "じっし",
+      "meaning": "enforcement"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "action"
+    },
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "certain"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaning": "experiment"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementation (e.g. of a system)"
+    },
+    {
+      "word": "実際",
+      "reading": "じっさい",
+      "meaning": "reality"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaning": "(real) ability"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "publication (of a newspaper, magazine, book, etc.)"
+    },
+    {
+      "word": "実",
+      "reading": "じつ",
+      "meaning": "truth"
+    },
+    {
+      "word": "飛行",
+      "reading": "ひこう",
+      "meaning": "flight"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "going ahead"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "fashion"
+    },
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "customary practice"
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "moving forward (e.g. of a vehicle)"
+    },
+    {
+      "word": "刊行",
+      "reading": "かんこう",
+      "meaning": "publication"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    },
+    {
+      "word": "実",
+      "reading": "み",
+      "meaning": "fruit"
+    },
+    {
+      "word": "行き",
+      "reading": "いき",
+      "meaning": "the way there"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不言実行",
+      "reading": "ふげんじっこう",
+      "meaning": "action before words",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有言実行",
+      "reading": "ゆうげんじっこう",
+      "meaning": "carrying out one's words",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は最初の計画を実行すべきだ。",
+      "reading": null,
+      "english": "You should carry out his offer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその計画を予定通り実行すべきだ。",
+      "reading": null,
+      "english": "You should carry out the plan on schedule.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその案を実行するのに少し苦労するだろう。",
+      "reading": null,
+      "english": "You'll have some difficulty in carrying out the plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教訓よりも実行が大切。",
+      "reading": null,
+      "english": "An ounce of practice is worth a pound of precept.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

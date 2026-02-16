@@ -1,0 +1,135 @@
+{
+  "definition": {
+    "word": "管理",
+    "reading": "かんり",
+    "romaji": "kanri",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pengendalian",
+          "pengelolaan (misalnya",
+          "suatu bisnis)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "pengolahan, perawatan, pembuangan"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "pemahaman, pengertian"
+    },
+    {
+      "word": "管",
+      "reading": "かん",
+      "meaning": "pipa, tabung"
+    },
+    {
+      "word": "代理",
+      "reading": "だいり",
+      "meaning": "perwakilan, wakil, deputi"
+    },
+    {
+      "word": "心理",
+      "reading": "しんり",
+      "meaning": "mentalitas"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "penyortiran, pengaturan"
+    },
+    {
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "ideal"
+    },
+    {
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaning": "memperbaiki, menambal"
+    },
+    {
+      "word": "物理",
+      "reading": "ぶつり",
+      "meaning": "fisika"
+    },
+    {
+      "word": "血管",
+      "reading": "けっかん",
+      "meaning": "pembuluh darah"
+    },
+    {
+      "word": "真理",
+      "reading": "しんり",
+      "meaning": "kebenaran"
+    },
+    {
+      "word": "管",
+      "reading": "くだ",
+      "meaning": "pipa, tabung"
+    },
+    {
+      "word": "生理",
+      "reading": "せいり",
+      "meaning": "fisiologi, menstruasi"
+    },
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "alasan"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "memasak; kuliner"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君のアパートは管理がいいですか。",
+      "reading": null,
+      "indonesian": "Is your apartment well maintained?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教育委員会が学校を管理している。",
+      "reading": null,
+      "indonesian": "The Board of Education governs the schools.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わたしがその工場を管理した。",
+      "reading": null,
+      "indonesian": "I got control of the works.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その公園は市に管理されている。",
+      "reading": null,
+      "indonesian": "The park is governed by the city.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

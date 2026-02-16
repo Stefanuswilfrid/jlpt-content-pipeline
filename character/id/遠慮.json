@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "遠慮",
+    "reading": "えんりょ",
+    "romaji": "enryo",
+    "jlpt": "N4",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "menahan diri",
+          "bersikap hati-hati",
+          "ragu-ragu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "declining",
+          "refraining"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "forethought",
+          "foresight"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "遠く",
+      "reading": "とおく",
+      "meaning": "jauh, terpencil"
+    },
+    {
+      "word": "永遠",
+      "reading": "えいえん",
+      "meaning": "keabadian, kekekalan, kekekalan"
+    },
+    {
+      "word": "考慮",
+      "reading": "こうりょ",
+      "meaning": "pertimbangan, dengan memperhitungkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "遠慮会釈",
+      "reading": "えんりょえしゃく",
+      "meaning": "reserve and consideration (to others)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "深謀遠慮",
+      "reading": "しんぼうえんりょ",
+      "meaning": "far sight and deep design",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "遠慮近憂",
+      "reading": "えんりょきんゆう",
+      "meaning": "failure to think of the long term leads to grief in the short term",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "遠慮なければ近憂あり",
+      "reading": "えんりょなければきんゆうあり",
+      "meaning": "plan ahead or you will soon have worries",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

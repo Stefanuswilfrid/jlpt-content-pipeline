@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "異",
+    "reading": "い",
+    "romaji": "i",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "keberatan"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "strange",
+          "odd",
+          "unusual"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "different"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "異常",
+      "reading": "いじょう",
+      "meaning": "keanehan, ketidaknormalan, gangguan"
+    },
+    {
+      "word": "異動",
+      "reading": "いどう",
+      "meaning": "perubahan, transfer"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "異口同音",
+      "reading": "いくどうおん",
+      "meaning": "(saying) with one voice",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天変地異",
+      "reading": "てんぺんちい",
+      "meaning": "natural disaster",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "大同小異",
+      "reading": "だいどうしょうい",
+      "meaning": "essentially the same with only minor differences",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "同工異曲",
+      "reading": "どうこういきょく",
+      "meaning": "equal workmanship but different style",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "同床異夢",
+      "reading": "どうしょういむ",
+      "meaning": "cohabiting but living in different worlds",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異体同心",
+      "reading": "いたいどうしん",
+      "meaning": "being of one mind",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異国情緒",
+      "reading": "いこくじょうちょ",
+      "meaning": "exotic mood",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異国情調",
+      "reading": "いこくじょうちょう",
+      "meaning": "exoticism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異端邪説",
+      "reading": "いたんじゃせつ",
+      "meaning": "heretical doctrine (thought, faith)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異聞奇譚",
+      "reading": "いぶんきたん",
+      "meaning": "strange stories and curious tales",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

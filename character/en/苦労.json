@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "苦労",
+    "reading": "くろう",
+    "romaji": "kurou",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "trouble",
+          "hardship",
+          "difficulty",
+          "labour",
+          "labor",
+          "toil",
+          "pains"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "anxiety",
+          "worry",
+          "concern",
+          "cares"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "労働",
+      "reading": "ろうどう",
+      "meaning": "labor"
+    },
+    {
+      "word": "苦手",
+      "reading": "にがて",
+      "meaning": "poor (at)"
+    },
+    {
+      "word": "苦痛",
+      "reading": "くつう",
+      "meaning": "pain"
+    },
+    {
+      "word": "苦情",
+      "reading": "くじょう",
+      "meaning": "complaint"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "若い時の苦労は買うてもせよ",
+      "reading": "わかいときのくろうはこうてもせよ",
+      "meaning": "spare no effort while you are young",
+      "type": "proverb"
+    },
+    {
+      "word": "若い時の苦労は買ってもせよ",
+      "reading": "わかいときのくろうはかってもせよ",
+      "meaning": "spare no effort while you are young",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はその案を実行するのに少し苦労するだろう。",
+      "reading": null,
+      "english": "You'll have some difficulty in carrying out the plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の父さんは君のためにあんなにも苦労したのだ。",
+      "reading": null,
+      "english": "Your father went through all that trouble for your sake.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空港に行くのに苦労した。",
+      "reading": null,
+      "english": "I had a hard time getting to the airport.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "苦労なしのもうけはない。",
+      "reading": null,
+      "english": "No gains without pains.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "苦労なしに栄光はない。",
+      "reading": null,
+      "english": "No cross, no crown.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "苦労なくしてもうけなし。",
+      "reading": null,
+      "english": "No gain without pains.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

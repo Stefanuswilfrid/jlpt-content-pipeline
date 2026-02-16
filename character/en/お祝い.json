@@ -1,0 +1,40 @@
+{
+  "definition": {
+    "word": "お祝い",
+    "reading": "おいわい",
+    "romaji": "oiwai",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "congratulation",
+          "congratulations",
+          "celebration",
+          "festival"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "congratulatory gift",
+          "present"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "祝い",
+      "reading": "いわい",
+      "meaning": "congratulation"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

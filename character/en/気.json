@@ -1,0 +1,202 @@
+{
+  "definition": {
+    "word": "気",
+    "reading": "き",
+    "romaji": "ki",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "spirit",
+          "mind",
+          "heart"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nature",
+          "disposition"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "intention",
+          "mind",
+          "will",
+          "motivation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mood",
+          "feelings"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "consciousness"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "feeling"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "feeling"
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "air"
+    },
+    {
+      "word": "景気",
+      "reading": "けいき",
+      "meaning": "business conditions"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "popularity"
+    },
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "electricity"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "illness (usu. excluding minor ailments, e.g. common cold)"
+    },
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "(air) temperature"
+    },
+    {
+      "word": "大気",
+      "reading": "たいき",
+      "meaning": "atmosphere"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "lively"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "weather"
+    },
+    {
+      "word": "勇気",
+      "reading": "ゆうき",
+      "meaning": "courage"
+    },
+    {
+      "word": "気候",
+      "reading": "きこう",
+      "meaning": "climate"
+    },
+    {
+      "word": "気味",
+      "reading": "きみ",
+      "meaning": "sensation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "意気軒昂",
+      "reading": "いきけんこう",
+      "meaning": "in high spirits",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "意気消沈",
+      "reading": "いきしょうちん",
+      "meaning": "low spirits",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "意気投合",
+      "reading": "いきとうごう",
+      "meaning": "hit it off with (a person)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "air",
+      "type": "idiom"
+    },
+    {
+      "word": "意気阻喪",
+      "reading": "いきそそう",
+      "meaning": "depressed in spirits",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一気呵成",
+      "reading": "いっきかせい",
+      "meaning": "finishing writing, work, etc. at a stroke (stretch)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "気炎万丈",
+      "reading": "きえんばんじょう",
+      "meaning": "in high spirits",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "気息奄々",
+      "reading": "きそくえんえん",
+      "meaning": "gasping for breath",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "才気縦横",
+      "reading": "さいきじゅうおう",
+      "meaning": "great wisdom",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "才気煥発",
+      "reading": "さいきかんぱつ",
+      "meaning": "quick-witted",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "本気？",
+      "reading": null,
+      "english": "Are you sure?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

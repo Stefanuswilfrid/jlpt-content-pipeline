@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "上がる",
+    "reading": "あがる",
+    "romaji": "agaru",
+    "jlpt": "N4",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk bangkit",
+          "untuk naik"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to enter (esp. from outdoors)",
+          "to come in",
+          "to go in"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to enter (a school)",
+          "to advance to the next grade"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get out (of water)",
+          "to come ashore",
+          "to be washed ashore"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to float atop the water",
+          "to surface from the sea (e.g. of a corpse)",
+          "to rise to the surface"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "召し上がる",
+      "reading": "めしあがる",
+      "meaning": "-- bentuk kehormatan dari 食べる (たべる) dan 飲む (のむ) --"
+    },
+    {
+      "word": "上る",
+      "reading": "のぼる",
+      "meaning": "mendaki, naik ke atas, memanjat"
+    },
+    {
+      "word": "上京",
+      "reading": "じょうきょう",
+      "meaning": "melanjutkan perjalanan ke ibu kota (Tokyo)"
+    },
+    {
+      "word": "屋上",
+      "reading": "おくじょう",
+      "meaning": "atap"
+    },
+    {
+      "word": "以上",
+      "reading": "いじょう",
+      "meaning": "lebih dari; ini semua"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "株が上がる",
+      "reading": "かぶがあがる",
+      "meaning": "to rise in esteem",
+      "type": "idiom"
+    },
+    {
+      "word": "手が上がる",
+      "reading": "てがあがる",
+      "meaning": "to improve one's skill (esp. at calligraphy or drinking larger amounts of alcohol)",
+      "type": "idiom"
+    },
+    {
+      "word": "切れ上がる",
+      "reading": "きれあがる",
+      "meaning": "to turn upwards",
+      "type": "idiom"
+    },
+    {
+      "word": "軍配が上がる",
+      "reading": "ぐんばいがあがる",
+      "meaning": "to be indicated as the winner of a bout by the raising of the referee's fan",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空はすぐに晴れ上がるでしょう。",
+      "reading": null,
+      "indonesian": "The sky will soon clear up.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "家に上がる時、マットに躓いた。",
+      "reading": null,
+      "indonesian": "Entering the house, I tripped over the mat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雨が上がると、道に水たまりができていた。",
+      "reading": null,
+      "indonesian": "After the rain, there were puddles on the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

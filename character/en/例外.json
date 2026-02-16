@@ -1,0 +1,135 @@
+{
+  "definition": {
+    "word": "例外",
+    "reading": "れいがい",
+    "romaji": "reigai",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "exception"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaning": "foreign"
+    },
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomacy"
+    },
+    {
+      "word": "例",
+      "reading": "れい",
+      "meaning": "example"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "unexpected"
+    },
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "going out"
+    },
+    {
+      "word": "他",
+      "reading": "ほか",
+      "meaning": "another place"
+    },
+    {
+      "word": "例え",
+      "reading": "たとえ",
+      "meaning": "example"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "foreign country"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    },
+    {
+      "word": "外",
+      "reading": "そと",
+      "meaning": "outside"
+    },
+    {
+      "word": "郊外",
+      "reading": "こうがい",
+      "meaning": "suburb"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "例外のない規則はない",
+      "reading": "れいがいのないきそくはない",
+      "meaning": "there is no rule without exceptions",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の場合は例外としよう。",
+      "reading": null,
+      "english": "We will make an exception of your case.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "例外のないルールはない。",
+      "reading": null,
+      "english": "There are exceptions to every rule.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どのチームも例外なく打ち負かされた。",
+      "reading": null,
+      "english": "Every team, without exception, was defeated.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは例外的な場合だ。",
+      "reading": null,
+      "english": "This is an exceptional case.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "例外は中国で、おそらく平らなパンは食されていなかった。",
+      "reading": null,
+      "english": "The exception was in China, where flat bread was probably not eaten.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "例外は作るべきではないと思います。",
+      "reading": null,
+      "english": "I insist that exceptions not be made.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

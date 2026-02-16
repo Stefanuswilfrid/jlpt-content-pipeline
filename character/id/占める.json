@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "占める",
+    "reading": "しめる",
+    "romaji": "shimeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk membahas; untuk mempertanggungjawabkan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to account for",
+          "to make up",
+          "to take up"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "占う",
+      "reading": "うらなう",
+      "meaning": "untuk memprediksi, untuk meramalkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "味を占める",
+      "reading": "あじをしめる",
+      "meaning": "to be encouraged by initial success",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "四角",
+    "reading": "しかく",
+    "romaji": "shikaku",
+    "jlpt": "N3",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "persegi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "四季",
+      "reading": "しき",
+      "meaning": "empat musim"
+    },
+    {
+      "word": "四つ角",
+      "reading": "よつかど",
+      "meaning": "empat penjuru, persimpangan jalan"
+    },
+    {
+      "word": "方角",
+      "reading": "ほうがく",
+      "meaning": "arah, jalan"
+    },
+    {
+      "word": "直角",
+      "reading": "ちょっかく",
+      "meaning": "sudut siku-siku"
+    },
+    {
+      "word": "四つ",
+      "reading": "よっつ",
+      "meaning": "empat hal"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "四角四面",
+      "reading": "しかくしめん",
+      "meaning": "square",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "丸い卵も切りようで四角",
+      "reading": "まるいたまごもきりようでしかく",
+      "meaning": "harsh words make the going rough",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "平行四辺形は二組の辺が平行している四角形です。",
+      "reading": null,
+      "indonesian": "A parallelogram is a quadrilateral formed from two sets of parallel lines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "平行四辺形は二組の辺が平行している四角形です。",
+      "reading": null,
+      "indonesian": "A parallelogram is a quadrilateral formed from two sets of parallel lines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

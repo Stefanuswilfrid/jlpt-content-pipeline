@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "外交",
+    "reading": "がいこう",
+    "romaji": "gaikou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "diplomacy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "selling (e.g. door-to-door)",
+          "canvassing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaning": "foreign"
+    },
+    {
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning": "exchange"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "unexpected"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "exception"
+    },
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "going out"
+    },
+    {
+      "word": "交際",
+      "reading": "こうさい",
+      "meaning": "company"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "foreign country"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "exchange (e.g. cultural)"
+    },
+    {
+      "word": "外",
+      "reading": "そと",
+      "meaning": "outside"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "traffic"
+    },
+    {
+      "word": "郊外",
+      "reading": "こうがい",
+      "meaning": "suburb"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "外交辞令",
+      "reading": "がいこうじれい",
+      "meaning": "diplomatic turn of phrase",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "善隣外交",
+      "reading": "ぜんりんがいこう",
+      "meaning": "good-neighbor diplomacy",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それは外交辞令だ。",
+      "reading": null,
+      "english": "Those words are mere diplomatic niceties.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その両国は外交関係がない。",
+      "reading": null,
+      "english": "The two countries do not have diplomatic relations.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その会議には１５０人の外交官がきた。",
+      "reading": null,
+      "english": "The conference drew 150 diplomats.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

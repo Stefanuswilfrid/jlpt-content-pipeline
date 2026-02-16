@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "書類",
+    "reading": "しょるい",
+    "romaji": "shorui",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dokumen",
+          "surat-surat resmi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "buku pelajaran"
+    },
+    {
+      "word": "人類",
+      "reading": "じんるい",
+      "meaning": "umat manusia, kemanusiaan"
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "membaca"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaning": "beragam, jenis"
+    },
+    {
+      "word": "図書",
+      "reading": "としょ",
+      "meaning": "buku"
+    },
+    {
+      "word": "文",
+      "reading": "ふみ",
+      "meaning": "kalimat"
+    },
+    {
+      "word": "書物",
+      "reading": "しょもつ",
+      "meaning": "buku"
+    },
+    {
+      "word": "書斎",
+      "reading": "しょさい",
+      "meaning": "belajar, sarang"
+    },
+    {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "toko buku"
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "perpustakaan"
+    },
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "kaligrafi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君が話してくれたので、やっとこの書類の重要さがわかった。",
+      "reading": null,
+      "indonesian": "I hadn't recognized the importance of this document until you told me about it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "金庫の中の書類が消えてなくなっている。",
+      "reading": null,
+      "indonesian": "The papers that were in the safe are gone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうかこの書類に目を通してくださいませんか。",
+      "reading": null,
+      "indonesian": "Would you please have a look at this document?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こちらの書類に目を通していただきたいのですが。",
+      "reading": null,
+      "indonesian": "Would you please have a look at this document?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その新しい書類システムは４０００ドル相当のものだ。",
+      "reading": null,
+      "indonesian": "The new document system is worth $4,000.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "definition": {
+    "word": "引き出す",
+    "reading": "ひきだす",
+    "romaji": "hikidasu",
+    "jlpt": "N2",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menarik keluar",
+          "mengeluarkan",
+          "mencabut"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lead out (e.g. a horse from a stable)",
+          "to summon (e.g. to court)",
+          "to bring (e.g. someone to the negotiating table)",
+          "to drag"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to withdraw (money)",
+          "to draw"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bring out (talent, potential, beauty, flavour, etc.)",
+          "to extract (information, the truth, etc.)",
+          "to get (e.g. an answer out of someone)",
+          "to obtain (e.g. a result)",
+          "to elicit",
+          "to draw (a conclusion)",
+          "to derive (e.g. pleasure)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to get (money) out of someone",
+          "to coax out of someone",
+          "to get someone to pay",
+          "to make someone produce (funds)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "呼び出す",
+      "reading": "よびだす",
+      "meaning": "memanggil, menelepon (misalnya, telepon)"
+    },
+    {
+      "word": "引き止める",
+      "reading": "ひきとめる",
+      "meaning": "untuk menahan, untuk mencegah, untuk mengekang"
+    },
+    {
+      "word": "差し引き",
+      "reading": "さしひき",
+      "meaning": "pengurangan, saldo"
+    },
+    {
+      "word": "取り出す",
+      "reading": "とりだす",
+      "meaning": "untuk mengeluarkan, untuk memilih"
+    },
+    {
+      "word": "引き返す",
+      "reading": "ひきかえす",
+      "meaning": "berbalik, kembali, mundur"
+    },
+    {
+      "word": "言い出す",
+      "reading": "いいだす",
+      "meaning": "untuk mulai berbicara, untuk menyarankan"
+    },
+    {
+      "word": "引きずる",
+      "reading": "ひきずる",
+      "meaning": "menyeret, menarik, memperpanjang"
+    },
+    {
+      "word": "引っ越す",
+      "reading": "ひっこす",
+      "meaning": "pindah ke tempat tinggal baru"
+    },
+    {
+      "word": "引っ張る",
+      "reading": "ひっぱる",
+      "meaning": "menarik, meregangkan, menyeret"
+    },
+    {
+      "word": "出題",
+      "reading": "しゅつだい",
+      "meaning": "mengajukan pertanyaan"
+    },
+    {
+      "word": "抜け出す",
+      "reading": "ぬけだす",
+      "meaning": "menyelinap keluar, menyelinap pergi, unggul"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "暗がりから牛を引き出す",
+      "reading": "くらがりからうしをひきだす",
+      "meaning": "to drive black hogs in the dark",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "我々は勉強からさらに楽しみを引き出す。",
+      "reading": null,
+      "indonesian": "We derive further pleasure from our study.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "読書から楽しみを引き出すのは読者次第です。",
+      "reading": null,
+      "indonesian": "It's the reader that determines whether they extract pleasure from reading.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人生とは不十分な前提から十分な結論を引き出す技術である。",
+      "reading": null,
+      "indonesian": "Life is the art of drawing sufficient conclusions from insufficient premises.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は勉強からさらに楽しみを引き出す。",
+      "reading": null,
+      "indonesian": "We derive further pleasure from our study.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人生とは不十分な前提から十分な結論を引き出す技術である。",
+      "reading": null,
+      "indonesian": "Life is the art of drawing sufficient conclusions from insufficient premises.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "読書から楽しみを引き出すのは読者次第です。",
+      "reading": null,
+      "indonesian": "It's the reader that determines whether they extract pleasure from reading.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日銀行からお金を引き出すことができない。",
+      "reading": null,
+      "indonesian": "I can't get my money out of the bank today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日銀行からお金を引き出すことができない。",
+      "reading": null,
+      "indonesian": "I can't get my money out of the bank today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

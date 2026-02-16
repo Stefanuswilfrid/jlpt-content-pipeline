@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "コード",
+    "reading": "コード",
+    "romaji": "koodo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "code",
+          "program"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "code",
+          "regulation",
+          "rules"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "code",
+          "symbol set"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "レコードが終わりました。反対側にひっくり返しなさい。",
+      "reading": null,
+      "english": "The record is finished. Turn it over to the other side.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ダンス音楽のレコードをかけてくれないか。",
+      "reading": null,
+      "english": "Will you play some dance records?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ステレオにレコードをかけてください。",
+      "reading": null,
+      "english": "Put a record on the stereo.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ジョンはサミーのレコード全集を持っている。",
+      "reading": null,
+      "english": "John has the complete collection of Sam's music.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらのレコードはパーティーを楽しくするのに役立つだろう。",
+      "reading": null,
+      "english": "These records will make for a pleasant party.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このレコードには美しい歌がたくさん入っている。",
+      "reading": null,
+      "english": "There are a lot of beautiful songs on these records.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

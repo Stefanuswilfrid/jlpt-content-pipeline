@@ -1,0 +1,196 @@
+{
+  "definition": {
+    "word": "生存",
+    "reading": "せいぞん",
+    "romaji": "seizon",
+    "jlpt": "N2",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "existence",
+          "being",
+          "life",
+          "survival"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生き生き",
+      "reading": "いきいき",
+      "meaning": "in a lively way"
+    },
+    {
+      "word": "小学生",
+      "reading": "しょうがくせい",
+      "meaning": "elementary school student"
+    },
+    {
+      "word": "生ずる",
+      "reading": "しょうずる",
+      "meaning": "to produce"
+    },
+    {
+      "word": "生け花",
+      "reading": "いけばな",
+      "meaning": "ikebana"
+    },
+    {
+      "word": "写生",
+      "reading": "しゃせい",
+      "meaning": "sketching"
+    },
+    {
+      "word": "生意気",
+      "reading": "なまいき",
+      "meaning": "impertinent"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(one's) life"
+    },
+    {
+      "word": "生徒",
+      "reading": "せいと",
+      "meaning": "pupil"
+    },
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "teacher"
+    },
+    {
+      "word": "存在",
+      "reading": "そんざい",
+      "meaning": "existence"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "senior high school student"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "life"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "birth (of a person)"
+    },
+    {
+      "word": "発生",
+      "reading": "はっせい",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "再生",
+      "reading": "さいせい",
+      "meaning": "restoration to life"
+    },
+    {
+      "word": "生きる",
+      "reading": "いきる",
+      "meaning": "to live"
+    },
+    {
+      "word": "生物",
+      "reading": "せいぶつ",
+      "meaning": "living thing"
+    },
+    {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "life"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "生存競争",
+      "reading": "せいぞんきょうそう",
+      "meaning": "struggle for existence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "適者生存",
+      "reading": "てきしゃせいぞん",
+      "meaning": "survival of the fittest",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もし水が無ければ、人間は生存できないだろう。",
+      "reading": null,
+      "english": "If it were not for water, human life would be impossible.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "多くの犬が生存している。",
+      "reading": null,
+      "english": "Many dogs are alive.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "事故の生存者は一人だけでした。",
+      "reading": null,
+      "english": "Only one person survived the accident.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その子の生存に対する希望は急速に消えつつある。",
+      "reading": null,
+      "english": "Hope of finding the child alive is fading rapidly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これはいわゆる適者生存の例である。",
+      "reading": null,
+      "english": "This is an example of the survival of the fittest, as it is called.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いかなる動物も、植物なしでは生存できない。",
+      "reading": null,
+      "english": "No animal can exist without plants.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "しかし生存者達は、その事実を知らなかった。",
+      "reading": null,
+      "english": "However, the surivors didn't know the truth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "動物は、空気と水がなくては生存できない。",
+      "reading": null,
+      "english": "Animals cannot exist without air and water.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

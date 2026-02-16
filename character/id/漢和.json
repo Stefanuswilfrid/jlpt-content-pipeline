@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "漢和",
+    "reading": "かんわ",
+    "romaji": "kanwa",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Aksara Cina-Jepang (misalnya",
+          "kamus)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Chinese and Japanese (languages)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dictionary with Japanese definitions of kanji and kanji compounds",
+          "kanji dictionary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "和服",
+      "reading": "わふく",
+      "meaning": "Pakaian Jepang"
+    },
+    {
+      "word": "英和",
+      "reading": "えいわ",
+      "meaning": "Bahasa Inggris-Jepang (misalnya, kamus)"
+    },
+    {
+      "word": "和英",
+      "reading": "わえい",
+      "meaning": "Bahasa Jepang-Inggris"
+    },
+    {
+      "word": "漢字",
+      "reading": "かんじ",
+      "meaning": "kanji; karakter Tionghoa"
+    },
+    {
+      "word": "調和",
+      "reading": "ちょうわ",
+      "meaning": "harmoni"
+    },
+    {
+      "word": "平和",
+      "reading": "へいわ",
+      "meaning": "perdamaian"
+    },
+    {
+      "word": "緩和",
+      "reading": "かんわ",
+      "meaning": "bantuan, mitigasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "漢和辞典で漢字の意味を調べたの。",
+      "reading": null,
+      "indonesian": "I looked up the meaning of a kanji in a Sino-Japanese dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "漢和辞典で漢字の意味を調べたの。",
+      "reading": null,
+      "indonesian": "I looked up the meaning of a kanji in a Sino-Japanese dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "不可",
+    "reading": "ふか",
+    "romaji": "fuka",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "wrong",
+          "bad",
+          "improper",
+          "unjustifiable",
+          "inadvisable"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "not allowed",
+          "not possible"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "failing grade"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "wonderful"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "suspension"
+    },
+    {
+      "word": "可能",
+      "reading": "かのう",
+      "meaning": "possible"
+    },
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "anxiety"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "insufficiency"
+    },
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "dissatisfaction"
+    },
+    {
+      "word": "許可",
+      "reading": "きょか",
+      "meaning": "permission"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "injustice"
+    },
+    {
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "discomfort"
+    },
+    {
+      "word": "可",
+      "reading": "か",
+      "meaning": "acceptable"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "unhappiness"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "disadvantage"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "discontent"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不可抗力",
+      "reading": "ふかこうりょく",
+      "meaning": "act of God",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不可思議",
+      "reading": "ふかしぎ",
+      "meaning": "mystery",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

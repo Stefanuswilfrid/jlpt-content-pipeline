@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "跡",
+    "reading": "あと",
+    "romaji": "ato",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "trace",
+          "tracks",
+          "mark",
+          "sign"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "site",
+          "remains",
+          "ruins"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "scar"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "足跡",
+      "reading": "あしあと",
+      "meaning": "footprints"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人跡未到",
+      "reading": "じんせきみとう",
+      "meaning": "unexplored",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "名所旧跡",
+      "reading": "めいしょきゅうせき",
+      "meaning": "places of scenic beauty and historical interest",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "跡をつける",
+      "reading": "あとをつける",
+      "meaning": "to tag along",
+      "type": "idiom"
+    },
+    {
+      "word": "名所古跡",
+      "reading": "めいしょこせき",
+      "meaning": "scenic sites and historic places",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "烏の足跡",
+      "reading": "からすのあしあと",
+      "meaning": "crow's feet (wrinkles)",
+      "type": "idiom"
+    },
+    {
+      "word": "立つ鳥跡を濁さず",
+      "reading": "たつとりあとをにごさず",
+      "meaning": "it is simply common courtesy to clean up after yourself",
+      "type": "proverb"
+    },
+    {
+      "word": "飛ぶ鳥跡を濁さず",
+      "reading": "とぶとりあとをにごさず",
+      "meaning": "it is simply common courtesy to clean up after yourself",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

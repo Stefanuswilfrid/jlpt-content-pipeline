@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "実験",
+    "reading": "じっけん",
+    "romaji": "jikken",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pekerjaan laboratorium; percobaan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "realitas"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fakta, kebenaran, realitas"
+    },
+    {
+      "word": "実施",
+      "reading": "じっし",
+      "meaning": "penegakan, melaksanakan, operasi"
+    },
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "kepastian, keandalan, kekokohan"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementasi, materialisasi, realisasi"
+    },
+    {
+      "word": "実際",
+      "reading": "じっさい",
+      "meaning": "sebenarnya; pada kenyataannya"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaning": "kemampuan; kekuatan"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "praktik, pelaksanaan (misalnya, program), realisasi"
+    },
+    {
+      "word": "実",
+      "reading": "じつ",
+      "meaning": "buah, hasil yang baik"
+    },
+    {
+      "word": "実",
+      "reading": "み",
+      "meaning": "buah, hasil yang baik"
+    },
+    {
+      "word": "実績",
+      "reading": "じっせき",
+      "meaning": "prestasi, hasil nyata"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaning": "pengalaman"
+    },
+    {
+      "word": "試験",
+      "reading": "しけん",
+      "meaning": "ujian"
+    },
+    {
+      "word": "受験",
+      "reading": "じゅけん",
+      "meaning": "mengikuti ujian"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "観察は消極的な科学であり、実験は積極的な科学である。",
+      "reading": null,
+      "indonesian": "Observation is a passive science, experimentation an active science.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "パスツールはバクテリアの実験をした。",
+      "reading": null,
+      "indonesian": "Pasteur experimented with bacteria.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それを実験で説明せよ。",
+      "reading": null,
+      "indonesian": "Prove it by experiment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

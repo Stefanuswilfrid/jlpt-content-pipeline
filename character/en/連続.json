@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "連続",
+    "reading": "れんぞく",
+    "romaji": "renzoku",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "continuation",
+          "succession",
+          "series",
+          "sequence"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "continuous"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関連",
+      "reading": "かんれん",
+      "meaning": "relation"
+    },
+    {
+      "word": "続き",
+      "reading": "つづき",
+      "meaning": "continuation"
+    },
+    {
+      "word": "相続",
+      "reading": "そうぞく",
+      "meaning": "succession"
+    },
+    {
+      "word": "連れ",
+      "reading": "つれ",
+      "meaning": "companion"
+    },
+    {
+      "word": "連想",
+      "reading": "れんそう",
+      "meaning": "association (of ideas)"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "union"
+    },
+    {
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "contacting"
+    },
+    {
+      "word": "手続き",
+      "reading": "てつづき",
+      "meaning": "procedure"
+    },
+    {
+      "word": "継続",
+      "reading": "けいぞく",
+      "meaning": "continuation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "いくら好きとは言え、３日連続カレーはきついよな。",
+      "reading": null,
+      "english": "No matter how much you might think you like curry, three nights in a row is more than enough.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "信じる",
+    "reading": "しんじる",
+    "romaji": "shinjiru",
+    "jlpt": "N3",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk percaya"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "surat-menyurat, komunikasi"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "kepercayaan, ketergantungan"
+    },
+    {
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "ketergantungan, kepercayaan, keyakinan"
+    },
+    {
+      "word": "信仰",
+      "reading": "しんこう",
+      "meaning": "(agama) iman, kepercayaan"
+    },
+    {
+      "word": "信ずる",
+      "reading": "しんずる",
+      "meaning": "untuk percaya"
+    },
+    {
+      "word": "信号",
+      "reading": "しんごう",
+      "meaning": "lampu lalu lintas, sinyal, semafor"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の言うことを信じるよ。",
+      "reading": null,
+      "indonesian": "I believe you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君がそんなことを信じるのはばかげている。",
+      "reading": null,
+      "indonesian": "It is foolish of you to believe such a thing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "願っていることはすぐに信じる。",
+      "reading": null,
+      "indonesian": "We soon believe what we desire.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何でそれを信じる気になったの。",
+      "reading": null,
+      "indonesian": "What led you to believe it?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうしてそれを信じるようになりましたか。",
+      "reading": null,
+      "indonesian": "How did you come to believe that?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ですから信じることです。",
+      "reading": null,
+      "indonesian": "So you've got to be a believer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

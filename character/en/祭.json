@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "祭り",
+    "reading": "まつり",
+    "romaji": "matsuri",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "festival",
+          "feast",
+          "matsuri"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "harassment by an Internet pitchfork mob",
+          "online shaming",
+          "flaming"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "galore (as in \"goals galore\")",
+          "frenzy",
+          "mania"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "祭日",
+      "reading": "さいじつ",
+      "meaning": "national holiday"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "後の祭り",
+      "reading": "あとのまつり",
+      "meaning": "a day after the fair",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "近くにお祭をやっているまちがありますか。",
+      "reading": null,
+      "english": "Are there any towns with festivals near here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学園祭は来週行われることになっている。",
+      "reading": null,
+      "english": "Our campus festival is to be held next week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英国では労働祭は五月にある。",
+      "reading": null,
+      "english": "In England, Labor Day is in May.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メーデーは世界の労働者のお祭りの日でもあります。",
+      "reading": null,
+      "english": "May Day is also a festival day for the workers in the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムは夏祭りに参加した。",
+      "reading": null,
+      "english": "Tom took part in the summer festival.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

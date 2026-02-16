@@ -1,0 +1,172 @@
+{
+  "definition": {
+    "word": "温める",
+    "reading": "あたためる",
+    "romaji": "atatameru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to warm (up)",
+          "to heat (up)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sit on (an idea, plan, etc.)",
+          "to keep to oneself",
+          "to nurse",
+          "to mull over"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to renew (an old friendship)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take for oneself"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "(air) temperature"
+    },
+    {
+      "word": "温暖",
+      "reading": "おんだん",
+      "meaning": "warm"
+    },
+    {
+      "word": "温度",
+      "reading": "おんど",
+      "meaning": "temperature"
+    },
+    {
+      "word": "体温",
+      "reading": "たいおん",
+      "meaning": "body temperature"
+    },
+    {
+      "word": "大人しい",
+      "reading": "おとなしい",
+      "meaning": "gentle"
+    },
+    {
+      "word": "温まる",
+      "reading": "あたたまる",
+      "meaning": "to warm oneself"
+    },
+    {
+      "word": "温泉",
+      "reading": "おんせん",
+      "meaning": "hot spring"
+    },
+    {
+      "word": "温い",
+      "reading": "ぬるい",
+      "meaning": "lukewarm"
+    },
+    {
+      "word": "温室",
+      "reading": "おんしつ",
+      "meaning": "greenhouse"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ベンチを温める",
+      "reading": "ベンチをあたためる",
+      "meaning": "to warm the bench",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "氷を温めるととける。",
+      "reading": null,
+      "english": "If you heat ice, it melts.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "電子レンジはあっという間に食べ物を温める。",
+      "reading": null,
+      "english": "A microwave oven gets food hot in an instant.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電子レンジはあっという間に食べ物を温める。",
+      "reading": null,
+      "english": "A microwave oven gets food hot in an instant.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "氷を温めるととける。",
+      "reading": null,
+      "english": "If you heat ice, it melts.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "スープ、温めるね。",
+      "reading": null,
+      "english": "I'll heat up the soup for you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "スープ、温めるね。",
+      "reading": null,
+      "english": "I'll heat up the soup for you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "寒い夜には、温かい飲み物で体を温めると良いです。",
+      "reading": null,
+      "english": "On cold nights, it’s good to warm your body with a hot drink.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒い夜には、温かい飲み物で体を温めると良いです。",
+      "reading": null,
+      "english": "On cold nights, it’s good to warm your body with a hot drink.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "その内",
+    "reading": "そのうち",
+    "romaji": "sonouchi",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "tak lama lagi",
+          "pada akhirnya",
+          "cepat atau lambat"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "of the previously mentioned",
+          "of that number",
+          "among them",
+          "among others"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "内",
+      "reading": "うち",
+      "meaning": "di dalam, di dalam"
+    },
+    {
+      "word": "以内",
+      "reading": "いない",
+      "meaning": "di dalam, kurang dari (tidak lebih dari)"
+    },
+    {
+      "word": "内容",
+      "reading": "ないよう",
+      "meaning": "subjek, isi, detail"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "informasi, panduan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そのうち、やり方がわかるようになるよ。",
+      "reading": null,
+      "indonesian": "You'll learn how to do it sooner or later.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君はそのうち必ず成功する。",
+      "reading": null,
+      "indonesian": "You are sure to succeed in time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空き部屋が３つあるが、そのうちのどれも使えない。",
+      "reading": null,
+      "indonesian": "We have three spare rooms, none of which can be used.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会議はそのうち始まるでしょう。",
+      "reading": null,
+      "indonesian": "The conference will commence in due course.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのうち真相が知られるよ。",
+      "reading": null,
+      "indonesian": "The truth will be got at before long.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのうち君をそこに連れていってあげよう。",
+      "reading": null,
+      "indonesian": "I'll take you there one of these days.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

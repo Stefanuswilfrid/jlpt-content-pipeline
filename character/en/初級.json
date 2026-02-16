@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "初級",
+    "reading": "しょきゅう",
+    "romaji": "shokyuu",
+    "jlpt": "N2",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "elementary level",
+          "beginner level"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "初歩",
+      "reading": "しょほ",
+      "meaning": "basics"
+    },
+    {
+      "word": "高級",
+      "reading": "こうきゅう",
+      "meaning": "high-class"
+    },
+    {
+      "word": "初旬",
+      "reading": "しょじゅん",
+      "meaning": "first 10 days of the month"
+    },
+    {
+      "word": "学級",
+      "reading": "がっきゅう",
+      "meaning": "(school) class"
+    },
+    {
+      "word": "上級",
+      "reading": "じょうきゅう",
+      "meaning": "upper level"
+    },
+    {
+      "word": "等級",
+      "reading": "とうきゅう",
+      "meaning": "grade"
+    },
+    {
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaning": "beginning"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この辞書は初級者に、いやそれどころか上級者にも役に立つ。",
+      "reading": null,
+      "english": "This dictionary is useful to beginners, yes, and to advanced learners.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この辞書は初級者に、いやそれどころか上級者にも役に立つ。",
+      "reading": null,
+      "english": "This dictionary is useful to beginners, yes, and to advanced learners.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これは初級の教科書です。",
+      "reading": null,
+      "english": "This is a beginner's textbook.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは初級の教科書です。",
+      "reading": null,
+      "english": "This is a beginner's textbook.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

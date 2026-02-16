@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "続き",
+    "reading": "つづき",
+    "romaji": "tsuzuki",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "continuation",
+          "rest (of the story, work, etc.)",
+          "next installment",
+          "sequel"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flow (e.g. of a piece of writing)",
+          "pacing (of a story)"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "succession (of)",
+          "sequence",
+          "series",
+          "spell",
+          "stretch",
+          "streak",
+          "run"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "相続",
+      "reading": "そうぞく",
+      "meaning": "succession"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "手続き",
+      "reading": "てつづき",
+      "meaning": "procedure"
+    },
+    {
+      "word": "継続",
+      "reading": "けいぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "接続",
+      "reading": "せつぞく",
+      "meaning": "connection"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "夏休みは２週間続きます。",
+      "reading": null,
+      "english": "The summer vacation lasts a couple of weeks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "悪事続きだ。",
+      "reading": null,
+      "english": "When it rains, it pours.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "引き続き努力いたします。",
+      "reading": null,
+      "english": "I will continue with my efforts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まだ音楽が続きます、このままお聞き下さい。",
+      "reading": null,
+      "english": "We have more music coming up, so stay tuned.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ビザを入手する手続きはどうしたらいいですか。",
+      "reading": null,
+      "english": "What is the procedure for getting a visa?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どれくらいこの寒い天気は続きますか。",
+      "reading": null,
+      "english": "How long will this cold weather go on?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ときには試合は一日中続きました。",
+      "reading": null,
+      "english": "Sometimes the game lasted all day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その老人は３部屋続きのアパートに住んでいた。",
+      "reading": null,
+      "english": "The old man lived in the three-room apartment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

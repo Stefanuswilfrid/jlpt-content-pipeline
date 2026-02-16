@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "ノック",
+    "reading": "ノック",
+    "romaji": "nokku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "knock",
+          "knocking"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "fungo hitting",
+          "hitting balls for fielding practice"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "tap",
+          "click (e.g. of a retractable pen or mechanical pencil)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ノックしないで急に部屋に入ってこないでくれ。",
+      "reading": null,
+      "english": "Don't burst into the room without knocking.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうぞ入る前にノックしてください。",
+      "reading": null,
+      "english": "Please knock before you come in.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "入室前はノックをしてください。",
+      "reading": null,
+      "english": "Please knock before you come in.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ドアをノックしなさい。",
+      "reading": null,
+      "english": "Knock on the door.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ジムは第７ラウンドにノックアウトを食らった。",
+      "reading": null,
+      "english": "Jim was counted out in the seventh round.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "母親がドアをノックした。",
+      "reading": null,
+      "english": "Her mother knocked on the door.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

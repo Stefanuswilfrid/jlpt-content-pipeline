@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "鼠",
+    "reading": "ねずみ",
+    "romaji": "nezumi",
+    "jlpt": "N3",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tikus",
+          "mencit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dark gray",
+          "slate gray"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "窮鼠噛猫",
+      "reading": "きゅうそごうびょう",
+      "meaning": "a cornered rat will bite the cat",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "首鼠両端",
+      "reading": "しゅそりょうたん",
+      "meaning": "being unable to make up one's mind",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "窮鼠猫を噛む",
+      "reading": "きゅうそねこをかむ",
+      "meaning": "a cornered rat will bite a cat",
+      "type": "proverb"
+    },
+    {
+      "word": "大山鳴動して鼠一匹",
+      "reading": "たいざんめいどうしてねずみいっぴき",
+      "meaning": "much ado about nothing",
+      "type": "idiom"
+    },
+    {
+      "word": "鳴く猫は鼠を捕らぬ",
+      "reading": "なくねこはねずみをとらぬ",
+      "meaning": "empty vessels make the most sound",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この船には鼠がいっぱいいる。",
+      "reading": null,
+      "indonesian": "The ship abounds with rats.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この船には鼠がいっぱいいる。",
+      "reading": null,
+      "indonesian": "The ship abounds with rats.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この船には鼠がいっぱいいる。",
+      "reading": null,
+      "indonesian": "There are many rats on the ship.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

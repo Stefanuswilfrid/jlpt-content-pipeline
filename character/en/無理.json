@@ -1,0 +1,157 @@
+{
+  "definition": {
+    "word": "無理",
+    "reading": "むり",
+    "romaji": "muri",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unreasonable",
+          "unnatural",
+          "unjustifiable"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "impossible"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "forcible",
+          "forced",
+          "compulsory"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "excessive (work, etc.)",
+          "immoderate"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to work too hard",
+          "to try too hard"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "reason"
+    },
+    {
+      "word": "地理",
+      "reading": "ちり",
+      "meaning": "geography"
+    },
+    {
+      "word": "無くなる",
+      "reading": "なくなる",
+      "meaning": "to be lost (e.g. luggage)"
+    },
+    {
+      "word": "管理",
+      "reading": "かんり",
+      "meaning": "control"
+    },
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "free (of charge)"
+    },
+    {
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "processing"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "understanding"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "cooking"
+    },
+    {
+      "word": "代理",
+      "reading": "だいり",
+      "meaning": "representation"
+    },
+    {
+      "word": "心理",
+      "reading": "しんり",
+      "meaning": "state of mind"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "sorting"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無理難題",
+      "reading": "むりなんだい",
+      "meaning": "unreasonable demand",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無理算段",
+      "reading": "むりさんだん",
+      "meaning": "scraping together (a sum of money)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無理往生",
+      "reading": "むりおうじょう",
+      "meaning": "forced compliance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無理無体",
+      "reading": "むりむたい",
+      "meaning": "by force",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無理非道",
+      "reading": "むりひどう",
+      "meaning": "unreasonable and unjust",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無理が通れば道理が引っ込む",
+      "reading": "むりがとおればどうりがひっこむ",
+      "meaning": "where might is master, justice is servant",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

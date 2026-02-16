@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "欠く",
+    "reading": "かく",
+    "romaji": "kaku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "kekurangan",
+          "retak"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lack"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "欠陥",
+      "reading": "けっかん",
+      "meaning": "cacat, kesalahan, kekurangan"
+    },
+    {
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaning": "ketidakhadiran, tidak hadir"
+    },
+    {
+      "word": "欠ける",
+      "reading": "かける",
+      "meaning": "kurang"
+    },
+    {
+      "word": "欠点",
+      "reading": "けってん",
+      "meaning": "kesalahan, cacat, kelemahan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "画竜点睛を欠く",
+      "reading": "がりょうてんせいをかく",
+      "meaning": "to be incomplete",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空気と水は両方とも生命にとって欠くことができない。",
+      "reading": null,
+      "indonesian": "Both air and water are indispensable for life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水は生きるうえで欠くべからざるものだ。",
+      "reading": null,
+      "indonesian": "Water is essential to life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "言語は人間社会にとって欠くことのできない道具である。",
+      "reading": null,
+      "indonesian": "Language is an indispensable instrument of human society.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "健康は幸福に欠くことができない。",
+      "reading": null,
+      "indonesian": "Health is essential to happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空気と水は両方とも生命にとって欠くことができない。",
+      "reading": null,
+      "indonesian": "Both air and water are indispensable for life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "健康は幸福に欠くことができない。",
+      "reading": null,
+      "indonesian": "Health is essential to happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

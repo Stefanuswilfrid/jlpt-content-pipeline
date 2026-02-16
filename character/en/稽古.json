@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "稽古",
+    "reading": "けいこ",
+    "romaji": "keiko",
+    "jlpt": "N2",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "practice",
+          "practising",
+          "training",
+          "study"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "古典",
+      "reading": "こてん",
+      "meaning": "classic (work, esp. book)"
+    },
+    {
+      "word": "古代",
+      "reading": "こだい",
+      "meaning": "ancient times"
+    },
+    {
+      "word": "考古学",
+      "reading": "こうこがく",
+      "meaning": "archaeology"
+    },
+    {
+      "word": "中古",
+      "reading": "ちゅうこ",
+      "meaning": "used"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "河童の寒稽古",
+      "reading": "かっぱのかんげいこ",
+      "meaning": "something that looks difficult but actually isn't",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

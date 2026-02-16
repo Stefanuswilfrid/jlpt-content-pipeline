@@ -1,0 +1,79 @@
+{
+  "definition": {
+    "word": "ハイキング",
+    "reading": "ハイキング",
+    "romaji": "haikingu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hiking"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "悪天候のせいで、ハイキングに行く計画はだめになった。",
+      "reading": null,
+      "english": "Bad weather upset our plans to go on a hike.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もし健康ならハイキングに行けるのに。",
+      "reading": null,
+      "english": "If I were healthy, I could go on a hike.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ぼくたちは明日ハイキングに行く予定なんだ。",
+      "reading": null,
+      "english": "We are to go on a hike tomorrow.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ハイキングは中止にしたほうがいいわね。",
+      "reading": null,
+      "english": "We had better cancel the hike.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ハイキングは雨のため中止になった。",
+      "reading": null,
+      "english": "The hiking was called off because of the rain.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ハイキングの日にランチを持ってきなさい。",
+      "reading": null,
+      "english": "Bring a lunch for our day of hiking.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのハイキングは八時間もかかるでしょう。",
+      "reading": null,
+      "english": "The hike will take no less than eight hours.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

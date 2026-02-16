@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "選ぶ",
+    "reading": "えらぶ",
+    "romaji": "erabu",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to choose",
+          "to select",
+          "to pick (out)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "選挙",
+      "reading": "せんきょ",
+      "meaning": "election"
+    },
+    {
+      "word": "選考",
+      "reading": "せんこう",
+      "meaning": "selection"
+    },
+    {
+      "word": "選択",
+      "reading": "せんたく",
+      "meaning": "choice"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "選ぶところがない",
+      "reading": "えらぶところがない",
+      "meaning": "being the same thing (as)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

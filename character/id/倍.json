@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "倍",
+    "reading": "ばい",
+    "romaji": "bai",
+    "jlpt": "N4",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "dobel"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "times (as much)",
+          "-fold"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "1-nth",
+          "1 to n",
+          "1 in n"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "薬九層倍",
+      "reading": "くすりくそうばい",
+      "meaning": "there is a huge markup in medicines, making it a profitable field",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一粒万倍",
+      "reading": "いちりゅうまんばい",
+      "meaning": "a single seed can eventually produce a great harvest",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "可愛さ余って憎さ百倍",
+      "reading": "かわいさあまってにくさひゃくばい",
+      "meaning": "the greatest hate proceeds from the greatest love",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

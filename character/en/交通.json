@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "交通",
+    "reading": "こうつう",
+    "romaji": "koutsuu",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "traffic",
+          "transportation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "communication",
+          "exchange (of ideas, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "normal"
+    },
+    {
+      "word": "通り",
+      "reading": "とおり",
+      "meaning": "street"
+    },
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomacy"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning": "exchange"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "currency"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

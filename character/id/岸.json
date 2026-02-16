@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "岸",
+    "reading": "きし",
+    "romaji": "kishi",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tepi sungai",
+          "pantai",
+          "pesisir"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "海岸",
+      "reading": "かいがん",
+      "meaning": "pantai, tepi laut"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "傲岸不遜",
+      "reading": "ごうがんふそん",
+      "meaning": "haughty arrogance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "傲岸無礼",
+      "reading": "ごうがんぶれい",
+      "meaning": "arrogance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "対岸の火事",
+      "reading": "たいがんのかじ",
+      "meaning": "someone else's problem",
+      "type": "idiom"
+    },
+    {
+      "word": "河岸を変える",
+      "reading": "かしをかえる",
+      "meaning": "to try a different venue (for drinking, socializing, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "暑さ寒さも彼岸まで",
+      "reading": "あつささむさもひがんまで",
+      "meaning": "no heat or cold lasts over the equinox",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "岸辺の波の音が聞こえますか。",
+      "reading": null,
+      "indonesian": "Can you hear the noise of the waves on the beach?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海岸を散歩してみませんか。",
+      "reading": null,
+      "indonesian": "What do you say to taking a walk by the seaside?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海岸はどちらの方向ですか。",
+      "reading": null,
+      "indonesian": "Which way is the beach?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海岸に行ったよ。",
+      "reading": null,
+      "indonesian": "They went to the beach.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

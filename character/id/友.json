@@ -1,0 +1,155 @@
+{
+  "definition": {
+    "word": "友",
+    "reading": "とも",
+    "romaji": "tomo",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "teman",
+          "sahabat",
+          "rekan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "accompaniment",
+          "companion (e.g. book)",
+          "complement",
+          "accessory"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "友人",
+      "reading": "ゆうじん",
+      "meaning": "teman (formal)"
+    },
+    {
+      "word": "友好",
+      "reading": "ゆうこう",
+      "meaning": "persahabatan"
+    },
+    {
+      "word": "友情",
+      "reading": "ゆうじょう",
+      "meaning": "persahabatan, persekutuan"
+    },
+    {
+      "word": "親友",
+      "reading": "しんゆう",
+      "meaning": "teman dekat, sahabat"
+    },
+    {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "teman"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "善隣友好",
+      "reading": "ぜんりんゆうこう",
+      "meaning": "neighbourly friendship",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "竹馬の友",
+      "reading": "ちくばのとも",
+      "meaning": "childhood friend",
+      "type": "idiom"
+    },
+    {
+      "word": "ヤリ友",
+      "reading": "ヤリとも",
+      "meaning": "fuck buddy",
+      "type": "expression"
+    },
+    {
+      "word": "知己朋友",
+      "reading": "ちきほうゆう",
+      "meaning": "intimate friends and acquaintances",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "益者三友",
+      "reading": "えきしゃさんゆう",
+      "meaning": "three kinds of beneficial friends: straightforward, sincere, and well-informed ones",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "類は友を呼ぶ",
+      "reading": "るいはともをよぶ",
+      "meaning": "birds of a feather flock together",
+      "type": "proverb"
+    },
+    {
+      "word": "読書尚友",
+      "reading": "どくしょしょうゆう",
+      "meaning": "by reading books you can count the wise philosophers of the past as friends",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "損者三友",
+      "reading": "そんしゃさんゆう",
+      "meaning": "three kinds of harmful friends: hypocritical, sycophantic, and glib-talking ones",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "歳寒三友",
+      "reading": "さいかんさんゆう",
+      "meaning": "the three friends of winter (pine, bamboo and plum)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "金を貸せば友を失う",
+      "reading": "かねをかせばともをうしなう",
+      "meaning": "lend your money and lose your friend",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "親友は何人いる？",
+      "reading": null,
+      "indonesian": "How many close friends do you have?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "アンティグアに友達はいますか？",
+      "reading": null,
+      "indonesian": "Do you have friends in Antigua?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "親友は何人いる？",
+      "reading": null,
+      "indonesian": "How many close friends do you have?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "アンティグアに友達はいますか？",
+      "reading": null,
+      "indonesian": "Do you have friends in Antigua?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

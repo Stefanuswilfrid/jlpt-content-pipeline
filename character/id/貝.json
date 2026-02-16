@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "貝",
+    "reading": "かい",
+    "romaji": "kai",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cangkang",
+          "kerang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "seashell",
+          "shell"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "貝合わせ",
+      "reading": "かいあわせ",
+      "meaning": "kai-awase",
+      "type": "expression"
+    },
+    {
+      "word": "貝になる",
+      "reading": "かいになる",
+      "meaning": "to keep one's mouth shut",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "貝は好きではない。",
+      "reading": null,
+      "indonesian": "I don't like shellfish.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "プレゼントにするきれいな貝がらをひろいにいったよ！",
+      "reading": null,
+      "indonesian": "I went looking for pretty shells as a present!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "貝は好きではない。",
+      "reading": null,
+      "indonesian": "I don't like shellfish.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "プレゼントにするきれいな貝がらをひろいにいったよ！",
+      "reading": null,
+      "indonesian": "I went looking for pretty shells as a present!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

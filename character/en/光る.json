@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "光る",
+    "reading": "ひかる",
+    "romaji": "hikaru",
+    "jlpt": "N4",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to shine",
+          "to glitter",
+          "to be bright"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "光",
+      "reading": "ひかり",
+      "meaning": "light"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "瑠璃も玻璃も照らせば光る",
+      "reading": "るりもはりもてらせばひかる",
+      "meaning": "cream rises to the top",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "光るものすべてが金ではない。",
+      "reading": null,
+      "english": "All that glitters is not gold.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "光るものすべてが金ではない。",
+      "reading": null,
+      "english": "All that glitters is not gold.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "光るものすべてが金ではない。",
+      "reading": null,
+      "english": "All that glitters isn't gold.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

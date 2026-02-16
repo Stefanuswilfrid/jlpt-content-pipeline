@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "読書",
+    "reading": "どくしょ",
+    "romaji": "dokusho",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "membaca"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "buku pelajaran"
+    },
+    {
+      "word": "書類",
+      "reading": "しょるい",
+      "meaning": "dokumen, surat-surat resmi"
+    },
+    {
+      "word": "読み",
+      "reading": "よみ",
+      "meaning": "membaca"
+    },
+    {
+      "word": "図書",
+      "reading": "としょ",
+      "meaning": "buku"
+    },
+    {
+      "word": "文",
+      "reading": "ふみ",
+      "meaning": "kalimat"
+    },
+    {
+      "word": "書物",
+      "reading": "しょもつ",
+      "meaning": "buku"
+    },
+    {
+      "word": "書斎",
+      "reading": "しょさい",
+      "meaning": "belajar, sarang"
+    },
+    {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "toko buku"
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "perpustakaan"
+    },
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "kaligrafi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "読書三昧",
+      "reading": "どくしょざんまい",
+      "meaning": "being absorbed in reading",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "読書三到",
+      "reading": "どくしょさんとう",
+      "meaning": "using mind, mouth and eyes to understand a book fully",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "読書三余",
+      "reading": "どくしょさんよ",
+      "meaning": "winter, night, and rainy weather",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "読書百遍",
+      "reading": "どくしょひゃっぺん",
+      "meaning": "repeated reading (makes the meaning clear)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "読書尚友",
+      "reading": "どくしょしょうゆう",
+      "meaning": "by reading books you can count the wise philosophers of the past as friends",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "読書百遍意自ずから通ず",
+      "reading": "どくしょひゃっぺんいおのずからつうず",
+      "meaning": "repeated reading makes the meaning clear",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は大変読書力がある。",
+      "reading": null,
+      "indonesian": "Your reading is very advanced.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "家庭で読書が行われない事から多くの問題が生じる。",
+      "reading": null,
+      "indonesian": "A lot of problems derive from a lack of reading in the home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "暗い部屋で読書するのはよくない。",
+      "reading": null,
+      "indonesian": "It's not good to read in a dark room.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とても読書できる明るさではなかった。",
+      "reading": null,
+      "indonesian": "There wasn't anything like enough light to read by.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

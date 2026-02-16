@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "率",
+    "reading": "りつ",
+    "romaji": "ritsu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "tingkat",
+          "rasio",
+          "persentase"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "確率",
+      "reading": "かくりつ",
+      "meaning": "kemungkinan"
+    },
+    {
+      "word": "能率",
+      "reading": "のうりつ",
+      "meaning": "efisiensi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "率先躬行",
+      "reading": "そっせんきゅうこう",
+      "meaning": "taking a lead in (doing)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "短慮軽率",
+      "reading": "たんりょけいそつ",
+      "meaning": "impulsive and imprudent",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "率先垂範",
+      "reading": "そっせんすいはん",
+      "meaning": "set an example worth following",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

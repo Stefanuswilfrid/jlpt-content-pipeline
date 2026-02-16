@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "若しかしたら",
+    "reading": "もしかしたら",
+    "romaji": "moshikashitara",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "mungkin",
+          "barangkali",
+          "secara kebetulan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "若干",
+      "reading": "じゃっかん",
+      "meaning": "beberapa, sedikit, sejumlah"
+    },
+    {
+      "word": "若々しい",
+      "reading": "わかわかしい",
+      "meaning": "muda, muda"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もしかしたら夕方にならないうちに雨かもしれないよ。",
+      "reading": null,
+      "indonesian": "It might rain before evening.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もしかしたら君を誤解していたのかもしれないとふと思う。",
+      "reading": null,
+      "indonesian": "It occurs to me that I may have misunderstood you.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もしかしたら夕方にならないうちに雨かもしれないよ。",
+      "reading": null,
+      "indonesian": "It might rain before evening.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もしかしたら君を誤解していたのかもしれないとふと思う。",
+      "reading": null,
+      "indonesian": "It occurs to me that I may have misunderstood you.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "感ずる",
+    "reading": "かんずる",
+    "romaji": "kanzuru",
+    "jlpt": "N2",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to feel",
+          "to sense",
+          "to experience"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be moved (by)",
+          "to be touched (by)",
+          "to be impressed (by)",
+          "to respond (to)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become infected with (an illness)",
+          "to catch"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "感激",
+      "reading": "かんげき",
+      "meaning": "deep emotion"
+    },
+    {
+      "word": "直感",
+      "reading": "ちょっかん",
+      "meaning": "intuition"
+    },
+    {
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "sense"
+    },
+    {
+      "word": "感染",
+      "reading": "かんせん",
+      "meaning": "infection"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "being deeply moved emotionally"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "thanks"
+    },
+    {
+      "word": "痛感",
+      "reading": "つうかん",
+      "meaning": "feeling keenly"
+    },
+    {
+      "word": "感じる",
+      "reading": "かんじる",
+      "meaning": "to feel"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "admiration"
+    },
+    {
+      "word": "共感",
+      "reading": "きょうかん",
+      "meaning": "sympathy"
+    },
+    {
+      "word": "予感",
+      "reading": "よかん",
+      "meaning": "presentiment"
+    },
+    {
+      "word": "同感",
+      "reading": "どうかん",
+      "meaning": "same feeling"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "人生から非常な喜びを感ずる。",
+      "reading": null,
+      "english": "I get a kick out of life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人生から非常な喜びを感ずる。",
+      "reading": null,
+      "english": "I get a kick out of life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

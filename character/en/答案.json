@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "答案",
+    "reading": "とうあん",
+    "romaji": "touan",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "examination paper",
+          "examination script",
+          "answer sheet"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "answer (to an exam question)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "提案",
+      "reading": "ていあん",
+      "meaning": "proposal"
+    },
+    {
+      "word": "案",
+      "reading": "あん",
+      "meaning": "idea"
+    },
+    {
+      "word": "解答",
+      "reading": "かいとう",
+      "meaning": "answer"
+    },
+    {
+      "word": "問答",
+      "reading": "もんどう",
+      "meaning": "questions and answers"
+    },
+    {
+      "word": "回答",
+      "reading": "かいとう",
+      "meaning": "reply"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その先生は答案を調べた。",
+      "reading": null,
+      "english": "The teacher looked over the examination papers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

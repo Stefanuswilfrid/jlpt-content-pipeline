@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "化粧",
+    "reading": "けしょう",
+    "romaji": "keshou",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "make-up",
+          "makeup",
+          "cosmetics"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "decoration",
+          "dressing",
+          "veneer"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "変化",
+      "reading": "へんか",
+      "meaning": "change"
+    },
+    {
+      "word": "化学",
+      "reading": "かがく",
+      "meaning": "chemistry"
+    },
+    {
+      "word": "酸化",
+      "reading": "さんか",
+      "meaning": "oxidation"
+    },
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaning": "increase"
+    },
+    {
+      "word": "強化",
+      "reading": "きょうか",
+      "meaning": "strengthening"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaning": "culture"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

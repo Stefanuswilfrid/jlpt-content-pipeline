@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "開始",
+    "reading": "かいし",
+    "romaji": "kaishi",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "start",
+          "commencement",
+          "beginning",
+          "initiation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "始まり",
+      "reading": "はじまり",
+      "meaning": "origin"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaning": "opening (a door, window, etc.)"
+    },
+    {
+      "word": "展開",
+      "reading": "てんかい",
+      "meaning": "development"
+    },
+    {
+      "word": "開会",
+      "reading": "かいかい",
+      "meaning": "opening of a meeting"
+    },
+    {
+      "word": "開く",
+      "reading": "ひらく",
+      "meaning": "to open"
+    },
+    {
+      "word": "開ける",
+      "reading": "あける",
+      "meaning": "to open (a door, etc.)"
+    },
+    {
+      "word": "開ける",
+      "reading": "ひらける",
+      "meaning": "to open out (of a view, scenery, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "パーティーの開始に間に合うでしょうか。",
+      "reading": null,
+      "english": "Will we be in time for the beginning of the party?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ニューヨーク・東京間の直行便が最近開始された。",
+      "reading": null,
+      "english": "Direct flights between New York and Tokyo commenced recently.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

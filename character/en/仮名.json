@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "仮名",
+    "reading": "かめい",
+    "romaji": "kamei",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "alias",
+          "pseudonym",
+          "pen name",
+          "nom de plume"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "仮名遣い",
+      "reading": "かなづかい",
+      "meaning": "kana orthography"
+    },
+    {
+      "word": "振り仮名",
+      "reading": "ふりがな",
+      "meaning": "furigana"
+    },
+    {
+      "word": "送り仮名",
+      "reading": "おくりがな",
+      "meaning": "kana written after a kanji to complete the full (usually kun) reading of the word"
+    },
+    {
+      "word": "名作",
+      "reading": "めいさく",
+      "meaning": "masterpiece"
+    },
+    {
+      "word": "宛名",
+      "reading": "あてな",
+      "meaning": "name and address (on an envelope, etc.)"
+    },
+    {
+      "word": "名所",
+      "reading": "めいしょ",
+      "meaning": "famous place"
+    },
+    {
+      "word": "名物",
+      "reading": "めいぶつ",
+      "meaning": "famous product"
+    },
+    {
+      "word": "地名",
+      "reading": "ちめい",
+      "meaning": "place name"
+    },
+    {
+      "word": "代名詞",
+      "reading": "だいめいし",
+      "meaning": "pronoun"
+    },
+    {
+      "word": "氏名",
+      "reading": "しめい",
+      "meaning": "(full) name"
+    },
+    {
+      "word": "架空",
+      "reading": "かくう",
+      "meaning": "fictitious"
+    },
+    {
+      "word": "著名",
+      "reading": "ちょめい",
+      "meaning": "famous"
+    },
+    {
+      "word": "名刺",
+      "reading": "めいし",
+      "meaning": "business card"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "平仮名は書けるんだけど、片仮名はまだ書けないんだ。",
+      "reading": null,
+      "english": "I can write hiragana, but I can't yet write katakana.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "平仮名は書けるんだけど、片仮名はまだ書けないんだ。",
+      "reading": null,
+      "english": "I can write hiragana, but I can't yet write katakana.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

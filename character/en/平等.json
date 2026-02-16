@@ -1,0 +1,157 @@
+{
+  "definition": {
+    "word": "平等",
+    "reading": "びょうどう",
+    "romaji": "byoudou",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "equality",
+          "impartiality",
+          "evenness"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "公平",
+      "reading": "こうへい",
+      "meaning": "fairness"
+    },
+    {
+      "word": "平ら",
+      "reading": "たいら",
+      "meaning": "flat"
+    },
+    {
+      "word": "平和",
+      "reading": "へいわ",
+      "meaning": "peace"
+    },
+    {
+      "word": "平均",
+      "reading": "へいきん",
+      "meaning": "average"
+    },
+    {
+      "word": "地平線",
+      "reading": "ちへいせん",
+      "meaning": "horizon (related to land)"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "discontent"
+    },
+    {
+      "word": "上等",
+      "reading": "じょうとう",
+      "meaning": "superior"
+    },
+    {
+      "word": "高等",
+      "reading": "こうとう",
+      "meaning": "high class"
+    },
+    {
+      "word": "平日",
+      "reading": "へいじつ",
+      "meaning": "weekday"
+    },
+    {
+      "word": "平野",
+      "reading": "へいや",
+      "meaning": "plain"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "怨親平等",
+      "reading": "おんしんびょうどう",
+      "meaning": "care equally for friends and foes",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君たちはケーキを平等に分けなければならない。",
+      "reading": null,
+      "english": "You have to share the cake equally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君たちは、ケーキを平等に分配しなくてはいけない。",
+      "reading": null,
+      "english": "You have to share the cake equally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その中心的な言葉は「平等」である。",
+      "reading": null,
+      "english": "The key word is equality.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すべての人間は平等であると信じられている。",
+      "reading": null,
+      "english": "It is believed that all men are equal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すべての人は法の前に平等です。",
+      "reading": null,
+      "english": "Everybody is equal before the law.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人間はみな平等である。",
+      "reading": null,
+      "english": "All men are created equal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人は平等にできている。",
+      "reading": null,
+      "english": "All men are created equal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すべての人は生まれながらに平等である。",
+      "reading": null,
+      "english": "All men are created equal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すべての人は神の前では平等である。",
+      "reading": null,
+      "english": "All men are equal before God.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "ビデオ",
+    "reading": "ビデオ",
+    "romaji": "bideo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "video (esp. a televised image)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "videotape",
+          "VHS tape",
+          "videocassette"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "videocassette recorder",
+          "VCR"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "video (short film)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ちょっとあなたのビデオカメラを見せて下さい。",
+      "reading": null,
+      "english": "Let me have a look at your video camera.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのビデオは全くの不良品だ。",
+      "reading": null,
+      "english": "The video is a real lemon!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この番組、ビデオに録っておいて。",
+      "reading": null,
+      "english": "Will you record this program on video for me?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この店はレンタルビデオ店です。",
+      "reading": null,
+      "english": "This shop is a rental video shop.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このビデオはつまらないよ。",
+      "reading": null,
+      "english": "This video is boring.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "このビデオはすばらしいよ。",
+      "reading": null,
+      "english": "This video is magnificent!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "このビデオテープを１週間以内にお返しすることを約束します。",
+      "reading": null,
+      "english": "I promise to return this videotape within a week.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

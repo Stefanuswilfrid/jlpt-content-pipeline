@@ -1,0 +1,172 @@
+{
+  "definition": {
+    "word": "整備",
+    "reading": "せいび",
+    "romaji": "seibi",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "maintenance",
+          "servicing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "putting in place",
+          "development",
+          "improvement",
+          "preparation",
+          "provision",
+          "equipping",
+          "outfitting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "調整",
+      "reading": "ちょうせい",
+      "meaning": "adjustment"
+    },
+    {
+      "word": "警備",
+      "reading": "けいび",
+      "meaning": "defense"
+    },
+    {
+      "word": "予備",
+      "reading": "よび",
+      "meaning": "reserve"
+    },
+    {
+      "word": "整数",
+      "reading": "せいすう",
+      "meaning": "integer"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "preparation"
+    },
+    {
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "equipment"
+    },
+    {
+      "word": "守備",
+      "reading": "しゅび",
+      "meaning": "defense"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "sorting"
+    },
+    {
+      "word": "装備",
+      "reading": "そうび",
+      "meaning": "equipment"
+    },
+    {
+      "word": "軍備",
+      "reading": "ぐんび",
+      "meaning": "armaments"
+    },
+    {
+      "word": "備える",
+      "reading": "そなえる",
+      "meaning": "to furnish with"
+    },
+    {
+      "word": "整える",
+      "reading": "ととのえる",
+      "meaning": "to put in order"
+    },
+    {
+      "word": "備え付ける",
+      "reading": "そなえつける",
+      "meaning": "to provide"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その車は整備が済んでいる。",
+      "reading": null,
+      "english": "The car is ready.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "地方の道路整備のための財源確保が必要です。",
+      "reading": null,
+      "english": "It is necessary to secure financing for local road maintenance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "車はいつも整備しておきなさい。",
+      "reading": null,
+      "english": "You should always keep your car in good order.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その車は整備が済んでいる。",
+      "reading": null,
+      "english": "The car is ready.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "車はいつも整備しておきなさい。",
+      "reading": null,
+      "english": "You should always keep your car in good order.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "整備士さんのとこに持ってって、修理してもらいなよ。",
+      "reading": null,
+      "english": "Take it to a mechanic, and get it fixed.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "地方の道路整備のための財源確保が必要です。",
+      "reading": null,
+      "english": "It is necessary to secure financing for local road maintenance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この地域では水インフラの整備が十分でない。",
+      "reading": null,
+      "english": "The maintenance on the water infrastructures in this region is insufficient.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

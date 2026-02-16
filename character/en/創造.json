@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "創造",
+    "reading": "そうぞう",
+    "romaji": "souzou",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "creation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "Creation (by God)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "製造",
+      "reading": "せいぞう",
+      "meaning": "manufacture"
+    },
+    {
+      "word": "傷",
+      "reading": "きず",
+      "meaning": "wound"
+    },
+    {
+      "word": "改造",
+      "reading": "かいぞう",
+      "meaning": "remodeling"
+    },
+    {
+      "word": "創作",
+      "reading": "そうさく",
+      "meaning": "creation"
+    },
+    {
+      "word": "造船",
+      "reading": "ぞうせん",
+      "meaning": "shipbuilding"
+    },
+    {
+      "word": "構造",
+      "reading": "こうぞう",
+      "meaning": "structure"
+    },
+    {
+      "word": "作る",
+      "reading": "つくる",
+      "meaning": "to make"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "天地創造",
+      "reading": "てんちそうぞう",
+      "meaning": "creation (of the universe)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

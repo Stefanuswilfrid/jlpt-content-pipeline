@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "故障",
+    "reading": "こしょう",
+    "romaji": "koshou",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "perincian"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "damage (to a part of the body)",
+          "injury",
+          "hurt"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "problem",
+          "hitch",
+          "obstacle",
+          "hindrance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "objection",
+          "protest"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "事故",
+      "reading": "じこ",
+      "meaning": "kecelakaan"
+    },
+    {
+      "word": "障害",
+      "reading": "しょうがい",
+      "meaning": "halangan, rintangan"
+    },
+    {
+      "word": "故郷",
+      "reading": "ふるさと",
+      "meaning": "kota asal, tempat kelahiran"
+    },
+    {
+      "word": "故人",
+      "reading": "こじん",
+      "meaning": "almarhum"
+    },
+    {
+      "word": "故郷",
+      "reading": "こきょう",
+      "meaning": "kota asal, tempat kelahiran"
+    },
+    {
+      "word": "保証",
+      "reading": "ほしょう",
+      "meaning": "jaminan, kepastian, garansi"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "例え",
+    "reading": "たとえ",
+    "romaji": "tatoe",
+    "jlpt": "N3",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "example"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "simile",
+          "metaphor",
+          "allegory",
+          "fable",
+          "parable"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "例",
+      "reading": "れい",
+      "meaning": "example"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "exception"
+    },
+    {
+      "word": "実例",
+      "reading": "じつれい",
+      "meaning": "example"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "日本には美しい都市が多い。例えば京都、奈良だ。",
+      "reading": null,
+      "english": "Japan is full of beautiful cities. Kyoto and Nara, for instance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本には美しい都市が多い。例えば京都、奈良だ。",
+      "reading": null,
+      "english": "Japan is full of beautiful cities. Kyoto and Nara, for instance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "例えば君が１万ドル持っていればどうするだろうか。",
+      "reading": null,
+      "english": "What would you do if you had, say, ten thousand dollars?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

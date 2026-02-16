@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "海外",
+    "reading": "かいがい",
+    "romaji": "kaigai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "foreign",
+          "abroad",
+          "overseas"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomacy"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "unexpected"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "exception"
+    },
+    {
+      "word": "航海",
+      "reading": "こうかい",
+      "meaning": "(sea) voyage"
+    },
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "going out"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "foreign country"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "foreigner"
+    },
+    {
+      "word": "海",
+      "reading": "うみ",
+      "meaning": "sea"
+    },
+    {
+      "word": "外",
+      "reading": "そと",
+      "meaning": "outside"
+    },
+    {
+      "word": "郊外",
+      "reading": "こうがい",
+      "meaning": "suburb"
+    },
+    {
+      "word": "海岸",
+      "reading": "かいがん",
+      "meaning": "seashore"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "海外に行ってみたいですか？",
+      "reading": null,
+      "english": "Would you like to go abroad?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は海外へ行くつもりですか。",
+      "reading": null,
+      "english": "Do you plan to go abroad?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はなぜ海外で勉強をしたいのですか。",
+      "reading": null,
+      "english": "Why do you want to study abroad?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はどれくらいよく海外に行きますか。",
+      "reading": null,
+      "english": "How often do you go abroad?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海外旅行はとても面白い。",
+      "reading": null,
+      "english": "Traveling abroad is very interesting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海外に行きたい。",
+      "reading": null,
+      "english": "I want to go abroad.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "definition": {
+    "word": "生存",
+    "reading": "せいぞん",
+    "romaji": "seizon",
+    "jlpt": "N2",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "eksistensi",
+          "keberadaan",
+          "kelangsungan hidup"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生き生き",
+      "reading": "いきいき",
+      "meaning": "dengan jelas, hidup"
+    },
+    {
+      "word": "小学生",
+      "reading": "しょうがくせい",
+      "meaning": "murid sekolah dasar"
+    },
+    {
+      "word": "生ずる",
+      "reading": "しょうずる",
+      "meaning": "menyebabkan, menimbulkan, dihasilkan"
+    },
+    {
+      "word": "生け花",
+      "reading": "いけばな",
+      "meaning": "rangkaian bunga"
+    },
+    {
+      "word": "写生",
+      "reading": "しゃせい",
+      "meaning": "membuat sketsa, menggambar dari alam"
+    },
+    {
+      "word": "生意気",
+      "reading": "なまいき",
+      "meaning": "kurang ajar, lancang"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(kehidupan) manusia (misalnya, dari konsepsi hingga kematian)"
+    },
+    {
+      "word": "生徒",
+      "reading": "せいと",
+      "meaning": "siswa; murid"
+    },
+    {
+      "word": "先生",
+      "reading": "せんせい",
+      "meaning": "guru, profesor; master; doktor"
+    },
+    {
+      "word": "存在",
+      "reading": "そんざい",
+      "meaning": "eksistensi, keberadaan"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "siswa sekolah menengah atas"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "kehidupan"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "kelahiran"
+    },
+    {
+      "word": "発生",
+      "reading": "はっせい",
+      "meaning": "wabah, muncul tiba-tiba, kejadian"
+    },
+    {
+      "word": "再生",
+      "reading": "さいせい",
+      "meaning": "pemutaran ulang, regenerasi, resusitasi"
+    },
+    {
+      "word": "生きる",
+      "reading": "いきる",
+      "meaning": "untuk hidup"
+    },
+    {
+      "word": "生物",
+      "reading": "せいぶつ",
+      "meaning": "makhluk hidup, organisme"
+    },
+    {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "seumur hidup seseorang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "生存競争",
+      "reading": "せいぞんきょうそう",
+      "meaning": "struggle for existence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "適者生存",
+      "reading": "てきしゃせいぞん",
+      "meaning": "survival of the fittest",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もし水が無ければ、人間は生存できないだろう。",
+      "reading": null,
+      "indonesian": "If it were not for water, human life would be impossible.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "多くの犬が生存している。",
+      "reading": null,
+      "indonesian": "Many dogs are alive.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "事故の生存者は一人だけでした。",
+      "reading": null,
+      "indonesian": "Only one person survived the accident.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その子の生存に対する希望は急速に消えつつある。",
+      "reading": null,
+      "indonesian": "Hope of finding the child alive is fading rapidly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これはいわゆる適者生存の例である。",
+      "reading": null,
+      "indonesian": "This is an example of the survival of the fittest, as it is called.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いかなる動物も、植物なしでは生存できない。",
+      "reading": null,
+      "indonesian": "No animal can exist without plants.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "しかし生存者達は、その事実を知らなかった。",
+      "reading": null,
+      "indonesian": "However, the surivors didn't know the truth.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "動物は、空気と水がなくては生存できない。",
+      "reading": null,
+      "indonesian": "Animals cannot exist without air and water.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "definition": {
+    "word": "手前",
+    "reading": "てまえ",
+    "romaji": "temae",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sebelumnya",
+          "sisi ini"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "a bit before reaching (a location)",
+          "this side (of a location)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's standpoint",
+          "one's appearance",
+          "face",
+          "honour"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "skill",
+          "dexterity",
+          "artistry",
+          "ingenuity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tea-ceremony procedures"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "I",
+          "me"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "前後",
+      "reading": "ぜんご",
+      "meaning": "depan dan belakang, sebelum dan sesudah"
+    },
+    {
+      "word": "手帳",
+      "reading": "てちょう",
+      "meaning": "buku catatan"
+    },
+    {
+      "word": "お手伝いさん",
+      "reading": "おてつだいさん",
+      "meaning": "pembantu"
+    },
+    {
+      "word": "手入れ",
+      "reading": "ていれ",
+      "meaning": "perbaikan, pemeliharaan"
+    },
+    {
+      "word": "手続き",
+      "reading": "てつづき",
+      "meaning": "prosedur, proses (hukum), formalitas"
+    },
+    {
+      "word": "直前",
+      "reading": "ちょくぜん",
+      "meaning": "tepat sebelum"
+    },
+    {
+      "word": "手首",
+      "reading": "てくび",
+      "meaning": "pergelangan tangan"
+    },
+    {
+      "word": "手洗い",
+      "reading": "てあらい",
+      "meaning": "toilet, kamar kecil"
+    },
+    {
+      "word": "歌手",
+      "reading": "かしゅ",
+      "meaning": "penyanyi"
+    },
+    {
+      "word": "手紙",
+      "reading": "てがみ",
+      "meaning": "surat"
+    },
+    {
+      "word": "手段",
+      "reading": "しゅだん",
+      "meaning": "berarti, cara, ukuran"
+    },
+    {
+      "word": "以前",
+      "reading": "いぜん",
+      "meaning": "di masa lalu; sebelumnya"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "pengemudi (berdasarkan pekerjaan)"
+    },
+    {
+      "word": "手法",
+      "reading": "しゅほう",
+      "meaning": "teknik"
+    },
+    {
+      "word": "助手",
+      "reading": "じょしゅ",
+      "meaning": "pembantu, asisten"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手前味噌",
+      "reading": "てまえみそ",
+      "meaning": "self-flattery",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "手前勝手",
+      "reading": "てまえがって",
+      "meaning": "self-centered",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そのドアは手前へ折りたためるようになっている。",
+      "reading": null,
+      "indonesian": "The doors fold back.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの信号の手前で降ろしてください。",
+      "reading": null,
+      "indonesian": "Please let me off on this side of that traffic light.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "手前にひいて開けてください。",
+      "reading": null,
+      "indonesian": "Pull it open.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのドアは手前へ折りたためるようになっている。",
+      "reading": null,
+      "indonesian": "The doors fold back.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの信号の手前で降ろしてください。",
+      "reading": null,
+      "indonesian": "Please let me off on this side of that traffic light.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "手前にひいて開けてください。",
+      "reading": null,
+      "indonesian": "Pull it open.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

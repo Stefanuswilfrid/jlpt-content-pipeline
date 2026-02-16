@@ -1,0 +1,157 @@
+{
+  "definition": {
+    "word": "分数",
+    "reading": "ぶんすう",
+    "romaji": "bunsuu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "pecahan (dalam matematika)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "jumlah kali, frekuensi"
+    },
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaning": "bahan, komponen, komposisi"
+    },
+    {
+      "word": "身分",
+      "reading": "みぶん",
+      "meaning": "posisi, status"
+    },
+    {
+      "word": "点数",
+      "reading": "てんすう",
+      "meaning": "nilai, poin, skor"
+    },
+    {
+      "word": "小数",
+      "reading": "しょうすう",
+      "meaning": "pecahan (bagian dari), desimal"
+    },
+    {
+      "word": "整数",
+      "reading": "せいすう",
+      "meaning": "bilangan bulat"
+    },
+    {
+      "word": "単数",
+      "reading": "たんすう",
+      "meaning": "tunggal (angka)"
+    },
+    {
+      "word": "水分",
+      "reading": "すいぶん",
+      "meaning": "kelembapan"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "divisi, bagian, klasifikasi"
+    },
+    {
+      "word": "無数",
+      "reading": "むすう",
+      "meaning": "jumlah yang tak terhitung, jumlah yang tak terhingga"
+    },
+    {
+      "word": "分布",
+      "reading": "ぶんぷ",
+      "meaning": "distribusi"
+    },
+    {
+      "word": "枚数",
+      "reading": "まいすう",
+      "meaning": "jumlah benda datar"
+    },
+    {
+      "word": "分類",
+      "reading": "ぶんるい",
+      "meaning": "klasifikasi"
+    },
+    {
+      "word": "分解",
+      "reading": "ぶんかい",
+      "meaning": "analisis, pembongkaran"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "jamak, banyak"
+    },
+    {
+      "word": "過半数",
+      "reading": "かはんすう",
+      "meaning": "mayoritas"
+    },
+    {
+      "word": "算数",
+      "reading": "さんすう",
+      "meaning": "hitung"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "jumlah, kuantitas"
+    },
+    {
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "buku tiket"
+    },
+    {
+      "word": "幾分",
+      "reading": "いくぶん",
+      "meaning": "agak"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "次の分数を小数に直しなさい。",
+      "reading": null,
+      "indonesian": "Convert the following fractions to decimals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "分数b/aは1/aをb倍した数を意味する。",
+      "reading": null,
+      "indonesian": "The fraction b/a means b times 1/a.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "分数b/aは1/aをb倍した数を意味する。",
+      "reading": null,
+      "indonesian": "The fraction b/a means b times 1/a.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "次の分数を小数に直しなさい。",
+      "reading": null,
+      "indonesian": "Convert the following fractions to decimals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

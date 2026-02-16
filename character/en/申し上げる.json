@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "申し上げる",
+    "reading": "もうしあげる",
+    "romaji": "moushiageru",
+    "jlpt": "N4",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to say",
+          "to tell",
+          "to state",
+          "to express",
+          "to offer",
+          "to extend (greetings, congratulations, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to do"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "上がる",
+      "reading": "あがる",
+      "meaning": "to rise"
+    },
+    {
+      "word": "申す",
+      "reading": "もうす",
+      "meaning": "to say"
+    },
+    {
+      "word": "差し上げる",
+      "reading": "さしあげる",
+      "meaning": "to lift up"
+    },
+    {
+      "word": "召し上がる",
+      "reading": "めしあがる",
+      "meaning": "to eat"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

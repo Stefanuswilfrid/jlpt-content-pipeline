@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "成るべく",
+    "reading": "なるべく",
+    "romaji": "narubeku",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "as (much) as possible",
+          "as (much) as one can",
+          "wherever practicable",
+          "if possible"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "成人",
+      "reading": "せいじん",
+      "meaning": "adult"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "われわれはなるべくたくさん本を読むべきである。",
+      "reading": null,
+      "english": "We should read as many books as possible.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なるべくゆっくり話してもらえますか。",
+      "reading": null,
+      "english": "Could you speak as slowly as possible?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なるべくいろんなものを見に行こう。",
+      "reading": null,
+      "english": "Let's go and see as many things as we can.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なるべく早く帰ってきてくださいね。",
+      "reading": null,
+      "english": "Please come home as quickly as possible.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なるべく高くジャンプしてみなよ。",
+      "reading": null,
+      "english": "Try to jump as high as possible.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なるべく早くお母さんに電話してあげなさい。",
+      "reading": null,
+      "english": "You should call your mother as soon as possible.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

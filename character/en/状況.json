@@ -1,0 +1,48 @@
+{
+  "definition": {
+    "word": "状況",
+    "reading": "じょうきょう",
+    "romaji": "joukyou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "state of affairs",
+          "situation",
+          "conditions",
+          "circumstances"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "状態",
+      "reading": "じょうたい",
+      "meaning": "state"
+    },
+    {
+      "word": "現状",
+      "reading": "げんじょう",
+      "meaning": "present condition"
+    },
+    {
+      "word": "症状",
+      "reading": "しょうじょう",
+      "meaning": "symptoms"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "状況証拠",
+      "reading": "じょうきょうしょうこ",
+      "meaning": "circumstantial evidence",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

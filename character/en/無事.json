@@ -1,0 +1,167 @@
+{
+  "definition": {
+    "word": "無事",
+    "reading": "ぶじ",
+    "romaji": "buji",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "safety",
+          "security",
+          "peace",
+          "quiet"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "safely",
+          "without incident",
+          "successfully"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "good health"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "刑事",
+      "reading": "けいじ",
+      "meaning": "(police) detective"
+    },
+    {
+      "word": "見事",
+      "reading": "みごと",
+      "meaning": "splendid"
+    },
+    {
+      "word": "家事",
+      "reading": "かじ",
+      "meaning": "housework"
+    },
+    {
+      "word": "出来事",
+      "reading": "できごと",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "有無",
+      "reading": "うむ",
+      "meaning": "existence or nonexistence"
+    },
+    {
+      "word": "物事",
+      "reading": "ものごと",
+      "meaning": "things"
+    },
+    {
+      "word": "無視",
+      "reading": "むし",
+      "meaning": "disregarding"
+    },
+    {
+      "word": "記事",
+      "reading": "きじ",
+      "meaning": "article"
+    },
+    {
+      "word": "事件",
+      "reading": "じけん",
+      "meaning": "event"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fact"
+    },
+    {
+      "word": "事情",
+      "reading": "じじょう",
+      "meaning": "circumstances"
+    },
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "prefectural governor"
+    },
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "free (of charge)"
+    },
+    {
+      "word": "無駄",
+      "reading": "むだ",
+      "meaning": "futility"
+    },
+    {
+      "word": "無し",
+      "reading": "なし",
+      "meaning": "without"
+    },
+    {
+      "word": "無",
+      "reading": "む",
+      "meaning": "nothing"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "平穏無事",
+      "reading": "へいおんぶじ",
+      "meaning": "peaceful",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無事息災",
+      "reading": "ぶじそくさい",
+      "meaning": "safe and healthy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "安穏無事",
+      "reading": "あんのんぶじ",
+      "meaning": "peace and quiet",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無事平穏",
+      "reading": "ぶじへいおん",
+      "meaning": "peace and quiet",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "平安無事",
+      "reading": "へいあんぶじ",
+      "meaning": "peace and quiet",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "無事に便りなし。",
+      "reading": null,
+      "english": "No news is good news.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

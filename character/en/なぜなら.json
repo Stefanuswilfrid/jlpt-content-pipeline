@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "何故なら",
+    "reading": "なぜなら",
+    "romaji": "nazenara",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "because",
+          "the reason is",
+          "if you want to know why"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "故郷",
+      "reading": "ふるさと",
+      "meaning": "hometown"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    },
+    {
+      "word": "故人",
+      "reading": "こじん",
+      "meaning": "the deceased"
+    },
+    {
+      "word": "故郷",
+      "reading": "こきょう",
+      "meaning": "hometown"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "why?"
+    },
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    },
+    {
+      "word": "故障",
+      "reading": "こしょう",
+      "meaning": "fault"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "なぜなら新聞記者だったからです。",
+      "reading": null,
+      "english": "Because I was a newspaper reporter.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

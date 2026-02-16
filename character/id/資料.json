@@ -1,0 +1,155 @@
+{
+  "definition": {
+    "word": "資料",
+    "reading": "しりょう",
+    "romaji": "shiryou",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bahan",
+          "data"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "原料",
+      "reading": "げんりょう",
+      "meaning": "bahan baku"
+    },
+    {
+      "word": "有料",
+      "reading": "ゆうりょう",
+      "meaning": "tiket masuk berbayar, tol"
+    },
+    {
+      "word": "送料",
+      "reading": "そうりょう",
+      "meaning": "ongkos kirim, pengangkutan"
+    },
+    {
+      "word": "調味料",
+      "reading": "ちょうみりょう",
+      "meaning": "bumbu, penyedap"
+    },
+    {
+      "word": "資金",
+      "reading": "しきん",
+      "meaning": "dana, modal"
+    },
+    {
+      "word": "投資",
+      "reading": "とうし",
+      "meaning": "investasi"
+    },
+    {
+      "word": "融資",
+      "reading": "ゆうし",
+      "meaning": "pembiayaan, pinjaman"
+    },
+    {
+      "word": "資産",
+      "reading": "しさん",
+      "meaning": "properti, kekayaan, aset"
+    },
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "gratis, tanpa biaya"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "biaya, pungutan, tarif"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "memasak; kuliner"
+    },
+    {
+      "word": "資格",
+      "reading": "しかく",
+      "meaning": "kualifikasi, persyaratan, kemampuan"
+    },
+    {
+      "word": "資源",
+      "reading": "しげん",
+      "meaning": "sumber daya"
+    },
+    {
+      "word": "資本",
+      "reading": "しほん",
+      "meaning": "dana, modal"
+    },
+    {
+      "word": "材料",
+      "reading": "ざいりょう",
+      "meaning": "bahan, material"
+    },
+    {
+      "word": "燃料",
+      "reading": "ねんりょう",
+      "meaning": "bahan bakar"
+    },
+    {
+      "word": "物資",
+      "reading": "ぶっし",
+      "meaning": "barang, bahan"
+    },
+    {
+      "word": "食料",
+      "reading": "しょくりょう",
+      "meaning": "makanan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "プレゼンテーションの前に資料に目を通しておくのが一番いい。",
+      "reading": null,
+      "indonesian": "It is best to review the material before the presentation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どのような資料でも送っていただけるとうれしいです。",
+      "reading": null,
+      "indonesian": "I would appreciate any information you can send to us.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その資料はこの部署にはありません。",
+      "reading": null,
+      "indonesian": "Our department doesn't have that information.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "本が書けるだけの資料はまだ集まっていない。",
+      "reading": null,
+      "indonesian": "I haven't enough material to write a book yet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "本が書けるだけの資料はまだ集まっていない。",
+      "reading": null,
+      "indonesian": "I haven't yet collected sufficient materials to write a book.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

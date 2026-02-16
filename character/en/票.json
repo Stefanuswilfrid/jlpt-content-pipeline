@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "票",
+    "reading": "ひょう",
+    "romaji": "hyou",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix",
+          "counter"
+        ],
+        "meanings": [
+          "vote",
+          "ballot"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "label",
+          "ticket",
+          "tag",
+          "stub"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "投票",
+      "reading": "とうひょう",
+      "meaning": "voting"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "すぐに伝票をお持ちします。",
+      "reading": null,
+      "english": "I'll bring you the bill immediately.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すぐに伝票をお持ちします。",
+      "reading": null,
+      "english": "I'll bring you the bill immediately.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "各人が１票ずつを投じなければならない。",
+      "reading": null,
+      "english": "Each man must cast a vote.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "開票は予想した通りだ。",
+      "reading": null,
+      "english": "Election returns were what we had expected.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会長選挙でだれに投票しますか。",
+      "reading": null,
+      "english": "For whom will you vote for president?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "definition": {
+    "word": "板",
+    "reading": "いた",
+    "romaji": "ita",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "papan",
+          "balok"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sheet (of metal)",
+          "plate (of glass)",
+          "pane",
+          "slab"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cutting board",
+          "chopping board"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "chef (esp. of high-end Japanese cuisine)",
+          "cook"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "stage (i.e. at a theatre)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出版",
+      "reading": "しゅっぱん",
+      "meaning": "publikasi"
+    },
+    {
+      "word": "黒板",
+      "reading": "こくばん",
+      "meaning": "papan tulis"
+    },
+    {
+      "word": "看板",
+      "reading": "かんばん",
+      "meaning": "tanda, papan nama"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一枚看板",
+      "reading": "いちまいかんばん",
+      "meaning": "leading player",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "まな板",
+      "reading": "まないた",
+      "meaning": "chopping board",
+      "type": "expression"
+    },
+    {
+      "word": "立て板に水",
+      "reading": "たていたにみず",
+      "meaning": "eloquence",
+      "type": "idiom"
+    },
+    {
+      "word": "板につく",
+      "reading": "いたにつく",
+      "meaning": "to get used to",
+      "type": "idiom"
+    },
+    {
+      "word": "まな板の鯉",
+      "reading": "まないたのこい",
+      "meaning": "someone doomed to their fate",
+      "type": "idiom"
+    },
+    {
+      "word": "二枚看板",
+      "reading": "にまいかんばん",
+      "meaning": "the two leading actors (in a play)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "看板を下ろす",
+      "reading": "かんばんをおろす",
+      "meaning": "to close one's business",
+      "type": "idiom"
+    },
+    {
+      "word": "横板に雨垂れ",
+      "reading": "よこいたにあまだれ",
+      "meaning": "halting speech",
+      "type": "idiom"
+    },
+    {
+      "word": "板子一枚下は地獄",
+      "reading": "いたごいちまいしたはじごく",
+      "meaning": "there is only the thickness of the boat's planking between one and perdition",
+      "type": "proverb"
+    },
+    {
+      "word": "まな板の上の鯉",
+      "reading": "まないたのうえのこい",
+      "meaning": "someone doomed to their fate",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の英語はすっかり板に付いた。",
+      "reading": null,
+      "indonesian": "You are now quite at home in English.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "みんな、黒板に注目！",
+      "reading": null,
+      "indonesian": "Look at the blackboard, everyone.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まず、板のかんながけをしてください。",
+      "reading": null,
+      "indonesian": "Try the board surface first.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ひろしは材木をひいて板にしています。",
+      "reading": null,
+      "indonesian": "Hiroshi is sawing the wood into boards.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その板は長さ約２メートルだ。",
+      "reading": null,
+      "indonesian": "The board is about two meters long.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その板の長さは約２メートルだ。",
+      "reading": null,
+      "indonesian": "The board is about two meters long.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

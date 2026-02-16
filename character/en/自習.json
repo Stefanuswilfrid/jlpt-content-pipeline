@@ -1,0 +1,117 @@
+{
+  "definition": {
+    "word": "自習",
+    "reading": "じしゅう",
+    "romaji": "jishuu",
+    "jlpt": "N2",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "self-study",
+          "teaching oneself"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "studying by oneself (at school) while the teacher is absent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "自ら",
+      "reading": "みずから",
+      "meaning": "oneself"
+    },
+    {
+      "word": "自宅",
+      "reading": "じたく",
+      "meaning": "one's home"
+    },
+    {
+      "word": "自治",
+      "reading": "じち",
+      "meaning": "self-government"
+    },
+    {
+      "word": "自衛",
+      "reading": "じえい",
+      "meaning": "self-defense"
+    },
+    {
+      "word": "実習",
+      "reading": "じっしゅう",
+      "meaning": "practice (in the field)"
+    },
+    {
+      "word": "各自",
+      "reading": "かくじ",
+      "meaning": "each (person)"
+    },
+    {
+      "word": "習字",
+      "reading": "しゅうじ",
+      "meaning": "penmanship"
+    },
+    {
+      "word": "自転",
+      "reading": "じてん",
+      "meaning": "rotation (on an axis)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自学自習",
+      "reading": "じがくじしゅう",
+      "meaning": "teaching oneself",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "土・日も自習室って開いてるんですか？",
+      "reading": null,
+      "english": "Are the individual study rooms open even on Saturdays and Sundays?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "土・日も自習室って開いてるんですか？",
+      "reading": null,
+      "english": "Are the individual study rooms open even on Saturdays and Sundays?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自習室はM2Fにあります。",
+      "reading": null,
+      "english": "There is a study on Mezzanine Floor level 2.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自習室はM2Fにあります。",
+      "reading": null,
+      "english": "There is a study on Mezzanine Floor level 2.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

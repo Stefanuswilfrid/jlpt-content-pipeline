@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "対策",
+    "reading": "たいさく",
+    "romaji": "taisaku",
+    "jlpt": "N2",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "measure",
+          "step",
+          "countermeasure",
+          "counterplan",
+          "countermove",
+          "strategy",
+          "preparation (e.g. for a test)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "対立",
+      "reading": "たいりつ",
+      "meaning": "confrontation"
+    },
+    {
+      "word": "応対",
+      "reading": "おうたい",
+      "meaning": "dealing with (people, customers, complaints, etc.)"
+    },
+    {
+      "word": "対応",
+      "reading": "たいおう",
+      "meaning": "correspondence (to)"
+    },
+    {
+      "word": "対象",
+      "reading": "たいしょう",
+      "meaning": "target"
+    },
+    {
+      "word": "反対",
+      "reading": "はんたい",
+      "meaning": "opposition"
+    },
+    {
+      "word": "政策",
+      "reading": "せいさく",
+      "meaning": "political measures"
+    },
+    {
+      "word": "対話",
+      "reading": "たいわ",
+      "meaning": "dialogue"
+    },
+    {
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "absolutely"
+    },
+    {
+      "word": "対決",
+      "reading": "たいけつ",
+      "meaning": "confrontation"
+    },
+    {
+      "word": "対抗",
+      "reading": "たいこう",
+      "meaning": "opposition"
+    },
+    {
+      "word": "作戦",
+      "reading": "さくせん",
+      "meaning": "tactics"
+    },
+    {
+      "word": "方策",
+      "reading": "ほうさく",
+      "meaning": "plan"
+    },
+    {
+      "word": "対処",
+      "reading": "たいしょ",
+      "meaning": "dealing with"
+    },
+    {
+      "word": "対等",
+      "reading": "たいとう",
+      "meaning": "equality (esp. of status)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これは有効な犯罪防止対策だ。",
+      "reading": null,
+      "english": "This is an effective remedy for crime.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "対策に関する討議が行われた。",
+      "reading": null,
+      "english": "There was a discussion on the measures.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私のウイルス対策用ソフトウエアは不良品でした。",
+      "reading": null,
+      "english": "Apparently my anti-virus software is not up to snuff.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

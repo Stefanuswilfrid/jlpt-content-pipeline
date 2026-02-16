@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "汚す",
+    "reading": "よごす",
+    "romaji": "yogosu",
+    "jlpt": "N3",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mencemari",
+          "mengotori"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to disgrace",
+          "to dishonour",
+          "to dishonor",
+          "to defile"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "汚染",
+      "reading": "おせん",
+      "meaning": "polusi, kontaminasi"
+    },
+    {
+      "word": "汚い",
+      "reading": "きたない",
+      "meaning": "kotor, najis, menjijikkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "末席を汚す",
+      "reading": "まっせきをけがす",
+      "meaning": "to have the honour of being present (at a meeting, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

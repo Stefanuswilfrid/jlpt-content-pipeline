@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "案",
+    "reading": "あん",
+    "romaji": "an",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "rencana",
+          "skema",
+          "proposal"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "draft",
+          "rough copy"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "expectation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "提案",
+      "reading": "ていあん",
+      "meaning": "usulan, proposisi, saran"
+    },
+    {
+      "word": "答案",
+      "reading": "とうあん",
+      "meaning": "lembar ujian, naskah ujian"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "informasi, panduan"
+    },
+    {
+      "word": "案外",
+      "reading": "あんがい",
+      "meaning": "mendadak"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "思案投首",
+      "reading": "しあんなげくび",
+      "meaning": "being at one's wit's end",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鼻元思案",
+      "reading": "はなもとじあん",
+      "meaning": "superficial (shortsighted) way of thinking",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鼻先思案",
+      "reading": "はなさきじあん",
+      "meaning": "superficial (shortsighted) way of thinking",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "喉元思案",
+      "reading": "のどもとじあん",
+      "meaning": "superficial way of thinking",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "恋は思案の外",
+      "reading": "こいはしあんのほか",
+      "meaning": "love is without reason",
+      "type": "proverb"
+    },
+    {
+      "word": "案ずるより産むが易し",
+      "reading": "あんずるよりうむがやすし",
+      "meaning": "it is easier to do something than worry about it",
+      "type": "proverb"
+    },
+    {
+      "word": "色事は思案の外",
+      "reading": "いろごとはしあんのほか",
+      "meaning": "love and reason do not go together",
+      "type": "proverb"
+    },
+    {
+      "word": "凝っては思案に能わず",
+      "reading": "こってはしあんにあたわず",
+      "meaning": "too much thinking gets you nowhere",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "名案だ。",
+      "reading": null,
+      "indonesian": "That's a good idea!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "名案です。",
+      "reading": null,
+      "indonesian": "That's a good idea!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君はその案を実行するのに少し苦労するだろう。",
+      "reading": null,
+      "indonesian": "You'll have some difficulty in carrying out the plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "申し上げる",
+    "reading": "もうしあげる",
+    "romaji": "moushiageru",
+    "jlpt": "N4",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "(rendah hati) untuk mengatakan",
+          "untuk memberitahu"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to do"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "上がる",
+      "reading": "あがる",
+      "meaning": "untuk bangkit, untuk naik"
+    },
+    {
+      "word": "申す",
+      "reading": "もうす",
+      "meaning": "-- ekspresi ekstra-sederhana (rendah hati) untuk 言う (いう) --"
+    },
+    {
+      "word": "差し上げる",
+      "reading": "さしあげる",
+      "meaning": "-- ekspresi rendah hati untuk あげる --"
+    },
+    {
+      "word": "召し上がる",
+      "reading": "めしあがる",
+      "meaning": "-- bentuk kehormatan dari 食べる (たべる) dan 飲む (のむ) --"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

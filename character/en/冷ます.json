@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "冷ます",
+    "reading": "さます",
+    "romaji": "samasu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cool (e.g. from a high temperature to room temperature)",
+          "to let cool"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to dampen",
+          "to throw a damper on",
+          "to spoil"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "冷やす",
+      "reading": "ひやす",
+      "meaning": "to cool"
+    },
+    {
+      "word": "冷凍",
+      "reading": "れいとう",
+      "meaning": "freezing"
+    },
+    {
+      "word": "冷房",
+      "reading": "れいぼう",
+      "meaning": "air conditioning"
+    },
+    {
+      "word": "冷静",
+      "reading": "れいせい",
+      "meaning": "calmness"
+    },
+    {
+      "word": "冷める",
+      "reading": "さめる",
+      "meaning": "to cool down"
+    },
+    {
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "refrigerator"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "くっ付く",
+    "reading": "くっつく",
+    "romaji": "kuttsuku",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to adhere to",
+          "to stick to",
+          "to cling to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to keep close to",
+          "to go along with"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get involved with",
+          "to be thick with",
+          "to become intimate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "reception (desk)"
+    },
+    {
+      "word": "突く",
+      "reading": "つつく",
+      "meaning": "to poke (repeatedly, lightly)"
+    },
+    {
+      "word": "見つかる",
+      "reading": "みつかる",
+      "meaning": "to be found"
+    },
+    {
+      "word": "片付く",
+      "reading": "かたづく",
+      "meaning": "to be put in order"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "骨が完全にくっつくには１ヶ月くらいはかかるだろう。",
+      "reading": null,
+      "english": "It'll take the bone a month or so to set completely.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "骨が完全にくっつくには１ヶ月くらいはかかるだろう。",
+      "reading": null,
+      "english": "It'll take the bone a month or so to set completely.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

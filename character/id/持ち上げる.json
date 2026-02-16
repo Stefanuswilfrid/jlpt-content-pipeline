@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "持ち上げる",
+    "reading": "もちあげる",
+    "romaji": "mochiageru",
+    "jlpt": "N3",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengangkat",
+          "meninggikan",
+          "menyanjung"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to flatter",
+          "to extol",
+          "to praise to the sky"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "上達",
+      "reading": "じょうたつ",
+      "meaning": "peningkatan, kemajuan"
+    },
+    {
+      "word": "維持",
+      "reading": "いじ",
+      "meaning": "pemeliharaan, pelestarian"
+    },
+    {
+      "word": "取り上げる",
+      "reading": "とりあげる",
+      "meaning": "mengambil, memungut; menyita"
+    },
+    {
+      "word": "差し上げる",
+      "reading": "さしあげる",
+      "meaning": "-- ekspresi rendah hati untuk あげる --"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この箱、持ち上げるとズシッと重いね。中に何が入ってるんだ。",
+      "reading": null,
+      "indonesian": "This box weighs a ton. What's inside?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この石を持ち上げる事が出来ますか。",
+      "reading": null,
+      "indonesian": "Can you lift this stone?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この石はとても重かったので持ち上げることができなかった。",
+      "reading": null,
+      "indonesian": "This stone was so heavy that I could not lift it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "包みを持ち上げるのを手伝って。",
+      "reading": null,
+      "indonesian": "Help me lift the package.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この箱、持ち上げるとズシッと重いね。中に何が入ってるんだ。",
+      "reading": null,
+      "indonesian": "This box weighs a ton. What's inside?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

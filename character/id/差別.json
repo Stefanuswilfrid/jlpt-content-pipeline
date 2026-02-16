@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "差別",
+    "reading": "さべつ",
+    "romaji": "sabetsu",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "diskriminasi",
+          "diferensiasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "discrimination (against people)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "差",
+      "reading": "さ",
+      "meaning": "perbedaan, variasi"
+    },
+    {
+      "word": "別れ",
+      "reading": "わかれ",
+      "meaning": "perpisahan, pemisahan, selamat tinggal"
+    },
+    {
+      "word": "分ける",
+      "reading": "わける",
+      "meaning": "untuk membagi, untuk memisahkan"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "perbedaan, pembedaan, klasifikasi"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaning": "spesial"
+    },
+    {
+      "word": "別荘",
+      "reading": "べっそう",
+      "meaning": "vila; rumah liburan; pondok musim panas"
+    },
+    {
+      "word": "別に",
+      "reading": "べつに",
+      "meaning": "(tidak) terlalu, tidak ada apa-apa"
+    },
+    {
+      "word": "性別",
+      "reading": "せいべつ",
+      "meaning": "jenis kelamin, gender"
+    },
+    {
+      "word": "別々",
+      "reading": "べつべつ",
+      "meaning": "secara terpisah, secara individual"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "恋に上下の差別無し",
+      "reading": "こいにじょうげのさべつなし",
+      "meaning": "love makes men equal",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その週間は差別とは関係がなかった。",
+      "reading": null,
+      "indonesian": "That week had nothing to do with discrimination.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

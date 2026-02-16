@@ -1,0 +1,43 @@
+{
+  "definition": {
+    "word": "帰す",
+    "reading": "かえす",
+    "romaji": "kaesu",
+    "jlpt": "N3",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to send (someone) back",
+          "to send (someone) home"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "帰宅",
+      "reading": "きたく",
+      "meaning": "returning home"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "水泡に帰する",
+      "reading": "すいほうにきする",
+      "meaning": "to come to nothing",
+      "type": "idiom"
+    },
+    {
+      "word": "水泡に帰す",
+      "reading": "すいほうにきす",
+      "meaning": "to come to naught",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "どうせ",
+    "reading": "どうせ",
+    "romaji": "douse",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "anyhow",
+          "in any case",
+          "at any rate",
+          "after all",
+          "at all",
+          "no matter what",
+          "regardless",
+          "either way"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "at best",
+          "at most"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうせやるなら上手にやれ。",
+      "reading": null,
+      "english": "If you do it at all, do it well.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうせ行くんでしょ。",
+      "reading": null,
+      "english": "I daresay you are going to go no matter what.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どうせやるからには上手にやるようにしなさい。",
+      "reading": null,
+      "english": "If you do it at all, try to do it well.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうせお前は。",
+      "reading": null,
+      "english": "You're only foolin' round.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

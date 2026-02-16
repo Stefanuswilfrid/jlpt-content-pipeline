@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "動作",
+    "reading": "どうさ",
+    "romaji": "dousa",
+    "jlpt": "N2",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "aksi",
+          "gerakan",
+          "pergerakan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bearing",
+          "carriage",
+          "behaviour",
+          "behavior",
+          "demeanour",
+          "demeanor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "operation (of a machine, software, etc.)",
+          "running",
+          "working",
+          "functioning"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "創作",
+      "reading": "そうさく",
+      "meaning": "produksi, kreasi, pekerjaan"
+    },
+    {
+      "word": "名作",
+      "reading": "めいさく",
+      "meaning": "mahakarya"
+    },
+    {
+      "word": "傑作",
+      "reading": "けっさく",
+      "meaning": "mahakarya, karya terbaik"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaning": "karya (misalnya, film, buku)"
+    },
+    {
+      "word": "製作",
+      "reading": "せいさく",
+      "meaning": "manufaktur, produksi"
+    },
+    {
+      "word": "作成",
+      "reading": "さくせい",
+      "meaning": "penciptaan, persiapan, membuat"
+    },
+    {
+      "word": "作者",
+      "reading": "さくしゃ",
+      "meaning": "penulis, seniman"
+    },
+    {
+      "word": "作製",
+      "reading": "さくせい",
+      "meaning": "manufaktur, produksi"
+    },
+    {
+      "word": "騒動",
+      "reading": "そうどう",
+      "meaning": "perselisihan, kerusuhan, pemberontakan"
+    },
+    {
+      "word": "動物園",
+      "reading": "どうぶつえん",
+      "meaning": "kebun binatang"
+    },
+    {
+      "word": "暴動",
+      "reading": "ぼうどう",
+      "meaning": "pemberontakan, kerusuhan, pergolakan"
+    },
+    {
+      "word": "作",
+      "reading": "さく",
+      "meaning": "sebuah pekerjaan, sebuah panen"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "陽動作戦",
+      "reading": "ようどうさくせん",
+      "meaning": "diversionary tactics",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "過去の動作については過去形を用います。",
+      "reading": null,
+      "indonesian": "\"Past tense\" is used in connection with actions in the past.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "definition": {
+    "word": "生理",
+    "reading": "せいり",
+    "romaji": "seiri",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "physiology"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "menstruation",
+          "one's period"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生地",
+      "reading": "きじ",
+      "meaning": "cloth"
+    },
+    {
+      "word": "生き物",
+      "reading": "いきもの",
+      "meaning": "living thing"
+    },
+    {
+      "word": "芝生",
+      "reading": "しばふ",
+      "meaning": "lawn"
+    },
+    {
+      "word": "生長",
+      "reading": "せいちょう",
+      "meaning": "growth (of a plant)"
+    },
+    {
+      "word": "生物",
+      "reading": "なまもの",
+      "meaning": "raw food"
+    },
+    {
+      "word": "管理",
+      "reading": "かんり",
+      "meaning": "control"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(one's) life"
+    },
+    {
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "processing"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "understanding"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "life"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "birth (of a person)"
+    },
+    {
+      "word": "代理",
+      "reading": "だいり",
+      "meaning": "representation"
+    },
+    {
+      "word": "生物",
+      "reading": "せいぶつ",
+      "meaning": "living thing"
+    },
+    {
+      "word": "心理",
+      "reading": "しんり",
+      "meaning": "state of mind"
+    },
+    {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "life"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "sorting"
+    },
+    {
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "ideal"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "whole life"
+    },
+    {
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaning": "repair"
+    },
+    {
+      "word": "物理",
+      "reading": "ぶつり",
+      "meaning": "laws of nature"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "生理用ナプキンはどこにありますか。",
+      "reading": null,
+      "english": "Where are the sanitary napkins?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "生理学は３単位です。",
+      "reading": null,
+      "english": "Human physiology is a three-credit course.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "生理は順調ですか。",
+      "reading": null,
+      "english": "Is your menstruation normal?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "生理の量が多いのです。",
+      "reading": null,
+      "english": "I have very heavy periods.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "生理がありません。",
+      "reading": null,
+      "english": "I don't menstruate.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "最後の生理は２か月前です。",
+      "reading": null,
+      "english": "My last period was two months ago.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

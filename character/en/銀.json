@@ -1,0 +1,133 @@
+{
+  "definition": {
+    "word": "銀",
+    "reading": "ぎん",
+    "romaji": "gin",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "silver (Ag)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "silver (color)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "silver (medal, prize, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "silver coin"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "silver general"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "bank"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "bank"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "いぶし銀",
+      "reading": "いぶしぎん",
+      "meaning": "oxidized silver",
+      "type": "idiom"
+    },
+    {
+      "word": "金波銀波",
+      "reading": "きんぱぎんぱ",
+      "meaning": "sparkling waves",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "沈黙は金雄弁は銀",
+      "reading": "ちんもくはきんゆうべんはぎん",
+      "meaning": "speech is silver, silence is golden",
+      "type": "proverb"
+    },
+    {
+      "word": "金銀は回り持ち",
+      "reading": "きんぎんはまわりもち",
+      "meaning": "money comes and goes",
+      "type": "proverb"
+    },
+    {
+      "word": "雄弁は銀、沈黙は金",
+      "reading": "ゆうべんはぎん、ちんもくはきん",
+      "meaning": "speech is silver, silence is golden",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は銀行から金が借りられるよ。",
+      "reading": null,
+      "english": "You can get a loan from a bank.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銀行へ行ってきたところです。",
+      "reading": null,
+      "english": "I've been to the bank.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銀行へ行く道を教えて下さい。",
+      "reading": null,
+      "english": "Can you tell me the way to the bank?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銀行は病院の左手にあります。",
+      "reading": null,
+      "english": "You'll see the bank on the left hand side of the hospital.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

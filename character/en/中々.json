@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "中々",
+    "reading": "なかなか",
+    "romaji": "nakanaka",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "very",
+          "considerably",
+          "easily",
+          "readily",
+          "fairly",
+          "quite",
+          "highly",
+          "rather"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "by no means",
+          "not readily"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "middle",
+          "half-way point"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "excellent",
+          "wonderful",
+          "very good"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "背中",
+      "reading": "せなか",
+      "meaning": "back (of the body)"
+    },
+    {
+      "word": "途中",
+      "reading": "とちゅう",
+      "meaning": "on the way"
+    },
+    {
+      "word": "中学校",
+      "reading": "ちゅうがっこう",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "内",
+      "reading": "うち",
+      "meaning": "inside"
+    },
+    {
+      "word": "世の中",
+      "reading": "よのなか",
+      "meaning": "society"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

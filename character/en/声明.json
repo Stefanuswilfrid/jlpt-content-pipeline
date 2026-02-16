@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "声明",
+    "reading": "せいめい",
+    "romaji": "seimei",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "declaration",
+          "statement",
+          "proclamation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "civilization"
+    },
+    {
+      "word": "証明",
+      "reading": "しょうめい",
+      "meaning": "proof"
+    },
+    {
+      "word": "歓声",
+      "reading": "かんせい",
+      "meaning": "cheer"
+    },
+    {
+      "word": "照明",
+      "reading": "しょうめい",
+      "meaning": "illumination"
+    },
+    {
+      "word": "夜明け",
+      "reading": "よあけ",
+      "meaning": "dawn"
+    },
+    {
+      "word": "明かり",
+      "reading": "あかり",
+      "meaning": "light"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "声",
+      "reading": "こえ",
+      "meaning": "voice"
+    },
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "explanation"
+    },
+    {
+      "word": "透明",
+      "reading": "とうめい",
+      "meaning": "transparent"
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "tomorrow"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その声明には真実のかけらもなかった。",
+      "reading": null,
+      "english": "There wasn't a scrap of truth in the statement.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "首相は本日声明を発表する予定です。",
+      "reading": null,
+      "english": "The prime minister is to make a statement today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "definition": {
+    "word": "実行",
+    "reading": "じっこう",
+    "romaji": "jikkou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "praktik",
+          "pelaksanaan (misalnya",
+          "program)",
+          "realisasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "execution (of a program)",
+          "run"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "realitas"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fakta, kebenaran, realitas"
+    },
+    {
+      "word": "実施",
+      "reading": "じっし",
+      "meaning": "penegakan, melaksanakan, operasi"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "tindakan, perilaku, tingkah laku"
+    },
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "kepastian, keandalan, kekokohan"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaning": "pekerjaan laboratorium; percobaan"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementasi, materialisasi, realisasi"
+    },
+    {
+      "word": "実際",
+      "reading": "じっさい",
+      "meaning": "sebenarnya; pada kenyataannya"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaning": "kemampuan; kekuatan"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "terbitan (publikasi)"
+    },
+    {
+      "word": "実",
+      "reading": "じつ",
+      "meaning": "buah, hasil yang baik"
+    },
+    {
+      "word": "飛行",
+      "reading": "ひこう",
+      "meaning": "penerbangan, terbang"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "mendahului, berjalan lebih dulu"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "modis, tren, lazim"
+    },
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "praktik adat, kebiasaan, acara tradisional"
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "maju"
+    },
+    {
+      "word": "刊行",
+      "reading": "かんこう",
+      "meaning": "publikasi, terbitan"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "jalan, melewati"
+    },
+    {
+      "word": "実",
+      "reading": "み",
+      "meaning": "buah, hasil yang baik"
+    },
+    {
+      "word": "行き",
+      "reading": "いき",
+      "meaning": "pergi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不言実行",
+      "reading": "ふげんじっこう",
+      "meaning": "action before words",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有言実行",
+      "reading": "ゆうげんじっこう",
+      "meaning": "carrying out one's words",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は最初の計画を実行すべきだ。",
+      "reading": null,
+      "indonesian": "You should carry out his offer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその計画を予定通り実行すべきだ。",
+      "reading": null,
+      "indonesian": "You should carry out the plan on schedule.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその案を実行するのに少し苦労するだろう。",
+      "reading": null,
+      "indonesian": "You'll have some difficulty in carrying out the plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教訓よりも実行が大切。",
+      "reading": null,
+      "indonesian": "An ounce of practice is worth a pound of precept.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

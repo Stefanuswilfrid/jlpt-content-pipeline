@@ -1,0 +1,153 @@
+{
+  "definition": {
+    "word": "灯",
+    "reading": "ひ",
+    "romaji": "hi",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lampu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "灯油",
+      "reading": "とうゆ",
+      "meaning": "minyak lampu, minyak tanah"
+    },
+    {
+      "word": "電灯",
+      "reading": "でんとう",
+      "meaning": "lampu listrik"
+    },
+    {
+      "word": "灯台",
+      "reading": "とうだい",
+      "meaning": "mercu suar"
+    },
+    {
+      "word": "蛍光灯",
+      "reading": "けいこうとう",
+      "meaning": "lampu pijar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "昼行灯",
+      "reading": "ひるあんどん",
+      "meaning": "dunce",
+      "type": "idiom"
+    },
+    {
+      "word": "灯台下暗し",
+      "reading": "とうだいもとくらし",
+      "meaning": "it is darkest under the lamp post",
+      "type": "proverb"
+    },
+    {
+      "word": "走馬灯",
+      "reading": "そうまとう",
+      "meaning": "revolving lantern",
+      "type": "idiom"
+    },
+    {
+      "word": "風前の灯",
+      "reading": "ふうぜんのともしび",
+      "meaning": "precarious situation",
+      "type": "idiom"
+    },
+    {
+      "word": "紅灯緑酒",
+      "reading": "こうとうりょくしゅ",
+      "meaning": "(nights of) fun, food, and drink",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "提灯に釣鐘",
+      "reading": "ちょうちんにつりがね",
+      "meaning": "two ill-matched things",
+      "type": "idiom"
+    },
+    {
+      "word": "提灯を持つ",
+      "reading": "ちょうちんをもつ",
+      "meaning": "to sing someone's praises",
+      "type": "idiom"
+    },
+    {
+      "word": "貧者の一灯",
+      "reading": "ひんじゃのいっとう",
+      "meaning": "one's mite",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "新涼灯火",
+      "reading": "しんりょうとうか",
+      "meaning": "the coolness of early autumn is suitable for reading",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "走馬灯のように駆け巡る",
+      "reading": "そうまとうのようにかけめぐる",
+      "meaning": "to flash before one's eyes (of memories, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "出かける前に必ず灯りを全部消してください。",
+      "reading": null,
+      "indonesian": "Make sure to turn off all the lights before going out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠方にほの白い灯台が立っていた。",
+      "reading": null,
+      "indonesian": "In the distance, there stood a dimly white lighthouse.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠くに灯火が見えた。",
+      "reading": null,
+      "indonesian": "I saw a light in the distance.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "遠くに町の灯りが見えた。",
+      "reading": null,
+      "indonesian": "We could see the lights of the town in the distance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠い灯台のかすかな光を見た。",
+      "reading": null,
+      "indonesian": "We saw the gleam of a distant lighthouse.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "キャンドルに火を灯してください。",
+      "reading": null,
+      "indonesian": "Please light a candle.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

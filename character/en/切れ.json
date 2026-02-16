@@ -1,0 +1,205 @@
+{
+  "definition": {
+    "word": "切れ",
+    "reading": "きれ",
+    "romaji": "kire",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "piece",
+          "slice",
+          "strip",
+          "scrap"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cloth"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sharpness"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "agility"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for scraps, pieces, etc."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "切り",
+      "reading": "きり",
+      "meaning": "end"
+    },
+    {
+      "word": "適切",
+      "reading": "てきせつ",
+      "meaning": "appropriate"
+    },
+    {
+      "word": "切手",
+      "reading": "きって",
+      "meaning": "stamp (postage)"
+    },
+    {
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaning": "ticket"
+    },
+    {
+      "word": "売り切れ",
+      "reading": "うりきれ",
+      "meaning": "sold-out"
+    },
+    {
+      "word": "踏切",
+      "reading": "ふみきり",
+      "meaning": "railway crossing"
+    },
+    {
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaning": "kind"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "頭が切れる",
+      "reading": "あたまがきれる",
+      "meaning": "to be sharp",
+      "type": "idiom"
+    },
+    {
+      "word": "切れ上がる",
+      "reading": "きれあがる",
+      "meaning": "to turn upwards",
+      "type": "idiom"
+    },
+    {
+      "word": "手が切れる",
+      "reading": "てがきれる",
+      "meaning": "to break off with (e.g. one's lover)",
+      "type": "idiom"
+    },
+    {
+      "word": "油が切れる",
+      "reading": "あぶらがきれる",
+      "meaning": "to run out of oil",
+      "type": "idiom"
+    },
+    {
+      "word": "堪忍袋の緒が切れる",
+      "reading": "かんにんぶくろのおがきれる",
+      "meaning": "to be out of patience",
+      "type": "idiom"
+    },
+    {
+      "word": "死んでも死に切れぬ",
+      "reading": "しんでもしにきれぬ",
+      "meaning": "I can't die and leave things this way",
+      "type": "idiom"
+    },
+    {
+      "word": "死んでも死に切れない",
+      "reading": "しんでもしにきれない",
+      "meaning": "I can't die and leave things this way",
+      "type": "idiom"
+    },
+    {
+      "word": "金の鎖も引けば切れる",
+      "reading": "かねのくさりもひけばきれる",
+      "meaning": "even the strong-willed fall into temptation",
+      "type": "proverb"
+    },
+    {
+      "word": "金の切れ目が縁の切れ目",
+      "reading": "かねのきれめがえんのきれめ",
+      "meaning": "relationships formed by wealth will end when the money ends",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ネタ切れになりそうだよ。",
+      "reading": null,
+      "english": "I'm running out of ideas.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "時間切れです。",
+      "reading": null,
+      "english": "Your time is up.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "いくらお礼を言っても言い切れない。",
+      "reading": null,
+      "english": "I can't thank you enough.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空には星がたくさんでていてとても数え切れない。",
+      "reading": null,
+      "english": "There are so many stars in the sky, I can't count them all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空には数え切れないほど星が出ている。",
+      "reading": null,
+      "english": "There are more stars in the sky than I can count.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "家のそばまで来て車のガソリンが切れた。",
+      "reading": null,
+      "english": "I was almost home when the car ran out of gas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雲の切れ間から太陽が見えます。",
+      "reading": null,
+      "english": "You can see the sun peeking through the clouds.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

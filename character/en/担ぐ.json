@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "担ぐ",
+    "reading": "かつぐ",
+    "romaji": "katsugu",
+    "jlpt": "N2",
+    "frequency": 19250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to shoulder",
+          "to carry on one's shoulder"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to nominate for a position",
+          "to choose as a representative"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take (someone) for a ride",
+          "to deceive",
+          "to take in"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be caught up in superstition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "担う",
+      "reading": "になう",
+      "meaning": "to carry on one's shoulder"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "being in charge (of an area of responsibility)"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "burden"
+    },
+    {
+      "word": "分担",
+      "reading": "ぶんたん",
+      "meaning": "taking on one's share (e.g. of work)"
+    },
+    {
+      "word": "担架",
+      "reading": "たんか",
+      "meaning": "stretcher"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ゲンを担ぐ",
+      "reading": "げんをかつぐ",
+      "meaning": "to be superstitious",
+      "type": "idiom"
+    },
+    {
+      "word": "お先棒を担ぐ",
+      "reading": "おさきぼうをかつぐ",
+      "meaning": "to be a willing cats-paw",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "乾燥",
+    "reading": "かんそう",
+    "romaji": "kansou",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "dryness",
+          "aridity",
+          "drying (e.g. clothes)",
+          "dehydration",
+          "desiccation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "insipidity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "乾かす",
+      "reading": "かわかす",
+      "meaning": "to dry (clothes, etc.)"
+    },
+    {
+      "word": "乾く",
+      "reading": "かわく",
+      "meaning": "to get dry"
+    },
+    {
+      "word": "乾電池",
+      "reading": "かんでんち",
+      "meaning": "dry cell battery"
+    },
+    {
+      "word": "乾杯",
+      "reading": "かんぱい",
+      "meaning": "cheers"
+    },
+    {
+      "word": "干す",
+      "reading": "ほす",
+      "meaning": "to air"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無味乾燥",
+      "reading": "むみかんそう",
+      "meaning": "dull",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

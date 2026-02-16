@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "通り",
+    "reading": "とおり",
+    "romaji": "toori",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "street",
+          "road",
+          "avenue",
+          "thoroughfare"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "traffic",
+          "coming and going"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flow (of water, air, etc.)",
+          "passage",
+          "running"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "transmission (of sound)",
+          "reach (of voice)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reputation",
+          "favor",
+          "favour",
+          "popularity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "traffic"
+    },
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "normal"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "commuting to work"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretation (i.e. oral translation)"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "commuting to school"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "信心過ぎて極楽を通り越す",
+      "reading": "しんじんすぎてごくらくをとおりこす",
+      "meaning": "faith is best in moderation",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "どうしても自分の思い通りにしたがるね。",
+      "reading": null,
+      "english": "You will have your own way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その通りだと思うよ。",
+      "reading": null,
+      "english": "I think you're right.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あなたの言う通りかもしれません。",
+      "reading": null,
+      "english": "You may be right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

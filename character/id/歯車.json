@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "歯車",
+    "reading": "はぐるま",
+    "romaji": "haguruma",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "roda gigi",
+          "roda bergerigi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "cog (in an organization, company, etc.)",
+          "cog in the machine"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "乗車",
+      "reading": "じょうしゃ",
+      "meaning": "naik kereta api, memasuki kereta"
+    },
+    {
+      "word": "車掌",
+      "reading": "しゃしょう",
+      "meaning": "konduktor (kereta api)"
+    },
+    {
+      "word": "車輪",
+      "reading": "しゃりん",
+      "meaning": "roda (mobil)"
+    },
+    {
+      "word": "停車",
+      "reading": "ていしゃ",
+      "meaning": "berhenti (misalnya, kereta api)"
+    },
+    {
+      "word": "機関車",
+      "reading": "きかんしゃ",
+      "meaning": "lokomotif, mesin"
+    },
+    {
+      "word": "下車",
+      "reading": "げしゃ",
+      "meaning": "turun, pergi"
+    },
+    {
+      "word": "車庫",
+      "reading": "しゃこ",
+      "meaning": "garasi, tempat parkir mobil"
+    },
+    {
+      "word": "歯磨き",
+      "reading": "はみがき",
+      "meaning": "menyikat gigi, pasta gigi"
+    },
+    {
+      "word": "虫歯",
+      "reading": "むしば",
+      "meaning": "gigi berlubang, kerusakan gigi"
+    },
+    {
+      "word": "汽車",
+      "reading": "きしゃ",
+      "meaning": "kereta api (uap)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "歯車が狂う",
+      "reading": "はぐるまがくるう",
+      "meaning": "to go wrong",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ここの小さな歯車がないんだ。",
+      "reading": null,
+      "indonesian": "A small gear is missing here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "歯車がかみ合っている。",
+      "reading": null,
+      "indonesian": "The cog-wheels are in gear.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "最後まで議論の歯車が噛み合わなかった。",
+      "reading": null,
+      "indonesian": "We were arguing on different planes to the last.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ここの小さな歯車がないんだ。",
+      "reading": null,
+      "indonesian": "A small gear is missing here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "最後まで議論の歯車が噛み合わなかった。",
+      "reading": null,
+      "indonesian": "We were arguing on different planes to the last.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "歯車がかみ合っている。",
+      "reading": null,
+      "indonesian": "The cog-wheels are in gear.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

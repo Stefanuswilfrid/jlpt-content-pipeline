@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "確り",
+    "reading": "しっかり",
+    "romaji": "shikkari",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "tightly (holding on)",
+          "firmly",
+          "securely"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "strongly (built)",
+          "solidly",
+          "sturdily",
+          "steadily"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "properly",
+          "well",
+          "sufficiently",
+          "hard (working, etc.)",
+          "fully",
+          "completely"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "reliably",
+          "dependably",
+          "levelheadedly",
+          "shrewdly",
+          "wisely",
+          "cleverly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "確か",
+      "reading": "たしか",
+      "meaning": "sure"
+    },
+    {
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "confirmation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ラケットをしっかりにぎりなさい。",
+      "reading": null,
+      "english": "Hold the racket tight.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なかなかしっかりやってるよ。",
+      "reading": null,
+      "english": "He fills the bill.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "トラをしっかりねらいなさい。",
+      "reading": null,
+      "english": "Take steady aim at the tiger.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

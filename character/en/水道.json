@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "水道",
+    "reading": "すいどう",
+    "romaji": "suidou",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "water supply",
+          "water service",
+          "waterworks",
+          "tap water"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "channel",
+          "strait"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "water course",
+          "waterway"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "柔道",
+      "reading": "じゅうどう",
+      "meaning": "judo"
+    },
+    {
+      "word": "水泳",
+      "reading": "すいえい",
+      "meaning": "swimming"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaning": "tool"
+    },
+    {
+      "word": "水",
+      "reading": "みず",
+      "meaning": "water (esp. cool or cold)"
+    },
+    {
+      "word": "道",
+      "reading": "みち",
+      "meaning": "road"
+    },
+    {
+      "word": "水準",
+      "reading": "すいじゅん",
+      "meaning": "level"
+    },
+    {
+      "word": "道路",
+      "reading": "どうろ",
+      "meaning": "road"
+    },
+    {
+      "word": "鉄道",
+      "reading": "てつどう",
+      "meaning": "railroad"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "水道がでています。",
+      "reading": null,
+      "english": "The tap is running.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

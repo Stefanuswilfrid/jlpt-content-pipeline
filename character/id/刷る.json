@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "刷る",
+    "reading": "する",
+    "romaji": "suru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mencetak"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to color or pattern fabric using a wooden mold"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 0,
+    "type": "heiban"
+  },
+  "related": [
+    {
+      "word": "印刷",
+      "reading": "いんさつ",
+      "meaning": "pencetakan"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "お土産",
+    "reading": "おみやげ",
+    "romaji": "omiyage",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "local specialty or souvenir bought as a gift while traveling (travelling)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "present brought by a visitor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "something unpleasant that one is given (e.g. an illness while on vacation)",
+          "unwelcome gift",
+          "disservice"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "産業",
+      "reading": "さんぎょう",
+      "meaning": "industry"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "production"
+    },
+    {
+      "word": "土産",
+      "reading": "みやげ",
+      "meaning": "local specialty or souvenir bought as a gift while travelling"
+    },
+    {
+      "word": "倒産",
+      "reading": "とうさん",
+      "meaning": "(corporate) bankruptcy"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

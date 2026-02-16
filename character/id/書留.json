@@ -1,0 +1,195 @@
+{
+  "definition": {
+    "word": "書留",
+    "reading": "かきとめ",
+    "romaji": "kakitome",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "pos tercatat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(putting on) record",
+          "writing down",
+          "noting down",
+          "registry"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "書籍",
+      "reading": "しょせき",
+      "meaning": "buku, publikasi"
+    },
+    {
+      "word": "投書",
+      "reading": "とうしょ",
+      "meaning": "surat kepada editor, surat dari pembaca, kontribusi"
+    },
+    {
+      "word": "清書",
+      "reading": "せいしょ",
+      "meaning": "salinan bersih"
+    },
+    {
+      "word": "留守番",
+      "reading": "るすばん",
+      "meaning": "pengasuhan, penjaga rumah, menjaga rumah"
+    },
+    {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "toko buku"
+    },
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "kaligrafi"
+    },
+    {
+      "word": "下書き",
+      "reading": "したがき",
+      "meaning": "draf kasar, rancangan awal"
+    },
+    {
+      "word": "書評",
+      "reading": "しょひょう",
+      "meaning": "ulasan buku"
+    },
+    {
+      "word": "図書",
+      "reading": "としょ",
+      "meaning": "buku"
+    },
+    {
+      "word": "辞書",
+      "reading": "じしょ",
+      "meaning": "kamus"
+    },
+    {
+      "word": "葉書",
+      "reading": "はがき",
+      "meaning": "kartu pos"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "これを書留で送ると何日くらいかかりますか。",
+      "reading": null,
+      "indonesian": "How many days will it take if I send this as registered mail?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これを書留でお願いします。",
+      "reading": null,
+      "indonesian": "I'd like to send this by registered mail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これを書留で送りたいのですが。",
+      "reading": null,
+      "indonesian": "I'd like to send this by registered mail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この小包を書留にしたいのですが。",
+      "reading": null,
+      "indonesian": "I'd like to have this parcel registered.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この手紙を書留にしてもらいたいのですが。",
+      "reading": null,
+      "indonesian": "I want this letter registered.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この手紙を書留にしたい。",
+      "reading": null,
+      "indonesian": "I want to have this letter registered.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この手紙を書留にしてほしいんです。",
+      "reading": null,
+      "indonesian": "I want to have this letter registered.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これを書留で送ると何日くらいかかりますか。",
+      "reading": null,
+      "indonesian": "How many days will it take if I send this as registered mail?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これを書留でお願いします。",
+      "reading": null,
+      "indonesian": "I'd like to send this by registered mail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これを書留でお願いします。",
+      "reading": null,
+      "indonesian": "Please send this by registered mail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この小包を書留にしたいのですが。",
+      "reading": null,
+      "indonesian": "I'd like to have this parcel registered.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この手紙を書留にしてもらいたいのですが。",
+      "reading": null,
+      "indonesian": "I want this letter registered.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この手紙を書留にしたい。",
+      "reading": null,
+      "indonesian": "I want to have this letter registered.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

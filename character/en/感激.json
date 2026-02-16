@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "感激",
+    "reading": "かんげき",
+    "romaji": "kangeki",
+    "jlpt": "N2",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "deep emotion",
+          "impression",
+          "inspiration"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "実感",
+      "reading": "じっかん",
+      "meaning": "real feeling"
+    },
+    {
+      "word": "感ずる",
+      "reading": "かんずる",
+      "meaning": "to feel"
+    },
+    {
+      "word": "激増",
+      "reading": "げきぞう",
+      "meaning": "sharp increase"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "thanks"
+    },
+    {
+      "word": "痛感",
+      "reading": "つうかん",
+      "meaning": "feeling keenly"
+    },
+    {
+      "word": "敏感",
+      "reading": "びんかん",
+      "meaning": "sensitive"
+    },
+    {
+      "word": "感じる",
+      "reading": "かんじる",
+      "meaning": "to feel"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "admiration"
+    },
+    {
+      "word": "共感",
+      "reading": "きょうかん",
+      "meaning": "sympathy"
+    },
+    {
+      "word": "感触",
+      "reading": "かんしょく",
+      "meaning": "feel (of something)"
+    },
+    {
+      "word": "激励",
+      "reading": "げきれい",
+      "meaning": "encouragement"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "恐懼感激",
+      "reading": "きょうくかんげき",
+      "meaning": "being struck with awe",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "トムは感激するだろう。",
+      "reading": null,
+      "english": "Tom will be thrilled.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムは感激するだろう。",
+      "reading": null,
+      "english": "Tom will be thrilled.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

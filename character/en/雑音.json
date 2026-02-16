@@ -1,0 +1,158 @@
+{
+  "definition": {
+    "word": "雑音",
+    "reading": "ざつおん",
+    "romaji": "zatsuon",
+    "jlpt": "N2",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "noise (usu. unpleasant)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "interference (e.g. radio)",
+          "static",
+          "noise"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gossip",
+          "irresponsible criticism"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "録音",
+      "reading": "ろくおん",
+      "meaning": "(audio) recording"
+    },
+    {
+      "word": "雑巾",
+      "reading": "ぞうきん",
+      "meaning": "house-cloth"
+    },
+    {
+      "word": "五十音",
+      "reading": "ごじゅうおん",
+      "meaning": "the Japanese syllabary"
+    },
+    {
+      "word": "音色",
+      "reading": "ねいろ",
+      "meaning": "tone color"
+    },
+    {
+      "word": "発音",
+      "reading": "はつおん",
+      "meaning": "pronunciation"
+    },
+    {
+      "word": "雑談",
+      "reading": "ざつだん",
+      "meaning": "chatting"
+    },
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "music"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ラジオに雑音が入る。",
+      "reading": null,
+      "english": "The radio is disturbed by noises.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その雑音は、私の神経にさわります。",
+      "reading": null,
+      "english": "The noise gets on my nerves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私の父は仕事中は雑音を一切好まない。",
+      "reading": null,
+      "english": "My father won't have any noise while he is at work.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "雑音のせいで仕事に集中できません。",
+      "reading": null,
+      "english": "I can't concentrate on my work because of the noise.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ラジオに雑音が入る。",
+      "reading": null,
+      "english": "The radio is disturbed by noises.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その雑音は、私の神経にさわります。",
+      "reading": null,
+      "english": "The noise gets on my nerves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雑音のせいで仕事に集中できません。",
+      "reading": null,
+      "english": "I can't concentrate on my work because of the noise.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私の父は仕事中は雑音を一切好まない。",
+      "reading": null,
+      "english": "My father won't have any noise while he is at work.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あぁ、お願いだから、その雑音を何とかして！",
+      "reading": null,
+      "english": "Oh, please, stop that noise!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あぁ、お願いだから、その雑音を何とかして！",
+      "reading": null,
+      "english": "Oh, please, stop that noise!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

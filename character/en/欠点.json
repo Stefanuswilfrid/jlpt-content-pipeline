@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "欠点",
+    "reading": "けってん",
+    "romaji": "ketten",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fault",
+          "defect",
+          "flaw",
+          "weak point",
+          "weakness",
+          "shortcoming",
+          "drawback"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "failure (in an examination)",
+          "failing grade"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaning": "absence"
+    },
+    {
+      "word": "視点",
+      "reading": "してん",
+      "meaning": "point of view"
+    },
+    {
+      "word": "欠陥",
+      "reading": "けっかん",
+      "meaning": "defect"
+    },
+    {
+      "word": "要点",
+      "reading": "ようてん",
+      "meaning": "gist"
+    },
+    {
+      "word": "頂点",
+      "reading": "ちょうてん",
+      "meaning": "vertex"
+    },
+    {
+      "word": "点数",
+      "reading": "てんすう",
+      "meaning": "marks"
+    },
+    {
+      "word": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "weak point"
+    },
+    {
+      "word": "交差点",
+      "reading": "こうさてん",
+      "meaning": "crossing"
+    },
+    {
+      "word": "満点",
+      "reading": "まんてん",
+      "meaning": "perfect score"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "急いで書かれたので、その本には欠点がたくさんある。",
+      "reading": null,
+      "english": "As it was written in haste, the book has many faults.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "愛が冷めると、欠点が多く目に付いてくる。",
+      "reading": null,
+      "english": "Faults are thick where love is thin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれはその男に欠点があるのでますます好きだ。",
+      "reading": null,
+      "english": "We love the man all the better for his faults.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

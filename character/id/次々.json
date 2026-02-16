@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "次々",
+    "reading": "つぎつぎ",
+    "romaji": "tsugitsugi",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "secara berurutan",
+          "satu per satu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "次第",
+      "reading": "しだい",
+      "meaning": "perintah; keadaan; segera"
+    },
+    {
+      "word": "次",
+      "reading": "つぎ",
+      "meaning": "Berikutnya"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "観光客は店を次々に見て回った。",
+      "reading": null,
+      "indonesian": "The tourists wandered around the stores.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスは次々と出発した。",
+      "reading": null,
+      "indonesian": "The buses left one after another.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "次々に立って出ていった。",
+      "reading": null,
+      "indonesian": "One after another they stood up and went out.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そして畑の中にたくさんの道路が次々とできました。",
+      "reading": null,
+      "indonesian": "More roads were made, and the countryside was divided into lots.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コンマで文を次々につないではいけない。",
+      "reading": null,
+      "indonesian": "Don't run on your sentences with commas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "木の葉が次々と地面に落ちた。",
+      "reading": null,
+      "indonesian": "Leaf after leaf fell to the ground.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

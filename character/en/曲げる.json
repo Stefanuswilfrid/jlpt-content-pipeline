@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "曲げる",
+    "reading": "まげる",
+    "romaji": "mageru",
+    "jlpt": "N2",
+    "frequency": 17250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bend",
+          "to crook",
+          "to bow",
+          "to curve",
+          "to curl"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lean",
+          "to tilt",
+          "to incline",
+          "to slant"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bend (the truth)",
+          "to distort",
+          "to twist",
+          "to pervert"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to yield (a point)",
+          "to depart (from a principle)",
+          "to ignore (what one really thinks)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pawn"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "作曲",
+      "reading": "さっきょく",
+      "meaning": "composition (of music)"
+    },
+    {
+      "word": "曲線",
+      "reading": "きょくせん",
+      "meaning": "curve"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "冠を曲げる",
+      "reading": "かんむりをまげる",
+      "meaning": "to become displeased",
+      "type": "idiom"
+    },
+    {
+      "word": "へそを曲げる",
+      "reading": "へそをまげる",
+      "meaning": "to (go into a) sulk",
+      "type": "idiom"
+    },
+    {
+      "word": "つむじを曲げる",
+      "reading": "つむじをまげる",
+      "meaning": "to be contrary",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

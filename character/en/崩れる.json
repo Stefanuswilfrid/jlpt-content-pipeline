@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "崩れる",
+    "reading": "くずれる",
+    "romaji": "kuzureru",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to collapse",
+          "to crumble"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get out of shape",
+          "to lose one's shape",
+          "to become disorganized",
+          "to become untidy"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to break down",
+          "to be thrown into disarray"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to crash (stock market)",
+          "to slump",
+          "to decline"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to break money into small change"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to turn bad (e.g. weather)",
+          "to change for the worse",
+          "to deteriorate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "崩壊",
+      "reading": "ほうかい",
+      "meaning": "collapse"
+    },
+    {
+      "word": "崩す",
+      "reading": "くずす",
+      "meaning": "to destroy"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "蟻の穴から堤も崩れる",
+      "reading": "ありのあなからつつみもくずれる",
+      "meaning": "a small leak will sink a great ship",
+      "type": "proverb"
+    },
+    {
+      "word": "千丈の堤も蟻の一穴より崩れる",
+      "reading": "せんじょうのつつみもありのいっけつよりくずれる",
+      "meaning": "a small leak will sink a great ship",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

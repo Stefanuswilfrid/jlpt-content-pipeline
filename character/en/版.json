@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "版",
+    "reading": "はん",
+    "romaji": "han",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "edition",
+          "version",
+          "printing",
+          "impression",
+          "implementation (of software)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "plate",
+          "block",
+          "cast"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for editions of a publication"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出版",
+      "reading": "しゅっぱん",
+      "meaning": "publication"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "版籍奉還",
+      "reading": "はんせきほうかん",
+      "meaning": "return of the land and people from the feudal lords to the Emperor",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

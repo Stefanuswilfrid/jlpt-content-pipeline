@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "医院",
+    "reading": "いいん",
+    "romaji": "iin",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "doctor's office",
+          "doctor's surgery",
+          "clinic"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "医療",
+      "reading": "いりょう",
+      "meaning": "medical treatment"
+    },
+    {
+      "word": "医師",
+      "reading": "いし",
+      "meaning": "doctor"
+    },
+    {
+      "word": "寺院",
+      "reading": "じいん",
+      "meaning": "Buddhist temple"
+    },
+    {
+      "word": "退院",
+      "reading": "たいいん",
+      "meaning": "leaving hospital"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もしもし、山田医院です。",
+      "reading": null,
+      "english": "Hello, this is Dr Yamada's surgery.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もしもし、山田医院です。",
+      "reading": null,
+      "english": "Hello, this is Dr Yamada's surgery.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

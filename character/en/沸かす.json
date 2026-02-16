@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "沸かす",
+    "reading": "わかす",
+    "romaji": "wakasu",
+    "jlpt": "N4",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to boil",
+          "to heat (a liquid)",
+          "to prepare (a bath, hot drink)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to excite",
+          "to rouse",
+          "to stir"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "沸く",
+      "reading": "わく",
+      "meaning": "to grow hot (e.g. water)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "へそで茶を沸かす",
+      "reading": "へそでちゃをわかす",
+      "meaning": "what a joke!",
+      "type": "idiom"
+    },
+    {
+      "word": "へそが茶を沸かす",
+      "reading": "へそがちゃをわかす",
+      "meaning": "what a joke!",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

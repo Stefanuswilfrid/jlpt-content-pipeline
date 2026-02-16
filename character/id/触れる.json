@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "触れる",
+    "reading": "ふれる",
+    "romaji": "fureru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menyentuh",
+          "meraba",
+          "melanggar"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to touch (with)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to experience",
+          "to come in contact with",
+          "to perceive"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to touch on (a subject)",
+          "to allude to",
+          "to refer to",
+          "to mention",
+          "to bring up"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be in conflict with",
+          "to violate (law, copyright, etc.)",
+          "to infringe"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to proclaim",
+          "to make known",
+          "to spread (e.g. a rumour)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "触る",
+      "reading": "さわる",
+      "meaning": "menyentuh, merasakan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "逆鱗に触れる",
+      "reading": "げきりんにふれる",
+      "meaning": "to infuriate one's superior",
+      "type": "idiom"
+    },
+    {
+      "word": "琴線に触れる",
+      "reading": "きんせんにふれる",
+      "meaning": "to strike a chord",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

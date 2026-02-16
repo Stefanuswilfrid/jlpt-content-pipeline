@@ -1,0 +1,155 @@
+{
+  "definition": {
+    "word": "大陸",
+    "reading": "たいりく",
+    "romaji": "tairiku",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "continent"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "continental Asia (esp. mainland China)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "continental Europe"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "拡大",
+      "reading": "かくだい",
+      "meaning": "expansion"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "mass meeting"
+    },
+    {
+      "word": "大統領",
+      "reading": "だいとうりょう",
+      "meaning": "president (of a country)"
+    },
+    {
+      "word": "大使",
+      "reading": "たいし",
+      "meaning": "ambassador"
+    },
+    {
+      "word": "重大",
+      "reading": "じゅうだい",
+      "meaning": "serious"
+    },
+    {
+      "word": "大臣",
+      "reading": "だいじん",
+      "meaning": "cabinet minister"
+    },
+    {
+      "word": "大半",
+      "reading": "たいはん",
+      "meaning": "majority"
+    },
+    {
+      "word": "巨大",
+      "reading": "きょだい",
+      "meaning": "huge"
+    },
+    {
+      "word": "大戦",
+      "reading": "たいせん",
+      "meaning": "great war"
+    },
+    {
+      "word": "大気",
+      "reading": "たいき",
+      "meaning": "atmosphere"
+    },
+    {
+      "word": "陸",
+      "reading": "りく",
+      "meaning": "land"
+    },
+    {
+      "word": "大部分",
+      "reading": "だいぶぶん",
+      "meaning": "most part"
+    },
+    {
+      "word": "莫大",
+      "reading": "ばくだい",
+      "meaning": "vast"
+    },
+    {
+      "word": "丘",
+      "reading": "おか",
+      "meaning": "hill"
+    },
+    {
+      "word": "大家",
+      "reading": "たいか",
+      "meaning": "master"
+    },
+    {
+      "word": "大家",
+      "reading": "おおや",
+      "meaning": "landlord"
+    },
+    {
+      "word": "大",
+      "reading": "だい",
+      "meaning": "large"
+    },
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "university"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "コロンブスは１４９２年にアメリカ大陸を発見した。",
+      "reading": null,
+      "english": "Columbus discovered America in 1492.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "オーストラリアは世界で最も小さい大陸である。",
+      "reading": null,
+      "english": "Australia is the smallest continent in the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アメリカ大陸は１４９２年にコロンブスによって発見された。",
+      "reading": null,
+      "english": "America was discovered by Columbus in 1492.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "残らず",
+    "reading": "のこらず",
+    "romaji": "nokorazu",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "all",
+          "entirely",
+          "completely",
+          "without exception"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "残酷",
+      "reading": "ざんこく",
+      "meaning": "cruel"
+    },
+    {
+      "word": "残る",
+      "reading": "のこる",
+      "meaning": "to remain"
+    },
+    {
+      "word": "名残",
+      "reading": "なごり",
+      "meaning": "remains"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "クラブ会員は１人残らずみな出席していた。",
+      "reading": null,
+      "english": "Each and every member of the club was present.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは私の夢を、残らず実現させてくれた。",
+      "reading": null,
+      "english": "You have made all my dreams come true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "秘密を残らず打ち明けなさい。",
+      "reading": null,
+      "english": "Make a clean breast of your secrets.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はその本を全編残らず読んだ。",
+      "reading": null,
+      "english": "I read the book from cover to cover.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

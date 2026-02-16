@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "ドライブ",
+    "reading": "ドライブ",
+    "romaji": "doraibu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "drive",
+          "trip by car",
+          "driving"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to (go for a) drive",
+          "to go on a trip by car"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drive (e.g. a car)"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drive (innovation, change, etc.)",
+          "to propel"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "drive"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "海までドライブしましょう。",
+      "reading": null,
+      "english": "Let's drive as far as the sea.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "わたしたちはこの前の日曜日に箱根へドライブに行きました。",
+      "reading": null,
+      "english": "We drove to Hakone last Sunday.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ドライブは休日のいい気晴らしだ。",
+      "reading": null,
+      "english": "Driving is a good holiday pastime.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ドライブはいかがですか。",
+      "reading": null,
+      "english": "How about going for a drive?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ドライブするのはどうですか。",
+      "reading": null,
+      "english": "How about going for a drive?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ドライブに行くのはどう。",
+      "reading": null,
+      "english": "What do you say to going for a drive?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

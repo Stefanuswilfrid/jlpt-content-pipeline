@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "裁判",
+    "reading": "さいばん",
+    "romaji": "saiban",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "pengadilan",
+          "penghakiman"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "penilaian, keputusan"
+    },
+    {
+      "word": "批判",
+      "reading": "ひはん",
+      "meaning": "kritik"
+    },
+    {
+      "word": "審判",
+      "reading": "しんぱん",
+      "meaning": "wasit, juri, penilaian"
+    },
+    {
+      "word": "評判",
+      "reading": "ひょうばん",
+      "meaning": "ketenaran, reputasi"
+    },
+    {
+      "word": "裁く",
+      "reading": "さばく",
+      "meaning": "untuk menilai"
+    },
+    {
+      "word": "判",
+      "reading": "はん",
+      "meaning": "ukuran (kertas atau buku)"
+    },
+    {
+      "word": "判事",
+      "reading": "はんじ",
+      "meaning": "hakim, keadilan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "欠席裁判",
+      "reading": "けっせきさいばん",
+      "meaning": "trial in absentia",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,153 @@
+{
+  "definition": {
+    "word": "礼",
+    "reading": "れい",
+    "romaji": "rei",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ungkapan rasa terima kasih; membungkuk"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "manners",
+          "etiquette"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "counter"
+        ],
+        "meanings": [
+          "bow (i.e. bending of the body)",
+          "bowing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reward",
+          "gift"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ceremony",
+          "ritual"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "key money"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "礼儀",
+      "reading": "れいぎ",
+      "meaning": "tata krama, kesopanan, etiket"
+    },
+    {
+      "word": "失礼",
+      "reading": "しつれい",
+      "meaning": "ketidaksopanan, kurang ajar; Permisi"
+    },
+    {
+      "word": "お礼",
+      "reading": "おれい",
+      "meaning": "ungkapan rasa terima kasih; berterima kasih; hadiah penghargaan; membungkuk"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "三顧の礼",
+      "reading": "さんこのれい",
+      "meaning": "showing (someone) special courtesy (to persuade them to take a post)",
+      "type": "idiom"
+    },
+    {
+      "word": "繁文縟礼",
+      "reading": "はんぶんじょくれい",
+      "meaning": "red-tapism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "慇懃無礼",
+      "reading": "いんぎんぶれい",
+      "meaning": "superficially polite but actually rude",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "傲岸無礼",
+      "reading": "ごうがんぶれい",
+      "meaning": "arrogance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "傲慢無礼",
+      "reading": "ごうまんぶれい",
+      "meaning": "(arrogance and) insolence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "克己復礼",
+      "reading": "こっきふくれい",
+      "meaning": "exercising self-restraint and conforming to the rules of etiquette and formality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "失礼千万",
+      "reading": "しつれいせんばん",
+      "meaning": "extremely rude (impertinent, impolite)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無礼千万",
+      "reading": "ぶれいせんばん",
+      "meaning": "extremely rude (impertinent, impolite)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "帰命頂礼",
+      "reading": "きみょうちょうらい",
+      "meaning": "most formal form of a prayer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "衣食足りて礼節を知る",
+      "reading": "いしょくたりてれいせつをしる",
+      "meaning": "well-fed, well-bred",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はなんて失礼なんだろう。",
+      "reading": null,
+      "indonesian": "How rude of you!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

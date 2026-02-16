@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "任せる",
+    "reading": "まかせる",
+    "romaji": "makaseru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to leave (a matter, decision, etc. to someone)",
+          "to entrust (to someone)",
+          "to entrust (someone) with"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to leave (to chance, one's imagination, etc.)",
+          "to let (take its own course)",
+          "to let (happen)",
+          "to give (oneself to something)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to use (money, strength, spare time, etc.) to the full",
+          "to use freely",
+          "to use without reserve"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "責任",
+      "reading": "せきにん",
+      "meaning": "duty"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "運を天に任せる",
+      "reading": "うんをてんにまかせる",
+      "meaning": "to leave to chance",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

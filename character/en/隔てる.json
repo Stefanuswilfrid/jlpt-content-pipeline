@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "隔てる",
+    "reading": "へだてる",
+    "romaji": "hedateru",
+    "jlpt": "N2",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to separate (by distance, time, etc.)",
+          "to isolate",
+          "to partition",
+          "to divide"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to interpose",
+          "to have between"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to alienate",
+          "to estrange"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "隔週",
+      "reading": "かくしゅう",
+      "meaning": "every other week"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

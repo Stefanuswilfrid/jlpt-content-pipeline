@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "擦る",
+    "reading": "こする",
+    "romaji": "kosuru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menggosok",
+          "menggesek"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to repeatedly reuse (a joke, a topic of conversation, etc.)",
+          "to milk",
+          "to keep getting mileage out of"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to mash (a button)",
+          "to spam (a move)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "摩擦",
+      "reading": "まさつ",
+      "meaning": "gesekan; penggosokan; lecet"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

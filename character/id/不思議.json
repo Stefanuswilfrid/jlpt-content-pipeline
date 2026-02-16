@@ -1,0 +1,150 @@
+{
+  "definition": {
+    "word": "不思議",
+    "reading": "ふしぎ",
+    "romaji": "fushigi",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "misteri",
+          "rasa ingin tahu"
+        ]
+      },
+      {
+        "pos": [
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "strangely enough",
+          "oddly enough",
+          "for some reason",
+          "curiously"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "ketidakbahagiaan, kesedihan, kemalangan"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "kekurangan, kelemahan"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "salah, buruk, tidak mungkin"
+    },
+    {
+      "word": "議員",
+      "reading": "ぎいん",
+      "meaning": "anggota parlemen, kongres, atau dewan"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "Diet, kongres, parlemen"
+    },
+    {
+      "word": "議長",
+      "reading": "ぎちょう",
+      "meaning": "ketua"
+    },
+    {
+      "word": "協議",
+      "reading": "きょうぎ",
+      "meaning": "konferensi, diskusi, negosiasi"
+    },
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "kecemasan, kegelisahan"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "kekurangan, kelangkaan"
+    },
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "ketidakpuasan, ketidakpuasan, keluhan"
+    },
+    {
+      "word": "意思",
+      "reading": "いし",
+      "meaning": "niat, tujuan"
+    },
+    {
+      "word": "議論",
+      "reading": "ぎろん",
+      "meaning": "argumen, diskusi, perselisihan"
+    },
+    {
+      "word": "思想",
+      "reading": "しそう",
+      "meaning": "pemikiran, ide"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "ketidakadilan, ketidaksetaraan"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaning": "kenangan, ingatan, masa lalu"
+    },
+    {
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "ketidaknyamanan, disabilitas, kesulitan"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "blokade, gangguan, penghentian"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "keluhan, ketidakpuasan, ketidakpuasan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "合うも不思議、合わぬも不思議",
+      "reading": "あうもふしぎ、あわぬもふしぎ",
+      "meaning": "dreams and fortune-telling are hit-and-miss",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君が失敗するなんて不思議だ。",
+      "reading": null,
+      "indonesian": "It is strange that you should fail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "不思議なことに、ドアはひとりでに開いた。",
+      "reading": null,
+      "indonesian": "Strange to say, the door opened of itself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

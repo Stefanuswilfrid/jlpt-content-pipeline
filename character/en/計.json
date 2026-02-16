@@ -1,0 +1,151 @@
+{
+  "definition": {
+    "word": "計",
+    "reading": "けい",
+    "romaji": "kei",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "plan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "meter",
+          "measuring device"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "(in) total",
+          "total (of)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "sum total"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "plan"
+    },
+    {
+      "word": "計算",
+      "reading": "けいさん",
+      "meaning": "calculation"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "accounting"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter"
+    },
+    {
+      "word": "統計",
+      "reading": "とうけい",
+      "meaning": "statistics"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "clock"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "plan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "三十六計",
+      "reading": "さんじゅうろっけい",
+      "meaning": "the 36 (ancient Chinese military) strategies (of which the last resort was said to be beating a retreat)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一年の計は元旦にあり",
+      "reading": "いちねんのけいはがんたんにあり",
+      "meaning": "the whole year's plans should be made on New Year's Day",
+      "type": "proverb"
+    },
+    {
+      "word": "三十六計逃げるに如かず",
+      "reading": "さんじゅうろっけいにげるにしかず",
+      "meaning": "the smartest thing in a tight situation is to beat a retreat",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は最初の計画を実行すべきだ。",
+      "reading": null,
+      "english": "You should carry out his offer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は計画を中止したほうがよい。",
+      "reading": null,
+      "english": "You had better call off your plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は計画を取りやめたほうがよい。",
+      "reading": null,
+      "english": "You had better call off your plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその計画をやり通さなければならない。",
+      "reading": null,
+      "english": "You must go through with your plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは計画をやり通さなければならない。",
+      "reading": null,
+      "english": "You must go through with your plan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその計画を予定通り実行すべきだ。",
+      "reading": null,
+      "english": "You should carry out the plan on schedule.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

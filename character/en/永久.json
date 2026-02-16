@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "永久",
+    "reading": "えいきゅう",
+    "romaji": "eikyuu",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "eternity",
+          "permanence",
+          "perpetuity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Eikyū era (1113.7.13-1118.4.3)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "永遠",
+      "reading": "えいえん",
+      "meaning": "eternity"
+    },
+    {
+      "word": "久しぶり",
+      "reading": "ひさしぶり",
+      "meaning": "a long time (since the last time)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "永久不変",
+      "reading": "えいきゅうふへん",
+      "meaning": "permanence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "永久就職",
+      "reading": "えいきゅうしゅうしょく",
+      "meaning": "marrying to become a housewife",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

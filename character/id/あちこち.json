@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "彼方此方",
+    "reading": "あちこち",
+    "romaji": "achikochi",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pronoun",
+          "adverb (fukushi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "di sana sini"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "muddled",
+          "confused",
+          "in the wrong order",
+          "back to front"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方々",
+      "reading": "かたがた",
+      "meaning": "di sana sini, di mana-mana"
+    },
+    {
+      "word": "味方",
+      "reading": "みかた",
+      "meaning": "sekutu, pendukung"
+    },
+    {
+      "word": "方々",
+      "reading": "ほうぼう",
+      "meaning": "di sana sini, di mana-mana"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "di sisi lain; sementara itu"
+    },
+    {
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "arah, jalur, jalan"
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "metode, cara, teknik"
+    },
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "arah; area"
+    },
+    {
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "sore menjelang malam (biasanya tepat sebelum waktu makan malam), malam hari"
+    },
+    {
+      "word": "両方",
+      "reading": "りょうほう",
+      "meaning": "kedua belah pihak, kedua partai"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ブラスバンドは、街のあちこちを行進した。",
+      "reading": null,
+      "indonesian": "The brass band marched around the town.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この花は北海道のあちこちで見られる。",
+      "reading": null,
+      "indonesian": "This flower is found in different parts of Hokkaido.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アヒル達は池のあちこちを泳いでいた。",
+      "reading": null,
+      "indonesian": "Ducks were swimming about on the pond.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あてもなくあちこちを歩き回った。",
+      "reading": null,
+      "indonesian": "I walked aimlessly about the street.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あちこちにヒナギクが群生している。",
+      "reading": null,
+      "indonesian": "There are clumps of daisies here and there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

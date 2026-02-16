@@ -1,0 +1,154 @@
+{
+  "definition": {
+    "word": "会員",
+    "reading": "かいいん",
+    "romaji": "kaiin",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "anggota",
+          "keanggotaan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "Diet, kongres, parlemen"
+    },
+    {
+      "word": "国会",
+      "reading": "こっかい",
+      "meaning": "Parlemen nasional, parlemen, kongres"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "konvensi, turnamen (besar), pertemuan massal"
+    },
+    {
+      "word": "委員",
+      "reading": "いいん",
+      "meaning": "anggota komite"
+    },
+    {
+      "word": "議員",
+      "reading": "ぎいん",
+      "meaning": "anggota parlemen, kongres, atau dewan"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "pertemuan, majelis"
+    },
+    {
+      "word": "全員",
+      "reading": "ぜんいん",
+      "meaning": "semua anggota"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "akun, keuangan"
+    },
+    {
+      "word": "都会",
+      "reading": "とかい",
+      "meaning": "kota"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "pertemuan, kencan, perjumpaan"
+    },
+    {
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "rapat bisnis; konferensi"
+    },
+    {
+      "word": "会社",
+      "reading": "かいしゃ",
+      "meaning": "perusahaan, korporasi"
+    },
+    {
+      "word": "社会",
+      "reading": "しゃかい",
+      "meaning": "masyarakat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "会員は全部で３０名だった。",
+      "reading": null,
+      "indonesian": "The members numbered thirty, all told.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会員は全員出席した。",
+      "reading": null,
+      "indonesian": "All the members were present.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会員は各人発言をもとめられた。",
+      "reading": null,
+      "indonesian": "Each member was called upon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会員はみんなその会に出席していましたか。",
+      "reading": null,
+      "indonesian": "Were all the members present at the meeting?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会員はみんなその会に出席していました。",
+      "reading": null,
+      "indonesian": "All the members were present at the meeting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会員の名前をひとりひとりあげてください。",
+      "reading": null,
+      "indonesian": "Mention each member by name, please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会員の名前をいつ登録したのか。",
+      "reading": null,
+      "indonesian": "When did they register the names of the members?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのクラブには５０人以上の会員がいる。",
+      "reading": null,
+      "indonesian": "The club has more than fifty members.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

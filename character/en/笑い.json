@@ -1,0 +1,138 @@
+{
+  "definition": {
+    "word": "笑い",
+    "reading": "わらい",
+    "romaji": "warai",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "laugh",
+          "laughter"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "smile"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sneer"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sex aids (e.g. dildos, pornographic books, erotic woodblock prints, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "笑顔",
+      "reading": "えがお",
+      "meaning": "smiling face"
+    },
+    {
+      "word": "微笑む",
+      "reading": "ほほえむ",
+      "meaning": "to smile"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "猿の尻笑い",
+      "reading": "さるのしりわらい",
+      "meaning": "the pot calling the kettle black",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "最後に笑う者の笑いが最上。",
+      "reading": null,
+      "english": "He laughs best who laughs last.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は町中の笑いものだっていうことを知らないのか。",
+      "reading": null,
+      "english": "Don't you know that you are the laughingstock of the whole town?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の笑い方好きだな。",
+      "reading": null,
+      "english": "I like the way you smile.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君なんかに笑い者にされはしないぞ。",
+      "reading": null,
+      "english": "You should not play a joke on me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "急に笑い出さないでよ。不気味だから。",
+      "reading": null,
+      "english": "Don't burst out laughing like that. It's creepy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーは今にも笑いだしそうだった。",
+      "reading": null,
+      "english": "Mary was about to burst out laughing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "みんなドッと笑い出した。",
+      "reading": null,
+      "english": "Everyone burst into laughter.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "マイクが笑います。",
+      "reading": null,
+      "english": "Mike laughs.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ドラえもんがよくにっこり笑います。",
+      "reading": null,
+      "english": "Doraemon often smiles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

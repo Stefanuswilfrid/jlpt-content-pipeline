@@ -1,0 +1,162 @@
+{
+  "definition": {
+    "word": "足元",
+    "reading": "あしもと",
+    "romaji": "ashimoto",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "di kaki seseorang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gait",
+          "pace",
+          "step"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "most recent",
+          "current"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "元日",
+      "reading": "がんじつ",
+      "meaning": "Hari Tahun Baru"
+    },
+    {
+      "word": "足跡",
+      "reading": "あしあと",
+      "meaning": "tapak"
+    },
+    {
+      "word": "遠足",
+      "reading": "えんそく",
+      "meaning": "perjalanan, mendaki, piknik"
+    },
+    {
+      "word": "元々",
+      "reading": "もともと",
+      "meaning": "pada awalnya, secara alami, sejak awal"
+    },
+    {
+      "word": "発足",
+      "reading": "ほっそく",
+      "meaning": "permulaan, pelantikan"
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaning": "kepuasan"
+    },
+    {
+      "word": "元",
+      "reading": "もと",
+      "meaning": "asal, asli; sebelumnya"
+    },
+    {
+      "word": "元首",
+      "reading": "げんしゅ",
+      "meaning": "penguasa, raja"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "sehat, energik"
+    },
+    {
+      "word": "還元",
+      "reading": "かんげん",
+      "meaning": "resolusi, pengurangan, pengembalian"
+    },
+    {
+      "word": "元年",
+      "reading": "がんねん",
+      "meaning": "tahun pertama (dari masa pemerintahan tertentu)"
+    },
+    {
+      "word": "手元",
+      "reading": "てもと",
+      "meaning": "(uang) yang ada di tangan atau di rumah, dompet seseorang; keterampilan biasa"
+    },
+    {
+      "word": "裸足",
+      "reading": "はだし",
+      "meaning": "bertelanjang kaki"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足元を見る",
+      "reading": "あしもとをみる",
+      "meaning": "to take advantage (e.g. of a weak situation)",
+      "type": "idiom"
+    },
+    {
+      "word": "足元から鳥が立つ",
+      "reading": "あしもとからとりがたつ",
+      "meaning": "for something unexpected to happen (to someone or something one is close to)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "階段をおりる時には足元に気をつけなさい。",
+      "reading": null,
+      "indonesian": "Watch your step when going down the stairs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "飲み過ぎて、なんか足元がフラフラする。",
+      "reading": null,
+      "indonesian": "I drank too much and the ground seemed to spin under my feet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "暗い道では足元に気をつけなさい。",
+      "reading": null,
+      "indonesian": "Watch your step in dark alleys.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつも地下鉄を使っているなら足元より高くなることはない。",
+      "reading": null,
+      "indonesian": "If you always travel by subway, you seldom surface other than at your stop.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "電車に乗るときは足元に気をつけなさい。",
+      "reading": null,
+      "indonesian": "Watch your step when you get on the train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

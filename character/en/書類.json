@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "書類",
+    "reading": "しょるい",
+    "romaji": "shorui",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "document",
+          "papers"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "textbook"
+    },
+    {
+      "word": "人類",
+      "reading": "じんるい",
+      "meaning": "mankind"
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "reading (books)"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaning": "variety"
+    },
+    {
+      "word": "図書",
+      "reading": "としょ",
+      "meaning": "books"
+    },
+    {
+      "word": "文",
+      "reading": "ふみ",
+      "meaning": "letter"
+    },
+    {
+      "word": "書物",
+      "reading": "しょもつ",
+      "meaning": "book"
+    },
+    {
+      "word": "書斎",
+      "reading": "しょさい",
+      "meaning": "study"
+    },
+    {
+      "word": "書店",
+      "reading": "しょてん",
+      "meaning": "bookshop"
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "library"
+    },
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "calligraphy (esp. Asian calligraphy based on Chinese characters)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君が話してくれたので、やっとこの書類の重要さがわかった。",
+      "reading": null,
+      "english": "I hadn't recognized the importance of this document until you told me about it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "金庫の中の書類が消えてなくなっている。",
+      "reading": null,
+      "english": "The papers that were in the safe are gone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうかこの書類に目を通してくださいませんか。",
+      "reading": null,
+      "english": "Would you please have a look at this document?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こちらの書類に目を通していただきたいのですが。",
+      "reading": null,
+      "english": "Would you please have a look at this document?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その新しい書類システムは４０００ドル相当のものだ。",
+      "reading": null,
+      "english": "The new document system is worth $4,000.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

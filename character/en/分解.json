@@ -1,0 +1,264 @@
+{
+  "definition": {
+    "word": "分解",
+    "reading": "ぶんかい",
+    "romaji": "bunkai",
+    "jlpt": "N2",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "disassembly",
+          "dismantling",
+          "disaggregating",
+          "taking apart",
+          "breaking up",
+          "analysis",
+          "parsing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "decomposition",
+          "resolution",
+          "disintegration",
+          "degradation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "factorization"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "分数",
+      "reading": "ぶんすう",
+      "meaning": "fraction"
+    },
+    {
+      "word": "水分",
+      "reading": "すいぶん",
+      "meaning": "water"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "division"
+    },
+    {
+      "word": "分布",
+      "reading": "ぶんぷ",
+      "meaning": "distribution"
+    },
+    {
+      "word": "分類",
+      "reading": "ぶんるい",
+      "meaning": "classification"
+    },
+    {
+      "word": "解答",
+      "reading": "かいとう",
+      "meaning": "answer"
+    },
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "breaking up (a meeting, gathering, etc.)"
+    },
+    {
+      "word": "解放",
+      "reading": "かいほう",
+      "meaning": "release"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "explanation"
+    },
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaning": "ingredient"
+    },
+    {
+      "word": "身分",
+      "reading": "みぶん",
+      "meaning": "(social) standing"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "amount"
+    },
+    {
+      "word": "幾分",
+      "reading": "いくぶん",
+      "meaning": "somewhat"
+    },
+    {
+      "word": "等分",
+      "reading": "とうぶん",
+      "meaning": "division into equal parts"
+    },
+    {
+      "word": "養分",
+      "reading": "ようぶん",
+      "meaning": "nutrient"
+    },
+    {
+      "word": "何分",
+      "reading": "なにぶん",
+      "meaning": "some"
+    },
+    {
+      "word": "何分",
+      "reading": "なんぷん",
+      "meaning": "what minute"
+    },
+    {
+      "word": "分配",
+      "reading": "ぶんぱい",
+      "meaning": "division"
+    },
+    {
+      "word": "分かれる",
+      "reading": "わかれる",
+      "meaning": "to branch"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私はラジオを修理するために分解した。",
+      "reading": null,
+      "english": "I took the radio apart to repair it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "プリズムは光を分解する。",
+      "reading": null,
+      "english": "A prism decomposes light.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その男の子はラジオを分解した。",
+      "reading": null,
+      "english": "The boy took the radio apart.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その子供は時計を面白がって分解した。",
+      "reading": null,
+      "english": "He took the clock apart just for fun.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その機械を分解してみよう。",
+      "reading": null,
+      "english": "Let's analyze the machine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この液体は３つの要素に分解できる。",
+      "reading": null,
+      "english": "This liquid can be resolved into three elements.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "熱がこの化学薬品を無害な気体に分解するだろう。",
+      "reading": null,
+      "english": "Heat will break this chemical down into harmless gases.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "水は酸素と水素に分解できる。",
+      "reading": null,
+      "english": "Water can be decomposed into oxygen and hydrogen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "時計を分解するのは組み立てるより簡単だ。",
+      "reading": null,
+      "english": "Taking a watch apart is easier than putting it together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "光線はプリズムによって七色に分解される。",
+      "reading": null,
+      "english": "Light is resolved by a prism into seven colors.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はラジオを修理するために分解した。",
+      "reading": null,
+      "english": "I took the radio apart to repair it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "プリズムは光を分解する。",
+      "reading": null,
+      "english": "A prism decomposes light.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その男の子はラジオを分解した。",
+      "reading": null,
+      "english": "The boy took the radio apart.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その子供は時計を面白がって分解した。",
+      "reading": null,
+      "english": "He took the clock apart just for fun.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

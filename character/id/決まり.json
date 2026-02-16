@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "決まり",
+    "reading": "きまり",
+    "romaji": "kimari",
+    "jlpt": "N3",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "penyelesaian",
+          "kesimpulan",
+          "aturan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "settlement",
+          "conclusion",
+          "end",
+          "agreement",
+          "arrangement"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "habit",
+          "custom",
+          "habitual way"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "countenance in front of another person",
+          "face"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "penyelesaian, solusi, resolusi"
+    },
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "keputusan, penetapan"
+    },
+    {
+      "word": "決心",
+      "reading": "けっしん",
+      "meaning": "tekad, resolusi"
+    },
+    {
+      "word": "決行",
+      "reading": "けっこう",
+      "meaning": "melakukan (dengan tekad), melaksanakan (misalnya, sebuah rencana)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学校の決まりは守らないといけないぞ。",
+      "reading": null,
+      "indonesian": "You must follow school rules.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ルームメイトは決まりましたか？",
+      "reading": null,
+      "indonesian": "Has my roommate been decided?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ナイフとフォークの使い方には決まりがある。",
+      "reading": null,
+      "indonesian": "There is a rule concerning the use of knives and forks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その会議は来週に決まりました。",
+      "reading": null,
+      "indonesian": "The meeting has been fixed for next week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これで決まりだ。",
+      "reading": null,
+      "indonesian": "This is it.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ご注文はお決まりですか？",
+      "reading": null,
+      "indonesian": "Are you ready to order?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご注文はお決まりですか？",
+      "reading": null,
+      "indonesian": "Are you ready to order now?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご希望のプランが決まりましたら文書でお知らせ下さい。",
+      "reading": null,
+      "indonesian": "When you decide which plan you want, please notify us in writing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

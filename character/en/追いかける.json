@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "追いかける",
+    "reading": "おいかける",
+    "romaji": "oikakeru",
+    "jlpt": "N2",
+    "frequency": 10000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to chase",
+          "to run after",
+          "to pursue"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "subsequently",
+          "following that",
+          "(and) then"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "追加",
+      "reading": "ついか",
+      "meaning": "addition"
+    },
+    {
+      "word": "追い越す",
+      "reading": "おいこす",
+      "meaning": "to pass (e.g. car)"
+    },
+    {
+      "word": "追い出す",
+      "reading": "おいだす",
+      "meaning": "to expel"
+    },
+    {
+      "word": "追い込む",
+      "reading": "おいこむ",
+      "meaning": "to herd"
+    },
+    {
+      "word": "追う",
+      "reading": "おう",
+      "meaning": "to chase"
+    },
+    {
+      "word": "追及",
+      "reading": "ついきゅう",
+      "meaning": "investigation (e.g. into someone's guilt)"
+    },
+    {
+      "word": "追放",
+      "reading": "ついほう",
+      "meaning": "exile"
+    },
+    {
+      "word": "追跡",
+      "reading": "ついせき",
+      "meaning": "chase"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "犬はなぜリスを追いかけるの？",
+      "reading": null,
+      "english": "Why do dogs chase squirrels?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうして犬がリスを追いかけるの？",
+      "reading": null,
+      "english": "Why do dogs chase squirrels?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "犬はなぜリスを追いかけるの？",
+      "reading": null,
+      "english": "Why do dogs chase squirrels?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どうして犬がリスを追いかけるの？",
+      "reading": null,
+      "english": "Why do dogs chase squirrels?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "definition": {
+    "word": "国会",
+    "reading": "こっかい",
+    "romaji": "kokkai",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Parlemen nasional",
+          "parlemen",
+          "kongres"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Imperial Diet",
+          "legislative assembly of Japan (1889-1947)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "legislative assembly",
+          "parliament",
+          "congress"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "国家",
+      "reading": "こっか",
+      "meaning": "negara bagian, negara, bangsa"
+    },
+    {
+      "word": "国民",
+      "reading": "こくみん",
+      "meaning": "nasional, rakyat, warga negara"
+    },
+    {
+      "word": "全国",
+      "reading": "ぜんこく",
+      "meaning": "seluruh bangsa, di seluruh negeri, di seluruh negara"
+    },
+    {
+      "word": "会員",
+      "reading": "かいいん",
+      "meaning": "anggota, keanggotaan"
+    },
+    {
+      "word": "議会",
+      "reading": "ぎかい",
+      "meaning": "Diet, kongres, parlemen"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "konvensi, turnamen (besar), pertemuan massal"
+    },
+    {
+      "word": "国境",
+      "reading": "こっきょう",
+      "meaning": "perbatasan nasional atau negara bagian"
+    },
+    {
+      "word": "国籍",
+      "reading": "こくせき",
+      "meaning": "kebangsaan"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "pertemuan, majelis"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "akun, keuangan"
+    },
+    {
+      "word": "都会",
+      "reading": "とかい",
+      "meaning": "kota"
+    },
+    {
+      "word": "国語",
+      "reading": "こくご",
+      "meaning": "bahasa nasional"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "pertemuan, kencan, perjumpaan"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "negara asing; luar negeri"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "orang asing"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "火曜日に国会が開かれる。",
+      "reading": null,
+      "indonesian": "The Diet will meet on Tuesday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その日は国会の法令によって祝日になった。",
+      "reading": null,
+      "indonesian": "That day was made a holiday by an act of the diet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "イギリス国会は下院と上院とに分かれている。",
+      "reading": null,
+      "indonesian": "The British Parliament is divided into the House of Commons and the House of Lords.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

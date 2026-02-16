@@ -1,0 +1,203 @@
+{
+  "definition": {
+    "word": "他人",
+    "reading": "たにん",
+    "romaji": "tanin",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "orang yang tidak ada hubungan",
+          "orang asing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unrelated person (i.e. not related by blood)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "outsider",
+          "stranger"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "individu, orang pribadi"
+    },
+    {
+      "word": "人間",
+      "reading": "にんげん",
+      "meaning": "manusia, orang"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "tanda kehidupan"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(kehidupan) manusia (misalnya, dari konsepsi hingga kematian)"
+    },
+    {
+      "word": "人物",
+      "reading": "じんぶつ",
+      "meaning": "karakter, kepribadian, pria berbakat"
+    },
+    {
+      "word": "夫人",
+      "reading": "ふじん",
+      "meaning": "istri, Nyonya, perempuan"
+    },
+    {
+      "word": "本人",
+      "reading": "ほんにん",
+      "meaning": "orang itu sendiri"
+    },
+    {
+      "word": "友人",
+      "reading": "ゆうじん",
+      "meaning": "teman (formal)"
+    },
+    {
+      "word": "老人",
+      "reading": "ろうじん",
+      "meaning": "orang tua, lansia"
+    },
+    {
+      "word": "他",
+      "reading": "た",
+      "meaning": "lainnya (terutama tempat dan benda)"
+    },
+    {
+      "word": "人類",
+      "reading": "じんるい",
+      "meaning": "umat manusia, kemanusiaan"
+    },
+    {
+      "word": "婦人",
+      "reading": "ふじん",
+      "meaning": "wanita (sama seperti 女性 (じょせい)、女の人 (おんなのひと))"
+    },
+    {
+      "word": "名人",
+      "reading": "めいじん",
+      "meaning": "master, ahli"
+    },
+    {
+      "word": "人工",
+      "reading": "じんこう",
+      "meaning": "buatan, hasil karya manusia, pekerjaan manusia"
+    },
+    {
+      "word": "人種",
+      "reading": "じんしゅ",
+      "meaning": "ras (manusia)"
+    },
+    {
+      "word": "犯人",
+      "reading": "はんにん",
+      "meaning": "pelaku kejahatan, kriminal"
+    },
+    {
+      "word": "詩人",
+      "reading": "しじん",
+      "meaning": "penyair"
+    },
+    {
+      "word": "故人",
+      "reading": "こじん",
+      "meaning": "almarhum"
+    },
+    {
+      "word": "成人",
+      "reading": "せいじん",
+      "meaning": "dewasa"
+    },
+    {
+      "word": "恋人",
+      "reading": "こいびと",
+      "meaning": "kekasih; pacar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "他人行儀",
+      "reading": "たにんぎょうぎ",
+      "meaning": "standing on formality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "親の欲目と他人の僻目",
+      "reading": "おやのよくめとたにんのひがめ",
+      "meaning": "parents overvaluing their own children but looking down on others'",
+      "type": "proverb"
+    },
+    {
+      "word": "他人の不幸は蜜の味",
+      "reading": "たにんのふこうはみつのあじ",
+      "meaning": "the misfortune of others tastes as sweet as honey",
+      "type": "proverb"
+    },
+    {
+      "word": "兄弟は他人の始まり",
+      "reading": "きょうだいはたにんのはじまり",
+      "meaning": "even siblings turn into strangers",
+      "type": "proverb"
+    },
+    {
+      "word": "遠くの親類より近くの他人",
+      "reading": "とおくのしんるいよりちかくのたにん",
+      "meaning": "a neighbour is better than a relative living far",
+      "type": "proverb"
+    },
+    {
+      "word": "遠くの親戚より近くの他人",
+      "reading": "とおくのしんせきよりちかくのたにん",
+      "meaning": "a neighbour is better than a relative living far",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は他人のあらさがしをしすぎるよ。",
+      "reading": null,
+      "indonesian": "You are too critical of others' shortcomings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "他人の事はほうっておいてくれ。",
+      "reading": null,
+      "indonesian": "Mind your own business!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "外見で他人をごまかす。",
+      "reading": null,
+      "indonesian": "He deceives others with his appearance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

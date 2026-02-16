@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "時期",
+    "reading": "じき",
+    "romaji": "jiki",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "waktu",
+          "musim",
+          "periode"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "pada saat itu, pada hari-hari itu (sama dengan そのころ)"
+    },
+    {
+      "word": "同時",
+      "reading": "どうじ",
+      "meaning": "serentak, pada waktu yang sama"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "untuk sementara waktu, sementara"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "periode, jangka waktu"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaning": "harapan, antisipasi, cita-cita"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "jangka waktu yang lama"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "batas waktu, istilah"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "jangka waktu tetap"
+    },
+    {
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "penundaan, pengunduran"
+    },
+    {
+      "word": "時刻",
+      "reading": "じこく",
+      "meaning": "waktu, jam"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "istilah (sekolah)"
+    },
+    {
+      "word": "予期",
+      "reading": "よき",
+      "meaning": "harapan, perkiraan"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "waktu"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "zaman, periode, masa, era"
+    },
+    {
+      "word": "臨時",
+      "reading": "りんじ",
+      "meaning": "sementara, khusus, luar biasa"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "時期尚早",
+      "reading": "じきしょうそう",
+      "meaning": "premature",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は新しい車を買う時期ですよ。",
+      "reading": null,
+      "indonesian": "It's time for you to buy a new car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は新しい仕事を始める時期だ。",
+      "reading": null,
+      "indonesian": "It is high time you started a new business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一時期は、コーラにはまって、毎日のように飲んでたよ。",
+      "reading": null,
+      "indonesian": "For a while, I was really into cola, drinking it every day.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医者が人の死ぬ時期を決めるのは正しいことでしょうか。",
+      "reading": null,
+      "indonesian": "Is it right for a doctor to decide when someone should die?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ところで、もう本当の話がされてもいい時期だと思うよ。",
+      "reading": null,
+      "indonesian": "Well, I think it's time the real story was told.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

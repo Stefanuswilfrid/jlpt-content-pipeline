@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "基づく",
+    "reading": "もとづく",
+    "romaji": "motozuku",
+    "jlpt": "N3",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be based (on)",
+          "to be founded (on)",
+          "to be grounded (on)",
+          "to be in accordance (with)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be due to",
+          "to come (from)",
+          "to arise (from)",
+          "to originate (in)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "基本",
+      "reading": "きほん",
+      "meaning": "basics"
+    },
+    {
+      "word": "元",
+      "reading": "もと",
+      "meaning": "origin"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

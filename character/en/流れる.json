@@ -1,0 +1,224 @@
+{
+  "definition": {
+    "word": "流れる",
+    "reading": "ながれる",
+    "romaji": "nagareru",
+    "jlpt": "N3",
+    "frequency": 23250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stream",
+          "to flow (liquid, time, etc.)",
+          "to run (ink)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be washed away",
+          "to be carried"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to drift",
+          "to float (e.g. clouds)",
+          "to wander",
+          "to stray"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to sweep (e.g. rumour, fire)",
+          "to spread",
+          "to circulate"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be heard (e.g. music)",
+          "to be played"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to lapse (e.g. into indolence, despair)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to pass",
+          "to elapse",
+          "to be transmitted"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be called off",
+          "to be forfeited"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "fashion"
+    },
+    {
+      "word": "流す",
+      "reading": "ながす",
+      "meaning": "to drain"
+    },
+    {
+      "word": "流行る",
+      "reading": "はやる",
+      "meaning": "to be popular"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "exchange (e.g. cultural)"
+    },
+    {
+      "word": "合流",
+      "reading": "ごうりゅう",
+      "meaning": "confluence (of rivers)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "血が流れる",
+      "reading": "ちがながれる",
+      "meaning": "blood flows",
+      "type": "idiom"
+    },
+    {
+      "word": "深い川は静かに流れる",
+      "reading": "ふかいかわはしずかにながれる",
+      "meaning": "still waters run deep",
+      "type": "proverb"
+    },
+    {
+      "word": "静かに流れる川は深い",
+      "reading": "しずかにながれるかわはふかい",
+      "meaning": "still waters run deep",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "静かに流れる川は深い。",
+      "reading": null,
+      "english": "Still waters run deep.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その川は町をとおって流れる。",
+      "reading": null,
+      "english": "The river flows through the town.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その川はゆっくりと海まで流れる。",
+      "reading": null,
+      "english": "The river flows slowly to the sea.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アルフォンスが空を見上げたまま、速く流れる雲を見つめていた。",
+      "reading": null,
+      "english": "Alphonse looked at the racing clouds, his eyes turned to the sky.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "静かに流れる川は深い。",
+      "reading": null,
+      "english": "Still waters run deep.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水は低きに流れる。",
+      "reading": null,
+      "english": "Water finds its own level.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "小川がさらさらと流れる音が聞こえる。",
+      "reading": null,
+      "english": "We can hear a brook murmuring.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "血は血管の中を流れる。",
+      "reading": null,
+      "english": "Blood runs in the veins.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その川は町をとおって流れる。",
+      "reading": null,
+      "english": "The river flows through the town.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その川はゆっくりと海まで流れる。",
+      "reading": null,
+      "english": "The river flows slowly to the sea.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

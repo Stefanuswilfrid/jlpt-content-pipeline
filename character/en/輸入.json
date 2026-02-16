@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "輸入",
+    "reading": "ゆにゅう",
+    "romaji": "yunyuu",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "import",
+          "importation",
+          "introduction"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "afferent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "輸出",
+      "reading": "ゆしゅつ",
+      "meaning": "export"
+    },
+    {
+      "word": "入院",
+      "reading": "にゅういん",
+      "meaning": "hospitalization"
+    },
+    {
+      "word": "入学",
+      "reading": "にゅうがく",
+      "meaning": "admission (to a school or university)"
+    },
+    {
+      "word": "収入",
+      "reading": "しゅうにゅう",
+      "meaning": "income"
+    },
+    {
+      "word": "入場",
+      "reading": "にゅうじょう",
+      "meaning": "entrance"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

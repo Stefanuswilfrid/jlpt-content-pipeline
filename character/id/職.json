@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "職",
+    "reading": "しょく",
+    "romaji": "shoku",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "pekerjaan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "duties"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "trade",
+          "skill"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "就職",
+      "reading": "しゅうしょく",
+      "meaning": "mencari pekerjaan"
+    },
+    {
+      "word": "職業",
+      "reading": "しょくぎょう",
+      "meaning": "pekerjaan, bisnis"
+    },
+    {
+      "word": "組織",
+      "reading": "そしき",
+      "meaning": "organisasi; struktur; jaringan"
+    },
+    {
+      "word": "職場",
+      "reading": "しょくば",
+      "meaning": "tempat kerja"
+    },
+    {
+      "word": "職人",
+      "reading": "しょくにん",
+      "meaning": "pengrajin, tukang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "有職故実",
+      "reading": "ゆうそくこじつ",
+      "meaning": "studies in usages and practices of the ancient court and military households",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "職権乱用",
+      "reading": "しょっけんらんよう",
+      "meaning": "abuse of authority",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "永久就職",
+      "reading": "えいきゅうしゅうしょく",
+      "meaning": "marrying to become a housewife",
+      "type": "idiom"
+    },
+    {
+      "word": "職場の花",
+      "reading": "しょくばのはな",
+      "meaning": "female office worker",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

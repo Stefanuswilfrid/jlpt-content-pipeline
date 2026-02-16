@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "組合",
+    "reading": "くみあい",
+    "romaji": "kumiai",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "association",
+          "union",
+          "guild"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "組織",
+      "reading": "そしき",
+      "meaning": "organization"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "meeting"
+    },
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "sum total"
+    },
+    {
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "passing (an exam)"
+    },
+    {
+      "word": "組",
+      "reading": "くみ",
+      "meaning": "class (of students)"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "association"
+    },
+    {
+      "word": "合図",
+      "reading": "あいず",
+      "meaning": "sign"
+    },
+    {
+      "word": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "program (e.g. TV)"
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "match"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "union"
+    },
+    {
+      "word": "問い合わせ",
+      "reading": "といあわせ",
+      "meaning": "inquiry"
+    },
+    {
+      "word": "合同",
+      "reading": "ごうどう",
+      "meaning": "combination"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "労働組合は２４時間ストを本日中止した。",
+      "reading": null,
+      "english": "The workers union called off their 24-hour strike today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

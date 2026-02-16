@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "隙",
+    "reading": "すき",
+    "romaji": "suki",
+    "jlpt": "N2",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "momen tanpa pengawasan",
+          "kesempatan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "break",
+          "interval",
+          "spare moment",
+          "spare time"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unguarded moment",
+          "carelessness",
+          "weak spot",
+          "chink in one's armor",
+          "flaw",
+          "fault"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "chance",
+          "opportunity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "隙間",
+      "reading": "すきま",
+      "meaning": "retakan, celah, lubang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一分の隙もない",
+      "reading": "いちぶのすきもない",
+      "meaning": "without any weak spot",
+      "type": "idiom"
+    },
+    {
+      "word": "白駒の隙を過ぐるが如し",
+      "reading": "はっくのげきをすぐるがごとし",
+      "meaning": "time flies",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

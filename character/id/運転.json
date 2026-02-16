@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "運転",
+    "reading": "うんてん",
+    "romaji": "unten",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "operasi",
+          "mengemudi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "driving (a vehicle)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "use (of capital, funds, etc.)",
+          "management",
+          "investment"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "pengemudi (berdasarkan pekerjaan)"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "latihan"
+    },
+    {
+      "word": "運ぶ",
+      "reading": "はこぶ",
+      "meaning": "mengangkut, membawa"
+    },
+    {
+      "word": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "sepeda"
+    },
+    {
+      "word": "運",
+      "reading": "うん",
+      "meaning": "keberuntungan, nasib baik"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

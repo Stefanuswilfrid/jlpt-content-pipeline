@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "棚",
+    "reading": "たな",
+    "romaji": "tana",
+    "jlpt": "N4",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rak",
+          "lemari"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "trellis"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "本棚",
+      "reading": "ほんだな",
+      "meaning": "rak buku"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "棚からぼた餅",
+      "reading": "たなからぼたもち",
+      "meaning": "sudden windfall",
+      "type": "idiom"
+    },
+    {
+      "word": "棚に上げる",
+      "reading": "たなにあげる",
+      "meaning": "to shut one's eyes to (one's own faults, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "自分のことは棚に上げる",
+      "reading": "じぶんのことはたなにあげる",
+      "meaning": "to ignore one's own shortcomings",
+      "type": "idiom"
+    },
+    {
+      "word": "自分のことを棚に上げる",
+      "reading": "じぶんのことをたなにあげる",
+      "meaning": "to ignore one's own shortcomings",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

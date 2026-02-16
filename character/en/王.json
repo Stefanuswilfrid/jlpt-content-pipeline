@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "王",
+    "reading": "おう",
+    "romaji": "ou",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "king",
+          "ruler",
+          "sovereign",
+          "monarch"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "tycoon",
+          "magnate",
+          "champion",
+          "master"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "king (of the senior player)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "女王",
+      "reading": "じょおう",
+      "meaning": "queen"
+    },
+    {
+      "word": "王子",
+      "reading": "おうじ",
+      "meaning": "prince"
+    },
+    {
+      "word": "王様",
+      "reading": "おうさま",
+      "meaning": "king"
+    },
+    {
+      "word": "国王",
+      "reading": "こくおう",
+      "meaning": "king"
+    },
+    {
+      "word": "王女",
+      "reading": "おうじょ",
+      "meaning": "princess"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "王政復古",
+      "reading": "おうせいふっこ",
+      "meaning": "restoration of imperial rule",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "勤王攘夷",
+      "reading": "きんのうじょうい",
+      "meaning": "loyalty to the emperor and expulsion of the foreigners",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "王道楽土",
+      "reading": "おうどうらくど",
+      "meaning": "Arcadia, presided over by a virtuous king",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "裸の王様",
+      "reading": "はだかのおうさま",
+      "meaning": "person of high standing, with a warped view of reality",
+      "type": "idiom"
+    },
+    {
+      "word": "王手をかける",
+      "reading": "おうてをかける",
+      "meaning": "to check (in chess)",
+      "type": "idiom"
+    },
+    {
+      "word": "学問に王道なし",
+      "reading": "がくもんにおうどうなし",
+      "meaning": "there are no shortcuts in learning",
+      "type": "proverb"
+    },
+    {
+      "word": "王侯将相いずくんぞ種あらんや",
+      "reading": "おうこうしょうしょういずくんぞしゅあらんや",
+      "meaning": "high status does not depend on birth",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "大きくなったら王様になりたい。",
+      "reading": null,
+      "english": "When I grow up, I want to be a king.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大きくなったら王様になりたい。",
+      "reading": null,
+      "english": "When I grow up, I want to be a king.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君のお姉さんは王女のように上品な顔をしている。",
+      "reading": null,
+      "english": "Your sister looks as noble as if she were a princess.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学問に王道なし。",
+      "reading": null,
+      "english": "There is no easy road to learning.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

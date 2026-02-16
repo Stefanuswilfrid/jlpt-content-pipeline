@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "楽器",
+    "reading": "がっき",
+    "romaji": "gakki",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "musical instrument"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "武器",
+      "reading": "ぶき",
+      "meaning": "weapon"
+    },
+    {
+      "word": "容器",
+      "reading": "ようき",
+      "meaning": "container"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaning": "machine"
+    },
+    {
+      "word": "楽",
+      "reading": "らく",
+      "meaning": "comfort"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter"
+    },
+    {
+      "word": "磁器",
+      "reading": "じき",
+      "meaning": "porcelain"
+    },
+    {
+      "word": "器官",
+      "reading": "きかん",
+      "meaning": "organ"
+    },
+    {
+      "word": "器用",
+      "reading": "きよう",
+      "meaning": "skillful"
+    },
+    {
+      "word": "楽しみ",
+      "reading": "たのしみ",
+      "meaning": "enjoyment"
+    },
+    {
+      "word": "娯楽",
+      "reading": "ごらく",
+      "meaning": "amusement"
+    },
+    {
+      "word": "器具",
+      "reading": "きぐ",
+      "meaning": "utensil"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "楽器やってるんだよね？",
+      "reading": null,
+      "english": "You play a musical instrument, don't you?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "引っ張る",
+    "reading": "ひっぱる",
+    "romaji": "hipparu",
+    "jlpt": "N3",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pull",
+          "to draw",
+          "to pull tight"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to string (lines)",
+          "to run (cable)",
+          "to stretch"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pull towards oneself (e.g. someone's sleeve)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drag",
+          "to haul",
+          "to tow"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lead (e.g. one's followers)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take someone somewhere (e.g. a suspect to the police)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tempt into joining",
+          "to strongly invite to join"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to delay",
+          "to prolong"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "引用",
+      "reading": "いんよう",
+      "meaning": "quotation"
+    },
+    {
+      "word": "主張",
+      "reading": "しゅちょう",
+      "meaning": "claim"
+    },
+    {
+      "word": "差し引き",
+      "reading": "さしひき",
+      "meaning": "deduction"
+    },
+    {
+      "word": "引き出す",
+      "reading": "ひきだす",
+      "meaning": "to pull out"
+    },
+    {
+      "word": "頑張る",
+      "reading": "がんばる",
+      "meaning": "to persevere"
+    },
+    {
+      "word": "引く",
+      "reading": "ひく",
+      "meaning": "to pull"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足を引っ張る",
+      "reading": "あしをひっぱる",
+      "meaning": "to hold back (someone) from achieving success",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

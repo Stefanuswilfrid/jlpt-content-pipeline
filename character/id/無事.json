@@ -1,0 +1,165 @@
+{
+  "definition": {
+    "word": "無事",
+    "reading": "ぶじ",
+    "romaji": "buji",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "keselamatan",
+          "perdamaian"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "safely",
+          "without incident",
+          "successfully"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "good health"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "刑事",
+      "reading": "けいじ",
+      "meaning": "kasus kriminal, detektif (polisi)"
+    },
+    {
+      "word": "見事",
+      "reading": "みごと",
+      "meaning": "luar biasa, megah"
+    },
+    {
+      "word": "家事",
+      "reading": "かじ",
+      "meaning": "urusan rumah tangga; pekerjaan rumah tangga (sama seperti 家の仕事 (いえのしごと))"
+    },
+    {
+      "word": "出来事",
+      "reading": "できごと",
+      "meaning": "insiden sedang terjadi, peristiwa"
+    },
+    {
+      "word": "有無",
+      "reading": "うむ",
+      "meaning": "ya atau tidak, ada atau tidak ada"
+    },
+    {
+      "word": "物事",
+      "reading": "ものごと",
+      "meaning": "segala sesuatu"
+    },
+    {
+      "word": "無視",
+      "reading": "むし",
+      "meaning": "mengabaikan, mengabaikan"
+    },
+    {
+      "word": "記事",
+      "reading": "きじ",
+      "meaning": "artikel, berita"
+    },
+    {
+      "word": "事件",
+      "reading": "じけん",
+      "meaning": "peristiwa, kejadian, insiden"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fakta, kebenaran, realitas"
+    },
+    {
+      "word": "事情",
+      "reading": "じじょう",
+      "meaning": "keadaan, situasi, alasan"
+    },
+    {
+      "word": "知事",
+      "reading": "ちじ",
+      "meaning": "gubernur prefektur"
+    },
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "gratis, tanpa biaya"
+    },
+    {
+      "word": "無駄",
+      "reading": "むだ",
+      "meaning": "kesia-siaan, ketidakbergunaan"
+    },
+    {
+      "word": "無し",
+      "reading": "なし",
+      "meaning": "tanpa"
+    },
+    {
+      "word": "無",
+      "reading": "む",
+      "meaning": "tidak ada, nol, kosong, tidak ada, tidak ada"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "平穏無事",
+      "reading": "へいおんぶじ",
+      "meaning": "peaceful",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無事息災",
+      "reading": "ぶじそくさい",
+      "meaning": "safe and healthy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "安穏無事",
+      "reading": "あんのんぶじ",
+      "meaning": "peace and quiet",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無事平穏",
+      "reading": "ぶじへいおん",
+      "meaning": "peace and quiet",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "平安無事",
+      "reading": "へいあんぶじ",
+      "meaning": "peace and quiet",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "無事に便りなし。",
+      "reading": null,
+      "indonesian": "No news is good news.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

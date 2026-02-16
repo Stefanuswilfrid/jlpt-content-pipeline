@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "ハンドル",
+    "reading": "ハンドル",
+    "romaji": "handoru",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "handle"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "steering wheel"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "handlebar",
+          "handlebars"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "handle",
+          "screen name",
+          "username"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "運転手はハンドルを右にきった。",
+      "reading": null,
+      "english": "The driver turned the wheel to the right.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょっとこのハンドルを回してごらん。",
+      "reading": null,
+      "english": "Just turn this handle.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このハンドルがどうしても回らないんだ。",
+      "reading": null,
+      "english": "This handle will not turn.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "イギリスと日本の車はハンドルが右側にある。",
+      "reading": null,
+      "english": "British and Japanese cars have steering wheels on the right side.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本車は右ハンドルです。",
+      "reading": null,
+      "english": "Japanese cars are right-hand drive.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "日本車は右ハンドルです。",
+      "reading": null,
+      "english": "Japanese cars' steering wheels are on the right.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "米国車のハンドルは左側にある。",
+      "reading": null,
+      "english": "Steering wheels of American cars are on the left side.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "米国車のハンドルは左側にある。",
+      "reading": null,
+      "english": "The steering wheels on American cars are on the left side.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "雪道で急ハンドルを切っちゃだめだよ。スリップしちゃうから。",
+      "reading": null,
+      "english": "If you whip the steering wheel around like that on a snowy road, the car is going to go into a slide.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

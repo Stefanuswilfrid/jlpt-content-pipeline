@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "迫る",
+    "reading": "せまる",
+    "romaji": "semaru",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to approach",
+          "to draw near",
+          "to be imminent"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to press (someone for something)",
+          "to urge",
+          "to compel"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "脅迫",
+      "reading": "きょうはく",
+      "meaning": "threat"
+    },
+    {
+      "word": "迫害",
+      "reading": "はくがい",
+      "meaning": "persecution"
+    },
+    {
+      "word": "圧迫",
+      "reading": "あっぱく",
+      "meaning": "pressure"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

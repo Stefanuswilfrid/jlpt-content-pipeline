@@ -1,0 +1,207 @@
+{
+  "definition": {
+    "word": "分",
+    "reading": "ふん",
+    "romaji": "fun",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "minute (unit of time)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fun (one tenth of a monme, 5.787 grains)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "部分",
+      "reading": "ぶぶん",
+      "meaning": "portion"
+    },
+    {
+      "word": "分野",
+      "reading": "ぶんや",
+      "meaning": "field"
+    },
+    {
+      "word": "分析",
+      "reading": "ぶんせき",
+      "meaning": "analysis"
+    },
+    {
+      "word": "大部分",
+      "reading": "だいぶぶん",
+      "meaning": "most part"
+    },
+    {
+      "word": "余分",
+      "reading": "よぶん",
+      "meaning": "extra"
+    },
+    {
+      "word": "申し訳",
+      "reading": "もうしわけ",
+      "meaning": "apology"
+    },
+    {
+      "word": "十分",
+      "reading": "じゅうぶん",
+      "meaning": "enough"
+    },
+    {
+      "word": "半分",
+      "reading": "はんぶん",
+      "meaning": "half"
+    },
+    {
+      "word": "気分",
+      "reading": "きぶん",
+      "meaning": "feeling"
+    },
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaning": "ingredient"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "五分五分",
+      "reading": "ごぶごぶ",
+      "meaning": "as likely as not",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "四分五裂",
+      "reading": "しぶんごれつ",
+      "meaning": "torn asunder",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自分勝手",
+      "reading": "じぶんかって",
+      "meaning": "selfishness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "大義名分",
+      "reading": "たいぎめいぶん",
+      "meaning": "just cause",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一分一厘",
+      "reading": "いちぶいちりん",
+      "meaning": "(not even) a bit of",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "九寸五分",
+      "reading": "くすんごぶ",
+      "meaning": "dagger",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "九分九厘",
+      "reading": "くぶくりん",
+      "meaning": "almost certainly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "政教分離",
+      "reading": "せいきょうぶんり",
+      "meaning": "separation of church and state",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "思慮分別",
+      "reading": "しりょふんべつ",
+      "meaning": "discreet and well-advised judgment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "冗談半分",
+      "reading": "じょうだんはんぶん",
+      "meaning": "half joking",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何と言ったら良いか分かりません。",
+      "reading": null,
+      "english": "I'm at a loss for words.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "時間があるか分かりません。",
+      "reading": null,
+      "english": "I don't know if I have the time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "自分勝手にするつもりはない。",
+      "reading": null,
+      "english": "I don't intend to be selfish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それがどこから来たのか分からなかった。",
+      "reading": null,
+      "english": "I didn't know where it came from.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何が言いたいのか分からないなあ。",
+      "reading": null,
+      "english": "I don't know what you mean.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何が言いたいのか分かんないんだけど。",
+      "reading": null,
+      "english": "I don't know what you mean.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "分からない言葉がたくさんある。",
+      "reading": null,
+      "english": "There are many words that I don't understand.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう何をしたらいいか分からない。",
+      "reading": null,
+      "english": "I don't know what to do anymore.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

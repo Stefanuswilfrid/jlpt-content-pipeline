@@ -1,0 +1,198 @@
+{
+  "definition": {
+    "word": "来",
+    "reading": "らい",
+    "romaji": "rai",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "next (year, spring, etc.)",
+          "coming"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "since (e.g. last month)",
+          "for (e.g. 20 years)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "以来",
+      "reading": "いらい",
+      "meaning": "since"
+    },
+    {
+      "word": "未来",
+      "reading": "みらい",
+      "meaning": "(distant) future"
+    },
+    {
+      "word": "出来事",
+      "reading": "できごと",
+      "meaning": "occurrence"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaning": "future"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "next year"
+    },
+    {
+      "word": "本来",
+      "reading": "ほんらい",
+      "meaning": "originally"
+    },
+    {
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "next month"
+    },
+    {
+      "word": "来日",
+      "reading": "らいにち",
+      "meaning": "coming to Japan"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "next week"
+    },
+    {
+      "word": "再来月",
+      "reading": "さらいげつ",
+      "meaning": "month after next"
+    },
+    {
+      "word": "再来週",
+      "reading": "さらいしゅう",
+      "meaning": "week after next"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "古往今来",
+      "reading": "こおうこんらい",
+      "meaning": "in all ages",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "先祖伝来",
+      "reading": "せんぞでんらい",
+      "meaning": "inherited",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "千客万来",
+      "reading": "せんきゃくばんらい",
+      "meaning": "flood of customers",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "故事来歴",
+      "reading": "こじらいれき",
+      "meaning": "origin and history",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "祖先伝来",
+      "reading": "そせんでんらい",
+      "meaning": "hereditary",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "未来永劫",
+      "reading": "みらいえいごう",
+      "meaning": "forevermore",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一陽来復",
+      "reading": "いちようらいふく",
+      "meaning": "return of spring",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "好機到来",
+      "reading": "こうきとうらい",
+      "meaning": "advent of a golden opportunity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "捲土重来",
+      "reading": "けんどちょうらい",
+      "meaning": "recouping one's strength for a renewed attack",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "開闢以来",
+      "reading": "かいびゃくいらい",
+      "meaning": "since the beginning of the world",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それがどこから来たのか分からなかった。",
+      "reading": null,
+      "english": "I didn't know where it came from.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "家に来ませんか。",
+      "reading": null,
+      "english": "Why don't you come visit us?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "今日君は来るのかなと思っていたところだよ。",
+      "reading": null,
+      "english": "I was wondering if you were going to show up today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "マドリードから来た人たちは変わっている。",
+      "reading": null,
+      "english": "People from Madrid are weird.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "したいことが出来なければ出来ることをしなさい。",
+      "reading": null,
+      "english": "When you can't do what you want, you do what you can.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ごめん。出来るとは思えないよ。",
+      "reading": null,
+      "english": "Sorry, I don't think I'm gonna be able to.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

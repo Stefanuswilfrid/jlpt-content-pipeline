@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "教養",
+    "reading": "きょうよう",
+    "romaji": "kyouyou",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "budaya",
+          "pendidikan",
+          "kecanggihan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "助教授",
+      "reading": "じょきょうじゅ",
+      "meaning": "asisten profesor"
+    },
+    {
+      "word": "休養",
+      "reading": "きゅうよう",
+      "meaning": "istirahat, jeda, rekreasi"
+    },
+    {
+      "word": "養分",
+      "reading": "ようぶん",
+      "meaning": "makanan, nutrisi"
+    },
+    {
+      "word": "教室",
+      "reading": "きょうしつ",
+      "meaning": "kelas"
+    },
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "buku pelajaran"
+    },
+    {
+      "word": "教会",
+      "reading": "きょうかい",
+      "meaning": "gereja"
+    },
+    {
+      "word": "栄養",
+      "reading": "えいよう",
+      "meaning": "nutrisi, gizi"
+    },
+    {
+      "word": "教訓",
+      "reading": "きょうくん",
+      "meaning": "pelajaran, ajaran, instruksi moral"
+    },
+    {
+      "word": "教材",
+      "reading": "きょうざい",
+      "meaning": "bahan ajar"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その医者は教養のある人だ。",
+      "reading": null,
+      "indonesian": "The doctor is a man of culture.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "洗練され教養のある人を区別する標識はなんであろう。",
+      "reading": null,
+      "indonesian": "What are the marks that distinguish the cultured man?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "成り上がり者は教養人として通用しようとした。",
+      "reading": null,
+      "indonesian": "The upstart tried to pass for a man of culture.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

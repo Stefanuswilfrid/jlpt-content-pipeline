@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "為す",
+    "reading": "なす",
+    "romaji": "nasu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menyelesaikan",
+          "untuk melakukan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "為る",
+      "reading": "する",
+      "meaning": "untuk berubah, untuk berguna, untuk mencapai"
+    },
+    {
+      "word": "為替",
+      "reading": "かわせ",
+      "meaning": "wesel pos, penukaran"
+    },
+    {
+      "word": "為",
+      "reading": "ため",
+      "meaning": "baik, keuntungan, untuk"
+    },
+    {
+      "word": "所為",
+      "reading": "せい",
+      "meaning": "penyebab, alasan, kesalahan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "入るを量りて出ずるを為す",
+      "reading": "いるをはかりていずるをなす",
+      "meaning": "consider your income before spending",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

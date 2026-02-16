@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "氏",
+    "reading": "うじ",
+    "romaji": "uji",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "family name",
+          "lineage",
+          "birth"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "suffix"
+        ],
+        "meanings": [
+          "clan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "氏名",
+      "reading": "しめい",
+      "meaning": "(full) name"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "氏より育ち",
+      "reading": "うじよりそだち",
+      "meaning": "nurture over nature",
+      "type": "proverb"
+    },
+    {
+      "word": "挨拶は時の氏神",
+      "reading": "あいさつはときのうじがみ",
+      "meaning": "blessed are the peacemakers",
+      "type": "proverb"
+    },
+    {
+      "word": "女氏無くして玉の輿に乗る",
+      "reading": "おんなうじなくしてたまのこしにのる",
+      "meaning": "even a woman of low birth can gain status by marrying rich (if she has the looks)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "一目見て、ジョーンズ氏だとわかった。",
+      "reading": null,
+      "english": "I recognized Mr Jones at first glance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

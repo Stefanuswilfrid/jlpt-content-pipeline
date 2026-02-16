@@ -1,0 +1,184 @@
+{
+  "definition": {
+    "word": "人気",
+    "reading": "にんき",
+    "romaji": "ninki",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "popularity",
+          "public favor"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "condition (e.g. market)",
+          "tone",
+          "character",
+          "nature"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "individual"
+    },
+    {
+      "word": "人間",
+      "reading": "にんげん",
+      "meaning": "human being"
+    },
+    {
+      "word": "景気",
+      "reading": "けいき",
+      "meaning": "business conditions"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(one's) life"
+    },
+    {
+      "word": "人物",
+      "reading": "じんぶつ",
+      "meaning": "person"
+    },
+    {
+      "word": "夫人",
+      "reading": "ふじん",
+      "meaning": "wife"
+    },
+    {
+      "word": "本人",
+      "reading": "ほんにん",
+      "meaning": "the person in question"
+    },
+    {
+      "word": "友人",
+      "reading": "ゆうじん",
+      "meaning": "friend"
+    },
+    {
+      "word": "老人",
+      "reading": "ろうじん",
+      "meaning": "old person"
+    },
+    {
+      "word": "人類",
+      "reading": "じんるい",
+      "meaning": "mankind"
+    },
+    {
+      "word": "婦人",
+      "reading": "ふじん",
+      "meaning": "woman"
+    },
+    {
+      "word": "名人",
+      "reading": "めいじん",
+      "meaning": "master"
+    },
+    {
+      "word": "人工",
+      "reading": "じんこう",
+      "meaning": "artificial"
+    },
+    {
+      "word": "人種",
+      "reading": "じんしゅ",
+      "meaning": "race (of people)"
+    },
+    {
+      "word": "犯人",
+      "reading": "はんにん",
+      "meaning": "offender"
+    },
+    {
+      "word": "他人",
+      "reading": "たにん",
+      "meaning": "another person"
+    },
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "(air) temperature"
+    },
+    {
+      "word": "大気",
+      "reading": "たいき",
+      "meaning": "atmosphere"
+    },
+    {
+      "word": "詩人",
+      "reading": "しじん",
+      "meaning": "poet"
+    },
+    {
+      "word": "故人",
+      "reading": "こじん",
+      "meaning": "the deceased"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人気稼業",
+      "reading": "にんきかぎょう",
+      "meaning": "popular occupation",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "安全で美味しいとのことでオーガニック野菜は人気がある。",
+      "reading": null,
+      "english": "Organic vegetables are popular because they're safe and tasty.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "マイケル・ジャクソンはアメリカで人気がある。",
+      "reading": null,
+      "english": "Michael Jackson is popular in the US.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "マイクはチームのスターなので女の子に人気がある。",
+      "reading": null,
+      "english": "Mike is popular among the girls because he is the star of the team.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボブは学校で人気がある。",
+      "reading": null,
+      "english": "Bob is popular at school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ボブはクラスメイトのみんなに人気がありました。",
+      "reading": null,
+      "english": "Bob was popular with all his classmates.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

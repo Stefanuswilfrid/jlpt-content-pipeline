@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "幸福",
+    "reading": "こうふく",
+    "romaji": "koufuku",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "happiness",
+          "well-being",
+          "joy",
+          "welfare",
+          "blessedness"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "福",
+      "reading": "ふく",
+      "meaning": "good fortune"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "unhappiness"
+    },
+    {
+      "word": "幸せ",
+      "reading": "しあわせ",
+      "meaning": "happiness"
+    },
+    {
+      "word": "幸い",
+      "reading": "さいわい",
+      "meaning": "happiness"
+    },
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "good luck"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無知は幸福",
+      "reading": "むちはこうふく",
+      "meaning": "ignorance is bliss",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何とあなたは幸福なんでしょう。",
+      "reading": null,
+      "english": "How lucky you are!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金持ちだが幸福ではない。",
+      "reading": null,
+      "english": "Rich as he is, he is not happy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "幸福は金では買えない。",
+      "reading": null,
+      "english": "Money cannot buy happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金で幸福は買えない。",
+      "reading": null,
+      "english": "Money cannot buy happiness.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金で幸福が買えないということは言うまでもない。",
+      "reading": null,
+      "english": "It goes without saying that money cannot buy happiness.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "お陰",
+    "reading": "おかげ",
+    "romaji": "okage",
+    "jlpt": "N4",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "grace (of God)",
+          "benevolence (of Buddha)",
+          "blessing"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "assistance",
+          "help",
+          "aid"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "effects",
+          "influence"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "陰",
+      "reading": "かげ",
+      "meaning": "shade"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "おかげさまで、うまくいきましたよ。",
+      "reading": null,
+      "english": "Thanks to your help, I could succeed.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

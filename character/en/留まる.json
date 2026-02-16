@@ -1,0 +1,189 @@
+{
+  "definition": {
+    "word": "止まる",
+    "reading": "とまる",
+    "romaji": "tomaru",
+    "jlpt": "N2",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stop (moving)",
+          "to come to a stop"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stop (doing, working, being supplied)",
+          "to come to a halt",
+          "to cease",
+          "to be stopped",
+          "to be suspended"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to alight",
+          "to perch on"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "停止",
+      "reading": "ていし",
+      "meaning": "stoppage"
+    },
+    {
+      "word": "立ち止まる",
+      "reading": "たちどまる",
+      "meaning": "to stop (in one's tracks)"
+    },
+    {
+      "word": "止む",
+      "reading": "やむ",
+      "meaning": "to cease"
+    },
+    {
+      "word": "静止",
+      "reading": "せいし",
+      "meaning": "stillness"
+    },
+    {
+      "word": "引き止める",
+      "reading": "ひきとめる",
+      "meaning": "to detain"
+    },
+    {
+      "word": "防止",
+      "reading": "ぼうし",
+      "meaning": "prevention"
+    },
+    {
+      "word": "止す",
+      "reading": "よす",
+      "meaning": "to stop (doing)"
+    },
+    {
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "to stop"
+    },
+    {
+      "word": "止める",
+      "reading": "やめる",
+      "meaning": "to stop (an activity)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心臓が止まる",
+      "reading": "しんぞうがとまる",
+      "meaning": "to have one's heart stop beating",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "行くも留まるも自由にしなさい。",
+      "reading": null,
+      "english": "You may go or stay at will.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "行くも留まるもあなたの自由です。",
+      "reading": null,
+      "english": "You may go or stay at will.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "行くも留まるも君次第だよ。",
+      "reading": null,
+      "english": "You can go or stay, as you wish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その次官は政界のボスたちのおかげで地位に留まることができた。",
+      "reading": null,
+      "english": "The undersecretary was maintained in office by the political bosses.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "面会人は午後９時以降病院に留まることはできない。",
+      "reading": null,
+      "english": "No visitor can remain in the hospital after 9 p.m.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "行くも留まるも自由にしなさい。",
+      "reading": null,
+      "english": "You may go or stay at will.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "行くも留まるもあなたの自由です。",
+      "reading": null,
+      "english": "You may go or stay at will.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "行くべきか、留まるべきかという問題が次にやってくる。",
+      "reading": null,
+      "english": "The question whether we should go or stay comes next.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その次官は政界のボスたちのおかげで地位に留まることができた。",
+      "reading": null,
+      "english": "The undersecretary was maintained in office by the political bosses.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "行くべきか、留まるべきかという問題が次にやってくる。",
+      "reading": null,
+      "english": "The question whether we should go or stay comes next.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "面会人は午後９時以降病院に留まることはできない。",
+      "reading": null,
+      "english": "No visitor can remain in the hospital after 9 p.m.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

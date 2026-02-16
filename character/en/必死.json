@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "必死",
+    "reading": "ひっし",
+    "romaji": "hisshi",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "frantic",
+          "frenetic",
+          "desperate"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "inevitable death"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "brinkmate (inevitable checkmate)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "死",
+      "reading": "し",
+      "meaning": "death"
+    },
+    {
+      "word": "死亡",
+      "reading": "しぼう",
+      "meaning": "death"
+    },
+    {
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaning": "necessary"
+    },
+    {
+      "word": "死体",
+      "reading": "したい",
+      "meaning": "dead body"
+    },
+    {
+      "word": "必需品",
+      "reading": "ひつじゅひん",
+      "meaning": "necessities"
+    },
+    {
+      "word": "必ずしも",
+      "reading": "かならずしも",
+      "meaning": "(not) always"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学生は当然必死に勉強するはずだ。",
+      "reading": null,
+      "english": "Students are supposed to study hard.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

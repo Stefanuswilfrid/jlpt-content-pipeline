@@ -1,0 +1,160 @@
+{
+  "definition": {
+    "word": "動かす",
+    "reading": "うごかす",
+    "romaji": "ugokasu",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "bergerak",
+          "bergeser"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to inspire",
+          "to rouse",
+          "to move (e.g. feeling)",
+          "to influence"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to change",
+          "to alter",
+          "to deny"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to operate",
+          "to set in motion",
+          "to get going"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to mobilize (e.g. troops)",
+          "to mobilise",
+          "to deploy"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to manage (e.g. funds)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "移動",
+      "reading": "いどう",
+      "meaning": "migrasi, pergerakan"
+    },
+    {
+      "word": "異動",
+      "reading": "いどう",
+      "meaning": "perubahan, transfer"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "tindakan, perilaku, tingkah laku"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "otomatis, gerak sendiri"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "sangat terharu, gembira"
+    },
+    {
+      "word": "動揺",
+      "reading": "どうよう",
+      "meaning": "gangguan, guncangan bergetar"
+    },
+    {
+      "word": "動詞",
+      "reading": "どうし",
+      "meaning": "kata kerja"
+    },
+    {
+      "word": "労働",
+      "reading": "ろうどう",
+      "meaning": "tenaga kerja, pekerjaan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "愛の力は世界を動かす。",
+      "reading": null,
+      "indonesian": "Love makes the world go round.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その家具を動かすのに力が要った。",
+      "reading": null,
+      "indonesian": "It took a lot of energy to move the furniture.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "さまざまな機械を動かすには石油が必要だ。",
+      "reading": null,
+      "indonesian": "Oil is necessary to run various machines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この石を動かすのを手伝ってください。",
+      "reading": null,
+      "indonesian": "Help me move this stone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この石動かすの手伝って。",
+      "reading": null,
+      "indonesian": "Help me move this stone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

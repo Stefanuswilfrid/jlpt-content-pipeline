@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "連続",
+    "reading": "れんぞく",
+    "romaji": "renzoku",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berturut-turut",
+          "keberlanjutan",
+          "terus-menerus"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "continuous"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関連",
+      "reading": "かんれん",
+      "meaning": "hubungan, koneksi, relevansi"
+    },
+    {
+      "word": "続き",
+      "reading": "つづき",
+      "meaning": "sekuel, kelanjutan"
+    },
+    {
+      "word": "相続",
+      "reading": "そうぞく",
+      "meaning": "suksesi, warisan"
+    },
+    {
+      "word": "連れ",
+      "reading": "つれ",
+      "meaning": "pendamping, teman"
+    },
+    {
+      "word": "連想",
+      "reading": "れんそう",
+      "meaning": "asosiasi (gagasan), saran"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "persatuan, aliansi"
+    },
+    {
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "komunikasi, kontak, koneksi"
+    },
+    {
+      "word": "手続き",
+      "reading": "てつづき",
+      "meaning": "prosedur, proses (hukum), formalitas"
+    },
+    {
+      "word": "継続",
+      "reading": "けいぞく",
+      "meaning": "kelanjutan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "いくら好きとは言え、３日連続カレーはきついよな。",
+      "reading": null,
+      "indonesian": "No matter how much you might think you like curry, three nights in a row is more than enough.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

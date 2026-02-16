@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "センチ",
+    "reading": "センチ",
+    "romaji": "senchi",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "centimeter",
+          "centimetre"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "centi-",
+          "10^-2"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "sentimental"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "身長何センチ？",
+      "reading": null,
+      "english": "How tall are you?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "センチメートルは長さの単位だ。",
+      "reading": null,
+      "english": "A centimeter is a unit of length.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このじゅうたんの大きさは縦１２０センチ横１６０センチだ。",
+      "reading": null,
+      "english": "The size of the carpet is 120 by 160 centimeters.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "このカーペットのサイズは縦120センチ、横160センチです。",
+      "reading": null,
+      "english": "The size of the carpet is 120 by 160 centimeters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "１メートルは１００センチである。",
+      "reading": null,
+      "english": "A metre is 100 centimetres.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一メートルは百センチメートルです。",
+      "reading": null,
+      "english": "A metre is 100 centimetres.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "私はほとんど１８０センチです。",
+      "reading": null,
+      "english": "I am almost 180 centimeters tall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はほとんど１８０センチです。",
+      "reading": null,
+      "english": "I'm almost 180 centimeters tall.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "山間部では雪が５０センチ以上降った。",
+      "reading": null,
+      "english": "In the mountain area, snow has fallen more than fifty centimeters deep.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

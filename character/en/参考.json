@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "参考",
+    "reading": "さんこう",
+    "romaji": "sankou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reference",
+          "consultation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaning": "participation"
+    },
+    {
+      "word": "考え",
+      "reading": "かんがえ",
+      "meaning": "thinking"
+    },
+    {
+      "word": "選考",
+      "reading": "せんこう",
+      "meaning": "selection"
+    },
+    {
+      "word": "考慮",
+      "reading": "こうりょ",
+      "meaning": "consideration"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どの辞書を参考にしたんですか。",
+      "reading": null,
+      "english": "Which dictionary did you refer to?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ご参考までに。",
+      "reading": null,
+      "english": "For your information.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この参考書は君たちみんなのためになる。",
+      "reading": null,
+      "english": "This reference book is of benefit to you all.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "Ａ社のアニュアルレポートは参考になる。",
+      "reading": null,
+      "english": "A Ltd.'s annual report is worth having a look at.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

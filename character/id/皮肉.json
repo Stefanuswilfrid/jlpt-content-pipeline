@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "皮肉",
+    "reading": "ひにく",
+    "romaji": "hiniku",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "sinisme",
+          "sarkasme"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unexpected",
+          "different from what one expected",
+          "not as one had planned"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(only) surface",
+          "something superficial"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "毛皮",
+      "reading": "けがわ",
+      "meaning": "bulu, kulit, kulit binatang"
+    },
+    {
+      "word": "皮膚",
+      "reading": "ひふ",
+      "meaning": "kulit"
+    },
+    {
+      "word": "肉親",
+      "reading": "にくしん",
+      "meaning": "hubungan darah, kerabat sedarah"
+    },
+    {
+      "word": "肉体",
+      "reading": "にくたい",
+      "meaning": "tubuh, daging"
+    },
+    {
+      "word": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "babi"
+    },
+    {
+      "word": "肉",
+      "reading": "にく",
+      "meaning": "daging"
+    },
+    {
+      "word": "皮",
+      "reading": "かわ",
+      "meaning": "kulit, bulu, bahan kulit"
+    },
+    {
+      "word": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "daging sapi"
+    },
+    {
+      "word": "筋肉",
+      "reading": "きんにく",
+      "meaning": "otot, urat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "皮肉なことに戦争が数多くの有用な発明を生み出した。",
+      "reading": null,
+      "indonesian": "Ironically it is war that has brought a great many useful inventions into being.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

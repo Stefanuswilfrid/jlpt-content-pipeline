@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "落第",
+    "reading": "らくだい",
+    "romaji": "rakudai",
+    "jlpt": "N2",
+    "frequency": 19250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kegagalan",
+          "putus sekolah"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "falling short of the standard",
+          "not making the grade"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "落し物",
+      "reading": "おとしもの",
+      "meaning": "barang hilang"
+    },
+    {
+      "word": "墜落",
+      "reading": "ついらく",
+      "meaning": "jatuh, menabrak"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もっと勉強しない限り落第しますよ。",
+      "reading": null,
+      "indonesian": "You will fail unless you work harder.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "落第しちゃう！",
+      "reading": null,
+      "indonesian": "I will be a repeater!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "日本では、高校までは落第はありません。",
+      "reading": null,
+      "indonesian": "In Japan we do not repeat a year until high school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もっと勉強しない限り落第しますよ。",
+      "reading": null,
+      "indonesian": "You will fail unless you work harder.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もっと勉強しない限り落第しますよ。",
+      "reading": null,
+      "indonesian": "You'll fail unless you study harder.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本では、高校までは落第はありません。",
+      "reading": null,
+      "indonesian": "In Japan we do not repeat a year until high school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

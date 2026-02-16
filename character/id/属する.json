@@ -1,0 +1,63 @@
+{
+  "definition": {
+    "word": "属する",
+    "reading": "ぞくする",
+    "romaji": "zokusuru",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menjadi milik",
+          "berada di bawah"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "所属",
+      "reading": "しょぞく",
+      "meaning": "melekat pada, milik"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ここに住んでいる人達は上流階級に属する。",
+      "reading": null,
+      "indonesian": "The people living here belong to the upper class.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "オニユリはユリ科に属する１つの種である。",
+      "reading": null,
+      "indonesian": "Tiger lilies are one species of the lily family.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "詩人キーツはロマン派に属する。",
+      "reading": null,
+      "indonesian": "The poet Keats belongs to the Romantic school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここに住んでいる人達は上流階級に属する。",
+      "reading": null,
+      "indonesian": "The people living here belong to the upper class.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "味噌",
+    "reading": "みそ",
+    "romaji": "miso",
+    "jlpt": "N4",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "miso",
+          "fermented condiment usu. made from soybeans"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "innards (from crabs, shrimps, etc.) resembling miso"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "key point",
+          "main point",
+          "good part (of something)"
+        ]
+      },
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "try"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "味",
+      "reading": "あじ",
+      "meaning": "flavor"
+    },
+    {
+      "word": "興味",
+      "reading": "きょうみ",
+      "meaning": "interest (in something)"
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "hobby"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手前味噌",
+      "reading": "てまえみそ",
+      "meaning": "self-flattery",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "味噌を擂る",
+      "reading": "みそをする",
+      "meaning": "to flatter",
+      "type": "idiom"
+    },
+    {
+      "word": "隣の糂粏味噌",
+      "reading": "となりのじんだみそ",
+      "meaning": "the grass is always greener on the other side of the fence",
+      "type": "proverb"
+    },
+    {
+      "word": "糞も味噌も一緒",
+      "reading": "くそもみそもいっしょ",
+      "meaning": "not distinguishing between what's good and bad",
+      "type": "idiom"
+    },
+    {
+      "word": "下駄と焼き味噌",
+      "reading": "げたとやきみそ",
+      "meaning": "things that look similar but are completely different",
+      "type": "idiom"
+    },
+    {
+      "word": "味噌も糞も一緒",
+      "reading": "みそもくそもいっしょ",
+      "meaning": "not distinguishing between what's good and bad",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

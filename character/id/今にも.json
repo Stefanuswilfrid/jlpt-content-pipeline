@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "今にも",
+    "reading": "いまにも",
+    "romaji": "imanimo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "kapan saja",
+          "segera"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今回",
+      "reading": "こんかい",
+      "meaning": "sekarang, kali ini, akhir-akhir ini"
+    },
+    {
+      "word": "今後",
+      "reading": "こんご",
+      "meaning": "mulai sekarang, selanjutnya"
+    },
+    {
+      "word": "今に",
+      "reading": "いまに",
+      "meaning": "tidak lama lagi, segera"
+    },
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "minggu ini"
+    },
+    {
+      "word": "今",
+      "reading": "いま",
+      "meaning": "Sekarang"
+    },
+    {
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "bulan ini"
+    },
+    {
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "tahun ini"
+    },
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "sekarang, saat ini, masa depan dekat, suatu hari nanti, lain waktu"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "hari ini, hari ini"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何事かが今にも起こりそうなけはいを感じていた。",
+      "reading": null,
+      "indonesian": "He felt that something was about to happen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーは今にも笑いだしそうだった。",
+      "reading": null,
+      "indonesian": "Mary was about to burst out laughing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムは今にもここに来るはずです。",
+      "reading": null,
+      "indonesian": "Tom should be here any minute.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは今にも起こるかもしれない。",
+      "reading": null,
+      "indonesian": "It may occur at any moment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

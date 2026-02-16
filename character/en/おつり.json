@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "お釣り",
+    "reading": "おつり",
+    "romaji": "otsuri",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "change (for a purchase)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "toilet splashback"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "釣る",
+      "reading": "つる",
+      "meaning": "to fish"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "お釣りが来る",
+      "reading": "おつりがくる",
+      "meaning": "to get change back",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "はい、おつりです。",
+      "reading": null,
+      "english": "Here is your change.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あの店でおつりをごまかされた。",
+      "reading": null,
+      "english": "They short-changed me at that store.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "１ドルでおつりがありますか。",
+      "reading": null,
+      "english": "Have you got change for a dollar?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "はい、おつりです。",
+      "reading": null,
+      "english": "Here is your change.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "はい、おつりです。",
+      "reading": null,
+      "english": "Here's your change.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あの店でおつりをごまかされた。",
+      "reading": null,
+      "english": "They short-changed me at that store.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

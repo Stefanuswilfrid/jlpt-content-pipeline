@@ -1,0 +1,188 @@
+{
+  "definition": {
+    "word": "整理",
+    "reading": "せいり",
+    "romaji": "seiri",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "sorting",
+          "arrangement",
+          "organization",
+          "putting in order",
+          "adjustment",
+          "regulation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "liquidation",
+          "settlement",
+          "consolidation",
+          "clearance (e.g. debt)",
+          "paying off"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "retrenchment",
+          "curtailment",
+          "cutting down",
+          "disposal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "管理",
+      "reading": "かんり",
+      "meaning": "control"
+    },
+    {
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "processing"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "understanding"
+    },
+    {
+      "word": "代理",
+      "reading": "だいり",
+      "meaning": "representation"
+    },
+    {
+      "word": "心理",
+      "reading": "しんり",
+      "meaning": "state of mind"
+    },
+    {
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "ideal"
+    },
+    {
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaning": "repair"
+    },
+    {
+      "word": "物理",
+      "reading": "ぶつり",
+      "meaning": "laws of nature"
+    },
+    {
+      "word": "真理",
+      "reading": "しんり",
+      "meaning": "truth"
+    },
+    {
+      "word": "生理",
+      "reading": "せいり",
+      "meaning": "physiology"
+    },
+    {
+      "word": "調整",
+      "reading": "ちょうせい",
+      "meaning": "adjustment"
+    },
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "reason"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaning": "maintenance"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "cooking"
+    },
+    {
+      "word": "原理",
+      "reading": "げんり",
+      "meaning": "principle"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "整理整頓",
+      "reading": "せいりせいとん",
+      "meaning": "keeping things tidy and in order",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "荷物を整理したいのですが。",
+      "reading": null,
+      "english": "I'd like to put my belongings away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ぼくは出かける前に自分の本を整理する時間がない。",
+      "reading": null,
+      "english": "I have no time to put my books in order before I go.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつも仕事場をきちんと整理しておきなさい。",
+      "reading": null,
+      "english": "Always keep your office tidy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは部屋をきちんと整理しておかなくてはならない。",
+      "reading": null,
+      "english": "You must keep your room tidy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "部屋の中をきちんと整理しなさい。",
+      "reading": null,
+      "english": "Make your room tidy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "部屋の整理をしたほうがいいよ。",
+      "reading": null,
+      "english": "You should set your room in order.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

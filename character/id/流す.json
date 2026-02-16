@@ -1,0 +1,175 @@
+{
+  "definition": {
+    "word": "流す",
+    "reading": "ながす",
+    "romaji": "nagasu",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menguras",
+          "mengapung",
+          "menumpahkan (misalnya",
+          "darah",
+          "air mata)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to float (e.g. logs down a river)",
+          "to set adrift"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to wash away",
+          "to carry away",
+          "to sweep away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to broadcast",
+          "to play (e.g. music over a loudspeaker)",
+          "to send (electricity through a wire)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to circulate (a rumour, information, etc.)",
+          "to spread",
+          "to distribute"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to cruise (of a taxi)",
+          "to stroll around (in search of customers, an audience, etc.)",
+          "to go from place to place"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cancel (a plan, meeting, etc.)",
+          "to call off",
+          "to reject (e.g. a bill)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to forfeit (a pawn)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "modis, tren, lazim"
+    },
+    {
+      "word": "流行る",
+      "reading": "はやる",
+      "meaning": "menjadi populer, menjadi tren"
+    },
+    {
+      "word": "流れる",
+      "reading": "ながれる",
+      "meaning": "mengalir, hanyut terbawa arus"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "pertukaran; arus bolak-balik"
+    },
+    {
+      "word": "合流",
+      "reading": "ごうりゅう",
+      "meaning": "pertemuan, penggabungan, bergabung"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "車軸を流す",
+      "reading": "しゃじくをながす",
+      "meaning": "to rain heavily",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この道はそこでハイウエイに合流する。",
+      "reading": null,
+      "indonesian": "This road joins the highway there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「あっそ」と流すのもよし、本気にするのもよし。",
+      "reading": null,
+      "indonesian": "You can let it slide with a \"oh?\" or you can take it seriously.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電線は電気を流す。",
+      "reading": null,
+      "indonesian": "Wires carry electricity.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "川はこの橋の下流で別の川と合流する。",
+      "reading": null,
+      "indonesian": "The river meets another below this bridge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水に流す。",
+      "reading": null,
+      "indonesian": "Don't cry over spilled milk.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

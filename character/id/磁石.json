@@ -1,0 +1,134 @@
+{
+  "definition": {
+    "word": "磁石",
+    "reading": "じしゃく",
+    "romaji": "jishaku",
+    "jlpt": "N2",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "magnet"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "compass"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "岩石",
+      "reading": "がんせき",
+      "meaning": "batu"
+    },
+    {
+      "word": "石油",
+      "reading": "せきゆ",
+      "meaning": "minyak, petroleum, kerosin"
+    },
+    {
+      "word": "石",
+      "reading": "こく",
+      "meaning": "batu"
+    },
+    {
+      "word": "化石",
+      "reading": "かせき",
+      "meaning": "fosil, pembatuan, fosilisasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もちろん磁石は周りに磁場を持っています。",
+      "reading": null,
+      "indonesian": "The magnets, of course, have a magnetic field around them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "チャールズウォルコットはハトの方位磁石を探した。",
+      "reading": null,
+      "indonesian": "Charles Walcot investigated the magnetic compass bearing sense in pigeons.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "しかしこの方位磁石はどこにありますか。",
+      "reading": null,
+      "indonesian": "But where is this compass?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "キートンはハトの頭に磁石を取り付けた。",
+      "reading": null,
+      "indonesian": "Keeton put magnets on the heads of his pigeons.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "頭の上の磁石がその原因だった。",
+      "reading": null,
+      "indonesian": "The magnets on their heads were responsible for that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "地球は内部に大きな磁石を持ったボールのようなものである。",
+      "reading": null,
+      "indonesian": "The earth is like a ball with a big magnet in it.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "磁石は鉄を引きつける。",
+      "reading": null,
+      "indonesian": "A magnet attracts iron.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "磁石の針は北を指す。",
+      "reading": null,
+      "indonesian": "Compass needles point to the north.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もちろん磁石は周りに磁場を持っています。",
+      "reading": null,
+      "indonesian": "The magnets, of course, have a magnetic field around them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "もちろん磁石は周りに磁場を持っています。",
+      "reading": null,
+      "indonesian": "Of course, magnets have a magnetic field around them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

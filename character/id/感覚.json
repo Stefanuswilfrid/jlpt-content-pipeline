@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "感覚",
+    "reading": "かんかく",
+    "romaji": "kankaku",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "indra",
+          "sensasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "感じ",
+      "reading": "かんじ",
+      "meaning": "perasaan, indra, kesan"
+    },
+    {
+      "word": "感情",
+      "reading": "かんじょう",
+      "meaning": "emosi, perasaan, sentimen"
+    },
+    {
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "kesan (seseorang), pikiran (seseorang)"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "sangat terharu, gembira"
+    },
+    {
+      "word": "覚悟",
+      "reading": "かくご",
+      "meaning": "resolusi, pengunduran diri, kesiapan"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "terima kasih, rasa syukur"
+    },
+    {
+      "word": "感じる",
+      "reading": "かんじる",
+      "meaning": "untuk merasakan, untuk memahami"
+    },
+    {
+      "word": "視覚",
+      "reading": "しかく",
+      "meaning": "indra penglihatan, visi"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "kekaguman"
+    },
+    {
+      "word": "覚ます",
+      "reading": "さます",
+      "meaning": "untuk membangunkan"
+    },
+    {
+      "word": "実感",
+      "reading": "じっかん",
+      "meaning": "perasaan, kesadaran"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "平衡感覚",
+      "reading": "へいこうかんかく",
+      "meaning": "sense of equilibrium",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "泳いでいる人達は体が冷えて感覚がなくなっていた。",
+      "reading": null,
+      "indonesian": "The swimmers were numb with cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "泳者は寒さで感覚がまひしていた。",
+      "reading": null,
+      "indonesian": "The swimmers were numb with cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなた自身の感覚を持つことが大切だ。",
+      "reading": null,
+      "indonesian": "It is important to have a sense of your own.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

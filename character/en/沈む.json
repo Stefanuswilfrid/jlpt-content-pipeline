@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "沈む",
+    "reading": "しずむ",
+    "romaji": "shizumu",
+    "jlpt": "N3",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to sink",
+          "to go under",
+          "to submerge"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go down (e.g. sun)",
+          "to set",
+          "to descend"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to feel depressed",
+          "to become subdued",
+          "to become somber"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "石が流れて木の葉が沈む",
+      "reading": "いしがながれてこのはがしずむ",
+      "meaning": "there are exceptions to every rule",
+      "type": "proverb"
+    },
+    {
+      "word": "沈む瀬あれば浮かぶ瀬あり",
+      "reading": "しずむせあればうかぶせあり",
+      "meaning": "life has its ups and downs",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

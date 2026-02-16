@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "約",
+    "reading": "やく",
+    "romaji": "yaku",
+    "jlpt": "N3",
+    "frequency": 16750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "approximately",
+          "about"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "promise",
+          "appointment",
+          "engagement"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shortening",
+          "reduction",
+          "simplification"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "contraction (in phonetics)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "契約",
+      "reading": "けいやく",
+      "meaning": "contract"
+    },
+    {
+      "word": "婚約",
+      "reading": "こんやく",
+      "meaning": "engagement"
+    },
+    {
+      "word": "節約",
+      "reading": "せつやく",
+      "meaning": "economising"
+    },
+    {
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "promise"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "reservation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "質素倹約",
+      "reading": "しっそけんやく",
+      "meaning": "(practice of) simplicity and frugality",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "約束するよ。",
+      "reading": null,
+      "english": "I give you my word.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "約束するよ。",
+      "reading": null,
+      "english": "I give you my word.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "約束するよ。",
+      "reading": null,
+      "english": "I promise.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あいつなら、ちゃんと約束を守るよ。",
+      "reading": null,
+      "english": "You can trust him to keep his word.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はそのロープをほどかないと約束しなさい。",
+      "reading": null,
+      "english": "You must promise not to take the rope off.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はあくまでも約束を守らなければならない。",
+      "reading": null,
+      "english": "You must stick to your promise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の約束を当てにしている。",
+      "reading": null,
+      "english": "I rest on your promise.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の考えを要約して下さい。",
+      "reading": null,
+      "english": "Please sum up your idea.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

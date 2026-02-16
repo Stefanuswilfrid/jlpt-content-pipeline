@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "要領",
+    "reading": "ようりょう",
+    "romaji": "youryou",
+    "jlpt": "N2",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "point",
+          "gist",
+          "essentials",
+          "tenets",
+          "outline"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "knack",
+          "trick",
+          "the ropes"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "要旨",
+      "reading": "ようし",
+      "meaning": "(main) point"
+    },
+    {
+      "word": "領事",
+      "reading": "りょうじ",
+      "meaning": "consul"
+    },
+    {
+      "word": "領収",
+      "reading": "りょうしゅう",
+      "meaning": "receipt (of money)"
+    },
+    {
+      "word": "領域",
+      "reading": "りょういき",
+      "meaning": "territory"
+    },
+    {
+      "word": "領海",
+      "reading": "りょうかい",
+      "meaning": "territorial waters"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "不得要領",
+      "reading": "ふとくようりょう",
+      "meaning": "vague",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その批評家の言うことはいつも簡潔で要領を得ている。",
+      "reading": null,
+      "english": "What the critic says is always concise and to the point.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この報告書は要領をえていない。",
+      "reading": null,
+      "english": "This report isn't to the point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの答えは要領を得ていない。",
+      "reading": null,
+      "english": "Your answer is not to the point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "妹は要領が悪くて損ばかりしている。",
+      "reading": null,
+      "english": "My sister is clumsy, which is a disadvantage to her.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私、幹事をやるのが初めてだから要領が悪いかもしれません。",
+      "reading": null,
+      "english": "This is the first time I've worked as a coordinator, so I may not have the hang of it yet.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

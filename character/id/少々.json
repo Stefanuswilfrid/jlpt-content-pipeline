@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "少々",
+    "reading": "しょうしょう",
+    "romaji": "shoushou",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sedikit; pendek (waktu) (formal untuk 少し (すこし))"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "a little while",
+          "a short time",
+          "a moment",
+          "a minute",
+          "a second"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "少しも",
+      "reading": "すこしも",
+      "meaning": "sedikit pun, tidak sedikit pun."
+    },
+    {
+      "word": "少年",
+      "reading": "しょうねん",
+      "meaning": "anak laki-laki, remaja"
+    },
+    {
+      "word": "減少",
+      "reading": "げんしょう",
+      "meaning": "penurunan, pengurangan, kemerosotan"
+    },
+    {
+      "word": "少女",
+      "reading": "しょうじょ",
+      "meaning": "gadis muda"
+    },
+    {
+      "word": "多少",
+      "reading": "たしょう",
+      "meaning": "sedikit (sama seperti 少し (すこし))"
+    },
+    {
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "sedikit, jarang"
+    },
+    {
+      "word": "青少年",
+      "reading": "せいしょうねん",
+      "meaning": "pemuda, orang muda"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "待合室で少々お待ちください。",
+      "reading": null,
+      "indonesian": "Wait in the waiting room.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "少々お待ち下さい。",
+      "reading": null,
+      "indonesian": "Just a minute.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "少々おまちください。",
+      "reading": null,
+      "indonesian": "Just a minute.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "少々おまちください。",
+      "reading": null,
+      "indonesian": "Just a moment, please.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "少々お待ち下さい。",
+      "reading": null,
+      "indonesian": "Hold on, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ただ今来客中ですので、少々お待ちいただけませんか。",
+      "reading": null,
+      "indonesian": "We have a visitor right now. Would you mind waiting for a while?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "タクシーを拾うのに少々苦労した。",
+      "reading": null,
+      "indonesian": "I had a little difficulty in getting a taxi.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

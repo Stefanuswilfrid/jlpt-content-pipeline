@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "外す",
+    "reading": "はずす",
+    "romaji": "hazusu",
+    "jlpt": "N3",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to remove",
+          "to take off",
+          "to detach",
+          "to unfasten",
+          "to undo"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to drop (e.g. from a team)",
+          "to remove (from a position)",
+          "to exclude",
+          "to expel"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to leave (e.g. one's seat)",
+          "to go away from",
+          "to step out",
+          "to slip away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to dodge (a question, blow, etc.)",
+          "to evade",
+          "to sidestep",
+          "to avoid (e.g. peak season)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to miss (a target, chance, punch, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "going out"
+    },
+    {
+      "word": "案外",
+      "reading": "あんがい",
+      "meaning": "unexpectedly"
+    },
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaning": "foreign"
+    },
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomacy"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "unexpected"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "exception"
+    },
+    {
+      "word": "他",
+      "reading": "ほか",
+      "meaning": "another place"
+    },
+    {
+      "word": "外れる",
+      "reading": "はずれる",
+      "meaning": "to be disconnected"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "羽目を外す",
+      "reading": "はめをはずす",
+      "meaning": "to go over the top",
+      "type": "idiom"
+    },
+    {
+      "word": "道を踏み外す",
+      "reading": "みちをふみはずす",
+      "meaning": "to go astray",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたはNNCを取り外すことができます。",
+      "reading": null,
+      "english": "You can remove the NNC.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはNNCを取り外すことができます。",
+      "reading": null,
+      "english": "You can remove the NNC.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

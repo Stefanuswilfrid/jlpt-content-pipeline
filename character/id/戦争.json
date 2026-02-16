@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "戦争",
+    "reading": "せんそう",
+    "romaji": "sensou",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "perang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "fighting",
+          "fierce competition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "競争",
+      "reading": "きょうそう",
+      "meaning": "kompetisi, kontes"
+    },
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaning": "tantangan, pembangkangan"
+    },
+    {
+      "word": "戦い",
+      "reading": "たたかい",
+      "meaning": "pertempuran, pertarungan"
+    },
+    {
+      "word": "大戦",
+      "reading": "たいせん",
+      "meaning": "perang besar, pertempuran besar"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

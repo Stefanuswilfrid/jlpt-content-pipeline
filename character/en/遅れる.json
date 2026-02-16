@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "遅れる",
+    "reading": "おくれる",
+    "romaji": "okureru",
+    "jlpt": "N4",
+    "frequency": 23250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be late",
+          "to be delayed",
+          "to fall behind schedule",
+          "to be overdue"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to fall behind (in a race, one's studies, etc.)",
+          "to lag behind",
+          "to be behind (the times)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be bereaved of",
+          "to be preceded by (someone) in death"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be slow (of a clock or watch)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "遅刻",
+      "reading": "ちこく",
+      "meaning": "lateness"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "バスに乗り遅れる",
+      "reading": "バスにのりおくれる",
+      "meaning": "to fall behind the times",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

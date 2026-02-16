@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "屋根",
+    "reading": "やね",
+    "romaji": "yane",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "roof"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "根",
+      "reading": "ね",
+      "meaning": "root (of a plant)"
+    },
+    {
+      "word": "小屋",
+      "reading": "こや",
+      "meaning": "hut"
+    },
+    {
+      "word": "部屋",
+      "reading": "へや",
+      "meaning": "room"
+    },
+    {
+      "word": "屋上",
+      "reading": "おくじょう",
+      "meaning": "rooftop"
+    },
+    {
+      "word": "床屋",
+      "reading": "とこや",
+      "meaning": "barbershop"
+    },
+    {
+      "word": "家屋",
+      "reading": "かおく",
+      "meaning": "house"
+    },
+    {
+      "word": "羽",
+      "reading": "はね",
+      "meaning": "feather"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "屋根は強風に飛ばされた。",
+      "reading": null,
+      "english": "The roof was torn off by the gale.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "屋根の雪おろしをしなくてはいけないな。",
+      "reading": null,
+      "english": "We have to clear the snow off the roof.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

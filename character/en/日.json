@@ -1,0 +1,202 @@
+{
+  "definition": {
+    "word": "日",
+    "reading": "ひ",
+    "romaji": "hi",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "day",
+          "days"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sun",
+          "sunshine",
+          "sunlight"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(the) day",
+          "daytime",
+          "daylight"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "date",
+          "deadline"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(past) days",
+          "time (e.g. of one's childhood)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "日記",
+      "reading": "にっき",
+      "meaning": "diary"
+    },
+    {
+      "word": "毎日",
+      "reading": "まいにち",
+      "meaning": "every day"
+    },
+    {
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "today"
+    },
+    {
+      "word": "日常",
+      "reading": "にちじょう",
+      "meaning": "everyday"
+    },
+    {
+      "word": "日中",
+      "reading": "にっちゅう",
+      "meaning": "daytime"
+    },
+    {
+      "word": "曜日",
+      "reading": "ようび",
+      "meaning": "day of the week"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "日進月歩",
+      "reading": "にっしんげっぽ",
+      "meaning": "steady progress",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "旭日昇天",
+      "reading": "きょくじつしょうてん",
+      "meaning": "full of vigor and vitality (like the rising sun)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一日片時",
+      "reading": "いちにちへんじ",
+      "meaning": "short time",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三日天下",
+      "reading": "みっかてんか",
+      "meaning": "short-lived rule",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三日坊主",
+      "reading": "みっかぼうず",
+      "meaning": "person who cannot stick to anything",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "十日の菊",
+      "reading": "とおかのきく",
+      "meaning": "something that comes too late and is useless",
+      "type": "idiom"
+    },
+    {
+      "word": "十年一日",
+      "reading": "じゅうねんいちじつ",
+      "meaning": "without intermission for ten (long) years",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "小春日和",
+      "reading": "こはるびより",
+      "meaning": "Indian summer (around November)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "青天白日",
+      "reading": "せいてんはくじつ",
+      "meaning": "clear weather",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "日常茶飯",
+      "reading": "にちじょうさはん",
+      "meaning": "everyday occurrence",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "明日帰ったら電話します。",
+      "reading": null,
+      "english": "I'll call them tomorrow when I come back.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ほとんどの人が日々の生活について書いている。",
+      "reading": null,
+      "english": "Most people write about their daily life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日本へ行けたらいいのに。",
+      "reading": null,
+      "english": "I wish I could go to Japan.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "今日はもう聞かないよ。",
+      "reading": null,
+      "english": "I won't ask you anything else today.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "日本人ならそんなことはけっしてしないでしょう。",
+      "reading": null,
+      "english": "A Japanese would never do such a thing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "明日会いましょうか？",
+      "reading": null,
+      "english": "We're meeting up tomorrow?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

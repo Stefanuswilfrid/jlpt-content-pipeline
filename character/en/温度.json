@@ -1,0 +1,152 @@
+{
+  "definition": {
+    "word": "温度",
+    "reading": "おんど",
+    "romaji": "ondo",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "temperature"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "system"
+    },
+    {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning": "degree"
+    },
+    {
+      "word": "態度",
+      "reading": "たいど",
+      "meaning": "attitude"
+    },
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "(air) temperature"
+    },
+    {
+      "word": "温暖",
+      "reading": "おんだん",
+      "meaning": "warm"
+    },
+    {
+      "word": "速度",
+      "reading": "そくど",
+      "meaning": "speed"
+    },
+    {
+      "word": "度",
+      "reading": "たび",
+      "meaning": "time (three times, each time, etc.)"
+    },
+    {
+      "word": "度",
+      "reading": "ど",
+      "meaning": "degree (angle, temperature, scale, etc.)"
+    },
+    {
+      "word": "体温",
+      "reading": "たいおん",
+      "meaning": "body temperature"
+    },
+    {
+      "word": "湿度",
+      "reading": "しつど",
+      "meaning": "humidity"
+    },
+    {
+      "word": "適度",
+      "reading": "てきど",
+      "meaning": "moderate (degree)"
+    },
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "this time"
+    },
+    {
+      "word": "年度",
+      "reading": "ねんど",
+      "meaning": "fiscal year (usu. April 1 to March 31 in Japan)"
+    },
+    {
+      "word": "一度",
+      "reading": "いちど",
+      "meaning": "once"
+    },
+    {
+      "word": "温泉",
+      "reading": "おんせん",
+      "meaning": "hot spring"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "altitude"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "温度計は氷点下3度を指しています。",
+      "reading": null,
+      "english": "The thermometer reads three degrees below zero.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "温度計は１５度だった。",
+      "reading": null,
+      "english": "The thermometer stood at 15 degrees.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "温度計は１０度を指している。",
+      "reading": null,
+      "english": "The thermometer reads 10C.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "温度は七十度です。",
+      "reading": null,
+      "english": "The thermometer stands at 70.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "温度はいくらですか。",
+      "reading": null,
+      "english": "What is the temperature?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "温度が下がる。",
+      "reading": null,
+      "english": "The temperature falls.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

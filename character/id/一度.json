@@ -1,0 +1,125 @@
+{
+  "definition": {
+    "word": "一度",
+    "reading": "いちど",
+    "romaji": "ichido",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sekali",
+          "satu kali"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "temporarily",
+          "for a moment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "one degree",
+          "one tone",
+          "one musical interval"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "sekarang, saat ini, masa depan dekat, suatu hari nanti, lain waktu"
+    },
+    {
+      "word": "支度",
+      "reading": "したく",
+      "meaning": "persiapan"
+    },
+    {
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "satu hal"
+    },
+    {
+      "word": "一般",
+      "reading": "いっぱん",
+      "meaning": "umum, rata-rata"
+    },
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "terbaik (terbanyak), pertama, nomor satu"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "di sisi lain; sementara itu"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "untuk sementara waktu, sementara"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "sistem, institusi"
+    },
+    {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning": "derajat, jumlah, tingkat"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "bersama"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "satu orang"
+    },
+    {
+      "word": "態度",
+      "reading": "たいど",
+      "meaning": "sikap, tingkah laku"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人生一度きり",
+      "reading": "じんせいいちどきり",
+      "meaning": "you only live once",
+      "type": "proverb"
+    },
+    {
+      "word": "人生は一度きり",
+      "reading": "じんせいはいちどきり",
+      "meaning": "you only live once",
+      "type": "proverb"
+    },
+    {
+      "word": "問うは一度の恥、問わぬは末代の恥",
+      "reading": "とうはいちどのはじ、とわぬはまつだいのはじ",
+      "meaning": "better to ask and be embarrassed than not ask and never know",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

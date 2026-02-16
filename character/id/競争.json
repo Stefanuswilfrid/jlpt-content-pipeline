@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "競争",
+    "reading": "きょうそう",
+    "romaji": "kyousou",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "kompetisi",
+          "kontes"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "competition (between organisms or species)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "戦争",
+      "reading": "せんそう",
+      "meaning": "perang"
+    },
+    {
+      "word": "比べる",
+      "reading": "くらべる",
+      "meaning": "untuk membandingkan"
+    },
+    {
+      "word": "競技",
+      "reading": "きょうぎ",
+      "meaning": "permainan, pertandingan, kontes"
+    },
+    {
+      "word": "論争",
+      "reading": "ろんそう",
+      "meaning": "kontroversi, perselisihan"
+    },
+    {
+      "word": "争う",
+      "reading": "あらそう",
+      "meaning": "untuk membantah, untuk berdebat, untuk berkelahi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "生存競争",
+      "reading": "せいぞんきょうそう",
+      "meaning": "struggle for existence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "過当競争",
+      "reading": "かとうきょうそう",
+      "meaning": "excessive competition",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

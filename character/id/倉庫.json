@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "倉庫",
+    "reading": "そうこ",
+    "romaji": "souko",
+    "jlpt": "N2",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gudang",
+          "tempat penyimpanan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "車庫",
+      "reading": "しゃこ",
+      "meaning": "garasi, tempat parkir mobil"
+    },
+    {
+      "word": "在庫",
+      "reading": "ざいこ",
+      "meaning": "menimbun, persediaan"
+    },
+    {
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "lemari es"
+    },
+    {
+      "word": "金庫",
+      "reading": "きんこ",
+      "meaning": "brankas, lemari besi"
+    },
+    {
+      "word": "蔵",
+      "reading": "くら",
+      "meaning": "gudang, ruang bawah tanah"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "倉庫には家具が一つの他には何もなかった。",
+      "reading": null,
+      "indonesian": "The warehouse was empty except for a piece of furniture.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "倉庫には家具が一つの他には何もなかった。",
+      "reading": null,
+      "indonesian": "The warehouse was empty except for a piece of furniture.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

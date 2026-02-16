@@ -1,0 +1,106 @@
+{
+  "definition": {
+    "word": "感じ",
+    "reading": "かんじ",
+    "romaji": "kanji",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "feeling",
+          "sense",
+          "impression"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "sense"
+    },
+    {
+      "word": "感情",
+      "reading": "かんじょう",
+      "meaning": "emotion"
+    },
+    {
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "impressions"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "being deeply moved emotionally"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "thanks"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "admiration"
+    },
+    {
+      "word": "実感",
+      "reading": "じっかん",
+      "meaning": "real feeling"
+    },
+    {
+      "word": "感激",
+      "reading": "かんげき",
+      "meaning": "deep emotion"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "空の感じでは、午後には晴れそうですよ。",
+      "reading": null,
+      "english": "Judging from the look of the sky, it will clear up in the afternoon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金の必要を感じる。",
+      "reading": null,
+      "english": "I feel the want of money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "休息をすれば必ず気分がさわやかに感じる。",
+      "reading": null,
+      "english": "If we were to rest a little, we would feel surely feel much more refreshed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "寒さを感じませんか。",
+      "reading": null,
+      "english": "Don't you feel cold?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "寒くて手の感じがまるでない。",
+      "reading": null,
+      "english": "My hands are numb from the cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "definition": {
+    "word": "診察",
+    "reading": "しんさつ",
+    "romaji": "shinsatsu",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pemeriksaan medis (pasien)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観察",
+      "reading": "かんさつ",
+      "meaning": "pengamatan, survei"
+    },
+    {
+      "word": "診る",
+      "reading": "みる",
+      "meaning": "untuk memeriksa (pasien)"
+    },
+    {
+      "word": "警察",
+      "reading": "けいさつ",
+      "meaning": "polisi; kantor polisi"
+    },
+    {
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "diagnosa"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

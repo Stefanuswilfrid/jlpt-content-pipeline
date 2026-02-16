@@ -1,0 +1,140 @@
+{
+  "definition": {
+    "word": "向く",
+    "reading": "むく",
+    "romaji": "muku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk menghadapi"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to face (e.g. east) (of a building, window, etc.)",
+          "to look out on",
+          "to front (on)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to point (of an arrow, compass needle, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be suited to",
+          "to be fit for"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go towards",
+          "to turn to (of one's interests, feelings, etc.)",
+          "to be inclined (to do)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "向ける",
+      "reading": "むける",
+      "meaning": "untuk berbalik ke arah, untuk menunjuk"
+    },
+    {
+      "word": "振り向く",
+      "reading": "ふりむく",
+      "meaning": "memalingkan wajah, berbalik badan"
+    },
+    {
+      "word": "向かう",
+      "reading": "むかう",
+      "meaning": "untuk menghadapi, untuk menuju ke arah"
+    },
+    {
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "arah, jalur, jalan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足が向く",
+      "reading": "あしがむく",
+      "meaning": "to head towards",
+      "type": "idiom"
+    },
+    {
+      "word": "あさっての方を向く",
+      "reading": "あさってのほうをむく",
+      "meaning": "to face the wrong way",
+      "type": "idiom"
+    },
+    {
+      "word": "あさっての方向を向く",
+      "reading": "あさってのほうこうをむく",
+      "meaning": "to face the wrong way",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "北を向くと、東は右側になる。",
+      "reading": null,
+      "indonesian": "If you face north, the east is on your right.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "足の向くままに歩いた。",
+      "reading": null,
+      "indonesian": "We let our legs do the leading.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "足の向くままに歩いた。",
+      "reading": null,
+      "indonesian": "We let our legs do the leading.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "北を向くと、東は右側になる。",
+      "reading": null,
+      "indonesian": "If you face north, the east is on your right.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "姉妹",
+    "reading": "しまい",
+    "romaji": "shimai",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sisters"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "従姉妹",
+      "reading": "いとこ",
+      "meaning": "cousin (female)"
+    },
+    {
+      "word": "妹",
+      "reading": "いもうと",
+      "meaning": "younger sister"
+    },
+    {
+      "word": "姉",
+      "reading": "あね",
+      "meaning": "older sister"
+    },
+    {
+      "word": "お姉さん",
+      "reading": "おねえさん",
+      "meaning": "older sister"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "竿姉妹",
+      "reading": "さおしまい",
+      "meaning": "women who have had sex with the same man",
+      "type": "expression"
+    },
+    {
+      "word": "姉妹丼",
+      "reading": "しまいどん",
+      "meaning": "threesome including two women who are sisters",
+      "type": "expression"
+    },
+    {
+      "word": "棒姉妹",
+      "reading": "ぼうしまい",
+      "meaning": "pogo sisters",
+      "type": "expression"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その二人の姉妹はますます有名になった。",
+      "reading": null,
+      "english": "The two sisters became more and more famous.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その姉妹は二人ともブロンドだ。",
+      "reading": null,
+      "english": "The sisters are both blondes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その姉妹はよく理由もなくけんかをする。",
+      "reading": null,
+      "english": "The sisters often quarrel over nothing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その姉妹はいつも言い争ってばかりいた。",
+      "reading": null,
+      "english": "The two sisters were always quarreling with each other.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その姉妹の２人ともきれいだ。",
+      "reading": null,
+      "english": "Both sisters are pretty.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

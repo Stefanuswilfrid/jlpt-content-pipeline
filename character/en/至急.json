@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "至急",
+    "reading": "しきゅう",
+    "romaji": "shikyuu",
+    "jlpt": "N3",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "urgent",
+          "pressing",
+          "immediate",
+          "prompt",
+          "express"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "urgently",
+          "promptly",
+          "at once",
+          "right away",
+          "without delay",
+          "as soon as possible"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "急速",
+      "reading": "きゅうそく",
+      "meaning": "rapid (e.g. progress)"
+    },
+    {
+      "word": "急に",
+      "reading": "きゅうに",
+      "meaning": "swiftly"
+    },
+    {
+      "word": "急行",
+      "reading": "きゅうこう",
+      "meaning": "hurrying (to somewhere)"
+    },
+    {
+      "word": "急",
+      "reading": "きゅう",
+      "meaning": "sudden"
+    },
+    {
+      "word": "特急",
+      "reading": "とっきゅう",
+      "meaning": "limited express (train for which a limited-express ticket is required)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,35 @@
+{
+  "definition": {
+    "word": "例えば",
+    "reading": "たとえば",
+    "romaji": "tatoeba",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "for example",
+          "for instance",
+          "e.g."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "例",
+      "reading": "れい",
+      "meaning": "example"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "exception"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,160 @@
+{
+  "definition": {
+    "word": "生まれ",
+    "reading": "うまれ",
+    "romaji": "umare",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kelahiran",
+          "tempat kelahiran"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "born in (country, month, imperial era, zodiac year, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "seumur hidup seseorang"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "sepanjang hidup (seseorang)"
+    },
+    {
+      "word": "生",
+      "reading": "なま",
+      "meaning": "mentah, belum diolah"
+    },
+    {
+      "word": "生地",
+      "reading": "きじ",
+      "meaning": "kain; adonan"
+    },
+    {
+      "word": "生き物",
+      "reading": "いきもの",
+      "meaning": "makhluk hidup, makhluk"
+    },
+    {
+      "word": "芝生",
+      "reading": "しばふ",
+      "meaning": "halaman rumput"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(kehidupan) manusia (misalnya, dari konsepsi hingga kematian)"
+    },
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "kehidupan"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "kelahiran"
+    },
+    {
+      "word": "生物",
+      "reading": "せいぶつ",
+      "meaning": "makhluk hidup, organisme"
+    },
+    {
+      "word": "生理",
+      "reading": "せいり",
+      "meaning": "fisiologi, menstruasi"
+    },
+    {
+      "word": "生長",
+      "reading": "せいちょう",
+      "meaning": "pertumbuhan"
+    },
+    {
+      "word": "生物",
+      "reading": "なまもの",
+      "meaning": "makhluk hidup, organisme"
+    },
+    {
+      "word": "留学生",
+      "reading": "りゅうがくせい",
+      "meaning": "mahasiswa internasional"
+    },
+    {
+      "word": "生存",
+      "reading": "せいぞん",
+      "meaning": "eksistensi, keberadaan, kelangsungan hidup"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "口から先に生まれる",
+      "reading": "くちからさきにうまれる",
+      "meaning": "to be of an overly talkative disposition since birth",
+      "type": "idiom"
+    },
+    {
+      "word": "口から生まれる",
+      "reading": "くちからうまれる",
+      "meaning": "to be of an overly talkative disposition since birth",
+      "type": "idiom"
+    },
+    {
+      "word": "生まれぬ先の襁褓さだめ",
+      "reading": "うまれぬさきのむつきさだめ",
+      "meaning": "putting the cart before the horse",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は生まれながらの詩人だ。",
+      "reading": null,
+      "indonesian": "You are made to be a poet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が生まれた日のことはよく覚えている。",
+      "reading": null,
+      "indonesian": "Well do I remember the day you were born.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "議会が最初に生まれたのはいつだか知っていますか。",
+      "reading": null,
+      "indonesian": "Do you know when the first parliament came into being?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "生まれ変わったら、ミュージシャンになりたいな。",
+      "reading": null,
+      "indonesian": "If I were to be born again, I would be a musician.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

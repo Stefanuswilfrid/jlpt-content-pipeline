@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "取り入れる",
+    "reading": "とりいれる",
+    "romaji": "toriireru",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take in",
+          "to gather in"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to adopt (e.g. an idea)",
+          "to accept (e.g. advice)",
+          "to introduce (e.g. technology)",
+          "to borrow (e.g. a word)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to harvest",
+          "to reap",
+          "to gather in"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "手入れ",
+      "reading": "ていれ",
+      "meaning": "care"
+    },
+    {
+      "word": "取り消す",
+      "reading": "とりけす",
+      "meaning": "to cancel"
+    },
+    {
+      "word": "取り出す",
+      "reading": "とりだす",
+      "meaning": "to take out"
+    },
+    {
+      "word": "取る",
+      "reading": "とる",
+      "meaning": "to take"
+    },
+    {
+      "word": "受け入れる",
+      "reading": "うけいれる",
+      "meaning": "to accept"
+    },
+    {
+      "word": "取り巻く",
+      "reading": "とりまく",
+      "meaning": "to surround"
+    },
+    {
+      "word": "取り除く",
+      "reading": "とりのぞく",
+      "meaning": "to remove"
+    },
+    {
+      "word": "取れる",
+      "reading": "とれる",
+      "meaning": "to come off (of a button, handle, lid, etc.)"
+    },
+    {
+      "word": "書き取る",
+      "reading": "かきとる",
+      "meaning": "to write down (what someone says)"
+    },
+    {
+      "word": "入れる",
+      "reading": "いれる",
+      "meaning": "to put in"
+    },
+    {
+      "word": "投入",
+      "reading": "とうにゅう",
+      "meaning": "throwing in"
+    },
+    {
+      "word": "受け取る",
+      "reading": "うけとる",
+      "meaning": "to receive"
+    },
+    {
+      "word": "入手",
+      "reading": "にゅうしゅ",
+      "meaning": "acquisition"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "日本人は新しい思想を非常に良く取り入れる。",
+      "reading": null,
+      "english": "The Japanese are highly receptive to new ideas.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本人は新しい思想を非常に良く取り入れる。",
+      "reading": null,
+      "english": "The Japanese are highly receptive to new ideas.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

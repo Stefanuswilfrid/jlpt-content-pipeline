@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "峠",
+    "reading": "とうげ",
+    "romaji": "touge",
+    "jlpt": "N2",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "punggung bukit",
+          "jalur (pegunungan)",
+          "bagian sulit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "peak (e.g. of summer)",
+          "worst (e.g. of an illness)",
+          "crisis",
+          "critical point",
+          "most difficult part"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "峠を越す",
+      "reading": "とうげをこす",
+      "meaning": "to pass the peak (of something)",
+      "type": "idiom"
+    },
+    {
+      "word": "峠を越える",
+      "reading": "とうげをこえる",
+      "meaning": "to pass the peak (of something)",
+      "type": "idiom"
+    },
+    {
+      "word": "洞ヶ峠を決め込む",
+      "reading": "ほらがとうげをきめこむ",
+      "meaning": "to wait for a good opportunity",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

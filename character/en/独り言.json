@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "独り言",
+    "reading": "ひとりごと",
+    "romaji": "hitorigoto",
+    "jlpt": "N2",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "soliloquy",
+          "monologue",
+          "speaking to oneself"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方言",
+      "reading": "ほうげん",
+      "meaning": "dialect"
+    },
+    {
+      "word": "言葉遣い",
+      "reading": "ことばづかい",
+      "meaning": "speech"
+    },
+    {
+      "word": "片言",
+      "reading": "かたこと",
+      "meaning": "prattle"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "メアリーはどうしようかと独り言をいった。",
+      "reading": null,
+      "english": "Mary said to herself \"What shall I do?\".",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その老人は時々独り言を言う。",
+      "reading": null,
+      "english": "The old man sometimes talks to himself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「どうしたらいいだろう？」と私は独り言を言った。",
+      "reading": null,
+      "english": "\"What shall I do?\" I said to myself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "独り言をいいます。",
+      "reading": null,
+      "english": "I talk to myself.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "祖父はひとりでいると、ときどき独り言を言う。",
+      "reading": null,
+      "english": "My grandfather sometimes talks to himself when he's alone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーはどうしようかと独り言をいった。",
+      "reading": null,
+      "english": "Mary said to herself \"What shall I do?\".",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その老人は時々独り言を言う。",
+      "reading": null,
+      "english": "The old man sometimes talks to himself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

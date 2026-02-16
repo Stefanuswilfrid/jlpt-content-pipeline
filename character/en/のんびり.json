@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "のんびり",
+    "reading": "のんびり",
+    "romaji": "nonbiri",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "at leisure",
+          "in a relaxed manner",
+          "in a carefree manner",
+          "quietly",
+          "peacefully"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to relax",
+          "to take it easy",
+          "to chill"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は働きすぎだよ。しばらくのんびりしたら。",
+      "reading": null,
+      "english": "You are working too hard. Take it easy for a while.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "のんびり行こう。",
+      "reading": null,
+      "english": "Take it easy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "のんびりしていきな。",
+      "reading": null,
+      "english": "Take it easy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "のんびりいこうよ。",
+      "reading": null,
+      "english": "Let's take it easy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ようやくすっかり終わった。これでのんびりできるぞ。",
+      "reading": null,
+      "english": "It is finally all over. Now we can relax.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まる１週間働いたので日曜日はのんびりしました。",
+      "reading": null,
+      "english": "After working all week, we took it easy on Sunday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こっちの人はのんびりしてるね。",
+      "reading": null,
+      "english": "The locals around here really live at a relaxed pace.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

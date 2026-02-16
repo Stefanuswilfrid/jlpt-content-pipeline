@@ -1,0 +1,197 @@
+{
+  "definition": {
+    "word": "身分",
+    "reading": "みぶん",
+    "romaji": "mibun",
+    "jlpt": "N2",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(social) standing",
+          "status",
+          "position",
+          "rank"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "identity",
+          "birth",
+          "origin"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's circumstances",
+          "one's means"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaning": "ingredient"
+    },
+    {
+      "word": "心身",
+      "reading": "しんしん",
+      "meaning": "mind and body"
+    },
+    {
+      "word": "分数",
+      "reading": "ぶんすう",
+      "meaning": "fraction"
+    },
+    {
+      "word": "水分",
+      "reading": "すいぶん",
+      "meaning": "water"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "division"
+    },
+    {
+      "word": "分布",
+      "reading": "ぶんぷ",
+      "meaning": "distribution"
+    },
+    {
+      "word": "刺身",
+      "reading": "さしみ",
+      "meaning": "sashimi (raw sliced fish, shellfish or crustaceans)"
+    },
+    {
+      "word": "分類",
+      "reading": "ぶんるい",
+      "meaning": "classification"
+    },
+    {
+      "word": "分解",
+      "reading": "ぶんかい",
+      "meaning": "disassembly"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "amount"
+    },
+    {
+      "word": "幾分",
+      "reading": "いくぶん",
+      "meaning": "somewhat"
+    },
+    {
+      "word": "等分",
+      "reading": "とうぶん",
+      "meaning": "division into equal parts"
+    },
+    {
+      "word": "養分",
+      "reading": "ようぶん",
+      "meaning": "nutrient"
+    },
+    {
+      "word": "何分",
+      "reading": "なにぶん",
+      "meaning": "some"
+    },
+    {
+      "word": "何分",
+      "reading": "なんぷん",
+      "meaning": "what minute"
+    },
+    {
+      "word": "中身",
+      "reading": "なかみ",
+      "meaning": "contents"
+    },
+    {
+      "word": "配分",
+      "reading": "はいぶん",
+      "meaning": "distribution"
+    },
+    {
+      "word": "分離",
+      "reading": "ぶんり",
+      "meaning": "separation"
+    },
+    {
+      "word": "分裂",
+      "reading": "ぶんれつ",
+      "meaning": "split"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もとは相当の身分の人だったそうです。",
+      "reading": null,
+      "english": "He is said to have been a man of respectable position.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人は、その身分によって、判断されるべきではない。",
+      "reading": null,
+      "english": "A man should not be judged by his station in life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "身分相応に暮らせ。",
+      "reading": null,
+      "english": "Cut your coat according to your cloth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "身分証明書を二枚拝見できますか。",
+      "reading": null,
+      "english": "May I see two pieces of identification?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "身分証明をお持ちですか。",
+      "reading": null,
+      "english": "Do you have any ID?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "身分をわきまえなさい。",
+      "reading": null,
+      "english": "Remember your station in life.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "支配人はドアを開いて身分を名乗った。",
+      "reading": null,
+      "english": "The manager opened the door and identified himself.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

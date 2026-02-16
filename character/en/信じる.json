@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "信じる",
+    "reading": "しんじる",
+    "romaji": "shinjiru",
+    "jlpt": "N3",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to believe",
+          "to believe in",
+          "to place trust in",
+          "to confide in",
+          "to have faith in"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "confidence"
+    },
+    {
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "trust (in)"
+    },
+    {
+      "word": "信仰",
+      "reading": "しんこう",
+      "meaning": "(religious) faith"
+    },
+    {
+      "word": "信ずる",
+      "reading": "しんずる",
+      "meaning": "to believe"
+    },
+    {
+      "word": "信号",
+      "reading": "しんごう",
+      "meaning": "signal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の言うことを信じるよ。",
+      "reading": null,
+      "english": "I believe you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君がそんなことを信じるのはばかげている。",
+      "reading": null,
+      "english": "It is foolish of you to believe such a thing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "願っていることはすぐに信じる。",
+      "reading": null,
+      "english": "We soon believe what we desire.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何でそれを信じる気になったの。",
+      "reading": null,
+      "english": "What led you to believe it?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうしてそれを信じるようになりましたか。",
+      "reading": null,
+      "english": "How did you come to believe that?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ですから信じることです。",
+      "reading": null,
+      "english": "So you've got to be a believer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

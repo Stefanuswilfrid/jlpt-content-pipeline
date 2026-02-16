@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "週",
+    "reading": "しゅう",
+    "romaji": "shuu",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "week"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "this week"
+    },
+    {
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "last week"
+    },
+    {
+      "word": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "every week"
+    },
+    {
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "next week"
+    },
+    {
+      "word": "再来週",
+      "reading": "さらいしゅう",
+      "meaning": "week after next"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "先週中国語を習い始めました。",
+      "reading": null,
+      "english": "I started learning Chinese last week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この調子じゃ今週中に終わりそうにないね。",
+      "reading": null,
+      "english": "At this rate, we're not likely to be done before the end of the week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "先週中国語を習い始めました。",
+      "reading": null,
+      "english": "I started learning Chinese last week.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

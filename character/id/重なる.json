@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "重なる",
+    "reading": "かさなる",
+    "romaji": "kasanaru",
+    "jlpt": "N3",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "ditumpuk",
+          "saling bertumpuk"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come one after another",
+          "to happen over and over",
+          "to pile up (e.g. stress)",
+          "to accumulate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to overlap (each other)",
+          "to occur at the same time",
+          "to happen simultaneously"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "重要",
+      "reading": "じゅうよう",
+      "meaning": "penting, esensial"
+    },
+    {
+      "word": "重大",
+      "reading": "じゅうだい",
+      "meaning": "serius, penting"
+    },
+    {
+      "word": "貴重",
+      "reading": "きちょう",
+      "meaning": "berharga, bernilai"
+    },
+    {
+      "word": "重視",
+      "reading": "じゅうし",
+      "meaning": "pentingnya, tekanan"
+    },
+    {
+      "word": "慎重",
+      "reading": "しんちょう",
+      "meaning": "hati-hati, bijaksana, waspada"
+    },
+    {
+      "word": "体重",
+      "reading": "たいじゅう",
+      "meaning": "berat badan"
+    },
+    {
+      "word": "尊重",
+      "reading": "そんちょう",
+      "meaning": "rasa hormat, penghargaan, rasa hormat"
+    },
+    {
+      "word": "重ねる",
+      "reading": "かさねる",
+      "meaning": "menumpuk, menaruh sesuatu di atas yang lain, menimbun"
+    },
+    {
+      "word": "重体",
+      "reading": "じゅうたい",
+      "meaning": "sakit parah, kondisi kritis"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "不幸は重なるものだ。",
+      "reading": null,
+      "indonesian": "Misfortunes always come in threes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "先生はトムのたび重なる欠席を心配した。",
+      "reading": null,
+      "indonesian": "The teacher was worried by Tom's frequent absences from class.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "先生はトムのたび重なる欠席を心配した。",
+      "reading": null,
+      "indonesian": "The teacher was worried by Tom's frequent absences from class.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "不幸は重なるものだ。",
+      "reading": null,
+      "indonesian": "Misfortunes always come in threes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

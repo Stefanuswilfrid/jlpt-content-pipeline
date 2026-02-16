@@ -1,0 +1,155 @@
+{
+  "definition": {
+    "word": "進行",
+    "reading": "しんこう",
+    "romaji": "shinkou",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "maju"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "progress (of work, activities, etc.)",
+          "advance",
+          "making headway"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "progression (of a disease, global warming, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "progression (e.g. chord progression)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "terbitan (publikasi)"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "praktik, pelaksanaan (misalnya, program), realisasi"
+    },
+    {
+      "word": "飛行",
+      "reading": "ひこう",
+      "meaning": "penerbangan, terbang"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "mendahului, berjalan lebih dulu"
+    },
+    {
+      "word": "進学",
+      "reading": "しんがく",
+      "meaning": "melanjutkan ke universitas"
+    },
+    {
+      "word": "前進",
+      "reading": "ぜんしん",
+      "meaning": "maju, mendorong, berkembang"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "modis, tren, lazim"
+    },
+    {
+      "word": "進歩",
+      "reading": "しんぽ",
+      "meaning": "perbaikan, kemajuan, pengembangan"
+    },
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "praktik adat, kebiasaan, acara tradisional"
+    },
+    {
+      "word": "刊行",
+      "reading": "かんこう",
+      "meaning": "publikasi, terbitan"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "jalan, melewati"
+    },
+    {
+      "word": "進める",
+      "reading": "すすめる",
+      "meaning": "untuk memajukan, untuk mempromosikan, untuk mempercepat"
+    },
+    {
+      "word": "流行る",
+      "reading": "はやる",
+      "meaning": "menjadi populer, menjadi tren"
+    },
+    {
+      "word": "行き",
+      "reading": "いき",
+      "meaning": "pergi"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "tindakan, perilaku, tingkah laku"
+    },
+    {
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "kenakalan, pelanggaran"
+    },
+    {
+      "word": "行儀",
+      "reading": "ぎょうぎ",
+      "meaning": "tata krama"
+    },
+    {
+      "word": "決行",
+      "reading": "けっこう",
+      "meaning": "melakukan (dengan tekad), melaksanakan (misalnya, sebuah rencana)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その計画はゆっくりと進行している。",
+      "reading": null,
+      "indonesian": "That project is proceeding slowly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

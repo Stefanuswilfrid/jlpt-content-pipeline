@@ -1,0 +1,117 @@
+{
+  "definition": {
+    "word": "経度",
+    "reading": "けいど",
+    "romaji": "keido",
+    "jlpt": "N2",
+    "frequency": 22750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "garis bujur"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "年度",
+      "reading": "ねんど",
+      "meaning": "tahun, tahun fiskal"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "ketinggian, tinggi; tingkat lanjut"
+    },
+    {
+      "word": "限度",
+      "reading": "げんど",
+      "meaning": "batas, batasan"
+    },
+    {
+      "word": "濃度",
+      "reading": "のうど",
+      "meaning": "konsentrasi, kepadatan"
+    },
+    {
+      "word": "角度",
+      "reading": "かくど",
+      "meaning": "sudut"
+    },
+    {
+      "word": "加速度",
+      "reading": "かそくど",
+      "meaning": "percepatan"
+    },
+    {
+      "word": "緯度",
+      "reading": "いど",
+      "meaning": "garis lintang (navigasi)"
+    },
+    {
+      "word": "毎度",
+      "reading": "まいど",
+      "meaning": "setiap kali, salam umum di sektor jasa"
+    },
+    {
+      "word": "経営",
+      "reading": "けいえい",
+      "meaning": "manajemen, administrasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この線は経度を表している。",
+      "reading": null,
+      "indonesian": "This line represents the longitude.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "赤道における経度1度当たりの長さ。",
+      "reading": null,
+      "indonesian": "Distance per degree of longitude at equator.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この線は経度を表している。",
+      "reading": null,
+      "indonesian": "This line represents the longitude.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この線は経度を表している。",
+      "reading": null,
+      "indonesian": "This line shows the longitude.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "赤道における経度1度当たりの長さ。",
+      "reading": null,
+      "indonesian": "Distance per degree of longitude at equator.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この線は経度を表している。",
+      "reading": null,
+      "indonesian": "This line shows the longitude.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

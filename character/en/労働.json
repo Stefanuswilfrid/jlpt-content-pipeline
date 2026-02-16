@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "労働",
+    "reading": "ろうどう",
+    "romaji": "roudou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "labor",
+          "labour",
+          "work"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Labour Party"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "苦労",
+      "reading": "くろう",
+      "meaning": "trouble"
+    },
+    {
+      "word": "働き",
+      "reading": "はたらき",
+      "meaning": "work"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "automatic"
+    },
+    {
+      "word": "働く",
+      "reading": "はたらく",
+      "meaning": "to work"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "機械力が肉体労働にとって代わった。",
+      "reading": null,
+      "english": "Mechanical power took the place of manual labor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英国では労働祭は五月にある。",
+      "reading": null,
+      "english": "In England, Labor Day is in May.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メーデーは世界の労働者のお祭りの日でもあります。",
+      "reading": null,
+      "english": "May Day is also a festival day for the workers in the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "仲良し",
+    "reading": "なかよし",
+    "romaji": "nakayoshi",
+    "jlpt": "N2",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "close friendship",
+          "close friend",
+          "good friend",
+          "bosom buddy",
+          "chum",
+          "pal"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "intimate relations",
+          "sexual intercourse",
+          "sex"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "仲直り",
+      "reading": "なかなおり",
+      "meaning": "reconciliation"
+    },
+    {
+      "word": "仲人",
+      "reading": "なこうど",
+      "meaning": "matchmaker"
+    },
+    {
+      "word": "善良",
+      "reading": "ぜんりょう",
+      "meaning": "good (person, nature, etc.)"
+    },
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaning": "companion"
+    },
+    {
+      "word": "不良",
+      "reading": "ふりょう",
+      "meaning": "bad"
+    },
+    {
+      "word": "仲",
+      "reading": "なか",
+      "meaning": "relation"
+    },
+    {
+      "word": "改良",
+      "reading": "かいりょう",
+      "meaning": "improvement"
+    },
+    {
+      "word": "良好",
+      "reading": "りょうこう",
+      "meaning": "good"
+    },
+    {
+      "word": "良識",
+      "reading": "りょうしき",
+      "meaning": "good sense"
+    },
+    {
+      "word": "良質",
+      "reading": "りょうしつ",
+      "meaning": "good quality"
+    },
+    {
+      "word": "良心",
+      "reading": "りょうしん",
+      "meaning": "conscience"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "わたしはベスと大の仲良しです。",
+      "reading": null,
+      "english": "I am good friends with Beth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メアリーと私は仲良しになりました。",
+      "reading": null,
+      "english": "Mary and I became good friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ナンシーは私の妹と５年以上も仲良しだ。",
+      "reading": null,
+      "english": "Nancy has been on good terms with my sister for more than five years.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "トムと私は仲良しです。",
+      "reading": null,
+      "english": "Tom and I are good friends.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムとジョンは仲良しです。",
+      "reading": null,
+      "english": "Tom and John are good friends.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "私はビルと仲良しです。",
+      "reading": null,
+      "english": "I am good friends with Bill.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

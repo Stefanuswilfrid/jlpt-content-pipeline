@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "評判",
+    "reading": "ひょうばん",
+    "romaji": "hyouban",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "reputation",
+          "(public) estimation",
+          "popularity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "rumour",
+          "rumor",
+          "talk (e.g. of the town)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "fame",
+          "notoriety"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "裁判",
+      "reading": "さいばん",
+      "meaning": "trial"
+    },
+    {
+      "word": "判断",
+      "reading": "はんだん",
+      "meaning": "judgment"
+    },
+    {
+      "word": "批判",
+      "reading": "ひはん",
+      "meaning": "criticism"
+    },
+    {
+      "word": "評価",
+      "reading": "ひょうか",
+      "meaning": "valuation"
+    },
+    {
+      "word": "審判",
+      "reading": "しんぱん",
+      "meaning": "judgement"
+    },
+    {
+      "word": "批評",
+      "reading": "ひひょう",
+      "meaning": "criticism"
+    },
+    {
+      "word": "判",
+      "reading": "はん",
+      "meaning": "seal"
+    },
+    {
+      "word": "判事",
+      "reading": "はんじ",
+      "meaning": "judge"
+    },
+    {
+      "word": "評論",
+      "reading": "ひょうろん",
+      "meaning": "criticism"
+    },
+    {
+      "word": "判子",
+      "reading": "はんこ",
+      "meaning": "seal (used in lieu of a signature)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

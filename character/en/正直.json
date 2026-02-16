@@ -1,0 +1,199 @@
+{
+  "definition": {
+    "word": "正直",
+    "reading": "しょうじき",
+    "romaji": "shoujiki",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "honest",
+          "frank",
+          "candid",
+          "straightforward"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "honestly",
+          "frankly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "修正",
+      "reading": "しゅうせい",
+      "meaning": "amendment"
+    },
+    {
+      "word": "正式",
+      "reading": "せいしき",
+      "meaning": "formal"
+    },
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaning": "direct"
+    },
+    {
+      "word": "正午",
+      "reading": "しょうご",
+      "meaning": "noon"
+    },
+    {
+      "word": "正",
+      "reading": "せい",
+      "meaning": "(logical) true"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "injustice"
+    },
+    {
+      "word": "直",
+      "reading": "じき",
+      "meaning": "soon"
+    },
+    {
+      "word": "直ちに",
+      "reading": "ただちに",
+      "meaning": "at once"
+    },
+    {
+      "word": "公正",
+      "reading": "こうせい",
+      "meaning": "justice"
+    },
+    {
+      "word": "正規",
+      "reading": "せいき",
+      "meaning": "regular"
+    },
+    {
+      "word": "直に",
+      "reading": "じかに",
+      "meaning": "directly"
+    },
+    {
+      "word": "直に",
+      "reading": "じきに",
+      "meaning": "immediately"
+    },
+    {
+      "word": "直",
+      "reading": "ちょく",
+      "meaning": "direct"
+    },
+    {
+      "word": "正体",
+      "reading": "しょうたい",
+      "meaning": "true character"
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaning": "accurate"
+    },
+    {
+      "word": "直後",
+      "reading": "ちょくご",
+      "meaning": "immediately following"
+    },
+    {
+      "word": "直前",
+      "reading": "ちょくぜん",
+      "meaning": "just before"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "三度目の正直",
+      "reading": "さんどめのしょうじき",
+      "meaning": "third time lucky",
+      "type": "proverb"
+    },
+    {
+      "word": "体は正直",
+      "reading": "からだはしょうじき",
+      "meaning": "the body is honest",
+      "type": "proverb"
+    },
+    {
+      "word": "正直者が馬鹿を見る",
+      "reading": "しょうじきものがばかをみる",
+      "meaning": "honesty does not pay",
+      "type": "proverb"
+    },
+    {
+      "word": "正直の頭に神宿る",
+      "reading": "しょうじきのこうべにかみやどる",
+      "meaning": "honesty is the best policy",
+      "type": "idiom"
+    },
+    {
+      "word": "正直は一生の宝",
+      "reading": "しょうじきはいっしょうのたから",
+      "meaning": "honesty is the best policy",
+      "type": "proverb"
+    },
+    {
+      "word": "正直は最善の策",
+      "reading": "しょうじきはさいぜんのさく",
+      "meaning": "honesty is the best policy",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は正直者のようだ。",
+      "reading": null,
+      "english": "You seem an honest man.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は正直者のようだ。",
+      "reading": null,
+      "english": "You seem to be an honest man.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まず第一に、あなたは正直でなければならない。",
+      "reading": null,
+      "english": "To begin with, you must be honest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ぼろ服が正直者を包んでいるかもしれない。",
+      "reading": null,
+      "english": "A ragged coat may cover an honest man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ブルックさんは正直な人のようだ。",
+      "reading": null,
+      "english": "It seems that Mr Brooke is an honest man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

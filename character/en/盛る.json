@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "盛る",
+    "reading": "さかる",
+    "romaji": "sakaru",
+    "jlpt": "N2",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become vigorous",
+          "to gain force",
+          "to become more active"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to prosper",
+          "to thrive",
+          "to flourish"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be in heat",
+          "to be in rut",
+          "to copulate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "繁盛",
+      "reading": "はんじょう",
+      "meaning": "prosperity"
+    },
+    {
+      "word": "盛り上がる",
+      "reading": "もりあがる",
+      "meaning": "to swell"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "古い革袋に新しい酒を盛る",
+      "reading": "ふるいかわぶくろにあたらしいさけをもる",
+      "meaning": "to pour new wine into old wineskins",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

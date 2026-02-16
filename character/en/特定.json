@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "特定",
+    "reading": "とくてい",
+    "romaji": "tokutei",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "specific",
+          "particular",
+          "designated",
+          "special"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "specifying",
+          "designating",
+          "identifying",
+          "pinpointing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一定",
+      "reading": "いってい",
+      "meaning": "to fix"
+    },
+    {
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "designation"
+    },
+    {
+      "word": "特殊",
+      "reading": "とくしゅ",
+      "meaning": "special"
+    },
+    {
+      "word": "定員",
+      "reading": "ていいん",
+      "meaning": "fixed number (of people)"
+    },
+    {
+      "word": "推定",
+      "reading": "すいてい",
+      "meaning": "presumption"
+    },
+    {
+      "word": "特色",
+      "reading": "とくしょく",
+      "meaning": "characteristic"
+    },
+    {
+      "word": "測定",
+      "reading": "そくてい",
+      "meaning": "measurement"
+    },
+    {
+      "word": "肯定",
+      "reading": "こうてい",
+      "meaning": "affirmation"
+    },
+    {
+      "word": "定価",
+      "reading": "ていか",
+      "meaning": "list price"
+    },
+    {
+      "word": "定期券",
+      "reading": "ていきけん",
+      "meaning": "commuter pass"
+    },
+    {
+      "word": "断定",
+      "reading": "だんてい",
+      "meaning": "conclusion"
+    },
+    {
+      "word": "特売",
+      "reading": "とくばい",
+      "meaning": "special sale"
+    },
+    {
+      "word": "定規",
+      "reading": "じょうぎ",
+      "meaning": "(measuring) ruler"
+    },
+    {
+      "word": "定休日",
+      "reading": "ていきゅうび",
+      "meaning": "regular holiday"
+    },
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaning": "special"
+    },
+    {
+      "word": "協定",
+      "reading": "きょうてい",
+      "meaning": "arrangement"
+    },
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "decision"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "plans"
+    },
+    {
+      "word": "特徴",
+      "reading": "とくちょう",
+      "meaning": "feature"
+    },
+    {
+      "word": "安定",
+      "reading": "あんてい",
+      "meaning": "stability"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "別に特定の人をさして言っているのではない。",
+      "reading": null,
+      "english": "I am not alluding to any person in particular.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "警察はいまだ犯人を特定できないでいる。",
+      "reading": null,
+      "english": "The police still can't point out who committed the crime.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

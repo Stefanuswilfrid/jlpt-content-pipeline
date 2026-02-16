@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "負け",
+    "reading": "まけ",
+    "romaji": "make",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kekalahan",
+          "kehilangan"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "failing to live up to (one's name, looks, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "discount",
+          "loss (on a sale)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "勝負",
+      "reading": "しょうぶ",
+      "meaning": "kemenangan atau kekalahan, permainan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "負けるが勝ち",
+      "reading": "まけるがかち",
+      "meaning": "he that fights and runs away may live to fight another day",
+      "type": "proverb"
+    },
+    {
+      "word": "負け犬の遠吠え",
+      "reading": "まけいぬのとおぼえ",
+      "meaning": "backbiting of a coward",
+      "type": "idiom"
+    },
+    {
+      "word": "勝つも負けるも時の運",
+      "reading": "かつもまけるもときのうん",
+      "meaning": "victory depends on the turn of fortune",
+      "type": "proverb"
+    },
+    {
+      "word": "勝てば官軍、負ければ賊軍",
+      "reading": "かてばかんぐん、まければぞくぐん",
+      "meaning": "might is right",
+      "type": "proverb"
+    },
+    {
+      "word": "勝って驕らず負けて腐らず",
+      "reading": "かっておごらずまけてくさらず",
+      "meaning": "in victory, remember your humility; in defeat, remember your fighting spirit",
+      "type": "proverb"
+    },
+    {
+      "word": "相撲に勝って勝負に負ける",
+      "reading": "すもうにかってしょうぶにまける",
+      "meaning": "to ultimately fail despite being in a favourable position",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "負けない！",
+      "reading": null,
+      "indonesian": "I won't lose!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "負けない！",
+      "reading": null,
+      "indonesian": "I won't lose!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君の歌はプロ顔負けだ。",
+      "reading": null,
+      "indonesian": "Your singing puts professional singers to shame.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "競馬で負けて、スッテンテンだよ。",
+      "reading": null,
+      "indonesian": "I just lost at the races so I'm flat broke.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

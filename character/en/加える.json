@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "加える",
+    "reading": "くわえる",
+    "romaji": "kuwaeru",
+    "jlpt": "N3",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to add",
+          "to add up",
+          "to sum up",
+          "to append",
+          "to annex"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to increase",
+          "to gather (e.g. speed)",
+          "to pick up"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to include",
+          "to count in",
+          "to let join"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to inflict (damage)",
+          "to deal",
+          "to give"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "加減",
+      "reading": "かげん",
+      "meaning": "degree"
+    },
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaning": "increase"
+    },
+    {
+      "word": "加味",
+      "reading": "かみ",
+      "meaning": "seasoning"
+    },
+    {
+      "word": "追加",
+      "reading": "ついか",
+      "meaning": "addition"
+    },
+    {
+      "word": "加速",
+      "reading": "かそく",
+      "meaning": "acceleration"
+    },
+    {
+      "word": "加熱",
+      "reading": "かねつ",
+      "meaning": "heating"
+    },
+    {
+      "word": "加わる",
+      "reading": "くわわる",
+      "meaning": "to be added to"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaning": "participation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "新しいページを加える",
+      "reading": "あたらしいページをくわえる",
+      "meaning": "to add a new page (e.g. to the annals of history)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "レモンを加えると、それはすっぱくなるだろう。",
+      "reading": null,
+      "english": "If you add lemon, it will become sour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スパゲッティのソースにバジルを加えるのが好きです。",
+      "reading": null,
+      "english": "I like to add basil to season my spaghetti sauce.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "５と２を加えると７になる。",
+      "reading": null,
+      "english": "Add 5 and 2, and you get 7.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "３を４に加えると７になる。",
+      "reading": null,
+      "english": "If you add three to four, you get seven.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "３に５を加えると８になる。",
+      "reading": null,
+      "english": "Add 5 to 3 and you have 8.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

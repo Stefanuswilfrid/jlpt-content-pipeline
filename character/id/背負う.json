@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "背負う",
+    "reading": "せおう",
+    "romaji": "seou",
+    "jlpt": "N2",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "dibebani; dipikul di punggung atau pundak."
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be burdened with",
+          "to take responsibility for"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have (something) in the background",
+          "to be in front (of something)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be conceited",
+          "to think highly of oneself"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "勝負",
+      "reading": "しょうぶ",
+      "meaning": "kemenangan atau kekalahan, permainan"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "beban; muatan"
+    },
+    {
+      "word": "背く",
+      "reading": "そむく",
+      "meaning": "untuk melawan, bertentangan dengan"
+    },
+    {
+      "word": "負かす",
+      "reading": "まかす",
+      "meaning": "untuk mengalahkan"
+    },
+    {
+      "word": "負傷",
+      "reading": "ふしょう",
+      "meaning": "cedera, luka"
+    },
+    {
+      "word": "負う",
+      "reading": "おう",
+      "meaning": "menanggung, berutang"
+    },
+    {
+      "word": "負ける",
+      "reading": "まける",
+      "meaning": "kalah (dalam permainan) (v.i.), dikalahkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "十字架を背負う",
+      "reading": "じゅうじかをせおう",
+      "meaning": "to have a cross to bear",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,172 @@
+{
+  "definition": {
+    "word": "働き",
+    "reading": "はたらき",
+    "romaji": "hataraki",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "work",
+          "labor",
+          "labour"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "achievement",
+          "performance",
+          "ability",
+          "talent"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "salary",
+          "income",
+          "earnings"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "action",
+          "activity",
+          "workings",
+          "function",
+          "operation",
+          "movement",
+          "motion"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "conjugation",
+          "inflection"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "労働",
+      "reading": "ろうどう",
+      "meaning": "labor"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "automatic"
+    },
+    {
+      "word": "働く",
+      "reading": "はたらく",
+      "meaning": "to work"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無精者の一時働き",
+      "reading": "ぶしょうもののいっときばたらき",
+      "meaning": "the ambition of the lazy does not last",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "日曜日でも、働きます。",
+      "reading": null,
+      "english": "I work even on Sunday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日曜日でも、働きます。",
+      "reading": null,
+      "english": "I work even on Sunday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日曜日でも、働きます。",
+      "reading": null,
+      "english": "I even work on Sundays.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "働きすぎですよ。",
+      "reading": null,
+      "english": "You work too hard.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は働きすぎだよ。しばらくのんびりしたら。",
+      "reading": null,
+      "english": "You are working too hard. Take it easy for a while.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは働き者だ。",
+      "reading": null,
+      "english": "You're really a hard worker.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ほんと、働き者ね。",
+      "reading": null,
+      "english": "You're really a hard worker.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ほんと、働き者なんだから。",
+      "reading": null,
+      "english": "You're really a hard worker.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君はあまり働きすぎないほうがよい。",
+      "reading": null,
+      "english": "You had better not work too hard.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君のユーモアのセンスが働き始めている。",
+      "reading": null,
+      "english": "Your sense of humor is beginning to exert itself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

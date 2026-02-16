@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "地理",
+    "reading": "ちり",
+    "romaji": "chiri",
+    "jlpt": "N4",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "geography"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無理",
+      "reading": "むり",
+      "meaning": "unreasonable"
+    },
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "reason"
+    },
+    {
+      "word": "地震",
+      "reading": "じしん",
+      "meaning": "earthquake"
+    },
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "subway"
+    },
+    {
+      "word": "地図",
+      "reading": "ちず",
+      "meaning": "map"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "sorting"
+    },
+    {
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "ideal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "地理は弱い。",
+      "reading": null,
+      "english": "I am weak in geography.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

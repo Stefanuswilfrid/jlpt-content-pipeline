@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "受付",
+    "reading": "うけつけ",
+    "romaji": "uketsuke",
+    "jlpt": "N4",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reception (desk)",
+          "information desk",
+          "receptionist",
+          "information clerk"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "receipt",
+          "acceptance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見つかる",
+      "reading": "みつかる",
+      "meaning": "to be found"
+    },
+    {
+      "word": "受ける",
+      "reading": "うける",
+      "meaning": "to receive"
+    },
+    {
+      "word": "片付ける",
+      "reading": "かたづける",
+      "meaning": "to put in order"
+    },
+    {
+      "word": "寄付",
+      "reading": "きふ",
+      "meaning": "contribution"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "association"
+    },
+    {
+      "word": "日付",
+      "reading": "ひづけ",
+      "meaning": "date"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

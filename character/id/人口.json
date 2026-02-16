@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "人口",
+    "reading": "じんこう",
+    "romaji": "jinkou",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "populasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "common talk"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "人形",
+      "reading": "にんぎょう",
+      "meaning": "boneka, figur"
+    },
+    {
+      "word": "夫",
+      "reading": "おっと",
+      "meaning": "suami"
+    },
+    {
+      "word": "ご主人",
+      "reading": "ごしゅじん",
+      "meaning": "suami (Anda, dia)"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "orang asing"
+    },
+    {
+      "word": "個人",
+      "reading": "こじん",
+      "meaning": "individu, orang pribadi"
+    },
+    {
+      "word": "人間",
+      "reading": "にんげん",
+      "meaning": "manusia, orang"
+    },
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "tanda kehidupan"
+    },
+    {
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "dua orang"
+    },
+    {
+      "word": "人生",
+      "reading": "じんせい",
+      "meaning": "(kehidupan) manusia (misalnya, dari konsepsi hingga kematian)"
+    },
+    {
+      "word": "人物",
+      "reading": "じんぶつ",
+      "meaning": "karakter, kepribadian, pria berbakat"
+    },
+    {
+      "word": "夫人",
+      "reading": "ふじん",
+      "meaning": "istri, Nyonya, perempuan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ヨーロッパはアジアより人口が少ない。",
+      "reading": null,
+      "indonesian": "Europe has a smaller population than Asia.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "メキシコの人口は日本の人口の半分です。",
+      "reading": null,
+      "indonesian": "Mexico has half as many people as Japan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

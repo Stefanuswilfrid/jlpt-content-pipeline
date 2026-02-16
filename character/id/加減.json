@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "加減",
+    "reading": "かげん",
+    "romaji": "kagen",
+    "jlpt": "N3",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "penyesuaian; penambahan dan pengurangan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(health) condition",
+          "state of health"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "adjustment",
+          "moderation",
+          "regulation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "addition and subtraction"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "slight sign of ...",
+          "slight state of ..."
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "just right for ..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "加味",
+      "reading": "かみ",
+      "meaning": "bumbu, penyedap rasa"
+    },
+    {
+      "word": "減らす",
+      "reading": "へらす",
+      "meaning": "untuk mengurangi, untuk menurunkan"
+    },
+    {
+      "word": "加える",
+      "reading": "くわえる",
+      "meaning": "menambahkan, merangkum, menjumlahkan"
+    },
+    {
+      "word": "参加",
+      "reading": "さんか",
+      "meaning": "partisipasi"
+    },
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaning": "peningkatan, penambahan"
+    },
+    {
+      "word": "減少",
+      "reading": "げんしょう",
+      "meaning": "penurunan, pengurangan, kemerosotan"
+    },
+    {
+      "word": "加熱",
+      "reading": "かねつ",
+      "meaning": "pemanas"
+    },
+    {
+      "word": "増減",
+      "reading": "ぞうげん",
+      "meaning": "peningkatan dan penurunan, fluktuasi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "さじ加減",
+      "reading": "さじかげん",
+      "meaning": "measured amount (esp. of medicine)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

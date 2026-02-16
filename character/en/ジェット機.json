@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "ジェット機",
+    "reading": "ジェットき",
+    "romaji": "jettoki",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "jet aeroplane",
+          "jet airplane"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "契機",
+      "reading": "けいき",
+      "meaning": "opportunity"
+    },
+    {
+      "word": "有機",
+      "reading": "ゆうき",
+      "meaning": "organic"
+    },
+    {
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "humour"
+    },
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "engine"
+    },
+    {
+      "word": "機構",
+      "reading": "きこう",
+      "meaning": "mechanism"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaning": "function"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaning": "machine"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "airplane"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ジェット機には５００人の乗客がのっていた。",
+      "reading": null,
+      "english": "The jet plane had 500 passengers on board.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジェット機は東京に着陸した。",
+      "reading": null,
+      "english": "The jet landed at Tokyo.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジェット機はプロペラ機よりもずっと速い。",
+      "reading": null,
+      "english": "Jet planes fly much faster than propeller planes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このジェット機は音速の約三倍で飛ぶ。",
+      "reading": null,
+      "english": "This jet travels about three times as fast as the speed of sound.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あのジャンボジェット機は４００人乗れる。",
+      "reading": null,
+      "english": "That jumbo jet accommodates 400 passengers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

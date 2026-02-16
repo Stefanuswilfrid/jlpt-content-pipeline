@@ -1,0 +1,194 @@
+{
+  "definition": {
+    "word": "停車",
+    "reading": "ていしゃ",
+    "romaji": "teisha",
+    "jlpt": "N2",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berhenti (misalnya",
+          "kereta api)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "車庫",
+      "reading": "しゃこ",
+      "meaning": "garasi, tempat parkir mobil"
+    },
+    {
+      "word": "乗車",
+      "reading": "じょうしゃ",
+      "meaning": "naik kereta api, memasuki kereta"
+    },
+    {
+      "word": "車掌",
+      "reading": "しゃしょう",
+      "meaning": "konduktor (kereta api)"
+    },
+    {
+      "word": "車輪",
+      "reading": "しゃりん",
+      "meaning": "roda (mobil)"
+    },
+    {
+      "word": "歯車",
+      "reading": "はぐるま",
+      "meaning": "roda gigi, roda bergerigi"
+    },
+    {
+      "word": "機関車",
+      "reading": "きかんしゃ",
+      "meaning": "lokomotif, mesin"
+    },
+    {
+      "word": "停止",
+      "reading": "ていし",
+      "meaning": "penangguhan, gangguan, penghentian"
+    },
+    {
+      "word": "下車",
+      "reading": "げしゃ",
+      "meaning": "turun, pergi"
+    },
+    {
+      "word": "停電",
+      "reading": "ていでん",
+      "meaning": "pemadaman listrik"
+    },
+    {
+      "word": "駐車",
+      "reading": "ちゅうしゃ",
+      "meaning": "parkir (misalnya, mobil)"
+    },
+    {
+      "word": "汽車",
+      "reading": "きしゃ",
+      "meaning": "kereta api (uap)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "急行列車は各駅停車より一時間も早い。",
+      "reading": null,
+      "indonesian": "The express train is an hour faster than the local.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "やっとバスが停車しました。",
+      "reading": null,
+      "indonesian": "At last, the bus stopped.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスは通りの真中で急停車した。",
+      "reading": null,
+      "indonesian": "The bus stopped suddenly in the middle of the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスは急停車した。",
+      "reading": null,
+      "indonesian": "The bus stopped sharply.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスはどの村にも停車しました。",
+      "reading": null,
+      "indonesian": "The bus stopped in every village.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どのくらい停車しますか。",
+      "reading": null,
+      "indonesian": "How long does this train stop there?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どのくらいの時間、その町に停車していますか。",
+      "reading": null,
+      "indonesian": "How long will it stop there?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "タクシーは信号のところで急停車した。",
+      "reading": null,
+      "indonesian": "The taxi stopped dead at the traffic signal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その列車は各駅停車です。",
+      "reading": null,
+      "indonesian": "The train stops at every station.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その車は急停車した。",
+      "reading": null,
+      "indonesian": "The car came to an abrupt stop.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは各駅停車です。",
+      "reading": null,
+      "indonesian": "This is just the milk run.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この列車は各駅に停車する。",
+      "reading": null,
+      "indonesian": "This train stops at every station.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この電車は各駅停車だよ。",
+      "reading": null,
+      "indonesian": "This train stops at every station.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この電車は中野より先は各駅に停車する。",
+      "reading": null,
+      "indonesian": "This train stops at every station from Nakano on.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "一敗",
+    "reading": "いっぱい",
+    "romaji": "ippai",
+    "jlpt": "N4",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "one defeat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一度",
+      "reading": "いちど",
+      "meaning": "once"
+    },
+    {
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "failure"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "meaning": "one day"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "空は星でいっぱいだ。",
+      "reading": null,
+      "english": "The sky is full of stars.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "空には星がいっぱい見えた。",
+      "reading": null,
+      "english": "The sky was full of stars.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空は星でいっぱいだった。",
+      "reading": null,
+      "english": "The sky was full of stars.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

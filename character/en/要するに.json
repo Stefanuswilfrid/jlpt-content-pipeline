@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "要するに",
+    "reading": "ようするに",
+    "romaji": "yousuruni",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "in short",
+          "in a word",
+          "to sum up",
+          "to put it simply",
+          "to make a long story short",
+          "after all"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "重要",
+      "reading": "じゅうよう",
+      "meaning": "important"
+    },
+    {
+      "word": "要求",
+      "reading": "ようきゅう",
+      "meaning": "demand"
+    },
+    {
+      "word": "主要",
+      "reading": "しゅよう",
+      "meaning": "chief"
+    },
+    {
+      "word": "需要",
+      "reading": "じゅよう",
+      "meaning": "demand"
+    },
+    {
+      "word": "要素",
+      "reading": "ようそ",
+      "meaning": "component"
+    },
+    {
+      "word": "要点",
+      "reading": "ようてん",
+      "meaning": "gist"
+    },
+    {
+      "word": "要領",
+      "reading": "ようりょう",
+      "meaning": "point"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "要するに人生は短い。",
+      "reading": null,
+      "english": "In a word, life is short.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

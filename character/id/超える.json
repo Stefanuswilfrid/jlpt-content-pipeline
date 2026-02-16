@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "越える",
+    "reading": "こえる",
+    "romaji": "koeru",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "melampaui",
+          "melewati",
+          "menyeberang"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to exceed",
+          "to surpass",
+          "to be more (than)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "追い越す",
+      "reading": "おいこす",
+      "meaning": "untuk melewati (misalnya, mobil), untuk melampaui, untuk mengungguli"
+    },
+    {
+      "word": "越す",
+      "reading": "こす",
+      "meaning": "untuk membahas (misalnya, bersama audiens)"
+    },
+    {
+      "word": "乗り越し",
+      "reading": "のりこし",
+      "meaning": "melewati (stasiun seseorang)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "峠を越える",
+      "reading": "とうげをこえる",
+      "meaning": "to pass the peak (of something)",
+      "type": "idiom"
+    },
+    {
+      "word": "一線を越える",
+      "reading": "いっせんをこえる",
+      "meaning": "to cross the line",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "楽器",
+    "reading": "がっき",
+    "romaji": "gakki",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "alat musik"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "武器",
+      "reading": "ぶき",
+      "meaning": "senjata, persenjataan"
+    },
+    {
+      "word": "容器",
+      "reading": "ようき",
+      "meaning": "kontainer, kapal"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaning": "mesin, permesinan"
+    },
+    {
+      "word": "楽",
+      "reading": "らく",
+      "meaning": "kenyamanan, kemudahan"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter, pengukur"
+    },
+    {
+      "word": "磁器",
+      "reading": "じき",
+      "meaning": "porselen, keramik"
+    },
+    {
+      "word": "器官",
+      "reading": "きかん",
+      "meaning": "organ (tubuh, instrumen)"
+    },
+    {
+      "word": "器用",
+      "reading": "きよう",
+      "meaning": "terampil, cekatan"
+    },
+    {
+      "word": "楽しみ",
+      "reading": "たのしみ",
+      "meaning": "kesenangan, kegembiraan"
+    },
+    {
+      "word": "娯楽",
+      "reading": "ごらく",
+      "meaning": "kesenangan, hiburan, rekreasi"
+    },
+    {
+      "word": "器具",
+      "reading": "きぐ",
+      "meaning": "instrumen"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "楽器やってるんだよね？",
+      "reading": null,
+      "indonesian": "You play a musical instrument, don't you?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

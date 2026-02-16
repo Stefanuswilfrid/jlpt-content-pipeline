@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "高級",
+    "reading": "こうきゅう",
+    "romaji": "koukyuu",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "high-class",
+          "high-grade",
+          "high-quality",
+          "high-end",
+          "luxury"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "high-ranking",
+          "high-level",
+          "senior"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "高層",
+      "reading": "こうそう",
+      "meaning": "high-rise (building)"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "altitude"
+    },
+    {
+      "word": "高等",
+      "reading": "こうとう",
+      "meaning": "high class"
+    },
+    {
+      "word": "学級",
+      "reading": "がっきゅう",
+      "meaning": "(school) class"
+    },
+    {
+      "word": "上級",
+      "reading": "じょうきゅう",
+      "meaning": "upper level"
+    },
+    {
+      "word": "初級",
+      "reading": "しょきゅう",
+      "meaning": "elementary level"
+    },
+    {
+      "word": "最高",
+      "reading": "さいこう",
+      "meaning": "best"
+    },
+    {
+      "word": "高校生",
+      "reading": "こうこうせい",
+      "meaning": "senior high school student"
+    },
+    {
+      "word": "級",
+      "reading": "きゅう",
+      "meaning": "(school) grade"
+    },
+    {
+      "word": "高速",
+      "reading": "こうそく",
+      "meaning": "high-speed"
+    },
+    {
+      "word": "残高",
+      "reading": "ざんだか",
+      "meaning": "(bank) balance"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "海外の子会社は最高級品を生産しています。",
+      "reading": null,
+      "english": "Overseas subsidiaries are putting out top-of the-line products.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あおいは、苦学生だから、そんな高級なもの、持てないです。",
+      "reading": null,
+      "english": "I'm a self-supporting student so I can't have that sort of high class thing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あおいは、苦学生だから、そんな高級なもの、持てないです。",
+      "reading": null,
+      "english": "I'm putting myself through school, so I can't have things that are that expensive.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "スライド",
+    "reading": "スライド",
+    "romaji": "suraido",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "slide (for projection)",
+          "transparency"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(microscope) slide"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to slide",
+          "to slip"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to shift (e.g. a group of items in a schedule)",
+          "to move"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "to change (with a sliding scale)",
+          "to index (to)",
+          "to peg"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "年金の額は原則として前年の物価変動にスライドして算出される。",
+      "reading": null,
+      "english": "As a general rule, the pension amount is based on price changes in the previous year.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "年金の額は原則として前年の物価変動にスライドして算出される。",
+      "reading": null,
+      "english": "As a general rule, the pension amount is based on price changes in the previous year.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "次のスライドをお願いします。",
+      "reading": null,
+      "english": "Next slide, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "次のスライドをお願いします。",
+      "reading": null,
+      "english": "Next slide, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

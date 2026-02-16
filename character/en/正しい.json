@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "正しい",
+    "reading": "ただしい",
+    "romaji": "tadashii",
+    "jlpt": "N4",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "right",
+          "correct"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "proper",
+          "righteous",
+          "just",
+          "honest",
+          "truthful",
+          "lawful"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "正月",
+      "reading": "しょうがつ",
+      "meaning": "New Year (esp. first three days)"
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaning": "accurate"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたは正しい。",
+      "reading": null,
+      "english": "You're right.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あなたは正しい。",
+      "reading": null,
+      "english": "You're correct.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あなたは正しい。",
+      "reading": null,
+      "english": "You are right.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

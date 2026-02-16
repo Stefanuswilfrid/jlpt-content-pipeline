@@ -1,0 +1,37 @@
+{
+  "definition": {
+    "word": "互い",
+    "reading": "たがい",
+    "romaji": "tagai",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "each other",
+          "one another"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "相互",
+      "reading": "そうご",
+      "meaning": "mutual"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "武士は相身互い",
+      "reading": "ぶしはあいみたがい",
+      "meaning": "fellow soldiers rely on one another",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

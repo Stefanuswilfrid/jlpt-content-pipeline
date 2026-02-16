@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "近所",
+    "reading": "きんじょ",
+    "romaji": "kinjo",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "neighbourhood",
+          "neighborhood",
+          "vicinity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "recently"
+    },
+    {
+      "word": "事務所",
+      "reading": "じむしょ",
+      "meaning": "office"
+    },
+    {
+      "word": "場所",
+      "reading": "ばしょ",
+      "meaning": "place"
+    },
+    {
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "address (of a home, business, etc.)"
+    },
+    {
+      "word": "近代",
+      "reading": "きんだい",
+      "meaning": "present day"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "近所合壁",
+      "reading": "きんじょがっぺき",
+      "meaning": "immediate neighborhood",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

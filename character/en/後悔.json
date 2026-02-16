@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "後悔",
+    "reading": "こうかい",
+    "romaji": "koukai",
+    "jlpt": "N3",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "regret",
+          "repentance",
+          "remorse"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "今後",
+      "reading": "こんご",
+      "meaning": "from now on"
+    },
+    {
+      "word": "後輩",
+      "reading": "こうはい",
+      "meaning": "junior (at work, school, etc.)"
+    },
+    {
+      "word": "後者",
+      "reading": "こうしゃ",
+      "meaning": "the latter"
+    },
+    {
+      "word": "遅れ",
+      "reading": "おくれ",
+      "meaning": "delay"
+    },
+    {
+      "word": "尻",
+      "reading": "しり",
+      "meaning": "buttocks"
+    },
+    {
+      "word": "悔やむ",
+      "reading": "くやむ",
+      "meaning": "to mourn"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "後悔先に立たず",
+      "reading": "こうかいさきにたたず",
+      "meaning": "it is no use crying over spilt milk",
+      "type": "proverb"
+    },
+    {
+      "word": "やらずに後悔するよりやって後悔したほうがいい",
+      "reading": "やらずにこうかいするよりやってこうかいしたほうがいい",
+      "meaning": "it is better to try and fail than never to try at all",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

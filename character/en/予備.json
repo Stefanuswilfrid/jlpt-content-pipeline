@@ -1,0 +1,154 @@
+{
+  "definition": {
+    "word": "予備",
+    "reading": "よび",
+    "romaji": "yobi",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "reserve",
+          "spare"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "preparation",
+          "preliminaries"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaning": "maintenance"
+    },
+    {
+      "word": "警備",
+      "reading": "けいび",
+      "meaning": "defense"
+    },
+    {
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "estimate (of costs)"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "plans"
+    },
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaning": "expectation"
+    },
+    {
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "preparation"
+    },
+    {
+      "word": "設備",
+      "reading": "せつび",
+      "meaning": "equipment"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediction"
+    },
+    {
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "prevention"
+    },
+    {
+      "word": "守備",
+      "reading": "しゅび",
+      "meaning": "defense"
+    },
+    {
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "reservation"
+    },
+    {
+      "word": "装備",
+      "reading": "そうび",
+      "meaning": "equipment"
+    },
+    {
+      "word": "予報",
+      "reading": "よほう",
+      "meaning": "forecast"
+    },
+    {
+      "word": "軍備",
+      "reading": "ぐんび",
+      "meaning": "armaments"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々はすべての本をひとまとめにして予備室に入れた。",
+      "reading": null,
+      "english": "We gathered all the books together and put them in the spare room.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ところで、予備の電池はあるの？",
+      "reading": null,
+      "english": "By the way, do you have any spare batteries?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どこの病院にも全て停電に備えて予備の発電機を備えている。",
+      "reading": null,
+      "english": "Every hospital has a back-up electric generator in case of blackout.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この車の予備の部品を買うことができない。",
+      "reading": null,
+      "english": "I cannot buy spare parts for this car.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "予備の毛布をください。",
+      "reading": null,
+      "english": "I need an extra blanket.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "予備の毛布をください。",
+      "reading": null,
+      "english": "Please give me a spare blanket.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

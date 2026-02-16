@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "偶に",
+    "reading": "たまに",
+    "romaji": "tamani",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "occasionally",
+          "once in a while",
+          "now and then"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "偶々",
+      "reading": "たまたま",
+      "meaning": "by chance"
+    },
+    {
+      "word": "偶然",
+      "reading": "ぐうぜん",
+      "meaning": "coincidence"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ぼくにチビと言われてあいつはすごくあたまにきた。",
+      "reading": null,
+      "english": "He got mad at me for calling him Shorty.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たまには手紙を書いてください。",
+      "reading": null,
+      "english": "Please write to me from time to time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たまには気楽にしていいよ。",
+      "reading": null,
+      "english": "It's okay to take it easy sometimes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

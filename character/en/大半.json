@@ -1,0 +1,154 @@
+{
+  "definition": {
+    "word": "大半",
+    "reading": "たいはん",
+    "romaji": "taihan",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "majority",
+          "more than half",
+          "most (of)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "mostly",
+          "largely",
+          "mainly",
+          "predominately",
+          "nearly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "拡大",
+      "reading": "かくだい",
+      "meaning": "expansion"
+    },
+    {
+      "word": "大会",
+      "reading": "たいかい",
+      "meaning": "mass meeting"
+    },
+    {
+      "word": "大統領",
+      "reading": "だいとうりょう",
+      "meaning": "president (of a country)"
+    },
+    {
+      "word": "大使",
+      "reading": "たいし",
+      "meaning": "ambassador"
+    },
+    {
+      "word": "重大",
+      "reading": "じゅうだい",
+      "meaning": "serious"
+    },
+    {
+      "word": "大臣",
+      "reading": "だいじん",
+      "meaning": "cabinet minister"
+    },
+    {
+      "word": "巨大",
+      "reading": "きょだい",
+      "meaning": "huge"
+    },
+    {
+      "word": "大戦",
+      "reading": "たいせん",
+      "meaning": "great war"
+    },
+    {
+      "word": "大気",
+      "reading": "たいき",
+      "meaning": "atmosphere"
+    },
+    {
+      "word": "大陸",
+      "reading": "たいりく",
+      "meaning": "continent"
+    },
+    {
+      "word": "大いに",
+      "reading": "おおいに",
+      "meaning": "very"
+    },
+    {
+      "word": "半ば",
+      "reading": "なかば",
+      "meaning": "middle"
+    },
+    {
+      "word": "大部分",
+      "reading": "だいぶぶん",
+      "meaning": "most part"
+    },
+    {
+      "word": "莫大",
+      "reading": "ばくだい",
+      "meaning": "vast"
+    },
+    {
+      "word": "大家",
+      "reading": "たいか",
+      "meaning": "master"
+    },
+    {
+      "word": "大家",
+      "reading": "おおや",
+      "meaning": "landlord"
+    },
+    {
+      "word": "大",
+      "reading": "だい",
+      "meaning": "large"
+    },
+    {
+      "word": "大学",
+      "reading": "だいがく",
+      "meaning": "university"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ここの学生は大半が真面目である。",
+      "reading": null,
+      "english": "The students are for the most part diligent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "用心深さは勇気の大半である。",
+      "reading": null,
+      "english": "Discretion is the better part of valor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "用心は勇気の大半。",
+      "reading": null,
+      "english": "Discretion is the better part of valor.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

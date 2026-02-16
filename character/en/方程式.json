@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "方程式",
+    "reading": "ほうていしき",
+    "romaji": "houteishiki",
+    "jlpt": "N2",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "equation",
+          "formula"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "method for solving a problem",
+          "set way of achieving a particular result"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "明け方",
+      "reading": "あけがた",
+      "meaning": "dawn"
+    },
+    {
+      "word": "長方形",
+      "reading": "ちょうほうけい",
+      "meaning": "rectangle"
+    },
+    {
+      "word": "方角",
+      "reading": "ほうがく",
+      "meaning": "direction"
+    },
+    {
+      "word": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "square"
+    },
+    {
+      "word": "方針",
+      "reading": "ほうしん",
+      "meaning": "policy"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "(one's) whereabouts"
+    },
+    {
+      "word": "日程",
+      "reading": "にってい",
+      "meaning": "schedule"
+    },
+    {
+      "word": "公式",
+      "reading": "こうしき",
+      "meaning": "official"
+    },
+    {
+      "word": "形式",
+      "reading": "けいしき",
+      "meaning": "form (as opposed to substance)"
+    },
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "direction"
+    },
+    {
+      "word": "儀式",
+      "reading": "ぎしき",
+      "meaning": "ceremony"
+    },
+    {
+      "word": "葬式",
+      "reading": "そうしき",
+      "meaning": "funeral"
+    },
+    {
+      "word": "方言",
+      "reading": "ほうげん",
+      "meaning": "dialect"
+    },
+    {
+      "word": "方式",
+      "reading": "ほうしき",
+      "meaning": "form"
+    },
+    {
+      "word": "法則",
+      "reading": "ほうそく",
+      "meaning": "law"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その少年は連立方程式を楽に解いた。",
+      "reading": null,
+      "english": "The boy solved the simultaneous equation with ease.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その少年は連立方程式を楽に解いた。",
+      "reading": null,
+      "english": "The boy solved the simultaneous equation with ease.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "シュレーディンガー方程式は量子力学系の時間発展を記述する。",
+      "reading": null,
+      "english": "Schrodinger's equation describes the time evolution of quantum mechanics.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "シュレーディンガー方程式は量子力学系の時間発展を記述する。",
+      "reading": null,
+      "english": "Schrodinger's equation describes the time evolution of quantum mechanics.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私のチューターでさえこの方程式は解けなかった。",
+      "reading": null,
+      "english": "Even my tutor couldn't solve this equation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

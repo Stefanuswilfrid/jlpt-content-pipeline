@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "ベンチ",
+    "reading": "ベンチ",
+    "romaji": "benchi",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bangku"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "ベンチを温める",
+      "reading": "ベンチをあたためる",
+      "meaning": "to warm the bench",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "メグとケンはベンチにこしかけていた。",
+      "reading": null,
+      "indonesian": "Meg and Ken sat on the bench.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのベンチにすわらないで下さい。",
+      "reading": null,
+      "indonesian": "Please don't sit on that bench.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

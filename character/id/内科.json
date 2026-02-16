@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "内科",
+    "reading": "ないか",
+    "romaji": "naika",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "klinik internis",
+          "penyakit dalam"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "department of internal medicine"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "学科",
+      "reading": "がっか",
+      "meaning": "mata pelajaran, program studi"
+    },
+    {
+      "word": "外科",
+      "reading": "げか",
+      "meaning": "departemen bedah"
+    },
+    {
+      "word": "理科",
+      "reading": "りか",
+      "meaning": "sains"
+    },
+    {
+      "word": "内線",
+      "reading": "ないせん",
+      "meaning": "ekstensi telepon"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "informasi, panduan"
+    },
+    {
+      "word": "内訳",
+      "reading": "うちわけ",
+      "meaning": "item, rincian, klasifikasi"
+    },
+    {
+      "word": "内",
+      "reading": "うち",
+      "meaning": "di dalam, di dalam"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この薬を飲む前には内科医の意見を聞くべきだ。",
+      "reading": null,
+      "indonesian": "You should ask a physician for his advice before taking this medicine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "内科はどこですか。",
+      "reading": null,
+      "indonesian": "Where is the Internal Medicine Department?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "この薬を飲む前には内科医の意見を聞くべきだ。",
+      "reading": null,
+      "indonesian": "You should ask a physician for his advice before taking this medicine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "内科はどこですか。",
+      "reading": null,
+      "indonesian": "Where is the Internal Medicine Department?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

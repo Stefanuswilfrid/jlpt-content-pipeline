@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "苦しい",
+    "reading": "くるしい",
+    "romaji": "kurushii",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "painful",
+          "difficult",
+          "tough",
+          "hard"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "distressing",
+          "(psychologically) difficult",
+          "stressful",
+          "awkward (e.g. position)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "straitened (circumstances)",
+          "tight (financial situation)",
+          "needy",
+          "struggling"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "strained (interpretation, explanation, etc.)",
+          "lame (e.g. excuse)",
+          "forced (e.g. smile)",
+          "far-fetched"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "hard to do",
+          "unpleasant"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "苦い",
+      "reading": "にがい",
+      "meaning": "bitter"
+    },
+    {
+      "word": "苦労",
+      "reading": "くろう",
+      "meaning": "trouble"
+    },
+    {
+      "word": "苦手",
+      "reading": "にがて",
+      "meaning": "poor (at)"
+    },
+    {
+      "word": "苦痛",
+      "reading": "くつう",
+      "meaning": "pain"
+    },
+    {
+      "word": "苦しむ",
+      "reading": "くるしむ",
+      "meaning": "to suffer"
+    },
+    {
+      "word": "苦心",
+      "reading": "くしん",
+      "meaning": "pains"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "苦しい時の神頼み",
+      "reading": "くるしいときのかみだのみ",
+      "meaning": "danger past, God forgotten",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "苦しい、やめろ。",
+      "reading": null,
+      "english": "It's so painful. Stop it!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "遠方なので自転車では苦しい。",
+      "reading": null,
+      "english": "It's hard to get to by bike because it's far away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんなに苦しいのなら死んだほうがましだ。",
+      "reading": null,
+      "english": "Death is preferable to such suffering.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この世で愛するものを失う事ほど苦しい事はない。",
+      "reading": null,
+      "english": "Nothing is as terrible as losing someone you love in the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

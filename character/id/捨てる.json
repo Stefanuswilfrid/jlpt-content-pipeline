@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "捨てる",
+    "reading": "すてる",
+    "romaji": "suteru",
+    "jlpt": "N4",
+    "frequency": 22750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membuang (sampah)",
+          "membuang",
+          "menyingkirkan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to abandon",
+          "to desert",
+          "to leave"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to give up",
+          "to resign"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sacrifice (stones)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "ドブに捨てる",
+      "reading": "どぶにすてる",
+      "meaning": "to throw down the drain",
+      "type": "idiom"
+    },
+    {
+      "word": "捨てる神あれば拾う神あり",
+      "reading": "すてるかみあればひろうかみあり",
+      "meaning": "when one door is shut, another is open",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "歌",
+    "reading": "うた",
+    "romaji": "uta",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "puisi; sajak"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "classical Japanese poem (esp. tanka)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "modern poetry"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "歌手",
+      "reading": "かしゅ",
+      "meaning": "penyanyi"
+    },
+    {
+      "word": "歌謡",
+      "reading": "かよう",
+      "meaning": "lagu, balada"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "四面楚歌",
+      "reading": "しめんそか",
+      "meaning": "being surrounded by enemies on all sides",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "悲歌慷慨",
+      "reading": "ひかこうがい",
+      "meaning": "indignant lamentation over the evils of the times",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "放歌高吟",
+      "reading": "ほうかこうぎん",
+      "meaning": "loud singing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "高歌放吟",
+      "reading": "こうかほうぎん",
+      "meaning": "singing at the top of one's voice",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "詩歌管弦",
+      "reading": "しいかかんげん",
+      "meaning": "Chinese and Japanese poetry and instrumental music",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "歌舞音曲",
+      "reading": "かぶおんぎょく",
+      "meaning": "singing, dancing and music",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "歌人は居ながらにして名所を知る",
+      "reading": "かじんはいながらにしてめいしょをしる",
+      "meaning": "poets can stay in one place and still know all the famous sights",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "アレンは詩人です。",
+      "reading": null,
+      "indonesian": "Allen is a poet.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は生まれながらの詩人だ。",
+      "reading": null,
+      "indonesian": "You are made to be a poet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は漢詩を読んだことがありますか。",
+      "reading": null,
+      "indonesian": "Have you ever read any Chinese poems?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはこの詩がわかりますか。",
+      "reading": null,
+      "indonesian": "Can you make sense of this poem?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学生たちは多くの詩を暗記した。",
+      "reading": null,
+      "indonesian": "The students learned many poems by heart.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生たちはこの詩を暗記した。",
+      "reading": null,
+      "indonesian": "The students learned this poem by heart.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何度も聞いたので、今ではその詩をそらで言えます。",
+      "reading": null,
+      "indonesian": "Having heard it so many times, I can recite the poem by heart now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

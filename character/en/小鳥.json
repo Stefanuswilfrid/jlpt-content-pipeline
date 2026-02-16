@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "小鳥",
+    "reading": "ことり",
+    "romaji": "kotori",
+    "jlpt": "N4",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "small bird",
+          "little bird"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "primary school"
+    },
+    {
+      "word": "小説",
+      "reading": "しょうせつ",
+      "meaning": "novel"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ほら！あの木に小鳥がいる。",
+      "reading": null,
+      "english": "Look! There's a bird in that tree.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たくさんの赤い小鳥が、いつも楽しげに木々でさえずる。",
+      "reading": null,
+      "english": "Many little red birds always sing merrily in the trees.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつの間にか小鳥たちは見えなくなった。",
+      "reading": null,
+      "english": "Before I knew it, I couldn't see the birds.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

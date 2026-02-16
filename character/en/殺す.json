@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "殺す",
+    "reading": "ころす",
+    "romaji": "korosu",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to kill",
+          "to slay",
+          "to murder",
+          "to slaughter"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to suppress",
+          "to block",
+          "to hamper",
+          "to destroy (e.g. talent)",
+          "to eliminate (e.g. an odour)",
+          "to spoil (e.g. a flavour)",
+          "to kill (e.g. one's speed)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to suppress (a voice, feelings, etc.)",
+          "to hold back",
+          "to stifle (a yawn, laugh, etc.)",
+          "to hold (one's breath)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put out (a runner)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pawn",
+          "to put in hock"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "自殺",
+      "reading": "じさつ",
+      "meaning": "suicide"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "寸鉄人を殺す",
+      "reading": "すんてつひとをころす",
+      "meaning": "to make a cutting remark",
+      "type": "idiom"
+    },
+    {
+      "word": "好奇心は猫をも殺す",
+      "reading": "こうきしんはねこをもころす",
+      "meaning": "curiosity killed the cat",
+      "type": "proverb"
+    },
+    {
+      "word": "好奇心猫を殺す",
+      "reading": "こうきしんねこをころす",
+      "meaning": "curiosity killed the cat",
+      "type": "proverb"
+    },
+    {
+      "word": "角を矯めて牛を殺す",
+      "reading": "つのをためてうしをころす",
+      "meaning": "to throw the baby out with the bath water",
+      "type": "idiom"
+    },
+    {
+      "word": "大の虫を生かして小の虫を殺す",
+      "reading": "だいのむしをいかしてしょうのむしをころす",
+      "meaning": "sacrifice something small in order to save something great",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

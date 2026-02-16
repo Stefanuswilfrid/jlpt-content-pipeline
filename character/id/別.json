@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "別",
+    "reading": "べつ",
+    "romaji": "betsu",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "perbedaan",
+          "berbeda"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "separate",
+          "different",
+          "another",
+          "extra"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "exception",
+          "exclusion"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "classified by",
+          "ranked by",
+          "according to"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaning": "spesial"
+    },
+    {
+      "word": "別れ",
+      "reading": "わかれ",
+      "meaning": "perpisahan, pemisahan, selamat tinggal"
+    },
+    {
+      "word": "区別",
+      "reading": "くべつ",
+      "meaning": "perbedaan, pembedaan, klasifikasi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "千差万別",
+      "reading": "せんさばんべつ",
+      "meaning": "an infinite variety of",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "個々別々",
+      "reading": "ここべつべつ",
+      "meaning": "each one separately",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "愛別離苦",
+      "reading": "あいべつりく",
+      "meaning": "the pain of separation from loved ones",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "思慮分別",
+      "reading": "しりょふんべつ",
+      "meaning": "discreet and well-advised judgment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "教外別伝",
+      "reading": "きょうげべつでん",
+      "meaning": "Buddhist revelation through intuitive discernment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "甘い物は別腹",
+      "reading": "あまいものはべつばら",
+      "meaning": "there's always room for dessert",
+      "type": "proverb"
+    },
+    {
+      "word": "逢うは別れの始め",
+      "reading": "あうはわかれのはじめ",
+      "meaning": "we meet only to part",
+      "type": "proverb"
+    },
+    {
+      "word": "恋に上下の差別無し",
+      "reading": "こいにじょうげのさべつなし",
+      "meaning": "love makes men equal",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

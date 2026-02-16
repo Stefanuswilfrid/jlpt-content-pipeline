@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "畑",
+    "reading": "はたけ",
+    "romaji": "hatake",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ladang",
+          "tambalan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "field (of specialization)",
+          "sphere",
+          "area",
+          "line"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "womb",
+          "birth",
+          "birthplace"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "畑水練",
+      "reading": "はたけすいれん",
+      "meaning": "useless book learning",
+      "type": "idiom"
+    },
+    {
+      "word": "脳内お花畑",
+      "reading": "のうないおはなばたけ",
+      "meaning": "happy-go-lucky person",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それぞれの畑はどのくらいの小麦を産出しますか。",
+      "reading": null,
+      "indonesian": "How much wheat does each field yield?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その農民は畑に麦の種をまいた。",
+      "reading": null,
+      "indonesian": "The farmer sowed his field with wheat.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "道はくねくねと畑の中を走っていた。",
+      "reading": null,
+      "indonesian": "The road wound through the fields.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そして畑の中にたくさんの道路が次々とできました。",
+      "reading": null,
+      "indonesian": "More roads were made, and the countryside was divided into lots.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そこに農場や畑を作ることができるだろうか。",
+      "reading": null,
+      "indonesian": "We will be able to build farms and create fields there.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここは昔、畑だった。",
+      "reading": null,
+      "indonesian": "This place used to be a field.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ウッドさんが畑にやって来ました。",
+      "reading": null,
+      "indonesian": "Mr Wood came into the field.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

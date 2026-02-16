@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "勘定",
+    "reading": "かんじょう",
+    "romaji": "kanjou",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "perhitungan",
+          "penghitungan",
+          "pertimbangan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "bill",
+          "check",
+          "account",
+          "payment (of a bill)",
+          "settlement (of an account)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "consideration",
+          "allowance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "勘",
+      "reading": "かん",
+      "meaning": "persepsi, intuisi, indra keenam"
+    },
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "keputusan, penetapan"
+    },
+    {
+      "word": "安定",
+      "reading": "あんてい",
+      "meaning": "stabilitas, keseimbangan"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "jangka waktu tetap"
+    },
+    {
+      "word": "否定",
+      "reading": "ひてい",
+      "meaning": "negasi, penyangkalan"
+    },
+    {
+      "word": "仮定",
+      "reading": "かてい",
+      "meaning": "asumsi, dugaan, hipotesis"
+    },
+    {
+      "word": "測定",
+      "reading": "そくてい",
+      "meaning": "pengukuran"
+    },
+    {
+      "word": "肯定",
+      "reading": "こうてい",
+      "meaning": "positif, penegasan"
+    },
+    {
+      "word": "定価",
+      "reading": "ていか",
+      "meaning": "harga yang ditetapkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "百舌勘定",
+      "reading": "もずかんじょう",
+      "meaning": "splitting the bill so that the others end up paying the whole amount",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "兵隊勘定",
+      "reading": "へいたいかんじょう",
+      "meaning": "Dutch treat",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "勘定合って銭足らず",
+      "reading": "かんじょうあってぜにたらず",
+      "meaning": "a profit on paper doesn't always mean a profit in the bank",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

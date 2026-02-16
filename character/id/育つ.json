@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "育つ",
+    "reading": "そだつ",
+    "romaji": "sodatsu",
+    "jlpt": "N3",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "dibesarkan",
+          "tumbuh dewasa"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "育児",
+      "reading": "いくじ",
+      "meaning": "perawatan anak, keperawatan"
+    },
+    {
+      "word": "体育",
+      "reading": "たいいく",
+      "meaning": "pendidikan jasmani, senam, atletik"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "寝る子は育つ",
+      "reading": "ねるこはそだつ",
+      "meaning": "sleep brings up a child well",
+      "type": "proverb"
+    },
+    {
+      "word": "親はなくても子は育つ",
+      "reading": "おやはなくてもこはそだつ",
+      "meaning": "nature itself is a good mother",
+      "type": "proverb"
+    },
+    {
+      "word": "親はなくとも子は育つ",
+      "reading": "おやはなくともこはそだつ",
+      "meaning": "nature itself is a good mother",
+      "type": "proverb"
+    },
+    {
+      "word": "子供は親の背中を見て育つ",
+      "reading": "こどもはおやのせなかをみてそだつ",
+      "meaning": "children grow up watching their parents",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海の植物は海底に付着して育つ。",
+      "reading": null,
+      "indonesian": "Marine plants grow on the sea bed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この土地は作物がよく育つ。",
+      "reading": null,
+      "indonesian": "This land gives good crops.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "親は無くとも子は育つ。",
+      "reading": null,
+      "indonesian": "Nature is a good mother.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "子どもはのびのび育つべきだ。",
+      "reading": null,
+      "indonesian": "Children should grow up carefree.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

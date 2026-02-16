@@ -1,0 +1,185 @@
+{
+  "definition": {
+    "word": "運",
+    "reading": "うん",
+    "romaji": "un",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "keberuntungan",
+          "nasib baik"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "幸運",
+      "reading": "こううん",
+      "meaning": "semoga beruntung, nasib baik"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "pengemudi (berdasarkan pekerjaan)"
+    },
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "latihan"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operasi, mengemudi"
+    },
+    {
+      "word": "運河",
+      "reading": "うんが",
+      "meaning": "kanal, jalur air"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "運否天賦",
+      "reading": "うんぷてんぷ",
+      "meaning": "trusting to chance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "武運長久",
+      "reading": "ぶうんちょうきゅう",
+      "meaning": "continued luck in the fortunes of war",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "足を運ぶ",
+      "reading": "あしをはこぶ",
+      "meaning": "to go (to)",
+      "type": "idiom"
+    },
+    {
+      "word": "勝負は時の運",
+      "reading": "しょうぶはときのうん",
+      "meaning": "victory depends on the turn of fortune",
+      "type": "proverb"
+    },
+    {
+      "word": "運は天にあり",
+      "reading": "うんはてんにあり",
+      "meaning": "there's no flying from fate",
+      "type": "proverb"
+    },
+    {
+      "word": "開運招福",
+      "reading": "かいうんしょうふく",
+      "meaning": "bringing luck and good fortune",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "運を天に任せる",
+      "reading": "うんをてんにまかせる",
+      "meaning": "to leave to chance",
+      "type": "idiom"
+    },
+    {
+      "word": "勝つも負けるも時の運",
+      "reading": "かつもまけるもときのうん",
+      "meaning": "victory depends on the turn of fortune",
+      "type": "proverb"
+    },
+    {
+      "word": "幸運の女神は前髪しかない",
+      "reading": "こううんのめがみはまえがみしかない",
+      "meaning": "opportunity has hair in front, but behind she is bald",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何だって・・・いまだに運転できないのか？",
+      "reading": null,
+      "indonesian": "What... you still don't know how to drive?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "車の運転はしない方がいいよ。",
+      "reading": null,
+      "indonesian": "You had better not drive a car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "車の運転は出来ますか？",
+      "reading": null,
+      "indonesian": "Can you drive a car?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは自動車を運転できますか。",
+      "reading": null,
+      "indonesian": "Can you drive a car?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは自動車の運転ができますか。",
+      "reading": null,
+      "indonesian": "Can you drive a car?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "車は運転できるの？",
+      "reading": null,
+      "indonesian": "Can you drive a car?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "車の運転って、できる？",
+      "reading": null,
+      "indonesian": "Can you drive a car?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は車の運転ができますよね。",
+      "reading": null,
+      "indonesian": "You can drive a car, can't you?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は失敗を不運のせいにしてはいけない。",
+      "reading": null,
+      "indonesian": "Don't set your failure down to bad luck.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は君自身の運命の主でもあります。",
+      "reading": null,
+      "indonesian": "You are the master of your own destiny.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

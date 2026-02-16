@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "お八つ",
+    "reading": "おやつ",
+    "romaji": "oyatsu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "between-meal snack"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mid-afternoon (around 3 o'clock) snack",
+          "afternoon refreshment",
+          "afternoon tea"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "八つ",
+      "reading": "やっつ",
+      "meaning": "eight"
+    },
+    {
+      "word": "八百屋",
+      "reading": "やおや",
+      "meaning": "greengrocer"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "おやつにプリンを食べた。",
+      "reading": null,
+      "english": "I had some custard pudding for an afternoon snack.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お腹空いてるわけないじゃん。さっき、おやつ食べたじゃん。",
+      "reading": null,
+      "english": "You can't be hungry. You had a snack a few minutes ago.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "おやつにプリンを食べた。",
+      "reading": null,
+      "english": "I had some custard pudding for an afternoon snack.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "おやつにプリンを食べた。",
+      "reading": null,
+      "english": "I had some pudding for an afternoon snack.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "おやつの時間よ。",
+      "reading": null,
+      "english": "Time for a snack.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "おやつが食べたいの？",
+      "reading": null,
+      "english": "Do you feel like having a snack?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "トムはおやつを用意してくれた。",
+      "reading": null,
+      "english": "Tom fixed us a snack.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "おやつはどう？",
+      "reading": null,
+      "english": "How about a snack?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

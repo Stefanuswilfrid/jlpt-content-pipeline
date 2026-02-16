@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "戦い",
+    "reading": "たたかい",
+    "romaji": "tatakai",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "battle",
+          "war",
+          "fight",
+          "conflict"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fight (against time, poverty, etc.)",
+          "struggle (for freedom, survival, etc.)",
+          "war (e.g. on drugs)",
+          "battle (e.g. against nature)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "contest",
+          "competition",
+          "match",
+          "game"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "挑戦",
+      "reading": "ちょうせん",
+      "meaning": "challenge"
+    },
+    {
+      "word": "大戦",
+      "reading": "たいせん",
+      "meaning": "great war"
+    },
+    {
+      "word": "戦争",
+      "reading": "せんそう",
+      "meaning": "war"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ナポレオンの軍隊は１８１５年にワーテルローの戦いに敗れた。",
+      "reading": null,
+      "english": "Napoleon's army lost the battle of Waterloo in 1815.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それが戦争を終結させた最後の戦いだった。",
+      "reading": null,
+      "english": "It was the last battle that ended the war.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その文書にはその戦いが１７００年に起こったと記録されている。",
+      "reading": null,
+      "english": "The document records that the war broke out in 1700.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

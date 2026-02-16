@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "候補",
+    "reading": "こうほ",
+    "romaji": "kouho",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "candidate",
+          "contender",
+          "prospect",
+          "pick",
+          "choice",
+          "list"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "candidacy",
+          "candidature",
+          "nomination"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "補償",
+      "reading": "ほしょう",
+      "meaning": "compensation"
+    },
+    {
+      "word": "気候",
+      "reading": "きこう",
+      "meaning": "climate"
+    },
+    {
+      "word": "天候",
+      "reading": "てんこう",
+      "meaning": "weather"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

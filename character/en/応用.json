@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "応用",
+    "reading": "おうよう",
+    "romaji": "ouyou",
+    "jlpt": "N2",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "(practical) application",
+          "putting to practical use"
+        ]
+      },
+      {
+        "pos": [
+          "noun or verb acting prenominally"
+        ],
+        "meanings": [
+          "applied (e.g. physics, linguistics, research)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "実用",
+      "reading": "じつよう",
+      "meaning": "practical use"
+    },
+    {
+      "word": "用語",
+      "reading": "ようご",
+      "meaning": "term"
+    },
+    {
+      "word": "一応",
+      "reading": "いちおう",
+      "meaning": "more or less"
+    },
+    {
+      "word": "用途",
+      "reading": "ようと",
+      "meaning": "use"
+    },
+    {
+      "word": "応接",
+      "reading": "おうせつ",
+      "meaning": "reception (e.g. of visitors)"
+    },
+    {
+      "word": "応対",
+      "reading": "おうたい",
+      "meaning": "dealing with (people, customers, complaints, etc.)"
+    },
+    {
+      "word": "日用品",
+      "reading": "にちようひん",
+      "meaning": "daily necessities"
+    },
+    {
+      "word": "通用",
+      "reading": "つうよう",
+      "meaning": "(common) use (of a language, currency, etc.)"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "application (of a rule, law, method, etc.)"
+    },
+    {
+      "word": "専用",
+      "reading": "せんよう",
+      "meaning": "(one's) exclusive use"
+    },
+    {
+      "word": "用意",
+      "reading": "ようい",
+      "meaning": "preparation"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "practical use"
+    },
+    {
+      "word": "用紙",
+      "reading": "ようし",
+      "meaning": "blank form"
+    },
+    {
+      "word": "用品",
+      "reading": "ようひん",
+      "meaning": "articles"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "科学は不注意に応用されると危険なことがある。",
+      "reading": null,
+      "english": "Science can be dangerous when applied carelessly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "化学にエメット理論を応用する事の意味を考察したい。",
+      "reading": null,
+      "english": "I would like to consider the implications we can draw from the application of Emmet's theory to chemistry.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "科学は不注意に応用されると危険なことがある。",
+      "reading": null,
+      "english": "Science can be dangerous when applied carelessly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "化学にエメット理論を応用する事の意味を考察したい。",
+      "reading": null,
+      "english": "I would like to consider the implications we can draw from the application of Emmet's theory to chemistry.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

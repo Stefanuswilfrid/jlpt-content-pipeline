@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "位置",
+    "reading": "いち",
+    "romaji": "ichi",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "tempat",
+          "posisi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "position",
+          "standing",
+          "status",
+          "situation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "装置",
+      "reading": "そうち",
+      "meaning": "peralatan, instalasi, perlengkapan"
+    },
+    {
+      "word": "単位",
+      "reading": "たんい",
+      "meaning": "kredit (untuk suatu mata kuliah di sekolah); satuan, denominasi"
+    },
+    {
+      "word": "地位",
+      "reading": "ちい",
+      "meaning": "(kedudukan) sosial, status"
+    },
+    {
+      "word": "位",
+      "reading": "くらい",
+      "meaning": "nilai, peringkat, tentang"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "代わりにダイアルしていただけませんか？電話の位置が高すぎて。",
+      "reading": null,
+      "indonesian": "Could you dial for me? The telephone is too high.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "位置について、用意、ドン。",
+      "reading": null,
+      "indonesian": "On your marks, get set, go!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その天文台はよい位置にある。",
+      "reading": null,
+      "indonesian": "That observatory stands in a good location.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その公園は市の中央に位置している。",
+      "reading": null,
+      "indonesian": "The park lies in the center of the city.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

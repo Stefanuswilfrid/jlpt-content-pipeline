@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "見つける",
+    "reading": "みつける",
+    "romaji": "mitsukeru",
+    "jlpt": "N4",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to find",
+          "to discover",
+          "to come across",
+          "to spot",
+          "to catch (someone doing)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be used to seeing",
+          "to be familiar with"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "opinion"
+    },
+    {
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "sightseeing"
+    },
+    {
+      "word": "見える",
+      "reading": "みえる",
+      "meaning": "to be seen"
+    },
+    {
+      "word": "拝見",
+      "reading": "はいけん",
+      "meaning": "seeing"
+    },
+    {
+      "word": "見せる",
+      "reading": "みせる",
+      "meaning": "to show"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それをどこにも見つけることができなかった。",
+      "reading": null,
+      "english": "I could not find it anyplace.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

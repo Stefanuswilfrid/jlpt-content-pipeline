@@ -1,0 +1,133 @@
+{
+  "definition": {
+    "word": "馬穴",
+    "reading": "バケツ",
+    "romaji": "baketsu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bucket",
+          "pail"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "競馬",
+      "reading": "けいば",
+      "meaning": "horse racing"
+    },
+    {
+      "word": "ローマ字",
+      "reading": "ローマじ",
+      "meaning": "Latin alphabet"
+    },
+    {
+      "word": "馬",
+      "reading": "うま",
+      "meaning": "horse"
+    },
+    {
+      "word": "穴",
+      "reading": "あな",
+      "meaning": "hole"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外はバケツをひっくり返したような雨です。",
+      "reading": null,
+      "english": "It's raining buckets outside.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バケツを水で満たしなさい。",
+      "reading": null,
+      "english": "Fill the bucket with water.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "バケツの底に穴があいてるよ。",
+      "reading": null,
+      "english": "There's a hole in the bottom of the bucket.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バケツの水を空けなさい。",
+      "reading": null,
+      "english": "Empty the water out of the bucket.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お水の入ったバケツ持ってきて。",
+      "reading": null,
+      "english": "Bring me a bucket of water.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バケツにほとんど水がない。",
+      "reading": null,
+      "english": "There is little water in the bucket.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "バケツに水がいっぱい入っている。",
+      "reading": null,
+      "english": "The bucket is full of water.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのバケツは水でいっぱいだった。",
+      "reading": null,
+      "english": "The bucket was full of water.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このバケツに水を入れて下さい。",
+      "reading": null,
+      "english": "Please fill this bucket with water.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このバケツには穴が開いている。",
+      "reading": null,
+      "english": "There's a hole in this bucket.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このバケツ、穴が開いてるよ。",
+      "reading": null,
+      "english": "There's a hole in this bucket.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

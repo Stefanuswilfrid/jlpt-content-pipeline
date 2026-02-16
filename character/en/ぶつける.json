@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "打付ける",
+    "reading": "ぶつける",
+    "romaji": "butsukeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hit (e.g. one's head)",
+          "to strike",
+          "to knock",
+          "to run (into)",
+          "to crash (into)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to throw (at)",
+          "to fling (at)",
+          "to hurl (at)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to vent (e.g. one's anger)",
+          "to express (one's feelings)",
+          "to throw (a question at someone)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pit (someone) against",
+          "to set against",
+          "to match against",
+          "to put up against"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "付ける",
+      "reading": "つける",
+      "meaning": "to attach"
+    },
+    {
+      "word": "寄付",
+      "reading": "きふ",
+      "meaning": "contribution"
+    },
+    {
+      "word": "突く",
+      "reading": "つつく",
+      "meaning": "to poke (repeatedly, lightly)"
+    },
+    {
+      "word": "打つ",
+      "reading": "うつ",
+      "meaning": "to hit"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "reception (desk)"
+    },
+    {
+      "word": "打つ",
+      "reading": "ぶつ",
+      "meaning": "to hit (someone)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

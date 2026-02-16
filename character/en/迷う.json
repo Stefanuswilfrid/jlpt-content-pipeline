@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "迷う",
+    "reading": "まよう",
+    "romaji": "mayou",
+    "jlpt": "N3",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to lose one's way",
+          "to get lost",
+          "to go astray"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to waver",
+          "to hesitate",
+          "to vacillate",
+          "to be of two minds (about)",
+          "to be unable to make up one's mind",
+          "to not know what to do",
+          "to be at a loss",
+          "to be puzzled",
+          "to be perplexed"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be captivated (by)",
+          "to be infatuated (with)",
+          "to be charmed (by)",
+          "to be carried away (by)",
+          "to be blinded (by)",
+          "to be lost (in)",
+          "to lose oneself (to)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to linger (of a departed soul)",
+          "to be restless in one's grave",
+          "to be unable to rest in peace"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "迷子",
+      "reading": "まいご",
+      "meaning": "lost child"
+    },
+    {
+      "word": "迷惑",
+      "reading": "めいわく",
+      "meaning": "trouble"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "路頭に迷う",
+      "reading": "ろとうにまよう",
+      "meaning": "to be left without means of sustenance",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

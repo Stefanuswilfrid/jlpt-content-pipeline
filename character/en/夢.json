@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "夢",
+    "reading": "ゆめ",
+    "romaji": "yume",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dream"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dream",
+          "hope",
+          "wish",
+          "aspiration",
+          "ambition"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unrealistic aspiration",
+          "daydream",
+          "pipe dream"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "delusion",
+          "illusion"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fleeting thing",
+          "something short-lived"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "夢中",
+      "reading": "むちゅう",
+      "meaning": "absorbed in"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無我夢中",
+      "reading": "むがむちゅう",
+      "meaning": "losing oneself (in)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "夢物語",
+      "reading": "ゆめものがたり",
+      "meaning": "account of a dream",
+      "type": "idiom"
+    },
+    {
+      "word": "酔生夢死",
+      "reading": "すいせいむし",
+      "meaning": "idling one's life away",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "同床異夢",
+      "reading": "どうしょういむ",
+      "meaning": "cohabiting but living in different worlds",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "泡沫夢幻",
+      "reading": "ほうまつむげん",
+      "meaning": "transient",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "夢幻泡沫",
+      "reading": "むげんほうまつ",
+      "meaning": "transient",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "浮世は夢",
+      "reading": "うきよはゆめ",
+      "meaning": "life is but a dream",
+      "type": "proverb"
+    },
+    {
+      "word": "夢路をたどる",
+      "reading": "ゆめじをたどる",
+      "meaning": "to have a dream",
+      "type": "idiom"
+    },
+    {
+      "word": "夢幻泡影",
+      "reading": "むげんほうよう",
+      "meaning": "a dream, an illusion, a bubble, a shadow (metaphor for the transience of life)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

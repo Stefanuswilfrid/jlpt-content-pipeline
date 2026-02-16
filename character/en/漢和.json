@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "漢和",
+    "reading": "かんわ",
+    "romaji": "kanwa",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "China and Japan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Chinese and Japanese (languages)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dictionary with Japanese definitions of kanji and kanji compounds",
+          "kanji dictionary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "和服",
+      "reading": "わふく",
+      "meaning": "Japanese clothes"
+    },
+    {
+      "word": "英和",
+      "reading": "えいわ",
+      "meaning": "English-Japanese"
+    },
+    {
+      "word": "和英",
+      "reading": "わえい",
+      "meaning": "Japanese-English"
+    },
+    {
+      "word": "漢字",
+      "reading": "かんじ",
+      "meaning": "kanji"
+    },
+    {
+      "word": "調和",
+      "reading": "ちょうわ",
+      "meaning": "harmony"
+    },
+    {
+      "word": "平和",
+      "reading": "へいわ",
+      "meaning": "peace"
+    },
+    {
+      "word": "緩和",
+      "reading": "かんわ",
+      "meaning": "relief"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "漢和辞典で漢字の意味を調べたの。",
+      "reading": null,
+      "english": "I looked up the meaning of a kanji in a Sino-Japanese dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "漢和辞典で漢字の意味を調べたの。",
+      "reading": null,
+      "english": "I looked up the meaning of a kanji in a Sino-Japanese dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

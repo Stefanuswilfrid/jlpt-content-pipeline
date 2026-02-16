@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "石油",
+    "reading": "せきゆ",
+    "romaji": "sekiyu",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "minyak",
+          "petroleum",
+          "kerosin"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kerosene",
+          "paraffin"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "油",
+      "reading": "あぶら",
+      "meaning": "minyak"
+    },
+    {
+      "word": "石炭",
+      "reading": "せきたん",
+      "meaning": "batu bara"
+    },
+    {
+      "word": "宝石",
+      "reading": "ほうせき",
+      "meaning": "permata, perhiasan"
+    },
+    {
+      "word": "石",
+      "reading": "こく",
+      "meaning": "batu"
+    },
+    {
+      "word": "碑",
+      "reading": "いしぶみ",
+      "meaning": "monumen batu yang bertuliskan prasasti"
+    },
+    {
+      "word": "石",
+      "reading": "いし",
+      "meaning": "batu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この国の石油は不足していない。",
+      "reading": null,
+      "indonesian": "We are not short of oil in this country.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは石油が不足している。",
+      "reading": null,
+      "indonesian": "We've run short of oil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "タンカーは石油を運ぶ船である。",
+      "reading": null,
+      "indonesian": "A tanker is a ship carrying oil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

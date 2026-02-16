@@ -1,0 +1,158 @@
+{
+  "definition": {
+    "word": "小屋",
+    "reading": "こや",
+    "romaji": "koya",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hut",
+          "cabin",
+          "shed",
+          "(animal) pen"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "small theatre (theater)",
+          "temporary playhouse",
+          "circus tent",
+          "booth"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's own house"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "屋根",
+      "reading": "やね",
+      "meaning": "roof"
+    },
+    {
+      "word": "小麦",
+      "reading": "こむぎ",
+      "meaning": "wheat"
+    },
+    {
+      "word": "少女",
+      "reading": "しょうじょ",
+      "meaning": "girl (usu. between 7 and 17)"
+    },
+    {
+      "word": "小包",
+      "reading": "こづつみ",
+      "meaning": "parcel"
+    },
+    {
+      "word": "小銭",
+      "reading": "こぜに",
+      "meaning": "small change"
+    },
+    {
+      "word": "小",
+      "reading": "しょう",
+      "meaning": "smallness"
+    },
+    {
+      "word": "小学生",
+      "reading": "しょうがくせい",
+      "meaning": "elementary school student"
+    },
+    {
+      "word": "縮小",
+      "reading": "しゅくしょう",
+      "meaning": "reduction"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "橋の向こうに小屋がある。",
+      "reading": null,
+      "english": "There is a cottage beyond the bridge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "橋の下流に小屋がある。",
+      "reading": null,
+      "english": "There is a hut below the bridge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "家の後ろに小屋がある。",
+      "reading": null,
+      "english": "There is a hut at the back of our house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠くに小屋が見えた。",
+      "reading": null,
+      "english": "I saw a cottage in the distance.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "以前はこのあたりに小屋があった。",
+      "reading": null,
+      "english": "There used to be a hut about here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ダムの下流に水車小屋があった。",
+      "reading": null,
+      "english": "There was a water mill below the dam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その小屋は丸太でできていた。",
+      "reading": null,
+      "english": "The cabin was built of logs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その小屋に火がつけられた。",
+      "reading": null,
+      "english": "The hut was set on fire.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その作家は丸太小屋に住んでいる。",
+      "reading": null,
+      "english": "The writer is living in a log cabin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

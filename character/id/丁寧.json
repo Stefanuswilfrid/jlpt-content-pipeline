@@ -1,0 +1,61 @@
+{
+  "definition": {
+    "word": "丁寧",
+    "reading": "ていねい",
+    "romaji": "teinei",
+    "jlpt": "N4",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sopan",
+          "ramah",
+          "hati-hati"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "careful",
+          "close",
+          "thorough",
+          "conscientious"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "丁度",
+      "reading": "ちょうど",
+      "meaning": "tepat, benar, persis"
+    },
+    {
+      "word": "寧ろ",
+      "reading": "むしろ",
+      "meaning": "lebih baik, lebih tepat, sebagai gantinya"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "懇切丁寧",
+      "reading": "こんせつていねい",
+      "meaning": "kind, careful, and thorough (of an explanation, advice, etc.)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "丁寧懇切",
+      "reading": "ていねいこんせつ",
+      "meaning": "kind, careful, and thorough (of an explanation, advice, etc.)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

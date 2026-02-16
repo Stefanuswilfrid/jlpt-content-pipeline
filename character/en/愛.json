@@ -1,0 +1,191 @@
+{
+  "definition": {
+    "word": "愛",
+    "reading": "あい",
+    "romaji": "ai",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "love",
+          "affection",
+          "care"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "attachment",
+          "craving",
+          "desire"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "agape"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Ireland"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "愛情",
+      "reading": "あいじょう",
+      "meaning": "love"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "博愛主義",
+      "reading": "はくあいしゅぎ",
+      "meaning": "philanthropism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "相思相愛",
+      "reading": "そうしそうあい",
+      "meaning": "mutual love",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "忠君愛国",
+      "reading": "ちゅうくんあいこく",
+      "meaning": "loyalty and patriotism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "愛別離苦",
+      "reading": "あいべつりく",
+      "meaning": "the pain of separation from loved ones",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "猫可愛がり",
+      "reading": "ねこかわいがり",
+      "meaning": "(endlessly) doting (on someone)",
+      "type": "idiom"
+    },
+    {
+      "word": "敬天愛人",
+      "reading": "けいてんあいじん",
+      "meaning": "revere heaven, love people",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "寵愛一身",
+      "reading": "ちょうあいいっしん",
+      "meaning": "standing highest in one's master's favor",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "和顔愛語",
+      "reading": "わがんあいご",
+      "meaning": "with a gentle face and a nice word",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "屋烏の愛",
+      "reading": "おくうのあい",
+      "meaning": "true love",
+      "type": "idiom"
+    },
+    {
+      "word": "愛のムチ",
+      "reading": "あいのむち",
+      "meaning": "(lesson in) tough love",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "愛してる。",
+      "reading": null,
+      "english": "I love you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたを愛してる。",
+      "reading": null,
+      "english": "I love you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "愛してるよ。",
+      "reading": null,
+      "english": "I love you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "愛してます。",
+      "reading": null,
+      "english": "I love you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "愛しています。",
+      "reading": null,
+      "english": "I love you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "愛のない人生など全く無意味だ。",
+      "reading": null,
+      "english": "Life without love is just totally pointless.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お愛想お願いします。",
+      "reading": null,
+      "english": "The check, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "愛してる。",
+      "reading": null,
+      "english": "I love you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "愛のない人生など全く無意味だ。",
+      "reading": null,
+      "english": "Life without love is just totally pointless.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

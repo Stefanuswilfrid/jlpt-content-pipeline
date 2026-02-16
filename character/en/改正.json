@@ -1,0 +1,180 @@
+{
+  "definition": {
+    "word": "改正",
+    "reading": "かいせい",
+    "romaji": "kaisei",
+    "jlpt": "N2",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "revision",
+          "amendment",
+          "alteration"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "改造",
+      "reading": "かいぞう",
+      "meaning": "remodeling"
+    },
+    {
+      "word": "正面",
+      "reading": "しょうめん",
+      "meaning": "front"
+    },
+    {
+      "word": "改める",
+      "reading": "あらためる",
+      "meaning": "to change"
+    },
+    {
+      "word": "改札",
+      "reading": "かいさつ",
+      "meaning": "examination of tickets"
+    },
+    {
+      "word": "正門",
+      "reading": "せいもん",
+      "meaning": "main gate"
+    },
+    {
+      "word": "正面",
+      "reading": "まとも",
+      "meaning": "the front"
+    },
+    {
+      "word": "正味",
+      "reading": "しょうみ",
+      "meaning": "net (amount)"
+    },
+    {
+      "word": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "square"
+    },
+    {
+      "word": "改革",
+      "reading": "かいかく",
+      "meaning": "reform"
+    },
+    {
+      "word": "改善",
+      "reading": "かいぜん",
+      "meaning": "betterment"
+    },
+    {
+      "word": "修正",
+      "reading": "しゅうせい",
+      "meaning": "amendment"
+    },
+    {
+      "word": "正式",
+      "reading": "せいしき",
+      "meaning": "formal"
+    },
+    {
+      "word": "正常",
+      "reading": "せいじょう",
+      "meaning": "normal"
+    },
+    {
+      "word": "是正",
+      "reading": "ぜせい",
+      "meaning": "correction"
+    },
+    {
+      "word": "正義",
+      "reading": "せいぎ",
+      "meaning": "justice"
+    },
+    {
+      "word": "正午",
+      "reading": "しょうご",
+      "meaning": "noon"
+    },
+    {
+      "word": "正",
+      "reading": "せい",
+      "meaning": "(logical) true"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "injustice"
+    },
+    {
+      "word": "改定",
+      "reading": "かいてい",
+      "meaning": "revision (of a rule, price, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その法律は改正されるべきだ。",
+      "reading": null,
+      "english": "The law needs to be amended.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この法律は改正すべきだ。",
+      "reading": null,
+      "english": "We should reform this law.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "法律が改正された。",
+      "reading": null,
+      "english": "The law was changed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "時刻表が改正された。",
+      "reading": null,
+      "english": "The timetable has been revised.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "参議院はどんな改正案も通さなくても構わないようです。",
+      "reading": null,
+      "english": "The Upper House seems bent on defeating any reform bills.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今月５日から時間表が改正される。",
+      "reading": null,
+      "english": "The revised timetable will go into effect on the 5th of this month.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "国会は多分この不評の法律を改正するだろう。",
+      "reading": null,
+      "english": "The Diet is likely to amend this unpopular law.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

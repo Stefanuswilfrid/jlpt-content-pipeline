@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "残り",
+    "reading": "のこり",
+    "romaji": "nokori",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "tersisa",
+          "sisa"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "penyesalan; patut disesalkan"
+    },
+    {
+      "word": "残す",
+      "reading": "のこす",
+      "meaning": "meninggalkan (di belakang), menyimpan, memesan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "残り物には福がある",
+      "reading": "のこりものにはふくがある",
+      "meaning": "there is unexpected good in what others have left behind",
+      "type": "proverb"
+    },
+    {
+      "word": "残り物に福あり",
+      "reading": "のこりものにふくあり",
+      "meaning": "there is unexpected good in what others have left behind",
+      "type": "proverb"
+    },
+    {
+      "word": "残り物に福がある",
+      "reading": "のこりものにふくがある",
+      "meaning": "there is unexpected good in what others have left behind",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "強者は生き残り、弱者は死ぬものだ。",
+      "reading": null,
+      "indonesian": "The strong will survive and the weak will die.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それはお昼の残り物だよ。",
+      "reading": null,
+      "indonesian": "Those are the leftovers from lunch.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

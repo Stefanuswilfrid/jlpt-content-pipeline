@@ -1,0 +1,43 @@
+{
+  "definition": {
+    "word": "繰り返す",
+    "reading": "くりかえす",
+    "romaji": "kurikaesu",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "mengulang",
+          "melakukan sesuatu lagi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "返事",
+      "reading": "へんじ",
+      "meaning": "balas, jawab"
+    },
+    {
+      "word": "返す",
+      "reading": "かえす",
+      "meaning": "untuk mengembalikan sesuatu"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "歴史は繰り返す",
+      "reading": "れきしはくりかえす",
+      "meaning": "history repeats itself",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "休息",
+    "reading": "きゅうそく",
+    "romaji": "kyuusoku",
+    "jlpt": "N3",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "rest",
+          "relief",
+          "relaxation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "休暇",
+      "reading": "きゅうか",
+      "meaning": "holiday"
+    },
+    {
+      "word": "息",
+      "reading": "いき",
+      "meaning": "breath"
+    },
+    {
+      "word": "休憩",
+      "reading": "きゅうけい",
+      "meaning": "rest"
+    },
+    {
+      "word": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "lunch break"
+    },
+    {
+      "word": "休む",
+      "reading": "やすむ",
+      "meaning": "to be absent"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "休息をとったほうがいいよ。",
+      "reading": null,
+      "english": "I think you had better take a rest.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "休息をすれば必ず気分がさわやかに感じる。",
+      "reading": null,
+      "english": "If we were to rest a little, we would feel surely feel much more refreshed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "休息しろ。",
+      "reading": null,
+      "english": "Take a rest.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "十分に休息を取るようにしなさい。",
+      "reading": null,
+      "english": "Make sure you get plenty of rest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

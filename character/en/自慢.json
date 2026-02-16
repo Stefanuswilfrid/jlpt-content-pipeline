@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "自慢",
+    "reading": "じまん",
+    "romaji": "jiman",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "pride",
+          "boast"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "自殺",
+      "reading": "じさつ",
+      "meaning": "suicide"
+    },
+    {
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "discomfort"
+    },
+    {
+      "word": "我慢",
+      "reading": "がまん",
+      "meaning": "endurance"
+    },
+    {
+      "word": "自身",
+      "reading": "じしん",
+      "meaning": "(one's) self"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaning": "nature"
+    },
+    {
+      "word": "自己",
+      "reading": "じこ",
+      "meaning": "self"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "automatic"
+    },
+    {
+      "word": "自衛",
+      "reading": "じえい",
+      "meaning": "self-defense"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "卑下自慢",
+      "reading": "ひげじまん",
+      "meaning": "boasting of one's humility",
+      "type": "idiom"
+    },
+    {
+      "word": "卑下も自慢の中",
+      "reading": "ひげもじまんのうち",
+      "meaning": "taking pride in one's humility is a form of bragging",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

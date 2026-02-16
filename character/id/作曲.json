@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "作曲",
+    "reading": "さっきょく",
+    "romaji": "sakkyoku",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "komposisi (musik)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "pekerjaan, operasi, manufaktur"
+    },
+    {
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "karya, opus, produksi"
+    },
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaning": "penulis, pengarang, novelis"
+    },
+    {
+      "word": "操作",
+      "reading": "そうさ",
+      "meaning": "operasi, manajemen, pemrosesan"
+    },
+    {
+      "word": "作",
+      "reading": "さく",
+      "meaning": "sebuah pekerjaan, sebuah panen"
+    },
+    {
+      "word": "作物",
+      "reading": "さくもつ",
+      "meaning": "hasil bumi (misalnya, pertanian), tanaman"
+    },
+    {
+      "word": "作法",
+      "reading": "さほう",
+      "meaning": "tata krama, etiket, kesopanan"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaning": "karya (misalnya, film, buku)"
+    },
+    {
+      "word": "製作",
+      "reading": "せいさく",
+      "meaning": "manufaktur, produksi"
+    },
+    {
+      "word": "作る",
+      "reading": "つくる",
+      "meaning": "membuat, menciptakan"
+    },
+    {
+      "word": "作成",
+      "reading": "さくせい",
+      "meaning": "penciptaan, persiapan, membuat"
+    },
+    {
+      "word": "作者",
+      "reading": "さくしゃ",
+      "meaning": "penulis, seniman"
+    },
+    {
+      "word": "創作",
+      "reading": "そうさく",
+      "meaning": "produksi, kreasi, pekerjaan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ポールは歌手というよりはむしろ作曲家だ。",
+      "reading": null,
+      "indonesian": "Paul is not so much a singer as a composer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その作曲家は新しい曲に取り組んでいる。",
+      "reading": null,
+      "indonesian": "The composer is wrestling with the new music.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

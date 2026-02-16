@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "質",
+    "reading": "しつ",
+    "romaji": "shitsu",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "quality",
+          "value"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nature",
+          "inherent quality",
+          "character"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "logical quality"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "物質",
+      "reading": "ぶっしつ",
+      "meaning": "material"
+    },
+    {
+      "word": "性質",
+      "reading": "せいしつ",
+      "meaning": "nature (of a person)"
+    },
+    {
+      "word": "質問",
+      "reading": "しつもん",
+      "meaning": "question"
+    },
+    {
+      "word": "素質",
+      "reading": "そしつ",
+      "meaning": "makings (of)"
+    },
+    {
+      "word": "地質",
+      "reading": "ちしつ",
+      "meaning": "geological features"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "質疑応答",
+      "reading": "しつぎおうとう",
+      "meaning": "question and answer session",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "質実剛健",
+      "reading": "しつじつごうけん",
+      "meaning": "unaffected and sincere, with fortitude and vigor (vigour)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "文質彬彬",
+      "reading": "ぶんしつひんぴん",
+      "meaning": "harmony of beauty and substance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "体質改善",
+      "reading": "たいしつかいぜん",
+      "meaning": "improvement of one's constitution",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "質素倹約",
+      "reading": "しっそけんやく",
+      "meaning": "(practice of) simplicity and frugality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "羊質虎皮",
+      "reading": "ようしつこひ",
+      "meaning": "sheep in a tiger's skin",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

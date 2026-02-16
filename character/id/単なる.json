@@ -1,0 +1,77 @@
+{
+  "definition": {
+    "word": "単なる",
+    "reading": "たんなる",
+    "romaji": "tannaru",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "pre-noun adjectival (rentaishi)"
+        ],
+        "meanings": [
+          "semata-mata",
+          "sederhana",
+          "murni"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "単位",
+      "reading": "たんい",
+      "meaning": "kredit (untuk suatu mata kuliah di sekolah); satuan, denominasi"
+    },
+    {
+      "word": "単純",
+      "reading": "たんじゅん",
+      "meaning": "kesederhanaan"
+    },
+    {
+      "word": "単に",
+      "reading": "たんに",
+      "meaning": "sederhana, hanya"
+    },
+    {
+      "word": "単語",
+      "reading": "たんご",
+      "meaning": "kata; kosakata"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "sederhana"
+    },
+    {
+      "word": "単数",
+      "reading": "たんすう",
+      "meaning": "tunggal (angka)"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "Kaos kaki Jepang (dengan jari kaki terpisah)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは単なる手落ちだ。",
+      "reading": null,
+      "indonesian": "It was simply an oversight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "コンピューターは単なる計算機だと考えられている。",
+      "reading": null,
+      "indonesian": "Computers can be thought of as mere calculating machines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "習字",
+    "reading": "しゅうじ",
+    "romaji": "shuuji",
+    "jlpt": "N2",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "penmanship",
+          "calligraphy"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "活字",
+      "reading": "かつじ",
+      "meaning": "(piece of) type"
+    },
+    {
+      "word": "ローマ字",
+      "reading": "ローマじ",
+      "meaning": "Latin alphabet"
+    },
+    {
+      "word": "実習",
+      "reading": "じっしゅう",
+      "meaning": "practice (in the field)"
+    },
+    {
+      "word": "自習",
+      "reading": "じしゅう",
+      "meaning": "self-study"
+    },
+    {
+      "word": "仮名",
+      "reading": "かな",
+      "meaning": "kana"
+    },
+    {
+      "word": "字体",
+      "reading": "じたい",
+      "meaning": "form of a character (e.g. simplified, traditional)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "手本を見ながら習字をしました。",
+      "reading": null,
+      "english": "I practiced calligraphy by looking at examples.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "手本を見ながら習字をしました。",
+      "reading": null,
+      "english": "I practiced calligraphy by looking at examples.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

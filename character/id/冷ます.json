@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "冷ます",
+    "reading": "さます",
+    "romaji": "samasu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mendinginkan",
+          "membiarkan dingin"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to dampen",
+          "to throw a damper on",
+          "to spoil"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "冷やす",
+      "reading": "ひやす",
+      "meaning": "mendinginkan, memasukkan ke dalam lemari es"
+    },
+    {
+      "word": "冷凍",
+      "reading": "れいとう",
+      "meaning": "pembekuan, penyimpanan dingin, pendinginan"
+    },
+    {
+      "word": "冷房",
+      "reading": "れいぼう",
+      "meaning": "pendingin, pendingin udara"
+    },
+    {
+      "word": "冷静",
+      "reading": "れいせい",
+      "meaning": "tenang, sejuk"
+    },
+    {
+      "word": "冷める",
+      "reading": "さめる",
+      "meaning": "menjadi keren, memudar"
+    },
+    {
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "lemari es"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

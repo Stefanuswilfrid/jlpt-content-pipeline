@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "頂く",
+    "reading": "いただく",
+    "romaji": "itadaku",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "-- ekspresi ekstra-sederhana untuk たべる dan のむ; ekspresi rendah hati untuk もらう --"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to eat",
+          "to drink"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be crowned with",
+          "to wear (on one's head)",
+          "to have (on top)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have (as one's leader)",
+          "to live under (a ruler)",
+          "to install (a president)"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Godan verb with 'ku' ending"
+        ],
+        "meanings": [
+          "to get someone to do something"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "頂上",
+      "reading": "ちょうじょう",
+      "meaning": "puncak, titik tertinggi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "会っていただく時間はおありでしょうか。",
+      "reading": null,
+      "indonesian": "I wonder if you could find some time to see me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "４月６日においでいただくのはどうでしょう。",
+      "reading": null,
+      "indonesian": "We suggest April 6 as a date for your visit.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

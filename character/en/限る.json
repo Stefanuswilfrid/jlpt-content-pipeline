@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "限る",
+    "reading": "かぎる",
+    "romaji": "kagiru",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to restrict",
+          "to limit",
+          "to confine"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be restricted to",
+          "to be limited to",
+          "to be confined to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be best (for)",
+          "to be the best plan",
+          "to be the only way (to)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "制限",
+      "reading": "せいげん",
+      "meaning": "restriction"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "term"
+    },
+    {
+      "word": "限界",
+      "reading": "げんかい",
+      "meaning": "limit"
+    },
+    {
+      "word": "切り",
+      "reading": "きり",
+      "meaning": "end"
+    },
+    {
+      "word": "限度",
+      "reading": "げんど",
+      "meaning": "limit"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

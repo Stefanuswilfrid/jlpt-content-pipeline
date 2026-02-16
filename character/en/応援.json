@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "応援",
+    "reading": "おうえん",
+    "romaji": "ouen",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "aid",
+          "assistance",
+          "help",
+          "support",
+          "reinforcement"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "cheering",
+          "rooting (for)",
+          "support"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "援助",
+      "reading": "えんじょ",
+      "meaning": "assistance"
+    },
+    {
+      "word": "助ける",
+      "reading": "たすける",
+      "meaning": "to save"
+    },
+    {
+      "word": "応じる",
+      "reading": "おうじる",
+      "meaning": "to respond"
+    },
+    {
+      "word": "一応",
+      "reading": "いちおう",
+      "meaning": "more or less"
+    },
+    {
+      "word": "応用",
+      "reading": "おうよう",
+      "meaning": "(practical) application"
+    },
+    {
+      "word": "応接",
+      "reading": "おうせつ",
+      "meaning": "reception (e.g. of visitors)"
+    },
+    {
+      "word": "応対",
+      "reading": "おうたい",
+      "meaning": "dealing with (people, customers, complaints, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

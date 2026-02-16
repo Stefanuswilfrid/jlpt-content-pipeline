@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "火山",
+    "reading": "かざん",
+    "romaji": "kazan",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "volcano"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "噴火",
+      "reading": "ふんか",
+      "meaning": "eruption"
+    },
+    {
+      "word": "花火",
+      "reading": "はなび",
+      "meaning": "fireworks"
+    },
+    {
+      "word": "火口",
+      "reading": "ひぐち",
+      "meaning": "burner"
+    },
+    {
+      "word": "山林",
+      "reading": "さんりん",
+      "meaning": "mountain forest"
+    },
+    {
+      "word": "火傷",
+      "reading": "やけど",
+      "meaning": "burn"
+    },
+    {
+      "word": "火",
+      "reading": "ひ",
+      "meaning": "fire"
+    },
+    {
+      "word": "山",
+      "reading": "やま",
+      "meaning": "mountain"
+    },
+    {
+      "word": "火災",
+      "reading": "かさい",
+      "meaning": "conflagration"
+    },
+    {
+      "word": "登山",
+      "reading": "とざん",
+      "meaning": "mountain climbing"
+    },
+    {
+      "word": "山岳",
+      "reading": "さんがく",
+      "meaning": "mountain chain"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "風林火山",
+      "reading": "ふうりんかざん",
+      "meaning": "as fast as the wind, as quiet as the forest, as daring as fire, and immovable as the mountain",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "火山活動で地面が盛り上がった。",
+      "reading": null,
+      "english": "The surface of the earth rose due to the volcanic activity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火山が再び活動を始めた。",
+      "reading": null,
+      "english": "The volcano has become active again.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "われわれは、いわば、火山の上に座っているようなものだった。",
+      "reading": null,
+      "english": "We sat, as it were, on a volcano.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本は火山列島だ。",
+      "reading": null,
+      "english": "Japan is made up of volcanic islands.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "連れ",
+    "reading": "つれ",
+    "romaji": "tsure",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "companion",
+          "company"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tritagonist",
+          "second supporting character"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関連",
+      "reading": "かんれん",
+      "meaning": "relation"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "continuation"
+    },
+    {
+      "word": "連想",
+      "reading": "れんそう",
+      "meaning": "association (of ideas)"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "union"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "連れしょん",
+      "reading": "つれしょん",
+      "meaning": "going to the bathroom in a group",
+      "type": "expression"
+    },
+    {
+      "word": "馬は馬連れ",
+      "reading": "うまはうまづれ",
+      "meaning": "birds of a feather flock together",
+      "type": "proverb"
+    },
+    {
+      "word": "旅は道連れ世は情け",
+      "reading": "たびはみちづれよはなさけ",
+      "meaning": "in traveling, a companion; in life, sympathy",
+      "type": "proverb"
+    },
+    {
+      "word": "牛は牛連れ馬は馬連れ",
+      "reading": "うしはうしづれうまはうまづれ",
+      "meaning": "birds of a feather flock together",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "家族もいっしょに連れてきてもいいですか。",
+      "reading": null,
+      "english": "May I bring my family along?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "駅までお連れいたしましょう。",
+      "reading": null,
+      "english": "I'll show you to the station.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

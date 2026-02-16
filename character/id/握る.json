@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "握る",
+    "reading": "にぎる",
+    "romaji": "nigiru",
+    "jlpt": "N3",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menggenggam",
+          "untuk merebut",
+          "untuk membentuk sushi"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hold (the answer)",
+          "to have (e.g. the solution)",
+          "to be the key",
+          "to be the reason"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to seize (power)",
+          "to hold (the reins)",
+          "to dominate",
+          "to control"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make (nigirizushi, rice ball, etc.)",
+          "to form (with one's hands)",
+          "to press into shape",
+          "to mold",
+          "to mould"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "握手",
+      "reading": "あくしゅ",
+      "meaning": "jabat tangan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手に汗を握る",
+      "reading": "てにあせをにぎる",
+      "meaning": "to sit on the edge of one's seat",
+      "type": "idiom"
+    },
+    {
+      "word": "鍵を握る",
+      "reading": "かぎをにぎる",
+      "meaning": "to hold the key (to)",
+      "type": "idiom"
+    },
+    {
+      "word": "手に汗握る",
+      "reading": "てにあせにぎる",
+      "meaning": "to sit on the edge of one's seat",
+      "type": "idiom"
+    },
+    {
+      "word": "手を握る",
+      "reading": "てをにぎる",
+      "meaning": "to join forces (with)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

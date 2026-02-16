@@ -1,0 +1,159 @@
+{
+  "definition": {
+    "word": "注文",
+    "reading": "ちゅうもん",
+    "romaji": "chuumon",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "memesan",
+          "meminta"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "request",
+          "demand",
+          "condition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaning": "pemberitahuan, perhatian, pengamatan"
+    },
+    {
+      "word": "文字",
+      "reading": "もじ",
+      "meaning": "huruf (alfabet), karakter"
+    },
+    {
+      "word": "論文",
+      "reading": "ろんぶん",
+      "meaning": "tesis, makalah"
+    },
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "peradaban"
+    },
+    {
+      "word": "文",
+      "reading": "ふみ",
+      "meaning": "kalimat"
+    },
+    {
+      "word": "文句",
+      "reading": "もんく",
+      "meaning": "pengaduan"
+    },
+    {
+      "word": "碑",
+      "reading": "いしぶみ",
+      "meaning": "monumen batu yang bertuliskan prasasti"
+    },
+    {
+      "word": "注す",
+      "reading": "さす",
+      "meaning": "menuangkan (minuman), menyajikan (minuman)"
+    },
+    {
+      "word": "注ぐ",
+      "reading": "つぐ",
+      "meaning": "menuangkan (ke dalam)"
+    },
+    {
+      "word": "文",
+      "reading": "ぶん",
+      "meaning": "kalimat"
+    },
+    {
+      "word": "注",
+      "reading": "ちゅう",
+      "meaning": "anotasi, catatan penjelasan"
+    },
+    {
+      "word": "注ぐ",
+      "reading": "そそぐ",
+      "meaning": "menuangkan (ke dalam)"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaning": "budaya"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaning": "literatur"
+    },
+    {
+      "word": "注意",
+      "reading": "ちゅうい",
+      "meaning": "hati-hati, waspada"
+    },
+    {
+      "word": "文章",
+      "reading": "ぶんしょう",
+      "meaning": "kalimat, teks"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "飲み物を注文したいんですが。",
+      "reading": null,
+      "indonesian": "I would like to order drinks now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "以下の通り注文いたします。",
+      "reading": null,
+      "indonesian": "I would like to place an order for the following.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ロンドンから本を注文した。",
+      "reading": null,
+      "indonesian": "I ordered a book from London.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もし無理な場合は注文をキャンセルします。",
+      "reading": null,
+      "indonesian": "Otherwise we will have to cancel this order.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ほかに何か追加注文がありますか。",
+      "reading": null,
+      "indonesian": "Do you have anything else to order?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "交差",
+    "reading": "こうさ",
+    "romaji": "kousa",
+    "jlpt": "N2",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "crossing",
+          "intersection"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "(genetic) crossing over"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "差し支え",
+      "reading": "さしつかえ",
+      "meaning": "hindrance"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "exchange (e.g. cultural)"
+    },
+    {
+      "word": "差し引き",
+      "reading": "さしひき",
+      "meaning": "deduction"
+    },
+    {
+      "word": "物差し",
+      "reading": "ものさし",
+      "meaning": "ruler"
+    },
+    {
+      "word": "交差点",
+      "reading": "こうさてん",
+      "meaning": "crossing"
+    },
+    {
+      "word": "交わる",
+      "reading": "まじわる",
+      "meaning": "to cross"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その交差点を右に曲がってください。",
+      "reading": null,
+      "english": "Turn right at the crossroad.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その棒は交差しておかれた。",
+      "reading": null,
+      "english": "The sticks were laid across each other.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その事故はあの交差点で起こった。",
+      "reading": null,
+      "english": "The accident happened at that crossing.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "せっかちな運転者が赤信号を無視して交差点を通りぬけた。",
+      "reading": null,
+      "english": "An impatient driver forced his way through the crossing against the red light.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これら２本の線は直角に交差している。",
+      "reading": null,
+      "english": "These two lines cut across each other at right angles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この交差点は何と呼ばれていますか。",
+      "reading": null,
+      "english": "What's the name of this intersection?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この交差点の名前は何でしょう？",
+      "reading": null,
+      "english": "What's the name of this intersection?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの交差点で何が起こったのか。",
+      "reading": null,
+      "english": "What happened at that crossing?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "２本の道が十文字に交差している。",
+      "reading": null,
+      "english": "The two roads cut across the street from us.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "２本の通りは直角に交差している。",
+      "reading": null,
+      "english": "The two streets intersect at right angles.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

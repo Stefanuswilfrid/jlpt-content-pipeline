@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "達する",
+    "reading": "たっする",
+    "romaji": "tassuru",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "suru verb - special class"
+        ],
+        "meanings": [
+          "untuk mencapai",
+          "untuk sampai ke"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "配達",
+      "reading": "はいたつ",
+      "meaning": "pengiriman, distribusi"
+    },
+    {
+      "word": "発達",
+      "reading": "はったつ",
+      "meaning": "pembangunan, pertumbuhan"
+    },
+    {
+      "word": "上達",
+      "reading": "じょうたつ",
+      "meaning": "peningkatan, kemajuan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "英語が上達するように努力しなさい。",
+      "reading": null,
+      "indonesian": "Try to improve your English.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "やる気があれば英語はもっと上達する。",
+      "reading": null,
+      "indonesian": "You can improve your English if you try.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このスーパーマーケットは土曜日だけ配達する。",
+      "reading": null,
+      "indonesian": "This supermarket delivers only on Saturday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは英語が上達するように努力しなければならない。",
+      "reading": null,
+      "indonesian": "You must endeavor to improve your English.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

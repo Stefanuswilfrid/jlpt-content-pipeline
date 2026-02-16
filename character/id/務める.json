@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "勤める",
+    "reading": "つとめる",
+    "romaji": "tsutomeru",
+    "jlpt": "N2",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk melayani",
+          "untuk bertindak"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to serve (as)",
+          "to act (as)",
+          "to fill (the position of)",
+          "to play the role (of)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to conduct a religious service"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "出勤",
+      "reading": "しゅっきん",
+      "meaning": "pergi bekerja, di tempat kerja"
+    },
+    {
+      "word": "勤務",
+      "reading": "きんむ",
+      "meaning": "pelayanan, tugas, pekerjaan"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "perjalanan pulang pergi ke tempat kerja"
+    },
+    {
+      "word": "勤労",
+      "reading": "きんろう",
+      "meaning": "kerja keras, usaha, pelayanan yang tekun"
+    },
+    {
+      "word": "転勤",
+      "reading": "てんきん",
+      "meaning": "transfer (ke kantor lain di perusahaan yang sama)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "首相の留守中は外務大臣が代理を務める。",
+      "reading": null,
+      "indonesian": "The foreign minister will act for the Prime Minister in his absence.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "首相の留守中は外務大臣が代理を務める。",
+      "reading": null,
+      "indonesian": "The foreign minister will act for the Prime Minister in his absence.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

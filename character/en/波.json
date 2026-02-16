@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "波",
+    "reading": "なみ",
+    "romaji": "nami",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wave",
+          "billow",
+          "ripple",
+          "breaker",
+          "swell"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ups and downs"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(something) advancing step by step",
+          "(something) surging forward inopposably",
+          "succession of changes"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tendency",
+          "(new) wave"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "電波",
+      "reading": "でんぱ",
+      "meaning": "radio wave"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "波乱万丈",
+      "reading": "はらんばんじょう",
+      "meaning": "stormy and full of drama",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "波状攻撃",
+      "reading": "はじょうこうげき",
+      "meaning": "attacking in waves",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "波乱曲折",
+      "reading": "はらんきょくせつ",
+      "meaning": "very involved and troublesome situation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "波濤万里",
+      "reading": "はとうばんり",
+      "meaning": "faraway lands",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "暗送秋波",
+      "reading": "あんそうしゅうは",
+      "meaning": "giving an amorous sidelong look",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "金波銀波",
+      "reading": "きんぱぎんぱ",
+      "meaning": "sparkling waves",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "波及効果",
+      "reading": "はきゅうこうか",
+      "meaning": "ripple effect",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "媚眼秋波",
+      "reading": "びがんしゅうは",
+      "meaning": "casting a coquettish glance (at a man)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "波に乗る",
+      "reading": "なみにのる",
+      "meaning": "to go with the flow",
+      "type": "idiom"
+    },
+    {
+      "word": "波風が立つ",
+      "reading": "なみかぜがたつ",
+      "meaning": "to be discordant",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "岸辺の波の音が聞こえますか。",
+      "reading": null,
+      "english": "Can you hear the noise of the waves on the beach?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "右手に海のさざ波が見えてきたよ。",
+      "reading": null,
+      "english": "I could see the rippling waves on my right.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そよ風で池の面にさざ波が立った。",
+      "reading": null,
+      "english": "A gentle wind made ripples on the surface of the pond.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

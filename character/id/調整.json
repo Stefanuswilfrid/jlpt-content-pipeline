@@ -1,0 +1,154 @@
+{
+  "definition": {
+    "word": "調整",
+    "reading": "ちょうせい",
+    "romaji": "chousei",
+    "jlpt": "N2",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pengaturan",
+          "penyesuaian",
+          "penyetelan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaning": "perawatan, perbaikan menyeluruh"
+    },
+    {
+      "word": "整数",
+      "reading": "せいすう",
+      "meaning": "bilangan bulat"
+    },
+    {
+      "word": "調節",
+      "reading": "ちょうせつ",
+      "meaning": "pengaturan, penyesuaian, kontrol"
+    },
+    {
+      "word": "調味料",
+      "reading": "ちょうみりょう",
+      "meaning": "bumbu, penyedap"
+    },
+    {
+      "word": "調べ",
+      "reading": "しらべ",
+      "meaning": "penyelidikan, inspeksi"
+    },
+    {
+      "word": "調査",
+      "reading": "ちょうさ",
+      "meaning": "survei; investigasi"
+    },
+    {
+      "word": "協調",
+      "reading": "きょうちょう",
+      "meaning": "kerja sama, rekonsiliasi, harmoni"
+    },
+    {
+      "word": "好調",
+      "reading": "こうちょう",
+      "meaning": "memuaskan, dalam kondisi baik"
+    },
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "baik-baik saja"
+    },
+    {
+      "word": "調印",
+      "reading": "ちょういん",
+      "meaning": "tanda tangan, cap, penyegelan"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaning": "kondisi, keadaan, nada, intonasi"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "penyortiran, pengaturan"
+    },
+    {
+      "word": "調停",
+      "reading": "ちょうてい",
+      "meaning": "arbitrase, konsiliasi, mediasi"
+    },
+    {
+      "word": "調理",
+      "reading": "ちょうり",
+      "meaning": "memasak"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "音楽のボリュームを調整したいのですが。",
+      "reading": null,
+      "indonesian": "How do I fix the volume?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのように時間を調整してあるのですから。",
+      "reading": null,
+      "indonesian": "That is the regular starting time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "シートを自分に合うように調整してください。",
+      "reading": null,
+      "indonesian": "Please adjust the seat to fit you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "第４四半期のＧＮＰは季節調整済み年率４．５％の成長であった。",
+      "reading": null,
+      "indonesian": "GNP increased at a seasonally adjusted annual rate of 4.5% in the fourth quarter.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "車を運転する前にブレーキを調べて調整しなさい。",
+      "reading": null,
+      "indonesian": "Check and adjust the brakes before you drive.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自転車のブレーキを調整してもらった。",
+      "reading": null,
+      "indonesian": "I had the brakes of my bicycle adjusted.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "事情にあわせて、貴社の記録も調整してください。",
+      "reading": null,
+      "indonesian": "We suggest you adjust your records accordingly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

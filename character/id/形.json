@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "形",
+    "reading": "かたち",
+    "romaji": "katachi",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "membentuk"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "visage",
+          "(facial) features",
+          "appearance (of a person)",
+          "figure",
+          "looks"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "form (as opposed to substance)",
+          "manner (of action)",
+          "style",
+          "(outward) appearance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(resultant) state",
+          "situation",
+          "condition",
+          "form"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "behaviour (towards others)",
+          "attitude",
+          "demeanor",
+          "manners"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "人形",
+      "reading": "にんぎょう",
+      "meaning": "boneka, figur"
+    },
+    {
+      "word": "形態",
+      "reading": "けいたい",
+      "meaning": "bentuk, rupa, figur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "有形無形",
+      "reading": "ゆうけいむけい",
+      "meaning": "tangible and intangible",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異類異形",
+      "reading": "いるいいぎょう",
+      "meaning": "strange-looking creatures",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "形影一如",
+      "reading": "けいえいいちにょ",
+      "meaning": "being inseparable as a form and its shadow",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "肉人形",
+      "reading": "にくにんぎょう",
+      "meaning": "sex slave",
+      "type": "expression"
+    }
+  ],
+  "lessons": []
+}

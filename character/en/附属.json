@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "付属",
+    "reading": "ふぞく",
+    "romaji": "fuzoku",
+    "jlpt": "N2",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "being attached (to)",
+          "being affiliated (to)",
+          "belonging (to)",
+          "going with"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "attached school",
+          "affiliated school"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "付近",
+      "reading": "ふきん",
+      "meaning": "neighborhood"
+    },
+    {
+      "word": "属する",
+      "reading": "ぞくする",
+      "meaning": "to belong to"
+    },
+    {
+      "word": "寄付",
+      "reading": "きふ",
+      "meaning": "contribution"
+    },
+    {
+      "word": "金属",
+      "reading": "きんぞく",
+      "meaning": "metal"
+    },
+    {
+      "word": "所属",
+      "reading": "しょぞく",
+      "meaning": "belonging to (a group, organization, etc.)"
+    },
+    {
+      "word": "交付",
+      "reading": "こうふ",
+      "meaning": "delivery"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "association"
+    },
+    {
+      "word": "日付",
+      "reading": "ひづけ",
+      "meaning": "date"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "reception (desk)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "評価",
+    "reading": "ひょうか",
+    "romaji": "hyouka",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "penilaian",
+          "evaluasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "appreciation",
+          "recognition",
+          "acknowledgement",
+          "rating highly",
+          "praising"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "価格",
+      "reading": "かかく",
+      "meaning": "harga, nilai"
+    },
+    {
+      "word": "価値",
+      "reading": "かち",
+      "meaning": "nilai, harga, manfaat"
+    },
+    {
+      "word": "物価",
+      "reading": "ぶっか",
+      "meaning": "harga (komoditas/konsumen)"
+    },
+    {
+      "word": "評判",
+      "reading": "ひょうばん",
+      "meaning": "ketenaran, reputasi"
+    },
+    {
+      "word": "値",
+      "reading": "あたい",
+      "meaning": "nilai, harga, harga"
+    },
+    {
+      "word": "批評",
+      "reading": "ひひょう",
+      "meaning": "kritik, ulasan, komentar"
+    },
+    {
+      "word": "高価",
+      "reading": "こうか",
+      "meaning": "harga tinggi"
+    },
+    {
+      "word": "評論",
+      "reading": "ひょうろん",
+      "meaning": "kritik, ulasan"
+    },
+    {
+      "word": "定価",
+      "reading": "ていか",
+      "meaning": "harga yang ditetapkan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "過小評価",
+      "reading": "かしょうひょうか",
+      "meaning": "underestimation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "過大評価",
+      "reading": "かだいひょうか",
+      "meaning": "overestimation",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

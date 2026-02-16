@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "空想",
+    "reading": "くうそう",
+    "romaji": "kuusou",
+    "jlpt": "N2",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "lamunan",
+          "fantasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "真空",
+      "reading": "しんくう",
+      "meaning": "kekosongan"
+    },
+    {
+      "word": "空っぽ",
+      "reading": "からっぽ",
+      "meaning": "kosong, hampa, berongga"
+    },
+    {
+      "word": "発想",
+      "reading": "はっそう",
+      "meaning": "ide; cara berpikir (sama seperti 考え方 (かんがえかた))"
+    },
+    {
+      "word": "架空",
+      "reading": "かくう",
+      "meaning": "imajiner, fiksi, khayalan"
+    },
+    {
+      "word": "空中",
+      "reading": "くうちゅう",
+      "meaning": "langit, udara"
+    },
+    {
+      "word": "大空",
+      "reading": "おおぞら",
+      "meaning": "surga, langit"
+    },
+    {
+      "word": "愛想",
+      "reading": "あいそ",
+      "meaning": "keramahan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "空想はしばしば芸術の母になる。",
+      "reading": null,
+      "indonesian": "Fantasy is often the mother of art.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空想の力で、宇宙旅行も出来る。",
+      "reading": null,
+      "indonesian": "With the power of imagination, we can even travel through space.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "たまに、その預言者は空想にふける。",
+      "reading": null,
+      "indonesian": "Once in a while, the prophet indulges in fantasy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "子供はよく空想の世界にいる。",
+      "reading": null,
+      "indonesian": "Children often live in a world of fantasy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

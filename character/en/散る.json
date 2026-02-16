@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "散る",
+    "reading": "ちる",
+    "romaji": "chiru",
+    "jlpt": "N3",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to fall (e.g. blossoms, leaves)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to scatter",
+          "to be dispersed"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to disappear",
+          "to dissolve",
+          "to break up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to spread",
+          "to run",
+          "to blur"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to die a noble death"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "breaking up (a meeting, gathering, etc.)"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "walk"
+    },
+    {
+      "word": "散らかる",
+      "reading": "ちらかる",
+      "meaning": "to be in disorder"
+    },
+    {
+      "word": "散らす",
+      "reading": "ちらす",
+      "meaning": "to scatter"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "気が散る",
+      "reading": "きがちる",
+      "meaning": "to get distracted",
+      "type": "idiom"
+    },
+    {
+      "word": "桜散る",
+      "reading": "さくらちる",
+      "meaning": "to fail an exam",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "気が散るからテレビを消してくれ。",
+      "reading": null,
+      "english": "Turn off the television. I can't concentrate.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "秋には葉が散る。",
+      "reading": null,
+      "english": "The leaves fall in autumn.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "気が散るからテレビを消してくれ。",
+      "reading": null,
+      "english": "Turn off the television. I can't concentrate.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "気が散るからテレビを消してくれ。",
+      "reading": null,
+      "english": "Turn off the TV. It's distracting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "秋には葉が散る。",
+      "reading": null,
+      "english": "The leaves fall in autumn.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "気が散るからテレビを消してくれ。",
+      "reading": null,
+      "english": "Turn off the TV. It's distracting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "縄",
+    "reading": "なわ",
+    "romaji": "nawa",
+    "jlpt": "N3",
+    "frequency": 10250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rope",
+          "cord"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "policeman's rope"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "自縄自縛",
+      "reading": "じじょうじばく",
+      "meaning": "being caught in one's own trap",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "規矩準縄",
+      "reading": "きくじゅんじょう",
+      "meaning": "rules and standards",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "蛇に噛まれて朽ち縄に怖じる",
+      "reading": "へびにかまれてくちなわにおじる",
+      "meaning": "once bitten twice shy",
+      "type": "proverb"
+    },
+    {
+      "word": "禍福は糾える縄のごとし",
+      "reading": "かふくはあざなえるなわのごとし",
+      "meaning": "fortune and misfortune are intertwined",
+      "type": "proverb"
+    },
+    {
+      "word": "泥棒を捕らえて縄を綯う",
+      "reading": "どろぼうをとらえてなわをなう",
+      "meaning": "starting something in the eleventh hour",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その鳥なら、沖縄に行った時に見たわよ。",
+      "reading": null,
+      "english": "We saw the bird when we visited Okinawa.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "沖縄まで飛行機で何時間かかりますか。",
+      "reading": null,
+      "english": "How many hours does it take to go to Okinawa by plane?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "沖縄は本州よりも中国に近いということに気付いてましたか。",
+      "reading": null,
+      "english": "Are you aware that Okinawa is closer to China than to Honshu?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "沖縄は１年中よい気候だ。",
+      "reading": null,
+      "english": "Okinawa has a fine climate all year round.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは沖縄へ行った事がありますか。",
+      "reading": null,
+      "english": "Did you ever go to Okinawa?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

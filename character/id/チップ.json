@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "チップ",
+    "reading": "チップ",
+    "romaji": "chippu",
+    "jlpt": "N2",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "uang tip",
+          "tip; chip"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "foul tip"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tip (of a ballpoint pen)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "チップを置きましたか。",
+      "reading": null,
+      "indonesian": "Did you leave a tip?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "チップにけちけちしないこと。",
+      "reading": null,
+      "indonesian": "Don't be mean with the tip.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "チップはお断りします。",
+      "reading": null,
+      "indonesian": "No gratuities accepted.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このポテトチップおいしくて後を引くね。",
+      "reading": null,
+      "indonesian": "These potato chips are good enough to make you want more.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

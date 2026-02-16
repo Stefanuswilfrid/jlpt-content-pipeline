@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "整う",
+    "reading": "ととのう",
+    "romaji": "totonou",
+    "jlpt": "N2",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be ready",
+          "to be prepared",
+          "to be arranged"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be in order",
+          "to be put in order",
+          "to be well-ordered",
+          "to be well-proportioned",
+          "to be harmonious"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be adjusted",
+          "to be regulated",
+          "to be refined (e.g. of a face)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be settled (e.g. treaty, contract)",
+          "to be completed"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "調整",
+      "reading": "ちょうせい",
+      "meaning": "adjustment"
+    },
+    {
+      "word": "整備",
+      "reading": "せいび",
+      "meaning": "maintenance"
+    },
+    {
+      "word": "整数",
+      "reading": "せいすう",
+      "meaning": "integer"
+    },
+    {
+      "word": "整然",
+      "reading": "せいぜん",
+      "meaning": "orderly"
+    },
+    {
+      "word": "整列",
+      "reading": "せいれつ",
+      "meaning": "standing in a row"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたの出発の準備がすべて整うよう取り計らいます。",
+      "reading": null,
+      "english": "I will see to it that everything is ready for your departure.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの出発の準備がすべて整うよう取り計らいます。",
+      "reading": null,
+      "english": "I will see to it that everything is ready for your departure.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

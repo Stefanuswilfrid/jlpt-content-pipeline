@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "積極的",
+    "reading": "せっきょくてき",
+    "romaji": "sekkyokuteki",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "positive",
+          "assertive",
+          "active",
+          "proactive",
+          "aggressive"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "消極的",
+      "reading": "しょうきょくてき",
+      "meaning": "negative"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "観察は消極的な科学であり、実験は積極的な科学である。",
+      "reading": null,
+      "english": "Observation is a passive science, experimentation an active science.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "アメリカ人は積極的な国民である。",
+      "reading": null,
+      "english": "The Americans are an aggressive people.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの学生はとても積極的だ。",
+      "reading": null,
+      "english": "That student is very active.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの生徒はとても積極的です。",
+      "reading": null,
+      "english": "That student is very active.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

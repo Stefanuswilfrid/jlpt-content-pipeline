@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "使用",
+    "reading": "しよう",
+    "romaji": "shiyou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "use",
+          "application",
+          "employment",
+          "utilization",
+          "utilisation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大使",
+      "reading": "たいし",
+      "meaning": "ambassador"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "cost"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "confidence"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "application (of a rule, law, method, etc.)"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "practical use"
+    },
+    {
+      "word": "引用",
+      "reading": "いんよう",
+      "meaning": "quotation"
+    },
+    {
+      "word": "用いる",
+      "reading": "もちいる",
+      "meaning": "to use"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "care"
+    },
+    {
+      "word": "私用",
+      "reading": "しよう",
+      "meaning": "personal use"
+    },
+    {
+      "word": "器用",
+      "reading": "きよう",
+      "meaning": "skillful"
+    },
+    {
+      "word": "使う",
+      "reading": "つかう",
+      "meaning": "to use (a tool, method, etc.)"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaning": "use"
+    },
+    {
+      "word": "大使館",
+      "reading": "たいしかん",
+      "meaning": "embassy"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "空き部屋は三つありますが、どれも使用できません。",
+      "reading": null,
+      "english": "We have three spare rooms, none of which can be used.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械は多量の電気を使用する。",
+      "reading": null,
+      "english": "Machinery uses a lot of electricity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "安全のため、使用前にプラスチック・ケースをはずして下さい。",
+      "reading": null,
+      "english": "For safety purposes, remove the plastic casing before use.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ナイフを使用したら、必ず元の場所にお返しください。",
+      "reading": null,
+      "english": "After using the knife, please be sure to put it back where it was.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それはナイフとしても使用されます。",
+      "reading": null,
+      "english": "It can be used as a knife.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それはときどき使用されるだけだった。",
+      "reading": null,
+      "english": "It was used only from time to time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

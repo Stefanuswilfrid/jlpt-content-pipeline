@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "迫る",
+    "reading": "せまる",
+    "romaji": "semaru",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "mendekat",
+          "menekan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to press (someone for something)",
+          "to urge",
+          "to compel"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "脅迫",
+      "reading": "きょうはく",
+      "meaning": "ancaman, paksaan"
+    },
+    {
+      "word": "迫害",
+      "reading": "はくがい",
+      "meaning": "penganiayaan"
+    },
+    {
+      "word": "圧迫",
+      "reading": "あっぱく",
+      "meaning": "tekanan, paksaan, penindasan"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

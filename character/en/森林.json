@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "森林",
+    "reading": "しんりん",
+    "romaji": "shinrin",
+    "jlpt": "N2",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "forest",
+          "woods"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "山林",
+      "reading": "さんりん",
+      "meaning": "mountain forest"
+    },
+    {
+      "word": "森",
+      "reading": "もり",
+      "meaning": "forest"
+    },
+    {
+      "word": "林",
+      "reading": "はやし",
+      "meaning": "wood"
+    },
+    {
+      "word": "林業",
+      "reading": "りんぎょう",
+      "meaning": "forestry"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "小規模の森林火災はみるみる広がり大火災となった。",
+      "reading": null,
+      "english": "A small forest fire quickly spread and became a huge conflagration.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その国は森林でおおわれている。",
+      "reading": null,
+      "english": "The land is clothed with woods.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "カナダは森林資源が豊富である。",
+      "reading": null,
+      "english": "Canada abounds in timber.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "森林の空気はおいしい。",
+      "reading": null,
+      "english": "The air is wonderful in the woods.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "当森林内でごみを捨てないで下さい。",
+      "reading": null,
+      "english": "The public is requested not to litter in these woods.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "森林地はいくつかの農場に分けられた。",
+      "reading": null,
+      "english": "The woodland was parceled into farms.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "森林火災の防止はすべての人が負う義務です。",
+      "reading": null,
+      "english": "The prevention of forest fires is everyone's responsibility.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "森林の保護は世界中の重要な問題だ。",
+      "reading": null,
+      "english": "Forest conservation is an important issue all over the world.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は森林の中で道に迷った。",
+      "reading": null,
+      "english": "I got lost in the forest.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は森林の中で道に迷った。",
+      "reading": null,
+      "english": "I lost my way in the woods.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

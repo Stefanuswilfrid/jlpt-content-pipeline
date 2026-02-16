@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "早口",
+    "reading": "はやくち",
+    "romaji": "hayakuchi",
+    "jlpt": "N2",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "berbicara cepat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "蛇口",
+      "reading": "じゃぐち",
+      "meaning": "keran, kran"
+    },
+    {
+      "word": "裏口",
+      "reading": "うらぐち",
+      "meaning": "pintu belakang, pintu masuk belakang"
+    },
+    {
+      "word": "窓口",
+      "reading": "まどぐち",
+      "meaning": "loket (tiket)"
+    },
+    {
+      "word": "火口",
+      "reading": "ひぐち",
+      "meaning": "kawah (gunung berapi)"
+    },
+    {
+      "word": "口実",
+      "reading": "こうじつ",
+      "meaning": "mengizinkan"
+    },
+    {
+      "word": "口紅",
+      "reading": "くちべに",
+      "meaning": "lipstik"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お前さ、早口になりがちだぞ。",
+      "reading": null,
+      "indonesian": "You have a tendency to talk too fast.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そんなに早口でしゃべらないでください。",
+      "reading": null,
+      "indonesian": "Please don't speak so fast.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お前、早口だから、何言ってるんだか全然分からないよ。",
+      "reading": null,
+      "indonesian": "You talk so fast I can't understand a word you say.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あんなに早口で英語が話せるのを聞いたことがない。",
+      "reading": null,
+      "indonesian": "I've never heard English spoken so quickly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アナウンサーは早口が出来る。",
+      "reading": null,
+      "indonesian": "The announcer can talk rapidly.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

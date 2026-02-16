@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "実験",
+    "reading": "じっけん",
+    "romaji": "jikken",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "experiment",
+          "experimentation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "現実",
+      "reading": "げんじつ",
+      "meaning": "reality"
+    },
+    {
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "fact"
+    },
+    {
+      "word": "実施",
+      "reading": "じっし",
+      "meaning": "enforcement"
+    },
+    {
+      "word": "確実",
+      "reading": "かくじつ",
+      "meaning": "certain"
+    },
+    {
+      "word": "実現",
+      "reading": "じつげん",
+      "meaning": "implementation (e.g. of a system)"
+    },
+    {
+      "word": "実際",
+      "reading": "じっさい",
+      "meaning": "reality"
+    },
+    {
+      "word": "実力",
+      "reading": "じつりょく",
+      "meaning": "(real) ability"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "execution (e.g. of a plan)"
+    },
+    {
+      "word": "実",
+      "reading": "じつ",
+      "meaning": "truth"
+    },
+    {
+      "word": "実",
+      "reading": "み",
+      "meaning": "fruit"
+    },
+    {
+      "word": "実績",
+      "reading": "じっせき",
+      "meaning": "achievements"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaning": "experience"
+    },
+    {
+      "word": "試験",
+      "reading": "しけん",
+      "meaning": "examination"
+    },
+    {
+      "word": "受験",
+      "reading": "じゅけん",
+      "meaning": "taking an examination (esp. for entrance to a school or university)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "観察は消極的な科学であり、実験は積極的な科学である。",
+      "reading": null,
+      "english": "Observation is a passive science, experimentation an active science.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "パスツールはバクテリアの実験をした。",
+      "reading": null,
+      "english": "Pasteur experimented with bacteria.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それを実験で説明せよ。",
+      "reading": null,
+      "english": "Prove it by experiment.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

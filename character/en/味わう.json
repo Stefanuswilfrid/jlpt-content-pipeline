@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "味わう",
+    "reading": "あじわう",
+    "romaji": "ajiwau",
+    "jlpt": "N2",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to taste",
+          "to savor",
+          "to savour",
+          "to relish"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to appreciate",
+          "to enjoy",
+          "to relish",
+          "to digest"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to experience",
+          "to go through",
+          "to taste (e.g. victory)",
+          "to know (e.g. pain)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "意味",
+      "reading": "いみ",
+      "meaning": "meaning"
+    },
+    {
+      "word": "加味",
+      "reading": "かみ",
+      "meaning": "seasoning"
+    },
+    {
+      "word": "正味",
+      "reading": "しょうみ",
+      "meaning": "net (amount)"
+    },
+    {
+      "word": "吟味",
+      "reading": "ぎんみ",
+      "meaning": "close examination"
+    },
+    {
+      "word": "調味料",
+      "reading": "ちょうみりょう",
+      "meaning": "seasoning"
+    },
+    {
+      "word": "味噌",
+      "reading": "みそ",
+      "meaning": "miso"
+    },
+    {
+      "word": "無意味",
+      "reading": "むいみ",
+      "meaning": "nonsense"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あの人たちは、スリルを味わうためだけにやってるんだよ。",
+      "reading": null,
+      "english": "They do it just for the thrill of it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの人たちは、スリルを味わうためだけにやってるんだよ。",
+      "reading": null,
+      "english": "They do it just for the thrill of it.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "鳥の囀りが聞こえる中、淹れたてのコーヒーを味わう。",
+      "reading": null,
+      "english": "As I hear the birds chirp away in the background, I take a sip of my freshly-brewed coffee.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "鳥の囀りが聞こえる中、淹れたてのコーヒーを味わう。",
+      "reading": null,
+      "english": "As I hear the birds chirp away in the background, I take a sip of my freshly-brewed coffee.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

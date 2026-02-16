@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "信ずる",
+    "reading": "しんずる",
+    "romaji": "shinzuru",
+    "jlpt": "N2",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb - zuru verb (alternative form of -jiru verbs)",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to believe",
+          "to believe in",
+          "to place trust in",
+          "to confide in",
+          "to have faith in"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "confidence"
+    },
+    {
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "trust (in)"
+    },
+    {
+      "word": "信仰",
+      "reading": "しんこう",
+      "meaning": "(religious) faith"
+    },
+    {
+      "word": "信任",
+      "reading": "しんにん",
+      "meaning": "trust"
+    },
+    {
+      "word": "確信",
+      "reading": "かくしん",
+      "meaning": "conviction"
+    },
+    {
+      "word": "信じる",
+      "reading": "しんじる",
+      "meaning": "to believe"
+    },
+    {
+      "word": "迷信",
+      "reading": "めいしん",
+      "meaning": "superstition"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "信ずるところに従って行動した。",
+      "reading": null,
+      "english": "I acted upon what I believed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "見ることは信ずることなり。",
+      "reading": null,
+      "english": "Seeing is believing.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "見ることは信ずることなり。",
+      "reading": null,
+      "english": "Seeing is believing.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "信ずるところに従って行動した。",
+      "reading": null,
+      "english": "I acted upon what I believed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

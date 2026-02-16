@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "生える",
+    "reading": "はえる",
+    "romaji": "haeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to grow",
+          "to spring up",
+          "to sprout"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to cut (teeth)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生る",
+      "reading": "なる",
+      "meaning": "to bear fruit"
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "birth (of a person)"
+    },
+    {
+      "word": "生長",
+      "reading": "せいちょう",
+      "meaning": "growth (of a plant)"
+    },
+    {
+      "word": "生じる",
+      "reading": "しょうじる",
+      "meaning": "to produce"
+    },
+    {
+      "word": "生存",
+      "reading": "せいぞん",
+      "meaning": "existence"
+    },
+    {
+      "word": "生ずる",
+      "reading": "しょうずる",
+      "meaning": "to produce"
+    },
+    {
+      "word": "生まれる",
+      "reading": "うまれる",
+      "meaning": "to be born"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "life"
+    },
+    {
+      "word": "生きる",
+      "reading": "いきる",
+      "meaning": "to live"
+    },
+    {
+      "word": "生涯",
+      "reading": "しょうがい",
+      "meaning": "life"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "カビが生える",
+      "reading": "カビがはえる",
+      "meaning": "to get moldy",
+      "type": "idiom"
+    },
+    {
+      "word": "根が生える",
+      "reading": "ねがはえる",
+      "meaning": "to be unmovable",
+      "type": "idiom"
+    },
+    {
+      "word": "ぺんぺん草が生える",
+      "reading": "ぺんぺんぐさがはえる",
+      "meaning": "to be in ruins",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "植物が生える。",
+      "reading": null,
+      "english": "Plants grow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "植物が生える。",
+      "reading": null,
+      "english": "Plants grow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

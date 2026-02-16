@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "勝ち",
+    "reading": "かち",
+    "romaji": "kachi",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "win",
+          "victory"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaning": "overall victory"
+    },
+    {
+      "word": "勝負",
+      "reading": "しょうぶ",
+      "meaning": "victory or defeat"
+    },
+    {
+      "word": "勝敗",
+      "reading": "しょうはい",
+      "meaning": "victory or defeat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "早い者勝ち",
+      "reading": "はやいものがち",
+      "meaning": "first come, first served",
+      "type": "proverb"
+    },
+    {
+      "word": "逃げるが勝ち",
+      "reading": "にげるがかち",
+      "meaning": "he that fights and runs away may live to fight another day",
+      "type": "proverb"
+    },
+    {
+      "word": "負けるが勝ち",
+      "reading": "まけるがかち",
+      "meaning": "he that fights and runs away may live to fight another day",
+      "type": "proverb"
+    },
+    {
+      "word": "勝ち馬に乗る",
+      "reading": "かちうまにのる",
+      "meaning": "to side with the winner",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "どんな手を使ってでも勝ちとってみせる。",
+      "reading": null,
+      "english": "I'll win no matter what it takes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どちらのチームが勝ちそうですか。",
+      "reading": null,
+      "english": "Which team is likely to win?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その馬はどれも勝ちそうには見えない。",
+      "reading": null,
+      "english": "I don't think any of those horses is going to win.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんな一流選手が相手では勝ち目がない。",
+      "reading": null,
+      "english": "We have no chance against those top players.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

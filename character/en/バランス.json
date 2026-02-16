@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "バランス",
+    "reading": "バランス",
+    "romaji": "baransu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "balance"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ボートは定員オーバーでバランスを失った。",
+      "reading": null,
+      "english": "The boat was off balance because it was overloaded.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アシカは大きなボールの上でうまくバランスを取った。",
+      "reading": null,
+      "english": "The seal kept its balance well on the large ball.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自然界のバランスはとてもこわれやすい。",
+      "reading": null,
+      "english": "The balance of nature is very fragile.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

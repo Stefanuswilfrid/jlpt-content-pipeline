@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "故郷",
+    "reading": "ふるさと",
+    "romaji": "furusato",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hometown",
+          "birthplace",
+          "native place",
+          "one's old home"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "故人",
+      "reading": "こじん",
+      "meaning": "the deceased"
+    },
+    {
+      "word": "事故",
+      "reading": "じこ",
+      "meaning": "accident"
+    },
+    {
+      "word": "故障",
+      "reading": "こしょう",
+      "meaning": "fault"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "故郷忘じ難し",
+      "reading": "こきょうぼうじがたし",
+      "meaning": "there is no place like home",
+      "type": "proverb"
+    },
+    {
+      "word": "故郷へ錦を飾る",
+      "reading": "こきょうへにしきをかざる",
+      "meaning": "to come home in triumph",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

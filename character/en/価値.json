@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "価値",
+    "reading": "かち",
+    "romaji": "kachi",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "value",
+          "worth",
+          "merit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "価格",
+      "reading": "かかく",
+      "meaning": "price"
+    },
+    {
+      "word": "評価",
+      "reading": "ひょうか",
+      "meaning": "valuation"
+    },
+    {
+      "word": "物価",
+      "reading": "ぶっか",
+      "meaning": "prices of commodities"
+    },
+    {
+      "word": "値",
+      "reading": "あたい",
+      "meaning": "price"
+    },
+    {
+      "word": "高価",
+      "reading": "こうか",
+      "meaning": "highly priced"
+    },
+    {
+      "word": "値段",
+      "reading": "ねだん",
+      "meaning": "price"
+    },
+    {
+      "word": "定価",
+      "reading": "ていか",
+      "meaning": "list price"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "利用価値",
+      "reading": "りようかち",
+      "meaning": "utility value",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "希少価値",
+      "reading": "きしょうかち",
+      "meaning": "scarcity value",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

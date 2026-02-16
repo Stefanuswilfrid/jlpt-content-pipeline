@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "投票",
+    "reading": "とうひょう",
+    "romaji": "touhyou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "voting",
+          "ballot",
+          "poll",
+          "vote"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "票",
+      "reading": "ひょう",
+      "meaning": "vote"
+    },
+    {
+      "word": "投書",
+      "reading": "とうしょ",
+      "meaning": "letter (e.g. of complaint)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "会長選挙でだれに投票しますか。",
+      "reading": null,
+      "english": "For whom will you vote for president?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "委員の大多数はその議案に反対投票をした。",
+      "reading": null,
+      "english": "The majority of the committee voted against the bill.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

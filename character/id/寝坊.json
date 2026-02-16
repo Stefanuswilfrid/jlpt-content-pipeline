@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "寝坊",
+    "reading": "ねぼう",
+    "romaji": "nebou",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "bangun kesiangan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "late riser",
+          "sleepyhead"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "赤ん坊",
+      "reading": "あかんぼう",
+      "meaning": "Sayang"
+    },
+    {
+      "word": "泥棒",
+      "reading": "どろぼう",
+      "meaning": "pencuri; perampok"
+    },
+    {
+      "word": "寝る",
+      "reading": "ねる",
+      "meaning": "tidur; pergi tidur; berbaring di tempat tidur"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

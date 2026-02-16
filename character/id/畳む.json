@@ -1,0 +1,52 @@
+{
+  "definition": {
+    "word": "畳む",
+    "reading": "たたむ",
+    "romaji": "tatamu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "melipat (pakaian)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to close (a shop, business)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'mu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to vacate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "畳",
+      "reading": "じょう",
+      "meaning": "tikar tatami (tikar jerami Jepang)"
+    },
+    {
+      "word": "畳",
+      "reading": "たたみ",
+      "meaning": "tikar tatami (tikar jerami Jepang)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

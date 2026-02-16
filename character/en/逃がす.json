@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "逃がす",
+    "reading": "にがす",
+    "romaji": "nigasu",
+    "jlpt": "N2",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to set free",
+          "to let go",
+          "to release"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to miss (e.g. a chance)",
+          "to lose",
+          "to let get away",
+          "to fail to catch"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "逃げ出す",
+      "reading": "にげだす",
+      "meaning": "to run away"
+    },
+    {
+      "word": "逃す",
+      "reading": "のがす",
+      "meaning": "to miss (e.g. a chance)"
+    },
+    {
+      "word": "見逃す",
+      "reading": "みのがす",
+      "meaning": "to miss"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

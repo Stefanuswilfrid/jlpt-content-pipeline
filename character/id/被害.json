@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "被害",
+    "reading": "ひがい",
+    "romaji": "higai",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kerusakan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "障害",
+      "reading": "しょうがい",
+      "meaning": "halangan, rintangan"
+    },
+    {
+      "word": "損害",
+      "reading": "そんがい",
+      "meaning": "kerusakan, kehilangan"
+    },
+    {
+      "word": "害",
+      "reading": "がい",
+      "meaning": "bahaya, kerusakan"
+    },
+    {
+      "word": "公害",
+      "reading": "こうがい",
+      "meaning": "gangguan publik, polusi"
+    },
+    {
+      "word": "利害",
+      "reading": "りがい",
+      "meaning": "Keuntungan dan kerugian, bunga"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "被害妄想",
+      "reading": "ひがいもうそう",
+      "meaning": "persecution complex",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

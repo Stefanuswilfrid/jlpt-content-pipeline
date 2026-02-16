@@ -1,0 +1,41 @@
+{
+  "definition": {
+    "word": "規則",
+    "reading": "きそく",
+    "romaji": "kisoku",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "aturan",
+          "peraturan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "規制",
+      "reading": "きせい",
+      "meaning": "peraturan"
+    },
+    {
+      "word": "正規",
+      "reading": "せいき",
+      "meaning": "teratur, sah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "例外のない規則はない",
+      "reading": "れいがいのないきそくはない",
+      "meaning": "there is no rule without exceptions",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

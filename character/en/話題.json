@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "話題",
+    "reading": "わだい",
+    "romaji": "wadai",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "topic",
+          "subject"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "much talked about",
+          "topical",
+          "in the news",
+          "hot"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaning": "subject"
+    },
+    {
+      "word": "題名",
+      "reading": "だいめい",
+      "meaning": "title"
+    },
+    {
+      "word": "題",
+      "reading": "だい",
+      "meaning": "title"
+    },
+    {
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "telephone call"
+    },
+    {
+      "word": "話",
+      "reading": "はなし",
+      "meaning": "talk"
+    },
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "question (e.g. on a test)"
+    },
+    {
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "conversation"
+    },
+    {
+      "word": "世話",
+      "reading": "せわ",
+      "meaning": "care"
+    },
+    {
+      "word": "神話",
+      "reading": "しんわ",
+      "meaning": "myth"
+    },
+    {
+      "word": "童話",
+      "reading": "どうわ",
+      "meaning": "children's story"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この話題はよそう。",
+      "reading": null,
+      "english": "Let's get off the subject.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ガルフポート中で話題のお店です。",
+      "reading": null,
+      "english": "It's the place that has all of Gulfport talking.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

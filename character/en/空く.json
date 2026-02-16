@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "空く",
+    "reading": "すく",
+    "romaji": "suku",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become less crowded",
+          "to thin out",
+          "to get empty"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be hungry"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "開ける",
+      "reading": "あける",
+      "meaning": "to open (a door, etc.)"
+    },
+    {
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "airport"
+    },
+    {
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "air"
+    },
+    {
+      "word": "空",
+      "reading": "そら",
+      "meaning": "sky"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手が空く",
+      "reading": "てがあく",
+      "meaning": "to be free",
+      "type": "idiom"
+    },
+    {
+      "word": "体が空く",
+      "reading": "からだがあく",
+      "meaning": "to become free",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あと１０分で手が空く。",
+      "reading": null,
+      "english": "I will be free in ten minutes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あと１０分で手が空く。",
+      "reading": null,
+      "english": "I will be free in ten minutes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "definition": {
+    "word": "文字",
+    "reading": "もじ",
+    "romaji": "moji",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "letter (of an alphabet)",
+          "character"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "writing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "数字",
+      "reading": "すうじ",
+      "meaning": "numeral"
+    },
+    {
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "order (for an item)"
+    },
+    {
+      "word": "論文",
+      "reading": "ろんぶん",
+      "meaning": "thesis"
+    },
+    {
+      "word": "文明",
+      "reading": "ぶんめい",
+      "meaning": "civilization"
+    },
+    {
+      "word": "文",
+      "reading": "ふみ",
+      "meaning": "letter"
+    },
+    {
+      "word": "文句",
+      "reading": "もんく",
+      "meaning": "complaint"
+    },
+    {
+      "word": "文",
+      "reading": "ぶん",
+      "meaning": "sentence"
+    },
+    {
+      "word": "字体",
+      "reading": "じたい",
+      "meaning": "form of a character (e.g. simplified, traditional)"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaning": "culture"
+    },
+    {
+      "word": "文学",
+      "reading": "ぶんがく",
+      "meaning": "literature"
+    },
+    {
+      "word": "文章",
+      "reading": "ぶんしょう",
+      "meaning": "writing"
+    },
+    {
+      "word": "字",
+      "reading": "あざ",
+      "meaning": "section of village"
+    },
+    {
+      "word": "文芸",
+      "reading": "ぶんげい",
+      "meaning": "literature"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "真一文字",
+      "reading": "まいちもんじ",
+      "meaning": "straight line",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不立文字",
+      "reading": "ふりゅうもんじ",
+      "meaning": "Buddhist revelation through intuitive discernment",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "名前を大文字で書いてください。",
+      "reading": null,
+      "english": "Write your name in capitals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の名前を大文字で書きなさい。",
+      "reading": null,
+      "english": "Write your name in capitals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語のアルファベットには２６文字ある。",
+      "reading": null,
+      "english": "The English alphabet has 26 letters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "英語のアルファベットは２６文字だ。",
+      "reading": null,
+      "english": "The English alphabet has 26 letters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それをあまり文字どおりに受け取るな。",
+      "reading": null,
+      "english": "Don't take that too literally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そういう四文字言葉は使わないほうがいい。",
+      "reading": null,
+      "english": "You had better not use those four-letter words.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんなにたくさんの文字を覚えられません。",
+      "reading": null,
+      "english": "I can't memorize so many of these letters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんなにたくさんの文字を暗記できません。",
+      "reading": null,
+      "english": "I can't memorize so many of these letters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アルファベットを大文字で書きなさい。",
+      "reading": null,
+      "english": "Write the alphabet in capitals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

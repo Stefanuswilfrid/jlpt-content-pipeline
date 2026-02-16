@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "警察",
+    "reading": "けいさつ",
+    "romaji": "keisatsu",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "polisi; kantor polisi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "police officer"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "police station"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "self-appointed enforcer (of a rule, standard, etc.)",
+          "busybody",
+          "vigilante",
+          "gatekeeper"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "警官",
+      "reading": "けいかん",
+      "meaning": "petugas polisi"
+    },
+    {
+      "word": "警告",
+      "reading": "けいこく",
+      "meaning": "peringatan"
+    },
+    {
+      "word": "観察",
+      "reading": "かんさつ",
+      "meaning": "pengamatan, survei"
+    },
+    {
+      "word": "診察",
+      "reading": "しんさつ",
+      "meaning": "pemeriksaan medis (pasien)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

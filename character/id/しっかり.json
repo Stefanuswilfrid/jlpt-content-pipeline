@@ -1,0 +1,104 @@
+{
+  "definition": {
+    "word": "確り",
+    "reading": "しっかり",
+    "romaji": "shikkari",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "teguh",
+          "mantap"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "strongly (built)",
+          "solidly",
+          "sturdily",
+          "steadily"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "properly",
+          "well",
+          "sufficiently",
+          "hard (working, etc.)",
+          "fully",
+          "completely"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "reliably",
+          "dependably",
+          "levelheadedly",
+          "shrewdly",
+          "wisely",
+          "cleverly"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "確か",
+      "reading": "たしか",
+      "meaning": "jika saya ingat dengan benar; pasti, jelas"
+    },
+    {
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "penegasan, konfirmasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ラケットをしっかりにぎりなさい。",
+      "reading": null,
+      "indonesian": "Hold the racket tight.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なかなかしっかりやってるよ。",
+      "reading": null,
+      "indonesian": "He fills the bill.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "トラをしっかりねらいなさい。",
+      "reading": null,
+      "indonesian": "Take steady aim at the tiger.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

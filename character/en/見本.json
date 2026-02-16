@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "見本",
+    "reading": "みほん",
+    "romaji": "mihon",
+    "jlpt": "N2",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "sample",
+          "specimen",
+          "pattern"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "model",
+          "example"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "標本",
+      "reading": "ひょうほん",
+      "meaning": "specimen"
+    },
+    {
+      "word": "本部",
+      "reading": "ほんぶ",
+      "meaning": "headquarters"
+    },
+    {
+      "word": "本来",
+      "reading": "ほんらい",
+      "meaning": "originally"
+    },
+    {
+      "word": "見学",
+      "reading": "けんがく",
+      "meaning": "inspection"
+    },
+    {
+      "word": "見出し",
+      "reading": "みだし",
+      "meaning": "heading"
+    },
+    {
+      "word": "見積もり",
+      "reading": "みつもり",
+      "meaning": "estimate"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一部の病院は幼児用ミルクの無料見本を配布する。",
+      "reading": null,
+      "english": "Some hospitals hand out free samples of baby milk.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その見本市には注目に値するものはなにもなかった。",
+      "reading": null,
+      "english": "There was nothing worthy of remark at the fair.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの作品の見本をいくつか見せてくれませんか。",
+      "reading": null,
+      "english": "Would you show us some samples of your work?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "無料で見本を配っています。",
+      "reading": null,
+      "english": "They're giving away samples free.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私たちには材料に加えて見本も必要だ。",
+      "reading": null,
+      "english": "We need a sample in addition to materials.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今月は国際貿易見本市が開かれている。",
+      "reading": null,
+      "english": "We are having an international trade fair this month.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "一部の病院は幼児用ミルクの無料見本を配布する。",
+      "reading": null,
+      "english": "Some hospitals hand out free samples of baby milk.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "広がる",
+    "reading": "ひろがる",
+    "romaji": "hirogaru",
+    "jlpt": "N3",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to spread (out)",
+          "to extend",
+          "to stretch",
+          "to reach to",
+          "to get around",
+          "to fill (e.g. a space)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "広まる",
+      "reading": "ひろまる",
+      "meaning": "to spread"
+    },
+    {
+      "word": "広める",
+      "reading": "ひろめる",
+      "meaning": "to spread"
+    },
+    {
+      "word": "広告",
+      "reading": "こうこく",
+      "meaning": "advertisement"
+    },
+    {
+      "word": "広げる",
+      "reading": "ひろげる",
+      "meaning": "to spread"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "火はあなたの足より速く広がることがある。",
+      "reading": null,
+      "english": "A fire can spread faster than you can run.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この病気はどのようにして広がるのだろうか。",
+      "reading": null,
+      "english": "How does this disease spread?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火はあなたの足より速く広がることがある。",
+      "reading": null,
+      "english": "A fire can spread faster than you can run.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この病気はどのようにして広がるのだろうか。",
+      "reading": null,
+      "english": "How does this disease spread?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

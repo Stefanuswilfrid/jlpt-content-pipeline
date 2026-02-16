@@ -1,0 +1,176 @@
+{
+  "definition": {
+    "word": "景気",
+    "reading": "けいき",
+    "romaji": "keiki",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "business conditions",
+          "the market",
+          "economic activity",
+          "economic climate"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "good (economic) times",
+          "prosperity",
+          "boom"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "liveliness",
+          "energy",
+          "vigour",
+          "vigor",
+          "spirit"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "popularity"
+    },
+    {
+      "word": "風景",
+      "reading": "ふうけい",
+      "meaning": "scenery"
+    },
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "(air) temperature"
+    },
+    {
+      "word": "大気",
+      "reading": "たいき",
+      "meaning": "atmosphere"
+    },
+    {
+      "word": "光景",
+      "reading": "こうけい",
+      "meaning": "scene"
+    },
+    {
+      "word": "影",
+      "reading": "かげ",
+      "meaning": "shadow"
+    },
+    {
+      "word": "勇気",
+      "reading": "ゆうき",
+      "meaning": "courage"
+    },
+    {
+      "word": "気候",
+      "reading": "きこう",
+      "meaning": "climate"
+    },
+    {
+      "word": "気味",
+      "reading": "きみ",
+      "meaning": "sensation"
+    },
+    {
+      "word": "活気",
+      "reading": "かっき",
+      "meaning": "energy"
+    },
+    {
+      "word": "磁気",
+      "reading": "じき",
+      "meaning": "magnetism"
+    },
+    {
+      "word": "湿気",
+      "reading": "しっけ",
+      "meaning": "moisture"
+    },
+    {
+      "word": "陽気",
+      "reading": "ようき",
+      "meaning": "cheerful"
+    },
+    {
+      "word": "気体",
+      "reading": "きたい",
+      "meaning": "gas"
+    },
+    {
+      "word": "気の毒",
+      "reading": "きのどく",
+      "meaning": "pitiful"
+    },
+    {
+      "word": "気",
+      "reading": "き",
+      "meaning": "spirit"
+    },
+    {
+      "word": "気持ち",
+      "reading": "きもち",
+      "meaning": "feeling"
+    },
+    {
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "electricity"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "illness (usu. excluding minor ailments, e.g. common cold)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "魚市場の景気はどうですか。",
+      "reading": null,
+      "english": "How is it going in the fish market?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "やあ、景気はどうかね。",
+      "reading": null,
+      "english": "Hello, how's business?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ちょっとした景気づけですよ。",
+      "reading": null,
+      "english": "It's a shot in the arm.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "コンピューター業界は景気がいい。",
+      "reading": null,
+      "english": "The computer industry is enjoying a boom.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

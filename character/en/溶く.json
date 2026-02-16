@@ -1,0 +1,42 @@
+{
+  "definition": {
+    "word": "溶く",
+    "reading": "とく",
+    "romaji": "toku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to dissolve (paint)",
+          "to scramble (eggs)",
+          "to melt (metal, etc.)",
+          "to mix (water with flour, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "溶ける",
+      "reading": "とける",
+      "meaning": "to melt"
+    },
+    {
+      "word": "溶かす",
+      "reading": "とかす",
+      "meaning": "to melt"
+    },
+    {
+      "word": "溶岩",
+      "reading": "ようがん",
+      "meaning": "lava"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

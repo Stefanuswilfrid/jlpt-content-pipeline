@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "群",
+    "reading": "ぐん",
+    "romaji": "gun",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "group",
+          "bunch",
+          "crowd",
+          "throng",
+          "swarm",
+          "band",
+          "herd",
+          "school (of fish)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "group"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "群れ",
+      "reading": "むれ",
+      "meaning": "group"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "群雄割拠",
+      "reading": "ぐんゆうかっきょ",
+      "meaning": "rivalry of local warlords",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "群盲象を評す",
+      "reading": "ぐんもうぞうをひょうす",
+      "meaning": "the mediocre cannot understand the great",
+      "type": "proverb"
+    },
+    {
+      "word": "鶏群の一鶴",
+      "reading": "けいぐんのいっかく",
+      "meaning": "a swan among ducklings",
+      "type": "idiom"
+    },
+    {
+      "word": "群盲象を撫ず",
+      "reading": "ぐんもうぞうをなず",
+      "meaning": "the mediocre have no right to criticize the great",
+      "type": "proverb"
+    },
+    {
+      "word": "群盲象を撫でる",
+      "reading": "ぐんもうぞうをなでる",
+      "meaning": "the mediocre have no right to criticize the great",
+      "type": "proverb"
+    },
+    {
+      "word": "群羊を駆って猛虎を攻む",
+      "reading": "ぐんようをかってもうこをせむ",
+      "meaning": "to group together against a stronger enemy",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "空高く一群の鳥が飛んでいるのを見た。",
+      "reading": null,
+      "english": "I saw a flock of birds flying aloft.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "鳥の群れが空高く飛んでいるのを見ました。",
+      "reading": null,
+      "english": "I saw a flock of birds flying aloft.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ひとりの少年が羊の群れを追っていた。",
+      "reading": null,
+      "english": "A boy was driving a flock of sheep.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの羊の群にも黒い羊がいる。",
+      "reading": null,
+      "english": "There's a black sheep in every flock.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの群れにも必ず黒い羊がいる。",
+      "reading": null,
+      "english": "There's a black sheep in every flock.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

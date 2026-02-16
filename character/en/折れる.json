@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "折れる",
+    "reading": "おれる",
+    "romaji": "oreru",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to break",
+          "to be broken",
+          "to snap",
+          "to fracture"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be folded"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to give in",
+          "to back down",
+          "to yield",
+          "to submit"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to turn (a corner)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "折る",
+      "reading": "おる",
+      "meaning": "to break"
+    },
+    {
+      "word": "骨折",
+      "reading": "こっせつ",
+      "meaning": "bone fracture"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "骨が折れる",
+      "reading": "ほねがおれる",
+      "meaning": "to be hard (to do)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

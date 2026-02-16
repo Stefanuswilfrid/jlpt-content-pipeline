@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "寺",
+    "reading": "てら",
+    "romaji": "tera",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Kuil Buddha"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "寺から里へ",
+      "reading": "てらからさとへ",
+      "meaning": "putting the cart before the horse",
+      "type": "idiom"
+    },
+    {
+      "word": "敵は本能寺にあり",
+      "reading": "てきはほんのうじにあり",
+      "meaning": "his true objective lies elsewhere",
+      "type": "idiom"
+    },
+    {
+      "word": "牛にひかれて善光寺参り",
+      "reading": "うしにひかれてぜんこうじまいり",
+      "meaning": "doing or receiving something good by accident or through the invitation of someone else",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ここにはかつて古いお寺がありました。",
+      "reading": null,
+      "indonesian": "There used to be an old temple here.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たいていの日本のお寺は木で出来ている。",
+      "reading": null,
+      "indonesian": "Most Japanese temples are made of wood.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

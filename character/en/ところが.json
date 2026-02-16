@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "所が",
+    "reading": "ところが",
+    "romaji": "tokoroga",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "even so",
+          "however",
+          "still",
+          "whereupon",
+          "even though",
+          "nevertheless",
+          "on the contrary",
+          "as a matter of fact",
+          "despite"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "所為",
+      "reading": "せい",
+      "meaning": "consequence"
+    },
+    {
+      "word": "停留所",
+      "reading": "ていりゅうじょ",
+      "meaning": "stop (bus, tram, etc.)"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "neighbourhood"
+    },
+    {
+      "word": "役所",
+      "reading": "やくしょ",
+      "meaning": "government office"
+    },
+    {
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "kitchen"
+    },
+    {
+      "word": "所",
+      "reading": "ところ",
+      "meaning": "place"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "京都には見るべきところが多くある。",
+      "reading": null,
+      "english": "There are many places to see in Kyoto.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学者らしいところがある。",
+      "reading": null,
+      "english": "He is something of a scholar.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "悪いところがありますか。",
+      "reading": null,
+      "english": "Is there a problem?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "にぎやかなところが好きだ。",
+      "reading": null,
+      "english": "I like busy places.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "トムは今日給料をもらったのでふところがあったかい。",
+      "reading": null,
+      "english": "Tom is flush with money since he got paid today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

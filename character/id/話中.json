@@ -1,0 +1,183 @@
+{
+  "definition": {
+    "word": "話し中",
+    "reading": "はなしちゅう",
+    "romaji": "hanashichuu",
+    "jlpt": "N2",
+    "frequency": 21750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "Saat sedang berbicara",
+          "saluran telepon sedang sibuk."
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "in talks",
+          "discussion underway"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "中間",
+      "reading": "ちゅうかん",
+      "meaning": "tengah, pertengahan jalan, sementara"
+    },
+    {
+      "word": "中年",
+      "reading": "ちゅうねん",
+      "meaning": "setengah baya"
+    },
+    {
+      "word": "中性",
+      "reading": "ちゅうせい",
+      "meaning": "jenis kelamin netral, netral"
+    },
+    {
+      "word": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "tengah, pusat, bagian tengah"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "pusat, inti"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaning": "topik, subjek"
+    },
+    {
+      "word": "中",
+      "reading": "なか",
+      "meaning": "di dalam, tengah, di antara"
+    },
+    {
+      "word": "中々",
+      "reading": "なかなか",
+      "meaning": "sangat, cukup besar, lumayan"
+    },
+    {
+      "word": "中古",
+      "reading": "ちゅうこ",
+      "meaning": "bekas, barang bekas"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ただいま通話中だ。",
+      "reading": null,
+      "indonesian": "The line is busy now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ただいまお話中です。",
+      "reading": null,
+      "indonesian": "The line is busy now.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ただいまお話中です。",
+      "reading": null,
+      "indonesian": "The line is engaged.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "これで３０分もお話中です。",
+      "reading": null,
+      "indonesian": "The line has been busy for 30 minutes now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お話中失礼ですが、窓を開けて下さいませんか。",
+      "reading": null,
+      "indonesian": "Excuse me for interrupting you, but would you mind opening the window?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "お話中失礼します。",
+      "reading": null,
+      "indonesian": "I'm sorry to interrupt you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お話中です。",
+      "reading": null,
+      "indonesian": "The number is engaged.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "お話中失礼します。",
+      "reading": null,
+      "indonesian": "Excuse me for interrupting you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ただいまお話中です。",
+      "reading": null,
+      "indonesian": "The line is busy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "お話中です。",
+      "reading": null,
+      "indonesian": "The line is busy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あいにく話中です。",
+      "reading": null,
+      "indonesian": "I'm afraid the line is busy.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あいにく、お話中です。",
+      "reading": null,
+      "indonesian": "I'm sorry, your line is busy.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "電話中に切れてしまいました。",
+      "reading": null,
+      "indonesian": "I was cut off while I was speaking.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

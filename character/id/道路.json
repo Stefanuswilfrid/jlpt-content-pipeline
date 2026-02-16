@@ -1,0 +1,96 @@
+{
+  "definition": {
+    "word": "道路",
+    "reading": "どうろ",
+    "romaji": "douro",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "jalan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "鉄道",
+      "reading": "てつどう",
+      "meaning": "kereta api; rel kereta"
+    },
+    {
+      "word": "歩道",
+      "reading": "ほどう",
+      "meaning": "gang"
+    },
+    {
+      "word": "道徳",
+      "reading": "どうとく",
+      "meaning": "moral"
+    },
+    {
+      "word": "道",
+      "reading": "みち",
+      "meaning": "jalan, gang; arah, petunjuk"
+    },
+    {
+      "word": "柔道",
+      "reading": "じゅうどう",
+      "meaning": "judo"
+    },
+    {
+      "word": "水道",
+      "reading": "すいどう",
+      "meaning": "layanan air, saluran air"
+    },
+    {
+      "word": "書道",
+      "reading": "しょどう",
+      "meaning": "kaligrafi"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaning": "alat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "夏の方が冬よりも多くの車が道路にでている。",
+      "reading": null,
+      "indonesian": "There are more cars on the road in the summer than in the winter.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "運転している時は、道路に集中すべきだ。",
+      "reading": null,
+      "indonesian": "You should concentrate on the road when you're driving.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "道路地図をもらえませんか。",
+      "reading": null,
+      "indonesian": "May I have a road map, please?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ネズミが道路を横切った。",
+      "reading": null,
+      "indonesian": "A rat ran across the road.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

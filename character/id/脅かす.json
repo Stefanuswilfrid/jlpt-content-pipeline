@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "脅かす",
+    "reading": "おどかす",
+    "romaji": "odokasu",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengancam",
+          "memaksa"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to startle",
+          "to frighten",
+          "to scare"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "脅す",
+      "reading": "おどす",
+      "meaning": "mengancam, menakut-nakuti"
+    },
+    {
+      "word": "脅迫",
+      "reading": "きょうはく",
+      "meaning": "ancaman, paksaan"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

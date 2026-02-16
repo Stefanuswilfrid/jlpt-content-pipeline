@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "引き出し",
+    "reading": "ひきだし",
+    "romaji": "hikidashi",
+    "jlpt": "N4",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "laci"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "withdrawal (of money from an account)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "variety of knowledge and experience useful for handling things impromptu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "輸出",
+      "reading": "ゆしゅつ",
+      "meaning": "ekspor"
+    },
+    {
+      "word": "出席",
+      "reading": "しゅっせき",
+      "meaning": "kehadiran"
+    },
+    {
+      "word": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "keberangkatan"
+    },
+    {
+      "word": "出来事",
+      "reading": "できごと",
+      "meaning": "insiden sedang terjadi, peristiwa"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaning": "kenangan, ingatan, masa lalu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは引き出しに入れておきました。",
+      "reading": null,
+      "indonesian": "I put it in the drawer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "きれいなタオルは引き出しにありますよ。",
+      "reading": null,
+      "indonesian": "The clean towels are in the drawer.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

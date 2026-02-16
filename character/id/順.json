@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "順",
+    "reading": "じゅん",
+    "romaji": "jun",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "pesan",
+          "putar"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "obedient",
+          "docile",
+          "submissive",
+          "meek"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "baik-baik saja"
+    },
+    {
+      "word": "順番",
+      "reading": "じゅんばん",
+      "meaning": "giliran (dalam antrean), urutan hal-hal"
+    },
+    {
+      "word": "順序",
+      "reading": "じゅんじょ",
+      "meaning": "urutan, rangkaian, prosedur"
+    },
+    {
+      "word": "道順",
+      "reading": "みちじゅん",
+      "meaning": "rencana perjalanan, rute"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "順風満帆",
+      "reading": "じゅんぷうまんぱん",
+      "meaning": "smooth sailing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一路順風",
+      "reading": "いちろじゅんぷう",
+      "meaning": "sailing before the wind",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "お仕事は順調にいってますか。",
+      "reading": null,
+      "indonesian": "How is your work coming along?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "地元の店は観光客相手に順調な商売をしている。",
+      "reading": null,
+      "indonesian": "Local shops do good business with tourists.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "安全手順を守らないとけがしますよ。",
+      "reading": null,
+      "indonesian": "You may injure yourself if you don't follow safety procedures.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

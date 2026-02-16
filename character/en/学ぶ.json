@@ -1,0 +1,178 @@
+{
+  "definition": {
+    "word": "学ぶ",
+    "reading": "まなぶ",
+    "romaji": "manabu",
+    "jlpt": "N3",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to learn",
+          "to study",
+          "to take lessons in"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "学習",
+      "reading": "がくしゅう",
+      "meaning": "learning"
+    },
+    {
+      "word": "科学",
+      "reading": "かがく",
+      "meaning": "science"
+    },
+    {
+      "word": "学者",
+      "reading": "がくしゃ",
+      "meaning": "scholar"
+    },
+    {
+      "word": "中学",
+      "reading": "ちゅうがく",
+      "meaning": "junior high school"
+    },
+    {
+      "word": "化学",
+      "reading": "かがく",
+      "meaning": "chemistry"
+    },
+    {
+      "word": "哲学",
+      "reading": "てつがく",
+      "meaning": "philosophy"
+    },
+    {
+      "word": "留学",
+      "reading": "りゅうがく",
+      "meaning": "studying abroad"
+    },
+    {
+      "word": "進学",
+      "reading": "しんがく",
+      "meaning": "advancing to the next stage of education"
+    },
+    {
+      "word": "学歴",
+      "reading": "がくれき",
+      "meaning": "academic background"
+    },
+    {
+      "word": "学問",
+      "reading": "がくもん",
+      "meaning": "study"
+    },
+    {
+      "word": "語学",
+      "reading": "ごがく",
+      "meaning": "study of foreign languages"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "commuting to school"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaning": "scholarship"
+    },
+    {
+      "word": "学",
+      "reading": "がく",
+      "meaning": "learning"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "school term"
+    },
+    {
+      "word": "退学",
+      "reading": "たいがく",
+      "meaning": "dropping out of school"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "教うるは学ぶの半ば",
+      "reading": "おしうるはまなぶのなかば",
+      "meaning": "we learn by teaching",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は辞書の使い方を学ぶべきだ。",
+      "reading": null,
+      "english": "You should learn how to use your dictionary.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が外国語を学ぶ事は重要です。",
+      "reading": null,
+      "english": "It is important for you to learn a foreign language.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教育は単に多くの事実を学ぶことにあるわけでない。",
+      "reading": null,
+      "english": "Education does not consist simply in learning a lot of facts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教育は単に多くの事実を学ぶことにあるのではない。",
+      "reading": null,
+      "english": "Education does not consist simply in learning a lot of facts.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教える事は学ぶ事である。",
+      "reading": null,
+      "english": "Teaching is learning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校で学ぶことをよくおぼえていなさい。",
+      "reading": null,
+      "english": "Remember well what you learn at school.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学べば学ぶほどますます学びたくなる。",
+      "reading": null,
+      "english": "The more you learn, the more you want to.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学べば学ぶほど、自分が無知であることがよく分かる。",
+      "reading": null,
+      "english": "The more we learn, the better we realize our ignorance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "用語",
+    "reading": "ようご",
+    "romaji": "yougo",
+    "jlpt": "N2",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "istilah",
+          "terminologi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wording",
+          "choice of words",
+          "phraseology"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "実用",
+      "reading": "じつよう",
+      "meaning": "penggunaan praktis, kegunaan"
+    },
+    {
+      "word": "応用",
+      "reading": "おうよう",
+      "meaning": "aplikasi, diterapkan secara praktis"
+    },
+    {
+      "word": "用途",
+      "reading": "ようと",
+      "meaning": "penggunaan, kegunaan"
+    },
+    {
+      "word": "日用品",
+      "reading": "にちようひん",
+      "meaning": "kebutuhan sehari-hari"
+    },
+    {
+      "word": "敬語",
+      "reading": "けいご",
+      "meaning": "bahasa hormat (secara harfiah, bahasa penghargaan)"
+    },
+    {
+      "word": "熟語",
+      "reading": "じゅくご",
+      "meaning": "idiom, gabungan kanji"
+    },
+    {
+      "word": "通用",
+      "reading": "つうよう",
+      "meaning": "penggunaan populer, peredaran"
+    },
+    {
+      "word": "主語",
+      "reading": "しゅご",
+      "meaning": "(tata bahasa) subjek"
+    },
+    {
+      "word": "採用",
+      "reading": "さいよう",
+      "meaning": "menggunakan, mengadopsi"
+    },
+    {
+      "word": "使用",
+      "reading": "しよう",
+      "meaning": "penggunaan (sama dengan 使うこと (つかうこと)), penerapan, pekerjaan, pemanfaatan"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "biaya, pengeluaran"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaning": "penggunaan, pemanfaatan"
+    },
+    {
+      "word": "英語",
+      "reading": "えいご",
+      "meaning": "Bahasa Inggris"
+    },
+    {
+      "word": "運用",
+      "reading": "うんよう",
+      "meaning": "memanfaatkan, penerapan, penggunaan praktis"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "kepercayaan, ketergantungan"
+    },
+    {
+      "word": "物語",
+      "reading": "ものがたり",
+      "meaning": "kisah, cerita, legenda"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "menerapkan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ペルーの公用語って、何なの？",
+      "reading": null,
+      "indonesian": "What is the common language in Peru?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "とりわけ、科学用語には正確な定義が要求される。",
+      "reading": null,
+      "indonesian": "Above all, scientific terms call for precise definitions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらの専門用語はギリシャ語に由来している。",
+      "reading": null,
+      "indonesian": "These technical terms derive from Greek.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "法律用語の大半は素人にはわかりにくい。",
+      "reading": null,
+      "indonesian": "Much legal language is obscure to a layman.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "法律用語では、子供は「ｉｓｓｕｅ」と呼ばれる。",
+      "reading": null,
+      "indonesian": "In legal terms, children are called \"issue.\"",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本料理の用語はほかの言語に訳すのが難しい。",
+      "reading": null,
+      "indonesian": "Japanese food terms are difficult to render into other languages.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "電子工学の専門用語がわからない。",
+      "reading": null,
+      "indonesian": "I don't understand electronics shoptalk.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "専門用語で書いてあるため、この本は実に読みにくい。",
+      "reading": null,
+      "indonesian": "Written in technical terms, this book is very difficult to understand.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "借用語が全くないという言語はおそらくないであろう。",
+      "reading": null,
+      "indonesian": "In all probability, no language is completely free of borrowed words.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

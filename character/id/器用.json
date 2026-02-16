@@ -1,0 +1,159 @@
+{
+  "definition": {
+    "word": "器用",
+    "reading": "きよう",
+    "romaji": "kiyou",
+    "jlpt": "N3",
+    "frequency": 21750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "terampil",
+          "cekatan"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "clever",
+          "shrewd",
+          "ingenious"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "武器",
+      "reading": "ぶき",
+      "meaning": "senjata, persenjataan"
+    },
+    {
+      "word": "使用",
+      "reading": "しよう",
+      "meaning": "penggunaan (sama dengan 使うこと (つかうこと)), penerapan, pekerjaan, pemanfaatan"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "biaya, pengeluaran"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "kepercayaan, ketergantungan"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "menerapkan"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "konjugasi; penggunaan praktis"
+    },
+    {
+      "word": "楽器",
+      "reading": "がっき",
+      "meaning": "alat musik"
+    },
+    {
+      "word": "容器",
+      "reading": "ようき",
+      "meaning": "kontainer, kapal"
+    },
+    {
+      "word": "引用",
+      "reading": "いんよう",
+      "meaning": "kutipan, referensi"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter, pengukur"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "perawatan, pencegahan, kewaspadaan"
+    },
+    {
+      "word": "磁器",
+      "reading": "じき",
+      "meaning": "porselen, keramik"
+    },
+    {
+      "word": "器官",
+      "reading": "きかん",
+      "meaning": "organ (tubuh, instrumen)"
+    },
+    {
+      "word": "私用",
+      "reading": "しよう",
+      "meaning": "penggunaan pribadi, bisnis pribadi"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaning": "mesin, permesinan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "器用貧乏",
+      "reading": "きようびんぼう",
+      "meaning": "jack of all trades, master of none",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は手先が器用だね。",
+      "reading": null,
+      "indonesian": "You have a light hand, don't you?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "マックスは手先が器用だ。",
+      "reading": null,
+      "indonesian": "Max is clever with his fingers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その女の子は指先が器用だ。",
+      "reading": null,
+      "indonesian": "The girl is skillful with her fingers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは本当に不器用ですね。",
+      "reading": null,
+      "indonesian": "You are really clumsy, aren't you!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アンタ本当に器用ねっ。主夫とか向いてるんじゃない？",
+      "reading": null,
+      "indonesian": "You're really handy, aren't you? Don't you think you'd make a good house-husband?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

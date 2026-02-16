@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "勿論",
+    "reading": "もちろん",
+    "romaji": "mochiron",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "of course",
+          "certainly",
+          "naturally"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "論争",
+      "reading": "ろんそう",
+      "meaning": "dispute"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学生はもちろん先生も来た。",
+      "reading": null,
+      "english": "The teacher as well as his students has come.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何があったか教えてください。もちろんここだけの話で。",
+      "reading": null,
+      "english": "Please tell me what happened - off the record, of course.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

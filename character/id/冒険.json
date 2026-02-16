@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "冒険",
+    "reading": "ぼうけん",
+    "romaji": "bouken",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "risiko",
+          "usaha",
+          "petualangan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "venture which is unlikely to succeed",
+          "risky attempt",
+          "danger",
+          "hazard",
+          "risk"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "危険",
+      "reading": "きけん",
+      "meaning": "bahaya, risiko, ancaman"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

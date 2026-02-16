@@ -1,0 +1,45 @@
+{
+  "definition": {
+    "word": "原",
+    "reading": "げん",
+    "romaji": "gen",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "lapangan",
+          "dataran"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "起源",
+      "reading": "きげん",
+      "meaning": "asal usul, permulaan, kebangkitan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "原作レイプ",
+      "reading": "げんさくレイプ",
+      "meaning": "unfaithful adaptation",
+      "type": "expression"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "牛が野原で草をはんでいた。",
+      "reading": null,
+      "indonesian": "Cattle were grazing in the field.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

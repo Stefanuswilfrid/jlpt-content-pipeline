@@ -1,0 +1,45 @@
+{
+  "definition": {
+    "word": "泊まる",
+    "reading": "とまる",
+    "romaji": "tomaru",
+    "jlpt": "N4",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stay at (e.g. hotel)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be docked",
+          "to be berthed",
+          "to be moored"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "宿泊",
+      "reading": "しゅくはく",
+      "meaning": "accommodation"
+    },
+    {
+      "word": "泊める",
+      "reading": "とめる",
+      "meaning": "to give shelter to"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "向い",
+    "reading": "むかい",
+    "romaji": "mukai",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "berhadapan",
+          "berlawanan",
+          "di seberang"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "arah, jalur, jalan"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaning": "kecenderungan, tren, inkonsistensi"
+    },
+    {
+      "word": "向く",
+      "reading": "むく",
+      "meaning": "untuk menghadapi"
+    },
+    {
+      "word": "向ける",
+      "reading": "むける",
+      "meaning": "untuk berbalik ke arah, untuk menunjuk"
+    },
+    {
+      "word": "向こう",
+      "reading": "むこう",
+      "meaning": "di sana, di seberang sana"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学校はうちの向かいにあります。",
+      "reading": null,
+      "indonesian": "The school is across from our house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ロッドはジョンの向かいに住んでいる。",
+      "reading": null,
+      "indonesian": "Rod lives across the street from John.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょっと向かいの花屋に行くところです。",
+      "reading": null,
+      "indonesian": "I'm just going across to the flower shop.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょうど教会の向かいです。",
+      "reading": null,
+      "indonesian": "It's just across the street from the church.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その店は通りの向かいにあります。",
+      "reading": null,
+      "indonesian": "The store is across the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その青年は向かいの家から出てきた。",
+      "reading": null,
+      "indonesian": "The young man came out of the house opposite.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

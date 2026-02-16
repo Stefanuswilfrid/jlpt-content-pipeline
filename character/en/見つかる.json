@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "見つかる",
+    "reading": "みつかる",
+    "romaji": "mitsukaru",
+    "jlpt": "N4",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be found",
+          "to be discovered"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見える",
+      "reading": "みえる",
+      "meaning": "to be seen"
+    },
+    {
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "opinion"
+    },
+    {
+      "word": "花見",
+      "reading": "はなみ",
+      "meaning": "cherry blossom viewing"
+    },
+    {
+      "word": "見物",
+      "reading": "けんぶつ",
+      "meaning": "sightseeing"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "さてと・・・見つかる前にずらかるか。",
+      "reading": null,
+      "english": "Well now… Shall we scarper before we're found?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

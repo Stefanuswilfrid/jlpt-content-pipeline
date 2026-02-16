@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "散る",
+    "reading": "ちる",
+    "romaji": "chiru",
+    "jlpt": "N3",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "jatuh",
+          "berhamburan (misalnya",
+          "bunga)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to scatter",
+          "to be dispersed"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to disappear",
+          "to dissolve",
+          "to break up"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to spread",
+          "to run",
+          "to blur"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to die a noble death"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "perpisahan, pembubaran"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "berjalan, berkeliling"
+    },
+    {
+      "word": "散らかる",
+      "reading": "ちらかる",
+      "meaning": "berada dalam keadaan kacau"
+    },
+    {
+      "word": "散らす",
+      "reading": "ちらす",
+      "meaning": "untuk menyebar, untuk menyebarkan, untuk mendistribusikan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "気が散る",
+      "reading": "きがちる",
+      "meaning": "to get distracted",
+      "type": "idiom"
+    },
+    {
+      "word": "桜散る",
+      "reading": "さくらちる",
+      "meaning": "to fail an exam",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "気が散るからテレビを消してくれ。",
+      "reading": null,
+      "indonesian": "Turn off the television. I can't concentrate.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "秋には葉が散る。",
+      "reading": null,
+      "indonesian": "The leaves fall in autumn.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "気が散るからテレビを消してくれ。",
+      "reading": null,
+      "indonesian": "Turn off the television. I can't concentrate.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "気が散るからテレビを消してくれ。",
+      "reading": null,
+      "indonesian": "Turn off the TV. It's distracting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "秋には葉が散る。",
+      "reading": null,
+      "indonesian": "The leaves fall in autumn.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "気が散るからテレビを消してくれ。",
+      "reading": null,
+      "indonesian": "Turn off the TV. It's distracting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

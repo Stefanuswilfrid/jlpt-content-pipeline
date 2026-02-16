@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "隊",
+    "reading": "たい",
+    "romaji": "tai",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "party",
+          "group",
+          "crew",
+          "team",
+          "body"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "company (of troops)",
+          "corps",
+          "unit",
+          "squad"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "軍隊",
+      "reading": "ぐんたい",
+      "meaning": "armed forces"
+    },
+    {
+      "word": "兵隊",
+      "reading": "へいたい",
+      "meaning": "armed forces"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "兵隊勘定",
+      "reading": "へいたいかんじょう",
+      "meaning": "Dutch treat",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "楽隊が町をパレードした。",
+      "reading": null,
+      "english": "The band paraded the streets.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "楽隊が先頭に立って市を行進した。",
+      "reading": null,
+      "english": "A band led the parade through the city.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

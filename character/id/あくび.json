@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "欠伸",
+    "reading": "あくび",
+    "romaji": "akubi",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menguap"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kanji \"yawning\" radical (radical 76)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "欠陥",
+      "reading": "けっかん",
+      "meaning": "cacat, kesalahan, kekurangan"
+    },
+    {
+      "word": "不可欠",
+      "reading": "ふかけつ",
+      "meaning": "sangat diperlukan, penting"
+    },
+    {
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaning": "ketidakhadiran, tidak hadir"
+    },
+    {
+      "word": "欠ける",
+      "reading": "かける",
+      "meaning": "kurang"
+    },
+    {
+      "word": "欠点",
+      "reading": "けってん",
+      "meaning": "kesalahan, cacat, kelemahan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "我々は酸素が不足するとあくびをする。",
+      "reading": null,
+      "indonesian": "We yawn when we are short of oxygen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お前、会議中あくびばかりしてたじゃないか。",
+      "reading": null,
+      "indonesian": "You should have seen yourself, yawning all through the meeting.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの先生の講義はあくびが出る。",
+      "reading": null,
+      "indonesian": "His lectures are terribly boring.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大あくびをして。",
+      "reading": null,
+      "indonesian": "Yawn a big long yawn.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "私はあくびをかみ殺した。",
+      "reading": null,
+      "indonesian": "I suppressed a yawn.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々は酸素が不足するとあくびをする。",
+      "reading": null,
+      "indonesian": "We yawn when we are short of oxygen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "所々",
+    "reading": "ところどころ",
+    "romaji": "tokorodokoro",
+    "jlpt": "N2",
+    "frequency": 15750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "here and there",
+          "in places"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "短所",
+      "reading": "たんしょ",
+      "meaning": "defect"
+    },
+    {
+      "word": "役所",
+      "reading": "やくしょ",
+      "meaning": "government office"
+    },
+    {
+      "word": "余所",
+      "reading": "よそ",
+      "meaning": "another place"
+    },
+    {
+      "word": "名所",
+      "reading": "めいしょ",
+      "meaning": "famous place"
+    },
+    {
+      "word": "箇所",
+      "reading": "かしょ",
+      "meaning": "place"
+    },
+    {
+      "word": "長所",
+      "reading": "ちょうしょ",
+      "meaning": "strong point"
+    },
+    {
+      "word": "便所",
+      "reading": "べんじょ",
+      "meaning": "toilet"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その本は所々非常にすばらしい。",
+      "reading": null,
+      "english": "Parts of the book are quite good.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その習慣は今なお日本の所々で行われている。",
+      "reading": null,
+      "english": "The practice still prevails locally in parts of Japan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その本は所々非常にすばらしい。",
+      "reading": null,
+      "english": "Parts of the book are quite good.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その習慣は今なお日本の所々で行われている。",
+      "reading": null,
+      "english": "The practice still prevails locally in parts of Japan.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "自習",
+    "reading": "じしゅう",
+    "romaji": "jishuu",
+    "jlpt": "N2",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "belajar mandiri"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "studying by oneself (at school) while the teacher is absent"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "自ら",
+      "reading": "みずから",
+      "meaning": "untuk diri sendiri, secara pribadi"
+    },
+    {
+      "word": "自宅",
+      "reading": "じたく",
+      "meaning": "rumah sendiri (sama dengan 自分の家 (じぶんのいえ))"
+    },
+    {
+      "word": "自治",
+      "reading": "じち",
+      "meaning": "pemerintahan sendiri, otonomi"
+    },
+    {
+      "word": "自衛",
+      "reading": "じえい",
+      "meaning": "bela diri"
+    },
+    {
+      "word": "実習",
+      "reading": "じっしゅう",
+      "meaning": "praktik, pelatihan"
+    },
+    {
+      "word": "各自",
+      "reading": "かくじ",
+      "meaning": "individu, masing-masing"
+    },
+    {
+      "word": "習字",
+      "reading": "しゅうじ",
+      "meaning": "keahlian menulis indah"
+    },
+    {
+      "word": "自転",
+      "reading": "じてん",
+      "meaning": "rotasi, putaran"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自学自習",
+      "reading": "じがくじしゅう",
+      "meaning": "teaching oneself",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "土・日も自習室って開いてるんですか？",
+      "reading": null,
+      "indonesian": "Are the individual study rooms open even on Saturdays and Sundays?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "土・日も自習室って開いてるんですか？",
+      "reading": null,
+      "indonesian": "Are the individual study rooms open even on Saturdays and Sundays?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自習室はM2Fにあります。",
+      "reading": null,
+      "indonesian": "There is a study on Mezzanine Floor level 2.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "自習室はM2Fにあります。",
+      "reading": null,
+      "indonesian": "There is a study on Mezzanine Floor level 2.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

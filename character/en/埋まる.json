@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "埋まる",
+    "reading": "うまる",
+    "romaji": "umaru",
+    "jlpt": "N3",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be buried",
+          "to be covered",
+          "to be surrounded"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to overflow",
+          "to be crowded",
+          "to be filled"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be repaid (e.g. debt)",
+          "to be replenished"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be filled (e.g. blank, vacancy, schedule)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "埋める",
+      "reading": "うめる",
+      "meaning": "to bury (e.g. in the ground)"
+    },
+    {
+      "word": "埋める",
+      "reading": "うずめる",
+      "meaning": "to cover"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "外堀が埋まる",
+      "reading": "そとぼりがうまる",
+      "meaning": "to be clear of obstacles in the way of one's objective",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

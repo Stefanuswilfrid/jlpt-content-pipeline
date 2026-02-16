@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "溶ける",
+    "reading": "とける",
+    "romaji": "tokeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to melt",
+          "to liquefy",
+          "to soften (e.g. through heat)",
+          "to thaw"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to dissolve (in a liquid)",
+          "to be soluble (in)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be used up (of money or time)",
+          "to be wasted",
+          "to melt away"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "溶く",
+      "reading": "とく",
+      "meaning": "to dissolve (paint)"
+    },
+    {
+      "word": "溶け込む",
+      "reading": "とけこむ",
+      "meaning": "to melt into"
+    },
+    {
+      "word": "溶岩",
+      "reading": "ようがん",
+      "meaning": "lava"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心が溶ける",
+      "reading": "こころがとける",
+      "meaning": "one's heart melts",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

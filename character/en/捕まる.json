@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "捕まる",
+    "reading": "つかまる",
+    "romaji": "tsukamaru",
+    "jlpt": "N3",
+    "frequency": 21750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be caught",
+          "to be arrested"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to hold on to",
+          "to grasp"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to find (e.g. proof)",
+          "to get (e.g. a taxi)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be detained by"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "捕る",
+      "reading": "とる",
+      "meaning": "to catch (a wild animal, fish, insect, baseball, etc.)"
+    },
+    {
+      "word": "逮捕",
+      "reading": "たいほ",
+      "meaning": "arrest"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

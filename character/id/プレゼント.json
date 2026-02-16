@@ -1,0 +1,50 @@
+{
+  "definition": {
+    "word": "プレゼント",
+    "reading": "プレゼント",
+    "romaji": "purezento",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "hadiah",
+          "kado"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何かプレゼントをあげるね。",
+      "reading": null,
+      "indonesian": "I'll give you a present.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "プレゼントをありがとう。",
+      "reading": null,
+      "indonesian": "Thank you for your present.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ハーモニカはお父さんからのプレゼントですか。",
+      "reading": null,
+      "indonesian": "Is the harmonica a present from his father?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

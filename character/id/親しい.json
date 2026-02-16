@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "親しい",
+    "reading": "したしい",
+    "romaji": "shitashii",
+    "jlpt": "N3",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "akrab",
+          "dekat (misalnya",
+          "teman)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "familiar (e.g. story)",
+          "well-known (to one)"
+        ]
+      },
+      {
+        "pos": [
+          "adjective (keiyoushi)"
+        ],
+        "meanings": [
+          "close (relatives)",
+          "closely related"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "父親",
+      "reading": "ちちおや",
+      "meaning": "ayah"
+    },
+    {
+      "word": "母親",
+      "reading": "ははおや",
+      "meaning": "ibu"
+    },
+    {
+      "word": "親友",
+      "reading": "しんゆう",
+      "meaning": "teman dekat, sahabat"
+    },
+    {
+      "word": "親戚",
+      "reading": "しんせき",
+      "meaning": "kerabat)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "このパーティーは親しい人の集まりです。",
+      "reading": null,
+      "indonesian": "This party is an intimate gathering.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "２人の少年はキャンプで親しい友達になった。",
+      "reading": null,
+      "indonesian": "The two boys became intimate friends at the camp.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

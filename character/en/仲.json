@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "仲",
+    "reading": "なか",
+    "romaji": "naka",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "relation",
+          "relationship"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "仲間",
+      "reading": "なかま",
+      "meaning": "companion"
+    },
+    {
+      "word": "仲直り",
+      "reading": "なかなおり",
+      "meaning": "reconciliation"
+    },
+    {
+      "word": "中々",
+      "reading": "なかなか",
+      "meaning": "very"
+    },
+    {
+      "word": "仲良し",
+      "reading": "なかよし",
+      "meaning": "close friendship"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "犬猿の仲",
+      "reading": "けんえんのなか",
+      "meaning": "like cats and dogs",
+      "type": "idiom"
+    },
+    {
+      "word": "勢力伯仲",
+      "reading": "せいりょくはくちゅう",
+      "meaning": "(two sides) being evenly matched in influence or power",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "保革伯仲",
+      "reading": "ほかくはくちゅう",
+      "meaning": "conservatives and reformists being neck and neck",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "実力伯仲",
+      "reading": "じつりょくはくちゅう",
+      "meaning": "(the two persons' sides) being evenly matched in ability",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "ツーカーの仲",
+      "reading": "ツーカーのなか",
+      "meaning": "relationship based on intuitive understanding of each other",
+      "type": "idiom"
+    },
+    {
+      "word": "親しき仲にも礼儀あり",
+      "reading": "したしきなかにもれいぎあり",
+      "meaning": "good fences make good neighbors",
+      "type": "proverb"
+    },
+    {
+      "word": "近しき仲にも垣を結え",
+      "reading": "ちかしきなかにもかきをゆえ",
+      "meaning": "good fences make good neighbors",
+      "type": "proverb"
+    },
+    {
+      "word": "二人は伴侶、三人は仲間割れ",
+      "reading": "ふたりははんりょ、さんにんはなかまわれ",
+      "meaning": "two is a company, three is a crowd",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君とぼくは仲がよいが、共通するものはほとんどない。",
+      "reading": null,
+      "english": "You and I are good friends, but we have little in common.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君が仲間に加われないのは残念だ。",
+      "reading": null,
+      "english": "It is a pity that you can't join us.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "近所の人とは仲良くしなければなりません。",
+      "reading": null,
+      "english": "You must be friendly with your neighbors.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "外国から来た人々と仲良くやっていこうとするのは大切だ。",
+      "reading": null,
+      "english": "It is important to try to get along with people from foreign countries.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

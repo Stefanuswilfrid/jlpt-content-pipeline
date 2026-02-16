@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "飽きる",
+    "reading": "あきる",
+    "romaji": "akiru",
+    "jlpt": "N3",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "suffix",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "menjadi bosan",
+          "kehilangan minat pada"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become sated",
+          "to become satiated",
+          "to have one's fill"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "飽くまで",
+      "reading": "あくまで",
+      "meaning": "sampai akhir, sampai yang terakhir, dengan keras kepala"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "美人は三日で飽きる",
+      "reading": "びじんはみっかであきる",
+      "meaning": "beauty is only skin-deep",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

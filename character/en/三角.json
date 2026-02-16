@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "三角",
+    "reading": "さんかく",
+    "romaji": "sankaku",
+    "jlpt": "N2",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "triangle",
+          "triangular shape"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "角度",
+      "reading": "かくど",
+      "meaning": "angle"
+    },
+    {
+      "word": "四つ角",
+      "reading": "よつかど",
+      "meaning": "four corners"
+    },
+    {
+      "word": "折角",
+      "reading": "せっかく",
+      "meaning": "with trouble"
+    },
+    {
+      "word": "街角",
+      "reading": "まちかど",
+      "meaning": "street corner"
+    },
+    {
+      "word": "方角",
+      "reading": "ほうがく",
+      "meaning": "direction"
+    },
+    {
+      "word": "直角",
+      "reading": "ちょっかく",
+      "meaning": "right angle"
+    },
+    {
+      "word": "三日月",
+      "reading": "みかづき",
+      "meaning": "crescent moon"
+    },
+    {
+      "word": "相撲",
+      "reading": "すもう",
+      "meaning": "sumo (wrestling)"
+    },
+    {
+      "word": "角",
+      "reading": "かく",
+      "meaning": "angle"
+    },
+    {
+      "word": "角",
+      "reading": "つの",
+      "meaning": "horn"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "「三角形」を定義するのは難しいです。",
+      "reading": null,
+      "english": "It is hard to define \"triangle.\"",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "三角形の面積を求めてくれ。",
+      "reading": null,
+      "english": "Please find the area of the triangle.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「三角形」を定義するのは難しいです。",
+      "reading": null,
+      "english": "It is hard to define \"triangle.\"",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "三角形の面積を求めてくれ。",
+      "reading": null,
+      "english": "Please find the area of the triangle.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの子が球面三角を書きました。",
+      "reading": null,
+      "english": "The child drew a spherical triangle.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの子が球面三角を書きました。",
+      "reading": null,
+      "english": "The child drew a spherical triangle.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

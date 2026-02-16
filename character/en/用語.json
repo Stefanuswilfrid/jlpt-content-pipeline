@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "用語",
+    "reading": "ようご",
+    "romaji": "yougo",
+    "jlpt": "N2",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "term",
+          "terminology"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wording",
+          "choice of words",
+          "phraseology"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "実用",
+      "reading": "じつよう",
+      "meaning": "practical use"
+    },
+    {
+      "word": "応用",
+      "reading": "おうよう",
+      "meaning": "(practical) application"
+    },
+    {
+      "word": "用途",
+      "reading": "ようと",
+      "meaning": "use"
+    },
+    {
+      "word": "日用品",
+      "reading": "にちようひん",
+      "meaning": "daily necessities"
+    },
+    {
+      "word": "敬語",
+      "reading": "けいご",
+      "meaning": "honorific"
+    },
+    {
+      "word": "熟語",
+      "reading": "じゅくご",
+      "meaning": "kanji compound"
+    },
+    {
+      "word": "通用",
+      "reading": "つうよう",
+      "meaning": "(common) use (of a language, currency, etc.)"
+    },
+    {
+      "word": "主語",
+      "reading": "しゅご",
+      "meaning": "subject"
+    },
+    {
+      "word": "採用",
+      "reading": "さいよう",
+      "meaning": "use"
+    },
+    {
+      "word": "使用",
+      "reading": "しよう",
+      "meaning": "use"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "cost"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaning": "use"
+    },
+    {
+      "word": "英語",
+      "reading": "えいご",
+      "meaning": "English (language)"
+    },
+    {
+      "word": "運用",
+      "reading": "うんよう",
+      "meaning": "making use of"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "confidence"
+    },
+    {
+      "word": "物語",
+      "reading": "ものがたり",
+      "meaning": "story"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "application (of a rule, law, method, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ペルーの公用語って、何なの？",
+      "reading": null,
+      "english": "What is the common language in Peru?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "とりわけ、科学用語には正確な定義が要求される。",
+      "reading": null,
+      "english": "Above all, scientific terms call for precise definitions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらの専門用語はギリシャ語に由来している。",
+      "reading": null,
+      "english": "These technical terms derive from Greek.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "法律用語の大半は素人にはわかりにくい。",
+      "reading": null,
+      "english": "Much legal language is obscure to a layman.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "法律用語では、子供は「ｉｓｓｕｅ」と呼ばれる。",
+      "reading": null,
+      "english": "In legal terms, children are called \"issue.\"",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "日本料理の用語はほかの言語に訳すのが難しい。",
+      "reading": null,
+      "english": "Japanese food terms are difficult to render into other languages.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "電子工学の専門用語がわからない。",
+      "reading": null,
+      "english": "I don't understand electronics shoptalk.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "専門用語で書いてあるため、この本は実に読みにくい。",
+      "reading": null,
+      "english": "Written in technical terms, this book is very difficult to understand.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "借用語が全くないという言語はおそらくないであろう。",
+      "reading": null,
+      "english": "In all probability, no language is completely free of borrowed words.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "斜め",
+    "reading": "ななめ",
+    "romaji": "naname",
+    "jlpt": "N2",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "diagonal"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "distorted (feeling)",
+          "slanted (e.g. view of the world)",
+          "bad (mood)",
+          "amiss",
+          "awry"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "傾斜",
+      "reading": "けいしゃ",
+      "meaning": "kemiringan, lereng, penurunan"
+    },
+    {
+      "word": "斜面",
+      "reading": "しゃめん",
+      "meaning": "kemiringan, permukaan miring, bevel"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

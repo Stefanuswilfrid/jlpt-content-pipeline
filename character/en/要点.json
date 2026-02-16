@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "要点",
+    "reading": "ようてん",
+    "romaji": "youten",
+    "jlpt": "N3",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gist",
+          "main point"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "要求",
+      "reading": "ようきゅう",
+      "meaning": "demand"
+    },
+    {
+      "word": "主要",
+      "reading": "しゅよう",
+      "meaning": "chief"
+    },
+    {
+      "word": "需要",
+      "reading": "じゅよう",
+      "meaning": "demand"
+    },
+    {
+      "word": "要素",
+      "reading": "ようそ",
+      "meaning": "component"
+    },
+    {
+      "word": "視点",
+      "reading": "してん",
+      "meaning": "point of view"
+    },
+    {
+      "word": "欠点",
+      "reading": "けってん",
+      "meaning": "fault"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "care"
+    },
+    {
+      "word": "終点",
+      "reading": "しゅうてん",
+      "meaning": "terminus"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の発言は要点がずれている。",
+      "reading": null,
+      "english": "Your remarks are besides the point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠回しの言い方はやめて、要点をお話しください。",
+      "reading": null,
+      "english": "Please stop beating around the bush and come straight to the point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠回しに言うのは止めて要点を言ってくれ。",
+      "reading": null,
+      "english": "Stop beating around the bush and get to the point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お話の要点は分かりました。",
+      "reading": null,
+      "english": "I see your point.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

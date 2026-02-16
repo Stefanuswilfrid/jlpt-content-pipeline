@@ -1,0 +1,164 @@
+{
+  "definition": {
+    "word": "足元",
+    "reading": "あしもと",
+    "romaji": "ashimoto",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "at one's feet",
+          "underfoot",
+          "one's step (as in \"watch your step\")"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gait",
+          "pace",
+          "step"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "most recent",
+          "current"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "元日",
+      "reading": "がんじつ",
+      "meaning": "New Year's Day"
+    },
+    {
+      "word": "足跡",
+      "reading": "あしあと",
+      "meaning": "footprints"
+    },
+    {
+      "word": "遠足",
+      "reading": "えんそく",
+      "meaning": "school trip"
+    },
+    {
+      "word": "元々",
+      "reading": "もともと",
+      "meaning": "originally"
+    },
+    {
+      "word": "発足",
+      "reading": "ほっそく",
+      "meaning": "starting"
+    },
+    {
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaning": "satisfaction"
+    },
+    {
+      "word": "元",
+      "reading": "もと",
+      "meaning": "origin"
+    },
+    {
+      "word": "元首",
+      "reading": "げんしゅ",
+      "meaning": "sovereign"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "lively"
+    },
+    {
+      "word": "還元",
+      "reading": "かんげん",
+      "meaning": "restoration"
+    },
+    {
+      "word": "元年",
+      "reading": "がんねん",
+      "meaning": "first year (of an imperial era)"
+    },
+    {
+      "word": "手元",
+      "reading": "てもと",
+      "meaning": "at hand"
+    },
+    {
+      "word": "裸足",
+      "reading": "はだし",
+      "meaning": "barefoot"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足元を見る",
+      "reading": "あしもとをみる",
+      "meaning": "to take advantage (e.g. of a weak situation)",
+      "type": "idiom"
+    },
+    {
+      "word": "足元から鳥が立つ",
+      "reading": "あしもとからとりがたつ",
+      "meaning": "for something unexpected to happen (to someone or something one is close to)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "階段をおりる時には足元に気をつけなさい。",
+      "reading": null,
+      "english": "Watch your step when going down the stairs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "飲み過ぎて、なんか足元がフラフラする。",
+      "reading": null,
+      "english": "I drank too much and the ground seemed to spin under my feet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "暗い道では足元に気をつけなさい。",
+      "reading": null,
+      "english": "Watch your step in dark alleys.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつも地下鉄を使っているなら足元より高くなることはない。",
+      "reading": null,
+      "english": "If you always travel by subway, you seldom surface other than at your stop.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "電車に乗るときは足元に気をつけなさい。",
+      "reading": null,
+      "english": "Watch your step when you get on the train.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

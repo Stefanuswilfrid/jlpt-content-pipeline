@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "向い",
+    "reading": "むかい",
+    "romaji": "mukai",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "facing",
+          "opposite",
+          "across the street",
+          "other side"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "direction"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaning": "tendency"
+    },
+    {
+      "word": "向く",
+      "reading": "むく",
+      "meaning": "to turn toward"
+    },
+    {
+      "word": "向ける",
+      "reading": "むける",
+      "meaning": "to turn (towards)"
+    },
+    {
+      "word": "向こう",
+      "reading": "むこう",
+      "meaning": "opposite side"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "学校はうちの向かいにあります。",
+      "reading": null,
+      "english": "The school is across from our house.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ロッドはジョンの向かいに住んでいる。",
+      "reading": null,
+      "english": "Rod lives across the street from John.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょっと向かいの花屋に行くところです。",
+      "reading": null,
+      "english": "I'm just going across to the flower shop.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょうど教会の向かいです。",
+      "reading": null,
+      "english": "It's just across the street from the church.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その店は通りの向かいにあります。",
+      "reading": null,
+      "english": "The store is across the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その青年は向かいの家から出てきた。",
+      "reading": null,
+      "english": "The young man came out of the house opposite.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

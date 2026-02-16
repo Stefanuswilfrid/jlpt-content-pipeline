@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "変化",
+    "reading": "へんか",
+    "romaji": "henka",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "change",
+          "variation",
+          "alteration",
+          "mutation",
+          "transition",
+          "transformation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "variety",
+          "diversity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "inflection",
+          "declension",
+          "conjugation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "henka",
+          "evasive sidestep at the beginning of a bout"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "change"
+    },
+    {
+      "word": "化学",
+      "reading": "かがく",
+      "meaning": "chemistry"
+    },
+    {
+      "word": "酸化",
+      "reading": "さんか",
+      "meaning": "oxidation"
+    },
+    {
+      "word": "化粧",
+      "reading": "けしょう",
+      "meaning": "make-up"
+    },
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaning": "increase"
+    },
+    {
+      "word": "強化",
+      "reading": "きょうか",
+      "meaning": "strengthening"
+    },
+    {
+      "word": "文化",
+      "reading": "ぶんか",
+      "meaning": "culture"
+    },
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "very"
+    },
+    {
+      "word": "変わる",
+      "reading": "かわる",
+      "meaning": "to change"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "妖怪変化",
+      "reading": "ようかいへんげ",
+      "meaning": "monstrous apparition",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "海流に変化が起きたのだろうか。",
+      "reading": null,
+      "english": "Has a change in ocean currents occurred?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

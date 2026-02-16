@@ -1,0 +1,143 @@
+{
+  "definition": {
+    "word": "種",
+    "reading": "しゅ",
+    "romaji": "shu",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kind",
+          "sort",
+          "type",
+          "class"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "species"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "species"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一種",
+      "reading": "いっしゅ",
+      "meaning": "a kind"
+    },
+    {
+      "word": "種類",
+      "reading": "しゅるい",
+      "meaning": "variety"
+    },
+    {
+      "word": "人種",
+      "reading": "じんしゅ",
+      "meaning": "race (of people)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "多種多様",
+      "reading": "たしゅたよう",
+      "meaning": "a great variety of",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三種の神器",
+      "reading": "さんしゅのじんぎ",
+      "meaning": "the Three Sacred Treasures (Mirror, Sword and Jewels)",
+      "type": "idiom"
+    },
+    {
+      "word": "同文同種",
+      "reading": "どうぶんどうしゅ",
+      "meaning": "same race and same script",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "種々雑多",
+      "reading": "しゅじゅざった",
+      "meaning": "all sorts of",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "各種各様",
+      "reading": "かくしゅかくよう",
+      "meaning": "individual (different) ways of doing things",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "種をまく",
+      "reading": "たねをまく",
+      "meaning": "to sow seeds",
+      "type": "idiom"
+    },
+    {
+      "word": "苦は楽の種",
+      "reading": "くはらくのたね",
+      "meaning": "one cannot have pleasure without pain",
+      "type": "proverb"
+    },
+    {
+      "word": "頭痛の種",
+      "reading": "ずつうのたね",
+      "meaning": "cause for headaches",
+      "type": "idiom"
+    },
+    {
+      "word": "飯の種",
+      "reading": "めしのたね",
+      "meaning": "means of making a living",
+      "type": "idiom"
+    },
+    {
+      "word": "蒔かぬ種は生えぬ",
+      "reading": "まかぬたねははえぬ",
+      "meaning": "if you don't put in the effort, don't expect results",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はこの種の音楽が好きになるだろう。",
+      "reading": null,
+      "english": "You will come to like this kind of music.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "苦は楽の種。",
+      "reading": null,
+      "english": "No pain, no gain.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "苦は楽の種。",
+      "reading": null,
+      "english": "No pain, no gains.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

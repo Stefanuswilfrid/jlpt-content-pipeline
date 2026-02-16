@@ -1,0 +1,202 @@
+{
+  "definition": {
+    "word": "行き",
+    "reading": "いき",
+    "romaji": "iki",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pergi"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "bound for ..."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "outbound ticket"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "praktik adat, kebiasaan, acara tradisional"
+    },
+    {
+      "word": "進行",
+      "reading": "しんこう",
+      "meaning": "maju"
+    },
+    {
+      "word": "刊行",
+      "reading": "かんこう",
+      "meaning": "publikasi, terbitan"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "jalan, melewati"
+    },
+    {
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "kenakalan, pelanggaran"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "tindakan, perilaku, tingkah laku"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "terbitan (publikasi)"
+    },
+    {
+      "word": "実行",
+      "reading": "じっこう",
+      "meaning": "praktik, pelaksanaan (misalnya, program), realisasi"
+    },
+    {
+      "word": "飛行",
+      "reading": "ひこう",
+      "meaning": "penerbangan, terbang"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "mendahului, berjalan lebih dulu"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "modis, tren, lazim"
+    },
+    {
+      "word": "行儀",
+      "reading": "ぎょうぎ",
+      "meaning": "tata krama"
+    },
+    {
+      "word": "決行",
+      "reading": "けっこう",
+      "meaning": "melakukan (dengan tekad), melaksanakan (misalnya, sebuah rencana)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "雲行きが怪しい",
+      "reading": "くもゆきがあやしい",
+      "meaning": "the clouds look menacing",
+      "type": "idiom"
+    },
+    {
+      "word": "行き掛けの駄賃",
+      "reading": "いきがけのだちん",
+      "meaning": "taking the opportunity to do something",
+      "type": "idiom"
+    },
+    {
+      "word": "行き大名の帰り乞食",
+      "reading": "ゆきだいみょうのかえりこじき",
+      "meaning": "spending lavishly on the outward journey and having nothing left for the return",
+      "type": "idiom"
+    },
+    {
+      "word": "行きはよいよい帰りは怖い",
+      "reading": "いきはよいよいかえりはこわい",
+      "meaning": "going there is easy but coming back is scary",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "「どうして行かないの？」「行きたくないからだよ」",
+      "reading": null,
+      "indonesian": "\"Why aren't you going?\" \"Because I don't want to.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "「なぜ行かないの」「行きたくないからさ」",
+      "reading": null,
+      "indonesian": "\"Why aren't you going?\" \"Because I don't want to.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校へ行きたくない。",
+      "reading": null,
+      "indonesian": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校行きたくない。",
+      "reading": null,
+      "indonesian": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "昨年ロンドンへ行きました。",
+      "reading": null,
+      "indonesian": "We went to London last year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "行き止まりだ。",
+      "reading": null,
+      "indonesian": "It's a dead end.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "「どうして行かないの？」「行きたくないからだよ」",
+      "reading": null,
+      "indonesian": "\"Why aren't you going?\" \"Because I don't want to.\"",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校へ行きたくない。",
+      "reading": null,
+      "indonesian": "I don't want to go to school.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "学校へ行きたくない。",
+      "reading": null,
+      "indonesian": "I don't want to go to school!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

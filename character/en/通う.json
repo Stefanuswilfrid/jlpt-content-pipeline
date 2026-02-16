@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "通う",
+    "reading": "かよう",
+    "romaji": "kayou",
+    "jlpt": "N4",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go to and from (a place)",
+          "to go back and forth between",
+          "to run between (e.g. bus, train, etc.)",
+          "to ply between"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go to (school, work, etc.)",
+          "to attend",
+          "to commute",
+          "to frequent"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to circulate (e.g. blood, electricity)",
+          "to be communicated (e.g. thought)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to resemble"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通る",
+      "reading": "とおる",
+      "meaning": "to go by"
+    },
+    {
+      "word": "通り過ぎる",
+      "reading": "とおりすぎる",
+      "meaning": "to go past"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "commuting to work"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "passage (of people or vehicles)"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "commuting to school"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心が通う",
+      "reading": "こころがかよう",
+      "meaning": "to understand each other well",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "小学生は６年間学校に通う。",
+      "reading": null,
+      "english": "Elementary school children go to school for a term of six years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "小学生は６年間学校に通う。",
+      "reading": null,
+      "english": "Elementary school children go to school for a term of six years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

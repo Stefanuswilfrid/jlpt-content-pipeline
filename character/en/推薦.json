@@ -1,0 +1,38 @@
+{
+  "definition": {
+    "word": "推薦",
+    "reading": "すいせん",
+    "romaji": "suisen",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "recommendation",
+          "referral",
+          "endorsement"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "推定",
+      "reading": "すいてい",
+      "meaning": "presumption"
+    },
+    {
+      "word": "勧める",
+      "reading": "すすめる",
+      "meaning": "to recommend (someone to do)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

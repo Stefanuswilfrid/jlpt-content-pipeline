@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "筋",
+    "reading": "すじ",
+    "romaji": "suji",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "otot",
+          "tali",
+          "garis"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "vein",
+          "artery"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fiber",
+          "fibre",
+          "string"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "line",
+          "stripe",
+          "streak"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "reason",
+          "logic"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "plot",
+          "storyline"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lineage",
+          "descent"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "school (e.g. of scholarship or arts)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "筋肉",
+      "reading": "きんにく",
+      "meaning": "otot, urat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "背筋が凍る",
+      "reading": "せすじがこおる",
+      "meaning": "to have a chill run down one's spine",
+      "type": "idiom"
+    },
+    {
+      "word": "背筋が寒くなる",
+      "reading": "せすじがさむくなる",
+      "meaning": "to feel a chill run down one's spine",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

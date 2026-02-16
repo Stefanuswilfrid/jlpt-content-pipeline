@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "配達",
+    "reading": "はいたつ",
+    "romaji": "haitatsu",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pengiriman",
+          "distribusi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発達",
+      "reading": "はったつ",
+      "meaning": "pembangunan, pertumbuhan"
+    },
+    {
+      "word": "支配",
+      "reading": "しはい",
+      "meaning": "aturan, kendali, arahan"
+    },
+    {
+      "word": "上達",
+      "reading": "じょうたつ",
+      "meaning": "peningkatan, kemajuan"
+    },
+    {
+      "word": "気配",
+      "reading": "けはい",
+      "meaning": "indikasi, tanda, petunjuk"
+    },
+    {
+      "word": "配る",
+      "reading": "くばる",
+      "meaning": "untuk mendistribusikan, untuk mengirimkan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "わずかな追加料金で配達サービスが利用できます。",
+      "reading": null,
+      "indonesian": "You can use the delivery service for a small additional charge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どれくらいで配達してもらえますか。",
+      "reading": null,
+      "indonesian": "How soon can they be delivered?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その包みは昨日配達された。",
+      "reading": null,
+      "indonesian": "The package was delivered yesterday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このスーパーマーケットは土曜日だけ配達する。",
+      "reading": null,
+      "indonesian": "This supermarket delivers only on Saturday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここでお買い上げの品は無料で配達します。",
+      "reading": null,
+      "indonesian": "Articles bought here will be delivered free of charge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはこのプレゼントを配達してもらいたいのですか。",
+      "reading": null,
+      "indonesian": "Do you want this present delivered?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

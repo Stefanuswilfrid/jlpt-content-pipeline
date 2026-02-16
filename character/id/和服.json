@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "和服",
+    "reading": "わふく",
+    "romaji": "wafuku",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Pakaian Jepang"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "英和",
+      "reading": "えいわ",
+      "meaning": "Bahasa Inggris-Jepang (misalnya, kamus)"
+    },
+    {
+      "word": "漢和",
+      "reading": "かんわ",
+      "meaning": "Aksara Cina-Jepang (misalnya, kamus)"
+    },
+    {
+      "word": "和英",
+      "reading": "わえい",
+      "meaning": "Bahasa Jepang-Inggris"
+    },
+    {
+      "word": "衣服",
+      "reading": "いふく",
+      "meaning": "pakaian"
+    },
+    {
+      "word": "軍服",
+      "reading": "ぐんぷく",
+      "meaning": "seragam militer atau angkatan laut"
+    },
+    {
+      "word": "飽和",
+      "reading": "ほうわ",
+      "meaning": "kejenuhan"
+    },
+    {
+      "word": "平和",
+      "reading": "へいわ",
+      "meaning": "perdamaian"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたは和服の方がよく似合います。",
+      "reading": null,
+      "indonesian": "You look good in a kimono.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "和服姿の男性は東京ではもうあまり見かけない。",
+      "reading": null,
+      "indonesian": "Men in kimonos are no longer a common sight in Tokyo.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "洋服は和服より働きやすい。",
+      "reading": null,
+      "indonesian": "Western clothes are easier to work in than Japanese clothes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは和服の方がよく似合います。",
+      "reading": null,
+      "indonesian": "You look good in a kimono.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "洋服は和服より働きやすい。",
+      "reading": null,
+      "indonesian": "Western clothes are easier to work in than Japanese clothes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "和服姿の男性は東京ではもうあまり見かけない。",
+      "reading": null,
+      "indonesian": "Men in kimonos are no longer a common sight in Tokyo.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

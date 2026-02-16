@@ -1,0 +1,234 @@
+{
+  "definition": {
+    "word": "中間",
+    "reading": "ちゅうかん",
+    "romaji": "chuukan",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "middle",
+          "midway",
+          "halfway",
+          "centre",
+          "center"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "middle position",
+          "moderate position",
+          "neutral position",
+          "middle-of-the-road position"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "interim",
+          "intermediary",
+          "intermediate",
+          "midterm"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "民間",
+      "reading": "みんかん",
+      "meaning": "private"
+    },
+    {
+      "word": "中旬",
+      "reading": "ちゅうじゅん",
+      "meaning": "middle ten days of a month"
+    },
+    {
+      "word": "夜間",
+      "reading": "やかん",
+      "meaning": "night"
+    },
+    {
+      "word": "空中",
+      "reading": "くうちゅう",
+      "meaning": "(in) the air"
+    },
+    {
+      "word": "中年",
+      "reading": "ちゅうねん",
+      "meaning": "middle-age"
+    },
+    {
+      "word": "中世",
+      "reading": "ちゅうせい",
+      "meaning": "Middle Ages (in Japan esp. the Kamakura and Muromachi periods)"
+    },
+    {
+      "word": "客間",
+      "reading": "きゃくま",
+      "meaning": "drawing room"
+    },
+    {
+      "word": "貸間",
+      "reading": "かしま",
+      "meaning": "room to let"
+    },
+    {
+      "word": "中途",
+      "reading": "ちゅうと",
+      "meaning": "halfway"
+    },
+    {
+      "word": "間接",
+      "reading": "かんせつ",
+      "meaning": "indirection"
+    },
+    {
+      "word": "床の間",
+      "reading": "とこのま",
+      "meaning": "tokonoma"
+    },
+    {
+      "word": "中性",
+      "reading": "ちゅうせい",
+      "meaning": "neutrality (incl. chemical, electrical, etc.)"
+    },
+    {
+      "word": "時間割",
+      "reading": "じかんわり",
+      "meaning": "timetable (esp. a weekly school timetable)"
+    },
+    {
+      "word": "中指",
+      "reading": "なかゆび",
+      "meaning": "middle finger"
+    },
+    {
+      "word": "隙間",
+      "reading": "すきま",
+      "meaning": "gap"
+    },
+    {
+      "word": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "centre"
+    },
+    {
+      "word": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "center"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "period"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の家と私の家の中間で落ち合うことにしよう。",
+      "reading": null,
+      "english": "Let's meet halfway between your house and mine.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "駅はその二つの町の中間にある。",
+      "reading": null,
+      "english": "The station is situated between the two towns.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの学生は今度の中間試験で好成績をあげそうだ。",
+      "reading": null,
+      "english": "The student is likely to do well on this coming mid-term exam.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "早川くん、中間テストの結果でてたわよ。またトップ！",
+      "reading": null,
+      "english": "Hayakawa, the midterm results are out. You're top again!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "体育祭も終わったし、次は中間テストかあ。",
+      "reading": null,
+      "english": "Well sports day is over too, next the midterms ...",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "中間試験がもうすぐ始まる。",
+      "reading": null,
+      "english": "The mid-term exams are just around the corner.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "走者は中間標識のところに達していた。",
+      "reading": null,
+      "english": "The runner had reached the halfway mark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "今週は中間試験が３つ。",
+      "reading": null,
+      "english": "This week I had three midterms.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の家と私の家の中間で落ち合うことにしよう。",
+      "reading": null,
+      "english": "Let's meet halfway between your house and mine.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "駅はその二つの町の中間にある。",
+      "reading": null,
+      "english": "The station is situated between the two towns.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの学生は今度の中間試験で好成績をあげそうだ。",
+      "reading": null,
+      "english": "The student is likely to do well on this coming mid-term exam.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

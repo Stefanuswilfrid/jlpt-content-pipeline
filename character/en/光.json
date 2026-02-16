@@ -1,0 +1,147 @@
+{
+  "definition": {
+    "word": "光",
+    "reading": "ひかり",
+    "romaji": "hikari",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "light"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "illumination",
+          "ray",
+          "beam",
+          "gleam",
+          "glow"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "happiness",
+          "hope"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "influence",
+          "power"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "vision",
+          "eyesight"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観光",
+      "reading": "かんこう",
+      "meaning": "sightseeing"
+    },
+    {
+      "word": "光景",
+      "reading": "こうけい",
+      "meaning": "scene"
+    },
+    {
+      "word": "日光",
+      "reading": "にっこう",
+      "meaning": "sunlight"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "親の七光り",
+      "reading": "おやのななひかり",
+      "meaning": "benefiting from the fame or influence of a parent",
+      "type": "idiom"
+    },
+    {
+      "word": "電光石火",
+      "reading": "でんこうせっか",
+      "meaning": "flash",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "寂光浄土",
+      "reading": "じゃっこうじょうど",
+      "meaning": "paradise",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "風光明媚",
+      "reading": "ふうこうめいび",
+      "meaning": "scenic",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "光彩陸離",
+      "reading": "こうさいりくり",
+      "meaning": "dazzling",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "眼光紙背",
+      "reading": "がんこうしはい",
+      "meaning": "reading between the lines",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "眼光炯々",
+      "reading": "がんこうけいけい",
+      "meaning": "with shining, piercing eyes",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "和光同塵",
+      "reading": "わこうどうじん",
+      "meaning": "mingling with the world by hiding one's true talent or knowledge",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "電光朝露",
+      "reading": "でんこうちょうろ",
+      "meaning": "fleeting",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "光風霽月",
+      "reading": "こうふうせいげつ",
+      "meaning": "serenity",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "光るものすべてが金ではない。",
+      "reading": null,
+      "english": "All that glitters is not gold.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "折る",
+    "reading": "おる",
+    "romaji": "oru",
+    "jlpt": "N4",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "patah",
+          "retak; bengkok"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fold",
+          "to bend"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make (origami)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to interrupt",
+          "to end"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "骨折",
+      "reading": "こっせつ",
+      "meaning": "patah tulang"
+    },
+    {
+      "word": "折れる",
+      "reading": "おれる",
+      "meaning": "pecah, terlipat, menyerah; berbelok (di tikungan)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "話の腰を折る",
+      "reading": "はなしのこしをおる",
+      "meaning": "to interfere",
+      "type": "idiom"
+    },
+    {
+      "word": "骨を折る",
+      "reading": "ほねをおる",
+      "meaning": "to make efforts",
+      "type": "idiom"
+    },
+    {
+      "word": "無駄骨を折る",
+      "reading": "むだぼねをおる",
+      "meaning": "to waste one's efforts",
+      "type": "idiom"
+    },
+    {
+      "word": "角を折る",
+      "reading": "つのをおる",
+      "meaning": "to give in (after initially resisting)",
+      "type": "idiom"
+    },
+    {
+      "word": "七重の膝を八重に折る",
+      "reading": "ななえのひざをやえにおる",
+      "meaning": "to humbly implore",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,151 @@
+{
+  "definition": {
+    "word": "便り",
+    "reading": "たより",
+    "romaji": "tayori",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "news",
+          "tidings",
+          "information",
+          "correspondence",
+          "letter"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "便",
+      "reading": "びん",
+      "meaning": "flight (e.g. airline flight)"
+    },
+    {
+      "word": "郵便",
+      "reading": "ゆうびん",
+      "meaning": "mail service"
+    },
+    {
+      "word": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "post office"
+    },
+    {
+      "word": "不便",
+      "reading": "ふべん",
+      "meaning": "inconvenience"
+    },
+    {
+      "word": "便所",
+      "reading": "べんじょ",
+      "meaning": "toilet"
+    },
+    {
+      "word": "船便",
+      "reading": "ふなびん",
+      "meaning": "surface mail (by ship)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "風の便り",
+      "reading": "かぜのたより",
+      "meaning": "hearsay",
+      "type": "idiom"
+    },
+    {
+      "word": "便りのないのはよい便り",
+      "reading": "たよりのないのはよいたより",
+      "meaning": "no news is good news",
+      "type": "proverb"
+    },
+    {
+      "word": "便りがないのはよい便り",
+      "reading": "たよりがないのはよいたより",
+      "meaning": "no news is good news",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "無事に便りなし。",
+      "reading": null,
+      "english": "No news is good news.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "便りがないのは良い知らせ。",
+      "reading": null,
+      "english": "No news is good news.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お便りを心待ちにしています。",
+      "reading": null,
+      "english": "I'm looking forward to hearing from you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お便りお待ちしております。",
+      "reading": null,
+      "english": "I'm looking forward to hearing from you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君からの便りがあった。",
+      "reading": null,
+      "english": "I heard it from you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "近い内にお便りいただけることを楽しみにしています。",
+      "reading": null,
+      "english": "I'm looking forward to hearing from you soon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "近いうちにお便りいただけるのをたのしみにしています。",
+      "reading": null,
+      "english": "I am looking forward to hearing from you soon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "じきにあなたから便りがあるのを楽しみにしています。",
+      "reading": null,
+      "english": "I am looking forward to hearing from you soon.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "外国にいる息子から便りがない。",
+      "reading": null,
+      "english": "I haven't heard from my son who is overseas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

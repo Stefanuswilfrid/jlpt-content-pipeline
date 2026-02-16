@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "連絡",
+    "reading": "れんらく",
+    "romaji": "renraku",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "komunikasi",
+          "kontak",
+          "koneksi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "connection (with a train, bus, etc.)",
+          "joining (a railway line, etc.)",
+          "meeting"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "connection (between matters, incidents, etc.)",
+          "relation",
+          "link"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "連れる",
+      "reading": "つれる",
+      "meaning": "memimpin, membawa (seseorang)"
+    },
+    {
+      "word": "関連",
+      "reading": "かんれん",
+      "meaning": "hubungan, koneksi, relevansi"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "berturut-turut, keberlanjutan, terus-menerus"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

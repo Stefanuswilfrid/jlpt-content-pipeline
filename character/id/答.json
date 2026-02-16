@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "答え",
+    "reading": "こたえ",
+    "romaji": "kotae",
+    "jlpt": "N4",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "jawaban",
+          "tanggapan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "answer",
+          "solution",
+          "result"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "答案",
+      "reading": "とうあん",
+      "meaning": "lembar ujian, naskah ujian"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何て答えたの？",
+      "reading": null,
+      "indonesian": "What did you answer?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "どう答えたの？",
+      "reading": null,
+      "indonesian": "What did you answer?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "何て答えたの？",
+      "reading": null,
+      "indonesian": "What did you answer?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "何て答えたの？",
+      "reading": null,
+      "indonesian": "How did you reply?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

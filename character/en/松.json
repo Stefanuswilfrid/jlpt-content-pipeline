@@ -1,0 +1,78 @@
+{
+  "definition": {
+    "word": "松",
+    "reading": "まつ",
+    "romaji": "matsu",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pine tree (Pinus spp.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "highest (of a three-tier ranking system)"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "白砂青松",
+      "reading": "はくしゃせいしょう",
+      "meaning": "white sands and green pines",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "男は松女は藤",
+      "reading": "おとこはまつおんなはふじ",
+      "meaning": "men are the strong base to which women cling",
+      "type": "proverb"
+    },
+    {
+      "word": "志は松の葉に包め",
+      "reading": "こころざしはまつのはにつつめ",
+      "meaning": "for gifts, it's the thought that counts",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "このバスは、松山市駅行きですね。",
+      "reading": null,
+      "english": "This bus goes to the Matsuyama station, right?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ケンは松葉づえをついて歩いた。",
+      "reading": null,
+      "english": "Ken walked on crutches.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "松野の家名をけがすことがないようにお願いしますよ。",
+      "reading": null,
+      "english": "Please don't do anything that would besmirch the Matsuno family name!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "寸法",
+    "reading": "すんぽう",
+    "romaji": "sunpou",
+    "jlpt": "N2",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pengukuran",
+          "ukuran",
+          "dimensi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "plan",
+          "intention",
+          "arrangement",
+          "schedule"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "法則",
+      "reading": "ほうそく",
+      "meaning": "hukum, aturan"
+    },
+    {
+      "word": "作法",
+      "reading": "さほう",
+      "meaning": "tata krama, etiket, kesopanan"
+    },
+    {
+      "word": "製法",
+      "reading": "せいほう",
+      "meaning": "metode pembuatan, resep, formula"
+    },
+    {
+      "word": "文法",
+      "reading": "ぶんぽう",
+      "meaning": "tata bahasa"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "スーツをつくる時は正確に寸法を測る必要があります。",
+      "reading": null,
+      "indonesian": "It's necessary to take correct measurements when you are tailoring a suit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの寸法を計るのを許して下さい。",
+      "reading": null,
+      "indonesian": "Please allow me to measure you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スーツをつくる時は正確に寸法を測る必要があります。",
+      "reading": null,
+      "indonesian": "It's necessary to take correct measurements when you are tailoring a suit.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの寸法を計るのを許して下さい。",
+      "reading": null,
+      "indonesian": "Please allow me to measure you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

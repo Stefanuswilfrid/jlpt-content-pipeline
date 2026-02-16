@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "風景",
+    "reading": "ふうけい",
+    "romaji": "fuukei",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "scenery",
+          "scene",
+          "landscape",
+          "view",
+          "sight"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "scene (e.g. of a crime)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "景気",
+      "reading": "けいき",
+      "meaning": "business conditions"
+    },
+    {
+      "word": "光景",
+      "reading": "こうけい",
+      "meaning": "scene"
+    },
+    {
+      "word": "影",
+      "reading": "かげ",
+      "meaning": "shadow"
+    },
+    {
+      "word": "台風",
+      "reading": "たいふう",
+      "meaning": "typhoon"
+    },
+    {
+      "word": "風邪",
+      "reading": "かぜ",
+      "meaning": "(common) cold"
+    },
+    {
+      "word": "振り",
+      "reading": "ふり",
+      "meaning": "swing"
+    },
+    {
+      "word": "風",
+      "reading": "かぜ",
+      "meaning": "wind"
+    },
+    {
+      "word": "風",
+      "reading": "ふう",
+      "meaning": "method"
+    },
+    {
+      "word": "風呂敷",
+      "reading": "ふろしき",
+      "meaning": "furoshiki"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心象風景",
+      "reading": "しんしょうふうけい",
+      "meaning": "imagined landscape",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "とても美しい風景がいくつかありました。",
+      "reading": null,
+      "english": "I saw some very beautiful scenes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その風景は言い表せないほど美しい。",
+      "reading": null,
+      "english": "The view is beautiful beyond words.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その建物は周りの風景と調和しない。",
+      "reading": null,
+      "english": "The building doesn't blend in with its surroundings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そこは風景が美しいことで有名だ。",
+      "reading": null,
+      "english": "This place is famous for its scenic beauty.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "セザンヌは風景画で有名だ。",
+      "reading": null,
+      "english": "Cezanne is famous for his landscapes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スイスの美しい風景を楽しんでいるだろうね。",
+      "reading": null,
+      "english": "We will be enjoying the beautiful scenery of Switzerland.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この辺りの風景はとても美しい。",
+      "reading": null,
+      "english": "The scenery about here is very beautiful.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

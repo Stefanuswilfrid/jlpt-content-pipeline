@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "布",
+    "reading": "ぬの",
+    "romaji": "nuno",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kain"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bujian (spade-shaped bronze coin of ancient China)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "毛布",
+      "reading": "もうふ",
+      "meaning": "selimut"
+    },
+    {
+      "word": "財布",
+      "reading": "さいふ",
+      "meaning": "dompet"
+    },
+    {
+      "word": "布団",
+      "reading": "ふとん",
+      "meaning": "kasur lipat"
+    },
+    {
+      "word": "雑巾",
+      "reading": "ぞうきん",
+      "meaning": "kain lap rumah, kain lap debu"
+    },
+    {
+      "word": "分布",
+      "reading": "ぶんぷ",
+      "meaning": "distribusi"
+    },
+    {
+      "word": "座布団",
+      "reading": "ざぶとん",
+      "meaning": "bantal (Jepang)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "宣戦布告",
+      "reading": "せんせんふこく",
+      "meaning": "declaration of war",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "墓に布団は着せられぬ",
+      "reading": "はかにふとんはきせられぬ",
+      "meaning": "it is too late to show filial piety once your parents are dead",
+      "type": "proverb"
+    },
+    {
+      "word": "人に善言を与うるは布帛よりも煖かなり",
+      "reading": "ひとにぜんげんをあたうるはふはくよりもあたたかなり",
+      "meaning": "words provide more warmth than cloth",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

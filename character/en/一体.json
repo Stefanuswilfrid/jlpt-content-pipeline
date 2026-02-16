@@ -1,0 +1,222 @@
+{
+  "definition": {
+    "word": "一体",
+    "reading": "いったい",
+    "romaji": "ittai",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(what) the heck",
+          "(why) in the world",
+          "(who) on earth"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one object",
+          "one body",
+          "unity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one form",
+          "one style"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one Buddhist image (or carving, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "generally",
+          "in general"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一般",
+      "reading": "いっぱん",
+      "meaning": "general"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "one (esp. of two)"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "全体",
+      "reading": "ぜんたい",
+      "meaning": "whole"
+    },
+    {
+      "word": "団体",
+      "reading": "だんたい",
+      "meaning": "group"
+    },
+    {
+      "word": "唯一",
+      "reading": "ゆいいつ",
+      "meaning": "only"
+    },
+    {
+      "word": "具体",
+      "reading": "ぐたい",
+      "meaning": "concreteness"
+    },
+    {
+      "word": "体育",
+      "reading": "たいいく",
+      "meaning": "physical education"
+    },
+    {
+      "word": "一致",
+      "reading": "いっち",
+      "meaning": "agreement"
+    },
+    {
+      "word": "一家",
+      "reading": "いっか",
+      "meaning": "a family"
+    },
+    {
+      "word": "一種",
+      "reading": "いっしゅ",
+      "meaning": "a kind"
+    },
+    {
+      "word": "体重",
+      "reading": "たいじゅう",
+      "meaning": "(body) weight"
+    },
+    {
+      "word": "一瞬",
+      "reading": "いっしゅん",
+      "meaning": "instant"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "whole life"
+    },
+    {
+      "word": "一言",
+      "reading": "ひとこと",
+      "meaning": "single word"
+    },
+    {
+      "word": "一帯",
+      "reading": "いったい",
+      "meaning": "whole area"
+    },
+    {
+      "word": "形態",
+      "reading": "けいたい",
+      "meaning": "form"
+    },
+    {
+      "word": "一度に",
+      "reading": "いちどに",
+      "meaning": "all at once"
+    },
+    {
+      "word": "身体",
+      "reading": "しんたい",
+      "meaning": "body"
+    },
+    {
+      "word": "重体",
+      "reading": "じゅうたい",
+      "meaning": "serious condition"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "三位一体",
+      "reading": "さんみいったい",
+      "meaning": "the Trinity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "表裏一体",
+      "reading": "ひょうりいったい",
+      "meaning": "the two views (of an object) referring to the same thing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "渾然一体",
+      "reading": "こんぜんいったい",
+      "meaning": "in complete harmony",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は一体何を言おうとしているのか。",
+      "reading": null,
+      "english": "What are you driving at?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は一体それを読んだのか。",
+      "reading": null,
+      "english": "Did you read it at all?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一体全体問題は何か。",
+      "reading": null,
+      "english": "What on earth is the problem?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一体全体君は何をしているんだ。",
+      "reading": null,
+      "english": "What on earth are you doing here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一体全体ここで何をしているんだ？",
+      "reading": null,
+      "english": "What on earth are you doing here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

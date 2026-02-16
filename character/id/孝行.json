@@ -1,0 +1,153 @@
+{
+  "definition": {
+    "word": "孝行",
+    "reading": "こうこう",
+    "romaji": "koukou",
+    "jlpt": "N2",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "bakti kepada orang tua"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "showing devotion (to someone)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "行列",
+      "reading": "ぎょうれつ",
+      "meaning": "barisan, prosesi; matriks (matematika)"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "keberadaan seseorang"
+    },
+    {
+      "word": "行事",
+      "reading": "ぎょうじ",
+      "meaning": "acara, fungsi"
+    },
+    {
+      "word": "並行",
+      "reading": "へいこう",
+      "meaning": "(berjalan) berdampingan, bersamaan, pada waktu yang sama"
+    },
+    {
+      "word": "夜行",
+      "reading": "やこう",
+      "meaning": "kereta malam, perjalanan malam"
+    },
+    {
+      "word": "刊行",
+      "reading": "かんこう",
+      "meaning": "publikasi, terbitan"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "jalan, melewati"
+    },
+    {
+      "word": "修行",
+      "reading": "しゅぎょう",
+      "meaning": "mengejar pengetahuan, pelatihan, praktik asketisme"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "孝行のしたい時分に親はなし",
+      "reading": "こうこうのしたいじぶんにおやはなし",
+      "meaning": "when you are ready to be a filial child, your parents are already gone",
+      "type": "proverb"
+    },
+    {
+      "word": "子供は３歳までに一生分の親孝行をする",
+      "reading": "こどもはさんさいまでにいっしょうぶんのおやこうこうをする",
+      "meaning": "children pay back their debt to their parents in full by age 3 (through their cuteness)",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "親孝行な息子さんがいるから、老後の心配しなくていいわね。",
+      "reading": null,
+      "indonesian": "It must be nice having such a loyal son. You don't have to wonder if you'll be taken care of in your old age.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "親孝行したいときには親はなし。",
+      "reading": null,
+      "indonesian": "By the time you wish to be a good son, your parents are long gone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "孝行したいときに親はなし。",
+      "reading": null,
+      "indonesian": "When one would be filial, one's parents are gone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "孝行したいときに親はなし。",
+      "reading": null,
+      "indonesian": "When one would be filial, one's parents are gone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "親孝行したいときには親はなし。",
+      "reading": null,
+      "indonesian": "By the time you wish to be a good son, your parents are long gone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "親孝行な息子さんがいるから、老後の心配しなくていいわね。",
+      "reading": null,
+      "indonesian": "It must be nice having such a loyal son. You don't have to wonder if you'll be taken care of in your old age.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "敬老の日には祖父母を訪ねて孝行します。",
+      "reading": null,
+      "indonesian": "On the Respect-for-Senior-Citizens Day, we visit our grandparents and do nice things for them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "敬老の日には祖父母を訪ねて孝行します。",
+      "reading": null,
+      "indonesian": "On the Respect-for-Senior-Citizens Day, we visit our grandparents and do nice things for them.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "押さえる",
+    "reading": "おさえる",
+    "romaji": "osaeru",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menghentikan",
+          "untuk menahan",
+          "untuk menekan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cover (esp. a part of one's body with one's hand)",
+          "to clutch (a body part in pain)",
+          "to press (a body part)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to get a hold of",
+          "to obtain",
+          "to seize",
+          "to catch",
+          "to arrest"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to grasp (a point)",
+          "to comprehend"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to quell",
+          "to subdue",
+          "to suppress",
+          "to repress",
+          "to hold back",
+          "to check",
+          "to curb",
+          "to contain"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "押す",
+      "reading": "おす",
+      "meaning": "mendorong, menekan, membubuhkan cap (misalnya, paspor)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "目頭を押さえる",
+      "reading": "めがしらをおさえる",
+      "meaning": "to stop oneself from crying",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

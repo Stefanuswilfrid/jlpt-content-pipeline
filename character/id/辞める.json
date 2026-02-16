@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "辞める",
+    "reading": "やめる",
+    "romaji": "yameru",
+    "jlpt": "N3",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "pensiun"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "お辞儀",
+      "reading": "おじぎ",
+      "meaning": "busur"
+    },
+    {
+      "word": "辞退",
+      "reading": "じたい",
+      "meaning": "penolakan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうしてこの仕事を辞めることができよう。",
+      "reading": null,
+      "indonesian": "How can I quit this job?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いそがしいからクラブを辞めるのではない。",
+      "reading": null,
+      "indonesian": "I'm not going to quit the club because I am busy.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたが仕事を辞める必要はありません。",
+      "reading": null,
+      "indonesian": "It is not necessary for you to quit the job.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "育てる",
+    "reading": "そだてる",
+    "romaji": "sodateru",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to raise",
+          "to rear",
+          "to bring up"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to train",
+          "to teach",
+          "to educate"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to promote the growth of",
+          "to nurture",
+          "to foster",
+          "to develop"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教育",
+      "reading": "きょういく",
+      "meaning": "education"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

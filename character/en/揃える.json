@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "揃える",
+    "reading": "そろえる",
+    "romaji": "soroeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to collect",
+          "to gather",
+          "to get together",
+          "to complete (a collection)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to arrange",
+          "to put in order",
+          "to prepare",
+          "to get ready"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make uniform",
+          "to make even",
+          "to match"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "揃う",
+      "reading": "そろう",
+      "meaning": "to be complete"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "顔を揃える",
+      "reading": "かおをそろえる",
+      "meaning": "to all be in attendance (at a meeting, etc.)",
+      "type": "idiom"
+    },
+    {
+      "word": "耳を揃える",
+      "reading": "みみをそろえる",
+      "meaning": "to get together all the money necessary (to pay off a debt)",
+      "type": "idiom"
+    },
+    {
+      "word": "足並みを揃える",
+      "reading": "あしなみをそろえる",
+      "meaning": "to keep step (with)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

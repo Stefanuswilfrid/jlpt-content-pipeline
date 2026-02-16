@@ -1,0 +1,74 @@
+{
+  "definition": {
+    "word": "可也",
+    "reading": "かなり",
+    "romaji": "kanari",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "considerably",
+          "fairly",
+          "quite",
+          "rather",
+          "pretty"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "可能",
+      "reading": "かのう",
+      "meaning": "possible"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "wrong"
+    },
+    {
+      "word": "可",
+      "reading": "か",
+      "meaning": "acceptable"
+    },
+    {
+      "word": "可愛らしい",
+      "reading": "かわいらしい",
+      "meaning": "lovely"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたに声をかけるの、かなり勇気が要ったんですよ。",
+      "reading": null,
+      "english": "I was almost afraid to talk to you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校の新聞でかなり仕事をしています。",
+      "reading": null,
+      "english": "I do a lot of work on the school newspaper.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "荷物を全部選り分けるのにかなり時間がかかった。",
+      "reading": null,
+      "english": "It took quite a while to sort out all our luggage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

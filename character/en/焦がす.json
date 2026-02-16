@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "焦がす",
+    "reading": "こがす",
+    "romaji": "kogasu",
+    "jlpt": "N2",
+    "frequency": 22750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to burn",
+          "to scorch",
+          "to singe",
+          "to char"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "焦点",
+      "reading": "しょうてん",
+      "meaning": "focus"
+    },
+    {
+      "word": "焦げる",
+      "reading": "こげる",
+      "meaning": "to burn"
+    },
+    {
+      "word": "焦る",
+      "reading": "あせる",
+      "meaning": "to be in a hurry"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "鳴く蝉よりも鳴かぬ蛍が身を焦がす",
+      "reading": "なくせみよりもなかぬほたるがみをこがす",
+      "meaning": "empty vessels make the most noise",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,191 @@
+{
+  "definition": {
+    "word": "分類",
+    "reading": "ぶんるい",
+    "romaji": "bunrui",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "klasifikasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "身分",
+      "reading": "みぶん",
+      "meaning": "posisi, status"
+    },
+    {
+      "word": "分数",
+      "reading": "ぶんすう",
+      "meaning": "pecahan (dalam matematika)"
+    },
+    {
+      "word": "水分",
+      "reading": "すいぶん",
+      "meaning": "kelembapan"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "divisi, bagian, klasifikasi"
+    },
+    {
+      "word": "分布",
+      "reading": "ぶんぷ",
+      "meaning": "distribusi"
+    },
+    {
+      "word": "分解",
+      "reading": "ぶんかい",
+      "meaning": "analisis, pembongkaran"
+    },
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaning": "bahan, komponen, komposisi"
+    },
+    {
+      "word": "親類",
+      "reading": "しんるい",
+      "meaning": "kerabat (sama seperti 親戚 (しんせき))"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "jumlah, kuantitas"
+    },
+    {
+      "word": "幾分",
+      "reading": "いくぶん",
+      "meaning": "agak"
+    },
+    {
+      "word": "等分",
+      "reading": "とうぶん",
+      "meaning": "pembagian menjadi bagian yang sama"
+    },
+    {
+      "word": "養分",
+      "reading": "ようぶん",
+      "meaning": "makanan, nutrisi"
+    },
+    {
+      "word": "何分",
+      "reading": "なにぶん",
+      "meaning": "Tentu saja, silakan."
+    },
+    {
+      "word": "何分",
+      "reading": "なんぷん",
+      "meaning": "Tentu saja, silakan."
+    },
+    {
+      "word": "分子",
+      "reading": "ぶんし",
+      "meaning": "pembilang, molekul"
+    },
+    {
+      "word": "分配",
+      "reading": "ぶんぱい",
+      "meaning": "pembagian, berbagi"
+    },
+    {
+      "word": "分",
+      "reading": "ぶん",
+      "meaning": "membagi, bagian, segmen"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その機械はデータを分類するだけでなく、数字もチェックする。",
+      "reading": null,
+      "indonesian": "In addition to classifying the data, the machine also checks the figures.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらの本を主題別に分類してください。",
+      "reading": null,
+      "indonesian": "Please classify these books by subject.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの標本はいくつかの種類に分類される。",
+      "reading": null,
+      "indonesian": "These specimens are divided into several categories.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この統計ではエジプトはアフリカの国に分類されている。",
+      "reading": null,
+      "indonesian": "In these statistics Egypt is classed as an African nation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "郵便局では、郵便は、行き先に応じて分類される。",
+      "reading": null,
+      "indonesian": "In the post office, mail is classified according to the place where it is to go.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "本は良い物と悪い物とに分類できる。",
+      "reading": null,
+      "indonesian": "One can classify books into good ones and bad ones.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "全ての書物は二種類に分類できると言ってよい。",
+      "reading": null,
+      "indonesian": "All books may be divided into two classes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "全ての書物は二種類に分類できると言ってよい。",
+      "reading": null,
+      "indonesian": "All books can be divided into two categories.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は物事を分類するのが得意でない。",
+      "reading": null,
+      "indonesian": "I'm not good at classifying things.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "司書は主題によって本を分類した。",
+      "reading": null,
+      "indonesian": "The librarian classified the books according to subject.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

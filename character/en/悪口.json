@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "悪口",
+    "reading": "わるぐち",
+    "romaji": "waruguchi",
+    "jlpt": "N3",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(verbal) abuse",
+          "speaking ill of people",
+          "bad-mouthing",
+          "name-calling",
+          "slander",
+          "abusive language",
+          "insulting remarks"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "悪魔",
+      "reading": "あくま",
+      "meaning": "devil"
+    },
+    {
+      "word": "悪",
+      "reading": "あく",
+      "meaning": "evil"
+    },
+    {
+      "word": "意地悪",
+      "reading": "いじわる",
+      "meaning": "malicious"
+    },
+    {
+      "word": "利口",
+      "reading": "りこう",
+      "meaning": "clever"
+    },
+    {
+      "word": "火口",
+      "reading": "ひぐち",
+      "meaning": "burner"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "悪口雑言",
+      "reading": "あっこうぞうごん",
+      "meaning": "all kinds of malicious gossip",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はよく人の悪口を言う。",
+      "reading": null,
+      "english": "You are too ready to speak ill of others.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "悪口を言うのはやめなさい。いいことはありませんよ。",
+      "reading": null,
+      "english": "Stop calling me names. That'll do you no good.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "悪口で言うんじゃないけど君の服はちょっとけばけばしいよ。",
+      "reading": null,
+      "english": "Far be it from me to criticize, but your dress is rather loud.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ドナルドは他人の悪口を言う人は好きでない。",
+      "reading": null,
+      "english": "Donald doesn't like people who speak ill of others.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その人のいないところで悪口を言ってはいけない。",
+      "reading": null,
+      "english": "You ought not to speak ill of others behind their backs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジムのいないところで悪口を言ってはいけない。",
+      "reading": null,
+      "english": "Don't speak ill of Jim in his absence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

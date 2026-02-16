@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "居らっしゃる",
+    "reading": "いらっしゃる",
+    "romaji": "irassharu",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb - -aru special class",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come",
+          "to go",
+          "to be (somewhere)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb - -aru special class",
+          "auxiliary verb"
+        ],
+        "meanings": [
+          "to be (doing)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "居る",
+      "reading": "いる",
+      "meaning": "to be (of animate objects)"
+    },
+    {
+      "word": "居る",
+      "reading": "おる",
+      "meaning": "to be (animate)"
+    },
+    {
+      "word": "居眠り",
+      "reading": "いねむり",
+      "meaning": "nodding off (while sitting)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "いつまでこちらにいらっしゃるんですか？",
+      "reading": null,
+      "english": "How long will you be here?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "サファリパークにいらっしゃるなら５番のバスです。",
+      "reading": null,
+      "english": "If you are going to the safari park, take the No.5 bus.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたはもちろん会合にいらっしゃるでしょうね。",
+      "reading": null,
+      "english": "I take for granted that you will be coming to the meeting.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたが近いうちにいらっしゃるのを楽しみにしております。",
+      "reading": null,
+      "english": "I really look forward to your visit in the near future.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "長くいらっしゃるつもりですか。",
+      "reading": null,
+      "english": "Are you going to stay long?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "長くいらっしゃるつもりですか。",
+      "reading": null,
+      "english": "Do you plan to stay long?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

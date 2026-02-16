@@ -1,0 +1,72 @@
+{
+  "definition": {
+    "word": "殆ど",
+    "reading": "ほとんど",
+    "romaji": "hotondo",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sebagian besar",
+          "hampir"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "hardly",
+          "barely",
+          "scarcely",
+          "little"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "large majority",
+          "large proportion",
+          "greater part",
+          "most (of)",
+          "almost all (of)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ほとんどの人が日々の生活について書いている。",
+      "reading": null,
+      "indonesian": "Most people write about their daily life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そっちの声がほとんど聞こえないの。",
+      "reading": null,
+      "indonesian": "I can hardly hear you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "空はほとんど毎日晴れている。",
+      "reading": null,
+      "indonesian": "The sky is clear almost every day.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

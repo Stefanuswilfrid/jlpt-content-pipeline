@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "暮らす",
+    "reading": "くらす",
+    "romaji": "kurasu",
+    "jlpt": "N3",
+    "frequency": 19250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to live (on, by, etc.)",
+          "to lead a life",
+          "to get along",
+          "to get by"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to make a living",
+          "to earn a livelihood"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to spend one's time (doing)",
+          "to pass one's days (doing)",
+          "to live",
+          "to get on (doing)"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'su' ending"
+        ],
+        "meanings": [
+          "to do daily",
+          "to do all day long",
+          "to continue doing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "暮れる",
+      "reading": "くれる",
+      "meaning": "to get dark"
+    },
+    {
+      "word": "暮らし",
+      "reading": "くらし",
+      "meaning": "(way of) life"
+    },
+    {
+      "word": "暮れ",
+      "reading": "くれ",
+      "meaning": "sunset"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

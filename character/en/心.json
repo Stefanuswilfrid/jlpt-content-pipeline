@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "心",
+    "reading": "こころ",
+    "romaji": "kokoro",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mind",
+          "heart",
+          "spirit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the meaning of a phrase (riddle, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "安心",
+      "reading": "あんしん",
+      "meaning": "peace of mind"
+    },
+    {
+      "word": "熱心",
+      "reading": "ねっしん",
+      "meaning": "zealous"
+    },
+    {
+      "word": "心配",
+      "reading": "しんぱい",
+      "meaning": "worry"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "admiration"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "以心伝心",
+      "reading": "いしんでんしん",
+      "meaning": "telepathy",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一心同体",
+      "reading": "いっしんどうたい",
+      "meaning": "being one in body and soul",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一心不乱",
+      "reading": "いっしんふらん",
+      "meaning": "wholeheartedly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "疑心暗鬼",
+      "reading": "ぎしんあんき",
+      "meaning": "suspicion will raise bogies",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "心神耗弱",
+      "reading": "しんしんこうじゃく",
+      "meaning": "diminished capacity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "心機一転",
+      "reading": "しんきいってん",
+      "meaning": "changing one's attitude",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "安心立命",
+      "reading": "あんしんりつめい",
+      "meaning": "spiritual peace and enlightenment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "意馬心猿",
+      "reading": "いばしんえん",
+      "meaning": "it is hard to keep one's worldly desires and passions in check",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一意専心",
+      "reading": "いちいせんしん",
+      "meaning": "single-mindedly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "虚心坦懐",
+      "reading": "きょしんたんかい",
+      "meaning": "with an open and calm mind",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

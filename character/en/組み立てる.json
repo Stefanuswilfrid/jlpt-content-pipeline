@@ -1,0 +1,151 @@
+{
+  "definition": {
+    "word": "組み立てる",
+    "reading": "くみたてる",
+    "romaji": "kumitateru",
+    "jlpt": "N2",
+    "frequency": 21250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to assemble",
+          "to put together",
+          "to set up",
+          "to construct",
+          "to build",
+          "to compose (a story, poem, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to form (words, sentences, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "立て替える",
+      "reading": "たてかえる",
+      "meaning": "to pay for someone else (with the expectation of being reimbursed later)"
+    },
+    {
+      "word": "仕立てる",
+      "reading": "したてる",
+      "meaning": "to tailor"
+    },
+    {
+      "word": "取り立てる",
+      "reading": "とりたてる",
+      "meaning": "to collect (debts)"
+    },
+    {
+      "word": "設立",
+      "reading": "せつりつ",
+      "meaning": "establishment"
+    },
+    {
+      "word": "確立",
+      "reading": "かくりつ",
+      "meaning": "establishment"
+    },
+    {
+      "word": "樹立",
+      "reading": "じゅりつ",
+      "meaning": "establishment"
+    },
+    {
+      "word": "立法",
+      "reading": "りっぽう",
+      "meaning": "(enactment of) legislation"
+    },
+    {
+      "word": "創立",
+      "reading": "そうりつ",
+      "meaning": "establishment"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "テントを組み立てるのに３０分かかった。",
+      "reading": null,
+      "english": "It took us half an hour to set up the tent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはそれらを組み立てるだけでいいのです。",
+      "reading": null,
+      "english": "You have only to put them together.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "模型船を組み立てるのに私は１週間以上かかった。",
+      "reading": null,
+      "english": "It took me more than a week to put the model ship together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "時計を分解するのは組み立てるより簡単だ。",
+      "reading": null,
+      "english": "Taking a watch apart is easier than putting it together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "時計を組み立てるのはちょっと難しい。",
+      "reading": null,
+      "english": "It is rather difficult to assemble a watch.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "テントを組み立てるのに３０分かかった。",
+      "reading": null,
+      "english": "It took us half an hour to set up the tent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはそれらを組み立てるだけでいいのです。",
+      "reading": null,
+      "english": "You have only to put them together.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "時計を組み立てるのはちょっと難しい。",
+      "reading": null,
+      "english": "It is rather difficult to assemble a watch.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "時計を分解するのは組み立てるより簡単だ。",
+      "reading": null,
+      "english": "Taking a watch apart is easier than putting it together.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

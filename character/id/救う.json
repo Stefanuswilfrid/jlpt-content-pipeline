@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "救う",
+    "reading": "すくう",
+    "romaji": "sukuu",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menyelamatkan dari",
+          "membantu keluar dari"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to save (spiritually)",
+          "to redeem (from sin)",
+          "to deliver (from suffering, distress, etc.)",
+          "to bring to salvation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "bantuan, pertolongan, penyelamatan"
+    },
+    {
+      "word": "助ける",
+      "reading": "たすける",
+      "meaning": "membantu (v.t.), menyelamatkan, membebaskan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "薪を抱いて火を救う",
+      "reading": "たきぎをいだいてひをすくう",
+      "meaning": "having one's good intentions backfire dangerously",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

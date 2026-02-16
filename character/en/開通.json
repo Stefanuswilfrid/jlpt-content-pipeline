@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "開通",
+    "reading": "かいつう",
+    "romaji": "kaitsuu",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "opening (of a new road, railway, etc.)",
+          "going into operation (e.g. telephone communication)",
+          "beginning services"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reopening (e.g. of a road to traffic)",
+          "resumption of services"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通路",
+      "reading": "つうろ",
+      "meaning": "passage"
+    },
+    {
+      "word": "通帳",
+      "reading": "つうちょう",
+      "meaning": "passbook"
+    },
+    {
+      "word": "直通",
+      "reading": "ちょくつう",
+      "meaning": "direct line"
+    },
+    {
+      "word": "開放",
+      "reading": "かいほう",
+      "meaning": "opening (a door, window, etc.)"
+    },
+    {
+      "word": "展開",
+      "reading": "てんかい",
+      "meaning": "development"
+    },
+    {
+      "word": "開会",
+      "reading": "かいかい",
+      "meaning": "opening of a meeting"
+    },
+    {
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "notice"
+    },
+    {
+      "word": "大通り",
+      "reading": "おおどおり",
+      "meaning": "main street"
+    },
+    {
+      "word": "人通り",
+      "reading": "ひとどおり",
+      "meaning": "pedestrian traffic"
+    },
+    {
+      "word": "通用",
+      "reading": "つうよう",
+      "meaning": "(common) use (of a language, currency, etc.)"
+    },
+    {
+      "word": "透き通る",
+      "reading": "すきとおる",
+      "meaning": "to be transparent"
+    },
+    {
+      "word": "一通り",
+      "reading": "ひととおり",
+      "meaning": "generally"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "commuting to school"
+    },
+    {
+      "word": "開く",
+      "reading": "ひらく",
+      "meaning": "to open"
+    },
+    {
+      "word": "開ける",
+      "reading": "あける",
+      "meaning": "to open (a door, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "橋は開通している。",
+      "reading": null,
+      "english": "The bridge is open to traffic.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たくさんの人が新しい橋の開通式に参列した。",
+      "reading": null,
+      "english": "Quite a few people attended the opening ceremony of the new bridge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "橋は開通している。",
+      "reading": null,
+      "english": "The bridge is open to traffic.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たくさんの人が新しい橋の開通式に参列した。",
+      "reading": null,
+      "english": "Quite a few people attended the opening ceremony of the new bridge.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

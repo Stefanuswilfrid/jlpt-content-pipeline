@@ -1,0 +1,103 @@
+{
+  "definition": {
+    "word": "皮肉",
+    "reading": "ひにく",
+    "romaji": "hiniku",
+    "jlpt": "N2",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "irony",
+          "sarcasm",
+          "cynicism",
+          "satire"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unexpected",
+          "different from what one expected",
+          "not as one had planned"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(only) surface",
+          "something superficial"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "毛皮",
+      "reading": "けがわ",
+      "meaning": "fur"
+    },
+    {
+      "word": "皮膚",
+      "reading": "ひふ",
+      "meaning": "skin"
+    },
+    {
+      "word": "肉親",
+      "reading": "にくしん",
+      "meaning": "blood relationship"
+    },
+    {
+      "word": "肉体",
+      "reading": "にくたい",
+      "meaning": "the body"
+    },
+    {
+      "word": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "pork"
+    },
+    {
+      "word": "肉",
+      "reading": "にく",
+      "meaning": "flesh"
+    },
+    {
+      "word": "皮",
+      "reading": "かわ",
+      "meaning": "skin"
+    },
+    {
+      "word": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "beef"
+    },
+    {
+      "word": "筋肉",
+      "reading": "きんにく",
+      "meaning": "muscle"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "皮肉なことに戦争が数多くの有用な発明を生み出した。",
+      "reading": null,
+      "english": "Ironically it is war that has brought a great many useful inventions into being.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

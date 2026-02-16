@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "多少",
+    "reading": "たしょう",
+    "romaji": "tashou",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "a little",
+          "some",
+          "somewhat",
+          "slightly",
+          "to some degree",
+          "to some extent"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "amount",
+          "quantity",
+          "number"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "少年",
+      "reading": "しょうねん",
+      "meaning": "boy"
+    },
+    {
+      "word": "減少",
+      "reading": "げんしょう",
+      "meaning": "decrease"
+    },
+    {
+      "word": "少女",
+      "reading": "しょうじょ",
+      "meaning": "girl (usu. between 7 and 17)"
+    },
+    {
+      "word": "滅多に",
+      "reading": "めったに",
+      "meaning": "rarely"
+    },
+    {
+      "word": "少しも",
+      "reading": "すこしも",
+      "meaning": "(not) at all"
+    },
+    {
+      "word": "大いに",
+      "reading": "おおいに",
+      "meaning": "very"
+    },
+    {
+      "word": "少々",
+      "reading": "しょうしょう",
+      "meaning": "a little"
+    },
+    {
+      "word": "青少年",
+      "reading": "せいしょうねん",
+      "meaning": "young people"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "多少のお金はあるよ。",
+      "reading": null,
+      "english": "I have a little money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その決定はあなたが言ったことと多少関係がある。",
+      "reading": null,
+      "english": "The decision has something to do with what you said.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのスチュワーデスは多少フランス語が話せる。",
+      "reading": null,
+      "english": "The stewardess can speak French after a fashion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スープに多少の塩が必要だと思う。",
+      "reading": null,
+      "english": "I think the soup needs a bit of salt.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジョンの父はフランス語を多少知っている。",
+      "reading": null,
+      "english": "John's father has some knowledge of French.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "多少のお金はあるよ。",
+      "reading": null,
+      "english": "I have got some money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたは多少の点数はかせげるかもしれません。",
+      "reading": null,
+      "english": "You might just chalk up some brownie points.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

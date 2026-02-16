@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "喋る",
+    "reading": "しゃべる",
+    "romaji": "shaberu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berbicara",
+          "mengobrol",
+          "mengobrol (sama seperti 話す (はなす))"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "お喋り",
+      "reading": "おしゃべり",
+      "meaning": "ngobrol, bicara"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "頭の空っぽな者ほど良くしゃべる。",
+      "reading": null,
+      "indonesian": "Empty vessels make the most sound.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムはなんてしゃべるのが速いのでしょう。",
+      "reading": null,
+      "indonesian": "How fast Tom speaks!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すぐにしゃべるのをやめなさい。",
+      "reading": null,
+      "indonesian": "Stop speaking right now.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "しゃべるだけの日本語は出来る。",
+      "reading": null,
+      "indonesian": "I'm able to speak, and only speak, Japanese.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

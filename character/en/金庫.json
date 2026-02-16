@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "金庫",
+    "reading": "きんこ",
+    "romaji": "kinko",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "safe",
+          "strongbox",
+          "cashbox",
+          "vault",
+          "strongroom"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "depository",
+          "cash office",
+          "treasury",
+          "provider of funds"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "金属",
+      "reading": "きんぞく",
+      "meaning": "metal"
+    },
+    {
+      "word": "貯金",
+      "reading": "ちょきん",
+      "meaning": "putting money aside"
+    },
+    {
+      "word": "借金",
+      "reading": "しゃっきん",
+      "meaning": "debt"
+    },
+    {
+      "word": "税金",
+      "reading": "ぜいきん",
+      "meaning": "tax"
+    },
+    {
+      "word": "代金",
+      "reading": "だいきん",
+      "meaning": "price"
+    },
+    {
+      "word": "金銭",
+      "reading": "きんせん",
+      "meaning": "money"
+    },
+    {
+      "word": "金",
+      "reading": "かね",
+      "meaning": "money"
+    },
+    {
+      "word": "金",
+      "reading": "きん",
+      "meaning": "gold (metal)"
+    },
+    {
+      "word": "奨学金",
+      "reading": "しょうがくきん",
+      "meaning": "scholarship"
+    },
+    {
+      "word": "金融",
+      "reading": "きんゆう",
+      "meaning": "finance"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "fee"
+    },
+    {
+      "word": "金額",
+      "reading": "きんがく",
+      "meaning": "amount of money"
+    },
+    {
+      "word": "現金",
+      "reading": "げんきん",
+      "meaning": "cash"
+    },
+    {
+      "word": "お金",
+      "reading": "おかね",
+      "meaning": "money"
+    },
+    {
+      "word": "賞金",
+      "reading": "しょうきん",
+      "meaning": "prize money"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "金庫の中の書類が消えてなくなっている。",
+      "reading": null,
+      "english": "The papers that were in the safe are gone.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金庫に金を入れる。",
+      "reading": null,
+      "english": "I put money in a safe.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "金庫にカギをかけてください。",
+      "reading": null,
+      "english": "Lock the safe.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "トム、パスポートちょうだい。金庫にしまっとくから。",
+      "reading": null,
+      "english": "Give me your passport, Tom. I'll keep it in my safe.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

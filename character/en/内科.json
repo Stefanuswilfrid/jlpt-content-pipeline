@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "内科",
+    "reading": "ないか",
+    "romaji": "naika",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "internal medicine"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "department of internal medicine"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "学科",
+      "reading": "がっか",
+      "meaning": "subject (of study)"
+    },
+    {
+      "word": "外科",
+      "reading": "げか",
+      "meaning": "surgery (branch of medicine)"
+    },
+    {
+      "word": "理科",
+      "reading": "りか",
+      "meaning": "science (natural sciences and related fields, incl. mathematics, engineering, medicine, etc.)"
+    },
+    {
+      "word": "内線",
+      "reading": "ないせん",
+      "meaning": "phone extension"
+    },
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "guidance"
+    },
+    {
+      "word": "内訳",
+      "reading": "うちわけ",
+      "meaning": "itemization (of expenses)"
+    },
+    {
+      "word": "内",
+      "reading": "うち",
+      "meaning": "inside"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この薬を飲む前には内科医の意見を聞くべきだ。",
+      "reading": null,
+      "english": "You should ask a physician for his advice before taking this medicine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "内科はどこですか。",
+      "reading": null,
+      "english": "Where is the Internal Medicine Department?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "この薬を飲む前には内科医の意見を聞くべきだ。",
+      "reading": null,
+      "english": "You should ask a physician for his advice before taking this medicine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "内科はどこですか。",
+      "reading": null,
+      "english": "Where is the Internal Medicine Department?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

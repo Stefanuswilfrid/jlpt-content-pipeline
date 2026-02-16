@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "生じる",
+    "reading": "しょうじる",
+    "romaji": "shoujiru",
+    "jlpt": "N3",
+    "frequency": 16750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "terjadi",
+          "muncul",
+          "dihasilkan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to result from",
+          "to arise",
+          "to be generated"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "kelahiran"
+    },
+    {
+      "word": "生る",
+      "reading": "なる",
+      "meaning": "berbuah"
+    },
+    {
+      "word": "生える",
+      "reading": "はえる",
+      "meaning": "tumbuh, muncul; tumbuh (gigi)"
+    },
+    {
+      "word": "生長",
+      "reading": "せいちょう",
+      "meaning": "pertumbuhan"
+    },
+    {
+      "word": "生やす",
+      "reading": "はやす",
+      "meaning": "menumbuhkan, membudidayakan, memelihara janggut"
+    },
+    {
+      "word": "生活",
+      "reading": "せいかつ",
+      "meaning": "hidup, kehidupan; untuk hidup"
+    },
+    {
+      "word": "生産",
+      "reading": "せいさん",
+      "meaning": "produksi; untuk memproduksi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "家庭で読書が行われない事から多くの問題が生じる。",
+      "reading": null,
+      "indonesian": "A lot of problems derive from a lack of reading in the home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あらゆる発明は必要から生じる。",
+      "reading": null,
+      "indonesian": "All inventions grow out of necessity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "病気はしばしば飲みすぎから生じる。",
+      "reading": null,
+      "indonesian": "Illness often results from drinking too much.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "失敗は無知から生じることがよくある。",
+      "reading": null,
+      "indonesian": "Failures often spring from ignorance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

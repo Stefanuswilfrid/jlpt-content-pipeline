@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "共同",
+    "reading": "きょうどう",
+    "romaji": "kyoudou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a prefix",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "kerja sama",
+          "asosiasi",
+          "kolaborasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a prefix",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "community",
+          "communal use",
+          "common possession",
+          "sharing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "同時",
+      "reading": "どうじ",
+      "meaning": "serentak, pada waktu yang sama"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "kesamaan, saling"
+    },
+    {
+      "word": "同様",
+      "reading": "どうよう",
+      "meaning": "identik, sama (jenis), seperti"
+    },
+    {
+      "word": "同士",
+      "reading": "どうし",
+      "meaning": "satu sama lain, sahabat, kawan"
+    },
+    {
+      "word": "同一",
+      "reading": "どういつ",
+      "meaning": "identitas, kesamaan, kemiripan"
+    },
+    {
+      "word": "同僚",
+      "reading": "どうりょう",
+      "meaning": "rekan kerja; kolega"
+    },
+    {
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "kerja sama, kolaborasi"
+    },
+    {
+      "word": "同志",
+      "reading": "どうし",
+      "meaning": "sepemikiran, kawan, jiwa yang sejiwa"
+    },
+    {
+      "word": "公共",
+      "reading": "こうきょう",
+      "meaning": "publik, komunitas, komunal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その町は産業共同体である。",
+      "reading": null,
+      "indonesian": "The town is an industrial community.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

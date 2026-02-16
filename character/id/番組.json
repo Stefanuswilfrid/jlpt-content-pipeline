@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "番組",
+    "reading": "ばんぐみ",
+    "romaji": "bangumi",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "program siaran"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "terbaik (terbanyak), pertama, nomor satu"
+    },
+    {
+      "word": "組織",
+      "reading": "そしき",
+      "meaning": "organisasi; struktur; jaringan"
+    },
+    {
+      "word": "組合",
+      "reading": "くみあい",
+      "meaning": "asosiasi, serikat pekerja"
+    },
+    {
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "angka, rangkaian digit"
+    },
+    {
+      "word": "組",
+      "reading": "くみ",
+      "meaning": "kelas, tim, kelompok"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もうこの番組はたくさんだ。",
+      "reading": null,
+      "indonesian": "I've had enough of this program.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "テレビ番組の中にはおもしろいのもあれば、そうでないのもある。",
+      "reading": null,
+      "indonesian": "Some TV programs are interesting, and others are not.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

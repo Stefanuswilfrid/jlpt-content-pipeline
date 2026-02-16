@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "尻尾",
+    "reading": "しっぽ",
+    "romaji": "shippo",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ekor (hewan)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tail end",
+          "tip"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "尾",
+      "reading": "お",
+      "meaning": "ekor, punggung"
+    },
+    {
+      "word": "尻",
+      "reading": "しり",
+      "meaning": "bokong, bagian bawah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "尻尾を巻く",
+      "reading": "しっぽをまく",
+      "meaning": "to tuck one's tail between one's legs",
+      "type": "idiom"
+    },
+    {
+      "word": "尻尾を掴む",
+      "reading": "しっぽをつかむ",
+      "meaning": "to have something on someone",
+      "type": "idiom"
+    },
+    {
+      "word": "尻尾を振る",
+      "reading": "しっぽをふる",
+      "meaning": "to wag one's tail",
+      "type": "idiom"
+    },
+    {
+      "word": "トカゲの尻尾切り",
+      "reading": "とかげのしっぽぎり",
+      "meaning": "evading blame by pinning it on a subordinate and abandoning them",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ウサギは耳が長くてしっぽが短い。",
+      "reading": null,
+      "indonesian": "A rabbit has long ears and a short tail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その男の子は犬のしっぽをつかんだ。",
+      "reading": null,
+      "indonesian": "The boy caught the dog by the tail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "しっぽが短く切られた犬を見た。",
+      "reading": null,
+      "indonesian": "I saw a dog and its tail was cut short.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの犬はしっぽが短い。",
+      "reading": null,
+      "indonesian": "That dog has a short tail.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "私の犬はしっぽが長い。",
+      "reading": null,
+      "indonesian": "My dog has a long tail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "子犬がしっぽをふってついてきた。",
+      "reading": null,
+      "indonesian": "A puppy followed me wagging its tail.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "子ネコのしっぽを引っ張るとはメアリーもいたずらっ子だった。",
+      "reading": null,
+      "indonesian": "It was naughty of Mary to pull the kitten's tail.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その男の子は犬のしっぽをつかんだ。",
+      "reading": null,
+      "indonesian": "The boy caught the dog by the tail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

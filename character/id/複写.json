@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "複写",
+    "reading": "ふくしゃ",
+    "romaji": "fukusha",
+    "jlpt": "N2",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "salin",
+          "gandakan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "写生",
+      "reading": "しゃせい",
+      "meaning": "membuat sketsa, menggambar dari alam"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "jamak, banyak"
+    },
+    {
+      "word": "写し",
+      "reading": "うつし",
+      "meaning": "salin, gandakan"
+    },
+    {
+      "word": "写す",
+      "reading": "うつす",
+      "meaning": "menyalin (v.t.); memotret"
+    },
+    {
+      "word": "複雑",
+      "reading": "ふくざつ",
+      "meaning": "kompleksitas, komplikasi"
+    },
+    {
+      "word": "複合",
+      "reading": "ふくごう",
+      "meaning": "komposit, kompleks"
+    },
+    {
+      "word": "描写",
+      "reading": "びょうしゃ",
+      "meaning": "penggambaran, deskripsi, pementasan"
+    },
+    {
+      "word": "重複",
+      "reading": "ちょうふく",
+      "meaning": "duplikasi, pengulangan, tumpang tindih"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "エジソンは複写の装置を発明した。",
+      "reading": null,
+      "indonesian": "Edison invented a device for duplication.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "複写機の紙を切らしたよ。",
+      "reading": null,
+      "indonesian": "We've run out of paper for the photocopier.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "エジソンは複写の装置を発明した。",
+      "reading": null,
+      "indonesian": "Edison invented a device for duplication.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "複写機の紙を切らしたよ。",
+      "reading": null,
+      "indonesian": "We've run out of paper for the photocopier.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

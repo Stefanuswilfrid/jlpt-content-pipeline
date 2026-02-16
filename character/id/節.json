@@ -1,0 +1,179 @@
+{
+  "definition": {
+    "word": "節",
+    "reading": "せつ",
+    "romaji": "setsu",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ketika",
+          "jika; bagian; klausa"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "section (of a literary work or piece of music)",
+          "passage",
+          "paragraph",
+          "verse",
+          "stanza"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "clause"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "season",
+          "term"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's principles",
+          "integrity"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "node (of a plant stem)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "section (taxonomic rank)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "knot (nautical mile per hour)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "節約",
+      "reading": "せつやく",
+      "meaning": "berhemat, menabung"
+    },
+    {
+      "word": "季節",
+      "reading": "きせつ",
+      "meaning": "musim (dalam konteks cuaca)"
+    },
+    {
+      "word": "調節",
+      "reading": "ちょうせつ",
+      "meaning": "pengaturan, penyesuaian, kontrol"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "枝葉末節",
+      "reading": "しようまっせつ",
+      "meaning": "unimportant details",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "盤根錯節",
+      "reading": "ばんこんさくせつ",
+      "meaning": "hard-to-penetrate event",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "時節到来",
+      "reading": "じせつとうらい",
+      "meaning": "the time has come (for, to, when ...)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "時世時節",
+      "reading": "ときよじせつ",
+      "meaning": "times and situations",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "猫に鰹節",
+      "reading": "ねこにかつおぶし",
+      "meaning": "temptation one can't resist",
+      "type": "idiom"
+    },
+    {
+      "word": "衣食足りて礼節を知る",
+      "reading": "いしょくたりてれいせつをしる",
+      "meaning": "well-fed, well-bred",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "寒い季節がやってくるよ。",
+      "reading": null,
+      "indonesian": "Cold weather is coming.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "夏には節水して下さい。",
+      "reading": null,
+      "indonesian": "Please conserve water in summer.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一番暑い季節はいつですか。",
+      "reading": null,
+      "indonesian": "Which is the hottest of all the seasons?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一年中で一番いい季節ですね。",
+      "reading": null,
+      "indonesian": "It's the best season of the year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一年で一番いい季節です。",
+      "reading": null,
+      "indonesian": "It's the best season of the year.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

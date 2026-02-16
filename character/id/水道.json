@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "水道",
+    "reading": "すいどう",
+    "romaji": "suidou",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "layanan air",
+          "saluran air"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "channel",
+          "strait"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "water course",
+          "waterway"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "柔道",
+      "reading": "じゅうどう",
+      "meaning": "judo"
+    },
+    {
+      "word": "水泳",
+      "reading": "すいえい",
+      "meaning": "renang"
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaning": "alat"
+    },
+    {
+      "word": "水",
+      "reading": "みず",
+      "meaning": "air"
+    },
+    {
+      "word": "道",
+      "reading": "みち",
+      "meaning": "jalan, gang; arah, petunjuk"
+    },
+    {
+      "word": "水準",
+      "reading": "すいじゅん",
+      "meaning": "tingkat, standar"
+    },
+    {
+      "word": "道路",
+      "reading": "どうろ",
+      "meaning": "jalan"
+    },
+    {
+      "word": "鉄道",
+      "reading": "てつどう",
+      "meaning": "kereta api; rel kereta"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "水道がでています。",
+      "reading": null,
+      "indonesian": "The tap is running.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

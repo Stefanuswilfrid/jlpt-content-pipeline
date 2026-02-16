@@ -1,0 +1,165 @@
+{
+  "definition": {
+    "word": "足る",
+    "reading": "たる",
+    "romaji": "taru",
+    "jlpt": "N2",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be sufficient",
+          "to be enough"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be worth doing",
+          "to be worthy of",
+          "to deserve"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to do (the job)",
+          "to serve",
+          "to answer"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "遠足",
+      "reading": "えんそく",
+      "meaning": "school trip"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "insufficiency"
+    },
+    {
+      "word": "発足",
+      "reading": "ほっそく",
+      "meaning": "starting"
+    },
+    {
+      "word": "休息",
+      "reading": "きゅうそく",
+      "meaning": "rest"
+    },
+    {
+      "word": "足りる",
+      "reading": "たりる",
+      "meaning": "to be sufficient"
+    },
+    {
+      "word": "足元",
+      "reading": "あしもと",
+      "meaning": "at one's feet"
+    },
+    {
+      "word": "足跡",
+      "reading": "あしあと",
+      "meaning": "footprints"
+    },
+    {
+      "word": "補足",
+      "reading": "ほそく",
+      "meaning": "supplement"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足るを知る",
+      "reading": "たるをしる",
+      "meaning": "to know one has enough",
+      "type": "idiom"
+    },
+    {
+      "word": "足るを知る者は富む",
+      "reading": "たるをしるものはとむ",
+      "meaning": "content is the philosopher's stone, that turns all it touches into gold",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ビルは印刷業でいい暮らしをするに足るお金をかせいだ。",
+      "reading": null,
+      "english": "The printing business made Bill a small fortune.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この農園は私たちの必要を満たすに足るだけの野菜を産出する。",
+      "reading": null,
+      "english": "This farm yields enough vegetables to meet our needs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "いやしくもなすに足る事なら立派にやるだけの価値がある。",
+      "reading": null,
+      "english": "If it is worth doing at all, it is worth doing well.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ビルは印刷業でいい暮らしをするに足るお金をかせいだ。",
+      "reading": null,
+      "english": "The printing business made Bill a small fortune.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この農園は私たちの必要を満たすに足るだけの野菜を産出する。",
+      "reading": null,
+      "english": "This farm yields enough vegetables to meet our needs.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "いやしくもなすに足る事なら立派にやるだけの価値がある。",
+      "reading": null,
+      "english": "If it is worth doing at all, it is worth doing well.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "いやしくもなすに足る事なら立派にやるだけの価値がある。",
+      "reading": null,
+      "english": "Anything worth doing is worth doing well.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人は足るを知らねばならぬ。",
+      "reading": null,
+      "english": "People must learn to be satisfied.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

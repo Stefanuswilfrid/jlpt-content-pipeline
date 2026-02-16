@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "挙げる",
+    "reading": "あげる",
+    "romaji": "ageru",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to give (an example)",
+          "to list",
+          "to enumerate",
+          "to show",
+          "to display",
+          "to cite"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to summon up (e.g. all of one's energy)",
+          "to gather"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to arrest (a criminal)",
+          "to capture",
+          "to seize",
+          "to apprehend"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to nominate (e.g. for a position)",
+          "to recommend",
+          "to propose (something)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to hold (an event, ceremony, etc.)",
+          "to conduct (a wedding)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to raise (an army)",
+          "to take up arms (against something)",
+          "to rise up"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make known",
+          "to inform",
+          "to spread word",
+          "to win fame"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to have (a child)",
+          "to bear (a child)",
+          "to raise (children)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "選挙",
+      "reading": "せんきょ",
+      "meaning": "election"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "槍玉に挙げる",
+      "reading": "やりだまにあげる",
+      "meaning": "to make an example of",
+      "type": "idiom"
+    },
+    {
+      "word": "手を挙げる",
+      "reading": "てをあげる",
+      "meaning": "to raise one's hand",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "いつも手を挙げるのに、先生は当ててくれないんだ。",
+      "reading": null,
+      "english": "I always raise my hand, but the teacher never calls on me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつも手を挙げるのに、先生は当ててくれないんだ。",
+      "reading": null,
+      "english": "I always raise my hand, but the teacher never calls on me.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

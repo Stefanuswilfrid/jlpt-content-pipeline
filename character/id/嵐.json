@@ -1,0 +1,54 @@
+{
+  "definition": {
+    "word": "嵐",
+    "reading": "あらし",
+    "romaji": "arashi",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "badai"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "uproar",
+          "hullabaloo",
+          "storm (e.g. of protest)",
+          "winds (e.g. of change)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pile of 3 cards of the same value in oicho-kabu"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "嵐の前の静けさ",
+      "reading": "あらしのまえのしずけさ",
+      "meaning": "calm before the storm",
+      "type": "idiom"
+    },
+    {
+      "word": "コップの中の嵐",
+      "reading": "コップのなかのあらし",
+      "meaning": "storm in a teacup",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

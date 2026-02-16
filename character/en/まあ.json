@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "まあ",
+    "reading": "まあ",
+    "romaji": "maa",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "just (e.g. \"just wait here\")",
+          "come now",
+          "now, now"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "tolerably",
+          "passably",
+          "moderately",
+          "reasonably",
+          "fairly",
+          "rather",
+          "somewhat"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "well ...",
+          "I think ...",
+          "it would seem ...",
+          "you might say ...",
+          "Hmmm, I guess so ..."
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "oh!",
+          "oh dear!",
+          "oh, my!",
+          "wow!",
+          "goodness gracious!",
+          "good heavens!"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "ざまあ見ろ",
+      "reading": "ざまあみろ",
+      "meaning": "it serves you right",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "よくもまあ、そんな口の利き方ができるね。",
+      "reading": null,
+      "english": "How dare you speak like that!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "よくもまあそんなことが言えますね。",
+      "reading": null,
+      "english": "How dare you say such a thing!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "よくもまあそんな口のきき方ができるな。",
+      "reading": null,
+      "english": "How dare you talk to me like that!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "よくもまあ、あんなものが食べられるね。",
+      "reading": null,
+      "english": "I don't see how you can eat that stuff.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まあ、そんなとこだよ。",
+      "reading": null,
+      "english": "That's about it.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "まあ無理ですな。",
+      "reading": null,
+      "english": "Well, you can't.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まあ当分はそれで間に合うだろう。",
+      "reading": null,
+      "english": "Well, it'll do for the time being.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

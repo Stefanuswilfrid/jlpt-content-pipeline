@@ -1,0 +1,152 @@
+{
+  "definition": {
+    "word": "合わせる",
+    "reading": "あわせる",
+    "romaji": "awaseru",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to match (rhythm, speed, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to join together",
+          "to unite",
+          "to combine",
+          "to add up"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to face",
+          "to be opposite (someone)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to compare",
+          "to check with"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cause to meet (e.g. an unpleasant fate)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to place together",
+          "to connect",
+          "to overlap"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to mix",
+          "to combine"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put blade to blade",
+          "to fight"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "sum total"
+    },
+    {
+      "word": "話し合う",
+      "reading": "はなしあう",
+      "meaning": "to discuss"
+    },
+    {
+      "word": "合図",
+      "reading": "あいず",
+      "meaning": "sign"
+    },
+    {
+      "word": "合同",
+      "reading": "ごうどう",
+      "meaning": "combination"
+    },
+    {
+      "word": "都合",
+      "reading": "つごう",
+      "meaning": "circumstances"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "union"
+    },
+    {
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "passing (an exam)"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "association"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "手を合わせる",
+      "reading": "てをあわせる",
+      "meaning": "to put one's palms together (e.g. when praying or asking for something)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この服にはどんなアクセサリーを合わせるつもり？",
+      "reading": null,
+      "english": "What sort of jewelry are you going to wear with this dress?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

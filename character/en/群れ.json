@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "群れ",
+    "reading": "むれ",
+    "romaji": "mure",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "group",
+          "crowd",
+          "flock",
+          "herd",
+          "bevy",
+          "school",
+          "swarm",
+          "cluster (e.g. of stars)",
+          "clump",
+          "pack (e.g. of dogs)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "群集",
+      "reading": "ぐんしゅう",
+      "meaning": "crowd"
+    },
+    {
+      "word": "群",
+      "reading": "ぐん",
+      "meaning": "group"
+    },
+    {
+      "word": "群衆",
+      "reading": "ぐんしゅう",
+      "meaning": "group (of people)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私は空高く飛んでいる鳥の群れを見ました。",
+      "reading": null,
+      "english": "I saw a flock of birds flying aloft.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "鳥の群れが空高く飛んでいるのを見ました。",
+      "reading": null,
+      "english": "I saw a flock of birds flying aloft.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "我々の船は魚の群れを追った。",
+      "reading": null,
+      "english": "Our boat followed a school of fish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ひとりの少年が羊の群れを追っていた。",
+      "reading": null,
+      "english": "A boy was driving a flock of sheep.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの群れにも必ず黒い羊がいる。",
+      "reading": null,
+      "english": "There's a black sheep in every flock.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その魚は群れを成して進んでいくのですね。",
+      "reading": null,
+      "english": "That fish travels in a group, don't they?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "サルの群れが木から木へ移っていくのが見えた。",
+      "reading": null,
+      "english": "We saw a troop of monkeys moving from tree to tree.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの雲は白い羊の群れのように見える。",
+      "reading": null,
+      "english": "These clouds look like a flock of white sheep.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "二人は仲間、三人は寄せ集めの群れ。",
+      "reading": null,
+      "english": "Two's company, three's a crowd.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

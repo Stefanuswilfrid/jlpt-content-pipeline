@@ -1,0 +1,69 @@
+{
+  "definition": {
+    "word": "膳",
+    "reading": "ぜん",
+    "romaji": "zen",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meja (kecil)",
+          "nampan",
+          "makanan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "meal",
+          "food",
+          "serving"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for bowlfuls of rice"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for pairs of chopsticks"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "お膳立て",
+      "reading": "おぜんだて",
+      "meaning": "setting the table",
+      "type": "idiom"
+    },
+    {
+      "word": "膳立て",
+      "reading": "ぜんだて",
+      "meaning": "setting the table",
+      "type": "idiom"
+    },
+    {
+      "word": "据え膳食わぬは男の恥",
+      "reading": "すえぜんくわぬはおとこのはじ",
+      "meaning": "it is shameful to reject the advances of a woman",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

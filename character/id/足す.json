@@ -1,0 +1,62 @@
+{
+  "definition": {
+    "word": "足す",
+    "reading": "たす",
+    "romaji": "tasu",
+    "jlpt": "N4",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menambahkan (angka)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to add (something)",
+          "to top up (with something)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take care of (e.g. one's business)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "足りる",
+      "reading": "たりる",
+      "meaning": "cukup; memadai"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "Kaos kaki Jepang (dengan jari kaki terpisah)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "６と４を足すと１０になる。",
+      "reading": null,
+      "indonesian": "Add six and four and you have ten.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

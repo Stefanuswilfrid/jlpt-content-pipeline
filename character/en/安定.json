@@ -1,0 +1,112 @@
+{
+  "definition": {
+    "word": "安定",
+    "reading": "あんてい",
+    "romaji": "antei",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "stability",
+          "steadiness",
+          "consistency",
+          "equilibrium",
+          "balance",
+          "composure"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "stable"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "decision"
+    },
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "anxiety"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "fixed period"
+    },
+    {
+      "word": "否定",
+      "reading": "ひてい",
+      "meaning": "denial"
+    },
+    {
+      "word": "勘定",
+      "reading": "かんじょう",
+      "meaning": "calculation"
+    },
+    {
+      "word": "仮定",
+      "reading": "かてい",
+      "meaning": "assumption"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaning": "safety"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "plans"
+    },
+    {
+      "word": "一定",
+      "reading": "いってい",
+      "meaning": "to fix"
+    },
+    {
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "designation"
+    },
+    {
+      "word": "特定",
+      "reading": "とくてい",
+      "meaning": "specific"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "安定成長",
+      "reading": "あんていせいちょう",
+      "meaning": "stable growth",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この歯が不安定です。",
+      "reading": null,
+      "english": "This tooth is wobbly.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

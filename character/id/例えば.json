@@ -1,0 +1,34 @@
+{
+  "definition": {
+    "word": "例えば",
+    "reading": "たとえば",
+    "romaji": "tatoeba",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "misalnya",
+          "contohnya"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "例",
+      "reading": "れい",
+      "meaning": "contoh, kasus"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "pengecualian"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

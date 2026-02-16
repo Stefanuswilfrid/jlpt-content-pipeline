@@ -1,0 +1,82 @@
+{
+  "definition": {
+    "word": "彼是",
+    "reading": "あれこれ",
+    "romaji": "arekore",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "pronoun"
+        ],
+        "meanings": [
+          "this and that",
+          "this or that",
+          "one thing or another",
+          "this way and that"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "around",
+          "about",
+          "round about",
+          "roughly",
+          "nearly",
+          "almost"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "是非",
+      "reading": "ぜひ",
+      "meaning": "certainly"
+    },
+    {
+      "word": "彼",
+      "reading": "あれ",
+      "meaning": "that"
+    },
+    {
+      "word": "彼",
+      "reading": "かれ",
+      "meaning": "he"
+    },
+    {
+      "word": "彼ら",
+      "reading": "かれら",
+      "meaning": "they"
+    },
+    {
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "she"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "いつもあれこれ心配し過ぎなんだよ。",
+      "reading": null,
+      "english": "You're always anticipating trouble.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "方針は２つの意見の間をあれこれとぐらついた。",
+      "reading": null,
+      "english": "The policy fluctuated between two opinions.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

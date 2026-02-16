@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "技術",
+    "reading": "ぎじゅつ",
+    "romaji": "gijutsu",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "technology",
+          "engineering"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "technique",
+          "skill"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "art",
+          "craft"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "美術館",
+      "reading": "びじゅつかん",
+      "meaning": "art museum"
+    },
+    {
+      "word": "競技",
+      "reading": "きょうぎ",
+      "meaning": "game"
+    },
+    {
+      "word": "芸術",
+      "reading": "げいじゅつ",
+      "meaning": "art"
+    },
+    {
+      "word": "演技",
+      "reading": "えんぎ",
+      "meaning": "acting"
+    },
+    {
+      "word": "技師",
+      "reading": "ぎし",
+      "meaning": "engineer"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

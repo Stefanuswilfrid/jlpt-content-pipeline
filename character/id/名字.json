@@ -1,0 +1,139 @@
+{
+  "definition": {
+    "word": "苗字",
+    "reading": "みょうじ",
+    "romaji": "myouji",
+    "jlpt": "N2",
+    "frequency": 12750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nama keluarga",
+          "nama marga"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "習字",
+      "reading": "しゅうじ",
+      "meaning": "keahlian menulis indah"
+    },
+    {
+      "word": "活字",
+      "reading": "かつじ",
+      "meaning": "jenis pencetakan"
+    },
+    {
+      "word": "ローマ字",
+      "reading": "ローマじ",
+      "meaning": "romanisasi, huruf Romawi (alfabet)"
+    },
+    {
+      "word": "仮名",
+      "reading": "かな",
+      "meaning": "kana"
+    },
+    {
+      "word": "字体",
+      "reading": "じたい",
+      "meaning": "font, huruf"
+    },
+    {
+      "word": "黒字",
+      "reading": "くろじ",
+      "meaning": "saldo (angka) dalam keadaan hitam"
+    },
+    {
+      "word": "数字",
+      "reading": "すうじ",
+      "meaning": "angka, gambar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "苗字帯刀",
+      "reading": "みょうじたいとう",
+      "meaning": "right to bear a surname and to wear a sword (during the Edo period)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたの名字はどうつづるのですか。",
+      "reading": null,
+      "indonesian": "How do you spell your family name?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "名字は何とお読みするのでしょうか？",
+      "reading": null,
+      "indonesian": "How do you pronounce your last name?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの名字はどうつづるのですか。",
+      "reading": null,
+      "indonesian": "How do you spell your family name?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "名字は何ですか？",
+      "reading": null,
+      "indonesian": "What's your last name?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "私の名字は王です。",
+      "reading": null,
+      "indonesian": "My last name is Wang.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "名字は何ですか？",
+      "reading": null,
+      "indonesian": "What is your last name?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "トムの名字なんだっけ？",
+      "reading": null,
+      "indonesian": "What was Tom's last name?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "トムの名字なんだったっけ？",
+      "reading": null,
+      "indonesian": "What was Tom's last name?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "トムの名字なんだっけ？",
+      "reading": null,
+      "indonesian": "What was Tom's last name?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

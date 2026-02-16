@@ -1,0 +1,179 @@
+{
+  "definition": {
+    "word": "十",
+    "reading": "じゅう",
+    "romaji": "juu",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "ten",
+          "10"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "ten years of age"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "十分",
+      "reading": "じゅうぶん",
+      "meaning": "enough"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "十人十色",
+      "reading": "じゅうにんといろ",
+      "meaning": "several men, several minds",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "五十歩百歩",
+      "reading": "ごじっぽひゃっぽ",
+      "meaning": "six of one, half a dozen of the other",
+      "type": "idiom"
+    },
+    {
+      "word": "三十六計",
+      "reading": "さんじゅうろっけい",
+      "meaning": "the 36 (ancient Chinese military) strategies (of which the last resort was said to be beating a retreat)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "十字砲火",
+      "reading": "じゅうじほうか",
+      "meaning": "cross fire",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "十中八九",
+      "reading": "じっちゅうはっく",
+      "meaning": "in 8 or 9 cases out of ten",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "十日の菊",
+      "reading": "とおかのきく",
+      "meaning": "something that comes too late and is useless",
+      "type": "idiom"
+    },
+    {
+      "word": "十年一日",
+      "reading": "じゅうねんいちじつ",
+      "meaning": "without intermission for ten (long) years",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "十万億土",
+      "reading": "じゅうまんおくど",
+      "meaning": "eternity",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一から十まで",
+      "reading": "いちからじゅうまで",
+      "meaning": "from A to Z",
+      "type": "idiom"
+    },
+    {
+      "word": "十年一昔",
+      "reading": "じゅうねんひとむかし",
+      "meaning": "the pace of change makes ten years back seem like ancient history",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何と言ったら良いか分かりません。",
+      "reading": null,
+      "english": "I'm at a loss for words.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何と言ったらいいか・・・。",
+      "reading": null,
+      "english": "I just don't know what to say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何とも言いようがないなあ。",
+      "reading": null,
+      "english": "I just don't know what to say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "きみにちょっとしたものをもってきたよ。",
+      "reading": null,
+      "english": "I brought you a little something.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そんなことは起きないでしょう。",
+      "reading": null,
+      "english": "That won't happen.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "みんなもそうなのかな、と思うことくらいしかできない。",
+      "reading": null,
+      "english": "I can only wonder if this is the same for everyone else.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あとで行くね。",
+      "reading": null,
+      "english": "I'm going to go.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "そうしたらひとつ問題があって・・・。",
+      "reading": null,
+      "english": "Then there is a problem...",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "こんな馬鹿なことは言ったことが無い。",
+      "reading": null,
+      "english": "That's the stupidest thing I've ever said.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兄弟がいるとどんなだろうといつも思う。",
+      "reading": null,
+      "english": "I've always wondered what it'd be like to have siblings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

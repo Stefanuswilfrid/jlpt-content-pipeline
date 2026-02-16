@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "変わる",
+    "reading": "かわる",
+    "romaji": "kawaru",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to change",
+          "to be transformed",
+          "to be altered",
+          "to vary"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to move to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be different",
+          "to be uncommon",
+          "to be unusual"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "変化",
+      "reading": "へんか",
+      "meaning": "change"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "所変われば品変わる",
+      "reading": "ところかわればしなかわる",
+      "meaning": "so many countries, so many customs",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

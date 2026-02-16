@@ -1,0 +1,67 @@
+{
+  "definition": {
+    "word": "赤ちゃん",
+    "reading": "あかちゃん",
+    "romaji": "akachan",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "baby",
+          "infant"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "赤ん坊",
+      "reading": "あかんぼう",
+      "meaning": "baby"
+    },
+    {
+      "word": "真っ赤",
+      "reading": "まっか",
+      "meaning": "bright red"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ゆりかごの中の赤ちゃんはとてもかわいい。",
+      "reading": null,
+      "english": "The baby in the cradle is very pretty.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メアリーは来月赤ちゃんが生まれる。",
+      "reading": null,
+      "english": "Mary is going to have a baby next month.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その赤ちゃんはまだ歩けません。",
+      "reading": null,
+      "english": "The baby doesn't walk yet.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ダンスに行ってる間、母が赤ちゃんを見てくれます。",
+      "reading": null,
+      "english": "My mother will attend to the baby while I go to the dance.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

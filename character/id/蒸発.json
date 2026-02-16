@@ -1,0 +1,128 @@
+{
+  "definition": {
+    "word": "蒸発",
+    "reading": "じょうはつ",
+    "romaji": "jouhatsu",
+    "jlpt": "N2",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "penguapan; hilangnya secara tidak dapat dijelaskan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "disappearance (of a person)",
+          "vanishing without a trace"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発売",
+      "reading": "はつばい",
+      "meaning": "penjualan"
+    },
+    {
+      "word": "発想",
+      "reading": "はっそう",
+      "meaning": "ide; cara berpikir (sama seperti 考え方 (かんがえかた))"
+    },
+    {
+      "word": "蒸気",
+      "reading": "じょうき",
+      "meaning": "uap, embun"
+    },
+    {
+      "word": "発揮",
+      "reading": "はっき",
+      "meaning": "pameran, demonstrasi, tampilan"
+    },
+    {
+      "word": "水蒸気",
+      "reading": "すいじょうき",
+      "meaning": "uap air, uap"
+    },
+    {
+      "word": "発車",
+      "reading": "はっしゃ",
+      "meaning": "keberangkatan sebuah kendaraan"
+    },
+    {
+      "word": "発芽",
+      "reading": "はつが",
+      "meaning": "pengecambahan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "聞きましたわよ。ご両親が借金を残して蒸発したそうですわね。",
+      "reading": null,
+      "indonesian": "I've heard about it. Your parents disappeared, running out on their debt didn't they?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "水分は温められると蒸発する。",
+      "reading": null,
+      "indonesian": "Water evaporates when it is heated.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "暑い日に水は早く蒸発する。",
+      "reading": null,
+      "indonesian": "In hot weather, water evaporates quickly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水分は温められると蒸発する。",
+      "reading": null,
+      "indonesian": "Water evaporates when it is heated.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水は熱を加えると蒸発します。",
+      "reading": null,
+      "indonesian": "Water evaporates when it is heated.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "聞きましたわよ。ご両親が借金を残して蒸発したそうですわね。",
+      "reading": null,
+      "indonesian": "I've heard about it. Your parents disappeared, running out on their debt didn't they?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "暑い日に水は早く蒸発する。",
+      "reading": null,
+      "indonesian": "In hot weather, water evaporates quickly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

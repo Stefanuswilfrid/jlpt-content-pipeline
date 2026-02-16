@@ -1,0 +1,158 @@
+{
+  "definition": {
+    "word": "理科",
+    "reading": "りか",
+    "romaji": "rika",
+    "jlpt": "N2",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "science (natural sciences and related fields, incl. mathematics, engineering, medicine, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "faculties of science, engineering, medicine, etc. (at a university)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "science (as a school subject)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "原理",
+      "reading": "げんり",
+      "meaning": "principle"
+    },
+    {
+      "word": "学科",
+      "reading": "がっか",
+      "meaning": "subject (of study)"
+    },
+    {
+      "word": "外科",
+      "reading": "げか",
+      "meaning": "surgery (branch of medicine)"
+    },
+    {
+      "word": "合理",
+      "reading": "ごうり",
+      "meaning": "rationality"
+    },
+    {
+      "word": "内科",
+      "reading": "ないか",
+      "meaning": "internal medicine"
+    },
+    {
+      "word": "心理",
+      "reading": "しんり",
+      "meaning": "state of mind"
+    },
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "textbook"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "sorting"
+    },
+    {
+      "word": "無理",
+      "reading": "むり",
+      "meaning": "unreasonable"
+    },
+    {
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "ideal"
+    },
+    {
+      "word": "理論",
+      "reading": "りろん",
+      "meaning": "theory"
+    },
+    {
+      "word": "論理",
+      "reading": "ろんり",
+      "meaning": "logic"
+    },
+    {
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaning": "repair"
+    },
+    {
+      "word": "調理",
+      "reading": "ちょうり",
+      "meaning": "cooking"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "クリスは理科の授業で落ちこぼれそうです。",
+      "reading": null,
+      "english": "Chris is in a risky situation in science class.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは理科系の大学に進んだほうがいいよ。",
+      "reading": null,
+      "english": "You should go on to a technical college.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は理科と数学の両方が好きだ。",
+      "reading": null,
+      "english": "I like both science and math.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "クリスは理科の授業で落ちこぼれそうです。",
+      "reading": null,
+      "english": "Chris is in a risky situation in science class.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "クリスは理科の授業で落ちこぼれそうです。",
+      "reading": null,
+      "english": "Chris risks falling behind in the science class.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは理科系の大学に進んだほうがいいよ。",
+      "reading": null,
+      "english": "You should go on to a technical college.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "definition": {
+    "word": "無",
+    "reading": "む",
+    "romaji": "mu",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "nothing",
+          "naught",
+          "nought",
+          "nil",
+          "zero"
+        ]
+      },
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "un-",
+          "non-"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "free (of charge)"
+    },
+    {
+      "word": "有無",
+      "reading": "うむ",
+      "meaning": "existence or nonexistence"
+    },
+    {
+      "word": "無視",
+      "reading": "むし",
+      "meaning": "disregarding"
+    },
+    {
+      "word": "無駄",
+      "reading": "むだ",
+      "meaning": "futility"
+    },
+    {
+      "word": "無し",
+      "reading": "なし",
+      "meaning": "without"
+    },
+    {
+      "word": "無理",
+      "reading": "むり",
+      "meaning": "unreasonable"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "感慨無量",
+      "reading": "かんがいむりょう",
+      "meaning": "deep emotion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "荒唐無稽",
+      "reading": "こうとうむけい",
+      "meaning": "absurd",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "事実無根",
+      "reading": "じじつむこん",
+      "meaning": "groundless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "縦横無尽",
+      "reading": "じゅうおうむじん",
+      "meaning": "freely",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "傍若無人",
+      "reading": "ぼうじゃくぶじん",
+      "meaning": "behaving outrageously as though there were no one around",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無我夢中",
+      "reading": "むがむちゅう",
+      "meaning": "losing oneself (in)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無茶苦茶",
+      "reading": "むちゃくちゃ",
+      "meaning": "nonsensical",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無理難題",
+      "reading": "むりなんだい",
+      "meaning": "unreasonable demand",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有名無実",
+      "reading": "ゆうめいむじつ",
+      "meaning": "in name but not in reality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有耶無耶",
+      "reading": "うやむや",
+      "meaning": "indefinite",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "こんな馬鹿なことは言ったことが無い。",
+      "reading": null,
+      "english": "That's the stupidest thing I've ever said.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつまでかかっても全部を説明するのは無理だ。",
+      "reading": null,
+      "english": "It would take forever for me to explain everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "愛のない人生など全く無意味だ。",
+      "reading": null,
+      "english": "Life without love is just totally pointless.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

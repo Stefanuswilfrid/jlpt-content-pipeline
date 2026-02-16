@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "看病",
+    "reading": "かんびょう",
+    "romaji": "kanbyou",
+    "jlpt": "N2",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "merawat (pasien)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "看板",
+      "reading": "かんばん",
+      "meaning": "tanda, papan nama"
+    },
+    {
+      "word": "病む",
+      "reading": "やむ",
+      "meaning": "jatuh sakit, sedang sakit"
+    },
+    {
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "RSUD"
+    },
+    {
+      "word": "病気",
+      "reading": "びょうき",
+      "meaning": "penyakit; sakit"
+    },
+    {
+      "word": "看護婦",
+      "reading": "かんごふ",
+      "meaning": "perawat (perempuan)"
+    },
+    {
+      "word": "看護",
+      "reading": "かんご",
+      "meaning": "perawatan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "医者は病気の老人を看病して夜を明かした。",
+      "reading": null,
+      "indonesian": "The doctor sat up all night with the sick old man.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "病人には、つきっきりの看病が必要だった。",
+      "reading": null,
+      "indonesian": "The sick man required constant attention.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "医者は病気の老人を看病して夜を明かした。",
+      "reading": null,
+      "indonesian": "The doctor sat up all night with the sick old man.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

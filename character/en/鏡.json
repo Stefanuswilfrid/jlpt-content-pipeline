@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "鏡",
+    "reading": "かがみ",
+    "romaji": "kagami",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mirror",
+          "looking-glass"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "barrel head"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "page added at the beginning of a document mentioning its purpose, date, author, etc."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "mirror-shaped mochi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "眼鏡",
+      "reading": "メガネ",
+      "meaning": "glasses"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "色眼鏡で見る",
+      "reading": "いろめがねでみる",
+      "meaning": "to look at from a biased viewpoint",
+      "type": "idiom"
+    },
+    {
+      "word": "明鏡止水",
+      "reading": "めいきょうしすい",
+      "meaning": "clear and serene (as a polished mirror and still water)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鏡花水月",
+      "reading": "きょうかすいげつ",
+      "meaning": "flowers reflected on a mirror and the moon reflected on the water's surface",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "目は心の鏡",
+      "reading": "めはこころのかがみ",
+      "meaning": "the eyes are the windows to the soul",
+      "type": "proverb"
+    },
+    {
+      "word": "子は親の鏡",
+      "reading": "こはおやのかがみ",
+      "meaning": "children are a reflection of their parents",
+      "type": "proverb"
+    },
+    {
+      "word": "子供は親の鏡",
+      "reading": "こどもはおやのかがみ",
+      "meaning": "children are a reflection of their parents",
+      "type": "proverb"
+    },
+    {
+      "word": "破鏡再び照らさず",
+      "reading": "はきょうふたたびてらさず",
+      "meaning": "a broken relationship can never be repaired",
+      "type": "proverb"
+    },
+    {
+      "word": "明鏡も裏を照らさず",
+      "reading": "めいきょうもうらをてらさず",
+      "meaning": "even Homer nods",
+      "type": "proverb"
+    },
+    {
+      "word": "夫婦は合わせ鏡",
+      "reading": "ふうふはあわせかがみ",
+      "meaning": "spouses are mirror images of each other",
+      "type": "proverb"
+    },
+    {
+      "word": "落花枝に帰らず破鏡再び照らさず",
+      "reading": "らっかえだにかえらずはきょうふたたびてらさず",
+      "meaning": "fallen blossom doesn't return to the branch, a broken mirror can not be made to shine",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

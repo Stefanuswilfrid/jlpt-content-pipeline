@@ -1,0 +1,57 @@
+{
+  "definition": {
+    "word": "県",
+    "reading": "けん",
+    "romaji": "ken",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "prefecture (of Japan)",
+          "county (of China, Taiwan, Norway, etc.)",
+          "department (of France)",
+          "province (of Italy, Spain, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "県庁",
+      "reading": "けんちょう",
+      "meaning": "prefectural office"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その県知事は７月の選挙で勝利をおさめました。",
+      "reading": null,
+      "english": "The prefectural governor got the upper hand in the July elections.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ああ、多分この県道まっすぐで・・・。",
+      "reading": null,
+      "english": "Ah, I reckon you go straight down this prefectural road ...",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "兵庫県の人口はどれぐらいですか。",
+      "reading": null,
+      "english": "What is the population of Hyogo prefecture?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

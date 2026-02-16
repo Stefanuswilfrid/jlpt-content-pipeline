@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "思いつく",
+    "reading": "おもいつく",
+    "romaji": "omoitsuku",
+    "jlpt": "N3",
+    "frequency": 20250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to think of",
+          "to hit upon",
+          "to come into one's mind",
+          "to be struck with an idea"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to remember",
+          "to recall"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "思う",
+      "reading": "おもう",
+      "meaning": "to think"
+    },
+    {
+      "word": "思い出す",
+      "reading": "おもいだす",
+      "meaning": "to recall"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

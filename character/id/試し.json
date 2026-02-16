@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "試し",
+    "reading": "ためし",
+    "romaji": "tameshi",
+    "jlpt": "N3",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "percobaan",
+          "tes"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "pertandingan, permainan, kompetisi"
+    },
+    {
+      "word": "試験",
+      "reading": "しけん",
+      "meaning": "ujian"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "物は試し",
+      "reading": "ものはためし",
+      "meaning": "the proof of the pudding is in the eating",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "試してみる。",
+      "reading": null,
+      "indonesian": "I try.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "運試しだ、やってごらん。",
+      "reading": null,
+      "indonesian": "Take your chance, and do it.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "お試しください。",
+      "reading": null,
+      "indonesian": "Please try one.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "わかった、試しにやってみよう。",
+      "reading": null,
+      "indonesian": "Ok, let's give it a try.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "物は試し。",
+      "reading": null,
+      "indonesian": "You'll never know unless you try.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ものは試しだよ。",
+      "reading": null,
+      "indonesian": "You'll never know unless you try.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "試してみなければ決して分からないだろう。",
+      "reading": null,
+      "indonesian": "You'll never know unless you try.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう一度試したが失敗しただけだった。",
+      "reading": null,
+      "indonesian": "I tried it again, only to fail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もうひとつ別のを試してごらん。",
+      "reading": null,
+      "indonesian": "Try on another one.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まずぼくたちは君の計画を試してみなければならない。",
+      "reading": null,
+      "indonesian": "First of all, we have to put your design to the test.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

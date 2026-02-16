@@ -1,0 +1,50 @@
+{
+  "definition": {
+    "word": "琴",
+    "reading": "こと",
+    "romaji": "koto",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "koto (13-stringed Japanese zither)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "zheng (Chinese zither)",
+          "guzheng"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "琴瑟相和す",
+      "reading": "きんしつあいわす",
+      "meaning": "to be happily married",
+      "type": "idiom"
+    },
+    {
+      "word": "琴瑟相和",
+      "reading": "きんしつそうわ",
+      "meaning": "pair of persons (especially a married couple) being intimate and harmonious",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "琴線に触れる",
+      "reading": "きんせんにふれる",
+      "meaning": "to strike a chord",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

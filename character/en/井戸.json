@@ -1,0 +1,121 @@
+{
+  "definition": {
+    "word": "井戸",
+    "reading": "いど",
+    "romaji": "ido",
+    "jlpt": "N2",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "water well"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "瀬戸物",
+      "reading": "せともの",
+      "meaning": "earthenware"
+    },
+    {
+      "word": "雨戸",
+      "reading": "あまど",
+      "meaning": "sliding storm shutter"
+    },
+    {
+      "word": "戸棚",
+      "reading": "とだな",
+      "meaning": "cupboard"
+    },
+    {
+      "word": "戸",
+      "reading": "と",
+      "meaning": "door (esp. Japanese-style)"
+    },
+    {
+      "word": "戸籍",
+      "reading": "こせき",
+      "meaning": "family register"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "井戸は水を得られる所である。",
+      "reading": null,
+      "english": "A well is a place where you can get water.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "井戸の水がかれてしまった。",
+      "reading": null,
+      "english": "The well has run dry.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "井戸には少しの水も無かった。",
+      "reading": null,
+      "english": "There was no water in the well.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "井戸にはほとんど水がなかった。",
+      "reading": null,
+      "english": "There was little water in the well.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "井戸が干上がった。",
+      "reading": null,
+      "english": "The well ran dry.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "井戸から水をくんできてください。",
+      "reading": null,
+      "english": "Please draw water from the well.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その井戸はひあがっている。",
+      "reading": null,
+      "english": "The well is dry.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その井戸は涸れてるんです。",
+      "reading": null,
+      "english": "The well is dry.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この井戸の水は飲むのに適している。",
+      "reading": null,
+      "english": "The water of this well is good to drink.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

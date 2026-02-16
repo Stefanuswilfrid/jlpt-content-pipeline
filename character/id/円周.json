@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "円周",
+    "reading": "えんしゅう",
+    "romaji": "enshuu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "lingkar"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "周辺",
+      "reading": "しゅうへん",
+      "meaning": "keliling, perifer"
+    },
+    {
+      "word": "楕円",
+      "reading": "だえん",
+      "meaning": "elips"
+    },
+    {
+      "word": "円",
+      "reading": "えん",
+      "meaning": "lingkaran"
+    },
+    {
+      "word": "周り",
+      "reading": "まわり",
+      "meaning": "lingkungan"
+    },
+    {
+      "word": "周期",
+      "reading": "しゅうき",
+      "meaning": "siklus, periode"
+    },
+    {
+      "word": "円満",
+      "reading": "えんまん",
+      "meaning": "harmoni, kedamaian, kelancaran"
+    },
+    {
+      "word": "周囲",
+      "reading": "しゅうい",
+      "meaning": "sekeliling, keliling, lingkungan"
+    },
+    {
+      "word": "丸",
+      "reading": "まる",
+      "meaning": "lingkaran, penuh (bulan)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "円周の長さの求め方ってどうでしたっけ？忘れました。",
+      "reading": null,
+      "indonesian": "How do you derive the length of the circumference? I've forgotten.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "円周から直径を求めることは可能ですか？",
+      "reading": null,
+      "indonesian": "Is it possible to determine the diameter from the circumference?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "円周から直径を求めることは可能ですか？",
+      "reading": null,
+      "indonesian": "Is it possible to determine the diameter from the circumference?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "円周の長さの求め方ってどうでしたっけ？忘れました。",
+      "reading": null,
+      "indonesian": "How do you derive the length of the circumference? I've forgotten.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

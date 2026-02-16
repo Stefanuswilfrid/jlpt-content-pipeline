@@ -1,0 +1,35 @@
+{
+  "definition": {
+    "word": "錆",
+    "reading": "さび",
+    "romaji": "sabi",
+    "jlpt": "N2",
+    "frequency": 22750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rust"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "錆びる",
+      "reading": "さびる",
+      "meaning": "to rust"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "身から出た錆",
+      "reading": "みからでたさび",
+      "meaning": "paying for one's mistakes",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

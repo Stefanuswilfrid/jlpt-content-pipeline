@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "表",
+    "reading": "おもて",
+    "romaji": "omote",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "surface"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "face (i.e. the visible side of an object)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "front (of a building, etc.)",
+          "obverse side (i.e. \"head\") of a coin"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "outside",
+          "exterior"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "appearance"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "代表",
+      "reading": "だいひょう",
+      "meaning": "representation"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "announcement"
+    },
+    {
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "expression"
+    },
+    {
+      "word": "表情",
+      "reading": "ひょうじょう",
+      "meaning": "facial expression"
+    },
+    {
+      "word": "表面",
+      "reading": "ひょうめん",
+      "meaning": "surface"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "意思表示",
+      "reading": "いしひょうじ",
+      "meaning": "expressing one's feelings",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "表裏一体",
+      "reading": "ひょうりいったい",
+      "meaning": "the two views (of an object) referring to the same thing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "名は体を表す",
+      "reading": "なはたいをあらわす",
+      "meaning": "names and natures do often agree",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

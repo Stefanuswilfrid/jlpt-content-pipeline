@@ -1,0 +1,112 @@
+{
+  "definition": {
+    "word": "原始",
+    "reading": "げんし",
+    "romaji": "genshi",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "origin",
+          "beginning",
+          "genesis"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "primeval",
+          "primordial",
+          "primitive"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "原産",
+      "reading": "げんさん",
+      "meaning": "place of origin"
+    },
+    {
+      "word": "原理",
+      "reading": "げんり",
+      "meaning": "principle"
+    },
+    {
+      "word": "原稿",
+      "reading": "げんこう",
+      "meaning": "manuscript"
+    },
+    {
+      "word": "原料",
+      "reading": "げんりょう",
+      "meaning": "raw materials"
+    },
+    {
+      "word": "始終",
+      "reading": "しじゅう",
+      "meaning": "continuously"
+    },
+    {
+      "word": "原子",
+      "reading": "げんし",
+      "meaning": "atom"
+    },
+    {
+      "word": "始末",
+      "reading": "しまつ",
+      "meaning": "management"
+    },
+    {
+      "word": "原型",
+      "reading": "げんけい",
+      "meaning": "prototype"
+    },
+    {
+      "word": "始発",
+      "reading": "しはつ",
+      "meaning": "first departure (of the day)"
+    },
+    {
+      "word": "原形",
+      "reading": "げんけい",
+      "meaning": "original form"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その人類学者は原始文化に関する講演をした。",
+      "reading": null,
+      "english": "The anthropologist delivered a lecture on primitive cultures.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "こちらはあちらに比べれば全く原始的だった。",
+      "reading": null,
+      "english": "This was quite primitive compared to that.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "子供たちはキャンプに行くと、原始的な生活を楽しむ。",
+      "reading": null,
+      "english": "When the boys go camping, they enjoy living in a primitive way.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

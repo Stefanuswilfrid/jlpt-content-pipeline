@@ -1,0 +1,135 @@
+{
+  "definition": {
+    "word": "液体",
+    "reading": "えきたい",
+    "romaji": "ekitai",
+    "jlpt": "N2",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "liquid"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "死体",
+      "reading": "したい",
+      "meaning": "dead body"
+    },
+    {
+      "word": "体系",
+      "reading": "たいけい",
+      "meaning": "system"
+    },
+    {
+      "word": "体制",
+      "reading": "たいせい",
+      "meaning": "order"
+    },
+    {
+      "word": "汁",
+      "reading": "しる",
+      "meaning": "juice"
+    },
+    {
+      "word": "個体",
+      "reading": "こたい",
+      "meaning": "individual"
+    },
+    {
+      "word": "文体",
+      "reading": "ぶんたい",
+      "meaning": "literary style"
+    },
+    {
+      "word": "体積",
+      "reading": "たいせき",
+      "meaning": "capacity"
+    },
+    {
+      "word": "立体",
+      "reading": "りったい",
+      "meaning": "solid body"
+    },
+    {
+      "word": "人体",
+      "reading": "じんたい",
+      "meaning": "human body"
+    },
+    {
+      "word": "身体",
+      "reading": "しんたい",
+      "meaning": "body"
+    },
+    {
+      "word": "肉体",
+      "reading": "にくたい",
+      "meaning": "the body"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "液体は気体より重い。",
+      "reading": null,
+      "english": "Liquids are heavier than gases.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その液体はうまくこせない。",
+      "reading": null,
+      "english": "The liquid does not strain well.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "スポンジは液体を吸い取る。",
+      "reading": null,
+      "english": "A sponge absorbs liquids.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この液体は３つの要素に分解できる。",
+      "reading": null,
+      "english": "This liquid can be resolved into three elements.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "物体は固体、液体、気体として存在する。",
+      "reading": null,
+      "english": "Matter can exist as a solid, liquid, or gas.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "動物は主として液体で構成される体を持つ。",
+      "reading": null,
+      "english": "Animals have bodies largely composed of fluid.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "水は液体である。",
+      "reading": null,
+      "english": "Water is a liquid.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

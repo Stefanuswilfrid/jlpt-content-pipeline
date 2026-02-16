@@ -1,0 +1,105 @@
+{
+  "definition": {
+    "word": "州",
+    "reading": "しゅう",
+    "romaji": "shuu",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "state (of the US, Australia, India, Germany, etc.)",
+          "province (e.g. of Canada)",
+          "county (e.g. of the UK)",
+          "region (e.g. of Italy)",
+          "canton",
+          "oblast"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "continent"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "province (of Japan)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "province (of ancient China)",
+          "prefecture",
+          "department"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は九州へ行ったことがありますか。",
+      "reading": null,
+      "english": "Have you ever been to Kyushu?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "沖縄は本州よりも中国に近いということに気付いてましたか。",
+      "reading": null,
+      "english": "Are you aware that Okinawa is closer to China than to Honshu?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ランシングはミシガンの州都である。",
+      "reading": null,
+      "english": "Lansing is the state capital of Michigan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "フェニックスはアリゾナの州都である。",
+      "reading": null,
+      "english": "Phoenix is the capital of Arizona.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ネッドはユタ州の出身。",
+      "reading": null,
+      "english": "Ned comes from the state of Utah.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ニューヨーク州はギリシャとほぼ同じ大きさだ。",
+      "reading": null,
+      "english": "New York State is almost as large as Greece.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

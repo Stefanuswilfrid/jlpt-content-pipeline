@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "開放",
+    "reading": "かいほう",
+    "romaji": "kaihou",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "opening (a door, window, etc.)",
+          "leaving open"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "opening up (e.g. to the public)",
+          "allowing (public) access"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "展開",
+      "reading": "てんかい",
+      "meaning": "development"
+    },
+    {
+      "word": "解放",
+      "reading": "かいほう",
+      "meaning": "release"
+    },
+    {
+      "word": "開会",
+      "reading": "かいかい",
+      "meaning": "opening of a meeting"
+    },
+    {
+      "word": "放る",
+      "reading": "ほうる",
+      "meaning": "to throw"
+    },
+    {
+      "word": "開通",
+      "reading": "かいつう",
+      "meaning": "opening (of a new road, railway, etc.)"
+    },
+    {
+      "word": "開発",
+      "reading": "かいはつ",
+      "meaning": "development"
+    },
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaning": "broadcasting"
+    },
+    {
+      "word": "開催",
+      "reading": "かいさい",
+      "meaning": "holding (a conference, exhibition, etc.)"
+    },
+    {
+      "word": "開始",
+      "reading": "かいし",
+      "meaning": "start"
+    },
+    {
+      "word": "打開",
+      "reading": "だかい",
+      "meaning": "break in the deadlock"
+    },
+    {
+      "word": "追放",
+      "reading": "ついほう",
+      "meaning": "exile"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "門戸開放",
+      "reading": "もんこかいほう",
+      "meaning": "open door policy",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "その公園は全ての人に開放されています。",
+      "reading": null,
+      "english": "The park is open to everybody.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "婦人に開放されている職業は多い。",
+      "reading": null,
+      "english": "There are many careers open to women.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "婦人に開放されている職業は多い。",
+      "reading": null,
+      "english": "There are many careers open to women.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その公園は全ての人に開放されています。",
+      "reading": null,
+      "english": "The park is open to everybody.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

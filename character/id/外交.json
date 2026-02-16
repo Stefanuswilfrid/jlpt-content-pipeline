@@ -1,0 +1,130 @@
+{
+  "definition": {
+    "word": "外交",
+    "reading": "がいこう",
+    "romaji": "gaikou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "diplomasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "selling (e.g. door-to-door)",
+          "canvassing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "海外",
+      "reading": "かいがい",
+      "meaning": "asing, luar negeri, di luar negeri"
+    },
+    {
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning": "tukar, ganti"
+    },
+    {
+      "word": "意外",
+      "reading": "いがい",
+      "meaning": "tak terduga, mengejutkan"
+    },
+    {
+      "word": "例外",
+      "reading": "れいがい",
+      "meaning": "pengecualian"
+    },
+    {
+      "word": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "jalan-jalan, pergi keluar"
+    },
+    {
+      "word": "交際",
+      "reading": "こうさい",
+      "meaning": "persahabatan, pergaulan, kenalan"
+    },
+    {
+      "word": "外国",
+      "reading": "がいこく",
+      "meaning": "negara asing; luar negeri"
+    },
+    {
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "orang asing"
+    },
+    {
+      "word": "交流",
+      "reading": "こうりゅう",
+      "meaning": "pertukaran; arus bolak-balik"
+    },
+    {
+      "word": "外",
+      "reading": "そと",
+      "meaning": "lainnya, sisanya"
+    },
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "lalu lintas, transportasi"
+    },
+    {
+      "word": "郊外",
+      "reading": "こうがい",
+      "meaning": "pinggiran kota, daerah terpencil"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "外交辞令",
+      "reading": "がいこうじれい",
+      "meaning": "diplomatic turn of phrase",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "善隣外交",
+      "reading": "ぜんりんがいこう",
+      "meaning": "good-neighbor diplomacy",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それは外交辞令だ。",
+      "reading": null,
+      "indonesian": "Those words are mere diplomatic niceties.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その両国は外交関係がない。",
+      "reading": null,
+      "indonesian": "The two countries do not have diplomatic relations.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その会議には１５０人の外交官がきた。",
+      "reading": null,
+      "indonesian": "The conference drew 150 diplomats.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

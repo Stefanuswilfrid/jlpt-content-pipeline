@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "きちんと",
+    "reading": "きちんと",
+    "romaji": "kichinto",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "properly",
+          "accurately",
+          "exactly",
+          "precisely",
+          "regularly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "neatly",
+          "tidily",
+          "orderly"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外出前にドアにきちんとカギをかけるようにしなさい。",
+      "reading": null,
+      "english": "See to it that the door is locked before you leave.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "モーターがきちんと動かない。",
+      "reading": null,
+      "english": "The motor does not function properly.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メアリーは宿題を時間通りにきちんとやるべきです。",
+      "reading": null,
+      "english": "Mary ought to do her homework on time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すべてきちんと整っている。",
+      "reading": null,
+      "english": "Everything is in good order.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "definition": {
+    "word": "接ぐ",
+    "reading": "つぐ",
+    "romaji": "tsugu",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk menggabungkan; untuk menyatukan; untuk memasang (tulang); untuk mencangkok (pohon)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to graft (onto a tree)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "接する",
+      "reading": "せっする",
+      "meaning": "untuk melayani (seseorang); untuk bergaul dengan"
+    },
+    {
+      "word": "応接",
+      "reading": "おうせつ",
+      "meaning": "penerimaan"
+    },
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaning": "langsung, seketika, dari sumber pertama"
+    },
+    {
+      "word": "面接",
+      "reading": "めんせつ",
+      "meaning": "wawancara"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "木に竹を接ぐ",
+      "reading": "きにたけをつぐ",
+      "meaning": "to sew a fox's skin to the lion's",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

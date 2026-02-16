@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "布団",
+    "reading": "ふとん",
+    "romaji": "futon",
+    "jlpt": "N4",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kasur lipat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "布",
+      "reading": "ぬの",
+      "meaning": "kain"
+    },
+    {
+      "word": "財布",
+      "reading": "さいふ",
+      "meaning": "dompet"
+    },
+    {
+      "word": "毛布",
+      "reading": "もうふ",
+      "meaning": "selimut"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "墓に布団は着せられぬ",
+      "reading": "はかにふとんはきせられぬ",
+      "meaning": "it is too late to show filial piety once your parents are dead",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

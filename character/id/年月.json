@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "年月",
+    "reading": "としつき",
+    "romaji": "toshitsuki",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bulan dan tahun"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "年中",
+      "reading": "ねんじゅう",
+      "meaning": "sepanjang tahun, selalu, setiap hari"
+    },
+    {
+      "word": "成年",
+      "reading": "せいねん",
+      "meaning": "mayoritas, usia dewasa"
+    },
+    {
+      "word": "年間",
+      "reading": "ねんかん",
+      "meaning": "tahun"
+    },
+    {
+      "word": "少年",
+      "reading": "しょうねん",
+      "meaning": "anak laki-laki, remaja"
+    },
+    {
+      "word": "年齢",
+      "reading": "ねんれい",
+      "meaning": "usia, tahun"
+    },
+    {
+      "word": "青年",
+      "reading": "せいねん",
+      "meaning": "pemuda, pria muda"
+    },
+    {
+      "word": "年代",
+      "reading": "ねんだい",
+      "meaning": "zaman, era, periode"
+    },
+    {
+      "word": "年鑑",
+      "reading": "ねんかん",
+      "meaning": "buku tahunan"
+    },
+    {
+      "word": "月給",
+      "reading": "げっきゅう",
+      "meaning": "gaji bulanan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ここに生年月日を書いてください。",
+      "reading": null,
+      "indonesian": "Write down your date of birth here.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたの生年月日を書きなさい。",
+      "reading": null,
+      "indonesian": "Write the date of your birth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "２０年とは長い年月だ。",
+      "reading": null,
+      "indonesian": "Twenty years is a long time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "１０年というのは、長い年月だ。",
+      "reading": null,
+      "indonesian": "Ten years is a long time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

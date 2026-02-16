@@ -1,0 +1,83 @@
+{
+  "definition": {
+    "word": "メモ",
+    "reading": "メモ",
+    "romaji": "memo",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "note",
+          "memo",
+          "memorandum"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "メモを読んで回してください。",
+      "reading": null,
+      "english": "Please pass the note around.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このメモを回してください。",
+      "reading": null,
+      "english": "Please pass the note around.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メモを取りなさい。",
+      "reading": null,
+      "english": "You should make notes.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "メモリが足りないのかなぁ。",
+      "reading": null,
+      "english": "I don't have enough RAM.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その文書にはメモがクリップでつけられていた。",
+      "reading": null,
+      "english": "A note was attached to the document with a paper clip.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あのメモはどこにあるのですか。",
+      "reading": null,
+      "english": "Where has that memo got to?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "何でもかんでもメモをしますがあとで使い物になりません。",
+      "reading": null,
+      "english": "I note down absolutely everything, but they're no good to me afterwards.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "探す",
+    "reading": "さがす",
+    "romaji": "sagasu",
+    "jlpt": "N2",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to search for",
+          "to look for",
+          "to hunt for",
+          "to seek"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to search (a house, pocket, etc.)",
+          "to search through",
+          "to rummage in (e.g. a drawer)",
+          "to fish around"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "探る",
+      "reading": "さぐる",
+      "meaning": "to feel around for"
+    },
+    {
+      "word": "探検",
+      "reading": "たんけん",
+      "meaning": "exploration"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "草の根を分けて探す",
+      "reading": "くさのねをわけてさがす",
+      "meaning": "to search every square inch",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

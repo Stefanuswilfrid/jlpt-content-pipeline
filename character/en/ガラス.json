@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "硝子",
+    "reading": "ガラス",
+    "romaji": "garasu",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "glass",
+          "pane"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "子",
+      "reading": "こ",
+      "meaning": "child"
+    },
+    {
+      "word": "息子",
+      "reading": "むすこ",
+      "meaning": "son"
+    },
+    {
+      "word": "砂",
+      "reading": "すな",
+      "meaning": "sand"
+    },
+    {
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaning": "tune"
+    },
+    {
+      "word": "女の子",
+      "reading": "おんなのこ",
+      "meaning": "girl"
+    },
+    {
+      "word": "男の子",
+      "reading": "おとこのこ",
+      "meaning": "boy"
+    },
+    {
+      "word": "王子",
+      "reading": "おうじ",
+      "meaning": "prince"
+    },
+    {
+      "word": "菓子",
+      "reading": "かし",
+      "meaning": "confectionery"
+    },
+    {
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "hat"
+    },
+    {
+      "word": "お菓子",
+      "reading": "おかし",
+      "meaning": "confections"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "フロントガラスをふきますか。",
+      "reading": null,
+      "english": "Should I clean your windshield?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ビールびんはガラスでできている。",
+      "reading": null,
+      "english": "Beer bottles are made of glass.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

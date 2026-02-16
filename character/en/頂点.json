@@ -1,0 +1,142 @@
+{
+  "definition": {
+    "word": "頂点",
+    "reading": "ちょうてん",
+    "romaji": "chouten",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "vertex",
+          "apex"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "top (e.g. of a mountain)",
+          "summit",
+          "peak"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "top (of a profession, field, etc.)",
+          "summit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "peak (of popularity, a boom, etc.)",
+          "height (e.g. of prosperity)",
+          "apex",
+          "zenith",
+          "climax"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "重点",
+      "reading": "じゅうてん",
+      "meaning": "important point"
+    },
+    {
+      "word": "地点",
+      "reading": "ちてん",
+      "meaning": "spot"
+    },
+    {
+      "word": "点数",
+      "reading": "てんすう",
+      "meaning": "marks"
+    },
+    {
+      "word": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "weak point"
+    },
+    {
+      "word": "満点",
+      "reading": "まんてん",
+      "meaning": "perfect score"
+    },
+    {
+      "word": "採点",
+      "reading": "さいてん",
+      "meaning": "marking"
+    },
+    {
+      "word": "焦点",
+      "reading": "しょうてん",
+      "meaning": "focus"
+    },
+    {
+      "word": "終点",
+      "reading": "しゅうてん",
+      "meaning": "terminus"
+    },
+    {
+      "word": "句読点",
+      "reading": "くとうてん",
+      "meaning": "punctuation mark"
+    },
+    {
+      "word": "零点",
+      "reading": "れいてん",
+      "meaning": "zero (points, marks)"
+    },
+    {
+      "word": "得点",
+      "reading": "とくてん",
+      "meaning": "scoring"
+    },
+    {
+      "word": "視点",
+      "reading": "してん",
+      "meaning": "point of view"
+    },
+    {
+      "word": "観点",
+      "reading": "かんてん",
+      "meaning": "point of view"
+    },
+    {
+      "word": "原点",
+      "reading": "げんてん",
+      "meaning": "starting point"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "五角柱の頂点の数と面の数は，それぞれいくつですか。",
+      "reading": null,
+      "english": "How many vertices and faces does a pentagonal prism have?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "五角柱の頂点の数と面の数は，それぞれいくつですか。",
+      "reading": null,
+      "english": "How many vertices and faces does a pentagonal prism have?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

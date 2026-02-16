@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "其のまま",
+    "reading": "そのまま",
+    "romaji": "sonomama",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "without change",
+          "as is"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "just like",
+          "extremely similar"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "immediately",
+          "just after",
+          "without a pause"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "その他",
+      "reading": "そのほか",
+      "meaning": "the rest"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ドアをそのままにしておいてはいけません。",
+      "reading": null,
+      "english": "The door must not be left open.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのままでお待ちください。",
+      "reading": null,
+      "english": "Hold on, please.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それで、弟は出発した。兄はそのまま残った。",
+      "reading": null,
+      "english": "Then the younger brother set off, and the elder remained behind.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その箱はそのままにしておきなさい。",
+      "reading": null,
+      "english": "Leave that box where it is.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのままでお待ち下さい。",
+      "reading": null,
+      "english": "Please hold on.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのまま、まっすぐ行きなさい。",
+      "reading": null,
+      "english": "Keep straight on!",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

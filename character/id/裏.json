@@ -1,0 +1,145 @@
+{
+  "definition": {
+    "word": "内",
+    "reading": "うち",
+    "romaji": "uchi",
+    "jlpt": "N4",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "sisi sebaliknya",
+          "belakang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "while (e.g. one is young)",
+          "during",
+          "within (e.g. a day)",
+          "in the course of"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "among",
+          "amongst",
+          "(out) of",
+          "between"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "in (secret, chaos, poverty, etc.)",
+          "amidst",
+          "with (e.g. success)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "within oneself",
+          "one's feelings",
+          "inner thoughts"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "informasi, panduan"
+    },
+    {
+      "word": "以内",
+      "reading": "いない",
+      "meaning": "di dalam, kurang dari (tidak lebih dari)"
+    },
+    {
+      "word": "家内",
+      "reading": "かない",
+      "meaning": "istri (sendiri)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "内憂外患",
+      "reading": "ないゆうがいかん",
+      "meaning": "troubles both at home and abroad",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "外柔内剛",
+      "reading": "がいじゅうないごう",
+      "meaning": "gentle but firm",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "内政干渉",
+      "reading": "ないせいかんしょう",
+      "meaning": "interference in the domestic affairs of another country",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "内股膏薬",
+      "reading": "うちまたこうやく",
+      "meaning": "double-dealer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "内柔外剛",
+      "reading": "ないじゅうがいごう",
+      "meaning": "tough on the outside but soft at heart",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "海内無双",
+      "reading": "かいだいむそう",
+      "meaning": "unparalleled in the whole country",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "外剛内柔",
+      "reading": "がいごうないじゅう",
+      "meaning": "being tough on the outside but soft at heart",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "内剛外柔",
+      "reading": "ないごうがいじゅう",
+      "meaning": "gentle on the outside but tough on the inside",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "内疎外親",
+      "reading": "ないそがいしん",
+      "meaning": "superficially cordial but actually uninterested",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "腹も身の内",
+      "reading": "はらもみのうち",
+      "meaning": "moderation is its own medicine",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

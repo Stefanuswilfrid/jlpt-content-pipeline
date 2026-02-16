@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "直す",
+    "reading": "なおす",
+    "romaji": "naosu",
+    "jlpt": "N4",
+    "frequency": 18750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mengoreksi (v.t.); untuk memperbaiki"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to change",
+          "to alter",
+          "to convert",
+          "to translate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to put back",
+          "to put away"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cure",
+          "to heal"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to move up",
+          "to promote"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたはこの文を書き直すべきです。",
+      "reading": null,
+      "indonesian": "You should rewrite this sentence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "かけ直すよ。",
+      "reading": null,
+      "indonesian": "I'll ring you back.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "直すのに、どのくらい時間がかかりますか。",
+      "reading": null,
+      "indonesian": "How long does it take to alter it?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

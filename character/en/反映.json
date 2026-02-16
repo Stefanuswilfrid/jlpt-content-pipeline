@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "反映",
+    "reading": "はんえい",
+    "romaji": "han'ei",
+    "jlpt": "N2",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reflection (of light)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "reflection (of society, attitudes, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "application (of an update, changes, etc.)",
+          "taking effect"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "反乱",
+      "reading": "はんらん",
+      "meaning": "insurrection"
+    },
+    {
+      "word": "映画館",
+      "reading": "えいがかん",
+      "meaning": "movie theatre"
+    },
+    {
+      "word": "反る",
+      "reading": "そる",
+      "meaning": "to warp"
+    },
+    {
+      "word": "映える",
+      "reading": "はえる",
+      "meaning": "to shine"
+    },
+    {
+      "word": "反感",
+      "reading": "はんかん",
+      "meaning": "antipathy"
+    },
+    {
+      "word": "反射",
+      "reading": "はんしゃ",
+      "meaning": "reflection"
+    },
+    {
+      "word": "違反",
+      "reading": "いはん",
+      "meaning": "violation"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私の目は夢を反映する海である。",
+      "reading": null,
+      "english": "My eyes are an ocean in which my dreams are reflected.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私の目は夢を反映する海である。",
+      "reading": null,
+      "english": "My eyes are an ocean in which my dreams are reflected.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "テレビに映し出されるものは、いわば実社会の反映である。",
+      "reading": null,
+      "english": "What is shown on television is, as it were, a reflection of what society is like.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この数字は原油輸入減を反映している。",
+      "reading": null,
+      "english": "This figure is a mirror of the decrease in imports of crude oil.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ある国の風習、習慣はその国の文化を反映している。",
+      "reading": null,
+      "english": "The manners and customs of a country reflect its culture.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "新聞は世論を反映する。",
+      "reading": null,
+      "english": "The newspaper reflects public opinion.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "社会の価値観はその伝統の中に反映されている。",
+      "reading": null,
+      "english": "A society's values are reflected in its traditions.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

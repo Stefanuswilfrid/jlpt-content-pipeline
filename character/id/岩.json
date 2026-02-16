@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "岩",
+    "reading": "いわ",
+    "romaji": "iwa",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "batu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "crag"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "溶岩",
+      "reading": "ようがん",
+      "meaning": "lahar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "涓滴岩を穿つ",
+      "reading": "けんてきいわをうがつ",
+      "meaning": "slow but steady wins the race",
+      "type": "proverb"
+    },
+    {
+      "word": "思う念力岩をも通す",
+      "reading": "おもうねんりきいわをもとおす",
+      "meaning": "where there is a will, there is a way",
+      "type": "proverb"
+    },
+    {
+      "word": "女の一念岩をも通す",
+      "reading": "おんなのいちねんいわをもとおす",
+      "meaning": "women will have their wills",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "岩の間を小さな小川が流れていた。",
+      "reading": null,
+      "indonesian": "A small stream ran down among the rocks.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠くから見るとその岩は人の顔のように見えた。",
+      "reading": null,
+      "indonesian": "Seen from a distance, the rock looked like a human face.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "遠くから見ると、その大きな岩は、古い城のように見える。",
+      "reading": null,
+      "indonesian": "Seen from a distance, the big rock looks like an old castle.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

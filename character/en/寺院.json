@@ -1,0 +1,126 @@
+{
+  "definition": {
+    "word": "寺院",
+    "reading": "じいん",
+    "romaji": "jiin",
+    "jlpt": "N2",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "Buddhist temple"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "religious building",
+          "church",
+          "cathedral",
+          "mosque"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大学院",
+      "reading": "だいがくいん",
+      "meaning": "graduate school"
+    },
+    {
+      "word": "入院",
+      "reading": "にゅういん",
+      "meaning": "hospitalization"
+    },
+    {
+      "word": "参議院",
+      "reading": "さんぎいん",
+      "meaning": "House of Councillors (upper house of the National Diet of Japan)"
+    },
+    {
+      "word": "衆議院",
+      "reading": "しゅうぎいん",
+      "meaning": "House of Representatives (lower house of the National Diet of Japan)"
+    },
+    {
+      "word": "医院",
+      "reading": "いいん",
+      "meaning": "doctor's office"
+    },
+    {
+      "word": "退院",
+      "reading": "たいいん",
+      "meaning": "leaving hospital"
+    },
+    {
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "hospital"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "京都は古い寺院で有名である。",
+      "reading": null,
+      "english": "Kyoto is famous for its old temples.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ヒンズー教徒は寺院で礼拝をします。",
+      "reading": null,
+      "english": "The Hindus worship in temples.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その寺院は行ってみる価値があるよ。",
+      "reading": null,
+      "english": "It is worth visiting the temple.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この寺院は七世紀からのものです。",
+      "reading": null,
+      "english": "This temple dates from the 7th century.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この寺院は７８０年に建てられた。",
+      "reading": null,
+      "english": "This temple dates back to 780.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "祖母の遺灰は寺院に置かれた骨壷に入っている。",
+      "reading": null,
+      "english": "Grandmother's ashes are in an urn at the temple.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "京都は古い寺院で有名である。",
+      "reading": null,
+      "english": "Kyoto is famous for its old temples.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

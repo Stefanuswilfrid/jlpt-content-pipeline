@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "香り",
+    "reading": "かおり",
+    "romaji": "kaori",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "aroma",
+          "wangi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "香水",
+      "reading": "こうすい",
+      "meaning": "parfum"
+    },
+    {
+      "word": "匂い",
+      "reading": "におい",
+      "meaning": "bau, aroma"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "花は大変心地良い香りを発する。",
+      "reading": null,
+      "indonesian": "The flowers give off a very pleasant scent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ユリの香りが部屋に満ちていた。",
+      "reading": null,
+      "indonesian": "A smell of lilies filled the room.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バラは良い香りがする。",
+      "reading": null,
+      "indonesian": "Roses smell sweet.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "とてもいい香りがした。",
+      "reading": null,
+      "indonesian": "It smelled really good.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはよい香りがする。",
+      "reading": null,
+      "indonesian": "It smells delicious.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

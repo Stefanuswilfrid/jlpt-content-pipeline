@@ -1,0 +1,170 @@
+{
+  "definition": {
+    "word": "空き",
+    "reading": "あき",
+    "romaji": "aki",
+    "jlpt": "N3",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lowongan",
+          "kesempatan",
+          "ruang"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "vacancy",
+          "opening",
+          "empty seat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "free time",
+          "time to spare"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "disuse",
+          "unused thing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "航空",
+      "reading": "こうくう",
+      "meaning": "penerbangan, terbang"
+    },
+    {
+      "word": "空",
+      "reading": "そら",
+      "meaning": "kosong"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "空き巣に入られたんだ。",
+      "reading": null,
+      "indonesian": "Our house was robbed while we were away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空き部屋が３つあるが、そのうちのどれも使えない。",
+      "reading": null,
+      "indonesian": "We have three spare rooms, none of which can be used.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空き部屋は三つありますが、どれも使用できません。",
+      "reading": null,
+      "indonesian": "We have three spare rooms, none of which can be used.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "空き部屋はありますか。",
+      "reading": null,
+      "indonesian": "Do you have any vacancies?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "近くの空き地でキャッチボールをするのはどうですか。",
+      "reading": null,
+      "indonesian": "How about playing catch in the vacant lot near by?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "わかった。機械が空きしだい送る。",
+      "reading": null,
+      "indonesian": "OK. I'll send it out as soon as a machine is available.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう１人分の空きはありますか。",
+      "reading": null,
+      "indonesian": "Is there any space for one more person?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "まだ空き部屋がいくつかあった。",
+      "reading": null,
+      "indonesian": "There were several rooms still vacant.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうやら、そのみすぼらしいアパートは空き家のようだ。",
+      "reading": null,
+      "indonesian": "Apparently that shabby flat is vacant.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それらは空いているアパートか空き家だった。",
+      "reading": null,
+      "indonesian": "They were vacant apartments or homes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その空き家はほこりでいっぱいだった。",
+      "reading": null,
+      "indonesian": "The empty house was full of dust.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その家は今空き家だ。",
+      "reading": null,
+      "indonesian": "The house is not occupied now.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのみすぼらしいアパートは空き家のようだ。",
+      "reading": null,
+      "indonesian": "The shabby flat is vacant.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "definition": {
+    "word": "試験",
+    "reading": "しけん",
+    "romaji": "shiken",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "examination",
+          "exam",
+          "test"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "trial",
+          "experiment",
+          "test"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "match"
+    },
+    {
+      "word": "経験",
+      "reading": "けいけん",
+      "meaning": "experience"
+    },
+    {
+      "word": "実験",
+      "reading": "じっけん",
+      "meaning": "experiment"
+    },
+    {
+      "word": "試す",
+      "reading": "ためす",
+      "meaning": "to try (out)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

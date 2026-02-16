@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "巻く",
+    "reading": "まく",
+    "romaji": "maku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menggulung",
+          "melilit",
+          "menggulung"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to envelope",
+          "to shroud"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to outflank",
+          "to skirt"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to link (verse)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to move ahead (three hours, etc.)",
+          "to move up"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "くだを巻く",
+      "reading": "くだをまく",
+      "meaning": "to babble in one's cups",
+      "type": "idiom"
+    },
+    {
+      "word": "尻尾を巻く",
+      "reading": "しっぽをまく",
+      "meaning": "to tuck one's tail between one's legs",
+      "type": "idiom"
+    },
+    {
+      "word": "煙に巻く",
+      "reading": "けむにまく",
+      "meaning": "to confuse (someone)",
+      "type": "idiom"
+    },
+    {
+      "word": "舌を巻く",
+      "reading": "したをまく",
+      "meaning": "to be astonished",
+      "type": "idiom"
+    },
+    {
+      "word": "ねじを巻く",
+      "reading": "ねじをまく",
+      "meaning": "to wind (e.g. a watch)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

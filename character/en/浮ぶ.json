@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "浮かぶ",
+    "reading": "うかぶ",
+    "romaji": "ukabu",
+    "jlpt": "N2",
+    "frequency": 14750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to float",
+          "to be suspended"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to rise to the surface",
+          "to appear",
+          "to emerge",
+          "to show up",
+          "to loom (up)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come to mind",
+          "to have inspiration"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "浮く",
+      "reading": "うく",
+      "meaning": "to float"
+    },
+    {
+      "word": "浮気",
+      "reading": "うわき",
+      "meaning": "extramarital sex"
+    },
+    {
+      "word": "浮かべる",
+      "reading": "うかべる",
+      "meaning": "to float"
+    },
+    {
+      "word": "浮力",
+      "reading": "ふりょく",
+      "meaning": "buoyancy"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "身を捨ててこそ浮かぶ瀬もあれ",
+      "reading": "みをすててこそうかぶせもあれ",
+      "meaning": "nothing ventured, nothing gained",
+      "type": "proverb"
+    },
+    {
+      "word": "沈む瀬あれば浮かぶ瀬あり",
+      "reading": "しずむせあればうかぶせあり",
+      "meaning": "life has its ups and downs",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

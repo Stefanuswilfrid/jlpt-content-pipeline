@@ -1,0 +1,162 @@
+{
+  "definition": {
+    "word": "自然",
+    "reading": "しぜん",
+    "romaji": "shizen",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "alam",
+          "spontan"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "natural",
+          "spontaneous",
+          "automatic"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "adverb taking the 'to' particle"
+        ],
+        "meanings": [
+          "naturally",
+          "spontaneously",
+          "automatically"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "自身",
+      "reading": "じしん",
+      "meaning": "diri"
+    },
+    {
+      "word": "自己",
+      "reading": "じこ",
+      "meaning": "diri sendiri, diri sendiri"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "Jelas; alami"
+    },
+    {
+      "word": "自動",
+      "reading": "じどう",
+      "meaning": "otomatis, gerak sendiri"
+    },
+    {
+      "word": "依然",
+      "reading": "いぜん",
+      "meaning": "masih, sampai saat ini"
+    },
+    {
+      "word": "自殺",
+      "reading": "じさつ",
+      "meaning": "bunuh diri"
+    },
+    {
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "ketidaknyamanan, disabilitas, kesulitan"
+    },
+    {
+      "word": "天然",
+      "reading": "てんねん",
+      "meaning": "alam, spontanitas"
+    },
+    {
+      "word": "突然",
+      "reading": "とつぜん",
+      "meaning": "tiba-tiba, mendadak, tak terduga"
+    },
+    {
+      "word": "自慢",
+      "reading": "じまん",
+      "meaning": "kesombongan, membual"
+    },
+    {
+      "word": "偶然",
+      "reading": "ぐうぜん",
+      "meaning": "(secara) kebetulan, tak terduga"
+    },
+    {
+      "word": "自ら",
+      "reading": "みずから",
+      "meaning": "untuk diri sendiri, secara pribadi"
+    },
+    {
+      "word": "自宅",
+      "reading": "じたく",
+      "meaning": "rumah sendiri (sama dengan 自分の家 (じぶんのいえ))"
+    },
+    {
+      "word": "自動車",
+      "reading": "じどうしゃ",
+      "meaning": "mobil"
+    },
+    {
+      "word": "自由",
+      "reading": "じゆう",
+      "meaning": "kebebasan"
+    },
+    {
+      "word": "自治",
+      "reading": "じち",
+      "meaning": "pemerintahan sendiri, otonomi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "自然淘汰",
+      "reading": "しぜんとうた",
+      "meaning": "natural selection",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無為自然",
+      "reading": "むいしぜん",
+      "meaning": "abandoning artifice and just being oneself",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天然自然",
+      "reading": "てんねんしぜん",
+      "meaning": "natural",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はもっと自然に話す方がよい。",
+      "reading": null,
+      "indonesian": "You had better speak more naturally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "火は自然に消えた。",
+      "reading": null,
+      "indonesian": "The fire went out by itself.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

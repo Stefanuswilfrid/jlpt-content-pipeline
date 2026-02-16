@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "変",
+    "reading": "へん",
+    "romaji": "hen",
+    "jlpt": "N4",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "aneh",
+          "ganjil"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "unexpected"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "change"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "incident",
+          "disturbance",
+          "disaster",
+          "accident",
+          "emergency"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "flat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "変化",
+      "reading": "へんか",
+      "meaning": "perubahan, variasi, pergeseran"
+    },
+    {
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "sangat; sulit, berat"
+    },
+    {
+      "word": "変更",
+      "reading": "へんこう",
+      "meaning": "perubahan, modifikasi, peng alterations"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "天変地異",
+      "reading": "てんぺんちい",
+      "meaning": "natural disaster",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "臨機応変",
+      "reading": "りんきおうへん",
+      "meaning": "adapting oneself to the requirements of the moment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "君子豹変",
+      "reading": "くんしひょうへん",
+      "meaning": "the wise readily adapt themselves to changed circumstances",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "千変万化",
+      "reading": "せんぺんばんか",
+      "meaning": "innumerable changes",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "変幻自在",
+      "reading": "へんげんじざい",
+      "meaning": "phantasmagoric",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有為転変",
+      "reading": "ういてんぺん",
+      "meaning": "mutability (of worldly affairs)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "妖怪変化",
+      "reading": "ようかいへんげ",
+      "meaning": "monstrous apparition",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天災地変",
+      "reading": "てんさいちへん",
+      "meaning": "natural disaster",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "永久不変",
+      "reading": "えいきゅうふへん",
+      "meaning": "permanence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "河岸を変える",
+      "reading": "かしをかえる",
+      "meaning": "to try a different venue (for drinking, socializing, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

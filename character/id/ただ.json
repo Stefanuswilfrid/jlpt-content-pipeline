@@ -1,0 +1,120 @@
+{
+  "definition": {
+    "word": "只",
+    "reading": "ただ",
+    "romaji": "tada",
+    "jlpt": "N3",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gratis; hanya (~); semata-mata (~)"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "free of charge"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unaffected",
+          "as is",
+          "safe"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "only",
+          "merely",
+          "just",
+          "simply"
+        ]
+      },
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "but",
+          "however",
+          "nevertheless"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "只管打坐",
+      "reading": "しかんたざ",
+      "meaning": "shikantaza",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "言ってみただけだよ！",
+      "reading": null,
+      "indonesian": "I'm just saying!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "メールをチェックしたかっただけ。",
+      "reading": null,
+      "indonesian": "I just wanted to check my email.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "代わりにダイアルしていただけませんか？電話の位置が高すぎて。",
+      "reading": null,
+      "indonesian": "Could you dial for me? The telephone is too high.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "また後でかけ直していただけませんか？",
+      "reading": null,
+      "indonesian": "Could you call again later, please?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そこに一日中ただ立っているつもりかい？",
+      "reading": null,
+      "indonesian": "Are you just going to stand there all day?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "数学はただ公式を暗記すればいいというものではない。",
+      "reading": null,
+      "indonesian": "Mathematics is not just the memorization of formulas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

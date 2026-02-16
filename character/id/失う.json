@@ -1,0 +1,146 @@
+{
+  "definition": {
+    "word": "失う",
+    "reading": "うしなう",
+    "romaji": "ushinau",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "kehilangan",
+          "berpisah dengan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to miss (a chance, opportunity)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lose (a loved one)",
+          "to be bereaved of"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to concede (goals, points, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "失敗",
+      "reading": "しっぱい",
+      "meaning": "kegagalan, kesalahan"
+    },
+    {
+      "word": "失業",
+      "reading": "しつぎょう",
+      "meaning": "pengangguran"
+    },
+    {
+      "word": "無くす",
+      "reading": "なくす",
+      "meaning": "kehilangan sesuatu"
+    },
+    {
+      "word": "失望",
+      "reading": "しつぼう",
+      "meaning": "kekecewaan, keputusasaan"
+    },
+    {
+      "word": "過失",
+      "reading": "かしつ",
+      "meaning": "kesalahan, kekeliruan, kelalaian"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "度を失う",
+      "reading": "どをうしなう",
+      "meaning": "to lose one's presence of mind",
+      "type": "idiom"
+    },
+    {
+      "word": "言葉を失う",
+      "reading": "ことばをうしなう",
+      "meaning": "to become speechless",
+      "type": "idiom"
+    },
+    {
+      "word": "金を貸せば友を失う",
+      "reading": "かねをかせばともをうしなう",
+      "meaning": "lend your money and lose your friend",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何も持っていないのだから、何も失うはずがない。",
+      "reading": null,
+      "indonesian": "Having nothing, nothing can he lose.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何ももっていない者は何も失うことはない。",
+      "reading": null,
+      "indonesian": "Those who possess nothing lose nothing.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ただひとつのミスで人は命を失うこともある。",
+      "reading": null,
+      "indonesian": "One mistake will cost a person his life.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのために仕事を失うことになるかもしれない。",
+      "reading": null,
+      "indonesian": "It'll cost me my job.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この世で愛する者を失うことほどつらいことはない。",
+      "reading": null,
+      "indonesian": "Nothing is as terrible as losing someone you love in the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この世で愛するものを失う事ほど苦しい事はない。",
+      "reading": null,
+      "indonesian": "Nothing is as terrible as losing someone you love in the world.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

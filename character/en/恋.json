@@ -1,0 +1,70 @@
+{
+  "definition": {
+    "word": "恋",
+    "reading": "こい",
+    "romaji": "koi",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(romantic) love"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "恋人",
+      "reading": "こいびと",
+      "meaning": "lover"
+    },
+    {
+      "word": "失恋",
+      "reading": "しつれん",
+      "meaning": "disappointed love"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "恋は盲目",
+      "reading": "こいはもうもく",
+      "meaning": "reason ends where love begins",
+      "type": "proverb"
+    },
+    {
+      "word": "恋は思案の外",
+      "reading": "こいはしあんのほか",
+      "meaning": "love is without reason",
+      "type": "proverb"
+    },
+    {
+      "word": "籠鳥恋雲",
+      "reading": "ろうちょうれんうん",
+      "meaning": "longing for freedom when tied down",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "恋は闇",
+      "reading": "こいはやみ",
+      "meaning": "love is blind",
+      "type": "proverb"
+    },
+    {
+      "word": "恋に上下の差別無し",
+      "reading": "こいにじょうげのさべつなし",
+      "meaning": "love makes men equal",
+      "type": "proverb"
+    },
+    {
+      "word": "恋に上下の隔てなし",
+      "reading": "こいにじょうげのへだてなし",
+      "meaning": "love makes people equal",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

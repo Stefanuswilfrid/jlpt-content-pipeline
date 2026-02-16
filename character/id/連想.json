@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "連想",
+    "reading": "れんそう",
+    "romaji": "rensou",
+    "jlpt": "N3",
+    "frequency": 13750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "asosiasi (gagasan)",
+          "saran"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "関連",
+      "reading": "かんれん",
+      "meaning": "hubungan, koneksi, relevansi"
+    },
+    {
+      "word": "連続",
+      "reading": "れんぞく",
+      "meaning": "berturut-turut, keberlanjutan, terus-menerus"
+    },
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaning": "harapan, antisipasi, prediksi"
+    },
+    {
+      "word": "思想",
+      "reading": "しそう",
+      "meaning": "pemikiran, ide"
+    },
+    {
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "kesan (seseorang), pikiran (seseorang)"
+    },
+    {
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "ideal"
+    },
+    {
+      "word": "想像",
+      "reading": "そうぞう",
+      "meaning": "imajinasi, tebakan"
+    },
+    {
+      "word": "連れ",
+      "reading": "つれ",
+      "meaning": "pendamping, teman"
+    },
+    {
+      "word": "思い出",
+      "reading": "おもいで",
+      "meaning": "kenangan, ingatan, masa lalu"
+    },
+    {
+      "word": "空想",
+      "reading": "くうそう",
+      "meaning": "lamunan, fantasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "夏といえば何を連想しますか。",
+      "reading": null,
+      "indonesian": "What do you associate with summer?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "リンカーンと言えば自由を連想する。",
+      "reading": null,
+      "indonesian": "We associate the name of Lincoln with freedom.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "緑は草を連想させる。",
+      "reading": null,
+      "indonesian": "Green is associated with grass.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

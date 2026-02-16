@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "何でも",
+    "reading": "なんでも",
+    "romaji": "nandemo",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "expressions (phrases, clauses, etc.)"
+        ],
+        "meanings": [
+          "any",
+          "anything",
+          "whatever",
+          "whatever one likes",
+          "everything",
+          "all"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "I am told",
+          "I hear",
+          "I understand",
+          "they say"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何か",
+      "reading": "なにか",
+      "meaning": "something"
+    },
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "何で",
+      "reading": "なんで",
+      "meaning": "why?"
+    },
+    {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "what"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あの方が言われる事を、何でもしてあげて下さい。",
+      "reading": null,
+      "english": "Do whatever he tells you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "勝手に何でも使って。",
+      "reading": null,
+      "english": "Make yourself at home.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あの方が言われる事を、何でもしてあげて下さい。",
+      "reading": null,
+      "english": "Do whatever he tells you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの方が言われる事を、何でもしてあげて下さい。",
+      "reading": null,
+      "english": "Please do whatever that person tells you to do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は何でもかんでも手を出したがる。",
+      "reading": null,
+      "english": "You want to have a finger in every pie, don't you?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君のためなら何でもする。",
+      "reading": null,
+      "english": "I will do anything for you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君がしなさいと言う事は何でもする。",
+      "reading": null,
+      "english": "I'll do everything you tell me to do.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "金で何でも買えるというわけでない。",
+      "reading": null,
+      "english": "Gold will not buy everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

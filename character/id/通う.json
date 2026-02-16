@@ -1,0 +1,119 @@
+{
+  "definition": {
+    "word": "通う",
+    "reading": "かよう",
+    "romaji": "kayou",
+    "jlpt": "N4",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk pergi bolak-balik; untuk bepergian"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go to (school, work, etc.)",
+          "to attend",
+          "to commute",
+          "to frequent"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to circulate (e.g. blood, electricity)",
+          "to be communicated (e.g. thought)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to resemble"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通る",
+      "reading": "とおる",
+      "meaning": "melewati, menempuh"
+    },
+    {
+      "word": "通り過ぎる",
+      "reading": "とおりすぎる",
+      "meaning": "melewati, menembus"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "surat-menyurat, komunikasi"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "kesamaan, saling"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "jalan yang dilewati, melintasi"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "perjalanan pulang pergi ke tempat kerja"
+    },
+    {
+      "word": "通行",
+      "reading": "つうこう",
+      "meaning": "jalan, melewati"
+    },
+    {
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "berangkat ke sekolah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "心が通う",
+      "reading": "こころがかよう",
+      "meaning": "to understand each other well",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "小学生は６年間学校に通う。",
+      "reading": null,
+      "indonesian": "Elementary school children go to school for a term of six years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "小学生は６年間学校に通う。",
+      "reading": null,
+      "indonesian": "Elementary school children go to school for a term of six years.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

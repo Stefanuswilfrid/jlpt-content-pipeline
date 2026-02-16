@@ -1,0 +1,118 @@
+{
+  "definition": {
+    "word": "観念",
+    "reading": "かんねん",
+    "romaji": "kannen",
+    "jlpt": "N2",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "idea",
+          "notion",
+          "concept",
+          "conception"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sense (e.g. of duty)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "resignation (to one's fate)",
+          "acceptance",
+          "preparedness"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "observation and contemplation",
+          "meditation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観測",
+      "reading": "かんそく",
+      "meaning": "observation"
+    },
+    {
+      "word": "外観",
+      "reading": "がいかん",
+      "meaning": "outward appearance"
+    },
+    {
+      "word": "無念",
+      "reading": "むねん",
+      "meaning": "regret"
+    },
+    {
+      "word": "観光",
+      "reading": "かんこう",
+      "meaning": "sightseeing"
+    },
+    {
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "commemoration"
+    },
+    {
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "regrettable"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もう助からないものと観念した。",
+      "reading": null,
+      "english": "I gave up all hope of survival.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは君の固定観念だよ。",
+      "reading": null,
+      "english": "It's your stereotyping.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのような固定観念は捨てたほうがいいでしょう。",
+      "reading": null,
+      "english": "We had better do away with such a fixed idea.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "年をとるほど、ますます固定観念にとらわれるものです。",
+      "reading": null,
+      "english": "The older you grow, the more you tend to adhere to fixed ideas.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

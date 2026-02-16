@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "定期",
+    "reading": "ていき",
+    "romaji": "teiki",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "jangka waktu tetap"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "regular",
+          "periodic",
+          "periodical"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fixed-term commuter pass"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fixed-term deposit"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "futures contracts"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "keputusan, penetapan"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "periode, jangka waktu"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaning": "harapan, antisipasi, cita-cita"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "waktu, musim, periode"
+    },
+    {
+      "word": "安定",
+      "reading": "あんてい",
+      "meaning": "stabilitas, keseimbangan"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "jangka waktu yang lama"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "batas waktu, istilah"
+    },
+    {
+      "word": "否定",
+      "reading": "ひてい",
+      "meaning": "negasi, penyangkalan"
+    },
+    {
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "penundaan, pengunduran"
+    },
+    {
+      "word": "勘定",
+      "reading": "かんじょう",
+      "meaning": "perhitungan, penghitungan, pertimbangan"
+    },
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "istilah (sekolah)"
+    },
+    {
+      "word": "予期",
+      "reading": "よき",
+      "meaning": "harapan, perkiraan"
+    },
+    {
+      "word": "仮定",
+      "reading": "かてい",
+      "meaning": "asumsi, dugaan, hipotesis"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "rencana, pengaturan, jadwal"
+    },
+    {
+      "word": "一定",
+      "reading": "いってい",
+      "meaning": "tetap, mapan, teratur"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その島には定期便はない。",
+      "reading": null,
+      "indonesian": "There is no regular boat service to the island.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

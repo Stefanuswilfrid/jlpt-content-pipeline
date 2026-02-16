@@ -1,0 +1,215 @@
+{
+  "definition": {
+    "word": "正",
+    "reading": "せい",
+    "romaji": "sei",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "(logical) true",
+          "regular"
+        ]
+      },
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "10^40",
+          "ten duodecillion"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "original"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "positive",
+          "greater than zero"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "thesis (in dialectics)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "修正",
+      "reading": "しゅうせい",
+      "meaning": "amendment"
+    },
+    {
+      "word": "正式",
+      "reading": "せいしき",
+      "meaning": "formal"
+    },
+    {
+      "word": "正午",
+      "reading": "しょうご",
+      "meaning": "noon"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "injustice"
+    },
+    {
+      "word": "公正",
+      "reading": "こうせい",
+      "meaning": "justice"
+    },
+    {
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaning": "honest"
+    },
+    {
+      "word": "正規",
+      "reading": "せいき",
+      "meaning": "regular"
+    },
+    {
+      "word": "正体",
+      "reading": "しょうたい",
+      "meaning": "true character"
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaning": "accurate"
+    },
+    {
+      "word": "改正",
+      "reading": "かいせい",
+      "meaning": "revision"
+    },
+    {
+      "word": "正面",
+      "reading": "しょうめん",
+      "meaning": "front"
+    },
+    {
+      "word": "正月",
+      "reading": "しょうがつ",
+      "meaning": "New Year (esp. first three days)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "公明正大",
+      "reading": "こうめいせいだい",
+      "meaning": "fair",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "綱紀粛正",
+      "reading": "こうきしゅくせい",
+      "meaning": "enforcement of official discipline",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "正当防衛",
+      "reading": "せいとうぼうえい",
+      "meaning": "legitimate self-defence",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "厳正中立",
+      "reading": "げんせいちゅうりつ",
+      "meaning": "strict neutrality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "正真正銘",
+      "reading": "しょうしんしょうめい",
+      "meaning": "genuine",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "正々堂々",
+      "reading": "せいせいどうどう",
+      "meaning": "fair and square",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "破邪顕正",
+      "reading": "はじゃけんしょう",
+      "meaning": "crushing evil and spreading the truth",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "品行方正",
+      "reading": "ひんこうほうせい",
+      "meaning": "irreproachable conduct",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "襟を正す",
+      "reading": "えりをただす",
+      "meaning": "to straighten oneself",
+      "type": "idiom"
+    },
+    {
+      "word": "悪人正機",
+      "reading": "あくにんしょうき",
+      "meaning": "The evil persons are the right object of Amida's salvation",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたは正しい。",
+      "reading": null,
+      "english": "You're right.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あなたは正しい。",
+      "reading": null,
+      "english": "You're correct.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "あなたは正しい。",
+      "reading": null,
+      "english": "You are right.",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "君は正直者のようだ。",
+      "reading": null,
+      "english": "You seem an honest man.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

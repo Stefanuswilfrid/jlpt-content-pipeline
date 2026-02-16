@@ -1,0 +1,141 @@
+{
+  "definition": {
+    "word": "文脈",
+    "reading": "ぶんみゃく",
+    "romaji": "bunmyaku",
+    "jlpt": "N2",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "konteks"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "context (of a matter, event, etc.)",
+          "circumstances",
+          "background"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文体",
+      "reading": "ぶんたい",
+      "meaning": "gaya sastra"
+    },
+    {
+      "word": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaning": "alat tulis"
+    },
+    {
+      "word": "文芸",
+      "reading": "ぶんげい",
+      "meaning": "sastra, seni dan sastra"
+    },
+    {
+      "word": "英文",
+      "reading": "えいぶん",
+      "meaning": "kalimat dalam bahasa Inggris"
+    },
+    {
+      "word": "文献",
+      "reading": "ぶんけん",
+      "meaning": "sastra, buku (referensi)"
+    },
+    {
+      "word": "山脈",
+      "reading": "さんみゃく",
+      "meaning": "pegunungan"
+    },
+    {
+      "word": "原文",
+      "reading": "げんぶん",
+      "meaning": "teks, asli"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "それは文脈による。",
+      "reading": null,
+      "indonesian": "It depends on the context.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それは文脈による。",
+      "reading": null,
+      "indonesian": "It depends on the context.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "単語の意味はそれが使われている文脈で決まる。",
+      "reading": null,
+      "indonesian": "The meaning of a word is determined by the context where it is used.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "言葉の意味は文脈によって変わりうる。",
+      "reading": null,
+      "indonesian": "The meaning of words can change according to their context.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "言葉の意味は文脈によって変わりうる。",
+      "reading": null,
+      "indonesian": "The meaning of words can change according to their context.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "単語の意味はそれが使われている文脈で決まる。",
+      "reading": null,
+      "indonesian": "The meaning of a word is determined by the context where it is used.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "それは文脈次第だね。",
+      "reading": null,
+      "indonesian": "That depends on the context.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その文脈は重要だ。",
+      "reading": null,
+      "indonesian": "The context is crucial.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この文の文脈とか言わんとすることがよく分かんないんだけど。",
+      "reading": null,
+      "indonesian": "I don't really understand the context or the intended meaning of this sentence.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

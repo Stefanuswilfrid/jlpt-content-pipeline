@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "決定",
+    "reading": "けってい",
+    "romaji": "kettei",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "decision",
+          "determination"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "settlement"
+    },
+    {
+      "word": "安定",
+      "reading": "あんてい",
+      "meaning": "stability"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "fixed period"
+    },
+    {
+      "word": "否定",
+      "reading": "ひてい",
+      "meaning": "denial"
+    },
+    {
+      "word": "勘定",
+      "reading": "かんじょう",
+      "meaning": "calculation"
+    },
+    {
+      "word": "決心",
+      "reading": "けっしん",
+      "meaning": "determination"
+    },
+    {
+      "word": "決まり",
+      "reading": "きまり",
+      "meaning": "rule"
+    },
+    {
+      "word": "仮定",
+      "reading": "かてい",
+      "meaning": "assumption"
+    },
+    {
+      "word": "決行",
+      "reading": "けっこう",
+      "meaning": "doing (with resolve)"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "plans"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の決定しだいで行ってもいいしとどまってもいい。",
+      "reading": null,
+      "english": "You can go or stay, as you wish.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会合の日にちと場所が決定された。",
+      "reading": null,
+      "english": "The date and place of the meeting have been fixed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

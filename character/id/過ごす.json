@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "word": "過ごす",
+    "reading": "すごす",
+    "romaji": "sugosu",
+    "jlpt": "N3",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk berlalu",
+          "untuk menghabiskan (waktu)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to overdo (esp. alcohol consumption)",
+          "to drink (alcohol)",
+          "to carry too far",
+          "to carry to excess"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take care of",
+          "to support"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'su' ending"
+        ],
+        "meanings": [
+          "to overdo",
+          "to do too much"
+        ]
+      },
+      {
+        "pos": [
+          "suffix",
+          "Godan verb with 'su' ending"
+        ],
+        "meanings": [
+          "to ... without acting on it",
+          "to ... without getting involved"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "過ぎる",
+      "reading": "すぎる",
+      "meaning": "melampaui, melangkah lebih jauh"
+    },
+    {
+      "word": "過去",
+      "reading": "かこ",
+      "meaning": "masa lalu"
+    },
+    {
+      "word": "過程",
+      "reading": "かてい",
+      "meaning": "proses"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "jalan yang dilewati, melintasi"
+    },
+    {
+      "word": "通り過ぎる",
+      "reading": "とおりすぎる",
+      "meaning": "melewati, menembus"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

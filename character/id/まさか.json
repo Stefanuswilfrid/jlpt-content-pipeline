@@ -1,0 +1,87 @@
+{
+  "definition": {
+    "word": "真逆",
+    "reading": "まさか",
+    "romaji": "masaka",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "sama sekali tidak"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "certainly (not)",
+          "surely (not)",
+          "hardly (expected)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "something unexpected",
+          "emergency"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "indeed",
+          "really",
+          "truly",
+          "unexpectedly"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "まさか！",
+      "reading": null,
+      "indonesian": "No way!",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "まさかの時の友は真の友。",
+      "reading": null,
+      "indonesian": "A friend in need is a friend indeed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まさかの時の友こそ真の友。",
+      "reading": null,
+      "indonesian": "A friend in need is a friend indeed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まさかの時にはあなたを助けてやろう。",
+      "reading": null,
+      "indonesian": "I'll stand by you in time of need.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

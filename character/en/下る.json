@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "下がる",
+    "reading": "さがる",
+    "romaji": "sagaru",
+    "jlpt": "N4",
+    "frequency": 11750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to come down",
+          "to go down",
+          "to fall",
+          "to drop",
+          "to sink",
+          "to get lower"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to hang",
+          "to dangle"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to move back",
+          "to step back",
+          "to withdraw",
+          "to retire"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to deteriorate",
+          "to fall off",
+          "to be downgraded"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to get closer to the present day"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "下宿",
+      "reading": "げしゅく",
+      "meaning": "boarding"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一歩下がる",
+      "reading": "いっぽさがる",
+      "meaning": "to take a step backward",
+      "type": "idiom"
+    },
+    {
+      "word": "頭が下がる",
+      "reading": "あたまがさがる",
+      "meaning": "to admire greatly",
+      "type": "idiom"
+    },
+    {
+      "word": "実るほど頭の下がる稲穂かな",
+      "reading": "みのるほどあたまのさがるいなほかな",
+      "meaning": "the more learned, the more humble",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

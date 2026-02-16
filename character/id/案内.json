@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "案内",
+    "reading": "あんない",
+    "romaji": "annai",
+    "jlpt": "N4",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "informasi",
+          "panduan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "information",
+          "notice",
+          "notification"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "announcement (of a visitor's arrival)",
+          "informing (someone) of a visitor's arrival"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "invitation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "acquaintance",
+          "knowledge"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "以内",
+      "reading": "いない",
+      "meaning": "di dalam, kurang dari (tidak lebih dari)"
+    },
+    {
+      "word": "内",
+      "reading": "うち",
+      "meaning": "di dalam, di dalam"
+    },
+    {
+      "word": "家内",
+      "reading": "かない",
+      "meaning": "istri (sendiri)"
+    },
+    {
+      "word": "提案",
+      "reading": "ていあん",
+      "meaning": "usulan, proposisi, saran"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

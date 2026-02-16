@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "単数",
+    "reading": "たんすう",
+    "romaji": "tansuu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "single",
+          "one"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "singular (number)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "number of times"
+    },
+    {
+      "word": "点数",
+      "reading": "てんすう",
+      "meaning": "marks"
+    },
+    {
+      "word": "小数",
+      "reading": "しょうすう",
+      "meaning": "fraction (part of)"
+    },
+    {
+      "word": "整数",
+      "reading": "せいすう",
+      "meaning": "integer"
+    },
+    {
+      "word": "分数",
+      "reading": "ぶんすう",
+      "meaning": "fraction"
+    },
+    {
+      "word": "無数",
+      "reading": "むすう",
+      "meaning": "innumerable"
+    },
+    {
+      "word": "枚数",
+      "reading": "まいすう",
+      "meaning": "the number of flat things"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "plural"
+    },
+    {
+      "word": "過半数",
+      "reading": "かはんすう",
+      "meaning": "majority"
+    },
+    {
+      "word": "算数",
+      "reading": "さんすう",
+      "meaning": "arithmetic"
+    },
+    {
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "coupon tickets"
+    },
+    {
+      "word": "偶数",
+      "reading": "ぐうすう",
+      "meaning": "even number"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

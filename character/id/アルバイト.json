@@ -1,0 +1,65 @@
+{
+  "definition": {
+    "word": "アルバイト",
+    "reading": "アルバイト",
+    "romaji": "arubaito",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "pekerjaan paruh waktu"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "part-time worker"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ビルは車を買うためにアルバイトをしている。",
+      "reading": null,
+      "indonesian": "Bill has a part-time job so that he can buy a car.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たくさんの学生がアルバイトをする。",
+      "reading": null,
+      "indonesian": "A lot of students do part-time jobs.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "アルバイトを見つけなくては。",
+      "reading": null,
+      "indonesian": "I'll have to find a part-time job.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何かアルバイトはしていますか。",
+      "reading": null,
+      "indonesian": "Do you have a part-time job?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

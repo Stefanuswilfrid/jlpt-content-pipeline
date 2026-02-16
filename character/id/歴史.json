@@ -1,0 +1,46 @@
+{
+  "definition": {
+    "word": "歴史",
+    "reading": "れきし",
+    "romaji": "rekishi",
+    "jlpt": "N4",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sejarah"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "学歴",
+      "reading": "がくれき",
+      "meaning": "latar belakang akademis"
+    },
+    {
+      "word": "女史",
+      "reading": "じょし",
+      "meaning": "MS."
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人に歴史あり",
+      "reading": "ひとにれきしあり",
+      "meaning": "everyone has a past",
+      "type": "proverb"
+    },
+    {
+      "word": "歴史は繰り返す",
+      "reading": "れきしはくりかえす",
+      "meaning": "history repeats itself",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

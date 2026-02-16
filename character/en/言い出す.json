@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "言い出す",
+    "reading": "いいだす",
+    "romaji": "iidasu",
+    "jlpt": "N2",
+    "frequency": 23250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to begin to say",
+          "to start talking",
+          "to broach (a matter)",
+          "to bring up",
+          "to come out with"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be the first to say",
+          "to suggest (doing)",
+          "to propose"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "言付ける",
+      "reading": "ことづける",
+      "meaning": "to have someone send (a message, parcel, etc.)"
+    },
+    {
+      "word": "引き出す",
+      "reading": "ひきだす",
+      "meaning": "to pull out"
+    },
+    {
+      "word": "呼び出す",
+      "reading": "よびだす",
+      "meaning": "to call (someone) to (the door, phone, etc.)"
+    },
+    {
+      "word": "取り出す",
+      "reading": "とりだす",
+      "meaning": "to take out"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そんな事言い出すとは思わなかったよ。",
+      "reading": null,
+      "english": "I didn't expect that to come from you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんな事言い出すとは思わなかったよ。",
+      "reading": null,
+      "english": "I didn't expect that to come from you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何を言い出すかな？",
+      "reading": null,
+      "english": "What will they say?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何を言い出すかな？",
+      "reading": null,
+      "english": "What'll they say?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何を言い出すかな？",
+      "reading": null,
+      "english": "What will they say?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何を言い出すかな？",
+      "reading": null,
+      "english": "What'll they say?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたから言い出すとは思いもしなかったよ。",
+      "reading": null,
+      "english": "That's a surprise coming from you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたから言い出すとは思いもしなかったよ。",
+      "reading": null,
+      "english": "That's a surprise coming from you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

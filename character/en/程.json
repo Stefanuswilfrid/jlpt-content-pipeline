@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "程",
+    "reading": "ほど",
+    "romaji": "hodo",
+    "jlpt": "N4",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "extent",
+          "degree",
+          "measure"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "limit",
+          "bounds"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(span of) time"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(a) distance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the state of",
+          "the status of",
+          "the condition of"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning": "degree"
+    },
+    {
+      "word": "過程",
+      "reading": "かてい",
+      "meaning": "process"
+    },
+    {
+      "word": "課程",
+      "reading": "かてい",
+      "meaning": "course"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "前程万里",
+      "reading": "ぜんていばんり",
+      "meaning": "a bright (rosy) future awaiting one",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "鵬程万里",
+      "reading": "ほうていばんり",
+      "meaning": "(over) a great distance",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

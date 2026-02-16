@@ -1,0 +1,204 @@
+{
+  "definition": {
+    "word": "蒸気",
+    "reading": "じょうき",
+    "romaji": "jouki",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "uap",
+          "embun"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "steamboat",
+          "steam locomotive"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "気配",
+      "reading": "けはい",
+      "meaning": "indikasi, tanda, petunjuk"
+    },
+    {
+      "word": "強気",
+      "reading": "つよき",
+      "meaning": "teguh, kuat"
+    },
+    {
+      "word": "気圧",
+      "reading": "きあつ",
+      "meaning": "tekanan atmosfer"
+    },
+    {
+      "word": "水蒸気",
+      "reading": "すいじょうき",
+      "meaning": "uap air, uap"
+    },
+    {
+      "word": "吐き気",
+      "reading": "はきけ",
+      "meaning": "mual, sakit perut"
+    },
+    {
+      "word": "換気",
+      "reading": "かんき",
+      "meaning": "ventilasi"
+    },
+    {
+      "word": "蒸発",
+      "reading": "じょうはつ",
+      "meaning": "penguapan; hilangnya secara tidak dapat dijelaskan"
+    },
+    {
+      "word": "平気",
+      "reading": "へいき",
+      "meaning": "ketenangan, kedamaian, ketidakpedulian"
+    },
+    {
+      "word": "湯気",
+      "reading": "ゆげ",
+      "meaning": "uap"
+    },
+    {
+      "word": "生意気",
+      "reading": "なまいき",
+      "meaning": "kurang ajar, lancang"
+    },
+    {
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "suhu (cuaca - tidak digunakan untuk benda)"
+    },
+    {
+      "word": "大気",
+      "reading": "たいき",
+      "meaning": "suasana"
+    },
+    {
+      "word": "気象",
+      "reading": "きしょう",
+      "meaning": "cuaca, iklim"
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "sehat, energik"
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "cuaca"
+    },
+    {
+      "word": "勇気",
+      "reading": "ゆうき",
+      "meaning": "keberanian, keteguhan hati, ketegasan"
+    },
+    {
+      "word": "気候",
+      "reading": "きこう",
+      "meaning": "iklim"
+    },
+    {
+      "word": "気味",
+      "reading": "きみ",
+      "meaning": "-seperti, -tampak, -terlihat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "そのエンジンは蒸気で動く。",
+      "reading": null,
+      "indonesian": "The engine is driven by steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この船は蒸気で動かされている。",
+      "reading": null,
+      "indonesian": "This ship is driven by steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "熱は水を水蒸気に変える。",
+      "reading": null,
+      "indonesian": "Heat turns water into steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "熱は水を蒸気に変える。",
+      "reading": null,
+      "indonesian": "Heat turns water into steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電気が蒸気にとって代わった。",
+      "reading": null,
+      "indonesian": "Electricity has taken the place of steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水は熱せられると蒸気になる。",
+      "reading": null,
+      "indonesian": "Water changes into vapor when it is heated.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "水は蒸気に変わる。",
+      "reading": null,
+      "indonesian": "Water changes into steam.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "蒸気機関車は電車ほどなめらかには走らない。",
+      "reading": null,
+      "indonesian": "Steam locomotives run less smoothly than electric trains.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "蒸気機関車は電車に取って代わられた。",
+      "reading": null,
+      "indonesian": "Steam trains were replaced by electric trains.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "蒸気機関は熱を力に変える。",
+      "reading": null,
+      "indonesian": "A steam engine transforms heat into power.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

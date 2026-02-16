@@ -1,0 +1,84 @@
+{
+  "definition": {
+    "word": "汗",
+    "reading": "あせ",
+    "romaji": "ase",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "keringat",
+          "keringat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "moisture",
+          "condensation"
+        ]
+      },
+      {
+        "pos": [
+          "interjection (kandoushi)"
+        ],
+        "meanings": [
+          "gulp",
+          "oops"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "汗牛充棟",
+      "reading": "かんぎゅうじゅうとう",
+      "meaning": "(having, there being) a great number of books",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "流汗淋漓",
+      "reading": "りゅうかんりんり",
+      "meaning": "profuse perspiration",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "冷汗三斗",
+      "reading": "れいかんさんと",
+      "meaning": "breaking into cold sweat when one is very embarrassed or scared",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "手に汗を握る",
+      "reading": "てにあせをにぎる",
+      "meaning": "to sit on the edge of one's seat",
+      "type": "idiom"
+    },
+    {
+      "word": "手に汗握る",
+      "reading": "てにあせにぎる",
+      "meaning": "to sit on the edge of one's seat",
+      "type": "idiom"
+    },
+    {
+      "word": "額に汗する",
+      "reading": "ひたいにあせする",
+      "meaning": "to work diligently",
+      "type": "idiom"
+    },
+    {
+      "word": "綸言汗の如し",
+      "reading": "りんげんあせのごとし",
+      "meaning": "like sweat cannot return inside the body, the word of an emperor cannot be unsaid",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

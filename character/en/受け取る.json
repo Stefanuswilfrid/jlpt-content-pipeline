@@ -1,0 +1,127 @@
+{
+  "definition": {
+    "word": "受け取る",
+    "reading": "うけとる",
+    "romaji": "uketoru",
+    "jlpt": "N3",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to receive",
+          "to get",
+          "to accept"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to take (someone's words or behaviour)",
+          "to interpret",
+          "to understand"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "取れる",
+      "reading": "とれる",
+      "meaning": "to come off (of a button, handle, lid, etc.)"
+    },
+    {
+      "word": "享受",
+      "reading": "きょうじゅ",
+      "meaning": "enjoyment (of freedom, beauty, etc.)"
+    },
+    {
+      "word": "取り上げる",
+      "reading": "とりあげる",
+      "meaning": "to pick up"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "reception (desk)"
+    },
+    {
+      "word": "取り入れる",
+      "reading": "とりいれる",
+      "meaning": "to take in"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "あなたの手紙を受け取る前に起こりました。",
+      "reading": null,
+      "english": "This happened prior to receiving your letter.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "まじめに受け取るな。",
+      "reading": null,
+      "english": "Don't take it seriously.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "どこで荷物を受け取るのですか。",
+      "reading": null,
+      "english": "Where can I pick up my baggage?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どこで荷物を受け取るのでしょう？",
+      "reading": null,
+      "english": "Where do I claim my bags?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それをあまり文字どおりに受け取るな。",
+      "reading": null,
+      "english": "Don't take that too literally.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その女がその知らせをどんな風に受け取るか知りたがっている。",
+      "reading": null,
+      "english": "He is curious about how she will receive the news.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この金は君が受け取るべきものだ。",
+      "reading": null,
+      "english": "This money is due to you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "２月１５日に受け取るはずだった商品をまだ受け取っていません。",
+      "reading": null,
+      "english": "I have not received the goods scheduled for arrival here on February 15.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

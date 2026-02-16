@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "選択",
+    "reading": "せんたく",
+    "romaji": "sentaku",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "seleksi",
+          "pilihan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "選挙",
+      "reading": "せんきょ",
+      "meaning": "pemilihan"
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaning": "pemain yang terpilih untuk sebuah tim (biasanya atletik)"
+    },
+    {
+      "word": "選考",
+      "reading": "せんこう",
+      "meaning": "seleksi, penyaringan"
+    },
+    {
+      "word": "選ぶ",
+      "reading": "えらぶ",
+      "meaning": "untuk memilih; untuk menyeleksi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "取捨選択",
+      "reading": "しゅしゃせんたく",
+      "meaning": "selection",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

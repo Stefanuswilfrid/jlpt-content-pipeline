@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "昼間",
+    "reading": "ひるま",
+    "romaji": "hiruma",
+    "jlpt": "N4",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "daytime",
+          "during the day",
+          "time from sunrise until sunset",
+          "diurnal period"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "間",
+      "reading": "あいだ",
+      "meaning": "space (between)"
+    },
+    {
+      "word": "この間",
+      "reading": "このあいだ",
+      "meaning": "the other day"
+    },
+    {
+      "word": "間",
+      "reading": "ま",
+      "meaning": "time"
+    },
+    {
+      "word": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "lunch break"
+    },
+    {
+      "word": "間",
+      "reading": "かん",
+      "meaning": "interval"
+    },
+    {
+      "word": "昼",
+      "reading": "ひる",
+      "meaning": "noon"
+    },
+    {
+      "word": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "moment"
+    },
+    {
+      "word": "昼食",
+      "reading": "ちゅうしょく",
+      "meaning": "lunch"
+    },
+    {
+      "word": "世間",
+      "reading": "せけん",
+      "meaning": "world"
+    },
+    {
+      "word": "間違い",
+      "reading": "まちがい",
+      "meaning": "mistake"
+    },
+    {
+      "word": "手間",
+      "reading": "てま",
+      "meaning": "time"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "フクロウは昼間は目が見えない。",
+      "reading": null,
+      "english": "Owls cannot see in the daytime.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "たいていの鳥は昼間しか目が見えない。",
+      "reading": null,
+      "english": "Most birds can see only by day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

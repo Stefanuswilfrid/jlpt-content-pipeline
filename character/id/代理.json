@@ -1,0 +1,165 @@
+{
+  "definition": {
+    "word": "代理",
+    "reading": "だいり",
+    "romaji": "dairi",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "perwakilan",
+          "wakil",
+          "deputi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "proxy",
+          "agent",
+          "representative",
+          "deputy",
+          "substitute",
+          "surrogate",
+          "stand-in"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "代表",
+      "reading": "だいひょう",
+      "meaning": "perwakilan, delegasi"
+    },
+    {
+      "word": "管理",
+      "reading": "かんり",
+      "meaning": "pengendalian, pengelolaan (misalnya, suatu bisnis)"
+    },
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaning": "hari ini, masa kini"
+    },
+    {
+      "word": "処理",
+      "reading": "しょり",
+      "meaning": "pengolahan, perawatan, pembuangan"
+    },
+    {
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "pemahaman, pengertian"
+    },
+    {
+      "word": "近代",
+      "reading": "きんだい",
+      "meaning": "zaman modern"
+    },
+    {
+      "word": "心理",
+      "reading": "しんり",
+      "meaning": "mentalitas"
+    },
+    {
+      "word": "代金",
+      "reading": "だいきん",
+      "meaning": "harga, biaya"
+    },
+    {
+      "word": "整理",
+      "reading": "せいり",
+      "meaning": "penyortiran, pengaturan"
+    },
+    {
+      "word": "理想",
+      "reading": "りそう",
+      "meaning": "ideal"
+    },
+    {
+      "word": "年代",
+      "reading": "ねんだい",
+      "meaning": "zaman, era, periode"
+    },
+    {
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaning": "memperbaiki, menambal"
+    },
+    {
+      "word": "世",
+      "reading": "よ",
+      "meaning": "dunia, masyarakat, generasi"
+    },
+    {
+      "word": "物理",
+      "reading": "ぶつり",
+      "meaning": "fisika"
+    },
+    {
+      "word": "真理",
+      "reading": "しんり",
+      "meaning": "kebenaran"
+    },
+    {
+      "word": "生理",
+      "reading": "せいり",
+      "meaning": "fisiologi, menstruasi"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "zaman, periode, masa, era"
+    },
+    {
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "alasan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一番近い旅行代理店はどこにありますか。",
+      "reading": null,
+      "indonesian": "Where's the nearest travel agency?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もしあなたが来られなければだれか代理をよこしてください。",
+      "reading": null,
+      "indonesian": "If you can't come, send someone in your stead.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "旅行代理店が全部手配してくれたよ。",
+      "reading": null,
+      "indonesian": "A travel agent arranged everything for our trip.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "旅行代理店に問い合わせてみよう。",
+      "reading": null,
+      "indonesian": "Let's ask a travel agent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

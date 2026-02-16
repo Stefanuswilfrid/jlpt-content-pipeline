@@ -1,0 +1,71 @@
+{
+  "definition": {
+    "word": "小説",
+    "reading": "しょうせつ",
+    "romaji": "shousetsu",
+    "jlpt": "N4",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "novel"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "penjelasan"
+    },
+    {
+      "word": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "sekolah dasar"
+    },
+    {
+      "word": "小鳥",
+      "reading": "ことり",
+      "meaning": "burung kecil"
+    },
+    {
+      "word": "演説",
+      "reading": "えんぜつ",
+      "meaning": "pidato, sambutan"
+    },
+    {
+      "word": "子供",
+      "reading": "こども",
+      "meaning": "anak-anak)"
+    },
+    {
+      "word": "少女",
+      "reading": "しょうじょ",
+      "meaning": "gadis muda"
+    },
+    {
+      "word": "小屋",
+      "reading": "こや",
+      "meaning": "gubuk, kabin, gudang"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "事実は小説より奇なり",
+      "reading": "じじつはしょうせつよりきなり",
+      "meaning": "truth is stranger than fiction",
+      "type": "proverb"
+    },
+    {
+      "word": "事実は小説よりも奇なり",
+      "reading": "じじつはしょうせつよりもきなり",
+      "meaning": "truth is stranger than fiction",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "引用",
+    "reading": "いんよう",
+    "romaji": "in'you",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "quotation",
+          "citation",
+          "reference"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "引っ張る",
+      "reading": "ひっぱる",
+      "meaning": "to pull"
+    },
+    {
+      "word": "用いる",
+      "reading": "もちいる",
+      "meaning": "to use"
+    },
+    {
+      "word": "使用",
+      "reading": "しよう",
+      "meaning": "use"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "cost"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "confidence"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "application (of a rule, law, method, etc.)"
+    },
+    {
+      "word": "引退",
+      "reading": "いんたい",
+      "meaning": "retirement"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "practical use"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "care"
+    },
+    {
+      "word": "私用",
+      "reading": "しよう",
+      "meaning": "personal use"
+    },
+    {
+      "word": "器用",
+      "reading": "きよう",
+      "meaning": "skillful"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ハムレットから１行引用できますか。",
+      "reading": null,
+      "english": "Can you quote a line of Hamlet?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このことばは、君の持っている本から引用したのだ。",
+      "reading": null,
+      "english": "These words came out of the book you have.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "父はシェイクスピアを引用した手紙を書いていた。",
+      "reading": null,
+      "english": "My father used to write letters that quoted from Shakespeare.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

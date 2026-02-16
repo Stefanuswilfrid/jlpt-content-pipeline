@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "密",
+    "reading": "みつ",
+    "romaji": "mitsu",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tebal",
+          "rapat"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "close (relationship)",
+          "intimate"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "minute",
+          "fine",
+          "careful"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "secret"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "esoteric Buddhism",
+          "secret Buddhist teachings"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "秘密",
+      "reading": "ひみつ",
+      "meaning": "rahasia, kerahasiaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "謀は密なるを良しとす",
+      "reading": "はかりごとはみつなるをよしとす",
+      "meaning": "strategies cannot succeed unless they are kept secret",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

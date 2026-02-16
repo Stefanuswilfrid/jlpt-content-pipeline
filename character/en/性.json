@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "性",
+    "reading": "さが",
+    "romaji": "saga",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "one's nature",
+          "one's destiny"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "custom",
+          "tradition",
+          "habit",
+          "convention"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "性格",
+      "reading": "せいかく",
+      "meaning": "character (of a person)"
+    },
+    {
+      "word": "酸性",
+      "reading": "さんせい",
+      "meaning": "acidity"
+    },
+    {
+      "word": "性質",
+      "reading": "せいしつ",
+      "meaning": "nature (of a person)"
+    },
+    {
+      "word": "女性",
+      "reading": "じょせい",
+      "meaning": "woman"
+    },
+    {
+      "word": "男性",
+      "reading": "だんせい",
+      "meaning": "man"
+    },
+    {
+      "word": "性能",
+      "reading": "せいのう",
+      "meaning": "ability"
+    },
+    {
+      "word": "性別",
+      "reading": "せいべつ",
+      "meaning": "(distinction of) sex"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "盗人根性",
+      "reading": "ぬすっとこんじょう",
+      "meaning": "thievish nature (character)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "習い性となる",
+      "reading": "ならいせいとなる",
+      "meaning": "habit is a second nature",
+      "type": "proverb"
+    },
+    {
+      "word": "生酔い本性違わず",
+      "reading": "なまよいほんしょうたがわず",
+      "meaning": "in wine there is truth",
+      "type": "proverb"
+    },
+    {
+      "word": "性相近し、習い相遠し",
+      "reading": "せいあいちかし、ならいあいとおし",
+      "meaning": "by human nature we are close, through practice we grow apart",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,202 @@
+{
+  "definition": {
+    "word": "引き出す",
+    "reading": "ひきだす",
+    "romaji": "hikidasu",
+    "jlpt": "N2",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to pull out",
+          "to take out",
+          "to draw out"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lead out (e.g. a horse from a stable)",
+          "to summon (e.g. to court)",
+          "to bring (e.g. someone to the negotiating table)",
+          "to drag"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to withdraw (money)",
+          "to draw"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bring out (talent, potential, beauty, flavour, etc.)",
+          "to extract (information, the truth, etc.)",
+          "to get (e.g. an answer out of someone)",
+          "to obtain (e.g. a result)",
+          "to elicit",
+          "to draw (a conclusion)",
+          "to derive (e.g. pleasure)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to get (money) out of someone",
+          "to coax out of someone",
+          "to get someone to pay",
+          "to make someone produce (funds)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "呼び出す",
+      "reading": "よびだす",
+      "meaning": "to call (someone) to (the door, phone, etc.)"
+    },
+    {
+      "word": "引き止める",
+      "reading": "ひきとめる",
+      "meaning": "to detain"
+    },
+    {
+      "word": "差し引き",
+      "reading": "さしひき",
+      "meaning": "deduction"
+    },
+    {
+      "word": "取り出す",
+      "reading": "とりだす",
+      "meaning": "to take out"
+    },
+    {
+      "word": "引き返す",
+      "reading": "ひきかえす",
+      "meaning": "to turn back"
+    },
+    {
+      "word": "言い出す",
+      "reading": "いいだす",
+      "meaning": "to begin to say"
+    },
+    {
+      "word": "引きずる",
+      "reading": "ひきずる",
+      "meaning": "to drag"
+    },
+    {
+      "word": "引っ越す",
+      "reading": "ひっこす",
+      "meaning": "to move (house)"
+    },
+    {
+      "word": "引っ張る",
+      "reading": "ひっぱる",
+      "meaning": "to pull"
+    },
+    {
+      "word": "出題",
+      "reading": "しゅつだい",
+      "meaning": "setting a question (for an exam, quiz, etc.)"
+    },
+    {
+      "word": "抜け出す",
+      "reading": "ぬけだす",
+      "meaning": "to slip out"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "暗がりから牛を引き出す",
+      "reading": "くらがりからうしをひきだす",
+      "meaning": "to drive black hogs in the dark",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "我々は勉強からさらに楽しみを引き出す。",
+      "reading": null,
+      "english": "We derive further pleasure from our study.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "読書から楽しみを引き出すのは読者次第です。",
+      "reading": null,
+      "english": "It's the reader that determines whether they extract pleasure from reading.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人生とは不十分な前提から十分な結論を引き出す技術である。",
+      "reading": null,
+      "english": "Life is the art of drawing sufficient conclusions from insufficient premises.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "我々は勉強からさらに楽しみを引き出す。",
+      "reading": null,
+      "english": "We derive further pleasure from our study.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "人生とは不十分な前提から十分な結論を引き出す技術である。",
+      "reading": null,
+      "english": "Life is the art of drawing sufficient conclusions from insufficient premises.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "読書から楽しみを引き出すのは読者次第です。",
+      "reading": null,
+      "english": "It's the reader that determines whether they extract pleasure from reading.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日銀行からお金を引き出すことができない。",
+      "reading": null,
+      "english": "I can't get my money out of the bank today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日銀行からお金を引き出すことができない。",
+      "reading": null,
+      "english": "I can't get my money out of the bank today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

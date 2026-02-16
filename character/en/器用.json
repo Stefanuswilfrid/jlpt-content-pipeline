@@ -1,0 +1,165 @@
+{
+  "definition": {
+    "word": "器用",
+    "reading": "きよう",
+    "romaji": "kiyou",
+    "jlpt": "N3",
+    "frequency": 21750,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "skillful",
+          "skilful",
+          "adroit",
+          "dexterous",
+          "dextrous",
+          "deft",
+          "nimble",
+          "handy"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "clever",
+          "shrewd",
+          "ingenious"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "武器",
+      "reading": "ぶき",
+      "meaning": "weapon"
+    },
+    {
+      "word": "使用",
+      "reading": "しよう",
+      "meaning": "use"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "cost"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "confidence"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "application (of a rule, law, method, etc.)"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "practical use"
+    },
+    {
+      "word": "楽器",
+      "reading": "がっき",
+      "meaning": "musical instrument"
+    },
+    {
+      "word": "容器",
+      "reading": "ようき",
+      "meaning": "container"
+    },
+    {
+      "word": "引用",
+      "reading": "いんよう",
+      "meaning": "quotation"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "care"
+    },
+    {
+      "word": "磁器",
+      "reading": "じき",
+      "meaning": "porcelain"
+    },
+    {
+      "word": "器官",
+      "reading": "きかん",
+      "meaning": "organ"
+    },
+    {
+      "word": "私用",
+      "reading": "しよう",
+      "meaning": "personal use"
+    },
+    {
+      "word": "機械",
+      "reading": "きかい",
+      "meaning": "machine"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "器用貧乏",
+      "reading": "きようびんぼう",
+      "meaning": "jack of all trades, master of none",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は手先が器用だね。",
+      "reading": null,
+      "english": "You have a light hand, don't you?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "マックスは手先が器用だ。",
+      "reading": null,
+      "english": "Max is clever with his fingers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その女の子は指先が器用だ。",
+      "reading": null,
+      "english": "The girl is skillful with her fingers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは本当に不器用ですね。",
+      "reading": null,
+      "english": "You are really clumsy, aren't you!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "アンタ本当に器用ねっ。主夫とか向いてるんじゃない？",
+      "reading": null,
+      "english": "You're really handy, aren't you? Don't you think you'd make a good house-husband?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

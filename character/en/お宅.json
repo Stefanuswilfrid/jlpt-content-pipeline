@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "お宅",
+    "reading": "おたく",
+    "romaji": "otaku",
+    "jlpt": "N4",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "your house",
+          "your home",
+          "your family"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "your husband"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "your organization"
+        ]
+      },
+      {
+        "pos": [
+          "pronoun"
+        ],
+        "meanings": [
+          "you"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "帰宅",
+      "reading": "きたく",
+      "meaning": "returning home"
+    },
+    {
+      "word": "住宅",
+      "reading": "じゅうたく",
+      "meaning": "residence"
+    },
+    {
+      "word": "宅",
+      "reading": "たく",
+      "meaning": "house"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

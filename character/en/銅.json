@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "銅",
+    "reading": "どう",
+    "romaji": "dou",
+    "jlpt": "N2",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "copper (Cu)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "bronze (medal)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "銅貨",
+      "reading": "どうか",
+      "meaning": "copper coin"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その銅像を遠くから見るとかなり素敵に見えます。",
+      "reading": null,
+      "english": "The bronze statue looks quite nice from a distance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ここの数枚の銅貨がある。",
+      "reading": null,
+      "english": "Here are a few coppers.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銅像が粉々になった。",
+      "reading": null,
+      "english": "The bronze statue was broken into pieces.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銅も銀も金属である。",
+      "reading": null,
+      "english": "Copper and silver are both metals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銅は電気をよく伝える。",
+      "reading": null,
+      "english": "Copper conducts electricity well.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銅はよく電気を通す。",
+      "reading": null,
+      "english": "Copper conducts electricity well.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電線は銅でできている。",
+      "reading": null,
+      "english": "Electricity cables are made of copper.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "青銅は銅とすずから成り立っている。",
+      "reading": null,
+      "english": "Bronze is composed of copper and tin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その銅像を遠くから見るとかなり素敵に見えます。",
+      "reading": null,
+      "english": "The bronze statue looks quite nice from a distance.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

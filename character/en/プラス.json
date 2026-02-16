@@ -1,0 +1,122 @@
+{
+  "definition": {
+    "word": "プラス",
+    "reading": "プラス",
+    "romaji": "purasu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "conjunction",
+          "prefix",
+          "suffix"
+        ],
+        "meanings": [
+          "plus",
+          "addition"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "positive (number)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "plus sign",
+          "positive symbol"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "advantage",
+          "plus",
+          "asset",
+          "positive factor",
+          "positive effect"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "profit",
+          "gain"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "anode",
+          "plus terminal",
+          "positive pole"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "positive (test result)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外国旅行でプラスになることがたくさんあるでしょう。",
+      "reading": null,
+      "english": "There are lots of benefits from travelling abroad.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "安全のため、使用前にプラスチック・ケースをはずして下さい。",
+      "reading": null,
+      "english": "For safety purposes, remove the plastic casing before use.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "そんなことをしても何のプラスにもならない。",
+      "reading": null,
+      "english": "It will not add anything to the situation.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その皿は、プラスチックで出来ている。",
+      "reading": null,
+      "english": "The plate is made of plastic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

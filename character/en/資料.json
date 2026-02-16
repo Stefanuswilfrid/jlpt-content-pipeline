@@ -1,0 +1,158 @@
+{
+  "definition": {
+    "word": "資料",
+    "reading": "しりょう",
+    "romaji": "shiryou",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "material",
+          "materials",
+          "data",
+          "information",
+          "documents"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "原料",
+      "reading": "げんりょう",
+      "meaning": "raw materials"
+    },
+    {
+      "word": "有料",
+      "reading": "ゆうりょう",
+      "meaning": "fee-charging"
+    },
+    {
+      "word": "送料",
+      "reading": "そうりょう",
+      "meaning": "postage"
+    },
+    {
+      "word": "調味料",
+      "reading": "ちょうみりょう",
+      "meaning": "seasoning"
+    },
+    {
+      "word": "資金",
+      "reading": "しきん",
+      "meaning": "funds"
+    },
+    {
+      "word": "投資",
+      "reading": "とうし",
+      "meaning": "investment"
+    },
+    {
+      "word": "融資",
+      "reading": "ゆうし",
+      "meaning": "financing"
+    },
+    {
+      "word": "資産",
+      "reading": "しさん",
+      "meaning": "property"
+    },
+    {
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "free (of charge)"
+    },
+    {
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "fee"
+    },
+    {
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "cooking"
+    },
+    {
+      "word": "資格",
+      "reading": "しかく",
+      "meaning": "qualifications"
+    },
+    {
+      "word": "資源",
+      "reading": "しげん",
+      "meaning": "resources"
+    },
+    {
+      "word": "資本",
+      "reading": "しほん",
+      "meaning": "funds"
+    },
+    {
+      "word": "材料",
+      "reading": "ざいりょう",
+      "meaning": "materials"
+    },
+    {
+      "word": "燃料",
+      "reading": "ねんりょう",
+      "meaning": "fuel"
+    },
+    {
+      "word": "物資",
+      "reading": "ぶっし",
+      "meaning": "goods"
+    },
+    {
+      "word": "食料",
+      "reading": "しょくりょう",
+      "meaning": "food"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "プレゼンテーションの前に資料に目を通しておくのが一番いい。",
+      "reading": null,
+      "english": "It is best to review the material before the presentation.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "どのような資料でも送っていただけるとうれしいです。",
+      "reading": null,
+      "english": "I would appreciate any information you can send to us.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その資料はこの部署にはありません。",
+      "reading": null,
+      "english": "Our department doesn't have that information.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "本が書けるだけの資料はまだ集まっていない。",
+      "reading": null,
+      "english": "I haven't enough material to write a book yet.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "本が書けるだけの資料はまだ集まっていない。",
+      "reading": null,
+      "english": "I haven't yet collected sufficient materials to write a book.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

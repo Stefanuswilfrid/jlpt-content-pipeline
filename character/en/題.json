@@ -1,0 +1,137 @@
+{
+  "definition": {
+    "word": "題",
+    "reading": "だい",
+    "romaji": "dai",
+    "jlpt": "N3",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "title",
+          "subject",
+          "theme",
+          "topic"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "problem (on a test)",
+          "question"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix",
+          "counter"
+        ],
+        "meanings": [
+          "counter for questions (on a test)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "題名",
+      "reading": "だいめい",
+      "meaning": "title"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaning": "subject"
+    },
+    {
+      "word": "話題",
+      "reading": "わだい",
+      "meaning": "topic"
+    },
+    {
+      "word": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "homework"
+    },
+    {
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "question (e.g. on a test)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無理難題",
+      "reading": "むりなんだい",
+      "meaning": "unreasonable demand",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "閑話休題",
+      "reading": "かんわきゅうだい",
+      "meaning": "getting back to the subject at hand, ...",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "外題学問",
+      "reading": "げだいがくもん",
+      "meaning": "putting on a knowing air when one only knows the title of the book (play, etc.)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "そうしたらひとつ問題があって・・・。",
+      "reading": null,
+      "english": "Then there is a problem...",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の気付いていない問題がある。",
+      "reading": null,
+      "english": "There's a problem there that you don't see.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何が問題なの？",
+      "reading": null,
+      "english": "Where is the problem?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そこに問題がある。",
+      "reading": null,
+      "english": "Therein lies the problem.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そうしたらひとつ問題があって・・・。",
+      "reading": null,
+      "english": "Then there is a problem...",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の気付いていない問題がある。",
+      "reading": null,
+      "english": "There's a problem there that you don't see.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

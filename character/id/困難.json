@@ -1,0 +1,45 @@
+{
+  "definition": {
+    "word": "困難",
+    "reading": "こんなん",
+    "romaji": "konnan",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "kesulitan",
+          "kesusahan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "infeasibility",
+          "inability (to carry out)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "難",
+      "reading": "なん",
+      "meaning": "kesulitan, kesengsaraan, cacat"
+    },
+    {
+      "word": "盗難",
+      "reading": "とうなん",
+      "meaning": "pencurian, perampokan"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

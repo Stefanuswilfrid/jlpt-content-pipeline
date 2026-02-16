@@ -1,0 +1,85 @@
+{
+  "definition": {
+    "word": "掘る",
+    "reading": "ほる",
+    "romaji": "horu",
+    "jlpt": "N2",
+    "frequency": 13250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "menggali",
+          "menggali"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to delve into"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to dig up (vegetables, treasure, etc.)",
+          "to mine (coal, ore, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発掘",
+      "reading": "はっくつ",
+      "meaning": "penggalian, penemuan (misalnya, bakat baru)"
+    },
+    {
+      "word": "採掘",
+      "reading": "さいくつ",
+      "meaning": "pertambangan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "かまを掘る",
+      "reading": "かまをほる",
+      "meaning": "to perform anal sex (between men)",
+      "type": "expression"
+    },
+    {
+      "word": "墓穴を掘る",
+      "reading": "ぼけつをほる",
+      "meaning": "to dig one's own grave",
+      "type": "idiom"
+    },
+    {
+      "word": "おかまを掘る",
+      "reading": "おかまをほる",
+      "meaning": "to perform anal sex (between men)",
+      "type": "expression"
+    },
+    {
+      "word": "渇に臨みて井を掘る",
+      "reading": "かつにのぞみていをほる",
+      "meaning": "to fail to make timely preparations",
+      "type": "idiom"
+    },
+    {
+      "word": "蟹は甲羅に似せて穴を掘る",
+      "reading": "かにはこうらににせてあなをほる",
+      "meaning": "to each their own",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

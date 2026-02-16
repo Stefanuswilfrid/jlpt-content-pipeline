@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "車庫",
+    "reading": "しゃこ",
+    "romaji": "shako",
+    "jlpt": "N2",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "garage",
+          "carport",
+          "depot (for trains, buses, etc.)",
+          "shed",
+          "carbarn"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "倉庫",
+      "reading": "そうこ",
+      "meaning": "storehouse"
+    },
+    {
+      "word": "乗車",
+      "reading": "じょうしゃ",
+      "meaning": "boarding (a train, bus, etc.)"
+    },
+    {
+      "word": "車掌",
+      "reading": "しゃしょう",
+      "meaning": "(train) conductor"
+    },
+    {
+      "word": "車輪",
+      "reading": "しゃりん",
+      "meaning": "(vehicle) wheel"
+    },
+    {
+      "word": "停車",
+      "reading": "ていしゃ",
+      "meaning": "stopping (of a train, car, etc.)"
+    },
+    {
+      "word": "下車",
+      "reading": "げしゃ",
+      "meaning": "alighting (from a train, bus, etc.)"
+    },
+    {
+      "word": "歯車",
+      "reading": "はぐるま",
+      "meaning": "gear"
+    },
+    {
+      "word": "機関車",
+      "reading": "きかんしゃ",
+      "meaning": "locomotive"
+    },
+    {
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "refrigerator"
+    },
+    {
+      "word": "金庫",
+      "reading": "きんこ",
+      "meaning": "safe"
+    },
+    {
+      "word": "駐車",
+      "reading": "ちゅうしゃ",
+      "meaning": "parking (a vehicle)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この建物を車庫に使いたい。",
+      "reading": null,
+      "english": "I want this building for a garage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "車庫を仕事場として使えるように改造した。",
+      "reading": null,
+      "english": "I adapted the garage for use as a workshop.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私は車庫付きの家を借りた。",
+      "reading": null,
+      "english": "I rented a house with a garage.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は車庫の窓から様子を見ていてびっくりしてしまった。",
+      "reading": null,
+      "english": "I watched from the garage window, amazed at what I saw.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

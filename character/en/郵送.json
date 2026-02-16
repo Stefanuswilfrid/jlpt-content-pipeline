@@ -1,0 +1,170 @@
+{
+  "definition": {
+    "word": "郵送",
+    "reading": "ゆうそう",
+    "romaji": "yuusou",
+    "jlpt": "N2",
+    "frequency": 5750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mailing",
+          "posting"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "見送る",
+      "reading": "みおくる",
+      "meaning": "to see (someone) off"
+    },
+    {
+      "word": "送り仮名",
+      "reading": "おくりがな",
+      "meaning": "kana written after a kanji to complete the full (usually kun) reading of the word"
+    },
+    {
+      "word": "送料",
+      "reading": "そうりょう",
+      "meaning": "postage"
+    },
+    {
+      "word": "輸送",
+      "reading": "ゆそう",
+      "meaning": "transport"
+    },
+    {
+      "word": "送別",
+      "reading": "そうべつ",
+      "meaning": "farewell"
+    },
+    {
+      "word": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "post office"
+    },
+    {
+      "word": "見送り",
+      "reading": "みおくり",
+      "meaning": "seeing (someone) off"
+    },
+    {
+      "word": "運送",
+      "reading": "うんそう",
+      "meaning": "transport"
+    },
+    {
+      "word": "送金",
+      "reading": "そうきん",
+      "meaning": "remittance"
+    },
+    {
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaning": "broadcasting"
+    },
+    {
+      "word": "郵便",
+      "reading": "ゆうびん",
+      "meaning": "mail service"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もちろん品も、そして郵送料すらも返ってこなかった。",
+      "reading": null,
+      "english": "Of course, neither goods nor mailing fee returned.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "つきましてはカタログを郵送してください。",
+      "reading": null,
+      "english": "Would you please send me a catalogue by mail?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "カタログを郵送していただけないでしょうか。",
+      "reading": null,
+      "english": "Would you please send me a catalogue by mail?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それを郵送してくれますか。",
+      "reading": null,
+      "english": "Will you send it by mail?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "本は郵送してください。",
+      "reading": null,
+      "english": "Please send the book by mail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私はその本を郵送します。",
+      "reading": null,
+      "english": "I'll send the book by mail.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その手紙は明日郵送されるだろう。",
+      "reading": null,
+      "english": "The letter will be mailed tomorrow.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "すぐに報告書を郵送いたしますので、まもなく届くはずですよ。",
+      "reading": null,
+      "english": "I'll mail you the report in a jiffy, so you won't have to wait long.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "これらの手紙をすぐに郵送してください。",
+      "reading": null,
+      "english": "Please get these letters off right away.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この用紙を保険会社に郵送してください。",
+      "reading": null,
+      "english": "Please mail this form to your insurance company.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この手紙を郵送してくださいませんか。",
+      "reading": null,
+      "english": "Would you mind mailing this letter for me?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

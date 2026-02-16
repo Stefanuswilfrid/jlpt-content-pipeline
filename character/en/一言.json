@@ -1,0 +1,171 @@
+{
+  "definition": {
+    "word": "一言",
+    "reading": "ひとこと",
+    "romaji": "hitokoto",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "single word",
+          "a few words",
+          "brief comment"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "唯一",
+      "reading": "ゆいいつ",
+      "meaning": "only"
+    },
+    {
+      "word": "一体",
+      "reading": "いったい",
+      "meaning": "(what) the heck"
+    },
+    {
+      "word": "一致",
+      "reading": "いっち",
+      "meaning": "agreement"
+    },
+    {
+      "word": "一家",
+      "reading": "いっか",
+      "meaning": "a family"
+    },
+    {
+      "word": "一種",
+      "reading": "いっしゅ",
+      "meaning": "a kind"
+    },
+    {
+      "word": "一瞬",
+      "reading": "いっしゅん",
+      "meaning": "instant"
+    },
+    {
+      "word": "一生",
+      "reading": "いっしょう",
+      "meaning": "whole life"
+    },
+    {
+      "word": "言語",
+      "reading": "げんご",
+      "meaning": "language"
+    },
+    {
+      "word": "一帯",
+      "reading": "いったい",
+      "meaning": "whole area"
+    },
+    {
+      "word": "一般",
+      "reading": "いっぱん",
+      "meaning": "general"
+    },
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "one (esp. of two)"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "万一",
+      "reading": "まんいち",
+      "meaning": "(unlikely event of) emergency"
+    },
+    {
+      "word": "伝言",
+      "reading": "でんごん",
+      "meaning": "(verbal) message"
+    },
+    {
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "(doing) together"
+    },
+    {
+      "word": "一昨年",
+      "reading": "おととし",
+      "meaning": "year before last"
+    },
+    {
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "one person"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一言一行",
+      "reading": "いちげんいっこう",
+      "meaning": "every word and act",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一言居士",
+      "reading": "いちげんこじ",
+      "meaning": "person who is ready to comment on every subject",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一言半句",
+      "reading": "いちげんはんく",
+      "meaning": "a single word",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一言一句",
+      "reading": "いちごんいっく",
+      "meaning": "every single word and phrase",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の一言一言が気になる。",
+      "reading": null,
+      "english": "Every little thing you say gets on my nerves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一言よろしいでしょうか。",
+      "reading": null,
+      "english": "May I say something?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "一言言いたい。",
+      "reading": null,
+      "english": "Let me say.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は何事につけ一言言いたくなる、そうだろ？",
+      "reading": null,
+      "english": "You have something to say about everything, don't you?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

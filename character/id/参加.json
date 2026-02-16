@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "参加",
+    "reading": "さんか",
+    "romaji": "sanka",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "partisipasi"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaning": "peningkatan, penambahan"
+    },
+    {
+      "word": "参考",
+      "reading": "さんこう",
+      "meaning": "referensi, konsultasi"
+    },
+    {
+      "word": "加味",
+      "reading": "かみ",
+      "meaning": "bumbu, penyedap rasa"
+    },
+    {
+      "word": "加減",
+      "reading": "かげん",
+      "meaning": "penyesuaian; penambahan dan pengurangan"
+    },
+    {
+      "word": "加わる",
+      "reading": "くわわる",
+      "meaning": "ikut serta, menyetujui"
+    },
+    {
+      "word": "追加",
+      "reading": "ついか",
+      "meaning": "tambahan, suplemen, lampiran"
+    },
+    {
+      "word": "加速",
+      "reading": "かそく",
+      "meaning": "percepatan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は当然参加するものと思っている。",
+      "reading": null,
+      "indonesian": "I take it for granted that you will join.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君はその会合に参加するつもりですか。",
+      "reading": null,
+      "indonesian": "Are you planning to take part in the meeting?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生はすべてパーティーに参加した。",
+      "reading": null,
+      "indonesian": "All the students attended the party.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会話に参加しませんか。",
+      "reading": null,
+      "indonesian": "Won't you join our conversation?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

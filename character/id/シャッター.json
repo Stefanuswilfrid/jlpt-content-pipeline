@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "シャッター",
+    "reading": "シャッター",
+    "romaji": "shattaa",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rana"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shutter (for a door, window, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "トムはシャッターを切り続けた。",
+      "reading": null,
+      "indonesian": "Tom kept taking pictures.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "シャッター開けるの忘れてた。",
+      "reading": null,
+      "indonesian": "I forgot to open the blinds.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "シャッター開けるの忘れてた。",
+      "reading": null,
+      "indonesian": "I forgot to open the shutter.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

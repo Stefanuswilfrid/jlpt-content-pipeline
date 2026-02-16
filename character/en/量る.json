@@ -1,0 +1,111 @@
+{
+  "definition": {
+    "word": "計る",
+    "reading": "はかる",
+    "romaji": "hakaru",
+    "jlpt": "N3",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to measure",
+          "to weigh",
+          "to survey",
+          "to time (sound, gauge, estimate)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to conjecture",
+          "to infer",
+          "to surmise"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "sum total"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "plan"
+    },
+    {
+      "word": "計算",
+      "reading": "けいさん",
+      "meaning": "calculation"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "plan"
+    },
+    {
+      "word": "統計",
+      "reading": "とうけい",
+      "meaning": "statistics"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "accounting"
+    },
+    {
+      "word": "計",
+      "reading": "けい",
+      "meaning": "plan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "今日から毎日体重量ることにした。",
+      "reading": null,
+      "english": "I have decided to weigh myself every day starting today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日から毎日体重量ることにした。",
+      "reading": null,
+      "english": "I've decided to weigh myself every day starting today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日から毎日体重量ることにした。",
+      "reading": null,
+      "english": "I have decided to weigh myself every day starting today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "今日から毎日体重量ることにした。",
+      "reading": null,
+      "english": "I've decided to weigh myself every day starting today.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

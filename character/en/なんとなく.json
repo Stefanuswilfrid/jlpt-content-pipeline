@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "何となく",
+    "reading": "なんとなく",
+    "romaji": "nantonaku",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "somehow",
+          "for some reason (or other)",
+          "without knowing why"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "何分",
+      "reading": "なにぶん",
+      "meaning": "some"
+    },
+    {
+      "word": "何とか",
+      "reading": "なんとか",
+      "meaning": "something"
+    },
+    {
+      "word": "何でも",
+      "reading": "なんでも",
+      "meaning": "any"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "なんとなくわかるわ、君の気持ち。",
+      "reading": null,
+      "english": "I somehow understand your feelings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なんとなくわかるわ、君の気持ち。",
+      "reading": null,
+      "english": "I somehow understand your feelings.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なんとなく変な気分。",
+      "reading": null,
+      "english": "I feel funny.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なんとなく変な気分。",
+      "reading": null,
+      "english": "I feel funny.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "中国語はなんとなくわかります。",
+      "reading": null,
+      "english": "Somehow I understand Chinese.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

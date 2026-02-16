@@ -1,0 +1,183 @@
+{
+  "definition": {
+    "word": "法",
+    "reading": "のり",
+    "romaji": "nori",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rule",
+          "law",
+          "regulation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "model",
+          "pattern"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "teachings of Buddha",
+          "Buddhist doctrine"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "transverse measurement",
+          "measurement across"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "side-slope",
+          "slope"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "憲法",
+      "reading": "けんぽう",
+      "meaning": "constitution"
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "method"
+    },
+    {
+      "word": "作法",
+      "reading": "さほう",
+      "meaning": "manners"
+    },
+    {
+      "word": "法律",
+      "reading": "ほうりつ",
+      "meaning": "law"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "治外法権",
+      "reading": "ちがいほうけん",
+      "meaning": "extraterritoriality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "三段論法",
+      "reading": "さんだんろんぽう",
+      "meaning": "syllogism",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "末法思想",
+      "reading": "まっぽうしそう",
+      "meaning": "pessimism due to decadent-age theory",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "六法全書",
+      "reading": "ろっぽうぜんしょ",
+      "meaning": "compendium of laws",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "行儀作法",
+      "reading": "ぎょうぎさほう",
+      "meaning": "etiquette",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不法行為",
+      "reading": "ふほうこうい",
+      "meaning": "tort",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "永字八法",
+      "reading": "えいじはっぽう",
+      "meaning": "Eight Principles of Yong",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "如法暗夜",
+      "reading": "にょほうあんや",
+      "meaning": "total (utter) darkness",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "法界悋気",
+      "reading": "ほうかいりんき",
+      "meaning": "being jealous of things that have nothing to do with one",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "釈迦に説法",
+      "reading": "しゃかにせっぽう",
+      "meaning": "teaching your grandmother to suck eggs",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "やる気があれば方法は見つかるもの。",
+      "reading": null,
+      "english": "Where there's a will, there's a way.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は文法の練習をしなければならない。",
+      "reading": null,
+      "english": "You must practice grammar.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の行動は全く合法的だ。",
+      "reading": null,
+      "english": "Your conduct is perfectly legal.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君に自動車の運転法を教えてあげよう。",
+      "reading": null,
+      "english": "I'll teach you how to drive a car.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "近代的方法で産業は向上した。",
+      "reading": null,
+      "english": "Modern methods improved industry.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

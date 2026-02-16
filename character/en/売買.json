@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "売買",
+    "reading": "ばいばい",
+    "romaji": "baibai",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "trade",
+          "buying and selling",
+          "trafficking (e.g. of humans, arms, drugs)",
+          "dealing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発売",
+      "reading": "はつばい",
+      "meaning": "sale"
+    },
+    {
+      "word": "売り切れ",
+      "reading": "うりきれ",
+      "meaning": "sold-out"
+    },
+    {
+      "word": "売店",
+      "reading": "ばいてん",
+      "meaning": "stand"
+    },
+    {
+      "word": "特売",
+      "reading": "とくばい",
+      "meaning": "special sale"
+    },
+    {
+      "word": "販売",
+      "reading": "はんばい",
+      "meaning": "sale"
+    },
+    {
+      "word": "商売",
+      "reading": "しょうばい",
+      "meaning": "trade"
+    },
+    {
+      "word": "売り場",
+      "reading": "うりば",
+      "meaning": "selling area"
+    },
+    {
+      "word": "買い物",
+      "reading": "かいもの",
+      "meaning": "shopping"
+    },
+    {
+      "word": "売る",
+      "reading": "うる",
+      "meaning": "to sell"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "トムは馬を売買している。",
+      "reading": null,
+      "english": "Tom buys and sells horses.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "トムは馬を売買している。",
+      "reading": null,
+      "english": "Tom buys and sells horses.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

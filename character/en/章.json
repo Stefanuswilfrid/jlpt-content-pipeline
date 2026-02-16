@@ -1,0 +1,129 @@
+{
+  "definition": {
+    "word": "章",
+    "reading": "しょう",
+    "romaji": "shou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "chapter",
+          "section"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "medal",
+          "badge",
+          "insignia"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "文章",
+      "reading": "ぶんしょう",
+      "meaning": "writing"
+    },
+    {
+      "word": "慌てる",
+      "reading": "あわてる",
+      "meaning": "to become confused (disconcerted, disorganized, disorganised)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "周章狼狽",
+      "reading": "しゅうしょうろうばい",
+      "meaning": "consternation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "断章取義",
+      "reading": "だんしょうしゅぎ",
+      "meaning": "interpreting (and using) a passage without regard to its context",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "魯魚章草",
+      "reading": "ろぎょしょうそう",
+      "meaning": "miswriting a word",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "金曜日の予習に第４章を読んでおくこと。",
+      "reading": null,
+      "english": "Read chapter 4 for Friday.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "教科書の各章に約１２もの練習問題がついている。",
+      "reading": null,
+      "english": "Each chapter in the textbook is followed by about a dozen comprehension questions.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "とにかく、次を始められるには、この章を終えなければならない。",
+      "reading": null,
+      "english": "At any rate, we have to finish this chapter before we can start on the next.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その便せんには校章が打ち出しにされている。",
+      "reading": null,
+      "english": "The note is embossed with the school emblem.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その文章は言外の意味を読み取らねばならない。",
+      "reading": null,
+      "english": "These messages have to be read between the lines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この本は五章から出来ている。",
+      "reading": null,
+      "english": "This book consists of five chapters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この本は３つの章から成り立っています。",
+      "reading": null,
+      "english": "This book is composed of three chapters.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この文章を暗記するのに２時間かかった。",
+      "reading": null,
+      "english": "It took me two hours to memorize this sentence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

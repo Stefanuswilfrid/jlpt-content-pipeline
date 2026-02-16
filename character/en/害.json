@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "害",
+    "reading": "がい",
+    "romaji": "gai",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "injury",
+          "harm",
+          "evil influence",
+          "damage"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "障害",
+      "reading": "しょうがい",
+      "meaning": "obstacle"
+    },
+    {
+      "word": "被害",
+      "reading": "ひがい",
+      "meaning": "(suffering) damage"
+    },
+    {
+      "word": "損害",
+      "reading": "そんがい",
+      "meaning": "damage"
+    },
+    {
+      "word": "公害",
+      "reading": "こうがい",
+      "meaning": "pollution"
+    },
+    {
+      "word": "利害",
+      "reading": "りがい",
+      "meaning": "advantages and disadvantages"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一利一害",
+      "reading": "いちりいちがい",
+      "meaning": "advantages and disadvantages",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "被害妄想",
+      "reading": "ひがいもうそう",
+      "meaning": "persecution complex",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "有害無益",
+      "reading": "ゆうがいむえき",
+      "meaning": "more harm than good",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "人畜無害",
+      "reading": "じんちくむがい",
+      "meaning": "harmless to humans and animals",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "利害得失",
+      "reading": "りがいとくしつ",
+      "meaning": "advantages and disadvantages",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "要害堅固",
+      "reading": "ようがいけんご",
+      "meaning": "(a fortress being) impregnable",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無益有害",
+      "reading": "むえきゆうがい",
+      "meaning": "useless and harmful",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "百害あって一利なし",
+      "reading": "ひゃくがいあっていちりなし",
+      "meaning": "all pain, no gain",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "学生たちが公害反対運動の先頭に立った。",
+      "reading": null,
+      "english": "Students took the lead in the campaign against pollution.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "definition": {
+    "word": "作",
+    "reading": "さく",
+    "romaji": "saku",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "sebuah pekerjaan",
+          "sebuah panen"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "harvest",
+          "crop",
+          "yield",
+          "cultivation",
+          "tillage"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "technique"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "作家",
+      "reading": "さっか",
+      "meaning": "penulis, pengarang, novelis"
+    },
+    {
+      "word": "作曲",
+      "reading": "さっきょく",
+      "meaning": "komposisi (musik)"
+    },
+    {
+      "word": "操作",
+      "reading": "そうさ",
+      "meaning": "operasi, manajemen, pemrosesan"
+    },
+    {
+      "word": "作業",
+      "reading": "さぎょう",
+      "meaning": "pekerjaan, operasi, manufaktur"
+    },
+    {
+      "word": "作品",
+      "reading": "さくひん",
+      "meaning": "karya, opus, produksi"
+    },
+    {
+      "word": "作物",
+      "reading": "さくもつ",
+      "meaning": "hasil bumi (misalnya, pertanian), tanaman"
+    },
+    {
+      "word": "作法",
+      "reading": "さほう",
+      "meaning": "tata krama, etiket, kesopanan"
+    },
+    {
+      "word": "制作",
+      "reading": "せいさく",
+      "meaning": "karya (misalnya, film, buku)"
+    },
+    {
+      "word": "製作",
+      "reading": "せいさく",
+      "meaning": "manufaktur, produksi"
+    },
+    {
+      "word": "作成",
+      "reading": "さくせい",
+      "meaning": "penciptaan, persiapan, membuat"
+    },
+    {
+      "word": "作者",
+      "reading": "さくしゃ",
+      "meaning": "penulis, seniman"
+    },
+    {
+      "word": "創作",
+      "reading": "そうさく",
+      "meaning": "produksi, kreasi, pekerjaan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "同化作用",
+      "reading": "どうかさよう",
+      "meaning": "assimilation",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "行儀作法",
+      "reading": "ぎょうぎさほう",
+      "meaning": "etiquette",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自浄作用",
+      "reading": "じじょうさよう",
+      "meaning": "autopurificatory activity (in the natural world)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "自壊作用",
+      "reading": "じかいさよう",
+      "meaning": "(the act of) disintegration",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "裏面工作",
+      "reading": "りめんこうさく",
+      "meaning": "string-pulling",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "閨秀作家",
+      "reading": "けいしゅうさっか",
+      "meaning": "woman writer",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "陽動作戦",
+      "reading": "ようどうさくせん",
+      "meaning": "diversionary tactics",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "豊年満作",
+      "reading": "ほうねんまんさく",
+      "meaning": "bumper crops",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "偽装工作",
+      "reading": "ぎそうこうさく",
+      "meaning": "diversionary tactics (maneuvering)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "戯作三昧",
+      "reading": "げさくざんまい",
+      "meaning": "being absorbed in writing popular novels (cheap fiction)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "時間はいくらでも作れる。",
+      "reading": null,
+      "indonesian": "One can always find time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "作り事はすべて、真実だ。",
+      "reading": null,
+      "indonesian": "All that which is invented, is true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日お昼ご飯を作っているよ。",
+      "reading": null,
+      "indonesian": "I make lunch every day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "時間はいくらでも作れる。",
+      "reading": null,
+      "indonesian": "One can always find time.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "作り事はすべて、真実だ。",
+      "reading": null,
+      "indonesian": "All that which is invented, is true.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "毎日お昼ご飯を作っているよ。",
+      "reading": null,
+      "indonesian": "I make lunch every day.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

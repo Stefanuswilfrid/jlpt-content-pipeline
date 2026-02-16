@@ -1,0 +1,99 @@
+{
+  "definition": {
+    "word": "鉄砲",
+    "reading": "てっぽう",
+    "romaji": "teppou",
+    "jlpt": "N2",
+    "frequency": 10750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pistol"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "wooden pole that wrestlers strike in practice"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "puffer fish"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "鉄橋",
+      "reading": "てっきょう",
+      "meaning": "jembatan besi"
+    },
+    {
+      "word": "私鉄",
+      "reading": "してつ",
+      "meaning": "kereta api swasta"
+    },
+    {
+      "word": "鉄棒",
+      "reading": "てつぼう",
+      "meaning": "batang besi, linggis, palang horizontal (senam)"
+    },
+    {
+      "word": "鉄道",
+      "reading": "てつどう",
+      "meaning": "kereta api; rel kereta"
+    },
+    {
+      "word": "鉄",
+      "reading": "てつ",
+      "meaning": "besi"
+    },
+    {
+      "word": "鉄鋼",
+      "reading": "てっこう",
+      "meaning": "besi dan baja"
+    },
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "kereta bawah tanah, kereta bawah tanah"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "闇夜の鉄砲",
+      "reading": "やみよのてっぽう",
+      "meaning": "aimless attempt",
+      "type": "idiom"
+    },
+    {
+      "word": "闇に鉄砲",
+      "reading": "やみにてっぽう",
+      "meaning": "doing something without having decided what one's goal for it is",
+      "type": "idiom"
+    },
+    {
+      "word": "下手な鉄砲も数撃てば当たる",
+      "reading": "へたなてっぽうもかずうてばあたる",
+      "meaning": "even the unskilled can succeed by a fluke given enough tries",
+      "type": "proverb"
+    },
+    {
+      "word": "下手な鉄砲も数撃ちゃ当たる",
+      "reading": "へたなてっぽうもかずうちゃあたる",
+      "meaning": "even the unskilled can succeed by a fluke given enough tries",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

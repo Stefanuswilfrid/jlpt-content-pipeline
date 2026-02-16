@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "交通",
+    "reading": "こうつう",
+    "romaji": "koutsuu",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "lalu lintas",
+          "transportasi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru"
+        ],
+        "meanings": [
+          "communication",
+          "exchange (of ideas, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "umum; lazim"
+    },
+    {
+      "word": "通り",
+      "reading": "とおり",
+      "meaning": "Jalan ~, Jalan Raya ~"
+    },
+    {
+      "word": "外交",
+      "reading": "がいこう",
+      "meaning": "diplomasi"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "surat-menyurat, komunikasi"
+    },
+    {
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning": "tukar, ganti"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "kesamaan, saling"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "mata uang"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "jalan yang dilewati, melintasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

@@ -1,0 +1,86 @@
+{
+  "definition": {
+    "word": "機械",
+    "reading": "きかい",
+    "romaji": "kikai",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "machine",
+          "mechanism"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "instrument",
+          "appliance",
+          "apparatus"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "機関",
+      "reading": "きかん",
+      "meaning": "engine"
+    },
+    {
+      "word": "機構",
+      "reading": "きこう",
+      "meaning": "mechanism"
+    },
+    {
+      "word": "機能",
+      "reading": "きのう",
+      "meaning": "function"
+    },
+    {
+      "word": "契機",
+      "reading": "けいき",
+      "meaning": "opportunity"
+    },
+    {
+      "word": "有機",
+      "reading": "ゆうき",
+      "meaning": "organic"
+    },
+    {
+      "word": "ジェット機",
+      "reading": "ジェットき",
+      "meaning": "jet aeroplane"
+    },
+    {
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "humour"
+    },
+    {
+      "word": "機会",
+      "reading": "きかい",
+      "meaning": "chance"
+    },
+    {
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "airplane"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "機械の心",
+      "reading": "きかいのこころ",
+      "meaning": "devious mind",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

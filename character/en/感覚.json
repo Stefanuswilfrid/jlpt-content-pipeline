@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "word": "感覚",
+    "reading": "かんかく",
+    "romaji": "kankaku",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "sense",
+          "sensation",
+          "feeling",
+          "intuition"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "感じ",
+      "reading": "かんじ",
+      "meaning": "feeling"
+    },
+    {
+      "word": "感情",
+      "reading": "かんじょう",
+      "meaning": "emotion"
+    },
+    {
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "impressions"
+    },
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "being deeply moved emotionally"
+    },
+    {
+      "word": "覚悟",
+      "reading": "かくご",
+      "meaning": "readiness"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "thanks"
+    },
+    {
+      "word": "感じる",
+      "reading": "かんじる",
+      "meaning": "to feel"
+    },
+    {
+      "word": "視覚",
+      "reading": "しかく",
+      "meaning": "(sense of) sight"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "admiration"
+    },
+    {
+      "word": "覚ます",
+      "reading": "さます",
+      "meaning": "to awaken"
+    },
+    {
+      "word": "実感",
+      "reading": "じっかん",
+      "meaning": "real feeling"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "平衡感覚",
+      "reading": "へいこうかんかく",
+      "meaning": "sense of equilibrium",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "泳いでいる人達は体が冷えて感覚がなくなっていた。",
+      "reading": null,
+      "english": "The swimmers were numb with cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "泳者は寒さで感覚がまひしていた。",
+      "reading": null,
+      "english": "The swimmers were numb with cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなた自身の感覚を持つことが大切だ。",
+      "reading": null,
+      "english": "It is important to have a sense of your own.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

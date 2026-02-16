@@ -1,0 +1,44 @@
+{
+  "definition": {
+    "word": "誤り",
+    "reading": "あやまり",
+    "romaji": "ayamari",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "error",
+          "mistake",
+          "slip",
+          "bug"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "misunderstanding"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "弘法にも筆の誤り",
+      "reading": "こうぼうにもふでのあやまり",
+      "meaning": "Homer sometimes nods",
+      "type": "proverb"
+    },
+    {
+      "word": "弘法も筆の誤り",
+      "reading": "こうぼうもふでのあやまり",
+      "meaning": "Homer sometimes nods",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

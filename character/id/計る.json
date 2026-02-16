@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "計る",
+    "reading": "はかる",
+    "romaji": "hakaru",
+    "jlpt": "N3",
+    "frequency": 11250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengukur",
+          "menimbang",
+          "mensurvei"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to conjecture",
+          "to infer",
+          "to surmise"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "jumlah total, total"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "rencana, desain"
+    },
+    {
+      "word": "計算",
+      "reading": "けいさん",
+      "meaning": "perhitungan, penaksiran"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "rencana, proyek, jadwal"
+    },
+    {
+      "word": "統計",
+      "reading": "とうけい",
+      "meaning": "hamburan, hamburan, dispersi"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter, pengukur"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "akun, keuangan"
+    },
+    {
+      "word": "計",
+      "reading": "けい",
+      "meaning": "rencana; jumlah, total"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "事を計るは人、事を成すは神。",
+      "reading": null,
+      "indonesian": "Man plans things, but the gods decide.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "事を計るは人、事を成すは神。",
+      "reading": null,
+      "indonesian": "Man plans things, but the gods decide.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

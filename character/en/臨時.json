@@ -1,0 +1,109 @@
+{
+  "definition": {
+    "word": "臨時",
+    "reading": "りんじ",
+    "romaji": "rinji",
+    "jlpt": "N2",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "temporary",
+          "provisional",
+          "interim"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "special",
+          "extraordinary",
+          "extra"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "時速",
+      "reading": "じそく",
+      "meaning": "speed (per hour)"
+    },
+    {
+      "word": "日時",
+      "reading": "にちじ",
+      "meaning": "date and time (of a meeting, departure, etc.)"
+    },
+    {
+      "word": "時間割",
+      "reading": "じかんわり",
+      "meaning": "timetable (esp. a weekly school timetable)"
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "time"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "time"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "period"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "at that time"
+    },
+    {
+      "word": "同時",
+      "reading": "どうじ",
+      "meaning": "same time"
+    },
+    {
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "one o'clock"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "clock"
+    },
+    {
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "sometimes"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "私はその会社で臨時の仕事を得た。",
+      "reading": null,
+      "english": "I got a temporary job at the firm.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私はその会社で臨時の仕事を得た。",
+      "reading": null,
+      "english": "I got a temporary job at the firm.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "definition": {
+    "word": "勢い",
+    "reading": "いきおい",
+    "romaji": "ikioi",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "force",
+          "vigor",
+          "vigour",
+          "energy",
+          "spirit",
+          "life"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "influence",
+          "authority",
+          "power",
+          "might"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "impetus",
+          "momentum",
+          "course (of events)"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "naturally",
+          "necessarily"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "姿勢",
+      "reading": "しせい",
+      "meaning": "posture"
+    },
+    {
+      "word": "大勢",
+      "reading": "おおぜい",
+      "meaning": "crowd of people"
+    },
+    {
+      "word": "大勢",
+      "reading": "たいせい",
+      "meaning": "general situation"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "破竹の勢い",
+      "reading": "はちくのいきおい",
+      "meaning": "(with) great vigour (from the way splitting bamboo goes all down the stick)",
+      "type": "idiom"
+    },
+    {
+      "word": "騎虎の勢い",
+      "reading": "きこのいきおい",
+      "meaning": "having no choice but to carry on",
+      "type": "idiom"
+    },
+    {
+      "word": "飛ぶ鳥を落とす勢い",
+      "reading": "とぶとりをおとすいきおい",
+      "meaning": "great vigor",
+      "type": "idiom"
+    },
+    {
+      "word": "飛ぶ鳥も落とす勢い",
+      "reading": "とぶとりもおとすいきおい",
+      "meaning": "great vigor",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

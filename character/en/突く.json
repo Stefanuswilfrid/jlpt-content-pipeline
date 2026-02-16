@@ -1,0 +1,91 @@
+{
+  "definition": {
+    "word": "突く",
+    "reading": "つく",
+    "romaji": "tsuku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to prick",
+          "to stab"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to poke",
+          "to prod",
+          "to push",
+          "to thrust",
+          "to nudge",
+          "to hit",
+          "to strike"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to use (a cane)",
+          "to prop oneself up with",
+          "to press against (the floor, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to attack"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ku' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to brave (the rain, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "突然",
+      "reading": "とつぜん",
+      "meaning": "abrupt"
+    },
+    {
+      "word": "突っ込む",
+      "reading": "つっこむ",
+      "meaning": "to thrust (something) into (something)"
+    },
+    {
+      "word": "衝突",
+      "reading": "しょうとつ",
+      "meaning": "collision"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "痛いところを突く",
+      "reading": "いたいところをつく",
+      "meaning": "to hit a nerve",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

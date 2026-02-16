@@ -1,0 +1,148 @@
+{
+  "definition": {
+    "word": "方程式",
+    "reading": "ほうていしき",
+    "romaji": "houteishiki",
+    "jlpt": "N2",
+    "frequency": 12250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "persamaan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "method for solving a problem",
+          "set way of achieving a particular result"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "明け方",
+      "reading": "あけがた",
+      "meaning": "fajar"
+    },
+    {
+      "word": "長方形",
+      "reading": "ちょうほうけい",
+      "meaning": "persegi panjang, lonjong"
+    },
+    {
+      "word": "方角",
+      "reading": "ほうがく",
+      "meaning": "arah, jalan"
+    },
+    {
+      "word": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "persegi"
+    },
+    {
+      "word": "方針",
+      "reading": "ほうしん",
+      "meaning": "tujuan, rencana, kebijakan"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "keberadaan seseorang"
+    },
+    {
+      "word": "日程",
+      "reading": "にってい",
+      "meaning": "jadwal"
+    },
+    {
+      "word": "公式",
+      "reading": "こうしき",
+      "meaning": "rumus, formalitas, resmi"
+    },
+    {
+      "word": "形式",
+      "reading": "けいしき",
+      "meaning": "bentuk, formalitas, format"
+    },
+    {
+      "word": "方面",
+      "reading": "ほうめん",
+      "meaning": "arah; area"
+    },
+    {
+      "word": "儀式",
+      "reading": "ぎしき",
+      "meaning": "upacara, ritual, tata cara"
+    },
+    {
+      "word": "葬式",
+      "reading": "そうしき",
+      "meaning": "pemakaman"
+    },
+    {
+      "word": "方言",
+      "reading": "ほうげん",
+      "meaning": "dialek"
+    },
+    {
+      "word": "方式",
+      "reading": "ほうしき",
+      "meaning": "bentuk, metode, sistem"
+    },
+    {
+      "word": "法則",
+      "reading": "ほうそく",
+      "meaning": "hukum, aturan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その少年は連立方程式を楽に解いた。",
+      "reading": null,
+      "indonesian": "The boy solved the simultaneous equation with ease.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その少年は連立方程式を楽に解いた。",
+      "reading": null,
+      "indonesian": "The boy solved the simultaneous equation with ease.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "シュレーディンガー方程式は量子力学系の時間発展を記述する。",
+      "reading": null,
+      "indonesian": "Schrodinger's equation describes the time evolution of quantum mechanics.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "シュレーディンガー方程式は量子力学系の時間発展を記述する。",
+      "reading": null,
+      "indonesian": "Schrodinger's equation describes the time evolution of quantum mechanics.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私のチューターでさえこの方程式は解けなかった。",
+      "reading": null,
+      "indonesian": "Even my tutor couldn't solve this equation.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

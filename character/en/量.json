@@ -1,0 +1,110 @@
+{
+  "definition": {
+    "word": "量",
+    "reading": "りょう",
+    "romaji": "ryou",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "quantity",
+          "amount",
+          "volume",
+          "capacity",
+          "portion (of food)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "generosity",
+          "magnanimity",
+          "tolerance"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pramana (means by which one gains accurate and valid knowledge; in Indian philosophy)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "重量",
+      "reading": "じゅうりょう",
+      "meaning": "weight"
+    },
+    {
+      "word": "測量",
+      "reading": "そくりょう",
+      "meaning": "measurement"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "感慨無量",
+      "reading": "かんがいむりょう",
+      "meaning": "deep emotion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "情状酌量",
+      "reading": "じょうじょうしゃくりょう",
+      "meaning": "taking the extenuating circumstances into consideration",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "千万無量",
+      "reading": "せんまんむりょう",
+      "meaning": "innumerable",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "無量無辺",
+      "reading": "むりょうむへん",
+      "meaning": "immense and limitless",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "入るを量りて出ずるを為す",
+      "reading": "いるをはかりていずるをなす",
+      "meaning": "consider your income before spending",
+      "type": "proverb"
+    },
+    {
+      "word": "入るを量りて出ずるを制す",
+      "reading": "いるをはかりていずるをせいす",
+      "meaning": "cut your coat according to your cloth",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "機械は多量の電気を使用する。",
+      "reading": null,
+      "english": "Machinery uses a lot of electricity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "音量を下げてください。",
+      "reading": null,
+      "english": "Turn down the volume, please.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

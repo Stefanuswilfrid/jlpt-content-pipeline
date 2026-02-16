@@ -1,0 +1,66 @@
+{
+  "definition": {
+    "word": "建つ",
+    "reading": "たつ",
+    "romaji": "tatsu",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'tsu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "berdiri; dibangun (v.i.)",
+          "mendirikan",
+          "didirikan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "建設",
+      "reading": "けんせつ",
+      "meaning": "konstruksi, pondasi"
+    },
+    {
+      "word": "建築",
+      "reading": "けんちく",
+      "meaning": "konstruksi, arsitektur"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "口では大坂の城も建つ",
+      "reading": "くちではおおさかのしろもたつ",
+      "meaning": "talk is cheap",
+      "type": "proverb"
+    },
+    {
+      "word": "商人は損していつか倉が建つ",
+      "reading": "あきんどはそんしていつかくらがたつ",
+      "meaning": "a merchant claims to suffer losses but eventually amasses a fortune",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "口では大阪の城も建つ。",
+      "reading": null,
+      "indonesian": "Easier said than done.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "口では大阪の城も建つ。",
+      "reading": null,
+      "indonesian": "Easier said than done.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

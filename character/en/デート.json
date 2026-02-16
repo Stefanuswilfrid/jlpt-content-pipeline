@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "デート",
+    "reading": "デート",
+    "romaji": "deeto",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "date (with someone)",
+          "(social) outing (for two)",
+          "date night"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "date (day)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "フランクは夕方のデートを楽しみに待っていた。",
+      "reading": null,
+      "english": "Frank was waiting with pleasure for the date in the evening.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どうすれば、ナンシーとデートすることに成功できるでしょうか。",
+      "reading": null,
+      "english": "How can I succeed in getting a date with Nancy?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このデータをアップデートしていただけますか。",
+      "reading": null,
+      "english": "Could I get you to update this data for me?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ケンとデートしていい、お母さん？",
+      "reading": null,
+      "english": "Can I go on a date with Ken, Mom?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "アンディはけっしてデートにおくれたことはない。",
+      "reading": null,
+      "english": "Andy is never late for a date.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

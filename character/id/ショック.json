@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "ショック",
+    "reading": "ショック",
+    "romaji": "shokku",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "terkejut"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "shock (physical)",
+          "impact",
+          "jolt"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "crisis (esp. financial)",
+          "event that rattles the markets"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(circulatory) shock"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "べティはそのショックから立ち直った。",
+      "reading": null,
+      "indonesian": "Betty got over the shock.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それはたいへんなショックでした。",
+      "reading": null,
+      "indonesian": "It was such a shock.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "その男は、ニュース番組をちらっと見て、ショックを受けた。",
+      "reading": null,
+      "indonesian": "The man glanced at the news program and was shocked.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

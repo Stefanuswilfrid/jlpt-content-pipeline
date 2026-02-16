@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "北極",
+    "reading": "ほっきょく",
+    "romaji": "hokkyoku",
+    "jlpt": "N2",
+    "frequency": 9250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "North Pole"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "the Arctic"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "南北",
+      "reading": "なんぼく",
+      "meaning": "north and south"
+    },
+    {
+      "word": "南極",
+      "reading": "なんきょく",
+      "meaning": "South Pole"
+    },
+    {
+      "word": "極楽",
+      "reading": "ごくらく",
+      "meaning": "Sukhavati (Amitabha's Pure Land)"
+    },
+    {
+      "word": "北",
+      "reading": "きた",
+      "meaning": "north"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "われわれは、ペアリーが北極を発見したと信じている。",
+      "reading": null,
+      "english": "We credit Peary with having discovered the North Pole.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "北極を発見した人はピアリーだと私たちは思っている。",
+      "reading": null,
+      "english": "We credit Peary with having discovered the North Pole.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "シロクマは北極地方に住んでいる。",
+      "reading": null,
+      "english": "Polar bears live in the Arctic.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

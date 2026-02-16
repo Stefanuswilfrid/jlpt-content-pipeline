@@ -1,0 +1,89 @@
+{
+  "definition": {
+    "word": "過ぎる",
+    "reading": "すぎる",
+    "romaji": "sugiru",
+    "jlpt": "N4",
+    "frequency": 16750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to pass through",
+          "to pass by",
+          "to go beyond"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to pass (of time)",
+          "to elapse"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to have expired",
+          "to have ended",
+          "to be over"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to exceed",
+          "to surpass",
+          "to be above"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be no more than ..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "passing through (a tunnel, station, town, etc.)"
+    },
+    {
+      "word": "通り過ぎる",
+      "reading": "とおりすぎる",
+      "meaning": "to go past"
+    },
+    {
+      "word": "過ごす",
+      "reading": "すごす",
+      "meaning": "to spend (time)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "度が過ぎる",
+      "reading": "どがすぎる",
+      "meaning": "to go too far",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

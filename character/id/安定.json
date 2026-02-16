@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "安定",
+    "reading": "あんてい",
+    "romaji": "antei",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "stabilitas",
+          "keseimbangan"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "stable"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "keputusan, penetapan"
+    },
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "kecemasan, kegelisahan"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "jangka waktu tetap"
+    },
+    {
+      "word": "否定",
+      "reading": "ひてい",
+      "meaning": "negasi, penyangkalan"
+    },
+    {
+      "word": "勘定",
+      "reading": "かんじょう",
+      "meaning": "perhitungan, penghitungan, pertimbangan"
+    },
+    {
+      "word": "仮定",
+      "reading": "かてい",
+      "meaning": "asumsi, dugaan, hipotesis"
+    },
+    {
+      "word": "安全",
+      "reading": "あんぜん",
+      "meaning": "keselamatan, keamanan"
+    },
+    {
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "rencana, pengaturan, jadwal"
+    },
+    {
+      "word": "一定",
+      "reading": "いってい",
+      "meaning": "tetap, mapan, teratur"
+    },
+    {
+      "word": "指定",
+      "reading": "してい",
+      "meaning": "penunjukan, spesifikasi, penugasan"
+    },
+    {
+      "word": "特定",
+      "reading": "とくてい",
+      "meaning": "spesifik, khusus, tertentu"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "安定成長",
+      "reading": "あんていせいちょう",
+      "meaning": "stable growth",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "この歯が不安定です。",
+      "reading": null,
+      "indonesian": "This tooth is wobbly.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

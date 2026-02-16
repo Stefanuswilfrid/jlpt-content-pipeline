@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "発達",
+    "reading": "はったつ",
+    "romaji": "hattatsu",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "pembangunan",
+          "pertumbuhan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発射",
+      "reading": "はっしゃ",
+      "meaning": "menembak, melepaskan tembakan"
+    },
+    {
+      "word": "配達",
+      "reading": "はいたつ",
+      "meaning": "pengiriman, distribusi"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "penemuan"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "terbitan (publikasi)"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "pembangunan, pertumbuhan, kemajuan"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "pengumuman; publikasi; presentasi"
+    },
+    {
+      "word": "爆発",
+      "reading": "ばくはつ",
+      "meaning": "ledakan, detonasi, letusan"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "penemuan, deteksi, temuan"
+    },
+    {
+      "word": "発車",
+      "reading": "はっしゃ",
+      "meaning": "keberangkatan sebuah kendaraan"
+    },
+    {
+      "word": "上達",
+      "reading": "じょうたつ",
+      "meaning": "peningkatan, kemajuan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "医者たる者は最新の医学の発達についていくべきだ。",
+      "reading": null,
+      "indonesian": "Doctors should keep abreast with all the latest developments in medicine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "フランス語はラテン語を母体として発達した。",
+      "reading": null,
+      "indonesian": "French developed from Latin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "台風は発達しながら九州方面に向かっています。",
+      "reading": null,
+      "indonesian": "The typhoon is gaining strength as it heads for Kyushu.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

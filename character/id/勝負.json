@@ -1,0 +1,153 @@
+{
+  "definition": {
+    "word": "勝負",
+    "reading": "しょうぶ",
+    "romaji": "shoubu",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kemenangan atau kekalahan",
+          "permainan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "match",
+          "contest",
+          "game",
+          "bout"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "勝敗",
+      "reading": "しょうはい",
+      "meaning": "kemenangan atau kekalahan, hasil (pertempuran)"
+    },
+    {
+      "word": "背負う",
+      "reading": "せおう",
+      "meaning": "dibebani; dipikul di punggung atau pundak."
+    },
+    {
+      "word": "優勝",
+      "reading": "ゆうしょう",
+      "meaning": "kemenangan keseluruhan, kejuaraan"
+    },
+    {
+      "word": "決勝",
+      "reading": "けっしょう",
+      "meaning": "final (dalam olahraga)"
+    },
+    {
+      "word": "勝利",
+      "reading": "しょうり",
+      "meaning": "kemenangan, kejayaan, menang"
+    },
+    {
+      "word": "負担",
+      "reading": "ふたん",
+      "meaning": "beban; muatan"
+    },
+    {
+      "word": "勝る",
+      "reading": "まさる",
+      "meaning": "untuk unggul, untuk melampaui, untuk mengalahkan pesaing"
+    },
+    {
+      "word": "勝ち",
+      "reading": "かち",
+      "meaning": "menang, kemenangan"
+    },
+    {
+      "word": "負け",
+      "reading": "まけ",
+      "meaning": "kekalahan, kehilangan"
+    },
+    {
+      "word": "負債",
+      "reading": "ふさい",
+      "meaning": "utang, kewajiban"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一六勝負",
+      "reading": "いちろくしょうぶ",
+      "meaning": "gambling on whether the throw of a die will produce a \"one\" or a \"six\"",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "真剣勝負",
+      "reading": "しんけんしょうぶ",
+      "meaning": "fighting with real swords",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "勝負は時の運",
+      "reading": "しょうぶはときのうん",
+      "meaning": "victory depends on the turn of fortune",
+      "type": "proverb"
+    },
+    {
+      "word": "相撲に勝って勝負に負ける",
+      "reading": "すもうにかってしょうぶにまける",
+      "meaning": "to ultimately fail despite being in a favourable position",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ゆっくりでも着実にやってゆけば勝負には勝つ。",
+      "reading": null,
+      "indonesian": "Slow and steady wins the race.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボブはスケートではきみといい勝負だ。",
+      "reading": null,
+      "indonesian": "Bob is a good match for you in skating.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "パッシングではなくロブで勝負だ。",
+      "reading": null,
+      "indonesian": "Rather than passing, lobbing is the way to win.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "勝負は預かりとなった。",
+      "reading": null,
+      "indonesian": "The match ended in a draw.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "勝負は問題ではない。",
+      "reading": null,
+      "indonesian": "It doesn't matter whether you win or not.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

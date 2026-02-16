@@ -1,0 +1,56 @@
+{
+  "definition": {
+    "word": "埋める",
+    "reading": "うずめる",
+    "romaji": "uzumeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengubur",
+          "mengisi"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fill (completely)",
+          "to stuff",
+          "to pack",
+          "to cram",
+          "to fill up"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "埋まる",
+      "reading": "うまる",
+      "meaning": "untuk dikuburkan, untuk diisi"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "骨を埋める",
+      "reading": "ほねをうずめる",
+      "meaning": "to make (somewhere) one's final home",
+      "type": "idiom"
+    },
+    {
+      "word": "外堀を埋める",
+      "reading": "そとぼりをうめる",
+      "meaning": "to remove obstacles in the way of one's objective",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

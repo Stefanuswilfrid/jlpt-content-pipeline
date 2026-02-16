@@ -1,0 +1,117 @@
+{
+  "definition": {
+    "word": "向ける",
+    "reading": "むける",
+    "romaji": "mukeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to turn (towards)",
+          "to face",
+          "to point",
+          "to aim",
+          "to direct to"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to head to",
+          "to go towards"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to allot",
+          "to allocate"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to send",
+          "to dispatch (e.g. a person)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to aim for",
+          "to pursue"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "向く",
+      "reading": "むく",
+      "meaning": "to turn toward"
+    },
+    {
+      "word": "方向",
+      "reading": "ほうこう",
+      "meaning": "direction"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaning": "tendency"
+    },
+    {
+      "word": "振り向く",
+      "reading": "ふりむく",
+      "meaning": "to turn one's face"
+    },
+    {
+      "word": "向こう",
+      "reading": "むこう",
+      "meaning": "opposite side"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "水を向ける",
+      "reading": "みずをむける",
+      "meaning": "to try and draw someone out",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "トムはカメラを向けるといつも変顔をする。",
+      "reading": null,
+      "english": "Tom always makes a funny face when I point the camera at him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムはカメラを向けるといつも変顔をする。",
+      "reading": null,
+      "english": "Tom always makes a funny face when I point the camera at him.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "definition": {
+    "word": "余り",
+    "reading": "あまり",
+    "romaji": "amari",
+    "jlpt": "N3",
+    "frequency": 7250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "remainder",
+          "remnant",
+          "rest",
+          "balance",
+          "surplus",
+          "remains (of a meal)",
+          "leftovers"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "(not) very",
+          "(not) much"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "too much",
+          "excessively",
+          "overly"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "extreme",
+          "great",
+          "severe",
+          "tremendous",
+          "terrible"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "not very good",
+          "so-so",
+          "mediocre"
+        ]
+      },
+      {
+        "pos": [
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "more than",
+          "over"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "余裕",
+      "reading": "よゆう",
+      "meaning": "surplus"
+    },
+    {
+      "word": "余分",
+      "reading": "よぶん",
+      "meaning": "extra"
+    },
+    {
+      "word": "余所",
+      "reading": "よそ",
+      "meaning": "another place"
+    },
+    {
+      "word": "余計",
+      "reading": "よけい",
+      "meaning": "extra"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "余り物に福がある",
+      "reading": "あまりものにふくがある",
+      "meaning": "do not despair because you are the last to take your pick",
+      "type": "proverb"
+    },
+    {
+      "word": "余り物には福がある",
+      "reading": "あまりものにはふくがある",
+      "meaning": "don't despair because you're the last to take your pick",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あんまり無理するなよ。",
+      "reading": null,
+      "english": "Don't overdo it.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "テストの勉強、あんまりしなかったようだね。",
+      "reading": null,
+      "english": "Looks like you didn't study much for the test.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お金はあんまりないけど、何とかやってるよ。",
+      "reading": null,
+      "english": "I don't have much money, but I can get along somehow.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あんまり思い上がるなよ。",
+      "reading": null,
+      "english": "Don't blow your own horn too much.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あんまり心配すると禿げるよ。",
+      "reading": null,
+      "english": "Don't worry too much, or you'll go bald.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あんまり期待しすぎない方がいいと思うよ。",
+      "reading": null,
+      "english": "Don't get your hopes up too much.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あんまり期待しすぎないでね。",
+      "reading": null,
+      "english": "Don't get your hopes up too much.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

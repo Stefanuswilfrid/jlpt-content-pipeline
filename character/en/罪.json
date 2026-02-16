@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "罪",
+    "reading": "つみ",
+    "romaji": "tsumi",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "crime",
+          "sin",
+          "wrongdoing",
+          "indiscretion"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "penalty",
+          "sentence",
+          "punishment"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fault",
+          "responsibility",
+          "culpability"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "thoughtlessness",
+          "lack of consideration"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "犯罪",
+      "reading": "はんざい",
+      "meaning": "crime"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "無罪放免",
+      "reading": "むざいほうめん",
+      "meaning": "acquittal",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "功罪相償う",
+      "reading": "こうざいあいつぐなう",
+      "meaning": "the good and bad deeds cancel each other out",
+      "type": "idiom"
+    },
+    {
+      "word": "花泥棒は罪にならない",
+      "reading": "はなどろぼうはつみにならない",
+      "meaning": "it is no crime to steal flowers",
+      "type": "proverb"
+    },
+    {
+      "word": "罪を憎んで人を憎まず",
+      "reading": "つみをにくんでひとをにくまず",
+      "meaning": "condemn the offense, but not the offender",
+      "type": "proverb"
+    },
+    {
+      "word": "その罪を憎んでその人を憎まず",
+      "reading": "そのつみをにくんでそのひとをにくまず",
+      "meaning": "condemn the offense, but not the offender",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

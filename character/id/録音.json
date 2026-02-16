@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "録音",
+    "reading": "ろくおん",
+    "romaji": "rokuon",
+    "jlpt": "N2",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "rekaman (audio)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "雑音",
+      "reading": "ざつおん",
+      "meaning": "suara (mengganggu, kasar)"
+    },
+    {
+      "word": "五十音",
+      "reading": "ごじゅうおん",
+      "meaning": "aksara suku kata Jepang"
+    },
+    {
+      "word": "本音",
+      "reading": "ほんね",
+      "meaning": "(niat) sebenarnya, motif"
+    },
+    {
+      "word": "騒音",
+      "reading": "そうおん",
+      "meaning": "kebisingan"
+    },
+    {
+      "word": "音",
+      "reading": "おん",
+      "meaning": "suara, nada"
+    },
+    {
+      "word": "音",
+      "reading": "ね",
+      "meaning": "suara, nada"
+    },
+    {
+      "word": "記録",
+      "reading": "きろく",
+      "meaning": "catatan, risalah, dokumen"
+    },
+    {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "Musik"
+    },
+    {
+      "word": "音",
+      "reading": "おと",
+      "meaning": "suara, nada"
+    },
+    {
+      "word": "登録",
+      "reading": "とうろく",
+      "meaning": "pendaftaran, mendaftar, mencatat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その放送をテープに録音してくれ。",
+      "reading": null,
+      "indonesian": "Record the broadcast on tape.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "録音が終わったらそれを再生して聞かせてください。",
+      "reading": null,
+      "indonesian": "Please play it back for me after you've finished the recording.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "電話での会話の録音を文学化した資料を用いた。",
+      "reading": null,
+      "indonesian": "We used the transcripts of the recordings of telephone conversations.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "待っている間、録音した音楽でも聞いて下さい。",
+      "reading": null,
+      "indonesian": "You can enjoy some recorded music while you wait.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その放送をテープに録音してくれ。",
+      "reading": null,
+      "indonesian": "Record the broadcast on tape.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "待っている間、録音した音楽でも聞いて下さい。",
+      "reading": null,
+      "indonesian": "You can enjoy some recorded music while you wait.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "電話での会話の録音を文学化した資料を用いた。",
+      "reading": null,
+      "indonesian": "We used the transcripts of the recordings of telephone conversations.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

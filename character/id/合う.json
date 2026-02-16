@@ -1,0 +1,153 @@
+{
+  "definition": {
+    "word": "合う",
+    "reading": "あう",
+    "romaji": "au",
+    "jlpt": "N4",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "agar sesuai",
+          "agar cocok"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to fit",
+          "to match",
+          "to suit",
+          "to agree with",
+          "to be correct"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be profitable",
+          "to be equitable"
+        ]
+      },
+      {
+        "pos": [
+          "auxiliary verb",
+          "Godan verb with 'u' ending"
+        ],
+        "meanings": [
+          "to do ... to each other",
+          "to do ... together"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "pertandingan, permainan, kompetisi"
+    },
+    {
+      "word": "間に合う",
+      "reading": "まにあう",
+      "meaning": "agar tepat waktu untuk"
+    },
+    {
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "sukses, lulus (misalnya, ujian)"
+    },
+    {
+      "word": "話し合う",
+      "reading": "はなしあう",
+      "meaning": "untuk berdiskusi, untuk berbicara bersama"
+    },
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "pertemuan, majelis"
+    },
+    {
+      "word": "割合",
+      "reading": "わりあい",
+      "meaning": "tingkat, rasio, persentase"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "ウマが合う",
+      "reading": "うまがあう",
+      "meaning": "to get on well (with someone)",
+      "type": "idiom"
+    },
+    {
+      "word": "肌が合う",
+      "reading": "はだがあう",
+      "meaning": "to be compatible",
+      "type": "idiom"
+    },
+    {
+      "word": "息が合う",
+      "reading": "いきがあう",
+      "meaning": "to perform in tune with each other",
+      "type": "idiom"
+    },
+    {
+      "word": "呼吸が合う",
+      "reading": "こきゅうがあう",
+      "meaning": "to get along",
+      "type": "idiom"
+    },
+    {
+      "word": "肌に合う",
+      "reading": "はだにあう",
+      "meaning": "to suit one's skin (of cosmetics)",
+      "type": "idiom"
+    },
+    {
+      "word": "帳尻が合う",
+      "reading": "ちょうじりがあう",
+      "meaning": "to balance (accounts)",
+      "type": "idiom"
+    },
+    {
+      "word": "そりが合う",
+      "reading": "そりがあう",
+      "meaning": "to think alike",
+      "type": "idiom"
+    },
+    {
+      "word": "水が合う",
+      "reading": "みずがあう",
+      "meaning": "to agree with one",
+      "type": "idiom"
+    },
+    {
+      "word": "袖振り合うも他生の縁",
+      "reading": "そでふりあうもたしょうのえん",
+      "meaning": "even a chance meeting can lead to a deep bond",
+      "type": "proverb"
+    },
+    {
+      "word": "袖すり合うも多生の縁",
+      "reading": "そですりあうもたしょうのえん",
+      "meaning": "a meeting by chance is preordained",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

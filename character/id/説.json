@@ -1,0 +1,192 @@
+{
+  "definition": {
+    "word": "説",
+    "reading": "せつ",
+    "romaji": "setsu",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "teori"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "opinion",
+          "view"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "rumour",
+          "rumor",
+          "gossip",
+          "hearsay"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "演説",
+      "reading": "えんぜつ",
+      "meaning": "pidato, sambutan"
+    },
+    {
+      "word": "社説",
+      "reading": "しゃせつ",
+      "meaning": "tajuk rencana"
+    },
+    {
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "penjelasan"
+    },
+    {
+      "word": "小説",
+      "reading": "しょうせつ",
+      "meaning": "novel"
+    },
+    {
+      "word": "解説",
+      "reading": "かいせつ",
+      "meaning": "penjelasan, komentar"
+    },
+    {
+      "word": "説く",
+      "reading": "とく",
+      "meaning": "untuk menjelaskan, untuk membela"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "諸説紛々",
+      "reading": "しょせつふんぷん",
+      "meaning": "divergent opinions abound",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "名論卓説",
+      "reading": "めいろんたくせつ",
+      "meaning": "excellent opinions and theories",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "異端邪説",
+      "reading": "いたんじゃせつ",
+      "meaning": "heretical doctrine (thought, faith)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "街談巷説",
+      "reading": "がいだんこうせつ",
+      "meaning": "street gossips and idle rumors",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "高論卓説",
+      "reading": "こうろんたくせつ",
+      "meaning": "an excellent opinion",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "道聴塗説",
+      "reading": "どうちょうとせつ",
+      "meaning": "shallow-minded mouthing of secondhand information",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "釈迦に説法",
+      "reading": "しゃかにせっぽう",
+      "meaning": "teaching your grandmother to suck eggs",
+      "type": "idiom"
+    },
+    {
+      "word": "事実は小説より奇なり",
+      "reading": "じじつはしょうせつよりきなり",
+      "meaning": "truth is stranger than fiction",
+      "type": "proverb"
+    },
+    {
+      "word": "人を見て法を説け",
+      "reading": "ひとをみてほうをとけ",
+      "meaning": "suit your speech to the audience",
+      "type": "proverb"
+    },
+    {
+      "word": "百日の説法屁一つ",
+      "reading": "ひゃくにちのせっぽうへひとつ",
+      "meaning": "single mistake which ruins all one's hard work",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "いつまでかかっても全部を説明するのは無理だ。",
+      "reading": null,
+      "indonesian": "It would take forever for me to explain everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あれは最後にいくらか説明されたものだ。",
+      "reading": null,
+      "indonesian": "That is somewhat explained at the end.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "説明してくれてありがとう。",
+      "reading": null,
+      "indonesian": "Thanks for your explanation.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "説明もできないよ。",
+      "reading": null,
+      "indonesian": "I can't explain it either.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この世界には単に言葉では説明できないようなことがあるんだよ。",
+      "reading": null,
+      "indonesian": "There are things in this world which simply cannot be expressed in the form of words.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "よく見てください。やり方を説明しますから。",
+      "reading": null,
+      "indonesian": "Look carefully. I'm going to show you how it's done.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "いつまでかかっても全部を説明するのは無理だ。",
+      "reading": null,
+      "indonesian": "It would take forever for me to explain everything.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

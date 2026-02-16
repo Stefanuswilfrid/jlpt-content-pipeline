@@ -1,0 +1,196 @@
+{
+  "definition": {
+    "word": "何分",
+    "reading": "なにぶん",
+    "romaji": "nanibun",
+    "jlpt": "N2",
+    "frequency": 19750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "some",
+          "any",
+          "(a) little",
+          "of some kind",
+          "of some sort"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "please"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "anyway",
+          "anyhow",
+          "at any rate",
+          "after all"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "養分",
+      "reading": "ようぶん",
+      "meaning": "nutrient"
+    },
+    {
+      "word": "成分",
+      "reading": "せいぶん",
+      "meaning": "ingredient"
+    },
+    {
+      "word": "身分",
+      "reading": "みぶん",
+      "meaning": "(social) standing"
+    },
+    {
+      "word": "分数",
+      "reading": "ぶんすう",
+      "meaning": "fraction"
+    },
+    {
+      "word": "水分",
+      "reading": "すいぶん",
+      "meaning": "water"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "division"
+    },
+    {
+      "word": "分布",
+      "reading": "ぶんぷ",
+      "meaning": "distribution"
+    },
+    {
+      "word": "分類",
+      "reading": "ぶんるい",
+      "meaning": "classification"
+    },
+    {
+      "word": "分解",
+      "reading": "ぶんかい",
+      "meaning": "disassembly"
+    },
+    {
+      "word": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "amount"
+    },
+    {
+      "word": "幾分",
+      "reading": "いくぶん",
+      "meaning": "somewhat"
+    },
+    {
+      "word": "等分",
+      "reading": "とうぶん",
+      "meaning": "division into equal parts"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "何分かかりますか？",
+      "reading": null,
+      "english": "How long is the ride?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "駅まで私の足で何分くらいかかるでしょうか。",
+      "reading": null,
+      "english": "How long will it take me to walk to the station?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "駅へはタクシーで何分くらいかかりますか。",
+      "reading": null,
+      "english": "How long does it take to the train station by taxi?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "駅まではタクシーで何分くらいかかりますか？",
+      "reading": null,
+      "english": "How long does it take to the train station by taxi?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "バスは何分おきに出ていますか。",
+      "reading": null,
+      "english": "How often do the buses run?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "オーブンで何分？",
+      "reading": null,
+      "english": "How long should we leave it in the oven?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "ＪＲの駅まで歩いて何分くらいかかりますか。",
+      "reading": null,
+      "english": "How many minutes does it take to get to the JR station on foot?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何分かかりますか？",
+      "reading": null,
+      "english": "How long is the ride?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    },
+    {
+      "japanese": "駅まで私の足で何分くらいかかるでしょうか。",
+      "reading": null,
+      "english": "How long will it take me to walk to the station?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "駅へはタクシーで何分くらいかかりますか。",
+      "reading": null,
+      "english": "How long does it take to the train station by taxi?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "駅へはタクシーで何分くらいかかりますか。",
+      "reading": null,
+      "english": "Roughly how many minutes does it take to get to the station by taxi?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

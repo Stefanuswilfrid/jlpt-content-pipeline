@@ -1,0 +1,81 @@
+{
+  "definition": {
+    "word": "偶然",
+    "reading": "ぐうぜん",
+    "romaji": "guuzen",
+    "jlpt": "N3",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "coincidence",
+          "chance",
+          "accident",
+          "fortuity"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "by chance",
+          "unexpectedly",
+          "accidentally"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "contingency"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "偶々",
+      "reading": "たまたま",
+      "meaning": "by chance"
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaning": "nature"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "natural"
+    },
+    {
+      "word": "依然",
+      "reading": "いぜん",
+      "meaning": "still"
+    },
+    {
+      "word": "天然",
+      "reading": "てんねん",
+      "meaning": "nature"
+    },
+    {
+      "word": "突然",
+      "reading": "とつぜん",
+      "meaning": "abrupt"
+    },
+    {
+      "word": "全然",
+      "reading": "ぜんぜん",
+      "meaning": "(not) at all"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

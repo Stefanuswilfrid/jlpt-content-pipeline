@@ -1,0 +1,76 @@
+{
+  "definition": {
+    "word": "照る",
+    "reading": "てる",
+    "romaji": "teru",
+    "jlpt": "N2",
+    "frequency": 15250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "untuk bersinar"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to look slightly upward (of a noh mask; indicating joy, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "照らす",
+      "reading": "てらす",
+      "meaning": "untuk bersinar, untuk menerangi"
+    },
+    {
+      "word": "照合",
+      "reading": "しょうごう",
+      "meaning": "pemeriksaan, verifikasi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "日の照るうちに草を干せ。",
+      "reading": null,
+      "indonesian": "Make hay while the sun shines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日の照るうちに干し草を作れ。",
+      "reading": null,
+      "indonesian": "Make hay while the sun shines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日の照るうちに草を干せ。",
+      "reading": null,
+      "indonesian": "Make hay while the sun shines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "日の照るうちに干し草を作れ。",
+      "reading": null,
+      "indonesian": "Make hay while the sun shines.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

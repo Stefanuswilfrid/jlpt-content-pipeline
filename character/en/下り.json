@@ -1,0 +1,125 @@
+{
+  "definition": {
+    "word": "下り",
+    "reading": "くだり",
+    "romaji": "kudari",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "down-train",
+          "train heading toward the ending point of its route"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "down-slope",
+          "downward going"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "downbound (esp. away from Tokyo)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a prefix"
+        ],
+        "meanings": [
+          "downstream",
+          "downhill"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "地下",
+      "reading": "ちか",
+      "meaning": "underground"
+    },
+    {
+      "word": "下車",
+      "reading": "げしゃ",
+      "meaning": "alighting (from a train, bus, etc.)"
+    },
+    {
+      "word": "低下",
+      "reading": "ていか",
+      "meaning": "fall"
+    },
+    {
+      "word": "以下",
+      "reading": "いか",
+      "meaning": "not exceeding ..."
+    },
+    {
+      "word": "下旬",
+      "reading": "げじゅん",
+      "meaning": "last third of a month"
+    },
+    {
+      "word": "上下",
+      "reading": "じょうげ",
+      "meaning": "top and bottom"
+    },
+    {
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "subway"
+    },
+    {
+      "word": "下",
+      "reading": "もと",
+      "meaning": "under (guidance, supervision, rules, the law, etc.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "肩の荷が下りる",
+      "reading": "かたのにがおりる",
+      "meaning": "to feel relieved of one's burden",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "一行は、歩いてその山を下りた。",
+      "reading": null,
+      "english": "The party walked down the mountain.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ケンが木から下りてきた。",
+      "reading": null,
+      "english": "Ken climbed down from the tree.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "夜のとばりが下りつつある。",
+      "reading": null,
+      "english": "Darkness is falling.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

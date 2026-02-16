@@ -1,0 +1,68 @@
+{
+  "definition": {
+    "word": "散らかす",
+    "reading": "ちらかす",
+    "romaji": "chirakasu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to scatter around",
+          "to leave untidy",
+          "to make a mess"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "解散",
+      "reading": "かいさん",
+      "meaning": "breaking up (a meeting, gathering, etc.)"
+    },
+    {
+      "word": "分散",
+      "reading": "ぶんさん",
+      "meaning": "dispersion"
+    },
+    {
+      "word": "散らす",
+      "reading": "ちらす",
+      "meaning": "to scatter"
+    },
+    {
+      "word": "散らかる",
+      "reading": "ちらかる",
+      "meaning": "to be in disorder"
+    },
+    {
+      "word": "散歩",
+      "reading": "さんぽ",
+      "meaning": "walk"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "お前の物をその辺りに散らかすな。",
+      "reading": null,
+      "english": "Don't scatter your things about.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お前の物をその辺りに散らかすな。",
+      "reading": null,
+      "english": "Don't scatter your things about.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

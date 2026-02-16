@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "住民",
+    "reading": "じゅうみん",
+    "romaji": "juumin",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "inhabitant",
+          "resident",
+          "citizen",
+          "population"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "住宅",
+      "reading": "じゅうたく",
+      "meaning": "residence"
+    },
+    {
+      "word": "国民",
+      "reading": "こくみん",
+      "meaning": "people (of a country)"
+    },
+    {
+      "word": "農民",
+      "reading": "のうみん",
+      "meaning": "farmer"
+    },
+    {
+      "word": "住",
+      "reading": "じゅう",
+      "meaning": "dwelling"
+    },
+    {
+      "word": "市民",
+      "reading": "しみん",
+      "meaning": "citizen (of a country)"
+    },
+    {
+      "word": "民間",
+      "reading": "みんかん",
+      "meaning": "private"
+    },
+    {
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "address (of a home, business, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その島の住民は友好的だ。",
+      "reading": null,
+      "english": "The inhabitants of the island are friendly.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その工事は住民からの強い反対にもかかわらず、続けられた。",
+      "reading": null,
+      "english": "They carried on with the construction in the face of strong opposition from the residents.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "その計画は住民の反対にあった。",
+      "reading": null,
+      "english": "The plan met with opposition from the inhabitants.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この新しいバス便は住民の要求にかなうでしょう。",
+      "reading": null,
+      "english": "This new bus service will meet the residents' needs.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

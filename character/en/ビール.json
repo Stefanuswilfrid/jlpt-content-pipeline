@@ -1,0 +1,47 @@
+{
+  "definition": {
+    "word": "ビール",
+    "reading": "ビール",
+    "romaji": "biiru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "beer"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "外国のビールはありますか。",
+      "reading": null,
+      "english": "Do you have any imported beer?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "グレタ君がビールをひとのみにした。",
+      "reading": null,
+      "english": "Greta chugged the beer in one gulp.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ライトビールはありますか。",
+      "reading": null,
+      "english": "Do you have any light beer?",
+      "lessonInfo": {
+        "level": "newbie"
+      }
+    }
+  ]
+}

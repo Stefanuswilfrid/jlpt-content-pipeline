@@ -1,0 +1,158 @@
+{
+  "definition": {
+    "word": "不",
+    "reading": "ふ",
+    "romaji": "fu",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "prefix"
+        ],
+        "meanings": [
+          "un(~)",
+          "non(~)",
+          "awalan negatif"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "kecemasan, kegelisahan"
+    },
+    {
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "kekurangan, kelangkaan"
+    },
+    {
+      "word": "不満",
+      "reading": "ふまん",
+      "meaning": "ketidakpuasan, ketidakpuasan, keluhan"
+    },
+    {
+      "word": "不正",
+      "reading": "ふせい",
+      "meaning": "ketidakadilan, ketidaksetaraan"
+    },
+    {
+      "word": "不自由",
+      "reading": "ふじゆう",
+      "meaning": "ketidaknyamanan, disabilitas, kesulitan"
+    },
+    {
+      "word": "不幸",
+      "reading": "ふこう",
+      "meaning": "ketidakbahagiaan, kesedihan, kemalangan"
+    },
+    {
+      "word": "不利",
+      "reading": "ふり",
+      "meaning": "kekurangan, kelemahan"
+    },
+    {
+      "word": "不思議",
+      "reading": "ふしぎ",
+      "meaning": "misteri, rasa ingin tahu"
+    },
+    {
+      "word": "不可",
+      "reading": "ふか",
+      "meaning": "salah, buruk, tidak mungkin"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "blokade, gangguan, penghentian"
+    },
+    {
+      "word": "不平",
+      "reading": "ふへい",
+      "meaning": "keluhan, ketidakpuasan, ketidakpuasan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一心不乱",
+      "reading": "いっしんふらん",
+      "meaning": "wholeheartedly",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "半身不随",
+      "reading": "はんしんふずい",
+      "meaning": "hemiplegia (paralysis on one side of the body)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不可抗力",
+      "reading": "ふかこうりょく",
+      "meaning": "act of God",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不可思議",
+      "reading": "ふかしぎ",
+      "meaning": "mystery",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不偏不党",
+      "reading": "ふへんふとう",
+      "meaning": "impartiality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不眠不休",
+      "reading": "ふみんふきゅう",
+      "meaning": "no sleep or rest",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "門外不出",
+      "reading": "もんがいふしゅつ",
+      "meaning": "(treasuring something by) never taking (it) off the premises",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "優柔不断",
+      "reading": "ゆうじゅうふだん",
+      "meaning": "indecisive",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不協和音",
+      "reading": "ふきょうわおん",
+      "meaning": "discord",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "堅忍不抜",
+      "reading": "けんにんふばつ",
+      "meaning": "indomitable perseverance",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "あなたに不満があります。",
+      "reading": null,
+      "indonesian": "I have a bone to pick with you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "あなたに不満があります。",
+      "reading": null,
+      "indonesian": "I have a bone to pick with you.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

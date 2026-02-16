@@ -1,0 +1,167 @@
+{
+  "definition": {
+    "word": "単位",
+    "reading": "たんい",
+    "romaji": "tan'i",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unit (e.g. meters, grams, etc.)",
+          "denomination"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "unit (i.e. one comprised of many)",
+          "group",
+          "whole"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "credit (in school, university, etc.)",
+          "point"
+        ]
+      },
+      {
+        "pos": [
+          "suffix"
+        ],
+        "meanings": [
+          "by the ...",
+          "in units of ...",
+          "in groups of ...",
+          "in amounts of ...",
+          "each ...",
+          "by ...",
+          "every..."
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "地位",
+      "reading": "ちい",
+      "meaning": "(social) position"
+    },
+    {
+      "word": "単純",
+      "reading": "たんじゅん",
+      "meaning": "simple"
+    },
+    {
+      "word": "位置",
+      "reading": "いち",
+      "meaning": "place"
+    },
+    {
+      "word": "位",
+      "reading": "くらい",
+      "meaning": "throne"
+    },
+    {
+      "word": "単語",
+      "reading": "たんご",
+      "meaning": "word"
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "simple"
+    },
+    {
+      "word": "足袋",
+      "reading": "たび",
+      "meaning": "tabi"
+    },
+    {
+      "word": "単なる",
+      "reading": "たんなる",
+      "meaning": "mere"
+    },
+    {
+      "word": "単に",
+      "reading": "たんに",
+      "meaning": "simply"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "りんごは１ダース単位で売られている。",
+      "reading": null,
+      "english": "Apples are sold by the dozen.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ポンドは重さの単位である。",
+      "reading": null,
+      "english": "A pound is a unit of weight.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ボートを時間単位で借りられる。",
+      "reading": null,
+      "english": "You can hire a boat by the hour.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トマトは１ポンド単位で売られる。",
+      "reading": null,
+      "english": "Tomatoes are sold by the pound.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "センチメートルは長さの単位だ。",
+      "reading": null,
+      "english": "A centimeter is a unit of length.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この服地は１ヤード単位で売られている。",
+      "reading": null,
+      "english": "This cloth is sold by the yard.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この教科は何単位ですか。",
+      "reading": null,
+      "english": "How many credits can I get for this course?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この科目は何単位ですか。",
+      "reading": null,
+      "english": "How many credits is this course?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

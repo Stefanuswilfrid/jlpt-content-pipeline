@@ -1,0 +1,97 @@
+{
+  "definition": {
+    "word": "円周",
+    "reading": "えんしゅう",
+    "romaji": "enshuu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "circumference"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "周辺",
+      "reading": "しゅうへん",
+      "meaning": "circumference"
+    },
+    {
+      "word": "楕円",
+      "reading": "だえん",
+      "meaning": "ellipse"
+    },
+    {
+      "word": "円",
+      "reading": "えん",
+      "meaning": "yen (currency of Japan)"
+    },
+    {
+      "word": "周り",
+      "reading": "まわり",
+      "meaning": "circumference"
+    },
+    {
+      "word": "周期",
+      "reading": "しゅうき",
+      "meaning": "cycle"
+    },
+    {
+      "word": "円満",
+      "reading": "えんまん",
+      "meaning": "harmonious"
+    },
+    {
+      "word": "周囲",
+      "reading": "しゅうい",
+      "meaning": "surroundings"
+    },
+    {
+      "word": "丸",
+      "reading": "まる",
+      "meaning": "circle"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "円周の長さの求め方ってどうでしたっけ？忘れました。",
+      "reading": null,
+      "english": "How do you derive the length of the circumference? I've forgotten.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "円周から直径を求めることは可能ですか？",
+      "reading": null,
+      "english": "Is it possible to determine the diameter from the circumference?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "円周から直径を求めることは可能ですか？",
+      "reading": null,
+      "english": "Is it possible to determine the diameter from the circumference?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "円周の長さの求め方ってどうでしたっけ？忘れました。",
+      "reading": null,
+      "english": "How do you derive the length of the circumference? I've forgotten.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

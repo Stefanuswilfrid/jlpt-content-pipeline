@@ -1,0 +1,172 @@
+{
+  "definition": {
+    "word": "通す",
+    "reading": "とおす",
+    "romaji": "toosu",
+    "jlpt": "N3",
+    "frequency": 9750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to stick through",
+          "to force through"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to spread throughout",
+          "to thoroughly diffuse"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to make a path between two points"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to proceed in a logical manner"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to let pass",
+          "to allow through"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to lead (someone) into (a house, room, etc.)",
+          "to show in"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to go through (a middleman)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to (look, listen) through (a window, wall, etc.)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "correspondence"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretation (i.e. oral translation)"
+    },
+    {
+      "word": "通知",
+      "reading": "つうち",
+      "meaning": "notice"
+    },
+    {
+      "word": "不通",
+      "reading": "ふつう",
+      "meaning": "suspension"
+    },
+    {
+      "word": "通り過ぎる",
+      "reading": "とおりすぎる",
+      "meaning": "to go past"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "common"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "currency"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "思う念力岩をも通す",
+      "reading": "おもうねんりきいわをもとおす",
+      "meaning": "where there is a will, there is a way",
+      "type": "proverb"
+    },
+    {
+      "word": "女の一念岩をも通す",
+      "reading": "おんなのいちねんいわをもとおす",
+      "meaning": "women will have their wills",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君とぼくは仲がよいが、共通するものはほとんどない。",
+      "reading": null,
+      "english": "You and I are good friends, but we have little in common.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "すべての文化には何本かの共通する糸が通っている。",
+      "reading": null,
+      "english": "Some common threads run through all cultures.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "お父さんは毎朝新聞に目を通す。",
+      "reading": null,
+      "english": "My dad has a look at the newspaper every morning.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたと文通することを楽しみにしています。",
+      "reading": null,
+      "english": "I look forward to corresponding with you.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

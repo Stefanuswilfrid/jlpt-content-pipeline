@@ -1,0 +1,163 @@
+{
+  "definition": {
+    "word": "科目",
+    "reading": "かもく",
+    "romaji": "kamoku",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "(school) subject",
+          "curriculum",
+          "course"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "item",
+          "heading",
+          "entry"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "textbook"
+    },
+    {
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "purpose"
+    },
+    {
+      "word": "目標",
+      "reading": "もくひょう",
+      "meaning": "goal"
+    },
+    {
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaning": "notice"
+    },
+    {
+      "word": "品",
+      "reading": "しな",
+      "meaning": "article"
+    },
+    {
+      "word": "目上",
+      "reading": "めうえ",
+      "meaning": "superior"
+    },
+    {
+      "word": "項目",
+      "reading": "こうもく",
+      "meaning": "item"
+    },
+    {
+      "word": "学科",
+      "reading": "がっか",
+      "meaning": "subject (of study)"
+    },
+    {
+      "word": "外科",
+      "reading": "げか",
+      "meaning": "surgery (branch of medicine)"
+    },
+    {
+      "word": "目安",
+      "reading": "めやす",
+      "meaning": "criterion"
+    },
+    {
+      "word": "理科",
+      "reading": "りか",
+      "meaning": "science (natural sciences and related fields, incl. mathematics, engineering, medicine, etc.)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は学校で何の科目を取っていますか。",
+      "reading": null,
+      "english": "What subjects are you taking at school?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校ではどんな科目を勉強しますか。",
+      "reading": null,
+      "english": "What subjects do you study at school?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学校では何の科目を勉強してるの？",
+      "reading": null,
+      "english": "What subjects do you study at school?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "なぜこのような科目を選んだの？",
+      "reading": null,
+      "english": "Why did you choose such a subject?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの科目が一番好きですか。",
+      "reading": null,
+      "english": "Which subject do you like best?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの科目を選ぶべきかアドバイスください。",
+      "reading": null,
+      "english": "Please advise me which subject I should choose.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの科目よりも英語が一番好きです。",
+      "reading": null,
+      "english": "I like English best of all subjects.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この科目が最も重要だ。",
+      "reading": null,
+      "english": "This subject is the most important.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この科目は何単位ですか。",
+      "reading": null,
+      "english": "How many credits is this course?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

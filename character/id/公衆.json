@@ -1,0 +1,144 @@
+{
+  "definition": {
+    "word": "公衆",
+    "reading": "こうしゅう",
+    "romaji": "koushuu",
+    "jlpt": "N2",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "masyarakat"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "公共",
+      "reading": "こうきょう",
+      "meaning": "publik, komunitas, komunal"
+    },
+    {
+      "word": "公式",
+      "reading": "こうしき",
+      "meaning": "rumus, formalitas, resmi"
+    },
+    {
+      "word": "公害",
+      "reading": "こうがい",
+      "meaning": "gangguan publik, polusi"
+    },
+    {
+      "word": "公表",
+      "reading": "こうひょう",
+      "meaning": "pengumuman resmi, proklamasi"
+    },
+    {
+      "word": "公務",
+      "reading": "こうむ",
+      "meaning": "urusan resmi, urusan publik"
+    },
+    {
+      "word": "群衆",
+      "reading": "ぐんしゅう",
+      "meaning": "kelompok (sosial), kerumunan, massa"
+    },
+    {
+      "word": "公用",
+      "reading": "こうよう",
+      "meaning": "urusan pemerintah, penggunaan publik, pengeluaran publik"
+    },
+    {
+      "word": "公然",
+      "reading": "こうぜん",
+      "meaning": "secara terbuka"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "公衆便所",
+      "reading": "こうしゅうべんじょ",
+      "meaning": "public lavatory",
+      "type": "expression"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "一番近い公衆電話はどこにあるか教えていただけますか。",
+      "reading": null,
+      "indonesian": "Can you tell me where the nearest pay phone is?",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "この建物には公衆トイレがありますか。",
+      "reading": null,
+      "indonesian": "Is there a public toilet in this building?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "このあたりに公衆電話はありませんか。",
+      "reading": null,
+      "indonesian": "Is there a public phone around here?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あの町かどに公衆電話ボックスがある。",
+      "reading": null,
+      "indonesian": "There is a telephone booth at the corner of the street.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "私は公衆の面前で演説するのに慣れてない。",
+      "reading": null,
+      "indonesian": "I am not accustomed to making speeches in public.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "私たちは公衆道徳についていっそう考えねばならない。",
+      "reading": null,
+      "indonesian": "We must think further about public morality.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "公衆電話はどこですか。",
+      "reading": null,
+      "indonesian": "Where is a public telephone?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "公衆電話はあの角にあります。",
+      "reading": null,
+      "indonesian": "There is a public telephone on that corner.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "公衆の面前に姿を見せなければならないのが厭だった。",
+      "reading": null,
+      "indonesian": "He was annoyed at having to show up before the public.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

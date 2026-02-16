@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "所謂",
+    "reading": "いわゆる",
+    "romaji": "iwayuru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "pre-noun adjectival (rentaishi)"
+        ],
+        "meanings": [
+          "yang disebut-sebut",
+          "bisa dibilang begitu"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "所為",
+      "reading": "せい",
+      "meaning": "penyebab, alasan, kesalahan"
+    },
+    {
+      "word": "停留所",
+      "reading": "ていりゅうじょ",
+      "meaning": "halte bus atau trem"
+    },
+    {
+      "word": "言わば",
+      "reading": "いわば",
+      "meaning": "bisa dibilang begitu"
+    },
+    {
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "lingkungan"
+    },
+    {
+      "word": "役所",
+      "reading": "やくしょ",
+      "meaning": "kantor pemerintah, kantor publik"
+    },
+    {
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "dapur"
+    },
+    {
+      "word": "所",
+      "reading": "ところ",
+      "meaning": "tempat"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "フォード氏はいわゆる自力の成功者だ。",
+      "reading": null,
+      "indonesian": "Mr Ford is what is called a self-made man.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それがいわゆる「お年玉」よ。",
+      "reading": null,
+      "indonesian": "That's what we call an \"otoshidama\".",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのコンピューターはいわゆるロボットである。",
+      "reading": null,
+      "indonesian": "That computer is what we call a robot.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "ジムは、いわゆるぼんやりした学生だ。",
+      "reading": null,
+      "indonesian": "Jim is what is called an absent-minded student.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "これがいわゆる「天ぷら」というものです。",
+      "reading": null,
+      "indonesian": "This is what we call \"tempura\".",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

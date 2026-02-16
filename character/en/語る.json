@@ -1,0 +1,133 @@
+{
+  "definition": {
+    "word": "語る",
+    "reading": "かたる",
+    "romaji": "kataru",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to talk about",
+          "to speak of",
+          "to tell",
+          "to narrate"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to recite",
+          "to chant"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to indicate",
+          "to show"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "物語る",
+      "reading": "ものがたる",
+      "meaning": "to tell (a story)"
+    },
+    {
+      "word": "言語",
+      "reading": "げんご",
+      "meaning": "language"
+    },
+    {
+      "word": "国語",
+      "reading": "こくご",
+      "meaning": "national language"
+    },
+    {
+      "word": "語学",
+      "reading": "ごがく",
+      "meaning": "study of foreign languages"
+    },
+    {
+      "word": "単語",
+      "reading": "たんご",
+      "meaning": "word"
+    },
+    {
+      "word": "物語",
+      "reading": "ものがたり",
+      "meaning": "story"
+    },
+    {
+      "word": "語句",
+      "reading": "ごく",
+      "meaning": "words and phrases"
+    },
+    {
+      "word": "用語",
+      "reading": "ようご",
+      "meaning": "term"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "背中で語る",
+      "reading": "せなかでかたる",
+      "meaning": "to let one's actions do the talking",
+      "type": "idiom"
+    },
+    {
+      "word": "井蛙は以って海を語る可からず",
+      "reading": "せいあはもってうみをかたるべからず",
+      "meaning": "a narrow-minded person cannot understand the ways of the world",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "スミスは真実を語るべきだったのに。",
+      "reading": null,
+      "english": "Mr. Smith should have told the truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あのイギリス人は語ることよりも実行することが好きだ。",
+      "reading": null,
+      "english": "The Englishman likes doing better than talking.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはいつも真実を語るべきだ。",
+      "reading": null,
+      "english": "You should always tell the truth.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "行動は言葉よりも声高く語る。",
+      "reading": null,
+      "english": "Actions speak louder than words.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "definition": {
+    "word": "代表",
+    "reading": "だいひょう",
+    "romaji": "daihyou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "representation",
+          "representative",
+          "delegate",
+          "delegation"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "exemplification",
+          "typification",
+          "being representative of",
+          "being typical of",
+          "representative example",
+          "exemplar",
+          "model"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "leader"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "switchboard number",
+          "main number"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "現代",
+      "reading": "げんだい",
+      "meaning": "present age"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "announcement"
+    },
+    {
+      "word": "表現",
+      "reading": "ひょうげん",
+      "meaning": "expression"
+    },
+    {
+      "word": "表情",
+      "reading": "ひょうじょう",
+      "meaning": "facial expression"
+    },
+    {
+      "word": "近代",
+      "reading": "きんだい",
+      "meaning": "present day"
+    },
+    {
+      "word": "代理",
+      "reading": "だいり",
+      "meaning": "representation"
+    },
+    {
+      "word": "表面",
+      "reading": "ひょうめん",
+      "meaning": "surface"
+    },
+    {
+      "word": "代金",
+      "reading": "だいきん",
+      "meaning": "price"
+    },
+    {
+      "word": "世",
+      "reading": "よ",
+      "meaning": "world"
+    },
+    {
+      "word": "年代",
+      "reading": "ねんだい",
+      "meaning": "age"
+    },
+    {
+      "word": "表す",
+      "reading": "あらわす",
+      "meaning": "to represent"
+    },
+    {
+      "word": "時代",
+      "reading": "じだい",
+      "meaning": "period"
+    },
+    {
+      "word": "代わり",
+      "reading": "かわり",
+      "meaning": "substitute"
+    },
+    {
+      "word": "公表",
+      "reading": "こうひょう",
+      "meaning": "official announcement"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君の意見が他の生徒の意見を代表しているのかね。",
+      "reading": null,
+      "english": "Are your opinions representative of those of the other students?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その代表者は年次会議を欠席した。",
+      "reading": null,
+      "english": "The representative was absent from the annual conference.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ジョンは水泳の試合でクラスを代表した。",
+      "reading": null,
+      "english": "John represented his class in the swimming match.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

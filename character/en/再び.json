@@ -1,0 +1,53 @@
+{
+  "definition": {
+    "word": "再び",
+    "reading": "ふたたび",
+    "romaji": "futatabi",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "again",
+          "once more",
+          "a second time"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "再三",
+      "reading": "さいさん",
+      "meaning": "again and again"
+    },
+    {
+      "word": "再来月",
+      "reading": "さらいげつ",
+      "meaning": "month after next"
+    },
+    {
+      "word": "再来週",
+      "reading": "さらいしゅう",
+      "meaning": "week after next"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "破鏡再び照らさず",
+      "reading": "はきょうふたたびてらさず",
+      "meaning": "a broken relationship can never be repaired",
+      "type": "proverb"
+    },
+    {
+      "word": "落花枝に帰らず破鏡再び照らさず",
+      "reading": "らっかえだにかえらずはきょうふたたびてらさず",
+      "meaning": "fallen blossom doesn't return to the branch, a broken mirror can not be made to shine",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

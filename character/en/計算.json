@@ -1,0 +1,132 @@
+{
+  "definition": {
+    "word": "計算",
+    "reading": "けいさん",
+    "romaji": "keisan",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "calculation",
+          "computation",
+          "reckoning",
+          "counting",
+          "adding up",
+          "working out",
+          "figures"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "consideration",
+          "calculation",
+          "estimation",
+          "expectation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "estimate (of costs)"
+    },
+    {
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaning": "sum total"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "plan"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "accounting"
+    },
+    {
+      "word": "計",
+      "reading": "けい",
+      "meaning": "plan"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter"
+    },
+    {
+      "word": "計る",
+      "reading": "はかる",
+      "meaning": "to measure"
+    },
+    {
+      "word": "精算",
+      "reading": "せいさん",
+      "meaning": "exact calculation"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "plan"
+    },
+    {
+      "word": "統計",
+      "reading": "とうけい",
+      "meaning": "statistics"
+    },
+    {
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "clock"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どれだけ本に使ったかを、ざっと計算してみてください。",
+      "reading": null,
+      "english": "Try to estimate how much you spent on books.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "もう一度、その計算をやり直させてください。",
+      "reading": null,
+      "english": "Let me go over the accounts again.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ビジネスマンが計算機を使って計算している。",
+      "reading": null,
+      "english": "A businessman is working out some figures with a calculator.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それは、伝達、計算、その他の活動面に広く使われている。",
+      "reading": null,
+      "english": "They are now widely used for communication, calculation, and other activities.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "definition": {
+    "word": "方向",
+    "reading": "ほうこう",
+    "romaji": "houkou",
+    "jlpt": "N3",
+    "frequency": 250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "arah",
+          "jalur",
+          "jalan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "course (e.g. of action)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "一方",
+      "reading": "いっぽう",
+      "meaning": "di sisi lain; sementara itu"
+    },
+    {
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "metode, cara, teknik"
+    },
+    {
+      "word": "傾向",
+      "reading": "けいこう",
+      "meaning": "kecenderungan, tren, inkonsistensi"
+    },
+    {
+      "word": "方々",
+      "reading": "かたがた",
+      "meaning": "di sana sini, di mana-mana"
+    },
+    {
+      "word": "味方",
+      "reading": "みかた",
+      "meaning": "sekutu, pendukung"
+    },
+    {
+      "word": "方々",
+      "reading": "ほうぼう",
+      "meaning": "di sana sini, di mana-mana"
+    },
+    {
+      "word": "方針",
+      "reading": "ほうしん",
+      "meaning": "tujuan, rencana, kebijakan"
+    },
+    {
+      "word": "行方",
+      "reading": "ゆくえ",
+      "meaning": "keberadaan seseorang"
+    },
+    {
+      "word": "仕方",
+      "reading": "しかた",
+      "meaning": "cara (melakukan sesuatu)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "方向転換",
+      "reading": "ほうこうてんかん",
+      "meaning": "change of course",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "あさっての方向を向く",
+      "reading": "あさってのほうこうをむく",
+      "meaning": "to face the wrong way",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君の家はどちらの方向に面していますか。",
+      "reading": null,
+      "indonesian": "What direction does your house face?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "海岸はどちらの方向ですか。",
+      "reading": null,
+      "indonesian": "Which way is the beach?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

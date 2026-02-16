@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "サンプル",
+    "reading": "サンプル",
+    "romaji": "sanpuru",
+    "jlpt": "N2",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "sample",
+          "example",
+          "specimen"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "display model (e.g. plastic food models used by restaurants)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ＤＮＡのサンプルを貯える事は許されるべきではない。",
+      "reading": null,
+      "english": "It shouldn't be permitted to store samples of DNA.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "「ちょっと・・・サンプル」シャーレに一部を保存した。",
+      "reading": null,
+      "english": "\"Let me get a sample,\" and she transferred part to a petri dish.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

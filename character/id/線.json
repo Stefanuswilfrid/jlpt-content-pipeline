@@ -1,0 +1,107 @@
+{
+  "definition": {
+    "word": "線",
+    "reading": "せん",
+    "romaji": "sen",
+    "jlpt": "N4",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "garis",
+          "kawat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "line (e.g. telephone line)",
+          "wire"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "ray (e.g. X-ray)",
+          "beam"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "line (e.g. of a railroad)",
+          "track",
+          "route",
+          "lane"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "outline",
+          "contours",
+          "form"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "線引き",
+      "reading": "せんびき",
+      "meaning": "delineation",
+      "type": "idiom"
+    },
+    {
+      "word": "一線を画する",
+      "reading": "いっせんをかくする",
+      "meaning": "to draw a line (between)",
+      "type": "idiom"
+    },
+    {
+      "word": "一線を越える",
+      "reading": "いっせんをこえる",
+      "meaning": "to cross the line",
+      "type": "idiom"
+    },
+    {
+      "word": "琴線に触れる",
+      "reading": "きんせんにふれる",
+      "meaning": "to strike a chord",
+      "type": "idiom"
+    },
+    {
+      "word": "一線を退く",
+      "reading": "いっせんをしりぞく",
+      "meaning": "to step back",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "下線を引いた語を正しい形にしなさい。",
+      "reading": null,
+      "indonesian": "Correct the underlined words.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

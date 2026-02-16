@@ -1,0 +1,73 @@
+{
+  "definition": {
+    "word": "観客",
+    "reading": "かんきゃく",
+    "romaji": "kankyaku",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "penonton",
+          "pemirsa"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "観光",
+      "reading": "かんこう",
+      "meaning": "tamasya"
+    },
+    {
+      "word": "乗客",
+      "reading": "じょうきゃく",
+      "meaning": "penumpang"
+    },
+    {
+      "word": "観察",
+      "reading": "かんさつ",
+      "meaning": "pengamatan, survei"
+    },
+    {
+      "word": "桜",
+      "reading": "さくら",
+      "meaning": "bunga sakura, pohon sakura"
+    },
+    {
+      "word": "客",
+      "reading": "きゃく",
+      "meaning": "tamu, pelanggan"
+    },
+    {
+      "word": "観測",
+      "reading": "かんそく",
+      "meaning": "pengamatan"
+    },
+    {
+      "word": "客席",
+      "reading": "きゃくせき",
+      "meaning": "tempat duduk tamu"
+    },
+    {
+      "word": "客間",
+      "reading": "きゃくま",
+      "meaning": "ruang tamu, kamar tamu"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "観客席の最前列に席を予約したわ。",
+      "reading": null,
+      "indonesian": "I've staked out places for us in the front row of the auditorium.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

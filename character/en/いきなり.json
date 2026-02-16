@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "行き成り",
+    "reading": "いきなり",
+    "romaji": "ikinari",
+    "jlpt": "N2",
+    "frequency": 18250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "abruptly",
+          "suddenly",
+          "all of a sudden",
+          "without warning"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "並行",
+      "reading": "へいこう",
+      "meaning": "going side-by-side"
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "action"
+    },
+    {
+      "word": "現行",
+      "reading": "げんこう",
+      "meaning": "present"
+    },
+    {
+      "word": "賛成",
+      "reading": "さんせい",
+      "meaning": "approval"
+    },
+    {
+      "word": "先行",
+      "reading": "せんこう",
+      "meaning": "going ahead"
+    },
+    {
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "fashion"
+    },
+    {
+      "word": "慣行",
+      "reading": "かんこう",
+      "meaning": "customary practice"
+    },
+    {
+      "word": "合成",
+      "reading": "ごうせい",
+      "meaning": "composition"
+    },
+    {
+      "word": "非行",
+      "reading": "ひこう",
+      "meaning": "delinquency"
+    },
+    {
+      "word": "急行",
+      "reading": "きゅうこう",
+      "meaning": "hurrying (to somewhere)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "知らない。いきなりだった。",
+      "reading": null,
+      "english": "I don't know. It all happened in an instant.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのタクシーはいきなり左に曲がった。",
+      "reading": null,
+      "english": "The taxi abruptly turned left.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そのタクシーはいきなり左に曲がった。",
+      "reading": null,
+      "english": "The taxi abruptly turned left.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

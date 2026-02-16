@@ -1,0 +1,199 @@
+{
+  "definition": {
+    "word": "直",
+    "reading": "なお",
+    "romaji": "nao",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "segera",
+          "sebentar lagi",
+          "dalam waktu singkat"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "doing nothing"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "直接",
+      "reading": "ちょくせつ",
+      "meaning": "langsung, seketika, dari sumber pertama"
+    },
+    {
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaning": "kejujuran, integritas, keterusterangan"
+    },
+    {
+      "word": "素直",
+      "reading": "すなお",
+      "meaning": "patuh, lemah lembut, penurut"
+    },
+    {
+      "word": "垂直",
+      "reading": "すいちょく",
+      "meaning": "vertikal, tegak lurus"
+    },
+    {
+      "word": "直角",
+      "reading": "ちょっかく",
+      "meaning": "sudut siku-siku"
+    },
+    {
+      "word": "直ちに",
+      "reading": "ただちに",
+      "meaning": "segera, seketika"
+    },
+    {
+      "word": "直に",
+      "reading": "じかに",
+      "meaning": "segera, dengan mudah, langsung"
+    },
+    {
+      "word": "直に",
+      "reading": "じきに",
+      "meaning": "segera, dengan mudah, langsung"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "急転直下",
+      "reading": "きゅうてんちょっか",
+      "meaning": "suddenly and precipitately",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "単刀直入",
+      "reading": "たんとうちょくにゅう",
+      "meaning": "straight to the point",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "直往邁進",
+      "reading": "ちょくおうまいしん",
+      "meaning": "push boldly forward",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "直情径行",
+      "reading": "ちょくじょうけいこう",
+      "meaning": "impulsive and straightforward",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "直立不動",
+      "reading": "ちょくりつふどう",
+      "meaning": "standing at attention",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "理非曲直",
+      "reading": "りひきょくちょく",
+      "meaning": "the rights and wrongs (of a case)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "直截簡明",
+      "reading": "ちょくせつかんめい",
+      "meaning": "plain and simple",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "謹厳実直",
+      "reading": "きんげんじっちょく",
+      "meaning": "sober and honest",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "是非曲直",
+      "reading": "ぜひきょくちょく",
+      "meaning": "rights and wrongs (of a case)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "簡明直截",
+      "reading": "かんめいちょくせつ",
+      "meaning": "simple and plain",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "また後でかけ直していただけませんか？",
+      "reading": null,
+      "indonesian": "Could you call again later, please?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "また後でかけ直していただけませんか？",
+      "reading": null,
+      "indonesian": "Could you call again later, please?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は直に出発する方がいい。",
+      "reading": null,
+      "indonesian": "You may as well leave at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は直ちに家へ帰らなければならない。",
+      "reading": null,
+      "indonesian": "You must go home at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は直ちに医者に行く必要がある。",
+      "reading": null,
+      "indonesian": "It is necessary for you to see a doctor at once.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は正直者のようだ。",
+      "reading": null,
+      "indonesian": "You seem an honest man.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は正直者のようだ。",
+      "reading": null,
+      "indonesian": "You seem to be an honest man.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "君は車を直してもらうべきだ。",
+      "reading": null,
+      "indonesian": "You should get your car fixed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

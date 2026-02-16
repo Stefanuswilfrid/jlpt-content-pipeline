@@ -1,0 +1,58 @@
+{
+  "definition": {
+    "word": "隅",
+    "reading": "すみ",
+    "romaji": "sumi",
+    "jlpt": "N4",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "corner",
+          "nook",
+          "recess"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "downstage right (on a noh stage)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "重箱の隅",
+      "reading": "じゅうばこのすみ",
+      "meaning": "unimportant things",
+      "type": "idiom"
+    },
+    {
+      "word": "重箱の隅をほじくる",
+      "reading": "じゅうばこのすみをほじくる",
+      "meaning": "to nitpick",
+      "type": "idiom"
+    },
+    {
+      "word": "重箱の隅をつつく",
+      "reading": "じゅうばこのすみをつつく",
+      "meaning": "to nitpick",
+      "type": "idiom"
+    },
+    {
+      "word": "重箱の隅をようじでほじくる",
+      "reading": "じゅうばこのすみをようじでほじくる",
+      "meaning": "to nitpick",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

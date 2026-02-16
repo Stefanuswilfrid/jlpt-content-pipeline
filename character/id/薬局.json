@@ -1,0 +1,113 @@
+{
+  "definition": {
+    "word": "薬局",
+    "reading": "やっきょく",
+    "romaji": "yakkyoku",
+    "jlpt": "N2",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "apotek",
+          "toko obat"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "hospital pharmacy",
+          "dispensary"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "農薬",
+      "reading": "のうやく",
+      "meaning": "bahan kimia pertanian"
+    },
+    {
+      "word": "薬品",
+      "reading": "やくひん",
+      "meaning": "obat-obatan, bahan kimia"
+    },
+    {
+      "word": "薬指",
+      "reading": "くすりゆび",
+      "meaning": "jari manis"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "一番近い薬局はどこにありますか。",
+      "reading": null,
+      "indonesian": "Where's the nearest drugstore?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここから一番近い薬局はどこですか。",
+      "reading": null,
+      "indonesian": "Where's the nearest pharmacy?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "利用されている薬局の名前を教えてください。",
+      "reading": null,
+      "indonesian": "What's the name of your pharmacy?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "利用されている薬局の名前を教えてください。",
+      "reading": null,
+      "indonesian": "What is the name of your pharmacy?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "薬局は何時まで開いていますか。",
+      "reading": null,
+      "indonesian": "Until what time does your pharmacy stay open?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一番近い薬局はどこにありますか。",
+      "reading": null,
+      "indonesian": "Where's the nearest drugstore?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "一番近い薬局はどこにありますか。",
+      "reading": null,
+      "indonesian": "Where is the nearest drugstore?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ここから一番近い薬局はどこですか。",
+      "reading": null,
+      "indonesian": "Where's the nearest pharmacy?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

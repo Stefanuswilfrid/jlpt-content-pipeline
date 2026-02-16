@@ -1,0 +1,125 @@
+{
+  "definition": {
+    "word": "極",
+    "reading": "ごく",
+    "romaji": "goku",
+    "jlpt": "N3",
+    "frequency": 6750,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "quite",
+          "very"
+        ]
+      },
+      {
+        "pos": [
+          "numeric"
+        ],
+        "meanings": [
+          "10^48",
+          "quindecillion"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "積極的",
+      "reading": "せっきょくてき",
+      "meaning": "positive"
+    },
+    {
+      "word": "南極",
+      "reading": "なんきょく",
+      "meaning": "South Pole"
+    },
+    {
+      "word": "北極",
+      "reading": "ほっきょく",
+      "meaning": "North Pole"
+    },
+    {
+      "word": "決まり",
+      "reading": "きまり",
+      "meaning": "rule"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "極楽往生",
+      "reading": "ごくらくおうじょう",
+      "meaning": "rebirth in paradise",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "極楽浄土",
+      "reading": "ごくらくじょうど",
+      "meaning": "Amitabha's Pure Land",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "恐悦至極",
+      "reading": "きょうえつしごく",
+      "meaning": "extremely delighted",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "極悪非道",
+      "reading": "ごくあくひどう",
+      "meaning": "inhuman",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "極楽とんぼ",
+      "reading": "ごくらくとんぼ",
+      "meaning": "happy-go-lucky fellow",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "残念至極",
+      "reading": "ざんねんしごく",
+      "meaning": "deep regret",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "迷惑至極",
+      "reading": "めいわくしごく",
+      "meaning": "great nuisance",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "聞いて極楽見て地獄",
+      "reading": "きいてごくらくみてじごく",
+      "meaning": "don't believe everything you hear",
+      "type": "proverb"
+    },
+    {
+      "word": "信心過ぎて極楽を通り越す",
+      "reading": "しんじんすぎてごくらくをとおりこす",
+      "meaning": "faith is best in moderation",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "教育の究極の目標とは何だろうか。",
+      "reading": null,
+      "english": "What is the ultimate purpose of education?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "観察は消極的な科学であり、実験は積極的な科学である。",
+      "reading": null,
+      "english": "Observation is a passive science, experimentation an active science.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

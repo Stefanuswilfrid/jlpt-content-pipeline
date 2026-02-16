@@ -1,0 +1,41 @@
+{
+  "definition": {
+    "word": "孫",
+    "reading": "まご",
+    "romaji": "mago",
+    "jlpt": "N3",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "grandchild"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "子孫",
+      "reading": "しそん",
+      "meaning": "descendant"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "子々孫々",
+      "reading": "ししそんそん",
+      "meaning": "one's descendants",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "天孫降臨",
+      "reading": "てんそんこうりん",
+      "meaning": "the descent to earth of the grandson of the sun goddess",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": []
+}

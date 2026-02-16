@@ -1,0 +1,184 @@
+{
+  "definition": {
+    "word": "相当",
+    "reading": "そうとう",
+    "romaji": "soutou",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "cukup besar",
+          "lumayan; berharga ~"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "appropriate",
+          "suitable",
+          "befitting",
+          "proportionate"
+        ]
+      },
+      {
+        "pos": [
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be proportionate to",
+          "to be in keeping with",
+          "to be deserving of",
+          "to be worthy of"
+        ]
+      },
+      {
+        "pos": [
+          "adjectival nouns or quasi-adjectives (keiyodoshi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "considerable",
+          "substantial"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "considerably",
+          "rather",
+          "quite",
+          "fairly",
+          "pretty"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaning": "Perdana Menteri"
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "mitra; penerima; orang yang Anda ajak bicara"
+    },
+    {
+      "word": "当時",
+      "reading": "とうじ",
+      "meaning": "pada saat itu, pada hari-hari itu (sama dengan そのころ)"
+    },
+    {
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "(bertanggung jawab)"
+    },
+    {
+      "word": "当然",
+      "reading": "とうぜん",
+      "meaning": "Jelas; alami"
+    },
+    {
+      "word": "当たり前",
+      "reading": "あたりまえ",
+      "meaning": "biasa, umum, jelas"
+    },
+    {
+      "word": "相変わらず",
+      "reading": "あいかわらず",
+      "meaning": "seperti biasa, seperti biasanya"
+    },
+    {
+      "word": "弁当",
+      "reading": "べんとう",
+      "meaning": "makan siang kotak"
+    },
+    {
+      "word": "相続",
+      "reading": "そうぞく",
+      "meaning": "suksesi, warisan"
+    },
+    {
+      "word": "見当",
+      "reading": "けんとう",
+      "meaning": "perkiraan, tebakan"
+    },
+    {
+      "word": "当たる",
+      "reading": "あたる",
+      "meaning": "Terkena pukulan, berhasil"
+    },
+    {
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "konsultasi"
+    },
+    {
+      "word": "相互",
+      "reading": "そうご",
+      "meaning": "saling, timbal balik"
+    },
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaning": "kebenaran, kenyataan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "もとは相当の身分の人だったそうです。",
+      "reading": null,
+      "indonesian": "He is said to have been a man of respectable position.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "そんなことを言うとは、きみも相当図々しいね。",
+      "reading": null,
+      "indonesian": "You've got a nerve to say such a thing!",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "地図上の太い線は道路に相当する。",
+      "reading": null,
+      "indonesian": "The broad lines on the map correspond to roads.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その新しい書類システムは４０００ドル相当のものだ。",
+      "reading": null,
+      "indonesian": "The new document system is worth $4,000.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その語に相当するようなフランス語を知っていますか。",
+      "reading": null,
+      "indonesian": "Do you know the French equivalent of the word?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

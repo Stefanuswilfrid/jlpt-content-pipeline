@@ -1,0 +1,49 @@
+{
+  "definition": {
+    "word": "扇ぐ",
+    "reading": "あおぐ",
+    "romaji": "aogu",
+    "jlpt": "N2",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to fan"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'gu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to incite",
+          "to instigate"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "扇風機",
+      "reading": "せんぷうき",
+      "meaning": "electric fan"
+    },
+    {
+      "word": "扇子",
+      "reading": "せんす",
+      "meaning": "folding fan"
+    },
+    {
+      "word": "団扇",
+      "reading": "うちわ",
+      "meaning": "uchiwa"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

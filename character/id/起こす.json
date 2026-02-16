@@ -1,0 +1,102 @@
+{
+  "definition": {
+    "word": "起こす",
+    "reading": "おこす",
+    "romaji": "okosu",
+    "jlpt": "N4",
+    "frequency": 6250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "membangunkan (seseorang)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to wake",
+          "to wake up",
+          "to waken",
+          "to awaken"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to cause",
+          "to bring about",
+          "to lead to",
+          "to trigger",
+          "to give rise to",
+          "to create",
+          "to generate (e.g. heat, electricity)",
+          "to produce"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to start",
+          "to begin",
+          "to launch",
+          "to establish",
+          "to found",
+          "to set up",
+          "to open"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'su' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to plough",
+          "to plow",
+          "to till"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "お竈を起こす",
+      "reading": "おかまをおこす",
+      "meaning": "to make a fortune",
+      "type": "idiom"
+    },
+    {
+      "word": "竈を起こす",
+      "reading": "かまどをおこす",
+      "meaning": "to make a fortune",
+      "type": "idiom"
+    },
+    {
+      "word": "筆を起こす",
+      "reading": "ふでをおこす",
+      "meaning": "to start writing (e.g. a book)",
+      "type": "idiom"
+    },
+    {
+      "word": "寝た子を起こす",
+      "reading": "ねたこをおこす",
+      "meaning": "to disturb the water",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

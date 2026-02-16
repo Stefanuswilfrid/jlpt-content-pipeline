@@ -1,0 +1,131 @@
+{
+  "definition": {
+    "word": "酒",
+    "reading": "さけ",
+    "romaji": "sake",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "alcohol",
+          "sake"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "酒場",
+      "reading": "さかば",
+      "meaning": "bar"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "酒池肉林",
+      "reading": "しゅちにくりん",
+      "meaning": "sumptuous feast",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "紅灯緑酒",
+      "reading": "こうとうりょくしゅ",
+      "meaning": "(nights of) fun, food, and drink",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "美酒佳肴",
+      "reading": "びしゅかこう",
+      "meaning": "fine wines and prized delicacies",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "酒は百薬の長",
+      "reading": "さけはひゃくやくのちょう",
+      "meaning": "good wine makes good blood",
+      "type": "proverb"
+    },
+    {
+      "word": "わかめ酒",
+      "reading": "わかめざけ",
+      "meaning": "drinking alcohol from a woman's crotch",
+      "type": "expression"
+    },
+    {
+      "word": "赤きは酒の咎",
+      "reading": "あかきはさけのとが",
+      "meaning": "it's not my fault",
+      "type": "proverb"
+    },
+    {
+      "word": "酒に飲まれる",
+      "reading": "さけにのまれる",
+      "meaning": "to drink too much and lose self-control",
+      "type": "idiom"
+    },
+    {
+      "word": "漿を乞いて酒を得る",
+      "reading": "しょうをこいてさけをうる",
+      "meaning": "to get more than one requests",
+      "type": "idiom"
+    },
+    {
+      "word": "古い革袋に新しい酒を盛る",
+      "reading": "ふるいかわぶくろにあたらしいさけをもる",
+      "meaning": "to pour new wine into old wineskins",
+      "type": "idiom"
+    },
+    {
+      "word": "新しい酒は古い革袋に入れる",
+      "reading": "あたらしいさけはふるいかわぶくろにいれる",
+      "meaning": "to put new wine into old wineskins",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は酒をやめるべきだ。",
+      "reading": null,
+      "english": "You should give up drinking.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "タバコと酒を止めるべきだ。",
+      "reading": null,
+      "english": "You should give up drinking and smoking.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "酒とタバコはやめた方がいいよ。",
+      "reading": null,
+      "english": "You should give up drinking and smoking.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "タバコと酒を止めるべきだ。",
+      "reading": null,
+      "english": "You should give up smoking and drinking.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "タバコとお酒はやめた方がいいよ。",
+      "reading": null,
+      "english": "You should give up smoking and drinking.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

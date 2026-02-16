@@ -1,0 +1,101 @@
+{
+  "definition": {
+    "word": "発達",
+    "reading": "はったつ",
+    "romaji": "hattatsu",
+    "jlpt": "N3",
+    "frequency": 5250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "development",
+          "growth"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "発射",
+      "reading": "はっしゃ",
+      "meaning": "firing (esp. a rocket or missile)"
+    },
+    {
+      "word": "配達",
+      "reading": "はいたつ",
+      "meaning": "delivery"
+    },
+    {
+      "word": "発明",
+      "reading": "はつめい",
+      "meaning": "invention"
+    },
+    {
+      "word": "発行",
+      "reading": "はっこう",
+      "meaning": "publication (of a newspaper, magazine, book, etc.)"
+    },
+    {
+      "word": "発展",
+      "reading": "はってん",
+      "meaning": "development"
+    },
+    {
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "announcement"
+    },
+    {
+      "word": "爆発",
+      "reading": "ばくはつ",
+      "meaning": "explosion"
+    },
+    {
+      "word": "発見",
+      "reading": "はっけん",
+      "meaning": "discovery"
+    },
+    {
+      "word": "発車",
+      "reading": "はっしゃ",
+      "meaning": "departure (of a train, car, etc.)"
+    },
+    {
+      "word": "上達",
+      "reading": "じょうたつ",
+      "meaning": "improvement (e.g. in skill, ability)"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "医者たる者は最新の医学の発達についていくべきだ。",
+      "reading": null,
+      "english": "Doctors should keep abreast with all the latest developments in medicine.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "フランス語はラテン語を母体として発達した。",
+      "reading": null,
+      "english": "French developed from Latin.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "台風は発達しながら九州方面に向かっています。",
+      "reading": null,
+      "english": "The typhoon is gaining strength as it heads for Kyushu.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

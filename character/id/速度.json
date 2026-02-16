@@ -1,0 +1,136 @@
+{
+  "definition": {
+    "word": "速度",
+    "reading": "そくど",
+    "romaji": "sokudo",
+    "jlpt": "N3",
+    "frequency": 3250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "kecepatan",
+          "kelajuan",
+          "laju"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "velocity"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "態度",
+      "reading": "たいど",
+      "meaning": "sikap, tingkah laku"
+    },
+    {
+      "word": "急速",
+      "reading": "きゅうそく",
+      "meaning": "cepat (misalnya, kemajuan)"
+    },
+    {
+      "word": "高速",
+      "reading": "こうそく",
+      "meaning": "kecepatan tinggi, gigi tinggi"
+    },
+    {
+      "word": "温度",
+      "reading": "おんど",
+      "meaning": "suhu"
+    },
+    {
+      "word": "度",
+      "reading": "たび",
+      "meaning": "penghitung kejadian"
+    },
+    {
+      "word": "度",
+      "reading": "ど",
+      "meaning": "penghitung kejadian"
+    },
+    {
+      "word": "制度",
+      "reading": "せいど",
+      "meaning": "sistem, institusi"
+    },
+    {
+      "word": "程度",
+      "reading": "ていど",
+      "meaning": "derajat, jumlah, tingkat"
+    },
+    {
+      "word": "湿度",
+      "reading": "しつど",
+      "meaning": "kelembaban"
+    },
+    {
+      "word": "適度",
+      "reading": "てきど",
+      "meaning": "sedang"
+    },
+    {
+      "word": "今度",
+      "reading": "こんど",
+      "meaning": "sekarang, saat ini, masa depan dekat, suatu hari nanti, lain waktu"
+    },
+    {
+      "word": "年度",
+      "reading": "ねんど",
+      "meaning": "tahun, tahun fiskal"
+    },
+    {
+      "word": "一度",
+      "reading": "いちど",
+      "meaning": "sekali, satu kali"
+    },
+    {
+      "word": "高度",
+      "reading": "こうど",
+      "meaning": "ketinggian, tinggi; tingkat lanjut"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "パトカーがかなりの速度で走っていた。",
+      "reading": null,
+      "indonesian": "The police car was driving at fairly high speed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その男は一定の速度で車を運転した。",
+      "reading": null,
+      "indonesian": "The man drove his car at a uniform speed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その急行列車は次第に速度を上げた。",
+      "reading": null,
+      "indonesian": "The express train picked up speed gradually.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この高速度道路は東京と名古屋を結んでいる。",
+      "reading": null,
+      "indonesian": "This expressway connects Tokyo with Nagoya.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "definition": {
+    "word": "予期",
+    "reading": "よき",
+    "romaji": "yoki",
+    "jlpt": "N3",
+    "frequency": 8750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "harapan",
+          "perkiraan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "学期",
+      "reading": "がっき",
+      "meaning": "istilah (sekolah)"
+    },
+    {
+      "word": "予算",
+      "reading": "よさん",
+      "meaning": "perkiraan, anggaran"
+    },
+    {
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "periode, jangka waktu"
+    },
+    {
+      "word": "期待",
+      "reading": "きたい",
+      "meaning": "harapan, antisipasi, cita-cita"
+    },
+    {
+      "word": "時期",
+      "reading": "じき",
+      "meaning": "waktu, musim, periode"
+    },
+    {
+      "word": "予想",
+      "reading": "よそう",
+      "meaning": "harapan, antisipasi, prediksi"
+    },
+    {
+      "word": "長期",
+      "reading": "ちょうき",
+      "meaning": "jangka waktu yang lama"
+    },
+    {
+      "word": "期限",
+      "reading": "きげん",
+      "meaning": "batas waktu, istilah"
+    },
+    {
+      "word": "定期",
+      "reading": "ていき",
+      "meaning": "jangka waktu tetap"
+    },
+    {
+      "word": "予測",
+      "reading": "よそく",
+      "meaning": "prediksi, estimasi"
+    },
+    {
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "pencegahan, perlindungan terhadap"
+    },
+    {
+      "word": "延期",
+      "reading": "えんき",
+      "meaning": "penundaan, pengunduran"
+    },
+    {
+      "word": "予報",
+      "reading": "よほう",
+      "meaning": "ramalan, prediksi"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "わたしはその事業がうまくやれると予期しております。",
+      "reading": null,
+      "indonesian": "I have hopes of doing well in that business.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ちょっとした幸運が予期せぬ成功につながるときもある。",
+      "reading": null,
+      "indonesian": "A little bit of luck sometimes leads to an unexpected success.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "予期しない結果に達した。",
+      "reading": null,
+      "indonesian": "An unexpected result came about.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

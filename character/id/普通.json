@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "普通",
+    "reading": "ふつう",
+    "romaji": "futsuu",
+    "jlpt": "N4",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "adjectival nouns or quasi-adjectives (keiyodoshi)"
+        ],
+        "meanings": [
+          "umum; lazim"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "normally",
+          "ordinarily",
+          "usually",
+          "generally",
+          "commonly"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "local train",
+          "train that stops at every station"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "交通",
+      "reading": "こうつう",
+      "meaning": "lalu lintas, transportasi"
+    },
+    {
+      "word": "通り",
+      "reading": "とおり",
+      "meaning": "Jalan ~, Jalan Raya ~"
+    },
+    {
+      "word": "通信",
+      "reading": "つうしん",
+      "meaning": "surat-menyurat, komunikasi"
+    },
+    {
+      "word": "共通",
+      "reading": "きょうつう",
+      "meaning": "kesamaan, saling"
+    },
+    {
+      "word": "通貨",
+      "reading": "つうか",
+      "meaning": "mata uang"
+    },
+    {
+      "word": "通過",
+      "reading": "つうか",
+      "meaning": "jalan yang dilewati, melintasi"
+    },
+    {
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "perjalanan pulang pergi ke tempat kerja"
+    },
+    {
+      "word": "普段",
+      "reading": "ふだん",
+      "meaning": "dalam situasi sehari-hari, biasanya, pada umumnya"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretasi; penerjemah"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

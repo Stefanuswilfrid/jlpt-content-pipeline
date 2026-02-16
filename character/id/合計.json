@@ -1,0 +1,149 @@
+{
+  "definition": {
+    "word": "合計",
+    "reading": "ごうけい",
+    "romaji": "goukei",
+    "jlpt": "N3",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "jumlah total",
+          "total"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "会合",
+      "reading": "かいごう",
+      "meaning": "pertemuan, majelis"
+    },
+    {
+      "word": "組合",
+      "reading": "くみあい",
+      "meaning": "asosiasi, serikat pekerja"
+    },
+    {
+      "word": "設計",
+      "reading": "せっけい",
+      "meaning": "rencana, desain"
+    },
+    {
+      "word": "計算",
+      "reading": "けいさん",
+      "meaning": "perhitungan, penaksiran"
+    },
+    {
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "sukses, lulus (misalnya, ujian)"
+    },
+    {
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "akun, keuangan"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "sosialisasi; persahabatan; pergaulan"
+    },
+    {
+      "word": "計",
+      "reading": "けい",
+      "meaning": "rencana; jumlah, total"
+    },
+    {
+      "word": "合わせる",
+      "reading": "あわせる",
+      "meaning": "untuk menggabungkan"
+    },
+    {
+      "word": "出会い",
+      "reading": "であい",
+      "meaning": "pertemuan, kencan, perjumpaan"
+    },
+    {
+      "word": "話し合う",
+      "reading": "はなしあう",
+      "meaning": "untuk berdiskusi, untuk berbicara bersama"
+    },
+    {
+      "word": "合図",
+      "reading": "あいず",
+      "meaning": "tanda, sinyal"
+    },
+    {
+      "word": "計器",
+      "reading": "けいき",
+      "meaning": "meter, pengukur"
+    },
+    {
+      "word": "計る",
+      "reading": "はかる",
+      "meaning": "mengukur, menimbang, mensurvei"
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "pertandingan, permainan, kompetisi"
+    },
+    {
+      "word": "連合",
+      "reading": "れんごう",
+      "meaning": "persatuan, aliansi"
+    },
+    {
+      "word": "問い合わせ",
+      "reading": "といあわせ",
+      "meaning": "pertanyaan"
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "rencana, proyek, jadwal"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "この数字を合計しなさい。",
+      "reading": null,
+      "indonesian": "Add up these figures.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この数字の列を合計しなさい。",
+      "reading": null,
+      "indonesian": "Add up this column of figures.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "２と３と４の合計は９だ。",
+      "reading": null,
+      "indonesian": "The sum of two plus three plus four is nine.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "１２と２４と７と１１の合計は５４です。",
+      "reading": null,
+      "indonesian": "The sum of 12, 24, 7 and 11 is 54.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

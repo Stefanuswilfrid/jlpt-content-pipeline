@@ -1,0 +1,182 @@
+{
+  "definition": {
+    "word": "付ける",
+    "reading": "つける",
+    "romaji": "tsukeru",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "untuk mengenakan",
+          "memakai; untuk menyiapkan"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to furnish (a house with)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to wear",
+          "to put on"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to keep a diary",
+          "to make an entry"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to appraise",
+          "to set (a price)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to allot",
+          "to budget",
+          "to assign"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bring alongside"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to place (under guard or doctor)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "寄付",
+      "reading": "きふ",
+      "meaning": "kontribusi, donasi"
+    },
+    {
+      "word": "突く",
+      "reading": "つつく",
+      "meaning": "menusuk, memukul, menyerang; mencuit, menyenggol, mengorek"
+    },
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "meja resepsionis"
+    },
+    {
+      "word": "付き合い",
+      "reading": "つきあい",
+      "meaning": "sosialisasi; persahabatan; pergaulan"
+    },
+    {
+      "word": "日付",
+      "reading": "ひづけ",
+      "meaning": "kencan, berkencan"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "メリハリを付ける",
+      "reading": "メリハリをつける",
+      "meaning": "to add balance (to one's work, life, etc.)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "暗くならないうちに、目的地に着けるようにバスに乗った。",
+      "reading": null,
+      "indonesian": "I took the bus in order to reach the destination before it got dark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "わたしはあなたより先に駅に着ける。",
+      "reading": null,
+      "indonesian": "I can beat you to the station.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どちらの道を行っても駅に着ける。",
+      "reading": null,
+      "indonesian": "Whichever way you go, you can get to the station.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "朝早く家を出れば、暗くならないうちに目的地に着けるだろう。",
+      "reading": null,
+      "indonesian": "Leave home early in the morning, and you will get to your destination before dark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "暗くならないうちに、目的地に着けるようにバスに乗った。",
+      "reading": null,
+      "indonesian": "I took the bus in order to reach the destination before it got dark.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "わたしはあなたより先に駅に着ける。",
+      "reading": null,
+      "indonesian": "I can beat you to the station.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どちらの道を行っても駅に着ける。",
+      "reading": null,
+      "indonesian": "Whichever way you go, you can get to the station.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

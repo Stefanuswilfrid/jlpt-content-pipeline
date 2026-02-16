@@ -1,0 +1,134 @@
+{
+  "definition": {
+    "word": "より",
+    "reading": "より",
+    "romaji": "yori",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "particle"
+        ],
+        "meanings": [
+          "memutar",
+          "lapis"
+        ]
+      },
+      {
+        "pos": [
+          "particle"
+        ],
+        "meanings": [
+          "rather than",
+          "instead of",
+          "over",
+          "above"
+        ]
+      },
+      {
+        "pos": [
+          "particle"
+        ],
+        "meanings": [
+          "from",
+          "out of",
+          "since",
+          "at",
+          "on (and after)"
+        ]
+      },
+      {
+        "pos": [
+          "particle"
+        ],
+        "meanings": [
+          "except",
+          "but",
+          "other than"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "more"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "花より団子",
+      "reading": "はなよりだんご",
+      "meaning": "function over aesthetics",
+      "type": "idiom"
+    },
+    {
+      "word": "よりを戻す",
+      "reading": "よりをもどす",
+      "meaning": "to untangle",
+      "type": "idiom"
+    },
+    {
+      "word": "氏より育ち",
+      "reading": "うじよりそだち",
+      "meaning": "nurture over nature",
+      "type": "proverb"
+    },
+    {
+      "word": "論より証拠",
+      "reading": "ろんよりしょうこ",
+      "meaning": "the proof of the pudding is in the eating",
+      "type": "proverb"
+    },
+    {
+      "word": "見目より心",
+      "reading": "みめよりこころ",
+      "meaning": "a gentle spirit is more important than looks",
+      "type": "proverb"
+    },
+    {
+      "word": "薬より養生",
+      "reading": "くすりよりようじょう",
+      "meaning": "prevention is better than cure",
+      "type": "proverb"
+    },
+    {
+      "word": "隗より始めよ",
+      "reading": "かいよりはじめよ",
+      "meaning": "start with the first step",
+      "type": "proverb"
+    },
+    {
+      "word": "挨拶より円札",
+      "reading": "あいさつよりえんさつ",
+      "meaning": "money speaks louder than words",
+      "type": "proverb"
+    },
+    {
+      "word": "家柄より芋茎",
+      "reading": "いえがらよりいもがら",
+      "meaning": "having food on the table is more important than having a high social standing",
+      "type": "proverb"
+    },
+    {
+      "word": "先ず隗より始めよ",
+      "reading": "まずかいよりはじめよ",
+      "meaning": "start with the first step",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "それをするより他はない。",
+      "reading": null,
+      "indonesian": "I have nothing better to do.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

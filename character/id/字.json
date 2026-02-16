@@ -1,0 +1,124 @@
+{
+  "definition": {
+    "word": "字",
+    "reading": "あざ",
+    "romaji": "aza",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "suffix"
+        ],
+        "meanings": [
+          "huruf; karakter"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "数字",
+      "reading": "すうじ",
+      "meaning": "angka, gambar"
+    },
+    {
+      "word": "文字",
+      "reading": "もじ",
+      "meaning": "huruf (alfabet), karakter"
+    },
+    {
+      "word": "漢字",
+      "reading": "かんじ",
+      "meaning": "kanji; karakter Tionghoa"
+    },
+    {
+      "word": "字引",
+      "reading": "じびき",
+      "meaning": "kamus"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "真一文字",
+      "reading": "まいちもんじ",
+      "meaning": "straight line",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一字千金",
+      "reading": "いちじせんきん",
+      "meaning": "word of great value",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "十字砲火",
+      "reading": "じゅうじほうか",
+      "meaning": "cross fire",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一字一句",
+      "reading": "いちじいっく",
+      "meaning": "word for word",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "不立文字",
+      "reading": "ふりゅうもんじ",
+      "meaning": "Buddhist revelation through intuitive discernment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "永字八法",
+      "reading": "えいじはっぽう",
+      "meaning": "Eight Principles of Yong",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "苗字帯刀",
+      "reading": "みょうじたいとう",
+      "meaning": "right to bear a surname and to wear a sword (during the Edo period)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "忍の一字",
+      "reading": "にんのいちじ",
+      "meaning": "patience is the only way",
+      "type": "proverb"
+    },
+    {
+      "word": "十字架を背負う",
+      "reading": "じゅうじかをせおう",
+      "meaning": "to have a cross to bear",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "名前を大文字で書いてください。",
+      "reading": null,
+      "indonesian": "Write your name in capitals.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "同社は赤字である。",
+      "reading": null,
+      "indonesian": "The company is in deficit.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "会社が赤字になる。",
+      "reading": null,
+      "indonesian": "The company is in deficit.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

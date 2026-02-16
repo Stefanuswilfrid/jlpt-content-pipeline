@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "受ける",
+    "reading": "うける",
+    "romaji": "ukeru",
+    "jlpt": "N4",
+    "frequency": 7750,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to receive",
+          "to get"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to catch (e.g. a ball)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to be struck by (wind, waves, sunlight, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to sustain (damage)",
+          "to incur (a loss)",
+          "to suffer (an injury)",
+          "to feel (influence)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to undergo (e.g. surgery)",
+          "to take (a test)",
+          "to accept (a challenge)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "reception (desk)"
+    },
+    {
+      "word": "受け取る",
+      "reading": "うけとる",
+      "meaning": "to receive"
+    },
+    {
+      "word": "享受",
+      "reading": "きょうじゅ",
+      "meaning": "enjoyment (of freedom, beauty, etc.)"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "生を受ける",
+      "reading": "せいをうける",
+      "meaning": "to be born",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

@@ -1,0 +1,55 @@
+{
+  "definition": {
+    "word": "軍隊",
+    "reading": "ぐんたい",
+    "romaji": "guntai",
+    "jlpt": "N3",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "armed forces",
+          "military",
+          "troops"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "軍",
+      "reading": "ぐん",
+      "meaning": "army"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "ナポレオンは軍隊をロシアに進めた。",
+      "reading": null,
+      "english": "Napoleon marched his armies into Russia.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ナポレオンの軍隊はモスクワに進軍した。",
+      "reading": null,
+      "english": "Napoleon's army has advanced to Moscow.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ナポレオンの軍隊は１８１５年にワーテルローの戦いに敗れた。",
+      "reading": null,
+      "english": "Napoleon's army lost the battle of Waterloo in 1815.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

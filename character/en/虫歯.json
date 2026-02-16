@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "虫歯",
+    "reading": "むしば",
+    "romaji": "mushiba",
+    "jlpt": "N3",
+    "frequency": 8250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "tooth decay",
+          "decayed tooth",
+          "dental cavity",
+          "dental caries"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "歯車",
+      "reading": "はぐるま",
+      "meaning": "gear"
+    },
+    {
+      "word": "歯",
+      "reading": "は",
+      "meaning": "tooth"
+    },
+    {
+      "word": "虫",
+      "reading": "むし",
+      "meaning": "insect"
+    },
+    {
+      "word": "歯磨き",
+      "reading": "はみがき",
+      "meaning": "dental brushing"
+    },
+    {
+      "word": "歯医者",
+      "reading": "はいしゃ",
+      "meaning": "dentist"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "どうも虫歯のようです。",
+      "reading": null,
+      "english": "I think I have a decayed tooth.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この歯が虫歯になっています。",
+      "reading": null,
+      "english": "This tooth is decayed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "母親は子どもの歯を虫歯から守ってやらなければならない。",
+      "reading": null,
+      "english": "A mother must protect her child's teeth from decay.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "虫歯はひとりでにぬけてしまった。",
+      "reading": null,
+      "english": "The decayed tooth came out on its own.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "虫歯は１本もありません。",
+      "reading": null,
+      "english": "I don't have any cavities.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "虫歯ができちゃって、冷たい物を食べるとしみるんだ。",
+      "reading": null,
+      "english": "Since I developed this cavity, my tooth has been really sensitive to heat and cold.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "definition": {
+    "word": "翻訳",
+    "reading": "ほんやく",
+    "romaji": "hon'yaku",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "terjemahan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "deciphering",
+          "decoding"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "translation"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "訳",
+      "reading": "わけ",
+      "meaning": "terjemahan"
+    },
+    {
+      "word": "通訳",
+      "reading": "つうやく",
+      "meaning": "interpretasi; penerjemah"
+    },
+    {
+      "word": "申し訳",
+      "reading": "もうしわけ",
+      "meaning": "permintaan maaf, alasan"
+    },
+    {
+      "word": "訳す",
+      "reading": "やくす",
+      "meaning": "untuk menerjemahkan"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

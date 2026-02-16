@@ -1,0 +1,94 @@
+{
+  "definition": {
+    "word": "運ぶ",
+    "reading": "はこぶ",
+    "romaji": "hakobu",
+    "jlpt": "N4",
+    "frequency": 2750,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "mengangkut",
+          "membawa"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to come",
+          "to go"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to use (a brush, chopsticks, etc.)",
+          "to move"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to carry out",
+          "to proceed with",
+          "to arrange"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'bu' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to go (well, etc.)",
+          "to proceed",
+          "to progress"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "latihan"
+    },
+    {
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "operasi, mengemudi"
+    },
+    {
+      "word": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "pengemudi (berdasarkan pekerjaan)"
+    },
+    {
+      "word": "運",
+      "reading": "うん",
+      "meaning": "keberuntungan, nasib baik"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "足を運ぶ",
+      "reading": "あしをはこぶ",
+      "meaning": "to go (to)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": []
+}

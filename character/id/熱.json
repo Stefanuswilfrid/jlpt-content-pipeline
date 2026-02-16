@@ -1,0 +1,100 @@
+{
+  "definition": {
+    "word": "熱",
+    "reading": "ねつ",
+    "romaji": "netsu",
+    "jlpt": "N4",
+    "frequency": 2250,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "demam",
+          "suhu tubuh"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "fever",
+          "temperature"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "suffix"
+        ],
+        "meanings": [
+          "zeal",
+          "passion",
+          "enthusiasm",
+          "mania",
+          "craze",
+          "rage"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "熱心",
+      "reading": "ねっしん",
+      "meaning": "antusiasme"
+    },
+    {
+      "word": "熱帯",
+      "reading": "ねったい",
+      "meaning": "daerah tropis"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "焦熱地獄",
+      "reading": "しょうねつじごく",
+      "meaning": "burning hell",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "頭寒足熱",
+      "reading": "ずかんそくねつ",
+      "meaning": "keeping the head cool and feet warm",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "熱を上げる",
+      "reading": "ねつをあげる",
+      "meaning": "to become enthusiastic",
+      "type": "idiom"
+    },
+    {
+      "word": "鉄は熱いうちに打て",
+      "reading": "てつはあついうちにうて",
+      "meaning": "strike while the iron is hot",
+      "type": "proverb"
+    },
+    {
+      "word": "鉄は熱いうちに鍛えよ",
+      "reading": "てつはあついうちにきたえよ",
+      "meaning": "strike while the iron is hot",
+      "type": "proverb"
+    },
+    {
+      "word": "目頭が熱くなる",
+      "reading": "めがしらがあつくなる",
+      "meaning": "to be moved to tears",
+      "type": "idiom"
+    },
+    {
+      "word": "喉元過ぎれば熱さを忘れる",
+      "reading": "のどもとすぎればあつさをわすれる",
+      "meaning": "danger past and God forgotten",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

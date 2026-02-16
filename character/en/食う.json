@@ -1,0 +1,253 @@
+{
+  "definition": {
+    "word": "食う",
+    "reading": "くう",
+    "romaji": "kuu",
+    "jlpt": "N3",
+    "frequency": 16250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to eat"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to live",
+          "to make a living",
+          "to survive"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to bite",
+          "to sting (as insects do)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to tease",
+          "to torment",
+          "to taunt",
+          "to make light of",
+          "to make fun of"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to encroach on",
+          "to eat into",
+          "to consume"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to defeat a superior",
+          "to threaten a position"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to consume time",
+          "to consume resources"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'u' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to receive something (usu. an unfavourable event)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "食べる",
+      "reading": "たべる",
+      "meaning": "to eat"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "霞を食う",
+      "reading": "かすみをくう",
+      "meaning": "to live on air",
+      "type": "idiom"
+    },
+    {
+      "word": "飯を食う",
+      "reading": "めしをくう",
+      "meaning": "to have a meal",
+      "type": "idiom"
+    },
+    {
+      "word": "冷や飯を食う",
+      "reading": "ひやめしをくう",
+      "meaning": "to depend on someone for food and lodging",
+      "type": "idiom"
+    },
+    {
+      "word": "粋が身を食う",
+      "reading": "すいがみをくう",
+      "meaning": "too much pleasure ruins a man (esp. in reference to spending too much time with geisha and prostitutes)",
+      "type": "proverb"
+    },
+    {
+      "word": "糟を食う",
+      "reading": "かすをくう",
+      "meaning": "to be scolded (mainly used theatrically)",
+      "type": "idiom"
+    },
+    {
+      "word": "臭い飯を食う",
+      "reading": "くさいめしをくう",
+      "meaning": "to go to prison",
+      "type": "idiom"
+    },
+    {
+      "word": "年食う",
+      "reading": "としくう",
+      "meaning": "to grow older (than expected)",
+      "type": "idiom"
+    },
+    {
+      "word": "年を食う",
+      "reading": "としをくう",
+      "meaning": "to grow older (than expected)",
+      "type": "idiom"
+    },
+    {
+      "word": "人を食う",
+      "reading": "ひとをくう",
+      "meaning": "to be insolent",
+      "type": "idiom"
+    },
+    {
+      "word": "芯を食う",
+      "reading": "しんをくう",
+      "meaning": "to get to the heart of the matter",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "帰り道で道草を食うんじゃないよ。",
+      "reading": null,
+      "english": "Don't fool around on your way home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ロールプレイングのテレビゲームは時間を食う。",
+      "reading": null,
+      "english": "Role-playing video games are time consuming.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "蓼食う虫も好き好き。",
+      "reading": null,
+      "english": "There is no accounting for tastes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この事業は金を食う。",
+      "reading": null,
+      "english": "This job eats money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "このエンジンが一番油を食う。",
+      "reading": null,
+      "english": "This engine consumes the most oil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "蓼食う虫も好き好き。",
+      "reading": null,
+      "english": "There is no accounting for tastes.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "蓼食う虫も好き好き。",
+      "reading": null,
+      "english": "Tastes differ.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "大魚は小魚を食う。",
+      "reading": null,
+      "english": "The great fish eat the small.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "帰り道で道草を食うんじゃないよ。",
+      "reading": null,
+      "english": "Don't fool around on your way home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "帰り道で道草を食うんじゃないよ。",
+      "reading": null,
+      "english": "Don't play around on your way back home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "帰り道で道草を食うんじゃないよ。",
+      "reading": null,
+      "english": "Don't play around on your way home.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

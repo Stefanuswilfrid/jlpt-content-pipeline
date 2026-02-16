@@ -1,0 +1,165 @@
+{
+  "definition": {
+    "word": "欠席",
+    "reading": "けっせき",
+    "romaji": "kesseki",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "ketidakhadiran",
+          "tidak hadir"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "欠陥",
+      "reading": "けっかん",
+      "meaning": "cacat, kesalahan, kekurangan"
+    },
+    {
+      "word": "座席",
+      "reading": "ざせき",
+      "meaning": "kursi"
+    },
+    {
+      "word": "欠ける",
+      "reading": "かける",
+      "meaning": "kurang"
+    },
+    {
+      "word": "欠点",
+      "reading": "けってん",
+      "meaning": "kesalahan, cacat, kelemahan"
+    },
+    {
+      "word": "客席",
+      "reading": "きゃくせき",
+      "meaning": "tempat duduk tamu"
+    },
+    {
+      "word": "出席",
+      "reading": "しゅっせき",
+      "meaning": "kehadiran"
+    },
+    {
+      "word": "席",
+      "reading": "せき",
+      "meaning": "sebuah tempat duduk"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "欠席裁判",
+      "reading": "けっせきさいばん",
+      "meaning": "trial in absentia",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君は昨日なぜ欠席したのか。",
+      "reading": null,
+      "indonesian": "Why were you absent yesterday?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は欠席の理由を説明しなければならない。",
+      "reading": null,
+      "indonesian": "You have to account for your absence.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は欠席の理由をどうやって説明しますか。",
+      "reading": null,
+      "indonesian": "How do you account for your absence?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "学生の半数は欠席している。",
+      "reading": null,
+      "indonesian": "Half of the students are absent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会議を欠席した理由をどう説明しますか。",
+      "reading": null,
+      "indonesian": "How do you account for your absence from the meeting?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "会を欠席した。",
+      "reading": null,
+      "indonesian": "I absented myself from the meeting.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そのパーティーは欠席しました。",
+      "reading": null,
+      "indonesian": "I was absent from the party.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "よかったよ。欠席者はひとりもいなくて。",
+      "reading": null,
+      "indonesian": "Good. No absentees.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "他に欠席者はいたの？",
+      "reading": null,
+      "indonesian": "Was anybody else absent?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "なぜ欠席したか理由を言いなさい。",
+      "reading": null,
+      "indonesian": "Tell me why he was absent.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "昨日はなぜ学校を欠席したのですか。",
+      "reading": null,
+      "indonesian": "Why were you absent from school yesterday?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "トムは欠席です。",
+      "reading": null,
+      "indonesian": "Tom is absent.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

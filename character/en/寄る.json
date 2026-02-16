@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "word": "寄る",
+    "reading": "よる",
+    "romaji": "yoru",
+    "jlpt": "N4",
+    "frequency": 22250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to approach",
+          "to draw near",
+          "to come near",
+          "to be close to"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to gather (in one place)",
+          "to come together",
+          "to meet"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to stop by (while on one's way to another place)",
+          "to drop by",
+          "to make a short visit"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to grow old",
+          "to grow high (number, etc.)"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to grow (wrinkly)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "秋の鹿は笛に寄る",
+      "reading": "あきのしかはふえによる",
+      "meaning": "people may bring about their demise for love",
+      "type": "proverb"
+    },
+    {
+      "word": "寄る年波には勝てない",
+      "reading": "よるとしなみにはかてない",
+      "meaning": "nobody can win against advancing age",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

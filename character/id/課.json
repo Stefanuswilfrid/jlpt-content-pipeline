@@ -1,0 +1,90 @@
+{
+  "definition": {
+    "word": "課",
+    "reading": "か",
+    "romaji": "ka",
+    "jlpt": "N3",
+    "frequency": 3750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "departemen",
+          "divisi"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun, used as a suffix"
+        ],
+        "meanings": [
+          "section (in an organization)",
+          "division",
+          "department"
+        ]
+      },
+      {
+        "pos": [
+          "counter"
+        ],
+        "meanings": [
+          "counter for lessons and chapters (of a book)"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "課程",
+      "reading": "かてい",
+      "meaning": "kursus, kurikulum"
+    },
+    {
+      "word": "課題",
+      "reading": "かだい",
+      "meaning": "subjek, tema, tugas"
+    },
+    {
+      "word": "科目",
+      "reading": "かもく",
+      "meaning": "(mata pelajaran) sekolah, kurikulum, kursus"
+    },
+    {
+      "word": "課税",
+      "reading": "かぜい",
+      "meaning": "perpajakan"
+    },
+    {
+      "word": "課長",
+      "reading": "かちょう",
+      "meaning": "manajer bagian"
+    },
+    {
+      "word": "日課",
+      "reading": "にっか",
+      "meaning": "pekerjaan sehari-hari, rutinitas harian"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "人事考課",
+      "reading": "じんじこうか",
+      "meaning": "merit (ability, efficiency) rating",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "もしもし、人事課ですか？",
+      "reading": null,
+      "indonesian": "Hello, is this the personnel department?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

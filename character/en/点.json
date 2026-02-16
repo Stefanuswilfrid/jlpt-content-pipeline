@@ -1,0 +1,93 @@
+{
+  "definition": {
+    "word": "点",
+    "reading": "ちょぼ",
+    "romaji": "chobo",
+    "jlpt": "N4",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "dot",
+          "point",
+          "mark"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "gidayū musicians"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "視点",
+      "reading": "してん",
+      "meaning": "point of view"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "目が点になる",
+      "reading": "めがてんになる",
+      "meaning": "to be stunned",
+      "type": "idiom"
+    },
+    {
+      "word": "画竜点睛",
+      "reading": "がりょうてんせい",
+      "meaning": "finishing touches",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "点数を稼ぐ",
+      "reading": "てんすうをかせぐ",
+      "meaning": "to score points with (a person)",
+      "type": "idiom"
+    },
+    {
+      "word": "点滴穿石",
+      "reading": "てんてきせんせき",
+      "meaning": "constant dripping wears away the stone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一点一画",
+      "reading": "いってんいっかく",
+      "meaning": "the dots of i's and the crosses of t's",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "点を稼ぐ",
+      "reading": "てんをかせぐ",
+      "meaning": "to score points with (a person)",
+      "type": "idiom"
+    },
+    {
+      "word": "万緑叢中紅一点",
+      "reading": "ばんりょくそうちゅうこういってん",
+      "meaning": "one red flower standing out in a sea of green vegetation",
+      "type": "proverb"
+    },
+    {
+      "word": "画竜点睛を欠く",
+      "reading": "がりょうてんせいをかく",
+      "meaning": "to be incomplete",
+      "type": "idiom"
+    },
+    {
+      "word": "一点一画もおろそかにしない",
+      "reading": "いってんいっかくもおろそかにしない",
+      "meaning": "always dot the i's and cross the t's",
+      "type": "proverb"
+    }
+  ],
+  "lessons": []
+}

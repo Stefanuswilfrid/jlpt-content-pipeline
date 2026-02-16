@@ -1,0 +1,224 @@
+{
+  "definition": {
+    "word": "点数",
+    "reading": "てんすう",
+    "romaji": "tensuu",
+    "jlpt": "N2",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "marks",
+          "points",
+          "score",
+          "grade",
+          "runs (baseball)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "number of items",
+          "number of articles"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "地点",
+      "reading": "ちてん",
+      "meaning": "spot"
+    },
+    {
+      "word": "回数",
+      "reading": "かいすう",
+      "meaning": "number of times"
+    },
+    {
+      "word": "頂点",
+      "reading": "ちょうてん",
+      "meaning": "vertex"
+    },
+    {
+      "word": "小数",
+      "reading": "しょうすう",
+      "meaning": "fraction (part of)"
+    },
+    {
+      "word": "整数",
+      "reading": "せいすう",
+      "meaning": "integer"
+    },
+    {
+      "word": "単数",
+      "reading": "たんすう",
+      "meaning": "single"
+    },
+    {
+      "word": "分数",
+      "reading": "ぶんすう",
+      "meaning": "fraction"
+    },
+    {
+      "word": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "weak point"
+    },
+    {
+      "word": "満点",
+      "reading": "まんてん",
+      "meaning": "perfect score"
+    },
+    {
+      "word": "無数",
+      "reading": "むすう",
+      "meaning": "innumerable"
+    },
+    {
+      "word": "採点",
+      "reading": "さいてん",
+      "meaning": "marking"
+    },
+    {
+      "word": "枚数",
+      "reading": "まいすう",
+      "meaning": "the number of flat things"
+    },
+    {
+      "word": "焦点",
+      "reading": "しょうてん",
+      "meaning": "focus"
+    },
+    {
+      "word": "複数",
+      "reading": "ふくすう",
+      "meaning": "plural"
+    },
+    {
+      "word": "重点",
+      "reading": "じゅうてん",
+      "meaning": "important point"
+    },
+    {
+      "word": "過半数",
+      "reading": "かはんすう",
+      "meaning": "majority"
+    },
+    {
+      "word": "算数",
+      "reading": "さんすう",
+      "meaning": "arithmetic"
+    },
+    {
+      "word": "終点",
+      "reading": "しゅうてん",
+      "meaning": "terminus"
+    },
+    {
+      "word": "回数券",
+      "reading": "かいすうけん",
+      "meaning": "coupon tickets"
+    },
+    {
+      "word": "偶数",
+      "reading": "ぐうすう",
+      "meaning": "even number"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "点数を稼ぐ",
+      "reading": "てんすうをかせぐ",
+      "meaning": "to score points with (a person)",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "ホッケーやサッカーでは点数はゴール数で数えられる。",
+      "reading": null,
+      "english": "In hockey and soccer, goals are counted as points.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは多少の点数はかせげるかもしれません。",
+      "reading": null,
+      "english": "You might just chalk up some brownie points.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはよい点数をとりましたか。",
+      "reading": null,
+      "english": "Did you get good marks?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "反応が早ければ点数が上がります。",
+      "reading": null,
+      "english": "You'll get brownie points if you respond quickly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "点数がよかったら生物学でＡがもらえるのよ。",
+      "reading": null,
+      "english": "If I get a good mark, I can pull off an A in biology.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ホッケーやサッカーでは点数はゴール数で数えられる。",
+      "reading": null,
+      "english": "In hockey and soccer, goals are counted as points.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたは多少の点数はかせげるかもしれません。",
+      "reading": null,
+      "english": "You might just chalk up some brownie points.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あなたはよい点数をとりましたか。",
+      "reading": null,
+      "english": "Did you get good marks?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "点数がよかったら生物学でＡがもらえるのよ。",
+      "reading": null,
+      "english": "If I get a good mark, I can pull off an A in biology.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "反応が早ければ点数が上がります。",
+      "reading": null,
+      "english": "You'll get brownie points if you respond quickly.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

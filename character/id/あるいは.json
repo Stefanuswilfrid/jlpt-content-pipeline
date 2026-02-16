@@ -1,0 +1,75 @@
+{
+  "definition": {
+    "word": "或いは",
+    "reading": "あるいは",
+    "romaji": "aruiha",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "conjunction"
+        ],
+        "meanings": [
+          "atau",
+          "mungkin"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "maybe",
+          "perhaps",
+          "possibly"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "some ... and others ...",
+          "sometimes ... and at other times ..."
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "その木は実がならないかあるいは小さな実しかつけない。",
+      "reading": null,
+      "indonesian": "The trees are barren or bear only small fruit.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらは一家族あるいは一族を表すものである。",
+      "reading": null,
+      "indonesian": "These figures are signs of a family or clan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ガスで調理しますか、あるいは電気ですか。",
+      "reading": null,
+      "indonesian": "Do you cook by gas or electricity?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "あるいはそれは本当かもしれない。",
+      "reading": null,
+      "indonesian": "Perhaps that's true.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    }
+  ]
+}

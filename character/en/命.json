@@ -1,0 +1,170 @@
+{
+  "definition": {
+    "word": "命",
+    "reading": "いのち",
+    "romaji": "inochi",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "life",
+          "life force"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "lifetime",
+          "lifespan"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "most important thing",
+          "foundation",
+          "core"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "生命",
+      "reading": "せいめい",
+      "meaning": "life"
+    },
+    {
+      "word": "命令",
+      "reading": "めいれい",
+      "meaning": "order"
+    },
+    {
+      "word": "懸命",
+      "reading": "けんめい",
+      "meaning": "eager"
+    },
+    {
+      "word": "寿命",
+      "reading": "じゅみょう",
+      "meaning": "lifespan"
+    },
+    {
+      "word": "人命",
+      "reading": "じんめい",
+      "meaning": "(human) life"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaning": "very hard",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "至上命令",
+      "reading": "しじょうめいれい",
+      "meaning": "unconditional command",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "安心立命",
+      "reading": "あんしんりつめい",
+      "meaning": "spiritual peace and enlightenment",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "一所懸命",
+      "reading": "いっしょけんめい",
+      "meaning": "very hard",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "佳人薄命",
+      "reading": "かじんはくめい",
+      "meaning": "beauties die young",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "絶体絶命",
+      "reading": "ぜったいぜつめい",
+      "meaning": "desperate situation with no escape",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "祥月命日",
+      "reading": "しょうつきめいにち",
+      "meaning": "anniversary of a person's death",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "易姓革命",
+      "reading": "えきせいかくめい",
+      "meaning": "revolution (change of dynasty) decreed by Heaven when the incumbent emperor is found lacking in moral virtue (old Chinese political thought)",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "可惜身命",
+      "reading": "あたらしんみょう",
+      "meaning": "valuing one's body and life",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "美人薄命",
+      "reading": "びじんはくめい",
+      "meaning": "beauty and fortune seldom go together",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "１００万人の人々がその戦争で命を落とした。",
+      "reading": null,
+      "english": "One million people lost their lives in the war.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その戦争では百万人もの人命が失われた。",
+      "reading": null,
+      "english": "One million people lost their lives in the war.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "１００万人の人々がその戦争で命を落とした。",
+      "reading": null,
+      "english": "One million people lost their lives in the war.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "１００万人の人々がその戦争で命を落とした。",
+      "reading": null,
+      "english": "A million people lost their lives during the war.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君は君自身の運命の主でもあります。",
+      "reading": null,
+      "english": "You are the master of your own destiny.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

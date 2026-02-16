@@ -1,0 +1,188 @@
+{
+  "definition": {
+    "word": "本来",
+    "reading": "ほんらい",
+    "romaji": "honrai",
+    "jlpt": "N2",
+    "frequency": 1250,
+    "entries": [
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "pada dasarnya",
+          "secara alami",
+          "menurut sifatnya"
+        ]
+      },
+      {
+        "pos": [
+          "adverb (fukushi)",
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "essentially",
+          "intrinsically",
+          "naturally",
+          "by nature",
+          "in (and of) itself"
+        ]
+      },
+      {
+        "pos": [
+          "nouns which may take the genitive case particle 'no'",
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "proper",
+          "rightful",
+          "legal",
+          "normal"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "本部",
+      "reading": "ほんぶ",
+      "meaning": "markas besar"
+    },
+    {
+      "word": "来日",
+      "reading": "らいにち",
+      "meaning": "datang ke Jepang, berkunjung ke Jepang"
+    },
+    {
+      "word": "標本",
+      "reading": "ひょうほん",
+      "meaning": "contoh, spesimen"
+    },
+    {
+      "word": "見本",
+      "reading": "みほん",
+      "meaning": "mencicipi"
+    },
+    {
+      "word": "出来上がり",
+      "reading": "できあがり",
+      "meaning": "selesai, siap"
+    },
+    {
+      "word": "基本",
+      "reading": "きほん",
+      "meaning": "dasar, pokok"
+    },
+    {
+      "word": "以来",
+      "reading": "いらい",
+      "meaning": "karena, mulai sekarang"
+    },
+    {
+      "word": "従来",
+      "reading": "じゅうらい",
+      "meaning": "sampai sekarang, sejauh ini, tradisional"
+    },
+    {
+      "word": "将来",
+      "reading": "しょうらい",
+      "meaning": "(di) masa depan; prospek"
+    },
+    {
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "tahun depan"
+    },
+    {
+      "word": "本人",
+      "reading": "ほんにん",
+      "meaning": "orang itu sendiri"
+    },
+    {
+      "word": "本当",
+      "reading": "ほんとう",
+      "meaning": "kebenaran, kenyataan"
+    },
+    {
+      "word": "資本",
+      "reading": "しほん",
+      "meaning": "dana, modal"
+    },
+    {
+      "word": "本格",
+      "reading": "ほんかく",
+      "meaning": "kepantasan, skala penuh"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "競争は本来悪いものではない。",
+      "reading": null,
+      "indonesian": "Competition is not by nature evil.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ワインは本来害にならない。",
+      "reading": null,
+      "indonesian": "Wine is not harmful in itself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これらの物体は本来は有害ではない。",
+      "reading": null,
+      "indonesian": "These substances are not poisonous in themselves.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは本来無害です。",
+      "reading": null,
+      "indonesian": "This is harmless in itself.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "この物質は本来は有毒ではない。",
+      "reading": null,
+      "indonesian": "This substance is not poisonous in itself.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "この詩は本来フランス語で書かれていた。",
+      "reading": null,
+      "indonesian": "This poem was originally written in French.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "人々は次第に本来の目的を見失うだろう。",
+      "reading": null,
+      "indonesian": "People will gradually lose sight of the original purpose.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "若者達は本来、親の考えに対して反発するものだ。",
+      "reading": null,
+      "indonesian": "It is quite natural for young people to rebel against their parents.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    }
+  ]
+}

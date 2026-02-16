@@ -1,0 +1,199 @@
+{
+  "definition": {
+    "word": "他",
+    "reading": "ほか",
+    "romaji": "hoka",
+    "jlpt": "N3",
+    "frequency": 5000,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "another place",
+          "some other place",
+          "somewhere else",
+          "outside"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "another (person or thing)",
+          "other",
+          "different",
+          "something else",
+          "someone else",
+          "the rest",
+          "et al."
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "nouns which may take the genitive case particle 'no'"
+        ],
+        "meanings": [
+          "beyond (one's expectations, imagination, etc.)",
+          "outside"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "except",
+          "but",
+          "other than",
+          "apart from"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "adverb (fukushi)"
+        ],
+        "meanings": [
+          "besides",
+          "in addition to",
+          "as well as",
+          "on top of"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "他人",
+      "reading": "たにん",
+      "meaning": "another person"
+    },
+    {
+      "word": "その他",
+      "reading": "そのほか",
+      "meaning": "the rest"
+    },
+    {
+      "word": "余所",
+      "reading": "よそ",
+      "meaning": "another place"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "他山の石",
+      "reading": "たざんのいし",
+      "meaning": "lesson learned from someone's else mistake",
+      "type": "idiom"
+    },
+    {
+      "word": "他人行儀",
+      "reading": "たにんぎょうぎ",
+      "meaning": "standing on formality",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "他力本願",
+      "reading": "たりきほんがん",
+      "meaning": "salvation by faith in Amitabha",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "他言無用",
+      "reading": "たごんむよう",
+      "meaning": "not a word to anyone",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "袖振り合うも他生の縁",
+      "reading": "そでふりあうもたしょうのえん",
+      "meaning": "even a chance meeting can lead to a deep bond",
+      "type": "proverb"
+    },
+    {
+      "word": "親の欲目と他人の僻目",
+      "reading": "おやのよくめとたにんのひがめ",
+      "meaning": "parents overvaluing their own children but looking down on others'",
+      "type": "proverb"
+    },
+    {
+      "word": "他人の不幸は蜜の味",
+      "reading": "たにんのふこうはみつのあじ",
+      "meaning": "the misfortune of others tastes as sweet as honey",
+      "type": "proverb"
+    },
+    {
+      "word": "兄弟は他人の始まり",
+      "reading": "きょうだいはたにんのはじまり",
+      "meaning": "even siblings turn into strangers",
+      "type": "proverb"
+    },
+    {
+      "word": "遠くの親類より近くの他人",
+      "reading": "とおくのしんるいよりちかくのたにん",
+      "meaning": "a neighbour is better than a relative living far",
+      "type": "proverb"
+    },
+    {
+      "word": "他山の石以て玉を攻むべし",
+      "reading": "たざんのいしもってたまをおさむべし",
+      "meaning": "one should learn from other's mistakes",
+      "type": "proverb"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "何か他の言い方はある？",
+      "reading": null,
+      "english": "Can it be phrased in another way?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "他の言い方ってある？",
+      "reading": null,
+      "english": "Can it be phrased in another way?",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "それをするより他はない。",
+      "reading": null,
+      "english": "I have nothing better to do.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "何か他の言い方はある？",
+      "reading": null,
+      "english": "Can it be phrased in another way?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何か他の言い方はある？",
+      "reading": null,
+      "english": "Can it be phrased another way?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何か他の言い方はある？",
+      "reading": null,
+      "english": "Is there another way to say it?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

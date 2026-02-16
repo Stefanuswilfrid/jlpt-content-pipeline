@@ -1,0 +1,142 @@
+{
+  "definition": {
+    "word": "使用",
+    "reading": "しよう",
+    "romaji": "shiyou",
+    "jlpt": "N3",
+    "frequency": 750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "penggunaan (sama dengan 使うこと (つかうこと))",
+          "penerapan",
+          "pekerjaan",
+          "pemanfaatan"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "大使",
+      "reading": "たいし",
+      "meaning": "duta besar"
+    },
+    {
+      "word": "費用",
+      "reading": "ひよう",
+      "meaning": "biaya, pengeluaran"
+    },
+    {
+      "word": "信用",
+      "reading": "しんよう",
+      "meaning": "kepercayaan, ketergantungan"
+    },
+    {
+      "word": "適用",
+      "reading": "てきよう",
+      "meaning": "menerapkan"
+    },
+    {
+      "word": "活用",
+      "reading": "かつよう",
+      "meaning": "konjugasi; penggunaan praktis"
+    },
+    {
+      "word": "引用",
+      "reading": "いんよう",
+      "meaning": "kutipan, referensi"
+    },
+    {
+      "word": "用いる",
+      "reading": "もちいる",
+      "meaning": "menggunakan, memanfaatkan"
+    },
+    {
+      "word": "用心",
+      "reading": "ようじん",
+      "meaning": "perawatan, pencegahan, kewaspadaan"
+    },
+    {
+      "word": "私用",
+      "reading": "しよう",
+      "meaning": "penggunaan pribadi, bisnis pribadi"
+    },
+    {
+      "word": "器用",
+      "reading": "きよう",
+      "meaning": "terampil, cekatan"
+    },
+    {
+      "word": "使う",
+      "reading": "つかう",
+      "meaning": "untuk digunakan"
+    },
+    {
+      "word": "利用",
+      "reading": "りよう",
+      "meaning": "penggunaan, pemanfaatan"
+    },
+    {
+      "word": "大使館",
+      "reading": "たいしかん",
+      "meaning": "kedutaan"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "空き部屋は三つありますが、どれも使用できません。",
+      "reading": null,
+      "indonesian": "We have three spare rooms, none of which can be used.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "機械は多量の電気を使用する。",
+      "reading": null,
+      "indonesian": "Machinery uses a lot of electricity.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "安全のため、使用前にプラスチック・ケースをはずして下さい。",
+      "reading": null,
+      "indonesian": "For safety purposes, remove the plastic casing before use.",
+      "lessonInfo": {
+        "level": "upper-intermediate"
+      }
+    },
+    {
+      "japanese": "ナイフを使用したら、必ず元の場所にお返しください。",
+      "reading": null,
+      "indonesian": "After using the knife, please be sure to put it back where it was.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それはナイフとしても使用されます。",
+      "reading": null,
+      "indonesian": "It can be used as a knife.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "それはときどき使用されるだけだった。",
+      "reading": null,
+      "indonesian": "It was used only from time to time.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

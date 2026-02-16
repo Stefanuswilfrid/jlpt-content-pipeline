@@ -1,0 +1,51 @@
+{
+  "definition": {
+    "word": "怠る",
+    "reading": "おこたる",
+    "romaji": "okotaru",
+    "jlpt": "N2",
+    "frequency": 14250,
+    "entries": [
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "transitive verb"
+        ],
+        "meanings": [
+          "to neglect",
+          "to be negligent in",
+          "to be neglectful of",
+          "to fail to do",
+          "to leave undone",
+          "to avoid (doing)",
+          "to shirk",
+          "to be unmindful of"
+        ]
+      },
+      {
+        "pos": [
+          "Godan verb with 'ru' ending",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to improve (of an illness)",
+          "to get better"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "怠ける",
+      "reading": "なまける",
+      "meaning": "to be lazy"
+    },
+    {
+      "word": "滞納",
+      "reading": "たいのう",
+      "meaning": "falling behind (with a payment)"
+    }
+  ],
+  "idioms": [],
+  "lessons": []
+}

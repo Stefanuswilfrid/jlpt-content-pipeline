@@ -1,0 +1,123 @@
+{
+  "definition": {
+    "word": "感じる",
+    "reading": "かんじる",
+    "romaji": "kanjiru",
+    "jlpt": "N3",
+    "frequency": 4250,
+    "entries": [
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to feel",
+          "to sense",
+          "to experience"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "transitive verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to be moved (by)",
+          "to be touched (by)",
+          "to be impressed (by)",
+          "to respond (to)"
+        ]
+      },
+      {
+        "pos": [
+          "Ichidan verb",
+          "intransitive verb"
+        ],
+        "meanings": [
+          "to become infected with (an illness)",
+          "to catch"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "being deeply moved emotionally"
+    },
+    {
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "thanks"
+    },
+    {
+      "word": "感心",
+      "reading": "かんしん",
+      "meaning": "admiration"
+    },
+    {
+      "word": "感覚",
+      "reading": "かんかく",
+      "meaning": "sense"
+    },
+    {
+      "word": "感激",
+      "reading": "かんげき",
+      "meaning": "deep emotion"
+    },
+    {
+      "word": "感情",
+      "reading": "かんじょう",
+      "meaning": "emotion"
+    },
+    {
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "impressions"
+    },
+    {
+      "word": "感ずる",
+      "reading": "かんずる",
+      "meaning": "to feel"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "金の必要を感じる。",
+      "reading": null,
+      "english": "I feel the want of money.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "休息をすれば必ず気分がさわやかに感じる。",
+      "reading": null,
+      "english": "If we were to rest a little, we would feel surely feel much more refreshed.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "何か感じる。",
+      "reading": null,
+      "english": "I feel something.",
+      "lessonInfo": {
+        "level": "elementary"
+      }
+    },
+    {
+      "japanese": "そうさハイハイハイハイ風を感じる事もできるのさ。",
+      "reading": null,
+      "english": "Oh, now I feel the wind blow hi, hi, hi, hi.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

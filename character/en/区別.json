@@ -1,0 +1,95 @@
+{
+  "definition": {
+    "word": "区別",
+    "reading": "くべつ",
+    "romaji": "kubetsu",
+    "jlpt": "N3",
+    "frequency": 4750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)",
+          "noun or participle which takes the aux. verb suru",
+          "transitive verb"
+        ],
+        "meanings": [
+          "distinction",
+          "differentiation",
+          "discrimination",
+          "difference"
+        ]
+      }
+    ]
+  },
+  "related": [
+    {
+      "word": "別れ",
+      "reading": "わかれ",
+      "meaning": "parting"
+    },
+    {
+      "word": "地区",
+      "reading": "ちく",
+      "meaning": "district"
+    },
+    {
+      "word": "差別",
+      "reading": "さべつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "分ける",
+      "reading": "わける",
+      "meaning": "to divide (into)"
+    },
+    {
+      "word": "区域",
+      "reading": "くいき",
+      "meaning": "area"
+    },
+    {
+      "word": "別荘",
+      "reading": "べっそう",
+      "meaning": "holiday house"
+    },
+    {
+      "word": "性別",
+      "reading": "せいべつ",
+      "meaning": "(distinction of) sex"
+    },
+    {
+      "word": "別々",
+      "reading": "べつべつ",
+      "meaning": "separate"
+    },
+    {
+      "word": "別",
+      "reading": "べつ",
+      "meaning": "distinction"
+    },
+    {
+      "word": "区分",
+      "reading": "くぶん",
+      "meaning": "division"
+    }
+  ],
+  "idioms": [],
+  "lessons": [
+    {
+      "japanese": "君は大麦と小麦の区別ができますか。",
+      "reading": null,
+      "english": "Can you tell wheat from barley?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "銀とブリキの区別がつきますか。",
+      "reading": null,
+      "english": "Can you distinguish silver from tin?",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

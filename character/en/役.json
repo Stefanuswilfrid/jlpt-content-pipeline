@@ -1,0 +1,88 @@
+{
+  "definition": {
+    "word": "役",
+    "reading": "えき",
+    "romaji": "eki",
+    "jlpt": "N3",
+    "frequency": null,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "war",
+          "campaign",
+          "battle"
+        ]
+      }
+    ]
+  },
+  "pitch": {
+    "pattern": 1,
+    "type": "atamadaka"
+  },
+  "related": [
+    {
+      "word": "役割",
+      "reading": "やくわり",
+      "meaning": "part"
+    },
+    {
+      "word": "主役",
+      "reading": "しゅやく",
+      "meaning": "leading part"
+    },
+    {
+      "word": "役所",
+      "reading": "やくしょ",
+      "meaning": "government office"
+    },
+    {
+      "word": "役者",
+      "reading": "やくしゃ",
+      "meaning": "actor"
+    },
+    {
+      "word": "役人",
+      "reading": "やくにん",
+      "meaning": "government official"
+    },
+    {
+      "word": "役目",
+      "reading": "やくめ",
+      "meaning": "duty"
+    },
+    {
+      "word": "重役",
+      "reading": "じゅうやく",
+      "meaning": "(company) director"
+    }
+  ],
+  "idioms": [
+    {
+      "word": "千両役者",
+      "reading": "せんりょうやくしゃ",
+      "meaning": "star (actor)",
+      "type": "yojijukugo"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "君はその結果を上役に知らせなくてはならない。",
+      "reading": null,
+      "english": "You must inform your superior of the results.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "君の計画は全然役に立たない。",
+      "reading": null,
+      "english": "Your plan is of no earthly use.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}

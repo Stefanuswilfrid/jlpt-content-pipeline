@@ -1,0 +1,114 @@
+{
+  "definition": {
+    "word": "旗",
+    "reading": "はた",
+    "romaji": "hata",
+    "jlpt": "N3",
+    "frequency": 1750,
+    "entries": [
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "flag"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "pataka (banner)"
+        ]
+      },
+      {
+        "pos": [
+          "noun (common) (futsuumeishi)"
+        ],
+        "meanings": [
+          "banner (administrative division of Inner Mongolia)"
+        ]
+      }
+    ]
+  },
+  "related": [],
+  "idioms": [
+    {
+      "word": "旗幟鮮明",
+      "reading": "きしせんめい",
+      "meaning": "making one's attitude (position, stand) clear",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "旗鼓堂々",
+      "reading": "きこどうどう",
+      "meaning": "with colors flying and band playing",
+      "type": "yojijukugo"
+    },
+    {
+      "word": "錦の御旗",
+      "reading": "にしきのみはた",
+      "meaning": "Imperial standard",
+      "type": "idiom"
+    }
+  ],
+  "lessons": [
+    {
+      "japanese": "旗色が悪いからこの辺でやめよう。",
+      "reading": null,
+      "english": "The odds are against me, so I think I'll quit now.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "旗を見失わないようにしろ。",
+      "reading": null,
+      "english": "Keep sight of the flag.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "フランスの国旗は青、白、赤です。",
+      "reading": null,
+      "english": "The French flag is blue, white and red.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "ネッドは旗をまっすぐに立てて持ってきた。",
+      "reading": null,
+      "english": "Ned held the flag erect.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "どの国にも国旗がある。",
+      "reading": null,
+      "english": "Every country has its national flag.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "その日、日の丸の旗がはためいていた。",
+      "reading": null,
+      "english": "On that day, Japanese flags were flying.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    },
+    {
+      "japanese": "これは日本の国旗です。",
+      "reading": null,
+      "english": "This is the flag of Japan.",
+      "lessonInfo": {
+        "level": "intermediate"
+      }
+    }
+  ]
+}
