@@ -1,242 +1,154 @@
-# Data Sources Breakdown
+# How one output file is generated (deep dive)
 
-## Overview
+This document explains **exactly** how we generate **one** output JSON file end-to-end.
 
-The pipeline uses **3 main external data sources**, all downloaded and processed locally:
+Example command:
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│ EXTERNAL SOURCES                                            │
-├─────────────────────────────────────────────────────────────┤
-│ 1. JMdict_e.xml      → Dictionary (definitions, idioms)    │
-│ 2. KANJIDIC2.xml     → Kanji metadata                      │
-│ 3. Tatoeba           → Example sentences                   │
-└─────────────────────────────────────────────────────────────┘
+```bash
+node scripts/japanese/build.js --word=手
 ```
 
-## Detailed Breakdown
+## Inputs involved
 
-### 1. **Definitions** (English meanings)
-**Source:** JMdict (Japanese-Multilingual Dictionary)
-**How:**
-```javascript
-// Line 310-348 in build.js
-const seqs = jmdict.wordLookup[jw.word];  // Lookup word
-const primary = jmdict.entries[primarySeq]; // Get entry
-const meanings = primary.senses[0].meanings; // Extract meanings
+- **JLPT word lists**
+  - `jlpt_files/en/n*.json` (drives which words to generate + JLPT level)
+  - `jlpt_files/id/n*.json` (Indonesian meanings override)
+- **Indices (built from downloads)**
+  - `indices/japanese/jmdict.json` (dictionary entries + lookup tables)
+  - `indices/japanese/kanjidic2.json` (kanji grades/JLPT metadata used for filtering)
+  - `indices/japanese/tatoeba.json` (optional; example sentences)
+- **Pitch data**
+  - `data/japanese/pitch-accents.json` (optional; pitch accent patterns)
+
+## What `jmdict.json` contains (the important structures)
+
+Built by `scripts/japanese/build-indices.js`, it stores:
+
+- **`entries[seq]`**: the parsed JMdict entry for a numeric sequence id
+  - includes: `kanji[]`, `readings[]`, `priority[]`, `senses[]`
+- **`wordLookup[word] -> seq[]`**: exact lookup by kanji spelling
+- **`readingLookup[reading] -> seq[]`**: exact lookup by kana reading
+- **`kanjiCharIndex[漢] -> seq[]`**: “reverse index” from a *single kanji character* to all entry seqs whose **kanji spellings** contain that character
+
+That last one is what makes **related words** fast.
+
+## Step-by-step generation for one word
+
+Below is the real order of operations inside `scripts/japanese/build.js`.
+
+### Step 1 — choose the target word(s)
+
+`build.js` loads all JLPT words, then applies flags:
+
+- `--level=N5` filters by JLPT level
+- `--word=手` filters down to a single word
+
+### Step 2 — lookup the word in JMdict (`wordLookup` / `readingLookup`)
+
+For the JLPT entry `jw.word`:
+
+1. Try: `jmdict.wordLookup[jw.word]`
+2. Fallback: `jmdict.readingLookup[jw.word]`
+
+This yields `seqs` (one or more matching JMdict entries).
+
+If there are multiple matches and the match came from reading-lookup, we pick a “primary” by best frequency/priority.
+
+Output fields decided here:
+
+- **`definition.word`**: `primary.kanji[0] || primary.readings[0]`
+- **`definition.reading`**: `primary.readings[0] || jw.reading`
+- **`definition.frequency`**: derived from JMdict `priority[]` via `freqRank()`
+
+### Step 3 — filter senses (clean/appropriate meanings)
+
+JMdict entries have multiple `senses` (each with meanings + tags).
+
+We apply `filterSenses(primary.senses, jw.jlpt)` from `scripts/japanese/enrich/filters.js`:
+
+- Drops senses tagged as vulgar/obsolete/archaic/etc (using `sense.misc`)
+- For beginners (N5/N4), also drops senses whose English gloss matches a “sensitive meaning” regex list
+- Caps number of senses kept based on JLPT level
+
+Then we convert senses to output `definition.entries[]`:
+
+- **English output**: `meanings` come from JMdict `sense.meanings`
+- **Indonesian output**: first sense’s `meanings` is overridden by `jlpt_files/id/*` (if present), remaining senses fall back to English meanings
+
+### Step 4 — pitch accent lookup (optional)
+
+We run `lookupPitch(reading)` (loaded once by `loadPitchDict()`).
+
+If pitch exists, we add:
+
+- `pitch: { pattern, type, ... }`
+
+If not, the field is omitted.
+
+### Step 5 — build “related words” (share-kanji candidates)
+
+This is *not* “scan all entries for strings that contain 手”.
+
+Instead:
+
+1. Take the chosen surface form `w` (e.g. `手`) and iterate its characters.
+2. For each character that is kanji:
+   - pull candidate seq ids from `jmdict.kanjiCharIndex[ch]`
+
+This yields a candidate set of JMdict entries that share at least one kanji character with the source word.
+
+Then we:
+
+- exclude the `seqs` that matched the source word (so we don’t recommend itself)
+- drop “noise” entries with `isNoise(entry, kanjidic2)` (very long, archaic, too-many-kanji, unknown-grade kanji, etc.)
+- score with `scoreRelated(...)` (shared kanji count + same JLPT + similar POS + similar frequency)
+- sort and keep top N
+- **JLPT filter**: `filterRelatedByJlpt(related, jw.jlpt, jlptMap)` keeps only related words that are in your JLPT lists and near the target level
+
+Finally, each related item is simplified to:
+
+```json
+{ "word": "...", "reading": "...", "meaning": "..." }
 ```
 
-**Example:**
-- Word: `食べる`
-- JMdict entry → `{ meanings: ["to eat"], pos: ["Ichidan verb"] }`
+For ID output we replace `meaning` with the Indonesian meaning if available.
 
----
+### Step 6 — extract idioms (JMdict misc-tagged entries)
 
-### 2. **Related Words** (words sharing kanji)
-**Source:** JMdict (same dictionary!)
-**How:**
-```javascript
-// Line 366-410 in build.js
-// Step 1: Find all words containing same kanji characters
-for (const ch of w) {
-  if (isKanji(ch) && jmdict.kanjiCharIndex[ch]) {
-    for (const s of jmdict.kanjiCharIndex[ch]) {
-      relSeqs.add(s); // Collect related word IDs
-    }
-  }
-}
+`extractIdioms(w, jmdict, sourceFreq, matched)` in `scripts/japanese/enrich/idioms.js`:
 
-// Step 2: Score by relevance (shared kanji, same JLPT level, similar POS)
-related = [...relSeqs]
-  .map(s => jmdict.entries[s])
-  .map(e => ({ entry: e, score: scoreRelated(...) }))
-  .sort((a,b) => b.score - a.score)
-  .slice(0, 20);
+- builds candidates mostly via `kanjiCharIndex` (fast)
+- also does a slower pass to find entries where the entry surface contains the full word (e.g. something like `...手...`)
+- keeps only entries where at least one sense has `sense.misc` including:
+  - `idiom`, `proverb`, `expression`, `yojijukugo`, `four-character idiom`
+- returns top 10 after scoring (contains full word + short length + priority tags)
+
+Each idiom item is output as:
+
+```json
+{ "word": "...", "reading": "...", "meaning": "...", "type": "idiom|proverb|yojijukugo|expression" }
 ```
 
-**Example:**
-- Word: `手` (hand)
-- Shares kanji with: `手紙` (letter), `切手` (stamp), `上手` (skillful)
-- All from JMdict!
+### Step 7 — build lessons (example sentences) (optional Tatoeba)
 
----
+If `indices/japanese/tatoeba.json` exists:
 
-### 3. **Idioms** (phrases, proverbs, 四字熟語)
-**Source:** JMdict (same dictionary again!)
-**How:**
-```javascript
-// scripts/japanese/enrich/idioms.js
-// Step 1: Search JMdict for entries containing the word
-for (const ch of word) {
-  if (jmdict.kanjiCharIndex[ch]) {
-    candidateSeqs.add(seq);
-  }
-}
+1. At startup, we build a one-pass index (`buildExamplesIndex`) for all target words:
+   - for each word, keep up to 15 sentences that contain it as a substring
+2. For the current word:
+   - `rawExamples = exIdx.get(jw.word) || []`
+   - `filterExamples(...)` keeps only:
+     - short sentences (≤ 30 chars)
+     - kanji difficulty appropriate to JLPT (uses `kanjidic2` grade)
 
-// Step 2: Filter only entries tagged as idioms
-if (!isIdiomaticExpression(entry)) continue;
+## Mental model (tl;dr)
 
-// Check for tags: 'idiom', 'proverb', 'yojijukugo', 'expression'
-for (const m of sense.misc) {
-  if (m.includes('idiom') || m.includes('proverb')) {
-    // This is an idiom!
-  }
-}
-```
+For one word:
 
-**Example:**
-- Word: `目` (eye)
-- JMdict has: `目が点になる` tagged as `idiomatic expression`
-- Result: `{ word: "目が点になる", meaning: "to be stunned", type: "idiom" }`
-
----
-
-### 4. **Lessons** (example sentences)
-**Source:** Tatoeba (sentence database)
-**How:**
-```javascript
-// Line 286-297 in build.js
-const tatoeba = loadJSON('indices/japanese/tatoeba.json');
-exIdx = buildExamplesIndex(tatoeba, words); // Pre-index sentences
-
-// Line 415-427
-const rawExamples = exIdx?.get(jw.word) ?? []; // Find sentences containing word
-const examples = filterExamples(rawExamples, jw.jlpt, kanjidic2); // Filter by difficulty
-
-const enLessons = examples.map(ex => ({
-  japanese: ex.japanese,
-  english: ex.english, // Translation from Tatoeba
-  lessonInfo: { level: analyzeSentenceLevel(...) }
-}));
-```
-
-**Example:**
-- Word: `あそこ`
-- Tatoeba has: 
-  - JP: `あそこに何もありません。`
-  - EN: `There's nothing there.`
-- Result: Paired sentence in output
-
----
-
-### 5. **Pitch Accent** (pronunciation patterns)
-**Source:** External pitch accent dictionary file
-**How:**
-```javascript
-// Line 250-252 in build.js
-loadPitchDict(DATA_DIR); // Loads pitch-accents.json
-
-// Line 363-364
-const pitch = lookupPitch(r); // Lookup reading
-```
-
-**File:** `data/japanese/pitch-accents.json`
-
----
-
-### 6. **Kanji Metadata** (for filtering/scoring)
-**Source:** KANJIDIC2
-**How:**
-```javascript
-// Line 247-248 in build.js
-const kanjidic2 = loadJSON('indices/japanese/kanjidic2.json');
-
-// Used in:
-// - Filtering related words (line 385: isNoise checks kanji grade)
-// - Filtering lessons (line 212: checks kanji grade for difficulty)
-// - Analyzing sentence level (line 57: checks kanji grades)
-```
-
-**Example:**
-- Kanji: `食`
-- KANJIDIC2: `{ grade: 2, jlpt: "N5", meanings: ["eat", "food"] }`
-- Used to filter out advanced kanji for N5 learners
-
----
-
-## Summary Table
-
-| Output Field | Source | Notes |
-|-------------|---------|-------|
-| **definition.meanings** | JMdict | English/multilingual meanings |
-| **definition.pos** | JMdict | Parts of speech tags |
-| **definition.frequency** | JMdict | Priority tags (news, ichi) |
-| **related** | JMdict | Words sharing kanji characters |
-| **idioms** | JMdict | Entries tagged as idiom/proverb |
-| **lessons** | Tatoeba | Japanese-English sentence pairs |
-| **pitch** | Pitch Dict | External pitch accent file |
-| **kanji metadata** | KANJIDIC2 | For filtering & scoring only |
-
-## Key Insight
-
-**80% of the data comes from JMdict!**
-- Definitions ✓
-- Related words ✓
-- Idioms ✓
-
-Only lessons (Tatoeba) come from a different source.
-
-This is why the system is so consistent and reliable - it's all from the same authoritative Japanese dictionary maintained by Jim Breen and the EDRDG group.
-
-## Data Flow Diagram
-
-```
-┌────────────────────────────────────────────────────────────┐
-│ DOWNLOAD PHASE                                             │
-│ download.js                                                │
-├────────────────────────────────────────────────────────────┤
-│ JMdict_e.xml.gz      → data/japanese/JMdict_e.xml         │
-│ kanjidic2.xml.gz     → data/japanese/kanjidic2.xml        │
-│ tatoeba files        → data/japanese/tatoeba/*.tsv        │
-│ (pitch-accents.json already exists)                        │
-└────────────────────────────────────────────────────────────┘
-                            ↓
-┌────────────────────────────────────────────────────────────┐
-│ INDEX BUILDING PHASE                                       │
-│ build-indices.js                                           │
-├────────────────────────────────────────────────────────────┤
-│ Parse XML → JSON with fast lookup tables:                 │
-│                                                            │
-│ jmdict.json:                                               │
-│   - wordLookup: { "食べる": [seq1, seq2] }               │
-│   - entries: { seq1: { kanji, readings, senses } }       │
-│   - kanjiCharIndex: { "食": [seq1, seq2, ...] }          │
-│                                                            │
-│ kanjidic2.json:                                            │
-│   - { "食": { grade: 2, jlpt: N5, meanings } }           │
-│                                                            │
-│ tatoeba.json:                                              │
-│   - [{ japanese: "...", english: "..." }, ...]            │
-└────────────────────────────────────────────────────────────┘
-                            ↓
-┌────────────────────────────────────────────────────────────┐
-│ GENERATION PHASE                                           │
-│ build.js                                                   │
-├────────────────────────────────────────────────────────────┤
-│ For each word in jlpt_files/:                             │
-│                                                            │
-│ 1. DEFINITION     ← jmdict.entries[seq]                   │
-│ 2. RELATED        ← jmdict.kanjiCharIndex + scoring       │
-│ 3. IDIOMS         ← jmdict.entries (filtered by tags)     │
-│ 4. LESSONS        ← tatoeba.json (filtered by difficulty) │
-│ 5. PITCH          ← pitch-accents.json                    │
-│                                                            │
-│ Output: dist/japanese/en/食べる.json                       │
-└────────────────────────────────────────────────────────────┘
-```
-
-## Why This Approach Works
-
-✅ **Consistent** - Same dictionary for multiple features  
-✅ **Authoritative** - JMdict is the gold standard  
-✅ **Offline** - All data processed locally  
-✅ **Fast** - Pre-built indices for quick lookup  
-✅ **Maintainable** - Updates when source data updates  
-✅ **License-friendly** - Creative Commons sources  
-
-## External URLs
-
-- **JMdict**: http://ftp.edrdg.org/pub/Nihongo/JMdict_e.gz
-- **KANJIDIC2**: http://www.edrdg.org/kanjidic/kanjidic2.xml.gz
-- **Tatoeba**: https://downloads.tatoeba.org/exports/
-- **Pitch Accents**: (pre-existing file, source not documented)
+1. **Find JMdict entry** by exact lookup table
+2. **Filter senses** for appropriateness
+3. **Compute pitch** by reading
+4. **Related** = “shares kanji characters” via `kanjiCharIndex`
+5. **Idioms** = “JMdict entries tagged idiom/proverb/etc” that contain the word
+6. **Lessons** = “Tatoeba sentences containing the word” filtered for JLPT difficulty
+7. **Write JSON** to `character/en` and `character/id`
